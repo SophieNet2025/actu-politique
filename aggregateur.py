@@ -2,6 +2,9 @@ import json, hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 import feedparser, yaml
+from langdetect import detect
+from googletrans import Translator
+translator = Translator()
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "feed.json"
@@ -20,21 +23,40 @@ def normalize_entry(entry, feed_title, feed_link):
         content_html = entry.content[0].value
     else:
         content_html = entry.get("summary", "") or ""
+        # Détection et traduction automatique (coller ce bloc entre 25 et 26)
+    try:
+        to_detect = (content_html or title)[:4000]  # on prend un échantillon
+        lang = detect(to_detect)
+    except Exception:
+        lang = "unknown"
+
+    # Si ce n’est ni du français ni de l’anglais, on traduit en français
+    if lang not in ("fr", "en") and (content_html or title):
+        try:
+            if content_html:
+                content_html = translator.translate(content_html, dest="fr").text
+            if title:
+                title = translator.translate(title, dest="fr").text
+            lang = "fr"
+        except Exception as e:
+            print("Traduction impossible pour un item:", e)
+    
     dt = entry.get("published_parsed") or entry.get("updated_parsed")
     date_iso = to_iso(dt) or datetime.now(timezone.utc).isoformat()
     authors = [{"name": entry.get("author")}] if entry.get("author") else []
     tags = [t.get("term") for t in entry.get("tags", []) if t.get("term")]
     h = hashlib.sha256((url or title).encode("utf-8")).hexdigest()
-    return {
-        "id": h,
-        "url": url,
-        "title": title,
-        "content_html": content_html,   # on garde le texte tel quel, FR ou EN
-        "date_published": date_iso,
-        "authors": authors,
-        "tags": tags,
-        "source": { "name": feed_title, "url": feed_link }
-    }
+return {
+    "id": h,
+    "url": url,
+    "title": title,
+    "content_html": content_html,  # on garde le texte tel quel, FR ou EN
+    "date_published": date_iso,
+    "authors": authors,
+    "tags": tags,
+    "source": { "name": feed_title, "url": feed_link },
+    "lang": lang
+}
 
 def load_sources():
     with open(SRC, "r", encoding="utf-8") as f:
