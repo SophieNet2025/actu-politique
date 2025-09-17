@@ -64,7 +64,21 @@ def load_sources():
     return data["feeds"]
 
 def fetch_feed(url):
-    return feedparser.parse(url)
+    try:
+        parsed = feedparser.parse(url)
+        # feedparser signale les anomalies via "bozo"
+        if getattr(parsed, "bozo", False) and hasattr(parsed, "bozo_exception"):
+            print(f"[WARN] Problème sur {url}: {parsed.bozo_exception}")
+        return parsed
+    except Exception as e:
+        # Si une source échoue, on log et on renvoie un "flux vide" pour continuer
+        print(f"[ERROR] Impossible de récupérer {url}: {e}")
+        class Empty: 
+            pass
+        empty = Empty()
+        empty.feed = {"title": url, "link": url}
+        empty.entries = []
+        return empty
 
 def build_feed(public_feed_url=""):
     feeds = load_sources()
