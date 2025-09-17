@@ -1,31 +1,15 @@
-name: build-and-publish-feed
-
-on:
-  schedule:
-    - cron: "*/30 * * * *"   # toutes les 30 minutes
-  workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - run: pip install -r requirements.txt
-      - run: python aggregateur.py
-      - name: Commit feed.json (pull-safe)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.json
-          git commit -m "update feed $(date -u
+- name: Commit feed.json (pull-safe)
+  shell: bash
+  run: |
+    set -e
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git add feed.json
+    DATE=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+    git commit -m "update feed ${DATE}" || echo "no changes"
+    git pull --rebase origin main || true
+    for i in 1 2 3; do
+      if git push; then break; fi
+      sleep 2
+      git pull --rebase origin main || true
+    done
