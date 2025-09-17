@@ -69,7 +69,7 @@ def build_feed(public_feed_url=""):
         "version": "https://jsonfeed.org/version/1.1",
         "title": "Actu – Politique internationale (agrégée)",
         "home_page_url": "https://example.org",
-        "feed_url": public_feed_url or "https://example.org/feed.json",
+        "feed_url": public_feed_url or "https://tonpseudo.github.io/actu-politique/feed.json",
         "items": items
     }
 
