@@ -5,25 +5,100 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "415fe5bcb85e33f1fc385988a209842153b12739be7e3f433968162f9e35da9b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2192932/taux-directeur-banque-canada-septembre-2025-baisse",
-      "title": "La Banque du Canada réduit son taux directeur à 2,5 %",
-      "content_html": "<p>Devant un contexte économique instable, la banque centrale réduit son taux directeur d&#x27;un quart de point.</p>",
-      "date_published": "2025-09-17T14:43:34+00:00",
+      "id": "3d8f2ddd19c4f7975513d95e7f5c2fe91acdb36fcdf281ec82f445a8b3b5ac72",
+      "url": "https://www.lemonde.fr/international/article/2025/09/17/en-indonesie-la-reponse-brutale-du-gouvernement-aux-protestations-semble-confirmer-les-craintes-qu-annoncait-le-retour-en-force-de-l-armee_6641556_3210.html",
+      "title": "En Indonésie, « la réponse brutale du gouvernement aux protestations semble confirmer les craintes qu’annonçait le retour en force de l’armée »",
+      "content_html": "Des manifestants fuient les gaz lacrymogènes lors d’une manifestation antigouvernementale, à Djakarta (Indonésie), le 29 août 2025.",
+      "date_published": "2025-09-17T15:30:08+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2ab0d5d0f1d8e8b52ff24220912a5c59f4244796c6eb94e521f821f620e6ab04",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/17/donald-trump-charlie-kirk-free-speech-nyt-cdc-rfk-epstein-us-politics-live-news-updates",
+      "title": "Former health official under RFK Jr: ‘I was fired for holding the line on scientific integrity’ – live updates",
+      "content_html": "<p>Susan Monarez, director of the Centers for Disease Control before she was fired in August, says she met with RFK JR twice in her 29-day tenure</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/sep/17/rfk-jr-senate-hearing-cdc-susan-monarez\">RFK Jr’s actions have greatly diminished US ability to respond to outbreaks, ousted CDC officials say</a></p></li></ul><p><strong>Donald Trump has claimed his administration has reached a deal with China to keep TikTok operating in the US, amid uncertainty over what shape the final agreement will take, with suggestions from the Chinese side that Beijing would retain control of the algorithm that powers the site’s video feed.</strong></p><p>“We have a deal on <a href=\"https://www.theguardian.com/technology/tiktok\">TikTok</a> ... We have a group of very big companies that want to buy it,” Trump said on Tuesday, without providing further details.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/17/donald-trump-charlie-kirk-free-speech-nyt-cdc-rfk-epstein-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:23:36+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now) and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US news",
+        "World news",
+        "Donald Trump",
+        "Media",
+        "New York Times",
+        "US politics",
+        "Republicans"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2a93ecf1e4568af649337e8be397c6fcdff4c9b08bc47fee60f22139a87d0a5b",
+      "url": "https://www.ukrinform.net/rubric-polytics/4037536-zelensky-metsola-discuss-eu-membership-talks-sanctions-and-civilian-safety.html",
+      "title": "Zelensky, Metsola discuss EU membership talks, sanctions, and civilian safety",
+      "content_html": "President Volodymyr Zelensky held a meeting with European Parliament President Roberta Metsola. The key topics of discussion included Ukraine’s EU membership, strengthening sanctions against Russia, and the construction of shelters.",
+      "date_published": "2025-09-17T15:23:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ca3039ca297df9099fb0a45afd8cd9a8f424aa34fd7d704aa365245efd0f5938",
+      "url": "https://www.bbc.com/news/articles/cx2pj502ev6o?at_medium=RSS&at_campaign=rss",
+      "title": "AI can forecast your future health – just like the weather",
+      "content_html": "An artificial intelligence model can predict the risk of more than 1,000 diseases, a team of scientists say.",
+      "date_published": "2025-09-17T15:19:58+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "26d12b2afbff92fd77d15ed87743d08b50b270dadce3eb52532653e95203d092",
+      "url": "https://www.liberation.fr/international/europe/en-images-dans-les-campagnes-moldaves-ceux-qui-restent-20250917_SQZ3GJWT7RAM5DAO3NSHWNGP34/",
+      "title": "EN IMAGES - Dans les campagnes moldaves, ceux qui restent",
+      "content_html": "«Peut-être voulais-je résoudre ce sentiment de perte en documentant le lieu de mon enfance, doté d’une nature merveilleuse, que les gens quittent sans cesse.» Maria Gutu, photographe moldave, a pris le contre-vent de la jeunesse de son pays : elle y est restée.",
+      "date_published": "2025-09-17T15:19:34+00:00",
+      "authors": [
+        {
+          "name": "Tess Raimbeau, photos Maria Gutu"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
     {
       "id": "3784c1cbdf8e50ebba8fab8b04fe8d99b17174b7ff32fe2f7aadf0ed60aff3e8",
       "url": "https://www.theguardian.com/politics/live/2025/sep/17/donald-trump-uk-state-visit-king-charles-windsor-politics-latest-news-updates-labour-keir-starmer",
-      "title": "King and senior royals host Donald Trump in Windsor for US president’s second state visit – UK politics live",
-      "content_html": "<p>On the first full day of his state visit to the UK, the US president will attend various events in Windsor before a state banquet</p><p>Lucy Powell has hit out at the “sexist” framing of her deputy Labour leadership campaign, with people claiming she and her rival, <a href=\"https://www.theguardian.com/politics/bridget-phillipson\">Bridget Phillipson</a>, are standing as “proxies” for two men, <strong>Aletha Adu</strong> reports.</p><p>Most of Donald Trump’s policies horrify progressives and leftwingers in Britain, including Labour party members and supporters, but Keir Starmer has said almost nothing critical about the Trump administration because he has taken a view that maintaining good relations with the White House is in the national interest.</p><p>I understand the UK government’s position of being pragmatic on the international stage and wanting to maintain a good relationship with the leader of the most powerful country in the world. Faced with a revanchist Russia, Europe’s security feels less certain now than at any time since the second world war. And the threat of even higher US tariffs is ever present.</p><p>But it’s also important to ensure our special relationship includes being open and honest with each other. At times, this means being a critical friend and speaking truth to power – and being clear that we reject the politics of fear and division. Showing President Trump why he must back Ukraine, not Putin. Making the case for taking the climate emergency seriously. Urging the president to stop the tariff wars that are tearing global trade apart. And putting pressure on him to do much more to end Israel’s horrific onslaught on Gaza, as only he has the power to bring Israel’s brazen and repeated violations of international law to an end.</p> <a href=\"https://www.theguardian.com/politics/live/2025/sep/17/donald-trump-uk-state-visit-king-charles-windsor-politics-latest-news-updates-labour-keir-starmer\">Continue reading...</a>",
-      "date_published": "2025-09-17T14:39:57+00:00",
+      "title": "Thousands of anti-Trump protesters march in London as king and senior royals host US president in Windsor – UK politics live",
+      "content_html": "<p>Anti-Trump protesters march in London as US president attend events in Windsor before a state banquet</p><p>Lucy Powell has hit out at the “sexist” framing of her deputy Labour leadership campaign, with people claiming she and her rival, <a href=\"https://www.theguardian.com/politics/bridget-phillipson\">Bridget Phillipson</a>, are standing as “proxies” for two men, <strong>Aletha Adu</strong> reports.</p><p>Most of Donald Trump’s policies horrify progressives and leftwingers in Britain, including Labour party members and supporters, but Keir Starmer has said almost nothing critical about the Trump administration because he has taken a view that maintaining good relations with the White House is in the national interest.</p><p>I understand the UK government’s position of being pragmatic on the international stage and wanting to maintain a good relationship with the leader of the most powerful country in the world. Faced with a revanchist Russia, Europe’s security feels less certain now than at any time since the second world war. And the threat of even higher US tariffs is ever present.</p><p>But it’s also important to ensure our special relationship includes being open and honest with each other. At times, this means being a critical friend and speaking truth to power – and being clear that we reject the politics of fear and division. Showing President Trump why he must back Ukraine, not Putin. Making the case for taking the climate emergency seriously. Urging the president to stop the tariff wars that are tearing global trade apart. And putting pressure on him to do much more to end Israel’s horrific onslaught on Gaza, as only he has the power to bring Israel’s brazen and repeated violations of international law to an end.</p> <a href=\"https://www.theguardian.com/politics/live/2025/sep/17/donald-trump-uk-state-visit-king-charles-windsor-politics-latest-news-updates-labour-keir-starmer\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:19:16+00:00",
       "authors": [
         {
           "name": "Andrew Sparrow"
@@ -58,29 +133,614 @@
       "lang": "en"
     },
     {
-      "id": "2ab0d5d0f1d8e8b52ff24220912a5c59f4244796c6eb94e521f821f620e6ab04",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/17/donald-trump-charlie-kirk-free-speech-nyt-cdc-rfk-epstein-us-politics-live-news-updates",
-      "title": "Fired health official testifies to Senate committee about chaos in RFK Jr’s department – live",
-      "content_html": "<p>Susan Monarez was director of the Centers for Disease Control before she was fired in August</p><p><strong>Donald Trump has claimed his administration has reached a deal with China to keep TikTok operating in the US, amid uncertainty over what shape the final agreement will take, with suggestions from the Chinese side that Beijing would retain control of the algorithm that powers the site’s video feed.</strong></p><p>“We have a deal on <a href=\"https://www.theguardian.com/technology/tiktok\">TikTok</a> ... We have a group of very big companies that want to buy it,” Trump said on Tuesday, without providing further details.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/17/donald-trump-charlie-kirk-free-speech-nyt-cdc-rfk-epstein-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-17T14:38:43+00:00",
+      "id": "84f51d5a3d3bdbaafe2d686c7390e998bca7c575c50ccc5506ffb4be42ebff16",
+      "url": "https://www.theguardian.com/us-news/2025/sep/17/rfk-jr-senate-hearing-cdc-susan-monarez",
+      "title": "RFK Jr’s actions have greatly diminished US ability to respond to outbreaks, ousted CDC officials say",
+      "content_html": "<p>Former officials testify before US Senate, saying the CDC under Kennedy is ‘supporting policies not based in science’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/sep/17/donald-trump-charlie-kirk-free-speech-nyt-cdc-rfk-epstein-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p>Actions taken by <a href=\"https://www.theguardian.com/us-news/robert-f-kennedy-jr\">Robert F Kennedy Jr</a> under the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> have greatly diminished the ability of the US to respond to outbreaks and infectious disease threats, according to recently ousted officials with the US Centers for Disease Control and Prevention (CDC).<br /><br />\n The two former top officials testified at a hearing on Wednesday before the Senate HELP (Health, Education, Labor and Pensions) committee.<br /><br />\n Susan Monarez, the CDC director chosen by Kennedy, was fired after less than a month. Debra Houry, chief medical officer at the CDC, resigned after serving under six CDC directors during both Republican and Democratic administrations.<br /><br />\n On the morning of 25 August, Kennedy demanded that Monarez “commit in advance to approving every ACIP recommendation, regardless of the scientific evidence”, she testified. He also directed her to dismiss career officials responsible for vaccine policy without cause, she said.<br /><br />\n “He said if I was unwilling to do both, I should resign. I responded that I could not pre-approve recommendations without reviewing the evidence, and I had no basis to fire scientific experts,” Monarez believes that’s the true reason she was fired, she said.<br /><br />\n The CDC’s vaccine advisory committee, ACIP, which has been replaced with Kennedy’s handpicked advisers, will meet on Thursday and Friday.<br /><br />\n “Based on what I observed during my tenure, there is a real risk that recommendations could be made restricting access to vaccines for children and others in need, without rigorous scientific review. With no permanent CDC director in place, those recommendations could be adopted,” Monarez said.<br /><br />\n “The stakes are not theoretical. We already have seen the largest measles outbreak in more than 30 years, which claimed the lives of two children. If vaccine protections are weakened, preventable diseases will return.”<br /><br />\n Also on 25 August, Monarez said Kennedy told her “the childhood vaccine schedule would be changing starting in September, and I needed to be on board with it”. She said Kennedy had the support of the Trump White House, with Kennedy claiming to her that “he spoke to the President every day about changing the childhood vaccine schedule”.<br /><br />\n Debra Houry also testified to seeing political interference.<br /><br />\n “I resigned because CDC leaders were reduced to rubber stamps, supporting policies not based in science, and putting American lives at risk. Secretary Kennedy censored CDC science, politicized its processes and stripped leaders of independence,” Houry said.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/17/rfk-jr-senate-hearing-cdc-susan-monarez\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:14:03+00:00",
       "authors": [
         {
-          "name": "Shrai Popat (now) and Tom Ambrose (earlier)"
+          "name": "Melody Schreiber"
         }
       ],
       "tags": [
         "Trump administration",
+        "Robert F Kennedy Jr",
         "US news",
-        "World news",
-        "Donald Trump",
-        "Media",
-        "New York Times",
-        "US politics",
-        "Republicans"
+        "Health",
+        "Infectious diseases",
+        "US politics"
       ],
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "32ba3a826281fa61456bc97799888766c7132043bfef984b7ac55e28590966a7",
+      "url": "https://www.timesofisrael.com/woman-acquitted-of-alleged-2024-assault-on-environment-minister-idit-silman/",
+      "title": "Woman acquitted of alleged 2024 assault on Environment Minister Idit Silman",
+      "content_html": "<p>Judge says Silman 'had difficulty giving reasonable version' of events,' slams police for 'rushing to draw conclusions' and questioning suspect Yarden Mann on her political views</p>\n<p>The post <a href=\"https://www.timesofisrael.com/woman-acquitted-of-alleged-2024-assault-on-environment-minister-idit-silman/\">Woman acquitted of alleged 2024 assault on Environment Minister Idit Silman</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/DUAL-8-1024x640.jpeg\" title=\"Woman acquitted of alleged 2024 assault on Environment Minister Idit Silman\" width=\"160\" /></figure>",
+      "date_published": "2025-09-17T15:11:45+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Israel Police",
+        "Idit Silman",
+        "Rehovot"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9705816db64a82913613779d2aba72b1d28c9bdca604fac7bec302579b5cfa15",
+      "url": "https://www.theguardian.com/world/2025/sep/17/how-the-eus-far-right-has-seized-on-charlie-kirks-killing",
+      "title": "How the EU’s far right has seized on Charlie Kirk’s killing",
+      "content_html": "<p>Leaders from Orbán to Le Pen have framed the shooting as evidence of persecution – a strategy that experts say could further normalise extremism across the continent</p><p><em>• </em><a href=\"https://www.theguardian.com/commentisfree/2018/mar/22/this-is-europe-sign-up-guardian-email-updates\"><em>Don’t get This Is Europe delivered to your inbox? Sign up here</em></a></p><p>Before his fatal shooting, few if any of the leaders of Europe’s resurgent far right had so much as mentioned the name of Charlie Kirk. Since last week, the propaganda potential of the <a href=\"https://www.theguardian.com/us-news/charlie-kirk-shooting\">conservative US activist’s killing</a> has escaped none of them.</p><p>Kirk, a rising star of Donald Trump’s Maga movement, was <a href=\"https://www.theguardian.com/us-news/2025/sep/10/charlie-kirk-shot-utah\">hit in the neck by a single bullet</a> as he addressed students in Utah on 10 September. A 22-year-old suspect, Tyler Robinson, <a href=\"https://www.theguardian.com/us-news/2025/sep/16/charlie-kirk-suspect-texts-evidence\">has been charged</a>, but his alleged motives remain unclear.</p> <a href=\"https://www.theguardian.com/world/2025/sep/17/how-the-eus-far-right-has-seized-on-charlie-kirks-killing\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:09:29+00:00",
+      "authors": [
+        {
+          "name": "Jon Henley, Europe correspondent"
+        }
+      ],
+      "tags": [
+        "World news",
+        "Europe",
+        "Charlie Kirk shooting",
+        "US news",
+        "The far right"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7a452034f4e7ee83ca942c92c6a07b08f667a4617c560ef2a8440c0d609fd8de",
+      "url": "https://www.lemonde.fr/international/live/2025/09/17/en-direct-guerre-en-ukraine-cent-dix-sept-combats-recenses-entre-forces-russes-et-ukrainiennes-mercredi-selon-l-etat-major-ukrainien_6641122_3210.html",
+      "title": "En direct, guerre en Ukraine : cent dix-sept combats recensés entre forces russes et ukrainiennes mercredi, selon l’état-major ukrainien",
+      "content_html": "Des militaires d’une unité de défense aérienne ukrainienne observent le ciel sur la ligne de front, dans l’oblast de Kharkiv (Ukraine), le 15 septembre 2025.",
+      "date_published": "2025-09-17T15:08:31+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ae27940513ca096dfa31a5495eead866c28b0c901233951d6aef9005f81cf118",
+      "url": "https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates",
+      "title": "UN warns of ‘grave’ concerns for fuel and food in famine-hit northern Gaza – Middle East crisis live",
+      "content_html": "<p>Food and supplies running out in northern Gaza after Israel closed only crossing, UN says</p><p>The <strong>Israeli</strong> army said it has struck more than 150 targets in <strong>Gaza</strong> <strong>City</strong> since launching a major ground offensive on the <strong>Gaza</strong> <strong>Strip</strong>’s main urban hub early on Tuesday.</p><p>“Over the past two days, the [Israeli air force] and artillery corps troops struck over 150 terror targets throughout Gaza City in support of the manoeuvring troops in the area,” the military said in a statement issued on Wednesday, reports Agence France-Presse (AFP).</p><p>No one can fail to be distressed by the devastating impact the war has had on the children of Gaza, and I cannot imagine the fear and anguish their families have endured. It is a soul-destroying situation that compels us to act.</p><p>Every child deserves the chance to heal, to play, to simply be able to dream again. These young patients have witnessed horrors no child should ever see, but this marks the start of their journey towards recovery.</p><p>In Gaza, where the healthcare system has been decimated and hospitals are no longer functioning, there are severely ill children unable to get the medical care they need to survive.</p><p>As we welcome the first group of children to the UK for urgent treatment, their arrival reflects our determined commitment to humanitarian action and the power of international cooperation.</p> <a href=\"https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:07:21+00:00",
+      "authors": [
+        {
+          "name": "Tom Ambrose (now); Amy Sedghi and Vicky Graham (earlier)"
+        }
+      ],
+      "tags": [
+        "Gaza",
+        "Israel",
+        "Israel-Gaza war",
+        "Middle East and north Africa",
+        "Palestinian territories",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "806ce882e5a1ac985f35ea64eec598305fb668585f810e968bbc4375c2145de6",
+      "url": "https://www.dw.com/en/kenya-fraud-scandal-robs-millions-of-health-care-pensions/a-73857794?maca=en-rss-en-all-1573-rdf",
+      "title": "Kenya: Fraud scandal robs millions of health care, pensions",
+      "content_html": "Kenya's pension and health insurance systems were meant to bring people dignity in old age. But fraud, delays and broken promises have left retirees and patients paying with their savings — and even their lives.",
+      "date_published": "2025-09-17T15:07:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "103001b999362be5609835770effd722b53341fdcad10fdfa2e6f911fb755741",
+      "url": "https://www.elmundo.es/internacional/2025/09/17/68cac712e9cf4aa2478b4587.html",
+      "title": "Qu'est-ce qu'un génocide?",
+      "content_html": "Il est très difficile de prouver qu'il y a l'intentionnalité derrière les actes de l'agresseur.Ce processus peut prendre plusieurs années, également entravé par les débats juridiques et le refus des parties intéressées",
+      "date_published": "2025-09-17T15:06:30+00:00",
+      "authors": [
+        {
+          "name": "Lara Villalón"
+        }
+      ],
+      "tags": [
+        "Franja de Gaza",
+        "ONU",
+        "Israel",
+        "Palestina"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b5f6bb91a4c05f8161ba90d6bd616a263e22c223d323211a77ff800241f83973",
+      "url": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
+      "title": "In pictures: US President Donald Trump on second state to UK",
+      "content_html": "President Trump greeted by the King and Queen and other senior royals at Windsor Castle.",
+      "date_published": "2025-09-17T15:04:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "67cd450e25f7f31b1a1635078bc71ca7bd2ad8845725f049772267e34017e452",
+      "url": "https://elpais.com/internacional/2025-09-17/la-presidenta-del-parlamento-europeo-pide-a-ucrania-avances-en-sus-reformas-para-la-integracion-en-la-ue.html",
+      "title": "Le président du Parlement européen demande aux progrès de l'Ukraine dans leurs réformes d'intégration dans l'UE",
+      "content_html": "Le président du Parlement européen, Roberta Metsola, accompagné du porte-parole de l'Ukraine Rada, Ruslan Stefanchuk, ce mercredi à Kiev.",
+      "date_published": "2025-09-17T15:01:32+00:00",
+      "authors": [
+        {
+          "name": "Luis De Vega Hernández"
+        }
+      ],
+      "tags": [
+        "Guerra de Rusia en Ucrania",
+        "Roberta Metsola",
+        "Ucrania",
+        "Rusia",
+        "Guerra",
+        "Conflictos",
+        "Unión Europea",
+        "OTAN",
+        "Ataques militares",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Europa",
+        "Política"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e885b37d5e1c7202ec53b902f56a8a776169e4955be0fa9c70b6be90b458f981",
+      "url": "https://www.aljazeera.com/sports/liveblog/2025/9/17/live-liverpool-vs-atletico-madrid-uefa-champions-league?traffic_source=rss",
+      "title": "LIVE: Liverpool vs Atletico Madrid – UEFA Champions League",
+      "content_html": "Follow our live build-up with breaking team news ahead of our full text commentary stream of the Anfield football match.",
+      "date_published": "2025-09-17T15:00:29+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2dd780dd9fb5b118c91785f3f0c9dbab9f047b85e5124ed8fcd64c0412bfd9c9",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/18/sydney-rental-bond-withheld-after-eviction-without-cause-tenant-challenged-it-won",
+      "title": "When Ziggy’s bond was withheld after eviction without cause from his Sydney rental, he challenged it – and won",
+      "content_html": "<p>Advocates say it should be easier to dispute bond claims, as tenants in Australia’s toughest rental markets are increasingly losing their deposits</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ziggy Tow and his housemates thought they had had enough trouble after their property manager evicted them without grounds and listed their inner-Sydney home for an extra $300 a week.</p><p>Then the property manager claimed back all of the $3,400 they paid in bond to cover cleaning and repair fees.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/18/sydney-rental-bond-withheld-after-eviction-without-cause-tenant-challenged-it-won\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:00:19+00:00",
+      "authors": [
+        {
+          "name": "Luca Ittimani"
+        }
+      ],
+      "tags": [
+        "Renting",
+        "Housing",
+        "Australia news",
+        "Victoria",
+        "New South Wales",
+        "Queensland"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "103132d82635cf1fab9224ff25a549d6b5e1f3cf5454d9ed73460a4c7bd94ede",
+      "url": "https://www.theguardian.com/environment/2025/sep/17/trump-golf-course-in-scotland-accused-of-breaching-sewage-limits",
+      "title": "Trump golf course in Scotland accused of breaching sewage limits",
+      "content_html": "<p>Exclusive: Firm that runs Aberdeenshire resort says it is ‘categorically wrong’ to suggest it has caused environmental damage</p><p>Donald Trump’s Aberdeenshire golf course has breached sewage contamination limits 14 times since 2019, documents reveal.</p><p>The 36-hole golf course, one of two that Trump owns in Scotland, also has a five-star hotel, a whisky bar and two restaurants. Trump International Golf Links, Scotland has a private sewage system that treats wastewater before releasing it into the ground by soaking it through gravel beds in raised filter mounds.</p> <a href=\"https://www.theguardian.com/environment/2025/sep/17/trump-golf-course-in-scotland-accused-of-breaching-sewage-limits\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:00:18+00:00",
+      "authors": [
+        {
+          "name": "Helena Horton Environment reporter"
+        }
+      ],
+      "tags": [
+        "Environment",
+        "Scotland",
+        "Donald Trump",
+        "Pollution",
+        "UK news",
+        "US news",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a0014b20ec860f4816d06b8ba96ea3878295afd8cad7575b3c22e0f3c3bf294",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/18/albanese-urged-to-end-double-standard-on-israel-after-un-commission-finds-genocide-occurring-in-gaza",
+      "title": "Albanese urged to end ‘double standard’ on Israel after UN commission finds genocide occurring in Gaza",
+      "content_html": "<p>Human rights experts and crossbench politicians call on Labor to ‘put its money where its mouth is’ and apply similar sanctions on Israel as on Russia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia must stop applying “double standards” to Israel on alleged war crimes and uphold the global rules-based order, legal experts warn, as pressure piles on the Albanese government to act decisively in response to a UN commission’s <a href=\"https://www.theguardian.com/world/2025/sep/16/israel-committed-genocide-in-gaza-says-un-inquiry\">findings that Israel is committing genocide</a> in Gaza.</p><p>The <a href=\"https://www.theguardian.com/world/unitednations\">United Nations</a> independent international commission of inquiry, which does not speak on behalf of the UN as a whole, found on Tuesday that “genocide is occurring in Gaza and is continuing to occur”, according to its chair, Navi Pillay.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/18/albanese-urged-to-end-double-standard-on-israel-after-un-commission-finds-genocide-occurring-in-gaza\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:00:17+00:00",
+      "authors": [
+        {
+          "name": "Sarah Basford Canales and Krishani Dhanji"
+        }
+      ],
+      "tags": [
+        "Australian foreign policy",
+        "Gaza",
+        "Israel-Gaza war",
+        "Australian politics",
+        "Anthony Albanese",
+        "United Nations",
+        "Palestinian territories",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4120d99781f4c4a9728a2801c99bb9234265997dd4a07855da11b4fe44981266",
+      "url": "https://www.theguardian.com/australia-news/2025/sep/18/labors-2035-emissions-target-a-sliding-doors-moment-as-global-heating-goal-hangs-by-a-thread",
+      "title": "Labor’s 2035 emissions target a ‘sliding doors’ moment for future generations",
+      "content_html": "<p>Australia must lead other nations in committing to 1.5C pathway for safety, security, prosperity and the environment, experts say</p><p>Leading climate advocates have warned the Australian government’s decision on a 2035 emissions reduction will be a historic “sliding doors moment” for the country, with an international goal to keep global heating to 1.5C now hanging by a thread.</p><p>The prime minister, Anthony Albanese, is expected to announce a target range on Thursday after a scheduled morning cabinet meeting before formally submitting it to the UN later this month.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/18/labors-2035-emissions-target-a-sliding-doors-moment-as-global-heating-goal-hangs-by-a-thread\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:00:17+00:00",
+      "authors": [
+        {
+          "name": "Graham Readfearn and Adam Morton"
+        }
+      ],
+      "tags": [
+        "Australian politics",
+        "Australia news",
+        "Climate science",
+        "Greenhouse gas emissions",
+        "Environment",
+        "Climate crisis"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2f77b8794500db15fa0dd3a5a798e02d0777b2c933c8d47533535440673e0b59",
+      "url": "https://www.theguardian.com/science/2025/sep/17/new-ai-tool-can-predict-a-persons-risk-of-more-than-1000-diseases-say-experts",
+      "title": "New AI tool can predict a person’s risk of more than 1,000 diseases, say experts",
+      "content_html": "<p>Delphi-2M uses diagnoses, ‘medical events’ and lifestyle factors to create forecasts for next decade and beyond</p><p>Scientists have developed a new artificial intelligence tool that can predict your personal risk of more than 1,000 diseases, and forecast changes in health a decade in advance.</p><p>The generative AI tool was custom-built by experts from the European Molecular Biology Laboratory (EMBL), the German Cancer Research Centre and the University of Copenhagen, using algorithmic concepts similar to those used in large language models (LLMs).</p> <a href=\"https://www.theguardian.com/science/2025/sep/17/new-ai-tool-can-predict-a-persons-risk-of-more-than-1000-diseases-say-experts\">Continue reading...</a>",
+      "date_published": "2025-09-17T15:00:16+00:00",
+      "authors": [
+        {
+          "name": "Andrew Gregory Health editor"
+        }
+      ],
+      "tags": [
+        "Medical research",
+        "Artificial intelligence (AI)",
+        "Health",
+        "Cancer",
+        "Heart disease",
+        "Diabetes",
+        "Science",
+        "Computing",
+        "Technology",
+        "Europe",
+        "World news",
+        "Society"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e20a4612b11159a772fb6211f18080b250644adb697b7394b1bf0a7c7cbebd5d",
+      "url": "https://www.lemonde.fr/afrique/article/2025/09/17/en-libye-la-turquie-exerce-une-influence-croissante_6641552_3212.html",
+      "title": "En Libye, la Turquie exerce une influence croissante",
+      "content_html": "Le premier ministre du gouvernement d’union nationale (GNU) libyen basé à Tripoli, Abdulhamid Dbeibah (à gauche), en compagnie du président turc, Recep Tayyip Erdogan, à Istanbul, le 1er août 2025.",
+      "date_published": "2025-09-17T15:00:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "91987f09a08fb0719e6960994134cf28348f355ade771bbcb376a62d9f374064",
+      "url": "https://www.bbc.com/news/articles/cvgr4nj7405o?at_medium=RSS&at_campaign=rss",
+      "title": "EU proposes curbs on trade with Israel over Gaza war",
+      "content_html": "Despite the forceful language, the measures appear unlikely to pass and have been condemned by Israel.",
+      "date_published": "2025-09-17T15:00:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c84bf4d874144c70779d2f8d2f0b33e532f20f81003a6df796bb152859d26add",
+      "url": "https://www.ukrinform.net/rubric-ato/4037520-92nd-assault-brigade-fighters-recount-12-days-in-encirclement-everyone-thought-we-were-missing.html",
+      "title": "92nd Assault Brigade fighters recount 12 days in encirclement: 'Everyone thought we were missing'",
+      "content_html": "The Pokrovsk sector became a true trial for soldiers of the 92nd Assault Brigade: a group of Ukrainian troops found themselves fully surrounded by the enemy — cut off from communications, wounded, and under constant shelling. Despite this, they held out for 12 days and managed to break free.",
+      "date_published": "2025-09-17T15:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5377fdd5126d7d5c678b65c0a394e04d93ddd5801a917e0079e8aab22bc17772",
+      "url": "https://www.bbc.com/news/articles/cn4l1w98nj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Search for ancient Egyptian gold bracelet missing from Cairo museum",
+      "content_html": "A photo of the 3,000-year-old bracelet has been sent to airports, seaports and border crossings to stop it being smuggled out of the country.",
+      "date_published": "2025-09-17T14:59:42+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7a979a3d1ca302c1c88ef2e558ec40cc689302273c889bcb1b0363f6678409c3",
+      "url": "https://www.bbc.com/news/articles/c9dxge2ep4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Obama says US faces 'political crisis' after killing of Charlie Kirk",
+      "content_html": "The former president criticised the response to the shooting by President Trump, who has vowed to tackle \"radical leftists\".",
+      "date_published": "2025-09-17T14:57:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0b8a5713f88d3d9a189969aa2cf49a6abf3d4891ab161cbb2cef61dddb7956c",
+      "url": "https://www.themoscowtimes.com/2025/09/17/french-cyclist-arrested-in-far-east-russia-placed-in-pre-trial-detention-until-oct-4-a90552",
+      "title": "French Cyclist Arrested in Far East Russia Placed in Pre-Trial Detention Until Oct. 4",
+      "content_html": "Sofiane Sehili was arrested after crossing the Russian border with China illegally while attempting to break the record for the fastest endurance cycle from Lisbon to Vladivostok.",
+      "date_published": "2025-09-17T14:57:24+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f098dfb98e7a1b30f4c30fde7dd96115f59385aea7bd233f66911b3f1a46f7f2",
+      "url": "https://www.theguardian.com/us-news/2025/sep/17/texas-state-expels-student-charlie-kirk-vigil",
+      "title": "Texas State expels student who reportedly mocked Charlie Kirk shooting at campus vigil",
+      "content_html": "<p>Governor Abbott called for expulsion, and the university said the video ‘trivializing or promoting violence’ was reprehensible</p><p>Texas State University has ended the enrollment of a student who appeared to mock the assassination of conservative activist <a href=\"https://www.theguardian.com/us-news/charlie-kirk-shooting\">Charlie Kirk</a> during a campus memorial event earlier this week.</p><p>A video posted <a href=\"https://x.com/TexasRepublic71/status/1967949610640462012\">to social media Tuesday morning</a> shows the student in the crowd slapping his neck multiple times, calling himself “Charlie Kirk”, and imitating Kirk when he was fatally shot in the neck on 10 September at Utah Valley University.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/17/texas-state-expels-student-charlie-kirk-vigil\">Continue reading...</a>",
+      "date_published": "2025-09-17T14:57:09+00:00",
+      "authors": [
+        {
+          "name": "Anna Betts"
+        }
+      ],
+      "tags": [
+        "Charlie Kirk shooting",
+        "Texas",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "415fe5bcb85e33f1fc385988a209842153b12739be7e3f433968162f9e35da9b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2192932/taux-directeur-banque-canada-septembre-2025-baisse",
+      "title": "La Banque du Canada réduit son taux directeur à 2,5 %",
+      "content_html": "<p>Devant un contexte économique instable, la banque centrale réduit son taux directeur d&#x27;un quart de point.</p>",
+      "date_published": "2025-09-17T14:56:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "55ff32346accf885ca60020dab8e51c71d13349225a91c11c7561953fe84a55b",
+      "url": "https://www.lefigaro.fr/international/l-ile-ecossaise-de-lewis-ou-est-nee-sa-mere-n-a-jamais-attire-donald-trump-20250917",
+      "title": "Reportage sur les traces de la mère écossaise de Donald Trump, dans la petite île de Lewis",
+      "content_html": "Donald Trump, en 2008, lors de l’unique visite rendue à la maison familiale où sa mère a grandi, en Écosse.",
+      "date_published": "2025-09-17T14:54:05+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ed19ed4b79d3199d08e357f040f40309717f1fa6f0a713ef38cd69e01226601a",
+      "url": "https://www.liberation.fr/checknews/qui-se-cachait-derriere-le-pseudonyme-de-degenere-numero-2-dans-le-recueil-offert-a-jeffrey-epstein-pour-ses-50-ans-20250917_SPQ7LHA5SBEY7KEQK64TVKS32I/",
+      "title": "Qui se cachait derrière le pseudonyme de «dégénéré numéro 2» dans le recueil offert à Jeffrey Epstein pour ses 50 ans ?",
+      "content_html": "Détail de la lettre signée par «Coco Brown» figurant dans le recueil constitué par Ghislaine Maxwell pour le cinquantième anniversaire de Jeffrey Epstein.",
+      "date_published": "2025-09-17T14:50:25+00:00",
+      "authors": [
+        {
+          "name": "Florian Gouthière"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "47dfcc5a4f4dc5add3889bce7d7a46a742a75a3ea10366a8c5dc87ab67f548f4",
+      "url": "https://www.timesofisrael.com/u-of-california-students-staff-sue-white-house-after-funding-cuts-over-antisemitism/",
+      "title": "U of California students, staff sue White House after funding cuts over antisemitism",
+      "content_html": "<p>Campaign is part of several advocacy efforts to restore $1.2 billion in funds withdrawn due to alleged violations amid Trump administration campus crackdown</p>\n<p>The post <a href=\"https://www.timesofisrael.com/u-of-california-students-staff-sue-white-house-after-funding-cuts-over-antisemitism/\">U of California students, staff sue White House after funding cuts over antisemitism</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP24144672517863-e1758116591635-1024x640.jpg\" title=\"U of California students, staff sue White House after funding cuts over antisemitism\" width=\"160\" /></figure>",
+      "date_published": "2025-09-17T14:49:08+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "anti-Israel activity on campus",
+        "antisemitism in the US",
+        "anti-Israel protests",
+        "University of California",
+        "Donald Trump",
+        "Trump's 2nd administration",
+        "UCLA"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1723c459af56b22cbf7f351276aea196f6006bf223e2e1c5dab170ca41aff3c1",
+      "url": "https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates",
+      "title": "Israeli minister attacks EU’s proposed ‘morally, politically distorted’ sanctions – Europe live",
+      "content_html": "<p>Gideon Saar warns any action against his country ‘will receive an appropriate response’</p><p><em>Nordic correspondent</em></p><p><strong>Denmark is for the first time to buy long-range precision weapons such as missiles and drones</strong>, <strong>Mette Frederiksen</strong> has abruptly announced, as <strong>she warned “Russia is testing us”.</strong></p><p><em>There is <strong>no doubt that Russia will be a threat to Denmark and Europe</strong> for many years to come.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates\">Continue reading...</a>",
+      "date_published": "2025-09-17T14:47:37+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Germany",
+        "Europe",
+        "World news",
+        "Ukraine",
+        "Russia",
+        "Friedrich Merz",
+        "Finland",
+        "Latvia"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a55cd6acb1616fbd65d24aa9c68cb66d6c32d101a5503551b4a580f82164d668",
+      "url": "https://www.lemonde.fr/afrique/article/2025/09/17/en-espagne-dix-neuf-arrestations-pour-des-meurtres-commis-sur-un-bateau-de-migrants-dans-l-atlantique_6641550_3212.html",
+      "title": "En Espagne, dix-neuf arrestations pour des meurtres commis sur un bateau de migrants dans l’Atlantique",
+      "content_html": "Des pirogues s’accumulent dans un cimetière de bateaux à Arinaga, sur l’île espagnole de Grande Canarie, en novembre 2021.",
+      "date_published": "2025-09-17T14:46:16+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cb9d925acfd96106c4b128c008ea623023b10f2a91aab2f42deab6e888f70259",
+      "url": "https://www.ukrinform.net/rubric-economy/4037511-taste-ukraine-project-kicks-off-in-washington-to-promote-ukrainian-products-in-global-markets.html",
+      "title": "Taste Ukraine project kicks off in Washington to promote Ukrainian products in global markets",
+      "content_html": "The capabilities of Ukraine’s agri-food sector have been first presented in Washington as part of the Taste Ukraine initiative. Its goal is to expand business presence abroad and help promote Ukrainian products and innovations in global markets.",
+      "date_published": "2025-09-17T14:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "021e2c86150027e995ce627b7755d191da130cdbf016b8d49b47c7e10c5a418a",
+      "url": "https://www.timesofisrael.com/reports-police-closing-on-state-witness-deal-in-fraud-case-surrounding-likud-minister/",
+      "title": "Reports: Police closing on state witness deal in fraud case surrounding Likud minister",
+      "content_html": "<p>Media outlets say Ehud Gabay, attorney and ex-adviser to Social Equality Minister May Golan, could testify against his former boss in corruption investigation</p>\n<p>The post <a href=\"https://www.timesofisrael.com/reports-police-closing-on-state-witness-deal-in-fraud-case-surrounding-likud-minister/\">Reports: Police closing on state witness deal in fraud case surrounding Likud minister</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/DUAL-1-1-1024x640.jpeg\" title=\"Reports: Police closing on state witness deal in fraud case surrounding Likud minister\" width=\"160\" /></figure>",
+      "date_published": "2025-09-17T14:42:35+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "May Golan",
+        "corruption in Israel",
+        "Israel Police",
+        "Social Equality Ministry"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "036b1294b2f92f45321d05b636f4f157b649f7e85061daac1423e41086055af4",
+      "url": "https://www.themoscowtimes.com/2025/09/17/moscow-court-orders-arrest-of-exiled-businessman-chichvarkin-in-absentia-over-war-fakes-a90553",
+      "title": "Moscow Court Orders Arrest of Exiled Businessman Chichvarkin in Absentia Over ‘War Fakes’",
+      "content_html": "The London-based restaurateur was charged with spreading “fake news” about the war in Ukraine and evading “foreign agent” obligations.",
+      "date_published": "2025-09-17T14:40:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
@@ -137,8 +797,8 @@
     {
       "id": "e463cf3b68d2595cc4e2607d930c2279009000c719bf00b526ac4e4dcfcdd71e",
       "url": "https://www.theguardian.com/world/2025/sep/17/irish-td-will-not-be-expelled-for-wearing-blackface-say-social-democrats",
-      "title": "Irish TD will not be expelled for wearing blackface, say Social Democrats",
-      "content_html": "<p>Eoin Hayes apologised for ‘huge mistake’ of dressing up as Barack Obama at 2009 Halloween party </p><p>A member of Ireland’s parliament who had been pictured in blackface at a 2009 Halloween party will stay on as a member of the Social Democrats, the party leader has said, citing his “unreserved” apology and the fact that the incident took place 16 years ago.</p><p>Eoin Hayes, a deputy (TD) for Dublin Bay South, came under fire earlier this week after media published pictures of him dressed up as the then-US president, Barack Obama, at a party. At the time, Hayes was the president of the students’ union at University College Cork.</p> <a href=\"https://www.theguardian.com/world/2025/sep/17/irish-td-will-not-be-expelled-for-wearing-blackface-say-social-democrats\">Continue reading...</a>",
+      "title": "Irish MP will not be expelled for wearing blackface, say Social Democrats",
+      "content_html": "<p>Eoin Hayes TD apologised for ‘huge mistake’ of dressing up as Barack Obama at 2009 Halloween party</p><p>A member of Ireland’s parliament who was pictured in blackface at a 2009 Halloween party will stay on as a member of the Social Democrats, the party leader has said, citing his “unreserved” apology and the fact that the incident took place 16 years ago.</p><p>Eoin Hayes, a deputy (TD) for Dublin Bay South, came under fire this week after media published pictures of him dressed up as the then US president, Barack Obama, at a party. At the time, Hayes was the president of the students’ union at University College Cork.</p> <a href=\"https://www.theguardian.com/world/2025/sep/17/irish-td-will-not-be-expelled-for-wearing-blackface-say-social-democrats\">Continue reading...</a>",
       "date_published": "2025-09-17T14:35:33+00:00",
       "authors": [
         {
@@ -147,7 +807,9 @@
       ],
       "tags": [
         "Ireland",
-        "Europe"
+        "Europe",
+        "World news",
+        "Race"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -178,24 +840,6 @@
       "lang": "fr"
     },
     {
-      "id": "9f40343c2e05e1137ac3beb9e86bec05d7aaf340f8a91c1358e3f2a8783bb09d",
-      "url": "https://www.france24.com/en/video/20250917-netanyahu-s-sparta-speech-pm-s-call-for-self-reliance-sparks-widespread-panic-in-business-community",
-      "title": "Netanyahu's Sparta speech: PM's call for self-reliance sparks widespread panic in business community",
-      "content_html": "Israel is urging European Commission President Ursula von der Leyen to withdraw a proposal that would curb trade ties in a bid to pressure Israel to end the war in Gaza. The EU executive also plans to propose sanctions against \"extremist ministers\" and \"violent settlers\". For in-depth analysis and a deeper perspective, Angela Diffley welcomes Dr. Michael Ben-Gad, Professor of Economics in the School of Policy and Global Affairs of City University of London.",
-      "date_published": "2025-09-17T14:31:59+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "02c9995d9e5a78d637fbd03787b746d90bb620c9196f4bb067693b650648b492",
       "url": "https://www.themoscowtimes.com/2025/09/17/australian-born-singer-vassy-to-represent-us-at-intervision-contest-in-last-minute-switch-a90550",
       "title": "Australian-Born Singer Vassy to Represent U.S. at Intervision Contest in Last-Minute Switch",
@@ -206,31 +850,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ae27940513ca096dfa31a5495eead866c28b0c901233951d6aef9005f81cf118",
-      "url": "https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates",
-      "title": "UN warns of ‘grave’ concerns for fuel and food in famine-hit northern Gaza – Middle East crisis live",
-      "content_html": "<p>Food and supplies running out in northern Gaza after Israel closed only crossing, UN says</p><p>The <strong>Israeli</strong> army said it has struck more than 150 targets in <strong>Gaza</strong> <strong>City</strong> since launching a major ground offensive on the <strong>Gaza</strong> <strong>Strip</strong>’s main urban hub early on Tuesday.</p><p>“Over the past two days, the [Israeli air force] and artillery corps troops struck over 150 terror targets throughout Gaza City in support of the manoeuvring troops in the area,” the military said in a statement issued on Wednesday, reports Agence France-Presse (AFP).</p><p>No one can fail to be distressed by the devastating impact the war has had on the children of Gaza, and I cannot imagine the fear and anguish their families have endured. It is a soul-destroying situation that compels us to act.</p><p>Every child deserves the chance to heal, to play, to simply be able to dream again. These young patients have witnessed horrors no child should ever see, but this marks the start of their journey towards recovery.</p><p>In Gaza, where the healthcare system has been decimated and hospitals are no longer functioning, there are severely ill children unable to get the medical care they need to survive.</p><p>As we welcome the first group of children to the UK for urgent treatment, their arrival reflects our determined commitment to humanitarian action and the power of international cooperation.</p> <a href=\"https://www.theguardian.com/world/live/2025/sep/17/israel-gaza-offensive-middle-east-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-17T14:27:18+00:00",
-      "authors": [
-        {
-          "name": "Tom Ambrose (now); Amy Sedghi and Vicky Graham (earlier)"
-        }
-      ],
-      "tags": [
-        "Gaza",
-        "Israel",
-        "Israel-Gaza war",
-        "Middle East and north Africa",
-        "Palestinian territories",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -280,20 +899,18 @@
       "lang": "en"
     },
     {
-      "id": "82f7266574b3daa7359977f3a8190e4e20dfa631f72db4e350eeea139d357789",
-      "url": "https://www.france24.com/en/video/20250917-gaza-before-and-after-a-look-at-what-the-palestinian-enclave-has-become",
-      "title": "Gaza before and after: A look at what the Palestinian enclave has become",
-      "content_html": "Roads and #buildings lie in ruins, high-rises replaced by tents — a stark before-and-after look at what the #Palestinian enclave of #Gaza has become after 23 months of war.",
-      "date_published": "2025-09-17T14:22:19+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
+      "id": "fc1db72e9e90ef04e3faf043e810c13f3339855e6304820193e6f80a06a24b0a",
+      "url": "https://www.aljazeera.com/news/2025/9/17/has-elon-musk-really-been-awarded-a-1-trillion-pay-deal?traffic_source=rss",
+      "title": "Has Elon Musk really been awarded a $1 trillion pay deal?",
+      "content_html": "And why has the South African entrepreneur been busy buying up shares in Tesla?",
+      "date_published": "2025-09-17T14:22:48+00:00",
+      "authors": [],
+      "tags": [
+        "News"
       ],
-      "tags": [],
       "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -328,33 +945,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1723c459af56b22cbf7f351276aea196f6006bf223e2e1c5dab170ca41aff3c1",
-      "url": "https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates",
-      "title": "Israeli minister attacks EU’s proposed ‘morally, politically distorted’ sanctions – Europe live",
-      "content_html": "<p>Gideon Saar warns any action against his country ‘will receive an appropriate response’</p><p><em>Nordic correspondent</em></p><p><strong>Denmark is for the first time to buy long-range precision weapons such as missiles and drones</strong>, <strong>Mette Frederiksen</strong> has abruptly announced, as <strong>she warned “Russia is testing us”.</strong></p><p><em>There is <strong>no doubt that Russia will be a threat to Denmark and Europe</strong> for many years to come.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/17/germany-friedrich-merz-bundestag-afd-ukraine-russia-finland-latvia-europe-news-live-updates\">Continue reading...</a>",
-      "date_published": "2025-09-17T14:19:26+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "Germany",
-        "Europe",
-        "World news",
-        "Ukraine",
-        "Russia",
-        "Friedrich Merz",
-        "Finland",
-        "Latvia"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -502,24 +1092,6 @@
       "lang": "en"
     },
     {
-      "id": "a6ff98bfdd659332d50f25cdf9cbf00782b30b418765660826ef751b4eac8368",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-les-syndicats-promettent-un-jeudi-noir-digne-des-manifestations-retraites",
-      "title": "Les syndicats promettent un jeudi \"noir\", digne des manifestations retraites",
-      "content_html": "\"Une journée noire\": autorités comme syndicats, qui appellent à faire grève et manifester contre les mesures budgétaires \"brutales\" annoncées cet été, prévoient une mobilisation massive jeudi, semblable à certaines de 2023 contre la réforme des retraites.",
-      "date_published": "2025-09-17T14:01:50+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c6cbb79ed3d5e702b76e36f11838ed755f3c0b94e7c1ba472549219fa4b88162",
       "url": "https://www.themoscowtimes.com/2025/09/17/latvia-arrests-man-accused-of-spying-for-russia-a90551",
       "title": "Latvia Arrests Man Accused of Spying for Russia",
@@ -534,24 +1106,6 @@
       "lang": "en"
     },
     {
-      "id": "de5fa343385fc58c7df829315c3bba1af97fc0fb005b94a209e41015bd05f1b0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-faure-sur-sa-faim-apr%C3%A8s-son-entretien-avec-lecornu-rest%C3%A9-tr%C3%A8s-flou-sur-ses-intentions",
-      "title": "Faure \"sur sa faim\" après son entretien avec Lecornu, resté \"très flou\" sur ses intentions",
-      "content_html": "Le patron du Parti socialiste, Olivier Faure, est ressorti \"sur sa faim\" de son entretien mercredi 17 septembre avec le Premier ministre Sébastien Lecornu, resté selon lui \"très flou sur ses intentions\". Nous en parlons avec notre chroniqueuse Flore Simon.",
-      "date_published": "2025-09-17T14:00:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7fb81373f99a63e7267e092805409981180d794200e7469c3c447ad8f7216493",
       "url": "https://www.aljazeera.com/news/2025/9/17/will-a-boycott-over-israel-divide-the-eurovision-song-contest?traffic_source=rss",
       "title": "Will a boycott over Israel divide the Eurovision Song Contest?",
@@ -564,44 +1118,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1547cefbbb66076b171145bdb8cfce280486ddaa7e9eb215af5f42508f11efc0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-trump-accueilli-par-le-roi-%C3%A0-windsor-au-premier-jour-de-sa-visite-d-%C3%A9tat-au-royaume-uni",
-      "title": "Trump accueilli par le roi à Windsor au premier jour de sa visite d'État au Royaume-Uni",
-      "content_html": "Donald Trump est arrivé mercredi 17 septembre en milieu de journée au château de Windsor, reçu par la famille royale pour sa deuxième visite d'État au Royaume-Uni, qui se tient à l'écart du public et des manifestations. Nous en parlons avec notre invité Patrick Martin-Genier, enseignant à Sciences Po Paris et à l'INALCO.",
-      "date_published": "2025-09-17T13:57:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "33cfb4988d973eb5f5ec0063c8ac6cae6e624b20c167a905360d57db9ea19ce0",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20250917-robert-redford-hollywood-s-beloved-leading-man-on-and-off-screen",
-      "title": "Robert Redford: Hollywood's beloved leading man, on and off screen",
-      "content_html": "With his golden boy good looks, on-screen charisma, environmental convictions and commitment to supporting independent film, Robert Redford was a giant of Hollywood. As tributes pour in following his death at 89 years old, film critic Emma Jones and Redford's biographer Michael Feeney Callan reflect on his starring roles, his on-screen chemistry with legendary actresses and the strong convictions that saw him launch the Sundance Film Festival and, in doing so, change the face of contemporary American cinema.",
-      "date_published": "2025-09-17T13:57:07+00:00",
-      "authors": [
-        {
-          "name": "Olivia SALAZAR-WINSPEAR"
-        }
-      ],
-      "tags": [
-        "arts24"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -630,24 +1146,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "90a09ec4184646b721f5f18047f68cac6b0359f1b200390d3b9b7f11f2c1bcd0",
-      "url": "https://www.france24.com/en/video/20250917-war-in-gaza-spain-says-it-will-boycott-eurovision-if-israel-competes",
-      "title": "War in Gaza: Spain says it will boycott Eurovision if Israel competes",
-      "content_html": "Spain says it will boycott Eurovision if Israel is allowed to participate in next year’s competition, adding to a growing list of countries making similar demands.",
-      "date_published": "2025-09-17T13:53:30+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -714,132 +1212,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "a9f0c8a890675565d08967086bc5049c0a0e597751c0c86e28f66f4140af096c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-gaza-l-opposition-%C3%A0-la-guerre-est-de-plus-en-plus-forte-en-isra%C3%ABl",
-      "title": "Gaza : \"L'opposition à la guerre est de plus en plus forte en Israël\"",
-      "content_html": "L'armée israélienne a annoncé mercredi avoir frappé plus de 150 cibles à travers Gaza-ville depuis le déclenchement la veille d'une offensive terrestre majeure destinée à y détruire le Hamas. Notre correspondante Claire Duhamel nous en dit plus.",
-      "date_published": "2025-09-17T13:44:40+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "644549d6cb88a513682a32069ce54fea7b530642182777e7b636cb7ec43d644f",
-      "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20250917-guin%C3%A9e-amadou-oury-bah-assure-que-le-r%C3%A9f%C3%A9rendum-verra-un-oui-massif-l-emporter-doumbouya",
-      "title": "Guinée : Amadou Oury Bah assure que le référendum verra un \"oui massif\" l'emporter",
-      "content_html": "Le Premier ministre guinéen Amadou Oury Bah s'est exprimé sur France 24 avant un référendum crucial pour la junte au pouvoir depuis quatre ans, organisé dimanche 21 septembre. Il assure que \"le oui sera massif\", mais recherche également une \"participation large\" afin de donner \"une légitimité certaine\" au scrutin. Il fustige une opposition \"irresponsable\" qui appelle au boycott au motif que le projet de réforme permettrait au chef de la junte de se présenter aux élections présidentielles.",
-      "date_published": "2025-09-17T13:43:38+00:00",
-      "authors": [
-        {
-          "name": "Marc PERELMAN"
-        }
-      ],
-      "tags": [
-        "En tête-à-tête"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "93c2c7dcf402756c492fbe9a60452a99f0f855bd7ae59df5b272101f32beda73",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-offensive-sur-gaza-ville-isra%C3%ABl-affime-avoir-frapp%C3%A9-plus-de-150-cibles-depuis-mardi",
-      "title": "Offensive sur Gaza-ville : Israël affirme avoir \"frappé plus de 150 cibles\" depuis mardi",
-      "content_html": "L'armée israélienne a annoncé mercredi 17 septembre avoir frappé plus de 150 cibles à travers Gaza-ville depuis le déclenchement la veille d'une offensive terrestre majeure destinée à y détruire le Hamas.",
-      "date_published": "2025-09-17T13:41:07+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a282e80852cc59944956ad1bc00ab3c804036cf092f288e673e7f8d0a9791a63",
-      "url": "https://www.france24.com/en/video/20250917-france-prime-minister-lecornu-meets-left-and-far-right-leaders",
-      "title": "France: Prime Minister Lecornu meets left and far-right leaders",
-      "content_html": "Marc Perelman has more.",
-      "date_published": "2025-09-17T13:37:39+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5eb1dc7cbbe8f49b46edad1a23962a71d622220f65c0bedf7575c47cc323bf18",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-la-veuve-de-l-opposant-russe-d%C3%A9funt-navalny-affirme-qu-il-a-%C3%A9t%C3%A9-empoisonn%C3%A9",
-      "title": "La veuve de l'opposant russe défunt Navalny affirme qu'il a été \"empoisonné\"",
-      "content_html": "Ioulia Navalnaïa, la veuve du principal opposant russe Alexeï Navalny, mort en prison en février 2024 dans des conditions troubles, affirme que son mari a été \"empoisonné\", disant se fonder sur des analyses effectuées par des laboratoires occidentaux.",
-      "date_published": "2025-09-17T13:36:59+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "55ff32346accf885ca60020dab8e51c71d13349225a91c11c7561953fe84a55b",
-      "url": "https://www.lefigaro.fr/international/l-ile-ecossaise-de-lewis-ou-est-nee-sa-mere-n-a-jamais-attire-donald-trump-20250917",
-      "title": "L’île écossaise de Lewis, où est née sa mère, n’a jamais attiré Donald Trump",
-      "content_html": "Donald Trump, en 2008, lors de l’unique visite rendue à la maison familiale où sa mère a grandi, en Écosse.",
-      "date_published": "2025-09-17T13:35:56+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "89e47c5d8fc15fc3cea2d577877aea3d1fb6fe9da0494e50d15bf8e53a6fd459",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-s%C3%A9bastien-lecornu-termine-son-cycle-de-consultations-le-ps-pr%C3%AAt-%C3%A0-des-compromis",
-      "title": "Sébastien Lecornu termine son cycle de consultations, le PS prêt à des \"compromis\"",
-      "content_html": "Les socialistes, au centre des attentions de Sébastien Lecornu pour nouer un accord sur le budget 2026, ont regretté mercredi à l'issue d'une première rencontre à Matignon n'avoir rien appris des intentions du Premier ministre, agitant de nouveau la menace d'une censure, et ce dès la déclaration de politique générale. Notre reporter Julie Dungelhoeff nous en dit plus.",
-      "date_published": "2025-09-17T13:35:04+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "2297c42e9d2656297d51bca8e0a5c631bad62dfee996a069c749d2a15aed1277",
@@ -1087,24 +1459,6 @@
       "lang": "en"
     },
     {
-      "id": "2c608c92cf345327e339024e5c7f028e3cdb61db42c655de0579721d2f36d9d5",
-      "url": "https://www.france24.com/en/video/20250917-trump-s-historic-return-to-uk-courting-us-leader-who-makes-british-leaders-citizens-deeply-uneasy",
-      "title": "Trump's historic return to UK: Courting US leader who makes British leaders, citizens deeply uneasy",
-      "content_html": "President Donald Trump is receiving a lavish welcome at Windsor Castle, beginning a two-day state visit as the guest of King Charles III. Met by royalty, honour guards, and a sweeping military procession, the event includes the largest guard of honour in living memory. As pageantry meets politics, the scale reflects efforts to steady ties with an unpredictable leader whose divisive \"America First\" stance continues to unsettle global alliances. For deeper insight, beyond the pomp and circumstance, Genie Godula welcomes Quentin Peel, former Foreign Editor at the Financial Times.",
-      "date_published": "2025-09-17T13:07:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c4a24c5a7b0d34200d298170d6b11b327471d80edcd98e25d6b90a680493d045",
       "url": "https://www.aljazeera.com/opinions/2025/9/17/as-its-former-ambassadors-we-urge-the-eu-to-sanction-israel-now?traffic_source=rss",
       "title": "As its former ambassadors, we urge the EU to sanction Israel now",
@@ -1135,80 +1489,6 @@
       "lang": "fr"
     },
     {
-      "id": "10788274f42215db7863b45ada8bb341b37764693a09a917153bfc150e23f7dc",
-      "url": "https://www.theguardian.com/us-news/2025/sep/17/congress-letter-dreamers-daca",
-      "title": "Members of Congress condemn Kristi Noem over fate of migrant ‘Dreamers’",
-      "content_html": "<p>Letter signed by 95 demands to know how many people protected under Daca have been arrested or deported</p><p>A group of 95 members of Congress have written a letter to Kristi Noem, the homeland security secretary, condemning the arrest of protected <a href=\"https://www.theguardian.com/us-news/usimmigration\">immigrants</a> known as Dreamers and demanding to know how many have been detained and deported in recent months.</p><p>In a letter shared with the Guardian and submitted to Noem on Wednesday morning, Democratic representatives denounced the recent rise in the wrongful detention and deportation of immigrants residing in the US under the Deferred Action for Childhood Arrivals (<a href=\"https://www.theguardian.com/us-news/2020/jun/18/daca-dreamers-us-immigration-explainer\">Daca</a>) program.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/17/congress-letter-dreamers-daca\">Continue reading...</a>",
-      "date_published": "2025-09-17T13:05:35+00:00",
-      "authors": [
-        {
-          "name": "José Olivares in New York"
-        }
-      ],
-      "tags": [
-        "US immigration",
-        "US news",
-        "World news",
-        "US Congress",
-        "House of Representatives",
-        "Democrats"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6c7624cfc97d1cbb7294891af7513be755917cad88dc4afd8345b8cf1dce4127",
-      "url": "https://www.theguardian.com/technology/2025/sep/17/jensen-huang-nvidia-uk-ai-superpower-500m-nscale",
-      "title": "UK is going to be ‘AI superpower’, says Nvidia boss as he invests £500m",
-      "content_html": "<p>Jensen Huang says UK is ‘too humble’ as he announces equity stake in British cloud computing firm NScale</p><p>Jensen Huang, the co-founder and chief executive of the US AI chipmaker Nvidia, has predicted “the UK is going to be an AI superpower” as he announced a new £500m investment in a British firm.</p><p>Huang, who is due to join Donald Trump at Wednesday night’s state banquet with the king, said he was taking an equity stake in NScale, a UK cloud computing company, and predicted it would earn revenues of up to £50bn over the next six years.</p> <a href=\"https://www.theguardian.com/technology/2025/sep/17/jensen-huang-nvidia-uk-ai-superpower-500m-nscale\">Continue reading...</a>",
-      "date_published": "2025-09-17T13:04:14+00:00",
-      "authors": [
-        {
-          "name": "Robert Booth UK technology editor"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Artificial intelligence (AI)",
-        "Computing",
-        "Technology",
-        "UK news",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "383f5aa74527d0b54b5c402735e23d4e2f2cd2166a2547fd1a03c1b3a9137cad",
-      "url": "https://www.theguardian.com/us-news/2025/sep/17/ice-solitary-confinement-trump",
-      "title": "Ice puts more than 10,000 people in solitary in a year – and figures are rising under Trump",
-      "content_html": "<p>Study shines light on growing numbers of vulnerable people being placed in solitary confinement in migrant jails</p><p>US Immigration and Customs Enforcement (Ice) put more than 10,500 people in solitary confinement between April 2024 and May 2025, and use of the practice has quickly increased under Donald Trump’s administration, according to new research.</p><p>A report from Physicians for Human Rights (PHR), the Peeler Immigration Lab, and Harvard Law School experts, published on Wednesday, sheds light on what’s happening inside US immigrant detention facilities and how increasing numbers of vulnerable people are being subjected to solitary confinement for longer periods of time.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/17/ice-solitary-confinement-trump\">Continue reading...</a>",
-      "date_published": "2025-09-17T13:00:36+00:00",
-      "authors": [
-        {
-          "name": "Dani Anguiano"
-        }
-      ],
-      "tags": [
-        "US immigration",
-        "US news",
-        "Trump administration",
-        "US politics",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "35a0c985cd86bfe934398b180d22bc23d4b88d5b183feef27fef6987cc896eee",
       "url": "https://www.liberation.fr/international/moyen-orient/frappes-visant-des-membres-du-hamas-a-doha-comment-israel-a-rate-ses-cibles-20250917_RLQ7TT52DFCQRJQS2O4PSVIMTI/",
       "title": "Frappes visant des membres du Hamas à Doha : comment Israël a raté ses cibles",
@@ -1225,24 +1505,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ec7349a23259ad1bf8ce33e113aa1b56152baa80cdc1ec6b5e42fc098bce2a41",
-      "url": "https://www.france24.com/en/video/20250917-africa-ivory-coast-exhibition-retraces-history-through-football",
-      "title": "Africa: Ivory Coast exhibition retraces history through football",
-      "content_html": "In the bustling suburb of Abobo, a new museum exhibit is drawing crowds with an unexpected twist on the history of elephants. But these aren't just the massive gray creatures that roam West Africa's forests. The exhibit also celebrates the \"Elephants\" — the beloved nickname of Ivory Coast’s national football team, who clinched victory in the 2024 Africa Cup of Nations.",
-      "date_published": "2025-09-17T12:58:51+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "38089f60aaada262ad960eae82c4cd1b5311a7408e305adb19b621f5171f8d4d",
@@ -1306,20 +1568,6 @@
       "lang": "en"
     },
     {
-      "id": "b5f6bb91a4c05f8161ba90d6bd616a263e22c223d323211a77ff800241f83973",
-      "url": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
-      "title": "In pictures: US President Donald Trump on second state to UK",
-      "content_html": "President Trump greeted by the King and Queen and other senior royals at Windsor Castle.",
-      "date_published": "2025-09-17T12:51:23+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "77f2e9a515f00a04d07059237c78bd90c3755ae645b9d1954d0377b242a81369",
       "url": "https://www.bbc.com/news/articles/c708n1ry8k4o?at_medium=RSS&at_campaign=rss",
       "title": "Trucks set ablaze as militants block key Senegal-Mali trade route",
@@ -1358,62 +1606,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0b83ca5e88b79eed9c39079272e1a9ac9f0bceefb9bf82420518fbac70d4304c",
-      "url": "https://www.france24.com/fr/europe/20250917-donald-trump-ors-windsor-premier-jour-visite-d-%C3%A9tat-royaume-uni-charles-famille-royale",
-      "title": "Donald Trump sous les ors de Windsor au premier jour de sa visite d'État au Royaume-Uni",
-      "content_html": "Donald Trump a été accueilli mercredi en grande pompe au château de Windsor par Charles III au premier jour d'une visite d'État au Royaume-Uni placée sous le signe du faste royal. Le président américain rencontrera demain le Premier ministre britannique Keir Starmer pour une séquence plus politique.",
-      "date_published": "2025-09-17T12:49:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "39d649ea16ec9e17cb52a75de5f05659f4b6417d7b42338111f2d878232a1123",
-      "url": "https://www.france24.com/en/video/20250917-france-s-new-prime-minister-faces-a-bumpy-ride-with-nationwide-strikes-ahead",
-      "title": "France’s new prime minister faces a bumpy ride with nationwide strikes ahead",
-      "content_html": "Leaders of France's Socialist Party met with new Prime Minister Sebastien Lecornu on Wednesday, seeking to get big concessions on the budget in talks that could shape the final stretch of President Emmanuel Macron's second term.",
-      "date_published": "2025-09-17T12:48:39+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0a2911fdea611502d7dc010f44644bfac6d16ad68f380f52624dd53143257c5c",
-      "url": "https://www.france24.com/en/video/20250917-new-york-judge-drops-terrorism-charges-against-luigi-mangione",
-      "title": "New York judge drops terrorism charges against Luigi Mangione",
-      "content_html": "A New York judge on Tuesday threw out terrorism charges against Luigi Mangione, rejecting the Manhattan district attorney’s theory in a state murder case that the killing of UnitedHealthcare CEO Brian Thompson was “intended to evoke terror.” Jessica Le Masurier has more.",
-      "date_published": "2025-09-17T12:46:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1460,24 +1652,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "f141fd86a3861fa5e864465fbcaf07fb70ac3a9b5e3d064ccc66e7aae53977a6",
-      "url": "https://www.france24.com/en/video/20250917-king-charles-iii-greets-trump-in-windsor-for-his-second-state-visit-to-the-uk",
-      "title": "King Charles III greets Trump in Windsor for his second state visit to the UK",
-      "content_html": "President Donald Trump was greeted by royalty, military honor guards and mounted troops in red and gold as he arrived at Windsor Castle on Wednesday for the start of a two-day state visit to Britain as the guest of King Charles III.",
-      "date_published": "2025-09-17T12:43:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "9e5e5705e611bb179ca2d0879af24625591be142d8de667f6d37cfadd7324dda",
@@ -1568,26 +1742,6 @@
       "lang": "en"
     },
     {
-      "id": "b052e44b375a401ba66a2714ec0e20dc392c63e7b1fa088e2d4392e5ffc0906e",
-      "url": "https://www.france24.com/en/france/20250917-disrupted-planes-trains-and-tourist-sites-what-to-expect-from-france-nationwide-september-18-strike",
-      "title": "Disruptions to transport and tourist sites: What to expect from France’s September 18 strike",
-      "content_html": "French unions will hold a nationwide strike on Thursday against the government’s 2026 budget plan. Authorities expect up to 800,000 protesters, with schools and tourist sites affected and disruptions expected on Paris and regional transport networks.",
-      "date_published": "2025-09-17T12:23:16+00:00",
-      "authors": [
-        {
-          "name": "Anaëlle JONAH"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "663c1f7f355b405148a00601169cdd402c1de696a3443e37fa8965b68326827a",
       "url": "https://www.dw.com/en/trump-meets-king-charles-in-historic-second-uk-state-visit/live-74025253?maca=en-rss-en-all-1573-rdf",
       "title": "Trump meets King Charles in historic second UK state visit",
@@ -1652,26 +1806,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "f7bae4ebe04226594d4f48cefb305a259bf65b8620e225eb480283931c60d3d3",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20250917-de-butch-cassidy-au-festival-de-sundance-l-h%C3%A9ritage-de-robert-redford",
-      "title": "De \"Butch Cassidy\" au festival de Sundance : l’héritage de Robert Redford",
-      "content_html": "Il était l’incarnation du charme hollywoodien, mais aussi l’une des grandes consciences du cinéma américain. Acteur mythique, réalisateur oscarisé, fondateur du festival du film de Sundance et ardent défenseur de l’écologie, Robert Redford s’est éteint à 89 ans. Dans ce numéro spécial de \"À l'Affiche\", Louise Dupont et Thomas Baurez évoquent les hommages adressés à l'un des derniers \"lions\" d'Hollywood. Meryl Streep, Jane Fonda, Barbra Streisand, Leonardo DiCaprio et bien d’autres...",
-      "date_published": "2025-09-17T12:18:10+00:00",
-      "authors": [
-        {
-          "name": "Louise DUPONT"
-        }
-      ],
-      "tags": [
-        "À l'Affiche !"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "d93972eb2d17e804a5f17ff58dac870f509470e4a47eca492142c9092bf78ef6",
@@ -1876,26 +2010,6 @@
       "lang": "en"
     },
     {
-      "id": "3c88c80218e83bac8c16f005cddb9b81b036f21dee6abf414a736db88b94e979",
-      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20250917-s%C3%A9bastien-lecornu-poursuit-ses-consultations-le-ps-pose-ses-conditions",
-      "title": "Sébastien Lecornu poursuit ses consultations, le PS pose ses conditions",
-      "content_html": "Sébastien Lecornu poursuit ses consultations. Il a reçu les socialistes à Matignon qui, à la sortie du rendez-vous, ont estimé que \"le Premier ministre était resté flou sur ses intentions\". Les socialistes sont devenus la clé de la non-censure et le Premier ministre espère trouver des compromis avec la gauche pour faire passer le budget. Un accord est-il possible ? Roselyne Febvre pose la question à Alix Bouilhaguet et Stéphane Vernay, éditorialistes politiques.",
-      "date_published": "2025-09-17T11:57:11+00:00",
-      "authors": [
-        {
-          "name": "Roselyne FEBVRE"
-        }
-      ],
-      "tags": [
-        "Face à face"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "5cae5ff356756dbbe7a26c3f97ed789c3fa7e52ec1912b85295be486a2e77d6d",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/9/17/protests-turn-violent-in-ecuador-over-rising-fuel-prices?traffic_source=rss",
       "title": "Protests turn violent in Ecuador over rising fuel prices",
@@ -1979,26 +2093,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6f8e25ba7fb7e32bc0a216a6afa1b7fdc36b1ed2174d542f2b4ff6cdca0565a5",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20250917-prints-for-wildlife-photography-project-co-founders-on-their-message-of-hope",
-      "title": "Prints for Wildlife photography project co-founders on their 'message of hope'",
-      "content_html": "The co-founders of a wildlife photography project that aims to raise $2.5 million for conservation have spoke to FRANCE 24 about how they hope the project will send a \"message of hope\" to the world. The Prints for Wildlife project brings together over 375 wildlife photographers who have donated their pictures to be sold on the group’s website. The co-founders say the initiative has developed an incredible sense of community amongst their colleagues, adding that art always carries us through times of anxiety and despair. Marion Payr and Pie Aerts are the co-founders of Prints for Wildlife. They spoke to us in Perspective.",
-      "date_published": "2025-09-17T11:28:39+00:00",
-      "authors": [
-        {
-          "name": "Stuart NORVAL"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2320,42 +2414,6 @@
       "lang": "en"
     },
     {
-      "id": "c3db39b74c86a4a86e635ebdfe4083823cb31d4302617068c872aadfc7b226e3",
-      "url": "https://www.france24.com/en/video/20250917-donald-trump-in-the-uk-protesters-beam-epstein-images-at-windsor-castle",
-      "title": "Donald Trump in the UK: Protesters beam Epstein images at Windsor Castle",
-      "content_html": "Donald #Trump's #UK state visit is overshadowed by renewed controversy over his ties to Jeffrey #Epstein, as protests, image projections, and political fallout seem to dominate the trip.",
-      "date_published": "2025-09-17T10:55:05+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "333ebf02c05e17bf781bb0420ed38abd5c15d0b2663e3916c70c2219dcbbd605",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-royaume-uni-manifestation-%C3%A0-windsor-avant-la-visite-d-%C3%A9tat-de-donald-trump",
-      "title": "Royaume-Uni : manifestation à Windsor avant la visite d'État de Donald Trump",
-      "content_html": "Des personnes ont manifesté devant le château de Windsor à la veille de la deuxième visite d'Etat au Royaume-Uni de Donald Trump. Le président américain doit rester confiné mercredi dans l'enceinte du château de Windsor, à 40 km de Londres. Il rencontrera ensuite jeudi le Premier ministre Keir Starmer.",
-      "date_published": "2025-09-17T10:54:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "30a3f135ba3697d7c7e0fec0edfdf14b0f507591114ccef90f390708e28f5ca6",
       "url": "https://www.timesofisrael.com/government-cuts-off-funding-for-ophir-awards-after-film-about-palestinian-boy-wins/",
       "title": "Government cuts off funding for Ophir awards after film about Palestinian boy wins",
@@ -2447,26 +2505,6 @@
       "lang": "en"
     },
     {
-      "id": "da6f7f9cb0b769ec913dbd53770a335da52e318fcf7a1fde24a0acfec20e82f2",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20250917-iran-trois-ans-de-lutte-depuis-la-mort-de-mahsa-amini-avec-a%C3%AFda-tavakoli-et-chowra-makaremi",
-      "title": "Iran : trois ans de lutte depuis la mort de Mahsa Amini... Avec Aïda Tavakoli et Chowra Makaremi",
-      "content_html": "Il y a trois ans jour pour jour avaient lieu en Iran les obsèques de Mahsa Amini, tuée pour avoir mal porté son voile. Sa mort, un jour plus tôt, a déclenché un mouvement de contestation inédit contre la théocratie militaire iranienne, qui a vacillé pendant plusieurs mois. Ce 17 septembre 2022, dans le petit cimetière de Saghez, dans le Kurdistan en Iran, les femmes retirent spontanément leur voile et crient, en kurde, ce slogan qui va se muer en hymne : \"Femme, Vie, Liberté\".",
-      "date_published": "2025-09-17T10:45:57+00:00",
-      "authors": [
-        {
-          "name": "Pauline PACCARD"
-        }
-      ],
-      "tags": [
-        "Parlons-en, les invités"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b5d24608f5c1c02e47ed66efe91bb36393b850857676e0363fd797ef0b1c9702",
       "url": "https://www.ukrinform.net/rubric-ato/4037416-russian-troops-strike-slatyne-in-kharkiv-region-killing-one-man.html",
       "title": "Russian troops strike Slatyne in Kharkiv region, killing one man",
@@ -2499,42 +2537,6 @@
       "lang": "en"
     },
     {
-      "id": "1ca18187fd3c947a6b3b6b2452d5468c56ba33d7473037f77e4bbbc180d0568d",
-      "url": "https://www.france24.com/en/video/20250917-french-socialists-press-macron-s-new-government-for-major-budget-concessions",
-      "title": "French Socialists press Macron's new government for major budget concessions",
-      "content_html": "Leaders of France's Socialist Party met with new Prime Minister Sebastien Lecornu on Wednesday, seeking to get big concessions on the budget in talks that could shape the final stretch of President Emmanuel Macron's second term. James André has more.",
-      "date_published": "2025-09-17T10:38:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8a341a2ca49fed01d5dc264175ff9904dfb13fa3c7844a28eee2f5a7227ceaf9",
-      "url": "https://www.france24.com/en/video/20250917-colombian-farc-leaders-ordered-to-make-reparations-for-over-21-000-kidnappings",
-      "title": "Colombian FARC leaders ordered to make reparations for over 21,000 kidnappings",
-      "content_html": "A Colombian court on Tuesday held seven leaders of the defunct Colombian guerrilla army FARC responsible for the kidnappings of tens of thousands of people during the group's half-century of war with the state.",
-      "date_published": "2025-09-17T10:35:28+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "933e9e60f414c14c0735fe39fc62c3290b6319a08165dc589dd5f8a3b3310359",
       "url": "https://www.aljazeera.com/sports/2025/9/17/thomas-partey-ex-arsenal-footballer-denies-rape-charges?traffic_source=rss",
       "title": "Thomas Partey, ex-Arsenal footballer, denies rape charges",
@@ -2547,44 +2549,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8f692aa1b27ac1bff79843286e0afd342a432292389c1a4ab2049bd4afc437e8",
-      "url": "https://www.france24.com/fr/europe/20250917-visite-royaume-uni-donald-trump-admirateur-monarchie-britannique",
-      "title": "\"Un très grand jour\" : Donald Trump, admirateur de la monarchie britannique",
-      "content_html": "Tour en calèche, garde d'honneur géante, défilé aérien inédit : le Royaume-Uni sort le grand jeu pour la deuxième visite d'État de Donald Trump, reçu mercredi à Windsor par Charles III, à l'abri des manifestations. Le président américain ne cache pas son admiration pour la famille royale britannique.",
-      "date_published": "2025-09-17T10:33:19+00:00",
-      "authors": [
-        {
-          "name": "Stéphanie TROUILLARD"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5f76fa42e3f8d08d32f9d393bf74a1bdeae1a2b59d3920fe02d176caac58c255",
-      "url": "https://www.france24.com/en/video/20250917-israel-military-presses-on-with-its-new-ground-offensive-on-gaza-city",
-      "title": "Israel military presses on with its new ground offensive on Gaza City",
-      "content_html": "Israeli forces pressed on with a new ground offensive in Gaza City Wednesday as strikes overnight across the Palestinian territory killed at least 16 people, including women and children, hospital officials said.",
-      "date_published": "2025-09-17T10:32:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2603,24 +2567,6 @@
       "lang": "en"
     },
     {
-      "id": "07766b172e26271b8b8451b43d973482130b63914c373cbf31e04efcdd413e4e",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-s%C3%A9n%C3%A9gal-le-chanteur-wally-seck-soup%C3%A7onn%C3%A9-de-transferts-de-fonds-suspects",
-      "title": "Sénégal : le chanteur Wally Seck soupçonné de transferts de fonds suspects",
-      "content_html": "Le chanteur sénégalais Wally Seck se met en retrait. Une décision annoncée dans une vidéo publiée sur Instagram. Cette pause dans sa carrière doit durer le temps que la justice mette au clair son rôle dans une affaire de soupçons de blanchiment d’argent impliquant Amadou Sall, fils de l’ancien président Macky Sall. La correspondance à Dakar d'Elimane Ndao.",
-      "date_published": "2025-09-17T10:29:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "35a3e49248bc0cb1717e1f24266c39fcefc38ed9f6bd5be03ac78e85ad8003a8",
       "url": "https://www.ukrinform.net/rubric-polytics/4037406-parliament-adopts-law-on-military-ombudsman.html",
       "title": "Parliament adopts law on Military Ombudsman",
@@ -2633,82 +2579,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fbc992c52ad31a0bfda5759ba6b4cedf7389f7106588b2db427ef22370f51bc6",
-      "url": "https://www.france24.com/en/europe/20250917-new-lab-results-show-putin-critic-navalny-was-poisoned-in-jail-wife-says",
-      "title": "New lab results show Putin critic Navalny was poisoned in jail, wife says",
-      "content_html": "In a video posted on YouTube on Wednesday, Yulia, the widow of Russian opposition leader Alexei Navalny said that laboratory results from \"two countries\" proved he was \"poisoned\". The Kremlin has previously denied that Navalny was killed on President Vladimir Putin's orders and said it was unaware of Yulia's claims.",
-      "date_published": "2025-09-17T10:26:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "85824cb457beca7a1815b754919f080d3843792955a542b6f514d7b4d6be0492",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-malawi-%C3%A9lection-pr%C3%A9sidentielle-sur-fond-d-inflation-galopante",
-      "title": "Malawi : élection présidentielle sur fond d'inflation galopante",
-      "content_html": "Jour de vote au Malawi. Près de 8 millions d'électeurs se sont rendus aux urnes ce mardi 16 septembre pour élire leur président et leurs députés. Des élections générales dans un contexte économique tendu. Les précisions de notre correspondante régionale Caroline Dumay",
-      "date_published": "2025-09-17T10:26:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e745286d1395f7e99a6dd603513797a67cdfba2dd6856d0d00b7ef839fd51dab",
-      "url": "https://www.france24.com/fr/europe/20250917-veuve-opposant-russe-alexe%C3%AF-navalny-affirme-empoisonn%C3%A9-poutine-analyses",
-      "title": "La veuve de l'opposant russe Alexeï Navalny affirme qu'il a été \"empoisonné\"",
-      "content_html": "Ioulia Navalnaïa, veuve du chef de file de l'opposition russe Alexeï Navalny, mort en prison l'an dernier, a déclaré mercredi que des tests effectués par des laboratoires étrangers sur des échantillons biologiques prélevés sur son mari montraient qu'il avait été empoisonné.",
-      "date_published": "2025-09-17T10:23:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "2e9e4d7c302eea1952ee864d0a851562d3c38a5dc1385b1e04c832013c9e68d4",
-      "url": "https://www.france24.com/en/video/20250917-peru-evacuates-1-600-tourists-from-machu-picchu-amid-protest",
-      "title": "Peru evacuates 1,600 tourists from Machu Picchu amid protest",
-      "content_html": "Peru has evacuated around 1,600 tourists from a train station that serves the Inca citadel of Machu Picchu after a local protest escalated into clashes with police. UNESCO World Heritage Site since 1983, the ancient fortified complex receives around 4,500 visitors a day, many of them foreigners, according to the tourism ministry.",
-      "date_published": "2025-09-17T10:22:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2729,24 +2599,6 @@
       "lang": "en"
     },
     {
-      "id": "0b61053066e626f254a4220abc8df4f734dc87ef4ba837c1ba22b6b23da377a7",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-guin%C3%A9e-les-ong-estiment-que-la-campagne-r%C3%A9f%C3%A9rendaire-est-biais%C3%A9e",
-      "title": "Guinée : les ONG estiment que la campagne référendaire est biaisée",
-      "content_html": "En Guinée, les organisations de la société civile montent au créneau. Elles dénoncent le déroulement de la campagne référendaire. Ils estiment qu'elle s'est transformée en un vaste mouvement de soutien au Général Mamadi Doumbouya. La correspondance à Conakry de Malick Diakité.",
-      "date_published": "2025-09-17T10:20:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d3b318d6708e420d41e163c6403de4c2cb2a33cb93c73dc68d3e9866dedf27dd",
       "url": "https://www.lemonde.fr/afrique/article/2025/09/17/niger-un-journaliste-condamne-a-trente-mois-de-prison-ferme-pour-propos-injurieux-envers-le-chef-de-la-junte_6641518_3212.html",
       "title": "Niger : un journaliste condamné à trente mois de prison ferme pour propos « injurieux » envers le chef de la junte",
@@ -2757,62 +2609,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "324dfeec53da1ed692dc328da2f0aeb0f60586d7775ccb41b6d732757538419e",
-      "url": "https://www.france24.com/en/video/20250917-russia-revives-intervision-song-contest-after-being-banned-from-eurovision",
-      "title": "Russia revives Intervision song contest after being banned from Eurovision",
-      "content_html": "Russia revives Intervision song contest as banned from Eurovision after its full-scale invasion of Ukraine in 2022.",
-      "date_published": "2025-09-17T10:17:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "97575f14dc4124303cdeb878b25d4aa2292bf55036d15f0becb9240a7ce0ca43",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20250917-trump-s-15-billion-nyt-lawsuit-belongs-in-the-trash",
-      "title": "Trump's $15 billion NYT lawsuit 'belongs in the trash'",
-      "content_html": "PRESS REVIEW – Wednesday, September 17: Papers react to Israel's ground invasion of Gaza City. An opinion piece in left-wing Israeli paper Haaretz says that \"History will not forgive\". In the United States, Trump is filing a $15 billion \"alarming but not unexpected\" lawsuit against The New York Times. Plus: papers remember the life of Hollywood icon Robert Redford. Finally, a man's emotional support alligator is no longer welcome at a Walmart in Pennsylvania.",
-      "date_published": "2025-09-17T10:14:19+00:00",
-      "authors": [
-        {
-          "name": "Elitsa GADEVA"
-        }
-      ],
-      "tags": [
-        "Press Review"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "9ad3b50b31f1e08f86da8b80e4db561c87415ea16710c9c032abffccdc0562fb",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-pr%C3%A9sidentielle-au-cameroun-quel-programme-pour-le-candidat-tchiroma-bakary",
-      "title": "Présidentielle au Cameroun : quel programme pour le candidat Tchiroma Bakary ?",
-      "content_html": "Une partie de l'opposition a désigné Tchiroma Bakary candidat à la présidentielle au Cameroun pour affronter Paul Biya. Un choix qui ne fait pas l'unanimité. Nous en parlons avec lui.",
-      "date_published": "2025-09-17T10:14:01+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2904,24 +2700,6 @@
       "lang": "en"
     },
     {
-      "id": "4ea1d0e95a29f4973ad6af38cac250faf2b8e1ac8509d59a955006ff6af88259",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-au-cameroun-une-jeunesse-parfois-d%C3%A9sabus%C3%A9e-%C3%A0-un-mois-de-la-pr%C3%A9sidentielle",
-      "title": "Au Cameroun, une jeunesse parfois désabusée à un mois de la présidentielle",
-      "content_html": "50% des Camerounais ont moins de 20 ans. La plupart d'entre eux n'ont pas connu d'alternance politique. Paul Biya est au pouvoir depuis 1982, soit 43 ans. À 92 ans, Il brigue un 8e mandat de 7 ans. La jeunesse va t-elle se mobiliser pour ce scrutin ou est-elle désabusée ?",
-      "date_published": "2025-09-17T10:03:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7cd1c0e41f00e684ce1e53d4f9c919677cfc328396e527d851604fb16a4eb926",
       "url": "https://www.aljazeera.com/news/2025/9/17/did-climate-change-cause-16500-extra-deaths-in-europe-this-summer?traffic_source=rss",
       "title": "Did climate change cause 16,500 extra deaths in Europe this summer?",
@@ -2938,28 +2716,10 @@
       "lang": "en"
     },
     {
-      "id": "22404ee61542da653c22ee186f0009702e4e64853304209094d285eec935b0ed",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-des-socialistes-au-rn-lecornu-re%C3%A7oit-ses-opposants-avant-une-grande-journ%C3%A9e-d-action",
-      "title": "Des socialistes au RN, Lecornu reçoit ses opposants avant une grande journée d'action",
-      "content_html": "Sébastien Lecornu reçoit mercredi 17 septembre ses opposants politiques, à la veille d'une journée importante de mobilisation sociale, sans grande marge de manœuvre pour discuter, au vu des lignes rouges qu'ils posent et des menaces de censure. Notre reporter Julie Dungelhoeff nous en dit plus.",
-      "date_published": "2025-09-17T09:59:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "32220cd39bf59c4fee2f1d254e8b9a85d1cb47ab9bc7dcdc099f9a3a30d0ea65",
       "url": "https://www.lemonde.fr/international/article/2025/09/17/au-timor-oriental-les-manifestations-se-poursuivent-malgre-le-renoncement-du-parlement-au-projet-d-achat-controverse-de-voitures-pour-les-deputes_6641513_3210.html",
       "title": "Au Timor oriental, les manifestations se poursuivent malgré le renoncement d’un projet d’achat de voitures pour les députés",
-      "content_html": "Des étudiants universitaires lors d’une manifestation, devant le Parlement à Dili, au Timor oriental, le 17 septembre 2025.",
+      "content_html": "Des étudiants lors d’une manifestation, devant le Parlement à Dili, au Timor oriental, le 17 septembre 2025.",
       "date_published": "2025-09-17T09:53:19+00:00",
       "authors": [],
       "tags": [],
@@ -2986,24 +2746,6 @@
       "lang": "en"
     },
     {
-      "id": "95a0761ddd6c92874311825690b00f3593f11ca2c45fdd2c59345fd5a7f34cc4",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-gaza-br%C3%BBle-dit-isra%C3%ABl-alors-qu-une-op%C3%A9ration-terrestre-majeure-a-d%C3%A9but%C3%A9",
-      "title": "\"Gaza brûle\", dit Israël alors qu'une opération terrestre majeure a débuté",
-      "content_html": "Israël a dit mardi 16 septembre avoir lancé une offensive terrestre de grande ampleur en direction du centre-ville de Gaza, le ministre de la Défense Israël Katz se targuant que \"Gaza brûle\" après des bombardements aériens nocturnes d'une rare intensité dans l'enclave palestinienne.",
-      "date_published": "2025-09-17T09:51:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f02b97659f7787926a43fabf78f195ef9a664fb56dad77ab4ab4e1a802c39a29",
       "url": "https://www.timesofisrael.com/4-ex-shin-bet-heads-file-objections-to-appointment-of-zini-as-security-agency-chief/",
       "title": "4 ex-Shin Bet heads file objections to appointment of Zini as security agency chief",
@@ -3024,84 +2766,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "54adedc911bc574c2e8506542538d01b4b751397b0bac96ac27f3cd80d76963b",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250917-gaza-ville-le-d%C3%A9placement-c-est-fuir-la-mort-vers-une-autre-mort-lente-et-silencieuse",
-      "title": "Gaza-ville : \"Le déplacement, c'est fuir la mort, vers une autre mort lente et silencieuse\"",
-      "content_html": "L'armée israélienne a lancé mardi à Gaza-ville une offensive terrestre majeure visant à éliminer le Hamas, s'attirant de nombreuses condamnations à l'international dont celle de l'ONU qui a dénoncé un \"carnage\".\n\n\"Les bombardements continuent à s'intensifier\" dans la ville de Gaza, rapporte le journaliste indépendant Rami Abou Jamous.",
-      "date_published": "2025-09-17T09:47:05+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4e1edd0fe622baa92471fc7da591b639868bb405006aba43c96a49167cdb7348",
-      "url": "https://www.france24.com/en/video/20250917-trump-s-uk-visit-will-mix-trade-and-tech-talks-with-royal-pomp",
-      "title": "Trump's UK visit will mix trade and tech talks with royal pomp",
-      "content_html": "Shirli Sitbon has more.",
-      "date_published": "2025-09-17T09:46:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "94b2fda1c46c821671c61ad1dbbdf0178fee7cb7c359b07c9c423e26c6084ee3",
-      "url": "https://www.theguardian.com/world/2025/sep/17/madeleine-mccann-case-suspect-christian-bruckner-germany-prison-release",
-      "title": "Main suspect in Madeleine McCann case released from German prison",
-      "content_html": "<p>Authorities say they no longer have legal justification to hold Christian Brückner in jail after serving rape sentence</p><p>The main suspect in the disappearance of Madeleine McCann was freed on Wednesday as German authorities said they no longer had legal justification to hold him in jail.</p><p>Christian Brückner, 49, was released from prison in Sehnde, northern Germany, after serving a sentence for the rape of an American woman, then 72 years old, in Portugal in 2005, journalists at the scene reported.</p> <a href=\"https://www.theguardian.com/world/2025/sep/17/madeleine-mccann-case-suspect-christian-bruckner-germany-prison-release\">Continue reading...</a>",
-      "date_published": "2025-09-17T09:46:24+00:00",
-      "authors": [
-        {
-          "name": "Kate Connolly in Berlin"
-        }
-      ],
-      "tags": [
-        "Germany",
-        "Madeleine McCann",
-        "Europe",
-        "UK news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5836bd6f26d6815f7595fc28d0b918d8965949ea1dc96a612dbaec705b58957e",
-      "url": "https://www.france24.com/en/video/20250917-kirk-suspect-tyler-robinson-faces-death-penalty-for-aggravated-murder-charge",
-      "title": "Kirk suspect, Tyler Robinson, faces death penalty for aggravated murder charge",
-      "content_html": "Tyler Robinson fired a single fatal shot from the rooftop of a building overlooking the outdoor venue where Kirk was speaking to about 3,000 people on Sept. 10, investigators say. Afterward, prosecutors say he texted with the partner, who he lived with near St. George, Utah, about 240 miles (387 kilometers) southwest of the campus.",
-      "date_published": "2025-09-17T09:43:48+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3180,38 +2844,6 @@
       "lang": "fr"
     },
     {
-      "id": "9e58d4db7b058daa09673297f1fc3eec6708ae35320c0ba4ec0bbbbe6acac2f6",
-      "url": "https://www.lemonde.fr/international/live/2025/09/17/en-direct-guerre-en-ukraine-les-dernieres-informations_6641122_3210.html",
-      "title": "En direct, guerre en Ukraine : les dernières informations",
-      "content_html": "Un Rafale participant à une mission conjointe avec l’armée polonaise, dans l’est de la Pologne, le 17 septembre 2025.",
-      "date_published": "2025-09-17T09:35:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5fb4eebafc632292cc3feba18720a0c9c91f4816483892e6e390084ef854fcd4",
-      "url": "https://www.france24.com/en/video/20250917-israeli-military-ground-offensive-moves-in-gaza-city-as-palestinians-flee",
-      "title": "Israeli military ground offensive moves in Gaza City as Palestinians flee",
-      "content_html": "Israel launched its offensive in Gaza City on Tuesday, vowing to overwhelm a city already in ruins from nearly two years of war as thousands of Palestinians fled in vehicles strapped with mattresses and other belongings that clogged a coastal road.",
-      "date_published": "2025-09-17T09:34:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1d40928a7dcca96dd3a9a8cc1c28fa02bbf680c05029d40c93a8248ca0ee85a8",
       "url": "https://www.themoscowtimes.com/2025/09/17/kamchatka-peninsula-braces-for-5-day-internet-shutdown-amid-undersea-cable-work-a90542",
       "title": "Kamchatka Peninsula Braces for 5-Day Internet Shutdown Amid Undersea Cable Work",
@@ -3238,49 +2870,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "7e06afe3914fb1ad990ae993fe6372ca8422ef583b52f0233252421bc8a4657d",
-      "url": "https://www.france24.com/en/tv-shows/business/20250917-as-trump-makes-state-visit-starmer-bets-on-us-tech-to-power-uk-growth",
-      "title": "As Trump makes state visit, Starmer bets on US tech to power UK growth",
-      "content_html": "As US President Donald Trump makes his unprecedented second state visit to the United Kingdom, we take a look at the economic stakes at play. While finalising and improving the trade deal reached between the two countries back in May is on the agenda, the visit has so far mostly led to a host of investment pledges from US tech firms like OpenAI, Microsoft and Nvidia. The Labour government of Prime Minister Keir Starmer is hoping these investments will boost the UK's sluggish economic growth.",
-      "date_published": "2025-09-17T09:32:32+00:00",
-      "authors": [
-        {
-          "name": "Charles PELLEGRIN"
-        }
-      ],
-      "tags": [
-        "Business"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c40ca6fabe6cfc3cb7783da64b9c6947e597e108749cf24b2776ed2a04b1f882",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/17/one-in-one-out-deal-will-go-ahead-says-liz-kendall-after-last-minute-injunction",
-      "title": "‘One in, one out’ deal will go ahead, says Liz Kendall after last-minute injunction",
-      "content_html": "<p>Minister insists court ruling that blocked deportation of Eritrean man ‘will not undermine basis’ of deal with France</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/sep/17/donald-trump-uk-state-visit-king-charles-windsor-politics-latest-news-updates-labour-keir-starmer\">UK politics live – latest updates</a></p></li></ul><p>Keir Starmer’s returns deal with France will go ahead, a cabinet minister has insisted, despite a high court ruling that temporarily blocked the deportation of an Eritrean man.</p><p>Liz Kendall, the technology secretary, said the last-minute injunction stopping the 25-year-old from being flown to Paris would not scupper the “one in, one out” scheme for ever.</p> <a href=\"https://www.theguardian.com/uk-news/2025/sep/17/one-in-one-out-deal-will-go-ahead-says-liz-kendall-after-last-minute-injunction\">Continue reading...</a>",
-      "date_published": "2025-09-17T09:32:07+00:00",
-      "authors": [
-        {
-          "name": "Rajeev Syal Home affairs editor"
-        }
-      ],
-      "tags": [
-        "Immigration and asylum",
-        "UK news",
-        "France",
-        "Europe"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "9049d5441ebfa51f7d9bc1ea3b0ad104d5967f12daf907e9658df974c8115a97",
@@ -3587,22 +3176,6 @@
       "lang": "en"
     },
     {
-      "id": "51cdea37b7645b6b6bc85ee974adcbf45510dcaeb706bdbfaa53daa4279f0933",
-      "url": "https://www.aljazeera.com/video/game-theory/2025/9/17/india-v-pakistan?traffic_source=rss",
-      "title": "India v Pakistan",
-      "content_html": "One of the fiercest rivalries in sport",
-      "date_published": "2025-09-17T08:31:46+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3406fa55edd48ca32dfdf957e4b91b6fe7d68017e96457867a143f7c788c7451",
       "url": "https://www.lemonde.fr/international/article/2025/09/17/l-union-europeenne-revoit-sa-strategie-vis-a-vis-de-l-inde_6641495_3210.html",
       "title": "L’Union européenne revoit sa stratégie vis-à-vis de l’Inde",
@@ -3638,20 +3211,6 @@
       "title": "Dans la ville de Gaza méthodiquement détruite par Israël, les habitants redoutent une fuite sans retour",
       "content_html": "Des Palestiniens fuient le nord de Gaza, empruntant la route côtière vers le Sud, le 16 septembre 2025.",
       "date_published": "2025-09-17T08:28:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8a180fed044f1b9f7a19576fcf63d04a0d34ee1f751fb1d3c83c6c834a43ccea",
-      "url": "https://www.lemonde.fr/international/article/2025/09/17/en-ukraine-l-armee-russe-utilise-un-gazoduc-pour-ravitailler-son-armee-a-l-abri-des-drones-ukrainiens_6641492_3210.html",
-      "title": "En Ukraine, l’armée russe utilise un gazoduc pour ravitailler son armée à l’abri des drones ukrainiens",
-      "content_html": "Un soldat ukrainien  devant un abri dans la ville de Koupiansk, en première ligne, dans la région de Kharkiv, en Ukraine, le  30 novembre 2023.",
-      "date_published": "2025-09-17T08:15:04+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -3730,20 +3289,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "6aff08918f39119691980bb6edad4557251a7cc4eb842550ef8ffd2855fda94e",
-      "url": "https://www.lemonde.fr/economie/article/2025/09/17/en-hongrie-derriere-la-vitrine-rutilante-des-usines-de-voitures-et-de-batteries-les-doutes-sur-le-pari-electrique-d-orban_6641491_3234.html",
-      "title": "En Hongrie, derrière la vitrine rutilante des usines de voitures et de batteries, les doutes sur le pari électrique d’Orban",
-      "content_html": "Des voitures électriques en train d’être rechargées devant la nouvelle usine BMW, à Debrecen (Hongrie), le 9 septembre 2025.",
-      "date_published": "2025-09-17T08:00:11+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "62ec7d0022d5199c0ef0ae6ff9324ec6d2643c0c5c724ad13a62111bda2d6496",
@@ -3833,22 +3378,6 @@
       "lang": "en"
     },
     {
-      "id": "7811bea497542e2b506a5c88aab9b11d4f76a372d7b5a6805fc6f74d9e907dd4",
-      "url": "https://www.aljazeera.com/news/2025/9/17/ben-jerrys-cofounder-leaves-firm-amid-dispute-with-unilever-over-gaza?traffic_source=rss",
-      "title": "Ben & Jerry’s cofounder leaves firm amid dispute with Unilever over Gaza",
-      "content_html": "Jerry Greenfield says he could no longer &#039;in good conscience&#039; continue working for a company that had been &#039;silenced&#039;.",
-      "date_published": "2025-09-17T07:51:53+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "54df3a16b48c4cd4a1102235c660f2ed8a8bbab1ace8cf46ecbfc4caccc7c3b3",
       "url": "https://www.ukrinform.net/rubric-ato/4037324-six-people-injured-in-kharkiv-region-due-to-russian-strikes.html",
       "title": "Six people injured in Kharkiv region due to Russian strikes",
@@ -3884,20 +3413,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "45c1016403e1b8775d4245107058d32db2138d3bf0f8a803b93ea5e6c87b1412",
-      "url": "https://www.lemonde.fr/afrique/article/2025/09/17/au-niger-22-villageois-tues-par-des-hommes-armes-dans-la-region-de-tillaberi_6641489_3212.html",
-      "title": "Au Niger, 22 villageois tués par des « hommes armés » dans la région de Tillabéri",
-      "content_html": "Des soldats nigériens patrouillent près du village de Kandadji, dans l’ouest du Niger, en septembre 2021.",
-      "date_published": "2025-09-17T07:24:44+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -3966,28 +3481,6 @@
       "lang": "en"
     },
     {
-      "id": "1cac55d068caf87b2b1e1e52fd1afe29074f93658adb936862dabaac404adb92",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/17/tasmania-afl-stadium-hobart-independent-planning-commission-says-too-big-should-not-be-built",
-      "title": "‘Too big for the site’: Tasmanian AFL stadium should not be built, says independent planning commission",
-      "content_html": "<p>Proposed Macquarie Point venue a condition for state entering AFL in 2028, but report argues it would cause ‘unacceptable adverse impacts on Hobart’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/sep/17/australia-news-live-liberal-sussan-ley-net-zero-target-climate-crisis-anthony-albanese-donald-trump-trade-tariffs-politics-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The push to build a $945m home for the first AFL team in Tasmania has hit a major hurdle, with the proposed stadium condemned by the state’s planning commission as a “monolithic” blot on Hobart’s landscape and cultural heritage.</p><p>The damning report comes as the state’s premier, Jeremy Rockliff, admitted on Wednesday that the cost of the development had blown out by almost 20%, to $1.13bn.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/17/tasmania-afl-stadium-hobart-independent-planning-commission-says-too-big-should-not-be-built\">Continue reading...</a>",
-      "date_published": "2025-09-17T06:55:46+00:00",
-      "authors": [
-        {
-          "name": "Kelly Burke and AAP"
-        }
-      ],
-      "tags": [
-        "Tasmania",
-        "Tasmania Devils",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7186b5455bd88144ad602346a7409f862413e55402bcbe6f6d18cb0f1b6e8b9d",
       "url": "https://www.liberation.fr/international/des-photos-de-trump-et-epstein-projetees-sur-le-chateau-de-windsor-avant-la-visite-du-president-americain-20250917_X7LSO4NY7BEGHETKH6KULAMIMI/",
       "title": "Des photos de Trump et Epstein projetées sur le château de Windsor avant la visite du président américain",
@@ -4032,52 +3525,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "84b579965f235d6f7660119b0fc76b41c2bd090ec179356dcfb9fc1dc44088e4",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/17/almost-30-staff-at-anu-humanities-school-stop-work-after-health-and-safety-report-warns-of-serious-harm",
-      "title": "Almost 30 staff at ANU humanities school stop work after health and safety report warns of ‘serious harm’",
-      "content_html": "<p>Workers affected by university restructure advised to ‘remove themselves from the hazardous work environment’ if they believe they are at psychosocial risk</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/sep/17/australia-news-live-liberal-sussan-ley-net-zero-target-climate-crisis-anthony-albanese-donald-trump-trade-tariffs-politics-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Almost 30 staff at the Australian National University’s humanities school have stopped work after an internal report warned of psychological hazards in their workplace related to<strong> </strong>the <a href=\"https://www.theguardian.com/australia-news/2025/sep/12/anu-drama-who-will-exit-after-vice-chancellor-genevieve-bell\">institution’s restructure</a><strong>.</strong></p><p>The report was prepared by the health and safety representative (HSR) officer in ANU’s College of Arts and Social Sciences (Cass), who issued a cease-work order on Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/17/almost-30-staff-at-anu-humanities-school-stop-work-after-health-and-safety-report-warns-of-serious-harm\">Continue reading...</a>",
-      "date_published": "2025-09-17T06:41:41+00:00",
-      "authors": [
-        {
-          "name": "Caitlin Cassidy Education reporter"
-        }
-      ],
-      "tags": [
-        "Australian universities",
-        "Australian education",
-        "Australia news",
-        "Australian Capital Territory (ACT)",
-        "Canberra"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3c86583a34f668ea6f628ded8b99ead3a9e3f323a1032934c76c3a2f67df4e8f",
-      "url": "https://www.theguardian.com/australia-news/2025/sep/17/utss-teacher-education-program-set-to-close-as-university-reveals-plan-to-slash-over-1000-subjects",
-      "title": "UTS’s teacher education program set to close as university reveals plan to slash more than 1,000 subjects",
-      "content_html": "<p>Of 1,101 subjects to be axed, 463 had no enrolments and weren’t taught in 2024, according to University of Technology Sydney proposal</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/sep/17/australia-news-live-liberal-sussan-ley-net-zero-target-climate-crisis-anthony-albanese-donald-trump-trade-tariffs-politics-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The University of Technology Sydney will close its <a href=\"https://www.theguardian.com/commentisfree/2025/aug/21/something-is-rotten-in-australias-tertiary-education-and-utss-suspension-of-teaching-courses-is-one-of-its-biggest-disgraces\">teacher education program</a> and public health school as part of a sweeping restructure that would remove more than 1,100 subjects to return the institution to surplus.</p><p>The proposed cuts, released on Wednesday, are part of the debt-ridden university’s strategy to reduce expenditure by $100m annually, including previously announcing the cutting of about 400 jobs.</p> <a href=\"https://www.theguardian.com/australia-news/2025/sep/17/utss-teacher-education-program-set-to-close-as-university-reveals-plan-to-slash-over-1000-subjects\">Continue reading...</a>",
-      "date_published": "2025-09-17T06:37:24+00:00",
-      "authors": [
-        {
-          "name": "Caitlin Cassidy Education reporter"
-        }
-      ],
-      "tags": [
-        "Australian universities",
-        "Australian education",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -4215,54 +3662,6 @@
       "lang": "en"
     },
     {
-      "id": "ffc3db91b6505d47ea35f621f16fa2410114536e0c38b72ecbe6a46e92ea8eb6",
-      "url": "https://www.ukrinform.net/rubric-ato/4037264-general-staff-reports-1020-russian-troops-lost-over-past-day.html",
-      "title": "General Staff reports 1,020 Russian troops lost over past day",
-      "content_html": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to September 17, 2025, amount to about 1,097,450 personnel, including 1,020 in the past 24 hours.",
-      "date_published": "2025-09-17T05:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cdcd86d8b3ef51b9051c6b7e29eccd6e01cbbdadec4d35e4cf94bce52056d72d",
-      "url": "https://www.ukrinform.net/rubric-economy/4037262-eu-19th-sanctions-package-to-target-russias-crypto-banks-energy-von-der-leyen-says.html",
-      "title": "EU 19th sanctions package to target Russia’s crypto, banks, energy, von der Leyen says",
-      "content_html": "The European Commission will propose speeding up the phase-out of Russian fossil imports, while the next package of European sanctions will target, in particular, Russian crypto assets, banks, and energy.",
-      "date_published": "2025-09-17T04:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c3c6a76187c7ba238a7683bd2387353a30b8149bdfcc6598c6572450e5ffbf1f",
-      "url": "https://www.ukrinform.net/rubric-ato/4037259-ukrainian-border-guards-wipe-out-russian-bomber-mavic-in-kupiansk-sector.html",
-      "title": "Ukrainian border guards wipe out Russian bomber, Mavic in Kupiansk sector",
-      "content_html": "Drone pilots from the Phoenix Unmanned Systems Unit of the Pomsta (Revenge) Border Guard Brigade destroyed a heavy bomber, a Mavic UAV, and electronic equipment belonging to Russian invaders in the Kupiansk sector.",
-      "date_published": "2025-09-17T04:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "01c99f748a74eb00ecdd30c92c9dbd7bb9d63da983fd9ecdfa8dcd8c839a84a3",
       "url": "https://elpais.com/america/2025-09-17/estados-unidos-somete-a-maduro-al-psicoterror-la-ira-de-dios-caera-sobre-ti.html",
       "title": "Les États-Unis soumettent Maduro à Psychoterror: \"La colère de Dieu tombera sur vous\", avertit le régime",
@@ -4291,22 +3690,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "aa1044ae1c960092e533d2f189be332b3a09041d034169f7b45282f0d7ee4ffe",
-      "url": "https://www.dw.com/en/more-than-140-environmental-defenders-killed-in-2024/a-74021697?maca=en-rss-en-all-1573-rdf",
-      "title": "More than 140 environmental defenders killed in 2024",
-      "content_html": "Latin America is the most dangerous region for environmental advocates, with many of the cases remaining unsolved, according to a new report. Indigenous people, farmers and activists are all among the casualties.",
-      "date_published": "2025-09-17T04:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "c2c21d02dabd9cb808870e588a92c5ce99fe178b567278d1e0d3f51e5c58b01c",
@@ -4397,34 +3780,6 @@
       "lang": "fr"
     },
     {
-      "id": "4c411075ec8d5e3f9090ddf217c759ff3e6ce537a87c1d365c3ad87cd18b3f3e",
-      "url": "https://elpais.com/internacional/2025-09-17/el-nuevo-primer-ministro-de-francia-comienza-a-hacer-concesiones-a-los-partidos-para-evitar-otra-crisis.html",
-      "title": "Le nouveau Premier ministre de la France commence à des concessions aux parties pour éviter une autre crise",
-      "content_html": "Le nouveau Premier ministre de France, Sébastien Lecornu, lors de sa nomination au Palais de Matignon, le 10 septembre à Paris.",
-      "date_published": "2025-09-17T03:40:00+00:00",
-      "authors": [
-        {
-          "name": "Daniel Verdú"
-        }
-      ],
-      "tags": [
-        "Sébastien Lecornu",
-        "Francia",
-        "Emmanuel Macron",
-        "París",
-        "François Bayrou",
-        "Marine Le Pen",
-        "Ultraderecha",
-        "Política",
-        "Políticos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "eaffe9be28b1198e670a3d02b7216a16ff94c8d43398d0312bba87e362159cb6",
       "url": "https://ici.radio-canada.ca/nouvelle/2192901/ceremonie-prix-polaris-album-annee",
       "title": "Le Montréalais Yves Jarvis remporte le prix Polaris 2025",
@@ -4444,20 +3799,6 @@
       "title": "'The hungry can't stay silent' - behind deadly protests in oil-rich Angola",
       "content_html": "As the 50th independence anniversary approaches the country grapples with poverty and inequality.",
       "date_published": "2025-09-17T02:34:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c3a6f5607a8cd14086f3cde5d5f7169bed4c4a64a0c66a4da111cfed5c26d1e7",
-      "url": "https://www.bbc.com/news/articles/c931y04jg1vo?at_medium=RSS&at_campaign=rss",
-      "title": "Canadian writer Robert Munsch approved for assisted dying",
-      "content_html": "Munsch was diagnosed with dementia in 2021 and also has Parkinson's disease.",
-      "date_published": "2025-09-17T02:03:46+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -4557,20 +3898,6 @@
       "title": "Watch: Key takeaways from Charlie Kirk suspect's first court appearance",
       "content_html": "The BBC's Nada Tawfik reports from Utah, where Tyler Robinson appeared in court as prosecutors read the charges against him.",
       "date_published": "2025-09-17T00:56:27+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1626ad7865d93dfcf3cd897b2be1762c5b58401159b89910fc8b72280654ad03",
-      "url": "https://www.bbc.com/news/articles/ckg2r8lvjn2o?at_medium=RSS&at_campaign=rss",
-      "title": "Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege",
-      "content_html": "The 22-year-old has been charged with murder and is facing the death penalty if convicted at trial.",
-      "date_published": "2025-09-17T00:48:29+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -4757,20 +4084,6 @@
       "lang": "fr"
     },
     {
-      "id": "11d4caca9b707c96e69b04a7211a7667657b7f34ecb5803f1871523d3cf97e59",
-      "url": "https://www.bbc.com/news/articles/c07v1j98ydvo?at_medium=RSS&at_campaign=rss",
-      "title": "US officers tied us up and pointed guns at us, South Korean engineers tell BBC",
-      "content_html": "Korean workers who were detained in the US say they were treated like criminals and are still in shock.",
-      "date_published": "2025-09-16T22:10:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aa6bfbccabdd787a9b3cd31f6fa91cc27739e387895368d30d2e03577c3fc904",
       "url": "https://www.elmundo.es/internacional/2025/09/17/68c9de6f21efa0a0578b45ad.html",
       "title": "Ils évacuent près de 1 600 touristes bloqués par des manifestations à Machu Picchu, qui pourrait perdre la merveille du monde",
@@ -4899,7 +4212,7 @@
     {
       "id": "2d27029dc114360de9e20e1ffd321e0dbd80f3a22222c0abb1a12b075d42e3c4",
       "url": "https://www.elmundo.es/internacional/2025/09/16/68c97c1be85ece53068b4598.html",
-      "title": "Quatre détenus pour projeter des images Trump et Epstein à Windsor avant l'arrivée du président américain: les clés de la visite du Royaume-Uni",
+      "title": "Quatre détenus pour projeter des images de Trump et d'Epstein à Windsor avant l'arrivée du président américain: les clés de la visite du Royaume-Uni",
       "content_html": "Trump commence sa deuxième visite d'État au Royaume-Uni avec un programme blindé et sans contact avec le public",
       "date_published": "2025-09-16T20:38:02+00:00",
       "authors": [
@@ -5240,7 +4553,7 @@
       "id": "4691dd4e6e3d0f5571fcaac104ddf63a9004244494fff20dfcd6bb869ae20453",
       "url": "https://www.elmundo.es/internacional/2025/09/16/68c9abcbfc6c83ea278b456e.html",
       "title": "Première sanction du pape Leo XIV contre la pédophilie: il rejette un diacre emprisonné pour abus sexuel de cinq mineurs",
-      "content_html": "Lundi, lors d'une prière dans la basilique de San Pedro, il a déclaré que l'Église soutenait lesquelles ils ont \"subi l'injustice et la violence des abus\".\"La violence subie ne peut pas être effacée\", a-t-il dit",
+      "content_html": "Lundi, lors d'une prière dans la basilique de San Pedro, il a déclaré que l'Église soutenait lesquelles ils ont \"souffert de l'injustice et de la violence des abus\".\"La violence subie ne peut pas être effacée\", a-t-il dit",
       "date_published": "2025-09-16T18:31:08+00:00",
       "authors": [
         {
@@ -5256,20 +4569,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "f69244c09d55edce6e2606b3ac647a73be81cc1f8ddf217f54d127faafb9ac5f",
-      "url": "https://www.bbc.com/news/articles/c1dqe9ey0kgo?at_medium=RSS&at_campaign=rss",
-      "title": "Acting legend Robert Redford dies aged 89",
-      "content_html": "The acting star was famous for roles in The Sting and Butch Cassidy and the Sundance Kid.",
-      "date_published": "2025-09-16T18:25:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "db0892033d8639edf777cd74dd63af8ca1b140c4b8e17f226731f942332b9db3",
@@ -5317,18 +4616,26 @@
       "lang": "en"
     },
     {
-      "id": "1f950f30a37ef1009d03e533bd8fdc36ce730ee3cbb59ca17b94fd34b2b59e7f",
-      "url": "https://www.bbc.com/news/articles/c4g5ky0vex8o?at_medium=RSS&at_campaign=rss",
-      "title": "Coup plot charges for former Romanian presidential candidate",
-      "content_html": "Prosecutors say the right-wing former presidential candidate conspired to overthrow constitutional order in the country.",
-      "date_published": "2025-09-16T17:47:19+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "709b07f0a90f8b3f16b043d5150ee43c4d263f4f8695e3065f10d12d4786948e",
+      "url": "https://www.elmundo.es/internacional/2025/09/16/68c95f04fc6c8397128b45b2.html",
+      "title": "Un médium garantit qu'il s'agissait d'un missile polonais qui a frappé une maison à la frontière avec l'Ukraine",
+      "content_html": "Selon le journal polonais «Rzeczpospolitita», il a été abattu d'un F-16 polonais pour une défaillance du système guidé",
+      "date_published": "2025-09-16T17:34:29+00:00",
+      "authors": [
+        {
+          "name": "Xavier Colás"
+        }
+      ],
+      "tags": [
+        "Polonia",
+        "Guerra Ucrania Rusia",
+        "Especial Guerra de Ucrania"
+      ],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "28da8f46952fc60b2bea4f5ce251d02ac300814cd132e540d362c7e4387baffd",
@@ -5802,20 +5109,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2d0812c0ab8946b6f441704f3ec890d5deb5f37d631ebc1d5a5b532be6e1b088",
-      "url": "https://www.bbc.com/news/articles/cj4y2p8qq5qo?at_medium=RSS&at_campaign=rss",
-      "title": "Judge dismisses terrorism charges against Luigi Mangione",
-      "content_html": "Judge Gregory Carro also ruled a second-degree murder charge against Mangione could stand during a hearing on Tuesday.",
-      "date_published": "2025-09-16T14:27:27+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -7198,7 +6491,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "f192e93495a1984c3ab83c87b06d65d70b554ad358f32ae0e2cfda5f633c3719",
@@ -7223,24 +6516,6 @@
       "authors": [
         {
           "name": "Amaelle Guiton"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "b16656f477233016920a487662c4ab3b1a34f13550744e7880131dafde1f3f32",
-      "url": "https://www.liberation.fr/international/europe/visibilite-lgbt-subventions-retrouvees-en-autriche-la-resistance-contre-lextreme-droite-a-porte-ses-fruits-20250915_S74UYRKGJJDIFEOLLQ2C4NBDLY/",
-      "title": "Visibilité LGBT+, subventions retrouvées… En Autriche, la «résistance contre l’extrême droite a porté ses fruits»",
-      "content_html": "Le drapeau arc-en-ciel de la gay pride de Graz, en juin 2021.",
-      "date_published": "2025-09-15T15:26:21+00:00",
-      "authors": [
-        {
-          "name": "Céline Béal"
         }
       ],
       "tags": [],
@@ -7363,27 +6638,9 @@
       "lang": "en"
     },
     {
-      "id": "7acd6344ef06f6002682bacce62e74118cd804dda10c3e54ec203568ee652460",
-      "url": "https://www.liberation.fr/portraits/anastasia-fomitchova-lukraine-dans-le-sang-20250915_BZX7LI5ZTBCPXIS7NAORF6ZZ6A/",
-      "title": "Anastasia Fomitchova, l’Ukraine dans le sang",
-      "content_html": "Anastasia Fomitchova à Paris, le 3 septembre 2025.",
-      "date_published": "2025-09-15T13:35:00+00:00",
-      "authors": [
-        {
-          "name": "Nelly Didelot"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e037960d16684d4645abd100fa8f7d05793d19c1c641c756889d2f56b6aef76e",
       "url": "https://www.elmundo.es/internacional/2025/09/15/68c81134fc6c83fd578b4580.html",
-      "title": "L'opposition à Erdogan, en coin judiciaire avec des dizaines de jugements qui appellent \"coup d'État\"",
+      "title": "L'opposition à Erdogan, acculée judiciaire avec des dizaines de jugements qui appellent \"coup d'État\"",
       "content_html": "Le principal parti d'opposition fait face à 14 procès en septembre",
       "date_published": "2025-09-15T13:26:19+00:00",
       "authors": [
@@ -7654,26 +6911,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "d820c58a99dfd6318313954d4cf0e4cdae7f0b64bc973b232dc870bd709eccb4",
-      "url": "https://www.elmundo.es/internacional/2025/09/15/68c7c3d4fc6c8397128b4571.html",
-      "title": "Le principal suspect de la disparition de Madeleine McCann refuse d'être interrogée par la police de Londres",
-      "content_html": "Le chrétien allemand Brueckner, 49 ans, est en prison pour avoir violé une vieille femme et pourrait être libéré mercredi",
-      "date_published": "2025-09-15T07:49:06+00:00",
-      "authors": [
-        {
-          "name": "Agencias"
-        }
-      ],
-      "tags": [
-        "Madeleine McCann"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "a9d0b3221647a9e36de7cf3d24a8065e95c2d59ac8aecda51aa7a85150a4114d",
@@ -8733,20 +7970,6 @@
       "lang": "en"
     },
     {
-      "id": "d20a6020cae4a4b52d748692dca8280a5600c4cd45fd7c01b9a2858113ac7a33",
-      "url": "https://www.themoscowtimes.com/2025/09/11/medvedev-blames-political-violence-in-us-on-support-for-ukraine-after-charlie-kirk-killing-a90496",
-      "title": "Medvedev Blames Political Violence in U.S. on Support for Ukraine After Charlie Kirk Killing",
-      "content_html": "The former president claimed “a variety of left-wing liberal scum who support Banderite Kyiv” were to blame for the uptick in attacks.",
-      "date_published": "2025-09-11T08:53:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fec95d336fc63fb3da8e45dc3c94c4c38cc4cef8b1c1ed1a413b61ce1825a361",
       "url": "https://www.dw.com/en/dealing-with-loss-when-loved-ones-take-their-own-lives/a-73948218?maca=en-rss-en-all-1573-rdf",
       "title": "Dealing with loss: When loved ones take their own lives",
@@ -8850,20 +8073,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "fe17625166efb8b24bc086743822106c0ce6bc07ebd9342fc5576ae6a5cf3183",
-      "url": "https://www.themoscowtimes.com/2025/09/11/russias-sakha-faces-heating-crisis-amid-budget-shortfalls-a90494",
-      "title": "Russia’s Sakha Faces Heating Crisis Amid Budget Shortfalls",
-      "content_html": "The problems are affecting nearly all districts of the vast, sparsely populated region of the Far East.",
-      "date_published": "2025-09-10T22:08:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
     },
     {
       "id": "dab7689385159a7948f3dd03af4718e5c43aecd666172c97fd31995cea1a6706",
