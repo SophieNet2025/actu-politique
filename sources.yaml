@@ -1,4 +1,5 @@
 feeds:
+  # Déjà présents
   - name: BBC World
     url: https://feeds.bbci.co.uk/news/world/rss.xml
   - name: The Guardian – World
@@ -13,3 +14,41 @@ feeds:
     url: https://www.france24.com/fr/rss
   - name: Al Jazeera – All
     url: https://www.aljazeera.com/xml/rss/all.xml
+
+  # Russie
+  - name: The Moscow Times
+    url: https://www.themoscowtimes.com/rss/news
+
+  # Israël
+  - name: The Times of Israel
+    url: https://www.timesofisrael.com/feed/
+
+  # Iran
+  - name: Tehran Times
+    url: https://www.tehrantimes.com/rss/tp/1
+
+  # Canada / Québec
+  - name: CBC News – World
+    url: https://www.cbc.ca/cmlink/rss-world
+  - name: Radio-Canada International
+    url: https://ici.radio-canada.ca/rss/4159
+  - name: La Presse – International
+    url: https://www.lapresse.ca/rss/178.xml
+
+  # Ukraine
+  - name: Kyiv Independent
+    url: https://kyivindependent.com/rss
+  - name: Ukrinform
+    url: https://www.ukrinform.net/rss/block-lastnews
+
+  # France
+  - name: Le Figaro – International
+    url: https://www.lefigaro.fr/rss/figaro_international.xml
+  - name: Libération – International
+    url: https://www.liberation.fr/arc/outboundfeeds/rss/category/international/
+
+  # Espagne
+  - name: El País – Internacional
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+  - name: El Mundo – Internacional
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
