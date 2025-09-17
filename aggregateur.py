@@ -46,17 +46,17 @@ def normalize_entry(entry, feed_title, feed_link):
     authors = [{"name": entry.get("author")}] if entry.get("author") else []
     tags = [t.get("term") for t in entry.get("tags", []) if t.get("term")]
     h = hashlib.sha256((url or title).encode("utf-8")).hexdigest()
-return {
-    "id": h,
-    "url": url,
-    "title": title,
-    "content_html": content_html,  # on garde le texte tel quel, FR ou EN
-    "date_published": date_iso,
-    "authors": authors,
-    "tags": tags,
-    "source": { "name": feed_title, "url": feed_link },
-    "lang": lang
-}
+    return {
+        "id": h,
+        "url": url,
+        "title": title,
+        "content_html": content_html,  # on garde le texte tel quel, FR ou EN
+        "date_published": date_iso,
+        "authors": authors,
+        "tags": tags,
+        "source": { "name": feed_title, "url": feed_link },
+        "lang": lang
+    }
 
 def load_sources():
     with open(SRC, "r", encoding="utf-8") as f:
