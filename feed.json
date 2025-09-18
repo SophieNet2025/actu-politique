@@ -5,6 +5,50 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "9ceea039e34dc0d2781f67179fc2a85035f8112acf66cd322746cd60be8c9f54",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013010/fiasco-saaqclic-temoignage-de-karl-malenfant",
+      "title": "Karl Malenfant poursuit son témoignage à la commission Gallant",
+      "content_html": "<p>L’architecte de SAAQclic, Karl Malenfant, est de retour devant la commission Gallant.</p>",
+      "date_published": "2025-09-18T21:38:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "75e8550ca52d3d980eb8d3f819fca9cf8f66843499bef74240d082899fab70ec",
+      "url": "https://www.lemonde.fr/economie/article/2025/09/18/nvidia-vole-au-secours-d-intel_6641779_3234.html",
+      "title": "Nvidia vole au secours d’Intel",
+      "content_html": "Jensen Huang, PDG de Nvidia, au Consumer Electronics Show, à Las Vegas, le 6 janvier 2025.",
+      "date_published": "2025-09-18T21:33:38+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "96a29e20096d4605545cb5abd54300f61da9fe730b0a1208779e4f8db4bbaa52",
+      "url": "https://www.aljazeera.com/sports/2025/9/18/rashford-barcelona-down-newcastle-to-win-their-champions-league-opener?traffic_source=rss",
+      "title": "Rashford, Barcelona down Newcastle to win their Champions League opener",
+      "content_html": "England international Marcus Rashford, on loan from Man Utd, scores twice as Barcelona win 2-1 at Newcastle United.",
+      "date_published": "2025-09-18T21:32:17+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "2ad316915bc612332ae199b9169085900a29f6afd21daa07ea22aa0db86a92ab",
       "url": "https://ici.radio-canada.ca/nouvelle/2193285/trump-starmer-jimmy-kimmel--charlier-kirk-liberte-expression",
       "title": "Trump attribue la suspension de Jimmy Kimmel à un « manque de talent »",
@@ -19,18 +63,52 @@
       "lang": "fr"
     },
     {
-      "id": "9ceea039e34dc0d2781f67179fc2a85035f8112acf66cd322746cd60be8c9f54",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013010/fiasco-saaqclic-temoignage-de-karl-malenfant",
-      "title": "Karl Malenfant poursuit son témoignage à la commission Gallant",
-      "content_html": "<p>L’architecte de SAAQclic, Karl Malenfant, est de retour devant la commission Gallant.</p>",
-      "date_published": "2025-09-18T21:24:27+00:00",
+      "id": "9cde2f68a45f4da76c6cca7b3ac26915821abf54c1c32e90545c410ecba72e71",
+      "url": "https://www.ukrinform.net/rubric-polytics/4037756-president-signs-law-on-military-ombudsman.html",
+      "title": "President signs law on Military Ombudsman",
+      "content_html": "President of Ukraine Volodymyr Zelensky has signed the law on the Military Ombudsman.",
+      "date_published": "2025-09-18T21:30:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "Politics"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
-      "lang": "fr"
+      "lang": "en"
+    },
+    {
+      "id": "b259535ced746bd73d14b957cd0b63d4b04832237287c228a5d3bcec7bb2b802",
+      "url": "https://www.aljazeera.com/news/2025/9/18/us-vetoes-un-security-council-demand-for-gaza-ceasefire-for-sixth-time?traffic_source=rss",
+      "title": "US vetoes UN Security Council Gaza ceasefire demand for sixth time",
+      "content_html": "&#039;Forgive us, Palestinian brothers, sisters,&#039; says Algerian ambassador to UN Amar Bendjama after devastating outcome.",
+      "date_published": "2025-09-18T21:29:41+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b944da34a2f2bd4bcd57ca0eb69708e50a6c24167cf3ba1424c4b1408ddc99cb",
+      "url": "https://www.aljazeera.com/news/2025/9/18/judge-keeps-block-on-trump-push-to-deport-guatemalan-unaccompanied-children?traffic_source=rss",
+      "title": "Judge keeps block on Trump push to deport Guatemalan unaccompanied children",
+      "content_html": "US federal judge rebukes the Trump administration&#039;s claims that the minors&#039; parents wanted them deported.",
+      "date_published": "2025-09-18T21:25:08+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
     },
     {
       "id": "820e5d5ef58851eb91ef94fc0463a1d589b45cc6c2f59e168e187721f3b64b60",
@@ -75,6 +153,22 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "abdf1a8cab6d48bed46ece9421fe0b9278c5985ec9e6b2a0ad7e8faec5cc923c",
+      "url": "https://www.aljazeera.com/sports/2025/9/18/sri-lanka-dump-afghanistan-out-of-asia-cup-with-six-wicket-win?traffic_source=rss",
+      "title": "Sri Lanka dump Afghanistan out of Asia Cup with six-wicket win",
+      "content_html": "Afghanistan&#039;s 2025 Asia Cup run ended at the group stage following a six-wicket defeat by Sri Lanka in Abu Dhabi.",
+      "date_published": "2025-09-18T21:16:29+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -136,6 +230,22 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ff470b37795ac6b23c37eadacc53b66cde706335155e1bcd696891a407f3b4dc",
+      "url": "https://www.ukrinform.net/rubric-polytics/4038002-danish-ambassador-to-ukraine-concludes-his-tenure.html",
+      "title": "Danish ambassador to Ukraine concludes his tenure",
+      "content_html": "Ukrainian Foreign Minister Andrii Sybiha met with the Danish Ambassador to Ukraine Ole Egberg Mikkelsen who is concluding his diplomatic mission in Ukraine after five years of service.",
+      "date_published": "2025-09-18T20:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -381,7 +491,7 @@
     {
       "id": "9c1d3c58c41dbc77c7d64e617dffc1a4b36a2848a3dbaf406bf9ddfc57bf3df7",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/israel-launches-series-of-airstrikes-in-southern-lebanon?traffic_source=rss",
-      "title": "Israel launches series of airstrikes in southern Lebanon",
+      "title": "Israel launches series of air strikes in southern Lebanon",
       "content_html": "Israel has issued evacuation orders in southern Lebanon as it targets what it’s calling Hezbollah infrastructure.",
       "date_published": "2025-09-18T20:05:42+00:00",
       "authors": [],
@@ -2471,22 +2581,6 @@
       "lang": "fr"
     },
     {
-      "id": "2e331bb9c1c9a05a0210cfcebe655f90a6c22c8ca3ccb1f0e7cdb1ff29c2bd1b",
-      "url": "https://www.aljazeera.com/features/2025/9/18/ukraine-strikes-choke-off-russian-oil-exports-and-fuel-supplies?traffic_source=rss",
-      "title": "Ukraine strikes choke off Russian oil exports and fuel supplies",
-      "content_html": "Evidence mounts that Ukraine&#039;s two-pronged approach is working. Russian regions are short of fuel, and exports suffer.",
-      "date_published": "2025-09-18T15:43:29+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "093cec05e1f056a521eaf122dd4888fae558c7919e291473772ca52f4c49b1c0",
       "url": "https://www.france24.com/en/video/20250918-france-clashes-between-protesters-and-police-on-second-day-of-demonstrations",
       "title": "France: Clashes between protesters and police on second day of demonstrations",
@@ -2571,38 +2665,6 @@
       "lang": "fr"
     },
     {
-      "id": "f39bac8ecec7d5e85e10c36d5ba88e19567735d57381481eb38aafb609a0b7bc",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss",
-      "title": "Fed rate cuts: Saving American jobs or stoking inflation?",
-      "content_html": "US Federal Reserve reduces interest rates and signals more cuts ahead as the labour market slows.",
-      "date_published": "2025-09-18T15:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "89cfc115589344cc058f0882cf5b6cf2bc35bd11f867b90ad197cd973d542188",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/what-did-jimmy-kimmel-say-about-charlie-kirks-killing?traffic_source=rss",
-      "title": "What did Jimmy Kimmel say about Charlie Kirk’s killing?",
-      "content_html": "US show host Jimmy Kimmel was taken off air after he joked about the political reaction to the killing of Charlie Kirk.",
-      "date_published": "2025-09-18T15:27:57+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0958cceee46d9b079bf6ecdfc6c36d42c156098bde60e5898cc116a0a6652daf",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20250918-gr%C3%A8ve-18-septembre-quelles-mesures-doit-prendre-s%C3%A9bastien-lecornu",
       "title": "Grève 18 septembre : quelles mesures doit prendre Sébastien Lecornu ?",
@@ -2667,22 +2729,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e083d1db0aadf984088c53ac4021c5b805e24f144522927aed927261ea469b14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/18/displaced-palestinians-shelter-at-garbage-dumps?traffic_source=rss",
-      "title": "Displaced Palestinians shelter at garbage dumps",
-      "content_html": "Displaced Palestinians are pitching tents on landfill sites where they are surrounded by garbage and disease.",
-      "date_published": "2025-09-18T15:16:21+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -2925,7 +2971,7 @@
       "id": "8e1acb8f5731cbe0b6aba278e1d36b752b020dde1ff27332079678d0078c9b2e",
       "url": "https://www.elmundo.es/internacional/2025/09/18/68cc1bc3fc6c83162c8b4571.html",
       "title": "Le Royaume-Uni déporte la France vers le premier immigrant dans le cadre de l'accord \"un à l'intérieur, un à l'extérieur\"",
-      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de l'irrégule par le canal de la Mancha",
+      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de irrégulières à travers le canal de la Mancha",
       "date_published": "2025-09-18T14:59:26+00:00",
       "authors": [
         {
@@ -4401,22 +4447,6 @@
       "lang": "en"
     },
     {
-      "id": "d1f6a1d13074cd45e01d4f025361ea267b56b41446a15a9c50d76f821152b22a",
-      "url": "https://www.ukrinform.net/rubric-polytics/4037785-russian-recon-ships-and-drones-spy-on-subsea-cables-pipelines-in-europe.html",
-      "title": "Russian recon ships and drones spy on subsea cables, pipelines in Europe",
-      "content_html": "British media report that Russian reconnaissance ships and drones are actively collecting data on subsea cables and pipelines in Europe.",
-      "date_published": "2025-09-18T10:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3444a3a18b5d5113be56000854085c43deb7fbfb2e0a0b846c390594ce293301",
       "url": "https://www.themoscowtimes.com/2025/09/18/fsb-says-it-foiled-ukrainian-car-bomb-plot-against-defense-executive-a90556",
       "title": "FSB Says It Foiled Ukrainian Car Bomb Plot Against Defense Executive",
@@ -4447,26 +4477,10 @@
       "lang": "en"
     },
     {
-      "id": "7e2f983497a18f93b502960cb9b91598020986bb50383eb7c18cee9854a70aa5",
-      "url": "https://www.ukrinform.net/rubric-polytics/4037778-international-military-exercise-lightning-kicks-off-in-estonia.html",
-      "title": "International military exercise 'Lightning' kicks off in Estonia",
-      "content_html": "On Thursday, September 18, the two-week international military exercise Pikne (Lightning) began in Estonia.",
-      "date_published": "2025-09-18T10:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e75824e135eb903c194899b1796f57182f075874b2e12ab15d23f8f79f2f5198",
       "url": "https://www.dw.com/en/germany-updates-merz-goes-to-spain-amid-israel-differences/live-74037511?maca=en-rss-en-all-1573-rdf",
       "title": "Germany updates: Merz goes to Spain amid Israel differences",
-      "content_html": "Germany's Friedrich Merz is to meet Spanish PM Pedro Sanchez in Madrid, with one big dividing issue between the two. Lawmakers are to vote on the 2025 budget, which is much-criticized in some quarters. DW has more.",
+      "content_html": "Germany's Friedrich Merz has met with Spanish PM Pedro Sanchez in Madrid, with one big dividing issue between the two. Plus, the German governnment gained Bundestag approval for its annual budget. DW has the latest.",
       "date_published": "2025-09-18T10:12:00+00:00",
       "authors": [],
       "tags": [
@@ -4933,20 +4947,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3f7a5c425e60630797a1197c4df1daf4c73ce6c1d6455394339239cd0997cf9e",
-      "url": "https://www.lemonde.fr/afrique/article/2025/09/18/au-nigeria-le-president-met-fin-a-six-mois-d-etat-d-urgence-dans-l-etat-de-rivers_6641701_3212.html",
-      "title": "Au Nigeria, le président met fin à six mois d’état d’urgence dans l’Etat de Rivers",
-      "content_html": "Un camion passe près d’un pipeline à Ejamah-Ebubu, dans l’Etats de Rivers, au Nigeria, le 23 août 2021.",
-      "date_published": "2025-09-18T07:51:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
