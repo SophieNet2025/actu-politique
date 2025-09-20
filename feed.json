@@ -5,6 +5,34 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "881c3363240fed359673451156b3caf55047464df3746a33c01730579eb7e6fb",
+      "url": "https://ici.radio-canada.ca/nouvelle/2193857/aeroports-europe-cyberattaque",
+      "title": "Plusieurs grands aéroports européens perturbés par une cyberattaque",
+      "content_html": "<p>Des retards et des annulations ont été provoqués.</p>",
+      "date_published": "2025-09-20T09:35:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d0923f34e9f96d061c931372d65cc44702889faacbd1a31813c55e8611829055",
+      "url": "https://www.lemonde.fr/idees/article/2025/09/20/l-imperatif-de-la-reconnaissance-de-l-etat-de-palestine_6642006_3232.html",
+      "title": "L’impératif de la reconnaissance de l’Etat de Palestine",
+      "content_html": "Le président français, Emmanuel Macron, lors d’une vidéoconférence avec plusieurs partenaires européens et arabes sur la situation au Moyen-Orient, à l’Élysée, le 15 septembre 2025.",
+      "date_published": "2025-09-20T09:30:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "79f86419dc4ae2a85f48ca063424bd0fa9a62d508de3838160cb3bbd8283f4b9",
       "url": "https://www.ukrinform.net/rubric-ato/4038539-russian-drone-strikes-prymorsk-civilian-injured.html",
       "title": "Russian drone strikes Prymorsk, civilian injured",
@@ -21,22 +49,30 @@
       "lang": "en"
     },
     {
-      "id": "27fcbaa733e61b07c9d757fbc77edd72eb84b3a5168174c24acd9988b1b66538",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250920-en-estonie-l-otan-intercepte-des-avions-de-chasse-russes",
-      "title": "En Estonie, l'Otan intercepte des avions de chasse russes",
-      "content_html": "Des avions de chasse de l'Otan ont intercepté vendredi trois MiG-31 russes entrés dans l'espace aérien de l'Estonie, l'Alliance atlantique et l'Union européenne dénonçant une nouvelle \"provocation\" de la part de Moscou quelques jours après l'intrusion de drones russes en Pologne. Les précisions avec notre correspondant à Bruxelles, Pierre Benazet.",
-      "date_published": "2025-09-20T09:19:34+00:00",
+      "id": "612db285d828e11f25a7b11ed6e1c96ceb671c87bf3ac31e7fcde0a850927dce",
+      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
+      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
+      "content_html": "<p>Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles</p><p>Below are some of the latest pictures of Ukraine coming through from the wires.</p><p><strong>Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports.</strong></p><p><em>We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible.</em></p><p><em>The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-09-20T09:21:05+00:00",
       "authors": [
         {
-          "name": "FRANCE24"
+          "name": "Joe Coughlan"
         }
       ],
-      "tags": [],
+      "tags": [
+        "Europe",
+        "Ukraine",
+        "Russia",
+        "Estonia",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyy",
+        "World news"
+      ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "ef45036a8ce950664f21b85111a802dc8bef26de74e6c28d9577f4446fb62293",
@@ -76,24 +112,6 @@
       "lang": "fr"
     },
     {
-      "id": "09c17e1c3244da9a36cac80d7b1241ed0314af821c3b3b5badab122538a22af6",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250920-offensive-isra%C3%A9lienne-plus-de-450-000-palestiniens-ont-fui-gaza-ville",
-      "title": "Offensive israélienne : plus de 450 000 Palestiniens ont fui Gaza-ville",
-      "content_html": "L'armée israélienne a prévenu vendredi qu'elle allait frapper avec une \"force sans précédent\" Gaza-ville, après la fuite de près d'un demi-million d'habitants face à une offensive majeure largement décriée par la communauté internationale.",
-      "date_published": "2025-09-20T09:17:40+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "677f920dcaa17922a5586434ba2032d0aafc3d8b78abee62f899acb549e4fbc7",
       "url": "https://www.dw.com/en/germany-updates-cities-brace-for-abortion-climate-protests/live-74072701?maca=en-rss-en-all-1573-rdf",
       "title": "Germany updates: Cities brace for abortion, climate protests",
@@ -112,8 +130,8 @@
     {
       "id": "5cab3de54cad751ba5cee3cfea6621162fcf65932c6312f096100927618600ad",
       "url": "https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review",
-      "title": "Rachel Reeves due to speak at gambling lobbyist’s event amid £12bn tax review",
-      "content_html": "<p>Chancellor’s invitation criticised as ‘very strange timing’ with Treasury looking at whether to raise duties on sector</p><p>The chancellor, Rachel Reeves, has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector.</p><p>Reeves is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review\">Continue reading...</a>",
+      "title": "Rachel Reeves due to appear at gambling lobbyist’s event amid tax review",
+      "content_html": "<p>Chancellor’s invitation criticised as ‘strange timing’ with Treasury looking at whether to raise duties on £12bn sector </p><p>The chancellor, Rachel Reeves, has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector.</p><p>Reeves is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review\">Continue reading...</a>",
       "date_published": "2025-09-20T09:06:19+00:00",
       "authors": [
         {
@@ -198,28 +216,18 @@
       "lang": "en"
     },
     {
-      "id": "612db285d828e11f25a7b11ed6e1c96ceb671c87bf3ac31e7fcde0a850927dce",
-      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
-      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "content_html": "<p>Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles</p><p><strong>Collins Aerospace owner RTX said on Saturday that it had become aware of a cyber- related disruption to its MUSE software in selected airports, after major European flight hubs flagged delays due to a cyber-attack, Reuters reports.</strong></p><p>The company said:</p><p><em>We are actively working to resolve the issue and restore full functionality to our customers as quickly as possible.</em></p><p><em>The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-20T09:04:57+00:00",
-      "authors": [
-        {
-          "name": "Joe Coughlan"
-        }
-      ],
+      "id": "cafc9c265391c9cdd7517ec3a23de3a0dda5d50f8c0ba9362adcf356cc1cfe69",
+      "url": "https://www.aljazeera.com/news/2025/9/20/iraq-set-to-open-huge-solar-plant-in-karbala-to-battle-electricity-crisis?traffic_source=rss",
+      "title": "Iraq set to open huge solar plant in Karbala to battle electricity crisis",
+      "content_html": "Iraq is advancing several solar power projects as part of a plan to meet its electricity needs.",
+      "date_published": "2025-09-20T09:03:38+00:00",
+      "authors": [],
       "tags": [
-        "Europe",
-        "Ukraine",
-        "Russia",
-        "Estonia",
-        "Vladimir Putin",
-        "Volodymyr Zelenskyy",
-        "World news"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -306,24 +314,6 @@
       "lang": "fr"
     },
     {
-      "id": "954ee2a9f590a062a9ac0f8e97f47887761ead50aba344abf4cafbfec9c42996",
-      "url": "https://www.france24.com/en/video/20250920-ukraine-develops-its-drone-industry-as-it-seeks-to-triple-production",
-      "title": "Ukraine develops its drone industry as it seeks to triple production",
-      "content_html": "Ukrainian troops are pressing on with the counteroffensive in the east. President Zelensky says they have managed to push back some Russian drones. Ukraine continues to rely on weapons from its Western allies but is also investing in its own defense industry, particularly in the production of drones. Solange Mougin  and Axelle Simon report.",
-      "date_published": "2025-09-20T08:58:26+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "984e62c4f3899d2de88dcfbf5c95901a1547e57216999fb7fb3bbc9e3340adcf",
       "url": "https://www.dw.com/en/turkey-s-government-is-clamping-down-on-female-artists/a-74051574?maca=en-rss-en-all-1573-rdf",
       "title": "Turkey's government is clamping down on female artists",
@@ -363,42 +353,6 @@
       "lang": "en"
     },
     {
-      "id": "3ae817b5d63d8611703c05c0fdd66461590178a6c49c0f4b4ae883b7ea5cc69c",
-      "url": "https://www.france24.com/en/video/20250920-un-security-council-votes-to-reimpose-iran-nuclear-sanctions-tehran-blasts-illegal-move",
-      "title": "UN Security Council votes to reimpose Iran nuclear sanctions, Tehran blasts ‘illegal’ move",
-      "content_html": "A UN Security Council resolution aimed at halting the reimposition of sanctions on Iran over its nuclear programme failed Friday after weeks of last-ditch diplomatic talks appeared to break down. France, Germany and Britain have moved to trigger the “snapback mechanism” of the 2015 Iran nuclear deal which reimposes sanctions that were in effect before the deal. Carys Garland explains.",
-      "date_published": "2025-09-20T08:56:51+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b490a98dada8819278df4e1ecd59228ce28c46a40d0ee6a153d869d1d45097dc",
-      "url": "https://www.france24.com/en/video/20250920-us-fallout-continues-after-charlie-kirk-s-assassination",
-      "title": "US: Fallout continues after Charlie Kirk's assassination",
-      "content_html": "The fallout continues after the assassination of conservative activist Charlie Kirk. In recent days, there have also been freedom of speech protests following the removal of Jimmy Kimmel Live from ABC’s schedule over Kirk’s comments. Kirk’s funeral is scheduled for Sunday in Arizona, with President Trump expected to attend. Peter O’Brian has the latest.",
-      "date_published": "2025-09-20T08:55:07+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "399b982badb695f1b4bf1a057eb92de7b57304c96fb5639eed1cd4bf140a39d5",
       "url": "https://www.dw.com/en/airports-across-europe-face-disruptions-due-to-cyberattack/a-74073365?maca=en-rss-en-all-1573-rdf",
       "title": "Airports across Europe face disruptions due to cyberattack",
@@ -415,60 +369,6 @@
       "lang": "en"
     },
     {
-      "id": "416d2446a51434e4a6b5c5e082cefab16609b5f10bc91cac87696b1963123f1f",
-      "url": "https://www.france24.com/en/video/20250920-us-forces-strike-third-alleged-drug-vessel-killing-three-trump-says",
-      "title": "US forces strike third alleged drug vessel killing three, Trump says",
-      "content_html": "President Donald Trump announced that US forces conducted a “lethal kinetic strike” on a vessel allegedly trafficking drugs, killing three “male narcoterrorists” on board. He said he authorized the operation, carried out within the US Southern Command’s jurisdiction, after intelligence confirmed the boat’s involvement in drug smuggling. This marks the third such strike on suspected narcotics vessels in recent weeks. Postdoctoral researcher Emilia Ziosi from the University of Oxford’s Department of Sociology joins us for more.",
-      "date_published": "2025-09-20T08:53:00+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7b22c0604f2304858303af61eb1f7798b05db43ec10d90469a5587f7ef0d9a41",
-      "url": "https://www.france24.com/en/video/20250920-un-chief-says-world-should-not-be-intimidated-by-israel-in-its-moves-to-annex-west-bank",
-      "title": "UN chief says world should not be 'intimidated' by Israel in its moves to annex West Bank",
-      "content_html": "UN Secretary-General Antonio Guterres on Friday said the world should not be  “intimidated” by Israel as it continues its offensive in Gaza, adding that the international community should try to  “put pressure” on Israel to keep it from annexing the West Bank. Guterres spoke ahead of next week's UN meetings at which 10 countries will recognise a Palestinian state, according to France. France24 correspondent Noga Tarnopolsky reports from Jerusalem.",
-      "date_published": "2025-09-20T08:50:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "dbcaf8525244a98199678246192d148fc065a7c19b7f50863e85e5f5288e3aef",
-      "url": "https://www.france24.com/en/video/20250920-kpop-demon-hunters-drone-show-wovs-fans-in-south-korea",
-      "title": "KPop Demon Hunters drone show wovs fans in South Korea",
-      "content_html": "Fans of the hit animated musical KPop Demon Hunters, Netflix’s most-watched film, enjoyed a spectacular drone show over Seoul on Sunday, where 1,200 drones illuminated the night sky with images of beloved characters and iconic South Korean landmarks. According to The Korea Herald, the display featured fan-favorite character Rumi towering over the city, leaving the crowd in awe at the free event. France24’s Tommy Walker, Chloé Borgnon and Constantin Simon report.",
-      "date_published": "2025-09-20T08:47:13+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "22ea05b9249eb8da2a0d395499cbf9556833f0c3699efad5bde84b619dd40a46",
       "url": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss",
       "title": "Malawi police arrest eight for alleged election fraud",
@@ -479,24 +379,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b2ba7a875609ee4e044b4d2e293d34ce917ff4b364ea98a65536aa34d05847cd",
-      "url": "https://www.france24.com/en/video/20250920-estonia-nato-slam-brazen-russian-air-incursion-moscow-denies-claim",
-      "title": "Estonia, NATO slam ‘brazen’ Russian air incursion, Moscow denies claim",
-      "content_html": "Estonia has accused Russia of breaching its airspace, alleging that three supersonic Russian fighter jets carried out an “unprecedented and brazen” incursion. The accusation, made on Friday, drew swift condemnation from NATO and several European nations, which described the incident as a “reckless” and “dangerous provocation.” Russia’s Ministry of Defence, however, rejected the claim. Simon Moritz has the latest.",
-      "date_published": "2025-09-20T08:42:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -531,26 +413,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "5c0597f17523e8eb4857333c33c82689dbb638a7a75919590e9726ecca9da421",
-      "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20250920-j-3-avant-ballon-d-or-nouvelle-surprise-perspective",
-      "title": "J-3 avant le Ballon d'Or : une nouvelle surprise en perspective ?",
-      "content_html": "Après Rodri en 2024, pourrait-on assister à une nouvelle surprise lundi soir au Théâtre du Châtelet ? Même si les noms d'Ousmane Dembélé et Yamine Yamal reviennent avec insistance, qui d'autre pourrait rafler la mise ?",
-      "date_published": "2025-09-20T08:23:44+00:00",
-      "authors": [
-        {
-          "name": "Annie GASNIER"
-        }
-      ],
-      "tags": [
-        "Café des sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "73054efce6d457363f653f559caae1e1ed57efa6ca8645d6f53767a64b67d3f6",
@@ -641,26 +503,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "9b529ccddda938dbb634c86b9541a478a84b9bf51e3d2e51eec25bb76febf396",
-      "url": "https://www.france24.com/fr/sports/20250920-football-luca-zidane-gardien-choisit-algerie-can-2025-zinedine-fennecs",
-      "title": "Football : Luca Zidane choisit l'Algérie à trois mois de la CAN 2025",
-      "content_html": "Luca Zidane, fils de la légende du football français Zinédine, a officiellement changé de nationalité sportive, vendredi, et opté pour l'Algérie, pays de ses grands-parents paternels. Le gardien de but de 27 ans, qui joue actuellement en D2 espagnole, pourrait ainsi être sélectionné pour la CAN 2025.",
-      "date_published": "2025-09-20T08:01:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "737ad2f67095d012a986e389c73d848ed24619b5ae3f5aebaebb00f7e93f00d5",
@@ -829,26 +671,6 @@
       "lang": "fr"
     },
     {
-      "id": "f8e14f27d094779c3448853f42c40533bdd522fe2457ead20eb32f4704426865",
-      "url": "https://www.france24.com/fr/france/20250920-drapeaux-palestiniens-mairies-ministere-int%C3%A9rieur-demande-aux-prefets-faure-opposer",
-      "title": "Drapeaux palestiniens sur les mairies : le ministère de l'Intérieur dit aux préfets de s'y opposer",
-      "content_html": "Alors que plusieurs villes françaises ont annoncé leur volonté d'afficher le drapeau palestinien sur leurs frontons lundi 22 septembre, jour de reconnaissance par la France d'un État de Palestine, le ministère de l'Intérieur a demandé aux préfets de s'y opposer au titre \"du principe de neutralité du service public \".",
-      "date_published": "2025-09-20T07:53:53+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1b3effc79d79f34993d5ebf9e26056e8306074917c09e05f69222bff5c0b1dc1",
       "url": "https://www.ukrinform.net/rubric-ato/4038494-one-person-killed-and-medical-workers-wounded-in-russian-attacks-in-chernihiv-region.html",
       "title": "One person killed and medical workers wounded in Russian attacks in Chernihiv region",
@@ -939,24 +761,6 @@
       "lang": "en"
     },
     {
-      "id": "48a9749ca0a09e4837d82f32f2007bc83ba87aaba8609d29cbbe2997dfbe7353",
-      "url": "https://www.france24.com/en/video/20250920-many-of-us-knew-that-the-second-term-of-donald-trump-would-be-much-more-dangerous-than-the-first",
-      "title": "'Many of us knew that the second term of Donald Trump would be much more dangerous than the first'",
-      "content_html": "Reed Brody, former New York Assistant Attorney General, and renowned human rights lawyer known for holding dictators accountable, is now sounding the alarm at home. He describes what he sees as an “unprecedented attack on freedom of expression” in the United States: A broad, systematic effort to silence any dissent (in the media, at law firms, NGOs, universities) using all of the levers of government. And this goes far beyond censorship, Brody tells us. “It’s a litmus test of obedience to Donald Trump\", enforced through corporate pressure and regulatory threats. He points to recent cases like the suspension of Jimmy Kimmel’s show, and CBS’s announcement it will be ending The Late Show with Stephen Colbert in May 2026, during high-stakes billion-dollar merger talks with federal regulators. From late-night television to elite universities, Brody argues that dissenting voices are being squeezed through indirect but deliberate means, not by violating the First Amendment, but by exploiting every possible loophole in the law, accompanied by the vast levers of power. “What’s happening is much more pernicious, and dangerous,\" than violating freedom of speech, he warns. It’s targeted, sophisticated, and cloaked in legality.",
-      "date_published": "2025-09-20T07:27:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7eb77a0be5f3dcef3a035c0cc7accb1026fbf32af058a9d8806cbdd10c573aad",
       "url": "https://www.ukrinform.net/rubric-ato/4038479-front-line-sees-165-clashes-with-russian-army-during-day.html",
       "title": "Front line sees 165 clashes with Russian army during day",
@@ -1026,44 +830,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e35e1665faedbdff042eec61fee16a66c1c84bd0d9703839e1f205e1dc26b780",
-      "url": "https://www.france24.com/en/middle-east/20250920-un-chief-says-world-should-not-be-intimidated-by-israel-in-its-moves-to-annex-west-bank",
-      "title": "Live: UN chief says world should not be 'intimidated' by Israel in its moves to annex West Bank",
-      "content_html": "UN Secretary-General Antonio Guterres on Friday said the world should not be  “intimidated” by Israel as it continues its offensive in Gaza, adding that the international community should try to  “put pressure” on Israel to keep it from annexing the West Bank. Guterres spoke ahead of next week's UN meetings at which 10 countries will recognise a Palestinian state, according to France. Follow our liveblog for the latest developments.",
-      "date_published": "2025-09-20T07:11:46+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "79ea9c5e5a090c4a71194fcff820ef83a8eae5d8040b022af5e6752bfe8e45d9",
-      "url": "https://www.france24.com/en/video/20250920-macron-set-to-recognise-palestinian-state-why-is-france-forbidding-mayors-from-flying-the-flag",
-      "title": "Macron set to recognise Palestinian state: Why is France forbidding mayors from flying the flag?",
-      "content_html": "French President Emmanuel Macron is set to formally declare France’s recognition of a Palestinian state at a United Nations conference in New York co-chaired with Saudi Arabia, as the U.N. General Assembly starts. Meanwhile, France's interior ministry has ordered prefects to oppose the display of Palestinian flags on town halls and other public buildings to coincide with Paris formally recognising the Palestinian state. For in-depth analysis and a deeper perspective, Gavin Lee welcomes William Julié, Franco-British lawyer specialized in criminal defense and Human Rights Law.",
-      "date_published": "2025-09-20T07:10:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1268,66 +1034,6 @@
       "lang": "en"
     },
     {
-      "id": "6ea04ee15f5c2af64bfcb505ec9f4729ee389e4866d7603e878f99bf44f1a00b",
-      "url": "https://www.france24.com/en/europe/20250920-soft-power-russia-revives-the-intervision-song-contest-cold-war-rival-to-eurovision",
-      "title": "Soft power: Russia revives the Intervision song contest, Cold War rival to Eurovision",
-      "content_html": "Russia on Saturday hosts Intervision, an international song contest that was a regular fixture in Soviet states in the 1960s and ’70s. The revival follows Russia’s exclusion from Eurovision since its full-scale 2022 invasion of Ukraine.",
-      "date_published": "2025-09-20T06:26:27+00:00",
-      "authors": [
-        {
-          "name": "Joanna YORK"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "74b5d1dc6fcff643c8429e09cb11bd552e6fe27496819dff26d527a5af0baae1",
-      "url": "https://www.france24.com/fr/france/20250920-dans-les-vignes-fran%C3%A7aises-des-c%C3%A9pages-hybrides-pour-s-affranchir-des-pesticides",
-      "title": "Dans les vignes françaises, des cépages hybrides pour s'affranchir des pesticides",
-      "content_html": "En France, un petit nombre de viticulteurs expérimentent depuis quelques années l'usage de \"cépages hybrides\" plus résistants aux maladies, comme le mildiou ou l'oïdium. Leur objectif : s'affranchir des pesticides, omniprésents dans la vigne traditionnelle. Mais face à une profession attachée à son patrimoine et des consommateurs à convaincre, ces nouvelles pratiques peinent à se faire une place.",
-      "date_published": "2025-09-20T06:20:06+00:00",
-      "authors": [
-        {
-          "name": "Cyrielle CABOT"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d48af8bb3557be16311107b24fd0376e6a146268c82c72c55b156fb8d0d45d08",
-      "url": "https://www.france24.com/fr/moyen-orient/20250920-en-direct-armee-israelienne-offensive-frapper-gaza-ville-avec-une-force-sans-pr%C3%A9c%C3%A9dent-onu-netanyahu-hamas",
-      "title": "En direct : le monde ne doit pas être \"intimidé\" par les menaces d'Israël, dit le chef de l'ONU",
-      "content_html": "\"Nous ne devons pas nous sentir intimidés par le risque de représailles\" israéliennes contre les reconnaissances de l'État palestinien, a plaidé vendredi le secrétaire général de l'ONU Antonio Guterres, à quelques jours de l'ouverture de l'Assemblée générale de l'organisation. De son côté, l'armée israélienne se prépare samedi à frapper avec une \"force sans précédent\" la ville de Gaza. Suivez notre direct.",
-      "date_published": "2025-09-20T06:10:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "44a24d15d48a6c2b8609ec57314adb792375c48cfa283bfbc08b52cdb5a29c34",
       "url": "https://www.timesofisrael.com/dutch-cops-arrest-suspect-in-attempted-break-in-arson-at-israeli-embassy/",
       "title": "Dutch cops arrest suspect in attempted break-in, arson at Israeli embassy",
@@ -1449,26 +1155,6 @@
       "lang": "en"
     },
     {
-      "id": "5354ede63367c8b3dabe8f730502017155e0ae81f3bf3832b6b21416c59b527f",
-      "url": "https://www.france24.com/fr/europe/20250920-russie-dement-avoir-viole-espace-a%C3%A9rien-estonien-pologne-ukraine-otan-mig-31",
-      "title": "Moscou dément avoir violé l'espace aérien estonien, attaque russe \"massive\" en Ukraine",
-      "content_html": "Le ministère russe de la Défense a nié samedi que des avions militaires russes aient violé la veille l'espace aérien de l'Estonie, indiquant que ses chasseurs s'étaient contentés de survoler \"les eaux neutres de la mer Baltique\". Dans la nuit, la Russie a par ailleurs lancé 40 missiles et quelque 580 drones sur l'Ukraine lors d'une \"attaque massive\" meurtrière, selon le président Zelensky.",
-      "date_published": "2025-09-20T05:32:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "57799a219ac5ca7fe2fee9213c44062807fc53159f05e208a003544329cbbd60",
       "url": "https://www.elmundo.es/internacional/2025/09/20/68ce3b84e85ecebd4c8b4584.html",
       "title": "Trump déclare que l'armée américaine a coulé un autre navire \"de trafiquants de drogue\" dans les Caraïbes",
@@ -1506,26 +1192,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "90608c5aaefaba9741d67f4820f1f7b43c45119e12a80bc207995980f2d49b03",
-      "url": "https://www.france24.com/en/europe/20250920-poland-scrambles-aircraft-in-response-to-russian-strikes-on-western-ukraine",
-      "title": "Zelensky slams large-scale Russian strikes on Ukraine, Poland deploys air defences",
-      "content_html": "President Volodymyr Zelensky on Saturday denounced a major Russian drone and missile attack overnight that killed three people and injured dozens. Early Saturday, Polish and allied aircraft were deployed to ensure the safety of Polish airspace as Russia’s attack also targeted the west of Ukraine near the border with Poland, the Polish military said.",
-      "date_published": "2025-09-20T05:24:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1681,26 +1347,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a33af35b1f463f2bac067127d6cb1a85efca7baa9f3b4df73d549cf493aeb840",
-      "url": "https://www.france24.com/fr/info-en-continu/20250920-le-parquet-v%C3%A9n%C3%A9zu%C3%A9lien-r%C3%A9clame-une-enqu%C3%AAte-de-l-onu-sur-les-bateaux-d%C3%A9truits-par-les-etats-unis",
-      "title": "Vénézuéla : Caracas réclame une enquête de l'ONU sur les bateaux détruits par l'armée américaine",
-      "content_html": "Dénonçant des \"crimes contre l'humanité\", le procureur général du Venezuela Tarek William Saab a demandé vendredi à l'ONU d'ouvrir une enquête sur les frappes de l'armée américaine ayant détruit trois bateaux dans les Caraïbes. Donald Trump a publié le même jour une nouvelle vidéo montrant ce qu'il a présenté comme une frappe américaine qui a selon lui tué trois \"narcoterroristes\".",
-      "date_published": "2025-09-20T04:21:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2011,26 +1657,6 @@
       "lang": "fr"
     },
     {
-      "id": "dad538cc2fd7ea3d6086420ba0c1efb03edd8f25b311cf2eeaa574d254972ac4",
-      "url": "https://www.france24.com/fr/info-en-continu/20250920-trump-impose-des-frais-de-100-000-dollars-par-an-pour-un-visa-embl%C3%A9matique-de-la-tech",
-      "title": "Donald Trump impose des frais annuels de 100 000 dollars pour un visa emblématique de la tech",
-      "content_html": "Donald Trump a annoncé vendredi imposer des frais annuels de 100 000 dollars par an pour bénéficier d'un visa de travail H-1B, dont les entreprises de la tech sont friandes. Le président américain a également signé le décret créant une carte de séjour \"dorée\" à un million de dollars.",
-      "date_published": "2025-09-20T03:09:33+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e820ff09c36b4109e41194d60cd2710965d87d7fef489e5ebeaa22ae26924b1e",
       "url": "https://www.dw.com/en/estonia-seeks-nato-consultations-after-russia-jets-incident/live-74071954?maca=en-rss-en-all-1573-rdf",
       "title": "Estonia seeks NATO consultations after Russia jets incident",
@@ -2073,26 +1699,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "001a4569662f31a4f21e7d54cbbaebbccee362cd26157decf7554c3388ee41c1",
-      "url": "https://www.france24.com/en/live-news/20250920-trump-hits-h-1b-visas-a-tech-industry-favorite-with-100-000-fee",
-      "title": "Trump raises fee for skilled worker visas by $100,000 despite tech sector warnings",
-      "content_html": "US President Donald Trump on Friday ordered the fee for H-1B visas for skilled workers to rise by $100,000 annually despite opposition from the US tech sector, which says it needs skilled foreign workers to fill job vacancies. The US approved about 400,000 H-1B visas in 2024, two-thirds of which were renewals.",
-      "date_published": "2025-09-20T02:41:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Americas"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "b663f9726574cd969b487a1ff939ff8b4168d85eb11c5770b66fe549fe7aa043",
@@ -2973,42 +2579,6 @@
       "lang": "fr"
     },
     {
-      "id": "3216ba7b760f3f88c0f07301557a4a12f985055efa4c8afd560d703865739149",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20250919-young-cyclists-gear-up-for-glory",
-      "title": "Young cyclists gear up for glory",
-      "content_html": "Elite cyclists are getting in gear for UCI World Road Cycling Championships in Rwanda. It’s the very first time the event is being staged on African soil. For many young African riders, this is a once-in-a-lifetime chance to test themselves against the world’s best. We meet some of the bright hopes flying the flag for the continent.",
-      "date_published": "2025-09-19T22:01:49+00:00",
-      "authors": [
-        {
-          "name": "Clarisse FORTUNÉ"
-        }
-      ],
-      "tags": [
-        "Eye on Africa"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "085c80cbb12485cdd4f57f22e1f4e84ba4b969dc2f9cdba1ecd8b5448c2075ee",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20250919-taxe-zucman-une-fausse-bonne-id%C3%A9e",
-      "title": "Taxe Zucman : une fausse bonne idée ?",
-      "content_html": "Impôt confiscatoire pour les uns, solution pour plus de justice fiscale pour les autres, la taxe Zucman continue de faire débat en France, bien que 86% des Français y soient favorables selon un sondage Ifop. Qu'en pense Henri Sterdyniak, économiste à l’OFCE ? Entretien.",
-      "date_published": "2025-09-19T21:37:03+00:00",
-      "authors": [],
-      "tags": [
-        "La question qui fâche"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f56925ee0613e26d6bf733f3ff5b7a3f676f634b0abab39a44b704fe9e25e060",
       "url": "https://www.ukrinform.net/rubric-ato/4038060-resistance-movement-atesh-guides-strike-on-russian-buk-missile-system.html",
       "title": "Resistance movement ATESH guides strike on Russian ‘Buk’ missile system",
@@ -3110,26 +2680,6 @@
       "lang": "en"
     },
     {
-      "id": "d3f837e21d17b320ab53f53dc8b96093e9abb010efa06494dac42eefa5cd5c0f",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20250919-la-crise-s-accentue-entre-paris-et-bamako-fin-de-la-coop%C3%A9ration-antiterroriste",
-      "title": "La crise s'accentue entre Paris et Bamako: fin de la coopération antiterroriste.",
-      "content_html": "Le ton continue de monter entre la France et le Mali… Paris répond à Bamako après l’arrestation dans la capitale malienne le mois dernier d’un diplomate français accusé tentative de déstabilisation et d’être un espion… parmi les décisions de la France il y a 2 diplomates maliens qui sont désormais indésirables en France...",
-      "date_published": "2025-09-19T21:15:07+00:00",
-      "authors": [
-        {
-          "name": "Elom TOBLE"
-        }
-      ],
-      "tags": [
-        "Journal de l'Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b102e19b14afb5ae69a5e027c74327de0702bdbc242a6367cf2dbce61ca3c5c9",
       "url": "https://www.ukrinform.net/rubric-ato/4038407-war-update-124-clashes-on-frontline-44-attacks-repelled-in-pokrovsk-sector.html",
       "title": "War update: 124 clashes on frontline, 44 attacks repelled in Pokrovsk sector",
@@ -3200,46 +2750,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d45f908352b5f34a96f19502c86716f9e2a54d395704c60cc9798f0228f494e3",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20250919-la-france-menac%C3%A9e-de-devenir-un-%C3%A9tat-islamique-attention-%C3%A0-cette-vid%C3%A9o",
-      "title": "La France menacée de devenir un État islamique ? Attention à cette vidéo.",
-      "content_html": "Une vidéo très virale prétend montrer des militants propalestiniens menaçant de transformer la France en Etat islamique. Il s’agit d’un faux document relayé par des comptes automatisés. Il s’agit d’une campagne de désinformation pro russe visant à discréditer la France.",
-      "date_published": "2025-09-19T20:41:31+00:00",
-      "authors": [
-        {
-          "name": "Marc PAUPE"
-        }
-      ],
-      "tags": [
-        "Info ou intox"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "32b3034532934a589c629f18b558232b628e80ccabaf22cf473df600562ef3b1",
-      "url": "https://www.france24.com/en/europe/20250919-from-weapons-to-military-training-the-true-scale-of-french-aid-to-ukraine-russia-war",
-      "title": "From weapons to military training: Tracking French support for Ukraine",
-      "content_html": "France has committed €8.6 billion in military and financial aid to Ukraine since Russia’s 2022 invasion, according to a forthcoming government report that details how French support has evolved over time. Military expert Guillaume Ancel tells FRANCE 24 the contribution is significant but \"not decisive on its own\".",
-      "date_published": "2025-09-19T20:40:36+00:00",
-      "authors": [
-        {
-          "name": "Anaëlle JONAH"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "76eda03be0082a11671e1c2562c1709181fc25ba0eee959d550dad56782306f9",
@@ -3344,24 +2854,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "632350f3b201a3febc64fcf66efb726ba8e16da6c13792e84c79dad8e970172a",
-      "url": "https://www.france24.com/en/video/20250919-nato-slams-reckless-russian-violation-of-estonia-s-airspace",
-      "title": "NATO slams 'reckless' Russian violation of Estonia's airspace",
-      "content_html": "Three Russian military jets on Friday violated NATO member Estonia's airspace, the latest in a series of recent militaryactions by Russia that have rattled the alliance. NATO has accused Moscow of \"reckless behaviour\" and Estonia has request urgent NATO talks over the violation of its airspace. FRANCE 24's Dave Keating reports from Brussels.",
-      "date_published": "2025-09-19T20:16:27+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3487,24 +2979,6 @@
       "lang": "en"
     },
     {
-      "id": "690cd0226ee0e3da35fd09b4487256240c5837ab57634ff02996fa5b23dbe26d",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250919-apr%C3%A8s-l-intrusion-d-avions-de-chasse-russes-l-estonie-va-demander-%C3%A0-l-otan-d-activer-l-article-4",
-      "title": "Après l’intrusion d’avions de chasse russes, l’Estonie va demander à l’OTAN d’activer l’article 4",
-      "content_html": "Des avions de chasse de l'Otan ont intercepté vendredi trois MiG-31 russes entrés dans l'espace aérien de l'Estonie, l'Alliance atlantique et l'Union européenne dénonçant une nouvelle \"provocation\" de la part de Moscou quelques jours après l'intrusion de drones russes en Pologne.",
-      "date_published": "2025-09-19T19:44:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b1a91de7b9f576df0c83054d6925eb61ef101c45cc83a213de8ee12e1aebe8ff",
       "url": "https://www.liberation.fr/international/europe/une-audace-sans-precedent-lestonie-denonce-une-violation-sans-precedent-de-son-espace-aerien-par-trois-avions-de-combat-russes-20250919_HLAICE2JQZH3JAGK6QYU2AMO4U/",
       "title": "Violation de l’espace aérien estonien par des avions de combat russes : les leaders européens discuteront de la réponse à apporter le 1er octobre",
@@ -3571,26 +3045,6 @@
       "lang": "en"
     },
     {
-      "id": "0031ecfc240d8d8e9677305bf60ced378eae21f5d53012a36a44136e7cda0f16",
-      "url": "https://www.france24.com/fr/info-en-continu/20250919-qu-est-ce-que-le-trait%C3%A9-pour-prot%C3%A9ger-la-haute-mer",
-      "title": "Qu'est-ce que le traité pour protéger la haute mer ?",
-      "content_html": "Prévu pour entrer en vigueur en janvier, le traité international de protection de la haute mer adopté à l'ONU doit permettre de donner les moyens aux États d'assurer la préservation des 60 % de la surface des océans qui n'appartiennent à aucun pays. Explications.",
-      "date_published": "2025-09-19T19:19:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Environnement"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "465c496de246517564930610518535ee451c3b04a6928e5dc369b6a7db238dad",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/russia-becoming-more-dangerous-eu-foreign-affairs-head-warns?traffic_source=rss",
       "title": "Russia becoming ‘more dangerous’, EU foreign affairs head warns",
@@ -3651,46 +3105,6 @@
       "lang": "fr"
     },
     {
-      "id": "9e7a88ffc10d75ee598a1bc847f64605c3029c21ee6be766eedd6f18253e1067",
-      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20250919-manon-loizeau-il-y-a-plus-de-prisonniers-politiques-en-russie-que-sous-leonid-brejnev",
-      "title": "Manon Loizeau : \"Il y a plus de prisonniers politiques en Russie que sous Leonid Brejnev\"",
-      "content_html": "Ne pas se taire, c'est le choix de milliers de voix dissidentes en Russie, critiques du régime poutinien ou opposants à la guerre en Ukraine. Qu’ils soient connus ou non, ces opposants à Vladimir Poutine ont en commun un courage remarquable, dans un pays où la répression est féroce. Le documentaire \"Politzek, les voix qui défient le Kremlin\" leur rend hommage. Il a été co-réalisé par la cinéaste russe Ekaterina Mamontova et par Manon Loizeau, l'invitée du jour.",
-      "date_published": "2025-09-19T19:08:07+00:00",
-      "authors": [
-        {
-          "name": "Achren VERDIAN"
-        }
-      ],
-      "tags": [
-        "Au cœur de l’info, l’invité"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c45d40b4b72227ff670b583c972bea087d1a9be984ea582ea60a04cd309cd2f1",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20250919-trump-vs-the-tv-networks-a-right-royal-knees-up-a-gaza-genocide",
-      "title": "Trump Vs The TV Networks, A right royal knees up, A Gaza ‘Genocide’",
-      "content_html": "This week has seen major upheavals on the global stage: Trump’s lavish and unprecedented UK state visit offered a boost to embattled Prime Minister Keir Starmer, while the U.S. grappled with political fallout and free speech debates following activist Charlie Kirk’s assassination. Meanwhile, Israel faced a damning UN report accusing it of genocide in Gaza, charges it strongly rejected, and France was rocked by mass strikes against austerity as President Macron contended with both political unrest and a bizarre defamation case targeting his wife.",
-      "date_published": "2025-09-19T19:05:50+00:00",
-      "authors": [
-        {
-          "name": "Gavin LEE"
-        }
-      ],
-      "tags": [
-        "The World This Week"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "54548fae01b6f2792bf2042cf9d5f5d4300f149c62acf5e067431ba02e982759",
       "url": "https://www.aljazeera.com/sports/2025/9/19/man-utd-vs-chelsea-english-premier-league-teams-start-lineup?traffic_source=rss",
       "title": "Man Utd vs Chelsea: English Premier League – teams, start, lineup",
@@ -3723,26 +3137,6 @@
       "lang": "en"
     },
     {
-      "id": "6c7c920a4036f2e13a501f509aaea1e0ef9cab1f52620ce8ac19b0b6ac05db82",
-      "url": "https://www.france24.com/en/live-news/20250919-international-treaty-protecting-world-s-oceans-to-take-effect",
-      "title": "UN treaty to protect oceans to take effect after crossing ratification threshold",
-      "content_html": "A UN treaty to protect marine diversity in the high seas was struck Friday after Morocco and Sierra Leone ratified the agreement, clinching the threshold of at least 60 ratifications needed to enact it as international law.",
-      "date_published": "2025-09-19T18:49:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Environment"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d22039da004d9df1f8b5acf175f6ce63f36e19535ca0bfd89ab84d2494898f70",
       "url": "https://www.liberation.fr/international/amerique/trump-recevra-erdogan-le-25-septembre-pour-discuter-de-gros-contrats-daviation-civile-et-militaire-20250919_6QPSXG3FY5EMFEHUORCFOWZDAY/",
       "title": "Trump recevra Erdogan le 25 septembre pour discuter de gros contrats d’aviation civile et militaire",
@@ -3757,20 +3151,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c3b17764b65dace58ce5a4f00080a924d115adf680a69795a57d9a19edc3ebfb",
-      "url": "https://www.lemonde.fr/international/article/2025/09/19/deux-femmes-rapatriees-de-syrie-mises-en-examen-et-placees-en-detention-a-paris_6641920_3210.html",
-      "title": "Deux femmes rapatriées de Syrie mises en examen et placées en détention à Paris",
-      "content_html": "Le camp d’Al-Hol, dans le nord-est de la Syrie, le 28 août 2025.",
-      "date_published": "2025-09-19T18:46:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -3821,24 +3201,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5b5105e6e44f0fcc3b56b3c2425bc6f6f658c3e5f20b83c9ad3b0e38acd302d1",
-      "url": "https://www.france24.com/en/video/20250919-former-uk-prime-minister-blair-working-on-post-gaza-war-plan-reports-say",
-      "title": "Former UK PM Tony Blair working on post-Gaza war plan, reports say",
-      "content_html": "Former British prime minister Tony Blair is working on a plan for post-war Gaza, according to British and Israeli media reports. Reporting from Jerusalem, FRANCE 24’s Noga Tarnopolsky says there has been no official Israeli response to the reports, but if US President Donal Trump has approved the initiative, it would be very hard for Israeli Prime Minister Benjamin Netanyahu to reject the plan.",
-      "date_published": "2025-09-19T18:39:46+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3927,44 +3289,6 @@
       "lang": "fr"
     },
     {
-      "id": "5b3f5c2cb0181f04e0f25611015b1d66101e9acd414aec818e3bf8101c1b608d",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20250919-la-guerre-%C3%A0-gaza-la-libert%C3%A9-d-expression-en-d%C3%A9bat-aux-etats-unis-et-lecornu-sous-pression",
-      "title": "La guerre à Gaza, la liberté d'expression en débat aux Etats-Unis et Lecornu sous pression",
-      "content_html": "A Gaza, la phase principale de l'offensive israélienne à débuté marquée par un exode massif et des accusations de génocide émanant de l’ONU. Aux États-Unis, la suspension de l'animateur J.Kimmel relance le débat sur la liberté d’expression, sur fond de tensions avec le camp Trump. Enfin, en France, après la journée de mobilisation sociale du jeudi 18 septembre, les syndicats posent un ultimatum à Sébastien Lecornu, menaçant de durcir le mouvement.",
-      "date_published": "2025-09-19T18:30:03+00:00",
-      "authors": [
-        {
-          "name": "Achren VERDIAN"
-        }
-      ],
-      "tags": [
-        "Une semaine dans le monde"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4eb8238f8f6a2189a27fb094313b85abba36f94027c5505bc2beef5a406e0d5c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250919-sonia-wieder-atherton-les-mains-sur-un-violoncelle-%C3%A7a-dit-beaucoup-de-choses",
-      "title": "Sonia Wieder-Atherton : “Les mains sur un violoncelle, ça dit beaucoup de choses”",
-      "content_html": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"avec Judith\". Cette semaine, c'est Sonia Wieder-Atherton, violoncelliste et compositrice. Sa jeunesse américaine, sa vie en Russie, son rapport à la musique... elle se confie avec philosophie sur ces aspects importants de sa vie.",
-      "date_published": "2025-09-19T18:29:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e957230a49e51a35c2b140b8bb0f6c642cd14ae757d784a740a8cdfb13bd119e",
       "url": "https://ici.radio-canada.ca/nouvelle/2193694/anita-anand-assemblee-generale-onu-",
       "title": "Anita Anand parlera à l’Assemblée générale de l’ONU à la place de Mark Carney",
@@ -4009,22 +3333,6 @@
       "lang": "en"
     },
     {
-      "id": "903a5a418841b5f662369b3c306f33475dbe2cc0534b269e72db3bcd9462d34c",
-      "url": "https://www.france24.com/fr/%C3%A9missions/podcast-avec-judith/20250919-podcast-les-mains-sur-un-violoncelle-%C3%A7a-dit-beaucoup-de-choses",
-      "title": "PODCAST : “Les mains sur un violoncelle, ça dit beaucoup de choses”",
-      "content_html": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"avec Judith\". Cette semaine, c'est Sonia Wieder-Atherton, violoncelliste et compositrice. Sa jeunesse américaine, sa vie en Russie, son rapport à la musique... elle se confie avec philosophie sur ces aspects importants de sa vie.",
-      "date_published": "2025-09-19T18:17:37+00:00",
-      "authors": [],
-      "tags": [
-        "PODCAST - Avec Judith"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7b5dd9c9fd416223d5e70e1e02fbe26fec08e435f07924524dad45872e42f923",
       "url": "https://www.aljazeera.com/sports/2025/9/19/liverpool-vs-everton-english-premier-league-teams-start-lineups?traffic_source=rss",
       "title": "Liverpool vs Everton: English Premier League – teams, start, lineups",
@@ -4067,42 +3375,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "059642e37c598abaf01f31056463fef696fad6343d906e4b264c93e6a8373e35",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/19/fire-and-smoke-from-israeli-attacks-dominate-gaza-city-skyline?traffic_source=rss",
-      "title": "Fire and smoke from Israeli attacks dominate Gaza City skyline",
-      "content_html": "Israeli bombardment and remotely controlled robots with explosives are destroying Gaza City block by block.",
-      "date_published": "2025-09-19T18:10:41+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "93260486021740ee733e087286fce8a2263ad388e925da3256cc1de0451b533b",
-      "url": "https://www.france24.com/en/live-news/20250919-venezuela-accuses-us-of-waging-undeclared-war",
-      "title": "Venezuela accuses US of waging 'undeclared war' in strikes on alleged drug traffickers",
-      "content_html": "Venezuela on Friday accused the United States of waging an “undeclared war” in the Caribbean after a series of US military strikes on boats that the Trump administration says are used in drug trafficking. Venezuela’s Defense Minister Vladimir Padrino Lopez said that those killed in the strikes were “executed without the right to a defense”.",
-      "date_published": "2025-09-19T18:01:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Americas"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4360,26 +3632,6 @@
       "lang": "fr"
     },
     {
-      "id": "6faf818eb90a0c0dafe911f4f673172b7d33143befe0d4c0b41cf67d26418d10",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20250919-aides-publiques-aux-entreprises-le-grand-d%C3%A9tournement",
-      "title": "Aides publiques aux entreprises : le grand détournement ?",
-      "content_html": "Qui bénéficie vraiment de la dépense publique ? Dans leur livre \"Le Grand détournement\" (Allary Éditions), Matthieu Aron et Caroline Michel-Aguirre, journalistes au Nouvel Obs, révèlent que 270 milliards d’euros annuels d’aides aux entreprises et de cadeaux fiscaux aux plus riches sont distribués sans aucun contrôle sur leur efficacité. Une enquête publiée alors que les débats sur la dette vont bon train et que le nouveau gouvernement doit présenter une copie corrigée du budget 2026.",
-      "date_published": "2025-09-19T17:06:43+00:00",
-      "authors": [
-        {
-          "name": "Karina CHABOUR"
-        }
-      ],
-      "tags": [
-        "La semaine de l’éco"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2a6d8174bebe7ec3f27892be02b1c979f6dde86b49d8de15d9d71259e9232f3c",
       "url": "https://www.lefigaro.fr/international/le-debat-des-patrons-de-lena-face-aux-plateformes-on-doit-revenir-aux-fondements-du-journalisme-20250919",
       "title": "Le débat des patrons de Lena : «Face aux plateformes, on doit revenir aux fondements du journalisme»",
@@ -4525,60 +3777,6 @@
       "lang": "en"
     },
     {
-      "id": "314dfdcd3d1dbda5786be4809fe84a05080bcab5ce94893115e03783cc2acc1f",
-      "url": "https://www.france24.com/en/video/20250919-media-giants-having-to-weigh-editorial-independence-versus-commercial-ambitions",
-      "title": "'Media giants having to weigh editorial independence versus commercial ambitions'",
-      "content_html": "Jimmy Kimmel’s suspension is not just a late-night controversy. It opens up a larger question about the future of free speech in the United States — and about how far political power can reach into the media landscape. Our guest today is Julien Labarre, Political Scientist and Postdoctoral Researcher at the University of Zurich. His work focuses on the intersection of politics, media, and democracy, and he's illustrating all that's at stake when lawsuits, regulatory pressure, and commercial interests collide. As the FCC becomes a political weapon, lawsuits turn into intimidation tactics, and media giants are forced to weigh editorial independence against billion-dollar mergers, we’re left to ask: Is freedom of speech even regarded as an American value?",
-      "date_published": "2025-09-19T16:35:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d031307eeddadc48f9d533e605c7ebcc84ccbb0f654cf2edcce89dec1eb4545b",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250919-gaza-macron-critique-vivement-l-offensive-militaire-isra%C3%A9lienne",
-      "title": "Gaza : Macron critique vivement l’offensive militaire israélienne",
-      "content_html": "Lors d’un entretien pour la télévision israélienne, #Macron a critiqué l’offensive israélienne à #Gaza, remis en cause sa #crédibilité et réaffirmé son soutien à un État #palestinien.",
-      "date_published": "2025-09-19T16:35:00+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "777a84536add6cff0a3387790c0867e9a38ef18c533e875e7ae337a0a36fbe23",
-      "url": "https://www.france24.com/en/video/20250919-gaza-macron-strongly-criticises-israel-s-military-offensive",
-      "title": "Gaza: Macron strongly criticises Israel’s military offensive",
-      "content_html": "During an interview for Israeli TV, #Macron criticised Israel’s #Gaza offensive, warned of damage to its #credibility, and reiterated support for a #Palestinian state.",
-      "date_published": "2025-09-19T16:33:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d8277401f11ea3533dff56c52ba32e5be8730063487450649d246481d91d54ed",
       "url": "https://www.lefigaro.fr/international/pourquoi-bmw-mercedes-et-audi-veulent-absolument-investir-en-hongrie-20250919",
       "title": "Pourquoi BMW, Mercedes et Audi veulent absolument investir en Hongrie",
@@ -4593,26 +3791,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "58da60139e798818be36600dc7cb4d26c8da96f22cadcead4879b1e41ff4172a",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20250919-i-dissected-300-humans-former-unit-731-members-expose-japan-s-wartime-atrocities",
-      "title": "'I dissected 300 humans': Former Unit 731 members expose Japan's wartime atrocities",
-      "content_html": "\"Evil Unbound,\" a new film depicting the horrors of the Imperial Japanese Army’s Unit 731 and its germ warfare programme, has hit cinemas across China and beyond. As the latest in a wave of patriotic films to find success at home, it sheds light on one of WWII’s darkest chapters – Unit 731, the covert military unit that conducted inhumane human experiments during the war. We take a deep dive into the historical reality behind the film, featuring testimonies from former Unit 731 members – many never before seen in Europe – and expert insight from Dr. Andres Rodriguez of the University of Sydney.",
-      "date_published": "2025-09-19T16:33:11+00:00",
-      "authors": [
-        {
-          "name": "Yuka ROYER"
-        }
-      ],
-      "tags": [
-        "Access Asia"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "859e84153b6ce6b3286d770bdce4703c702bcd5bc56242cee495ae8ecc296c3b",
@@ -4672,46 +3850,6 @@
       "lang": "fr"
     },
     {
-      "id": "67b044eb4f273eb48ca9f49d1a59995b6af24c72bfafab25d56ce7ddb0f166e8",
-      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20250919-18-septembre-dans-les-outre-mer-l-accent-est-mis-sur-les-probl%C3%A9matiques-locales",
-      "title": "18 septembre : dans les outre-mer, l'accent est mis sur les problématiques locales",
-      "content_html": "La mobilisation était massive le 18 septembre dans les outre-mer, lors de la journée de grève et de manifestation coordonnée par l'intersyndicale visant à peser sur les choix budgétaires du nouveau Premier ministre. Les manifestants étaient plus nombreux que le 10 septembre et l'accent était mis sur les problématiques locales dans leurs revendications.",
-      "date_published": "2025-09-19T16:09:55+00:00",
-      "authors": [
-        {
-          "name": "Kessi WEISHAUPT TAHI"
-        }
-      ],
-      "tags": [
-        "Outre-Mer"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8954e6ae84c3302a69a597a7a698b7f43b8d91e8dfca40b1598a8b1a382444ba",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20250919-xavier-bettel-reconna%C3%AEtre-la-palestine-n-est-pas-un-acte-hostile-envers-isra%C3%ABl",
-      "title": "Xavier Bettel : \"Reconnaître la Palestine n'est pas un acte hostile envers Israël\"",
-      "content_html": "Cette semaine, nous recevons Xavier Bettel, ancien Premier ministre et actuel ministre des Affaires étrangères luxembourgeois. Reconnaissance de la Palestine, sanctions contre la Russie et renforcement de la défense européenne, il commente les sujets qui divisent les États membres.",
-      "date_published": "2025-09-19T16:05:06+00:00",
-      "authors": [
-        {
-          "name": "Caroline DE CAMARET"
-        }
-      ],
-      "tags": [
-        "Ici l'Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "77533cc390f0b3e492834a1e00fff4459be0041dac1bca12c16070c27a228525",
       "url": "https://www.liberation.fr/international/afrique/un-bracelet-egyptien-vieux-de-3-000-ans-disparait-au-caire-20250917_VJHYDNMP2NCHRGXCUA4SXDPFRY/",
       "title": "Bracelet égyptien vieux de 3 000 ans volé et fondu : quatre personnes arrêtées",
@@ -4726,26 +3864,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3439432e43cad0dc71daef53d316d5dff8b7a95a513c849464592396a57ed890",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20250919-rentr%C3%A9e-universitaire-dans-l-ue-mobilit%C3%A9-et-r%C3%A9ussite-pour-les-jeunes",
-      "title": "Rentrée universitaire dans l'UE : mobilité et réussite pour les jeunes ?",
-      "content_html": "Grâce à Erasmus+, le programme phare d’échanges pour les étudiants, lycéens, apprentis et Européens en formation continue, l'UE tente de renforcer l'identité européenne. En 38 ans d’existence, Erasmus a bénéficié à plus de 16 millions de personnes dans l’Union. Le programme rassemble aujourd’hui 33 pays, pour un budget de 26 milliards d’euros sur six ans. Une enveloppe qui devrait augmenter de 50 % dans les prochaines années, selon les plans de la Commission européenne.\n \nMais il reste des défis à relever. En ce qui concerne l'inclusion, le nombre de jeunes en situation défavorisée bénéficiant d’Erasmus+ est encore trop faible. Plus largement, l’Europe semble à la peine pour tenir ses objectifs ambitieux en matière d’éducation, avec de fortes disparités entre les États membres. Alors, où en est l’éducation européenne ?",
-      "date_published": "2025-09-19T16:00:07+00:00",
-      "authors": [
-        {
-          "name": "Caroline DE CAMARET"
-        }
-      ],
-      "tags": [
-        "Ici l'Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -5711,7 +4829,7 @@
       "id": "f95ba16bec43fb7a981293359f58b714f13112cd6eb19bfcab9a427993ea8531",
       "url": "https://www.elmundo.es/internacional/2025/09/19/68cd09fefdddffa5758b45bd.html",
       "title": "Le MI6 British Espionage Service signera «les espions, en particulier de la Russie, sur le site Web sombre",
-      "content_html": "Quiconque souhaite contacter en toute sécurité le Royaume-Uni avec des informations sensibles liées au terrorisme ou à des activités de renseignement hostiles peut accéder au portail à ce jour.",
+      "content_html": "Quiconque souhaite contacter en toute sécurité le Royaume-Uni avec des informations sensibles liées au terrorisme ou aux activités de renseignement hostiles peut accéder au portail à ce jour.",
       "date_published": "2025-09-19T07:52:16+00:00",
       "authors": [
         {
@@ -6720,7 +5838,7 @@
       "id": "8e1acb8f5731cbe0b6aba278e1d36b752b020dde1ff27332079678d0078c9b2e",
       "url": "https://www.elmundo.es/internacional/2025/09/18/68cc1bc3fc6c83162c8b4571.html",
       "title": "Le Royaume-Uni déporte la France vers le premier immigrant dans le cadre de l'accord \"un à l'intérieur, un à l'extérieur\"",
-      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de irrégulières à travers le canal de la Mancha",
+      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de l'irrégule par le canal de la Mancha",
       "date_published": "2025-09-18T14:59:26+00:00",
       "authors": [
         {
