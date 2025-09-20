@@ -5,6 +5,36 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "b05f098df991f0a7f643d50e6302e4b0ce0db95c5d74a47dca6d8bb26bc0fcb7",
+      "url": "https://ici.radio-canada.ca/info/quiz/actualite/",
+      "title": "Quizz : l'info en questions",
+      "content_html": "<p>Qu'avez-vous retenu de l'actualité ces derniers jours? Faites notre jeu-questionnaire!</p>",
+      "date_published": "2025-09-20T14:34:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ecfb6ece9595b364b05c6d16f247b026718bc2404522267f6f944ea343703e75",
+      "url": "https://www.ukrinform.net/rubric-ato/4038597-war-update-79-clashes-on-frontline-defense-forces-advance-in-three-sectors.html",
+      "title": "War update: 79 clashes on frontline, Defense Forces advance in three sectors",
+      "content_html": "In the Novopavlivka sector, Ukrainian troops carried out successful search and strike operations, resulting in an advance of up to three kilometers, the destruction of a significant number of enemy infantry, and the capture of prisoners.",
+      "date_published": "2025-09-20T14:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "d30acf865e020404c58be8dd2cee8ae1bc07fe4a5299dbeec5e732cceba43bb0",
       "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
       "title": "British couple held by Taliban arrive in UK after release",
@@ -35,6 +65,62 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "dea38e256560a5543072576794017f1e03c33dd16e85a3429d7cf444d9924f6e",
+      "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine says three killed in 'massive' Russian aerial attack",
+      "content_html": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+      "date_published": "2025-09-20T14:17:24+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "612db285d828e11f25a7b11ed6e1c96ceb671c87bf3ac31e7fcde0a850927dce",
+      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
+      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – as it happened",
+      "content_html": "<p>This blog is now closed, you can read <a href=\"https://www.theguardian.com/world/2025/sep/20/zelenskyy-accuses-allies-of-wasting-time-as-he-prepares-for-trump-meeting\">more on the war in Ukraine here</a></p><p>At least 10 flights were cancelled out of <strong>Brussels airport</strong> and another 17 delayed by over an hour after <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates?CMP=share_btn_url&amp;page=with%3Ablock-68ce624c8f08e4203c9a8536#block-68ce624c8f08e4203c9a8536\">the system was hit by a “cyber-attack” overnight on Friday,</a> the airport said.</p><p>EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the problem to impact its flights for the rest of the day, Reuters reports.</p><p><em>Information on the situation is being continuously gathered, and Polish authorities are in contact with authorities in other countries.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-09-20T14:14:27+00:00",
+      "authors": [
+        {
+          "name": "Joe Coughlan (now) and Amy Sedghi (earlier)"
+        }
+      ],
+      "tags": [
+        "Europe",
+        "Ukraine",
+        "Russia",
+        "Estonia",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyy",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "76b934b7500c2fa71cf9c9850d33e1725279118f7dbb0a9983ff47e459a3877a",
+      "url": "https://www.aljazeera.com/sports/2025/9/20/liverpool-hold-on-against-everton-after-gravenberch-stunner-opened-derby?traffic_source=rss",
+      "title": "Liverpool hold on against Everton after Gravenberch stunner opened derby",
+      "content_html": "Ryan Gravenberch&#039;s 10th-minute stunner set Liverpool on their way to a 2-1 win against Everton in the Merseyside derby.",
+      "date_published": "2025-09-20T14:11:17+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
     },
     {
       "id": "b1ba25f8283b2c3ee0e729a41d265d5b20c2ade1945a02f8734b01420c71d683",
@@ -74,32 +160,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "612db285d828e11f25a7b11ed6e1c96ceb671c87bf3ac31e7fcde0a850927dce",
-      "url": "https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
-      "title": "Poland scrambles aircraft as Russia attacks Ukraine with hundreds of drones and missiles – Europe live",
-      "content_html": "<p>Poland said it had scrambled aircraft to protect its airspace as Ukraine reported a Russian attack featuring more than 600 drones and missiles</p><p>At least 10 flights were cancelled out of <strong>Brussels airport</strong> and another 17 delayed by over an hour after <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates?CMP=share_btn_url&amp;page=with%3Ablock-68ce624c8f08e4203c9a8536#block-68ce624c8f08e4203c9a8536\">the system was hit by a “cyber-attack” overnight on Friday,</a> the airport said.</p><p>EasyJet, among Europe’s biggest airlines, said it was currently operating as normal and did not expect the problem to impact its flights for the rest of the day, Reuters reports.</p><p><em>Information on the situation is being continuously gathered, and Polish authorities are in contact with authorities in other countries.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-20T14:03:05+00:00",
-      "authors": [
-        {
-          "name": "Joe Coughlan (now) and Amy Sedghi (earlier)"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "Ukraine",
-        "Russia",
-        "Estonia",
-        "Vladimir Putin",
-        "Volodymyr Zelenskyy",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -980,7 +1040,7 @@
       "id": "ac8fc8098834f57bc694bcd4680e72882d295ceb64184aea803bee572dd5b1f6",
       "url": "https://www.theguardian.com/world/2025/sep/20/zelenskyy-accuses-allies-of-wasting-time-as-he-prepares-for-trump-meeting",
       "title": "Zelenskyy accuses allies of ‘wasting time’ as he prepares for Trump meeting",
-      "content_html": "<p>Ukrainian president will urge his US counterpart to impose more sanctions on Russia when they meet next week</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates\">Europe live – latest news</a></p></li></ul><p>Volodymyr Zelenskyy will urge Donald Trump to impose sanctions on Russia when they meet next week at the United Nations in New York, and has called on Ukraine’s allies to “stop wasting time”.</p><p>Zelenskyy said he expected further sanctions to be imposed if Vladimir Putin refuses to meet him for face-to-face talks or to agree to a ceasefire. “If the war continues and there are no moves towards peace we expect sanctions,” he said.</p> <a href=\"https://www.theguardian.com/world/2025/sep/20/zelenskyy-accuses-allies-of-wasting-time-as-he-prepares-for-trump-meeting\">Continue reading...</a>",
+      "content_html": "<p>Ukrainian president will urge his US counterpart to impose more sanctions on Russia when they meet next week</p><p>Volodymyr Zelenskyy will urge Donald Trump to impose sanctions on Russia when they meet next week at the United Nations in New York, and has called on Ukraine’s allies to “stop wasting time”.</p><p>Zelenskyy said he expected further sanctions to be imposed if Vladimir Putin refuses to meet him for face-to-face talks or to agree to a ceasefire. “If the war continues and there are no moves towards peace we expect sanctions,” he said.</p> <a href=\"https://www.theguardian.com/world/2025/sep/20/zelenskyy-accuses-allies-of-wasting-time-as-he-prepares-for-trump-meeting\">Continue reading...</a>",
       "date_published": "2025-09-20T11:26:16+00:00",
       "authors": [
         {
@@ -2193,8 +2253,8 @@
     {
       "id": "4e08ee23673689fb9cb0a56100d8ba5c42c52ce78cfecf9203805ae237cbcb63",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/9/20/live-liverpool-vs-everton-premier-league?traffic_source=rss",
-      "title": "LIVE: Liverpool vs Everton 2-1 – Premier League",
-      "content_html": "Follow our live build-up, with team news coverage, before our full text commentary stream of the Merseyside derby.",
+      "title": "Liverpool vs Everton 2-1: Premier League – as it happened",
+      "content_html": "All our updates from our full text commentary stream of the Merseyside derby, including post-match reaction.",
       "date_published": "2025-09-20T08:30:28+00:00",
       "authors": [],
       "tags": [
@@ -3880,22 +3940,6 @@
       "lang": "en"
     },
     {
-      "id": "9fdfaac36ff715433f50a07845fccddb3c32c7bb5d5b589483ebd459f778d994",
-      "url": "https://www.ukrinform.net/rubric-economy/4038327-international-businesses-to-invest-100m-in-ukraines-defense-tech-industry.html",
-      "title": "International businesses to invest $100M in Ukraine’s defense tech industry",
-      "content_html": "The Defense Tech Valley Summit 2025 has taken place in the city of Lviv. Following the event, Ukrainian defense industry companies managed to attract USD 100 million in development investments.",
-      "date_published": "2025-09-19T23:15:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "eb1ce8ace6816239bcbc3815462211e981cfd15834351ac6c78659d98f219f52",
       "url": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
       "title": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
@@ -4103,22 +4147,6 @@
       "lang": "en"
     },
     {
-      "id": "67d06253bbd4fa39bdfd90b3aff30b96dd6283ef8032b409efa18a8becd7ab58",
-      "url": "https://www.aljazeera.com/news/2025/9/19/us-govt-asks-supreme-court-to-end-protections-for-venezuelan-migrants?traffic_source=rss",
-      "title": "US gov’t asks Supreme Court to end protections for Venezuelan migrants",
-      "content_html": "A federal judge ruled that terminating Temporary Protected Status for Venezuelans violates laws on government conduct.",
-      "date_published": "2025-09-19T21:24:50+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "15f17e097af133f0f0779cf8c9e76fdf68032449e46826082e15d4aaf26d5d4f",
       "url": "https://www.dw.com/en/trump-says-xi-approved-a-deal-to-keep-tiktok-operating-in-us/a-74070998?maca=en-rss-en-all-1573-rdf",
       "title": "Trump says Xi approved a deal to keep TikTok operating in US",
@@ -4311,7 +4339,7 @@
       "id": "b1a91de7b9f576df0c83054d6925eb61ef101c45cc83a213de8ee12e1aebe8ff",
       "url": "https://www.liberation.fr/international/europe/une-audace-sans-precedent-lestonie-denonce-une-violation-sans-precedent-de-son-espace-aerien-par-trois-avions-de-combat-russes-20250919_HLAICE2JQZH3JAGK6QYU2AMO4U/",
       "title": "Violation de l’espace aérien estonien par des avions de combat russes : les leaders européens discuteront de la réponse à apporter le 1er octobre",
-      "content_html": "Des MIG-31 russes, en 2018.",
+      "content_html": "DES ME-31 Russes, un 2018.",
       "date_published": "2025-09-19T19:44:05+00:00",
       "authors": [
         {
@@ -4605,7 +4633,7 @@
     {
       "id": "1d94cf270d3debebd9ac16ba1e246b76dc8492b774d8365970208e2aa750d293",
       "url": "https://www.elmundo.es/internacional/2025/09/19/68cd4fa0e4d4d874158b459a.html",
-      "title": "Von der Leyen prévient que Poutine \"augmente\" ses menaces à l'UE et propose plus de sanctions à la Russie: \"Son économie de guerre surchauffée est à la limite\"",
+      "title": "Von der Leyen avertit que Poutine \"augmente\" ses menaces pour l'UE et propose plus de sanctions à la Russie: \"Son économie de guerre surchauffée est à la limite\"",
       "content_html": "Le 19e paquet envisage l'interdiction d'importer du gaz naturel liquéfié et des mesures pour 118 navires supplémentaires de la «flotte d'ombre».Et, pour la première fois, des actions contre les plateformes de crypto-monnaie",
       "date_published": "2025-09-19T17:44:48+00:00",
       "authors": [
@@ -4639,7 +4667,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "22a4b130b4594b47c471476101302a62e24abcc34c577a9c86ab39f5306b9f9b",
@@ -5149,20 +5177,6 @@
       "lang": "fr"
     },
     {
-      "id": "e308e1918fc0251004d671bfc43b90e86a1d259ec2cbc113038fdec0ccdac8fa",
-      "url": "https://www.bbc.com/news/articles/czxwyygpgplo?at_medium=RSS&at_campaign=rss",
-      "title": "First students evacuated from Gaza to study in UK",
-      "content_html": "The group includes at least four medical doctors who have places to study at UK universities.",
-      "date_published": "2025-09-19T14:59:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0eed0171f76b1d6e1dbea3271b2ec0fad4ef52dbed3094a92b8f130fffe5c552",
       "url": "https://www.elmundo.es/internacional/2025/09/19/68cd6bd8fc6c83433c8b45a2.html",
       "title": "Le gouvernement des talibans libère un couple britannique arrêté pendant des mois en Afghanistan pour déclencher des accusations",
@@ -5461,20 +5475,6 @@
       "lang": "fr"
     },
     {
-      "id": "58b613fc4f2b8525d17cd35a4f55ddcae3d0195f6702986af34d98634cc9f21b",
-      "url": "https://www.bbc.com/news/articles/cdx20q10273o?at_medium=RSS&at_campaign=rss",
-      "title": "South African hospital worker arrested with human placentas",
-      "content_html": "The maternity cleaner was allegedly seeking potential buyers for the body tissue when she was picked up.",
-      "date_published": "2025-09-19T11:55:22+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3ab1112abee8d3067caaf6d64aa9cdeb554b643061027521c5f4359ea6b3111f",
       "url": "https://www.bbc.com/news/articles/c24rz9jeyjjo?at_medium=RSS&at_campaign=rss",
       "title": "Taliban official dismisses Trump's hope to 'take back' Afghan airbase",
@@ -5567,20 +5567,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d4709c616d6e978c2c7e5de5114b14e5e7d1b08a9f9f882f80cddcff896638c3",
-      "url": "https://www.bbc.com/news/articles/cp8j9v711pjo?at_medium=RSS&at_campaign=rss",
-      "title": "Police find remains they think are US man accused of killing his daughters",
-      "content_html": "The human remains of a man wanted on suspicion of killing his three daughters have been found in Washington state.",
-      "date_published": "2025-09-19T10:01:31+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -5877,7 +5863,7 @@
       "id": "f95ba16bec43fb7a981293359f58b714f13112cd6eb19bfcab9a427993ea8531",
       "url": "https://www.elmundo.es/internacional/2025/09/19/68cd09fefdddffa5758b45bd.html",
       "title": "Le MI6 British Espionage Service signera «les espions, en particulier de la Russie, sur le site Web sombre",
-      "content_html": "Quiconque souhaite contacter en toute sécurité le Royaume-Uni avec des informations sensibles liées au terrorisme ou aux activités de renseignement hostiles peut accéder au portail à ce jour.",
+      "content_html": "Quiconque souhaite contacter en toute sécurité le Royaume-Uni avec des informations sensibles liées au terrorisme ou à des activités de renseignement hostiles peut accéder au portail à ce jour.",
       "date_published": "2025-09-19T07:52:16+00:00",
       "authors": [
         {
@@ -5995,20 +5981,6 @@
       "lang": "en"
     },
     {
-      "id": "8024f5293f3abbde0f9fcdc446589f01c751028d7147f9db00c74e66dfa932fc",
-      "url": "https://www.bbc.com/news/articles/cx2nlevy2gpo?at_medium=RSS&at_campaign=rss",
-      "title": "The lonely life and death of Delhi's only African elephant",
-      "content_html": "For 24 years, Shankar endured a lonely existence - including at least 13 spent in solitary confinement.",
-      "date_published": "2025-09-19T07:03:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bf27c5b55486515f0067d39de44511e001e826ef63d9db96ab37c70baea6cac9",
       "url": "https://www.liberation.fr/international/amerique/droits-de-douane-et-tiktok-au-programme-dun-appel-entre-donald-trump-et-xi-jinping-20250919_KMH4DSCBPFBAZBHX67AQVB5J3I/",
       "title": "Droits de douane et TikTok au programme d’un appel entre Donald Trump et Xi Jinping",
@@ -6101,20 +6073,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "2e150186f73d051833e827c1d6fd93e3fa92886f80b91c7440d6928d9762dfb0",
-      "url": "https://www.bbc.com/news/articles/ce3yj41083no?at_medium=RSS&at_campaign=rss",
-      "title": "US blocks UN call for Gaza ceasefire for sixth time",
-      "content_html": "Washington's representative says the Security Council resolution does not go far enough in condemning Hamas.",
-      "date_published": "2025-09-19T06:02:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "5d534520e4e6563cbe72bcfda961a76a895e4d093f44f2bf787351f3d921d5bf",
@@ -6884,7 +6842,7 @@
       "id": "8e1acb8f5731cbe0b6aba278e1d36b752b020dde1ff27332079678d0078c9b2e",
       "url": "https://www.elmundo.es/internacional/2025/09/18/68cc1bc3fc6c83162c8b4571.html",
       "title": "Le Royaume-Uni déporte la France vers le premier immigrant dans le cadre de l'accord \"un à l'intérieur, un à l'extérieur\"",
-      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de l'irrégule par le canal de la Mancha",
+      "content_html": "Le ministre de l'Intérieur est déterminé à contester les ressources juridiques qui causent le dernier plan contre le transit de irrégulières à travers le canal de la Mancha",
       "date_published": "2025-09-18T14:59:26+00:00",
       "authors": [
         {
@@ -7125,7 +7083,7 @@
     {
       "id": "907584e11bdd5771eea814d826d5a1ecf48419d1f61574e8c5aeae1020361f89",
       "url": "https://www.elmundo.es/internacional/2025/09/18/68cbeb2021efa04d038b45a4.html",
-      "title": "Hollywood se tourne avec Jimmy Kimmel et Spears critication dure contre la Maison Blanche: \"Le silence nous-mêmes appauvri le monde\" entier \"",
+      "title": "Hollywood se tourne avec Jimmy Kimmel et lance des critiques sévères contre la Maison Blanche: \"nous-mêmes appauvri le monde\" entier \"",
       "content_html": "Les syndicats, les acteurs et les comédiens montrent leur inquiétude quant à la dérive de l'administration Trump",
       "date_published": "2025-09-18T11:55:09+00:00",
       "authors": [
@@ -7725,26 +7683,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "d9f7d1749f86651032df1bd507c4ad649a30d74801a8c5016453b6c3fb9ba83c",
-      "url": "https://www.elmundo.es/internacional/2025/09/17/68cb1ff5fdddffe26f8b4571.html",
-      "title": "L'activité touristique envers Machu Picchu reprend après avoir suspendu les manifestations",
-      "content_html": "Au moins 2 300 touristes, entre les Péruviens et les étrangers, ont été évacués ou laissés par leurs propres moyens entre mardi et mercredi en raison des manifestations qui ont dérivé des affrontements avec la police",
-      "date_published": "2025-09-17T20:54:28+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Perù"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "5b3c1d1cc0c65e473f7086f1071bac3077c97e97b5bd354117d297e31d81ae42",
