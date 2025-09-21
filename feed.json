@@ -5,25 +5,37 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "c2518054309a78014a3deab2b7d19ceebf92c0180d160613c6cd298e981126cf",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013018/funerailles-charlie-kirk-mort-donald-trump",
-      "title": "Funérailles de Charlie Kirk : Trump et de nombreuses figures de droite attendus",
-      "content_html": "<p>Le président Donald Trump et le vice-président J.D.&nbsp;Vance prononceront un discours pendant la cérémonie. </p>",
-      "date_published": "2025-09-21T15:35:51+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "3e502d7b0ebeb5733e1241ccb4dc8c67f436d1724e8317d9a19d13dc9eb154d1",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/21/charlie-kirk-funeral-memorial-time-updates-arizona",
+      "title": "Charlie Kirk memorial latest updates: Trump and Vance to join tens of thousands of people at service for rightwing activist",
+      "content_html": "<p>Funeral expected to start at 11am local time; Erika Kirk, US president and vice-president among the expected speakers</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2025/sep/20/charlie-kirk-debate-style\">Students who debated with Kirk: ‘His goal was to defeat us’</a></p></li><li><p><a href=\"https://www.theguardian.com/news/ng-interactive/2025/sep/21/us-right-free-speech-charlie-kirk\">US right claimed free speech was sacred – until the Charlie Kirk killing</a></p></li></ul><p><strong>Christian nationalists in the US are positioning Charlie Kirk as a martyr for their movement, one that has grown in popularity and whose rise was intertwined with Kirk’s own political ascent.</strong></p><p>After Kirk’s killing, his widow, Erika Kirk, <a href=\"https://www.instagram.com/p/DOhq3UBEd6l/?hl=en&amp;img_index=6\">wrote</a> on social media that the “world is evil”, but God “so good”. The “sound of this widow weeping [echoes] throughout this world like a battle cry,” she said. “They have no idea what they just ignited within this wife.”</p><p>“Last week, we brought my dear friend Charlie Kirk home one last time. Today, we return to Arizona to remember Charlie and honor his sacrifice. May he eternally rest in peace, and may God watch over Erika and their beautiful children.”</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/21/charlie-kirk-funeral-memorial-time-updates-arizona\">Continue reading...</a>",
+      "date_published": "2025-09-21T16:29:43+00:00",
+      "authors": [
+        {
+          "name": "Maya Yang (now) and Fran Lawther (earlier)"
+        }
+      ],
+      "tags": [
+        "Charlie Kirk shooting",
+        "Donald Trump",
+        "JD Vance",
+        "Republicans",
+        "Donald Trump Jr",
+        "US politics",
+        "US news"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
-      "id": "597f1dc93c8474b60439264197d55d54b21624c7e78d406c7fdc08660018574c",
-      "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
-      "title": "Starmer confirms formal UK recognition of Palestinian state",
-      "content_html": "Australia and Canada make similar announcements but move draws criticism from Israeli government and families of hostages held in Gaza.",
-      "date_published": "2025-09-21T15:35:45+00:00",
+      "id": "2d9a797ad83f98398ce8f47b0b32a97126c048c16f09d47687754fc71c7ed35d",
+      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
+      "title": "Heathrow warns of second day of disruption after cyber-attack",
+      "content_html": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday.",
+      "date_published": "2025-09-21T16:29:24+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -33,11 +45,96 @@
       "lang": "en"
     },
     {
+      "id": "597f1dc93c8474b60439264197d55d54b21624c7e78d406c7fdc08660018574c",
+      "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
+      "title": "Starmer confirms formal UK recognition of Palestinian state",
+      "content_html": "Australia and Canada made similar announcements but the move draws criticism from Israel and the families of hostages held in Gaza.",
+      "date_published": "2025-09-21T16:23:02+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b7ba526e0baa855e2f6869621f98aca40931e5c2d9302107611e2ae78d103870",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250921-le-royaume-uni-reconnait-l-%C3%A9tat-palestinien-netanyahu-d%C3%A9nonce-un-danger-pour-isra%C3%ABl",
+      "title": "Le Royaume-Uni reconnait l'État palestinien : Netanyahu dénonce un danger pour Israël",
+      "content_html": "Benjamin Netanyahu a affirmé ce dimanche que la création d’un État palestinien mettrait en danger l’existence d’Israël. \"Aucun État palestinien ne sera créé. Pendant des années, j'ai empêché la création de cet État terroriste malgré d'énormes pressions tant au niveau national qu'international.\" s'exprimait-il ce dimanche. En réponse, aux reconnaissances d'un État palestinien par le Royaume-Uni, le Canada et l'Australie, deux de ses ministres proposent d’annexer la Cisjordanie.",
+      "date_published": "2025-09-21T16:20:50+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5c5b8fedc5bb435fc44da509cef651e1fe1187b8feef09d811364aa74c23af12",
+      "url": "https://elpais.com/internacional/2025-09-21/el-reino-unido-confirma-su-decision-de-reconocer-el-estado-palestino.html",
+      "title": "Le Royaume-Uni, l'Australie, le Canada et le Portugal reconnaissent l'État palestinien",
+      "content_html": "Le Premier ministre britannique, Keir Starmer, à son arrivée lors d'une commémoration dans l'abbaye de Westminster, à Londres, ce dimanche.",
+      "date_published": "2025-09-21T16:20:36+00:00",
+      "authors": [
+        {
+          "name": "Rafa De Miguel"
+        }
+      ],
+      "tags": [
+        "Reino Unido",
+        "Israel",
+        "Estados Unidos",
+        "Franja Gaza",
+        "Palestina",
+        "ONU",
+        "Keir Starmer",
+        "Donald Trump",
+        "Benjamin Netanyahu"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a2b9c587d039ac4f0c9a75e65779165f883cc10ab19ab5035c3cb36b6a4205a7",
+      "url": "https://www.theguardian.com/world/2025/sep/21/protests-philippines-corruption-state-flood",
+      "title": "Protesters flood streets of Philippines over state corruption",
+      "content_html": "<p>Dozens of police officers injured as anger explodes over billions allegedly spent on bogus relief projects</p><p>Tens of thousands of Filipinos took to the streets on Sunday to protest against government corruption after it was alleged that the taxpayer has lost billions of dollars to bogus flood relief projects.</p><p>Students, church groups, celebrities, and citizens from different political camps filled the streets in Manila and other cities.</p> <a href=\"https://www.theguardian.com/world/2025/sep/21/protests-philippines-corruption-state-flood\">Continue reading...</a>",
+      "date_published": "2025-09-21T16:17:31+00:00",
+      "authors": [
+        {
+          "name": "Rebecca Ratcliffe and agencies"
+        }
+      ],
+      "tags": [
+        "Philippines",
+        "Asia Pacific",
+        "World news",
+        "Protest",
+        "South and central Asia",
+        "Flooding"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "bce14faf022ebeb10a4c21a478ded5a4b812bb601917d626ba8edabe14b37c90",
       "url": "https://www.elmundo.es/internacional/2025/09/21/68d0169ee9cf4a26308b4572.html",
       "title": "Les Patriots for Europe se joignent à Salvini et à leur ligue à la mémoire de Charlie Kirk",
       "content_html": "Des dirigeants ultraconservateurs tels que Jordan Bardella et Flavio Bolsonaro accompagnent le «numéro deux» du gouvernement italien lors de la réunion annuelle de Pontida.",
-      "date_published": "2025-09-21T15:30:34+00:00",
+      "date_published": "2025-09-21T16:16:18+00:00",
       "authors": [
         {
           "name": "Manuel Tori"
@@ -55,6 +152,405 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "d40865b82777544e5ab0f49a847116524874d843a85a1781dc449b7604a5cd45",
+      "url": "https://www.elmundo.es/internacional/2025/09/21/68cfb1dafc6c83c5018b458b.html",
+      "title": "Le Royaume-Uni, le Canada et l'Australie reconnaissent l'État de Palestine",
+      "content_html": "L'annonce arrive quelques jours après la visite de Donald Trump au Royaume-Uni, qui a déjà exprimé son \"désaccord\" avec la position du leader travailliste",
+      "date_published": "2025-09-21T16:15:13+00:00",
+      "authors": [
+        {
+          "name": "Pablo Pardo"
+        }
+      ],
+      "tags": [
+        "Artículos Pablo Pardo"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "13033d14490b1399de9cdc05b12fa6e8fcd28ed1d2016c7ea2639ac449f1476b",
+      "url": "https://elpais.com/internacional/2025-09-21/continuan-por-segundo-dia-las-cancelaciones-de-vuelos-en-el-aeropuerto-de-bruselas-por-el-ciberataque.html",
+      "title": "Les annulations de vol à l'aéroport de Bruxelles se poursuivent pour une deuxième journée",
+      "content_html": "Tails à l'aéroport de Bruxelles, ce dimanche, à la suite d'une cyberattaque.",
+      "date_published": "2025-09-21T16:13:27+00:00",
+      "authors": [
+        {
+          "name": "María Sahuquillo"
+        }
+      ],
+      "tags": [
+        "Transporte aéreo",
+        "Ataques informáticos",
+        "Bruselas",
+        "Londres",
+        "Aeropuertos",
+        "Berlín",
+        "Pasajeros",
+        "Economía",
+        "Cancelaciones transporte"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1714764ba0bea1409ffcfe1d710ba255aff14bb9c612c16e371c65e9e1947d40",
+      "url": "https://www.elmundo.es/internacional/2025/09/21/68d020cfe4d4d87f588b457b.html",
+      "title": "Netanyahu: \"Ça n'aura pas été palestinien\"",
+      "content_html": "S'assure que la reconnaissance du Royaume-Uni, du Canada et de l'Australie est une \"grande récompense pour le terrorisme\" et répondra à son retour des États-Unis",
+      "date_published": "2025-09-21T16:12:47+00:00",
+      "authors": [
+        {
+          "name": "Agencias / EL MUNDO"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "Palestina"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c2518054309a78014a3deab2b7d19ceebf92c0180d160613c6cd298e981126cf",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013018/funerailles-charlie-kirk-mort-donald-trump",
+      "title": "Funérailles de Charlie Kirk : Trump et des figures de la droite attendus",
+      "content_html": "<p>Le président, Donald Trump, et le vice-président, J.D.&nbsp;Vance, prononceront un discours pendant la cérémonie. </p>",
+      "date_published": "2025-09-21T16:09:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "25690b0e90e9bfe137148477989a2f761b35e284fb7e59fae597e1523bcf8330",
+      "url": "https://www.ukrinform.net/rubric-ato/4038854-russians-destroy-administrative-building-in-sadove-kherson-community.html",
+      "title": "Russians destroy administrative building in Sadove, Kherson community",
+      "content_html": "An administrative building in the village of Sadove, Kherson community, has been destroyed as a result of Russian shelling",
+      "date_published": "2025-09-21T16:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "111beab8de58dd81f31419dfd0eac01065792feec089d0c76ecce320e3c30efb",
+      "url": "https://www.lefigaro.fr/international/reconnaissance-de-l-etat-de-la-palestine-londres-se-defend-de-toute-recompense-accordee-au-hamas-20250921",
+      "title": "Reconnaissance de l’État de la Palestine: Londres se défend de toute récompense accordée au Hamas",
+      "content_html": "Message vidéo publié par Keir Starmer sur X",
+      "date_published": "2025-09-21T16:07:17+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1af8510d0544add5f18894ec6abc29fc4688b9ce3f6a8347e57ed1fed246cade",
+      "url": "https://www.lemonde.fr/international/live/2025/09/21/en-direct-gaza-il-n-y-aura-pas-d-etat-palestinien-a-l-ouest-du-jourdain-promet-benyamin-netanyahou_6641801_3210.html",
+      "title": "En direct, Gaza : « Il n’y aura pas d’Etat palestinien à l’ouest du Jourdain », affirme Benyamin Nétanyahou",
+      "content_html": "Benyamin Nétanyahou lors d’une conférence de presse conjointe avec le secrétaire d’Etat américain, Marco Rubio, lundi 15 septembre 2025.",
+      "date_published": "2025-09-21T16:06:19+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "903457cbe6fb4bb9f7edbd1f333dfcfca16572f15d772af52dc4e6d20be805ef",
+      "url": "https://www.timesofisrael.com/bennett-vows-that-nobody-will-be-allowed-to-postpone-or-disrupt-2026-election/",
+      "title": "Bennett vows that nobody will be ‘allowed to postpone or disrupt’ 2026 election",
+      "content_html": "<p>Ex-prime minister urges those in public service to not bow to 'pressure' to 'bend the law,' as coalition ministers claim he is fabricating concerns</p>\n<p>The post <a href=\"https://www.timesofisrael.com/bennett-vows-that-nobody-will-be-allowed-to-postpone-or-disrupt-2026-election/\">Bennett vows that nobody will be &#8216;allowed to postpone or disrupt&#8217; 2026 election</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/F250505AVS020-1024x640.jpg\" title=\"Bennett vows that nobody will be &#8216;allowed to postpone or disrupt&#8217; 2026 election\" width=\"160\" /></figure>",
+      "date_published": "2025-09-21T16:02:33+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Naftali Bennett",
+        "Israel Katz",
+        "Shlomo Karhi",
+        "Israeli elections"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e5042514ca718f125dc241104d194ae0348bbde2bc1fa078bcccecd8bd46e643",
+      "url": "https://www.aljazeera.com/news/2025/9/21/germany-scrambles-jets-after-russia-military-aircraft-flies-over-baltic-sea?traffic_source=rss",
+      "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea",
+      "content_html": "German air force says its &#039;quick reaction alert force&#039; was ordered by NATO to investigate plane in neutral airspace.",
+      "date_published": "2025-09-21T15:56:28+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b8577c9b84133c81391157bdfd379fcc3ad133864cbd37c6a4b35ab01cbb0a02",
+      "url": "https://ici.radio-canada.ca/nouvelle/2193965/stm-greve-transport-metro-autobus",
+      "title": "La STM en grève : ce qu’il faut savoir",
+      "content_html": "<p>Le bus et le métro seront en service seulement aux heures de pointe les lundis, mercredis et vendredis.</p>",
+      "date_published": "2025-09-21T15:54:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "96f35968e9dcfc85604395d9830e45fff856a66b10765f2bcaf54e7af7bd4266",
+      "url": "https://www.theguardian.com/politics/2025/sep/21/how-will-recognition-of-palestinian-statehood-be-greeted-in-the-uk",
+      "title": "How will recognition of Palestinian statehood be greeted in the UK?",
+      "content_html": "<p>As well as being deeply symbolic, the move is also a major foreign policy shift for the Labour government</p><p>The UK’s formal recognition of Palestinian statehood is deeply symbolic on the world stage, but the major foreign policy shift is also a significant political step for the Labour government at home. The <a href=\"https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state\">announcement</a> followed mounting pressure on Keir Starmer from within the Labour party and beyond.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/21/how-will-recognition-of-palestinian-statehood-be-greeted-in-the-uk\">Continue reading...</a>",
+      "date_published": "2025-09-21T15:54:14+00:00",
+      "authors": [
+        {
+          "name": "Pippa Crerar Political editor"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Palestinian territories",
+        "Gaza",
+        "Israel-Gaza war",
+        "Middle East and north Africa",
+        "World news",
+        "Labour"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "77b992b78babcd52ba39f6fc6c8c4d4c87a8f5fc355d9f8ea60a2180514997cf",
+      "url": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
+      "title": "Press could lose Pentagon access for releasing 'unauthorised information'",
+      "content_html": "Journalists have been told Pentagon passes will be contingent on agreeing to new restrictions.",
+      "date_published": "2025-09-21T15:52:02+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6f5a442c8d48e32a5e975321ded9d877f14be79fe3113b39d928676e68615f17",
+      "url": "https://www.theguardian.com/us-news/2025/sep/21/ice-detainee-hunger-strike-louisiana",
+      "title": "Ice detainees hold hunger strike at Louisiana state penitentiary",
+      "content_html": "<p>Nineteen in immigration processing unit striking for access to medical and mental health care, among other demands</p><p>Nineteen people detained at an immigration detention center that the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> opened within <a href=\"https://www.theguardian.com/us-news/louisiana\">Louisiana</a>’s infamous <a href=\"https://www.theguardian.com/us-news/2025/sep/18/louisiana-angola-prison-trump-ice-immigration\">Angola prison</a> were entering their fifth day on hunger strike on Sunday, according to advocacy groups.</p><p>Those striking at the Immigration and Customs Enforcement (<a href=\"https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement\">Ice</a>) processing center set up at Angola’s former Camp J are demanding access to medical and mental health care – including prescription medications, according to the Southeast Dignity Not Detention Coalition (SEDND) and the National Immigration Project (NIPNLG).</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/21/ice-detainee-hunger-strike-louisiana\">Continue reading...</a>",
+      "date_published": "2025-09-21T15:49:47+00:00",
+      "authors": [
+        {
+          "name": "Coral Murphy Marcos"
+        }
+      ],
+      "tags": [
+        "Louisiana",
+        "Ice (US Immigration and Customs Enforcement)",
+        "US prisons",
+        "US immigration",
+        "Trump administration",
+        "US news",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fc151dd09bc9546a5c3e6c41bba33ffb831ab5eb481a3a9b1b4c827fed767bdc",
+      "url": "https://www.theguardian.com/world/2025/sep/21/west-bank-ramallah-palestine-recognition-state-uk-france-portugal-canada",
+      "title": "‘Not enough in itself’: wary welcome in West Bank over recognition of Palestine",
+      "content_html": "<p>People in territory call for symbolism of imminent move by UK and others to be translated into practical measures</p><p></p><p>Abu Said, a barber, is busy. It is a weekend and though the narrow streets of al-Am’ari camp are hot and quiet, his shop is crowded.</p><p>Everyone in <a href=\"https://www.unrwa.org/where-we-work/west-bank/amari-camp\">al-Am’ari</a>, on the outskirts of Ramallah in the occupied West Bank, knows that the UK, France, Portugal and Canada have said they will <a href=\"https://www.theguardian.com/world/2025/sep/20/uk-to-recognise-palestinian-state-despite-pressure-from-us-and-families-of-hostages\">recognise a Palestinian state</a> imminently, following formal recognition of Palestine by more than 140 other countries.</p> <a href=\"https://www.theguardian.com/world/2025/sep/21/west-bank-ramallah-palestine-recognition-state-uk-france-portugal-canada\">Continue reading...</a>",
+      "date_published": "2025-09-21T15:49:27+00:00",
+      "authors": [
+        {
+          "name": "Jason Burke and Sufian Taha in Ramallah"
+        }
+      ],
+      "tags": [
+        "Palestinian territories",
+        "West Bank",
+        "Middle East and north Africa",
+        "Israel",
+        "UK news",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "30c1adbc3dddd5f9b6943d9c07b726617f78440d60ff1bd6b5e16ba02333a97c",
+      "url": "https://ici.radio-canada.ca/nouvelle/2193951/royaume-uni-reconnaissance-etat-palestinien",
+      "title": "Le Royaume-Uni et l’Australie reconnaissent l’État palestinien",
+      "content_html": "<p>Le Portugal doit également annoncer dimanche sa reconnaissance de l&#x27;État palestinien.\n</p>",
+      "date_published": "2025-09-21T15:48:29+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3d7312d476539f7b82bf0a2d9e7445f55b683367ea90541f80a4ae502402dc4b",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/reconnaissance-de-la-palestine-pourquoi-les-francais-juifs-doivent-soutenir-linitiative-demmanuel-macron-20250921_PPWGXKC6XZCVLLF2RRKSD7RTBA/",
+      "title": "Reconnaissance de la Palestine : pourquoi les Français juifs doivent soutenir l’initiative d’Emmanuel Macron",
+      "content_html": "Bernard-Henri Lévy et Charlotte Gainsbourg, parmi les 20 personnalités signataires d'une lettre ouverte appelant Emmanuel Macron à conditionner la reconnaissance de la Palestine.",
+      "date_published": "2025-09-21T15:46:56+00:00",
+      "authors": [
+        {
+          "name": "Dov Alfon"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ccd0ee435305add6385c309f0df374166ca09e5628bd7693fc0966f80f12017f",
+      "url": "https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-alleged-cyber-attack",
+      "title": "Disruption continues at Heathrow, Brussels and Berlin airports after cyber-attack",
+      "content_html": "<p>Zaventem asks airlines to cancel half of Monday departures, while most of Heathrow flights expected to operate </p><p>Hundreds of thousands of passengers at Heathrow and Berlin airports faced flight delays on Sunday after a <a href=\"https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays\">cyber-attack hit check-in desk software</a>, while cancellations at Brussels airport suggested that disruption of Europe’s air travel would continue into Monday.</p><p>Airlines were forced to revert to slower manual check-ins from Friday night after the attack hit Collins Aerospace, which provides check-in desk technology to various airlines.</p> <a href=\"https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-alleged-cyber-attack\">Continue reading...</a>",
+      "date_published": "2025-09-21T15:45:12+00:00",
+      "authors": [
+        {
+          "name": "Jasper Jolly"
+        }
+      ],
+      "tags": [
+        "Airline industry",
+        "Heathrow airport",
+        "Business",
+        "UK news",
+        "Belgium",
+        "Germany",
+        "Air transport",
+        "Europe",
+        "World news",
+        "Transport",
+        "Aerospace industry",
+        "Travel",
+        "Heathrow",
+        "Flights",
+        "Cybercrime"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b20f87641e2e81a352f3442c91a23e626a32c3a36e61040bd20a2b4171b56200",
+      "url": "https://www.france24.com/fr/asie-pacifique/20250921-afghanistan-les-talibans-excluent-toute-restitution-de-la-base-de-bagram-%C3%A0-donald-trump",
+      "title": "Afghanistan : les talibans excluent toute restitution de la base de Bagram à Donald Trump",
+      "content_html": "Le gouvernement afghan a indiqué dimanche que tout accord de restitution de l'ex-base américaine de Bagram est \"impossible\", répondant ainsi au président Donald Trump qui a évoqué, il y a quelques jours, l'idée que les États-Unis reprennent le contrôle de cette base.",
+      "date_published": "2025-09-21T15:38:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a9f9d0f521e24d8e618d3be39100956d96574dd63c7a86bb8e4c6f208ef3b753",
+      "url": "https://www.dw.com/en/germany-slashes-aid-and-development-budget/a-74066633?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany slashes aid and development budget",
+      "content_html": "Germany has cut its budget for international development by 8% and emergency aid has been halved. Aid agencies warn of drastic consequences.",
+      "date_published": "2025-09-21T15:38:00+00:00",
+      "authors": [],
+      "tags": [
+        "Germany"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0ccc91fd2dff3ce15349415d942f89a9f38d88a467987a19959e26cce62f8b3c",
+      "url": "https://www.theguardian.com/world/2025/sep/21/venice-police-fine-parents-children-played-football-public-square",
+      "title": "Venice police fine parents of children who played football in public square",
+      "content_html": "<p>Murano resident reported children, aged between 12 and 13, to the police</p><p>Italy might be a football-loving country but that did not stop police in Venice from pursuing a group of unlikely targets: 14 children who fell foul for playing the game in a public square, leading to fines presented to their parents, in a move that has sparked a debate about the rights of young people to play outdoors.</p><p>The children, aged between 12 and 13, were playing football earlier this month in Pino Signoretto square in Murano, an island of about 4,500 inhabitants in the Venetian lagoon, when a resident, annoyed by the noise they were making, reported them to the police.</p> <a href=\"https://www.theguardian.com/world/2025/sep/21/venice-police-fine-parents-children-played-football-public-square\">Continue reading...</a>",
+      "date_published": "2025-09-21T15:31:50+00:00",
+      "authors": [
+        {
+          "name": "Angela Giuffrida in Rome"
+        }
+      ],
+      "tags": [
+        "Italy",
+        "Children",
+        "Football",
+        "Europe",
+        "Society",
+        "Sport",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "1733f153bd13caa037d238119c66c8197d2e02e71ae81766fc492d31aa35aa52",
@@ -255,28 +751,18 @@
       "lang": "en"
     },
     {
-      "id": "3e502d7b0ebeb5733e1241ccb4dc8c67f436d1724e8317d9a19d13dc9eb154d1",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/21/charlie-kirk-funeral-memorial-time-updates-arizona",
-      "title": "Charlie Kirk memorial: Trump and Vance to join tens of thousands of people at service for rightwing activist – US politics live",
-      "content_html": "<p>Funeral expected to start at 11am local time; Erika Kirk, US president and vice-president among the expected speakers</p><p><strong>Ahead of Charlie Kirk’s memorial service today, JD Vance, who is expected to deliver an address, wrote on X:</strong></p><p>“Last week, we brought my dear friend Charlie Kirk home one last time. Today, we return to Arizona to remember Charlie and honor his sacrifice. May he eternally rest in peace, and may God watch over Erika and their beautiful children.”</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/21/charlie-kirk-funeral-memorial-time-updates-arizona\">Continue reading...</a>",
-      "date_published": "2025-09-21T15:20:20+00:00",
-      "authors": [
-        {
-          "name": "Maya Yang (now) and Fran Lawther (earlier)"
-        }
-      ],
+      "id": "e2e220723ec516274fe20c6ca7b959b91fd758ef620f105550f11c552d2be2fc",
+      "url": "https://www.aljazeera.com/news/2025/9/21/trump-join-thousands-memorial-right-wing-us-activist-charlie-kirk?traffic_source=rss",
+      "title": "Trump to join thousands at memorial for right-wing US activist Charlie Kirk",
+      "content_html": "US President Donald Trump to address Arizona service for assassinated ally.",
+      "date_published": "2025-09-21T15:19:55+00:00",
+      "authors": [],
       "tags": [
-        "Charlie Kirk shooting",
-        "Donald Trump",
-        "JD Vance",
-        "Republicans",
-        "Donald Trump Jr",
-        "US politics",
-        "US news"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -310,20 +796,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "2d9a797ad83f98398ce8f47b0b32a97126c048c16f09d47687754fc71c7ed35d",
-      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
-      "title": "Heathrow warns of second day of disruption after cyber-attack",
-      "content_html": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday.",
-      "date_published": "2025-09-21T15:07:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "2ef11dbb5370c5ad4b7ff446b268546047717015bfd0519dc90a895e9221f3bd",
@@ -677,34 +1149,6 @@
       "lang": "en"
     },
     {
-      "id": "5c5b8fedc5bb435fc44da509cef651e1fe1187b8feef09d811364aa74c23af12",
-      "url": "https://elpais.com/internacional/2025-09-21/el-reino-unido-confirma-su-decision-de-reconocer-el-estado-palestino.html",
-      "title": "Le Royaume-Uni, l'Australie, le Canada et le Portugal reconnaissent l'État palestinien",
-      "content_html": "Le Premier ministre britannique, Keir Starmer, à son arrivée lors d'une commémoration dans l'abbaye de Westminster, à Londres, ce dimanche.",
-      "date_published": "2025-09-21T14:34:18+00:00",
-      "authors": [
-        {
-          "name": "Rafa De Miguel"
-        }
-      ],
-      "tags": [
-        "Reino Unido",
-        "Israel",
-        "Estados Unidos",
-        "Franja Gaza",
-        "Palestina",
-        "ONU",
-        "Keir Starmer",
-        "Donald Trump",
-        "Benjamin Netanyahu"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6d39f50eeb7708a3e8280a450badc0d38f35e1f2545687262bf5daa4541f7e59",
       "url": "https://www.france24.com/en/video/20250921-british-pm-starmer-says-two-state-solution-is-the-best-hope-for-peace-and-security",
       "title": "British PM Starmer says \"two-state solution is the best hope for peace and security\"",
@@ -984,7 +1428,7 @@
       "id": "0d13054e87d19c68b7880c29fed2dfa852a703384fe8eaf0d5ab2f044dbcb3e2",
       "url": "https://www.aljazeera.com/news/2025/9/21/canada-australia-join-uk-in-recognising-palestinian-statehood?traffic_source=rss",
       "title": "Canada, Australia join UK in recognising Palestinian statehood",
-      "content_html": "Recognition of Palestine from Canada and Australia comes in coordination with the UK before UN General Assembly meeting.",
+      "content_html": "Recognition of Palestine from Canada, Australia comes in coordination with UK, ahead of UN General Assembly meeting.",
       "date_published": "2025-09-21T13:49:22+00:00",
       "authors": [],
       "tags": [
@@ -1051,11 +1495,17 @@
     {
       "id": "b3e6e8a0b12f19385ac36fd6fea2eeb8be3e7ffe56b748bee65938877eda2e2d",
       "url": "https://www.france24.com/en/live-news/20250921-france-s-richest-man-riles-left-with-attack-on-pseudo-academic-behind-tax-plan",
-      "title": "France's richest man riles left with attack on 'pseudo-academic' behind tax plan",
-      "content_html": "Left-wing figures in France on Sunday reacted with uproar after the country's richest man the luxury goods tycoon Bernard Arnault described an academic behind a wealth tax plan as a \"far-left activist\" who wanted to \"destroy the French economy\".",
+      "title": "France's richest man attacks 'far-left', 'pseudo-academic' behind billionaire tax plan",
+      "content_html": "Bernard Arnault, the boss of luxury goods group LVMH and France's richest man, has sparked anger on the French political left by branding the economist behind a hotly debated plan to tax billionaires a \"far-left activist\" and \"pseudo-academic\" bent on destroying the French economy. Hitting back at Arnault, Gabriel Zucman mocked the \"caricatural nature\" of his attack.",
       "date_published": "2025-09-21T13:47:09+00:00",
-      "authors": [],
-      "tags": [],
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
@@ -1284,26 +1734,6 @@
       "lang": "en"
     },
     {
-      "id": "d40865b82777544e5ab0f49a847116524874d843a85a1781dc449b7604a5cd45",
-      "url": "https://www.elmundo.es/internacional/2025/09/21/68cfb1dafc6c83c5018b458b.html",
-      "title": "Le Royaume-Uni, le Canada et l'Australie reconnaissent l'État de Palestine",
-      "content_html": "L'annonce arrive quelques jours après la visite de Donald Trump au Royaume-Uni, qui a déjà exprimé son \"désaccord\" avec la position du leader travailliste",
-      "date_published": "2025-09-21T13:21:38+00:00",
-      "authors": [
-        {
-          "name": "Pablo Pardo"
-        }
-      ],
-      "tags": [
-        "Artículos Pablo Pardo"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "911a5c4cc1a233422ecec04f102d1719df033de2638a0e999d7196b5a1a8ca56",
       "url": "https://www.lemonde.fr/international/article/2025/09/21/la-ligue-italienne-celebre-charlie-kirk-et-les-patriotes-lors-de-sa-fete-annuelle_6642261_3210.html",
       "title": "La Ligue italienne célèbre Charlie Kirk et les « patriotes » lors de sa fête annuelle",
@@ -1340,20 +1770,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "2d189dd8b89b782eaef8a05828898e0ee06eb004b0ffc0e969e6d8d9e28ab4b6",
-      "url": "https://www.lemonde.fr/international/live/2025/09/21/en-direct-gaza-le-canada-et-le-royaume-uni-reconnaissent-l-etat-de-palestine-a-la-veille-du-discours-d-emmanuel-macron-a-l-onu_6641801_3210.html",
-      "title": "En direct, Gaza : le Royaume-Uni, le Canada et l’Australie reconnaissent l’Etat de Palestine à la veille du discours d’Emmanuel Macron à l’ONU",
-      "content_html": "Le premier ministre canadien, Mark Carney, et le premier ministre britannique, Keir Starmer, lors d’une cérémonie d’accueil organisée dans le cadre du sommet du G7 à Kananaskis (Canada), le 16 juin 2025.",
-      "date_published": "2025-09-21T13:18:57+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "082389bc9700b04ba25af50b15dfee484096aacdc5300dea2f5f606552a40eae",
@@ -1495,45 +1911,6 @@
       "lang": "en"
     },
     {
-      "id": "30c1adbc3dddd5f9b6943d9c07b726617f78440d60ff1bd6b5e16ba02333a97c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2193951/royaume-uni-reconnaissance-etat-palestinien",
-      "title": "Le Royaume-Uni et le Portugal vont reconnaître l’État palestinien dimanche",
-      "content_html": "<p>Keir Starmer l&#x27;avait déjà promis en juillet, sauf si Israël prenait une série d&#x27;engagements.</p>",
-      "date_published": "2025-09-21T12:52:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "fc151dd09bc9546a5c3e6c41bba33ffb831ab5eb481a3a9b1b4c827fed767bdc",
-      "url": "https://www.theguardian.com/world/2025/sep/21/west-bank-ramallah-palestine-recognition-state-uk-france-portugal-canada",
-      "title": "‘Not enough in itself’: wary welcome in West Bank over recognition of Palestine",
-      "content_html": "<p>People in territory call for symbolism of imminent move by UK and others to be translated into practical measures</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live\">Starmer set to announce UK recognition of Palestine - UK politics live</a></p></li></ul><p>Abu Said, a barber, is busy. It is a weekend and though the narrow streets of al-Am’ari camp are hot and quiet, his shop is crowded.</p><p>Everyone in <a href=\"https://www.unrwa.org/where-we-work/west-bank/amari-camp\">al-Am’ari</a>, on the outskirts of Ramallah in the occupied West Bank, knows that the UK, France, Portugal and Canada have said they will <a href=\"https://www.theguardian.com/world/2025/sep/20/uk-to-recognise-palestinian-state-despite-pressure-from-us-and-families-of-hostages\">recognise a Palestinian state</a> imminently, following formal recognition of Palestine by more than 140 other countries.</p> <a href=\"https://www.theguardian.com/world/2025/sep/21/west-bank-ramallah-palestine-recognition-state-uk-france-portugal-canada\">Continue reading...</a>",
-      "date_published": "2025-09-21T12:48:09+00:00",
-      "authors": [
-        {
-          "name": "Jason Burke and Sufian Taha in Ramallah"
-        }
-      ],
-      "tags": [
-        "Palestinian territories",
-        "West Bank",
-        "Middle East and north Africa",
-        "Israel",
-        "UK news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c0214983bc6aff3ace06ea4493516fd0e93395246a17755e6b8e4b5a11b0c311",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20250921-d%C3%A9construire-les-pr%C3%A9jug%C3%A9s-sur-l-%C3%A9cole-avec-le-professeur-mouhamadou-alias-balancepourlabalance",
       "title": "Déconstruire les préjugés sur l'École avec le professeur Mouhamadou, alias @balancepourlabalance",
@@ -1612,6 +1989,20 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "3214f5ac5bf297f8e230863e52ab21026d830f2012e0466104dabcfd3b6bbe10",
+      "url": "https://ici.radio-canada.ca/sports/2193964/canada-argent-4-x-100-m-relais",
+      "title": "Le Canada remporte l’argent au relais 4 x 100 m",
+      "content_html": "<p>Les Canadiens ont été devancés par les Américains, champions en 37,29&nbsp;s.</p>",
+      "date_published": "2025-09-21T12:39:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
     },
     {
       "id": "4435d74fdaa31742ed4eab8eb11d1557e63e9ece917d2820a2edac469277b20d",
@@ -1896,7 +2287,7 @@
       "id": "1936703c5446be098459ca9d32c1e924b6bc0bb29cb7a13da528b09f6c0e07c8",
       "url": "https://www.theguardian.com/us-news/2025/sep/21/states-healthcare-vaccines-recommendations",
       "title": "States rally to offset fracturing of federal healthcare agencies: ‘Diseases don’t see state lines’",
-      "content_html": "<p>Changes to regulatory or information environments will help states decouple from federal health recommendations</p><p>Seven US states and the nation’s largest city <a href=\"https://www.mass.gov/news/several-northeastern-states-and-americas-largest-city-announce-the-northeast-public-health-collaborative\">announced</a> this week that they have formed the Northeast Public Health Collaborative, in an effort to strengthen the region’s health guidance as the national health landscape fractures.</p><p>As national health agencies revisit their recommendations, including high-profile restrictions on the updated Covid shots and the measles, mumps, rubella and varicella (MMRV) vaccine, the pressure is increasingly falling on states to navigate recommendations and new federal rules.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/21/states-healthcare-vaccines-recommendations\">Continue reading...</a>",
+      "content_html": "<p>Changes to regulatory or information environments will help states decouple from federal health recommendations</p><p>Seven US states and the nation’s largest city <a href=\"https://www.mass.gov/news/several-northeastern-states-and-americas-largest-city-announce-the-northeast-public-health-collaborative\">announced</a> this week that they have formed the Northeast Public Health Collaborative, in an effort to strengthen the region’s health guidance as the national health landscape fractures. Maryland <a href=\"https://health.maryland.gov/newsroom/Pages/Maryland%20Department%20of%20Health%20issues%20respiratory%20virus%20vaccine%20guidance,%20COVID-19%20vaccine%20standing%20order.aspx\">announced</a> they would join the alliance on Friday.</p><p>As national health agencies revisit their recommendations, including high-profile restrictions on the updated Covid shots and the measles, mumps, rubella and varicella (MMRV) vaccine, the pressure is increasingly falling on states to navigate recommendations and new federal rules.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/21/states-healthcare-vaccines-recommendations\">Continue reading...</a>",
       "date_published": "2025-09-21T12:00:42+00:00",
       "authors": [
         {
@@ -2129,34 +2520,6 @@
       "lang": "fr"
     },
     {
-      "id": "13033d14490b1399de9cdc05b12fa6e8fcd28ed1d2016c7ea2639ac449f1476b",
-      "url": "https://elpais.com/internacional/2025-09-21/continuan-por-segundo-dia-las-cancelaciones-de-vuelos-en-el-aeropuerto-de-bruselas-por-el-ciberataque.html",
-      "title": "Les annulations de vol à l'aéroport de Bruxelles se poursuivent pour le deuxième jour",
-      "content_html": "Tails à l'aéroport de Bruxelles, ce dimanche, à la suite de la cyberattaque.",
-      "date_published": "2025-09-21T11:29:12+00:00",
-      "authors": [
-        {
-          "name": "EFE"
-        }
-      ],
-      "tags": [
-        "Transporte aéreo",
-        "Ataques informáticos",
-        "Bruselas",
-        "Londres",
-        "Aeropuertos",
-        "Berlín",
-        "Pasajeros",
-        "Economía",
-        "Cancelaciones transporte"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8d26007f7884d63e53deebf9e955854bdeeccf0ed941a59dacd15beef29c1051",
       "url": "https://www.ukrinform.net/rubric-society/4038797-two-schools-collapse-in-russia-in-one-day.html",
       "title": "Two schools collapse in Russia in one day",
@@ -2241,62 +2604,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ccd0ee435305add6385c309f0df374166ca09e5628bd7693fc0966f80f12017f",
-      "url": "https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-alleged-cyber-attack",
-      "title": "Delays continue at Heathrow, Brussels and Berlin airports after alleged cyber-attack",
-      "content_html": "<p>Airlines reverted to manual check-in from Friday after service provider hit by ‘cyber-related incident’</p><p>Passengers at London Heathrow airport and those in Brussels and Berlin faced another day of delays on Sunday after an <a href=\"https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays\">alleged cyber-attack hit check-in desk software</a>.</p><p>Airlines were forced to revert to manual check-in from Friday night after the alleged attack hit Collins Aerospace, which provides check-in desk technology to various airlines.</p> <a href=\"https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-alleged-cyber-attack\">Continue reading...</a>",
-      "date_published": "2025-09-21T11:04:00+00:00",
-      "authors": [
-        {
-          "name": "Jasper Jolly"
-        }
-      ],
-      "tags": [
-        "Airline industry",
-        "Heathrow airport",
-        "Business",
-        "UK news",
-        "Belgium",
-        "Germany",
-        "Air transport",
-        "Europe",
-        "World news",
-        "Transport",
-        "Aerospace industry",
-        "Travel",
-        "Heathrow",
-        "Flights",
-        "Cybercrime"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f032247ee9460d88a507c3b2eddb4785f63436c38d0b882ddd5ce2e3f02d3f9d",
-      "url": "https://www.theguardian.com/us-news/2025/sep/21/virginia-woman-donates-powerball-prize-charities",
-      "title": "Virginia woman donates $150,000 Powerball prize to charity: ‘I needed to give it all away’",
-      "content_html": "<p>Carrie Edwards, a widow and grandma, gave the money to dementia research, food access and aid for military families</p><p>Carrie Edwards of <a href=\"https://www.theguardian.com/us-news/virginia\">Virginia</a> wasn’t the big winner when she won $150,000 playing the Powerball recently – instead, that honor went to dementia research, food access and support for military families, the charitable causes to which she donated her entire prize.</p><p>Edwards, described by lottery officials as a widow and grandmother, has gained praise in parts of the web dedicated to finding uplifting news stories – along with the charities benefiting from her windfall – after buying an online ticket for the Powerball drawing on 8 September.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/21/virginia-woman-donates-powerball-prize-charities\">Continue reading...</a>",
-      "date_published": "2025-09-21T11:00:43+00:00",
-      "authors": [
-        {
-          "name": "Ramon Antonio Vargas"
-        }
-      ],
-      "tags": [
-        "US news",
-        "Virginia",
-        "Philanthropy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2635,24 +2942,6 @@
       "lang": "en"
     },
     {
-      "id": "6e52f051b3fcb798a382261f8086084feb8434ffa61ede5472185ace030cc4b5",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250921-en-rd-congo-l-afc-m23-exhibe-un-nouveau-contingent-crainte-d-escalade",
-      "title": "En RD congo, l'AFC/M23 exhibe un nouveau contingent : crainte d'escalade ?",
-      "content_html": "En RD Congo, un nouveau contingent de l’AFC/M23 a été présenté lors d’une cérémonie organisée dans son centre de formation au nord de Goma. Des images ont fait le tour des réseaux sociaux laissant craindre une escalade de violences dans l’est congolais. Explications avec notre correspondante pour France 24, Aurélie Bazzara Kibangula.",
-      "date_published": "2025-09-21T10:11:29+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7e9e5011b9d1a32cdd23e346a335c0d40dc801e0fa53cc73f6a49fc0771943ce",
       "url": "https://www.bbc.com/news/videos/c3vzz1p1r76o?at_medium=RSS&at_campaign=rss",
       "title": "Watch: Philippines anti-corruption protests turn violent",
@@ -2834,24 +3123,6 @@
       "lang": "en"
     },
     {
-      "id": "3e1029e99a93b5e0480c63bda653b9f3f8b3a480118738d8ef15100b7fff9f4e",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250921-mondiaux-de-cyclisme-au-rwanda-on-sent-l-excitation-monter-%C3%A0-kigali",
-      "title": "Mondiaux de cyclisme au Rwanda : \"on sent l'excitation monter\" à Kigali",
-      "content_html": "Les Championnats du monde de cyclisme débutent au Rwanda ce dimanche, une première pour le pays et le continent africain. Le pays des mille collines accueille les plus grands noms du cyclisme comme Tadej Pogacar et Pauline Ferrand-Prévot. \"On sent l'excitation monter, la ville est prête.\" Notre correspondante à Kigali, Juliette Montilly, est sur place.",
-      "date_published": "2025-09-21T09:42:34+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ae20f7e69032fb88356dd81983e839bc10ebc586d726175fb5f5829e09717015",
       "url": "https://www.france24.com/en/video/20250921-cyberattack-bring-chaos-to-airports-who-is-behind-this-outage",
       "title": "Cyberattack bring chaos to airports: Who is behind this outage?",
@@ -2940,7 +3211,7 @@
     {
       "id": "bd7ac9fcef2f73c3bb88d240e275726c2f0ef368be43fc489d02bf0babd99ea2",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/9/21/live-india-vs-pakistan-asia-cup-2025-super-fours-commentary-stream-score?traffic_source=rss",
-      "title": "LIVE: India vs Pakistan in Asia Cup 2025 – No handshakes as India bowl",
+      "title": "LIVE: India vs Pakistan – Asia Cup 2025 Super Four match",
       "content_html": "Follow our live score, photos and text commentary stream from the Super Fours match in Dubai.",
       "date_published": "2025-09-21T09:31:43+00:00",
       "authors": [],
@@ -3116,30 +3387,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2643352861de18b6957ab414002b0fd158afcf6710f9fad402f0190b06d8f445",
-      "url": "https://www.timesofisrael.com/with-cash-doctors-and-bulldozers-saudi-arabia-pursues-soft-power-push-in-syria/",
-      "title": "With cash, doctors and bulldozers, Saudi Arabia pursues soft power push in Syria",
-      "content_html": "<p>Riyadh pledges rebuilding program and Saudi medical teams perform open-heart surgeries and cochlear implant operations across Syria, as Qatar and Turkey also vie for influence</p>\n<p>The post <a href=\"https://www.timesofisrael.com/with-cash-doctors-and-bulldozers-saudi-arabia-pursues-soft-power-push-in-syria/\">With cash, doctors and bulldozers, Saudi Arabia pursues soft power push in Syria</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250919__74Z49CR__v1__HighRes__SyriaSaudiConflictAidDiplomacy-1024x640.jpg\" title=\"With cash, doctors and bulldozers, Saudi Arabia pursues soft power push in Syria\" width=\"160\" /></figure>",
-      "date_published": "2025-09-21T08:23:53+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Saudi Arabia",
-        "Syria",
-        "Saudi Arabia-Syria relations",
-        "Mohammed bin Salman",
-        "captagon",
-        "Qatar",
-        "Turkey",
-        "fall of Assad regime"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3385,22 +3632,6 @@
       "lang": "en"
     },
     {
-      "id": "d78122df0481462660f960a5a7e4fdbe84faef96c4e3c1d5e1fd99ac640bdfab",
-      "url": "https://www.aljazeera.com/news/2025/9/21/uk-pm-starmer-to-recognise-palestinian-statehood-before-unga-meeting?traffic_source=rss",
-      "title": "UK recognises Palestinian statehood 108 years after Balfour Declaration",
-      "content_html": "Decision announced alongside recognition by Canada and Australia comes as Israel continues deadly destruction in Gaza.",
-      "date_published": "2025-09-21T07:46:07+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ec6c989ddb0ba988a22d0f57cea3deaf8bb6be25679424bd82b1fff718278034",
       "url": "https://www.theguardian.com/business/2025/sep/21/abhorrent-behaviour-call-for-optus-to-face-stiff-penalties-after-triple-zero-outage-deaths",
       "title": "Optus admits process not followed after it missed at least five warnings of triple zero outage",
@@ -3439,22 +3670,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a679ec8c1a9428ad7188b9d49a6d7e1839c645e3187eea69868a6d76a5507eeb",
-      "url": "https://www.aljazeera.com/video/game-theory/2025/9/21/africas-cycling-moment?traffic_source=rss",
-      "title": "Africa’s Cycling Moment",
-      "content_html": "Kigali hosts the 2025 UCI Road World Championship",
-      "date_published": "2025-09-21T07:25:19+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4163,22 +4378,6 @@
       "lang": "fr"
     },
     {
-      "id": "1536f19afb22fc63f4d036dd801feac44a3667937bcb6e9a2c590e355572d84f",
-      "url": "https://www.ukrinform.net/rubric-ato/4038686-ukrainian-border-guards-hit-russian-tank-in-pokrovsk-sector.html",
-      "title": "Ukrainian border guards hit Russian tank in Pokrovsk sector",
-      "content_html": "Drone pilots from the Phoenix unit of the Revenge Border Guard Brigade destroyed three cars, three trucks, an armored vehicle, and struck a Russian tank in the Pokrovsk sector.",
-      "date_published": "2025-09-21T03:23:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "53f65ee6a656cd53ebf7d5680ef31d5a0af8dffa4e77caeb83f372d1632b03ad",
       "url": "https://ici.radio-canada.ca/nouvelle/2193949/pierre-dufour-regions-legault-caq",
       "title": "François Legault doit faire plus de place aux régions, croit Pierre Dufour",
@@ -4368,20 +4567,6 @@
       "title": "Heightened security as Americans gather for Kirk memorial",
       "content_html": "Donald Trump and JD Vance will be among the speakers at the event in Arizona.",
       "date_published": "2025-09-20T23:02:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "77b992b78babcd52ba39f6fc6c8c4d4c87a8f5fc355d9f8ea60a2180514997cf",
-      "url": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
-      "title": "Press could lose Pentagon access for releasing 'unauthorised information'",
-      "content_html": "Journalists have been told Pentagon passes will be contingent on agreeing to new restrictions.",
-      "date_published": "2025-09-20T22:53:37+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -4699,32 +4884,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0bb759ca50416f14c7ff511748a55caeeb56203f58dd9ae3c29b990e299f9a2c",
-      "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
-      "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
-      "content_html": "<p>Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected</p><p>Flights have been delayed and cancelled at three leading European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack.</p><p>Airports in Brussels and Berlin are also experiencing delays and disruption as a result of the problem affecting Collins Aerospace, which works for several airlines at airports across the world.</p> <a href=\"https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays\">Continue reading...</a>",
-      "date_published": "2025-09-20T18:58:55+00:00",
-      "authors": [
-        {
-          "name": "Kevin Rawlinson and agency"
-        }
-      ],
-      "tags": [
-        "Heathrow airport",
-        "Cybercrime",
-        "Air transport",
-        "UK news",
-        "Transport",
-        "Europe",
-        "Travel"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -5094,36 +5253,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "4e22b5a8532618a03b63109858e42019d0225bce89b8e5df460e3d7b1b4620be",
-      "url": "https://www.theguardian.com/world/2025/sep/20/israeli-attack-on-yemeni-newspaper-complex-kills-media-workers",
-      "title": "Israel attack on Yemeni newspaper was second deadliest on journalists ever recorded",
-      "content_html": "<p>Press freedom group says ‘brutal and unjustified attack’ is deadliest since 2009 Maguindanao massacre in Philippines</p><p>Thirty one journalists and media staff were killed by Israeli strikes on newspaper offices in Yemen last week in what the <a href=\"https://cpj.org/2025/09/israels-killing-of-31-yemeni-journalists-marks-deadliest-global-attack-in-16-years/\">Committee to Protect Journalists (CPJ)</a> said on Friday was the deadliest attack on journalists in the last 16 years.</p><p>Israel struck a newspaper complex in Sana’a, Yemen’s capital, which housed three Houthi-connected media outlets on 10 September. At the time, members of the Yemeni army’s press arm were finishing the weekly print edition, according to the publication’s editor-in-chief, which increased the number of journalists present during the strike.</p> <a href=\"https://www.theguardian.com/world/2025/sep/20/israeli-attack-on-yemeni-newspaper-complex-kills-media-workers\">Continue reading...</a>",
-      "date_published": "2025-09-20T14:32:28+00:00",
-      "authors": [
-        {
-          "name": "William Christou"
-        }
-      ],
-      "tags": [
-        "Journalist safety",
-        "Yemen",
-        "World news",
-        "Middle East and north Africa",
-        "Media",
-        "Newspapers",
-        "Newspapers & magazines",
-        "Israel",
-        "Houthis",
-        "Palestinian territories",
-        "Gaza"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "c28239db3971b50ff4b66098d47c45c978dbecda635910a6dbd81715f251ced2",
@@ -5652,22 +5781,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "455794139eb101253f08e276e6bcfe6e4108fe59ed23c8634a1f2ab556ece089",
-      "url": "https://www.dw.com/en/anything-but-safe-using-vpn-can-bear-immense-risks/a-74061988?maca=en-rss-en-all-1573-rdf",
-      "title": "Anything but safe: Using VPN can bear immense risks",
-      "content_html": "A new study reveals that popular VPN connections provide less safety than widely believed. The findings are alarming, especially for users in authoritarian states.",
-      "date_published": "2025-09-20T07:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "TOP STORIES"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "c9161d6a327c22a81221261bea000b347e05d728b13ba202a1d92d54fcc8f7f4",
@@ -6389,7 +6502,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "22a4b130b4594b47c471476101302a62e24abcc34c577a9c86ab39f5306b9f9b",
@@ -7685,47 +7798,6 @@
       "lang": "en"
     },
     {
-      "id": "f0df6905e561c0721fa0fd4cb2d8a2273a1c5c4e1a5ba00d30277deb94941e24",
-      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-donald-trump-veut-la-tete-des-late-shows-televises-20250919_54IUHYHYBFB6JMWIA6OHAK5VDY/",
-      "title": "Aux Etats-Unis, Donald Trump veut la tête des «late shows» télévisés",
-      "content_html": "Le présentateur Jimmy Kimmel lors d'un événement Disney, le 13 mai 2025, à New York.",
-      "date_published": "2025-09-19T03:42:00+00:00",
-      "authors": [
-        {
-          "name": "Philippe Coste"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "611f970f8d3a0d3f8b933a6d97222a80af95cfb4456c0e70d977e0f5fdaa02b1",
-      "url": "https://www.theguardian.com/world/2025/sep/19/mass-protest-expected-in-philippines-capital-amid-public-fury-over-alleged-corruption-in-government-projects",
-      "title": "Mass protest expected in Philippines capital amid public fury over alleged corruption in government projects",
-      "content_html": "<p>Sunday’s demonstration in Manila to coincide with anniversary of 1972 martial law declaration as president backs rally in bid to placate anger</p><p>Thousands of people are expected to join a mass protest in Manila on Sunday amid a groundswell of anger in the Philippines against perceived corruption in government-funded flood control projects.</p><p>Dubbed the “Trillion Peso March”, the demonstration is named after a Greenpeace estimate of $17.6bn that the <a href=\"https://www.greenpeace.org/philippines/press/68522/flood-control-corruption-an-obscene-plunder-of-much-needed-climate-funds/#:~:text=Greenpeace%20says%20that%20corruption%20and,frequent%20and%20more%20intense%20flooding\">environmental organisation alleges</a> is the amount skimmed from climate-related projects in 2023.</p> <a href=\"https://www.theguardian.com/world/2025/sep/19/mass-protest-expected-in-philippines-capital-amid-public-fury-over-alleged-corruption-in-government-projects\">Continue reading...</a>",
-      "date_published": "2025-09-19T02:18:23+00:00",
-      "authors": [
-        {
-          "name": "Kate Lamb and agencies"
-        }
-      ],
-      "tags": [
-        "Philippines",
-        "Asia Pacific",
-        "Nepal",
-        "South and central Asia"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b0d45c6e300de953e6310b12847095980a4f1b5854cef9c1544ee1361862276a",
       "url": "https://www.elmundo.es/internacional/2025/09/19/68cc43bee4d4d812788b4584.html",
       "title": "Smotrich et Ben Gvir, le duo ultra-nationaliste du gouvernement israélien",
@@ -7876,46 +7948,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "aac162016c487cf69f747f052e27f28aa26be275b56825fd620df267ccb025c8",
-      "url": "https://www.lefigaro.fr/international/donald-trump-et-keir-starmer-celebrent-le-lien-unique-entre-leurs-deux-pays-20250918",
-      "title": "Donald Trump et Keir Starmer célèbrent le «lien unique» entre leurs deux pays",
-      "content_html": "Le Premier ministre britannique Keir Starmer invite le Président des Etats-Unis Donald Trump à Chequers, près d’Aylesbury, Royaume-Uni",
-      "date_published": "2025-09-18T17:53:22+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f373c6202699f8dfd3d47069637b9024b49418b14327623be08482ae9c2f6095",
-      "url": "https://www.elmundo.es/internacional/2025/09/18/68cc3584e85ecefc108b45be.html",
-      "title": "Plus de 50 Eurodiputados demandent à l'UUER qu'Israël est expulsé d'Eurovision alors que la Russie",
-      "content_html": "Ceci est exprimé par les députés d'Addar, Jaume Ansns et Estrella Galán, et celui des compromis vicents Marzà, dans une lettre à laquelle les signatures de 52 autres Eurodiputados d'une quinzaine de pays ont rejoint",
-      "date_published": "2025-09-18T17:43:56+00:00",
-      "authors": [
-        {
-          "name": "Europa Press"
-        }
-      ],
-      "tags": [
-        "internacional",
-        "Unión Europea",
-        "Israel",
-        "Franja de Gaza",
-        "Eurovisión"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "fc19b170b061310bd9b73fd073b74972bde5ca5be36a580ac634ad200450d4f6",
