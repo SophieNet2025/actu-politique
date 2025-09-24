@@ -5,16 +5,496 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "4eec14c2e462542f45cf8f6497e752c6ec229cba5420440005c6561075e5b406",
-      "url": "https://ici.radio-canada.ca/nouvelle/2194932/ministere-environnement-coupe-134-postes-fonctionnaires",
-      "title": "Québec supprime 134 postes au ministère de l’Environnement",
-      "content_html": "<p>Plus de 1200&nbsp;fonctionnaires ont perdu leur emploi depuis le printemps en raison des restrictions budgétaires.</p>",
-      "date_published": "2025-09-24T19:28:42+00:00",
+      "id": "ef4dee10f7739bc7edec89797178edf9d412483b58b370ca2ae55ac3c4c74fb2",
+      "url": "https://ici.radio-canada.ca/nouvelle/2194950/mediation-negociations-medecins-famille-specialistes-quebec-legault",
+      "title": "Québec propose la médiation aux médecins",
+      "content_html": "<p>Le premier ministre a haussé le ton en mêlée de presse mercredi.</p>",
+      "date_published": "2025-09-24T20:32:01+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b19997e63e740012c5f8800873c5db9eab71036bf2b5a1c98e5580d9893630c9",
+      "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
+      "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
+      "content_html": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
+      "date_published": "2025-09-24T20:27:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8712675d23281a0ea80b761069ca7dcf75352d116ef1b1e7b6c0fb5b78f3f11b",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20250924-guin%C3%A9e-le-r%C3%A9f%C3%A9rendum-largement-approuv%C3%A9-des-%C3%A9lections-pr%C3%A9vues-d-ici-la-fin-d-ann%C3%A9e",
+      "title": "Guinée : le référendum largement approuvé, des élections prévues d'ici la fin d'année",
+      "content_html": "En Guinée, c'est le « OUI » qui l'a emporté au référendum constitutionnel de dimanche. Les résultats provisoires ont été annoncés tard dans la nuit de mardi par les autorités guinéennes. Des résultats rejetés par le principal opposant en exil, Cellou Dalein Diallo, qui avait appelé au boycott du scrutin. Le Premier ministre a par ailleurs réitéré l'engagement des autorités à organiser une élection présidentielle d'ici la fin de l'année.",
+      "date_published": "2025-09-24T20:25:43+00:00",
+      "authors": [
+        {
+          "name": "Meriem AMELLAL"
+        }
+      ],
+      "tags": [
+        "Journal de l'Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dd825453ab203643595163f23c14ff2bd045facbd37d22e90e6861fcf88951a5",
+      "url": "https://www.lefigaro.fr/international/c-est-l-age-d-or-de-l-amerique-retrouvez-le-discours-de-donald-trump-a-l-onu-en-integralite-20250924",
+      "title": "«C’est l’âge d’or de l’Amérique» : retrouvez le discours de Donald Trump à l’ONU en intégralité",
+      "content_html": "Donald Trump prononce un discours de près d’une heure devant la 80e assemblée générale des Nations Unies le 23 septembre 2025.",
+      "date_published": "2025-09-24T20:18:25+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d6f3255f366bc65cdbc3e5741a82ec48cc196355592599111f23c10626c17cd6",
+      "url": "https://www.france24.com/en/video/20250924-melania-s-influence-likely-to-have-contributed-to-trump-s-turnaround-analyst-says",
+      "title": "Melania's influence likely to have contributed to Trump's turnaround, analyst says",
+      "content_html": "Speaking with FRANCE 24's Mark Owen, Melinda Haring, Senior Community Engagement Advisor, Razom for Ukraine, says that there are forces within the Trump camp that support Ukraine and one of them is Melania Trump, who has been reportedly very affected by the issue of Ukrainian children abducted by Russia.",
+      "date_published": "2025-09-24T20:16:53+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9a8436c6957b0bac2b1d9f863cf119eca3ce5d1fe92f9619df4e7d2c0714de6b",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20250924-raptureday-des-%C3%A9vang%C3%A9liques-pr%C3%A9disent-la-fin-du-monde-1",
+      "title": "\"Raptureday\", des évangéliques prédisent la fin du monde",
+      "content_html": "Sur les réseaux sociaux, la panique s'est emparé de communautés de chrétiens évangéliques américains depuis qu'un pasteur à succès en Afrique du Sud a prédit l'apocalypse pour le 23 ou 24 septembre.",
+      "date_published": "2025-09-24T20:16:06+00:00",
+      "authors": [
+        {
+          "name": "Lucas DE VILLEPIN"
+        }
+      ],
+      "tags": [
+        "Info ou intox"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "54657d40a60dbaa0afcce50496d8638ff1f5c641f87f4f2de90f4e7ad1b450be",
+      "url": "https://www.theguardian.com/us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates",
+      "title": "Officials reportedly identify Dallas Ice facility shooter; DHS corrects death toll down to one person killed – live",
+      "content_html": "<p>Joshua Jahn killed one detainee and severely injured two other before taking his own life, NBC News reports, as JD Vance blames Democrats for surge in political violence</p><ul><li><p>Full report – <a href=\"https://www.theguardian.com/us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest\">Three people shot at Texas Ice building</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/sep/24/dallas-texas-ice-facility-shooting\">Texas Ice facility shooting: what we know so far about deadly attack</a></p></li></ul><p><strong>The Kremlin on Wednesday brushed off a comment by US president Donald Trump describing Russia as a “paper tiger”, and said president Vladimir Putin valued his efforts to resolve the Ukraine conflict.</strong></p><p>Kremlin spokesperson Dmitry Peskov said that Russia was a bear, not a tiger, and “there is no such thing as a paper bear”.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2025-09-24T20:15:23+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey (now) Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "US immigration",
+        "Donald Trump",
+        "US news",
+        "US politics",
+        "World news",
+        "Jimmy Kimmel",
+        "Freedom of speech",
+        "Media",
+        "ABC",
+        "US television industry",
+        "Trump administration"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f4507b6ce3b02e2d52a2d2b2de9974eaad632fab752c080dc3200c559a36f580",
+      "url": "https://www.theguardian.com/us-news/2025/sep/24/dallas-texas-ice-facility-shooting",
+      "title": "Texas Ice facility shooting: what we know so far about deadly attack",
+      "content_html": "<p>One detainee was killed and two were critically wounded in shooting the White House says is ‘politically motivated’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates\">Texas Ice facility shooting – latest updates</a></p></li></ul><p>A gunman fired at a <a href=\"https://www.theguardian.com/us-news/dallas\">Dallas</a> immigration field office on Wednesday, killing one detainee and critically wounding two more, before killing himself in what authorities called an indiscriminate attack on <a href=\"https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement\">US Immigration and Customs Enforcement</a> (Ice).</p><p>Here’s what we know about the attack so far:</p><p><strong>One detainee has been killed, with two others in critical condition</strong><strong>.</strong> The Department of Homeland Security (DHS) said previously that two detainees had been killed and one injured, but issued a corrected statement. The Dallas police chief, Daniel Comeaux, said that the FBI is investigating the incident as an act of targeted violence. The shooter died from a “self-inflicted gun wound”, according to the secretary of the DHS, Kristi Noem.</p><p><strong>The </strong><strong>DHS said no members of law enforcement were hurt in the attack.</strong> But Comeaux also said that officials would not be releasing the identities of any victims at this time.</p><p><strong>DHS officials say this</strong> <strong>was “an attack on </strong><strong>Ice law enforcement”. </strong>At both today’s press conference and in a statement, law enforcement said that shell casings found near the shooter had “anti-Ice” messaging on them.</p><p><strong>The shooter has been identified as 29-year-old </strong><strong>Joshua Jahn</strong><strong>, </strong>according to NBC News – which cited several senior law enforcement officials.</p><p><strong>Dallas police said that shots were fired “from an adjacent building”</strong>. The DHS later added that the shooter “fired indiscriminately” at the Ice facility, “including at a van in the sallyport where the victims were shot”. All three victims were inside the van at the time the gunman opened fire.</p><p>The Dallas field office where the shooting occurred is used for short-term processing of people in custody. The victims may have been recently arrested by Ice. The facility is along Interstate 35 East, south-west of a large commercial airport serving the Dallas-Fort Worth metropolitan area, and just blocks from hotels catering to airport travelers.</p><p><strong>Despite the fact that no federal agents were wounded in the shooting, the Texas governor, </strong><strong>Greg Abbott</strong><strong>, called the attack an “assassination”.</strong> For her part, Noem said that “these horrendous killings must serve as a wake-up call to the far left that their rhetoric about Ice has consequences”.</p><p><strong>The </strong><strong>vice-president, JD Vance, claimed without evidence that the shooting was carried out by “a violent left</strong><strong>wing extremist” who was “politically motivated to go after law enforcement”.</strong> While the FBI has said that authorities recovered shell casings with “anti-Ice messaging” near the shooter, officials have neither confirmed a motive nor corroborated Vance’s claims about the shooter’s ideological background.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/24/dallas-texas-ice-facility-shooting\">Continue reading...</a>",
+      "date_published": "2025-09-24T20:15:09+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat and agencies"
+        }
+      ],
+      "tags": [
+        "Texas",
+        "Ice (US Immigration and Customs Enforcement)",
+        "US immigration",
+        "Trump administration",
+        "Kristi Noem",
+        "JD Vance",
+        "Greg Abbott",
+        "Gun crime",
+        "US crime",
+        "Dallas",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ae9985fe4b5b51cb102835f69137190049a117c7e7a49277da59dd7c9737bcd6",
+      "url": "https://www.france24.com/en/video/20250924-danish-pm-apologises-to-victims-of-greenland-forced-contraception",
+      "title": "Danish PM apologises to victims of Greenland forced contraception",
+      "content_html": "Danish Prime Minister Mette Frederiksen on Wednesday apologised in person to victims of a forced contraception programme in Denmark's autonomous territory Greenland that ran for more than three decades. Between the late 1960s and 1992, Danish authorities aimed to reduce the Inuit birth rate by  forcing around 4,500 women to wear a contraceptive coil -- or intrauterine device (IUD) -- without their consent. Emerald Maxwell reports.",
+      "date_published": "2025-09-24T20:07:47+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9d035a3b407830fd2e0e1db443ceb054a98a5b66183526b9569702d1565c9171",
+      "url": "https://ici.radio-canada.ca/nouvelle/2194979/enquete-jean-boulet-fuite-cotisations-syndicales",
+      "title": "Fuite d’un document sensible : Jean Boulet lance une enquête au sein de son ministère",
+      "content_html": "<p>Le document porte sur l&#x27;ébauche du projet de loi à venir sur les cotisations syndicales.</p>",
+      "date_published": "2025-09-24T20:05:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9f9d69323620addb8ce4ba4843462b52af72a0951047203cae25bb66ce56e5e1",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20250924-rapturetok-christians-prepare-for-the-end-of-the-world-in-viral-craze",
+      "title": "‘RaptureTok’: Christians prepare for the ‘end of the world’ in viral craze",
+      "content_html": "People are selling their cars, quitting their jobs, and saying goodbye to their children. On Tiktok, viral videos show Christians preparing for what they call the \"Rapture\" predicted to take place the 23 or 24th September. It all stems from a prediction made by a South African pastor several months ago, in which he said Jesus spoke to him. But for all the believers, there's also been a slew of online mockery about the latest doomsday theory, as Vedika Bahl explains in Truth or Fake.",
+      "date_published": "2025-09-24T20:05:03+00:00",
+      "authors": [
+        {
+          "name": "Vedika BAHL"
+        }
+      ],
+      "tags": [
+        "Truth or Fake"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b8004ef3fc7aa66bfd3d5d76f1d0007666b4b00947e11b9354cb6cf826854157",
+      "url": "https://www.france24.com/en/culture/20250924-put-your-soul-on-your-hand-and-walk-haunting-tribute-gaza-photojournalist-fatma-hassona",
+      "title": "'Put Your Soul on Your Hand and Walk': Haunting tribute to Gaza journalist who refused a quiet death",
+      "content_html": "Palestinian photojournalist Fatma Hassona refused to be a mere statistic in Israel’s methodical destruction of Gaza. Her endeavour to document her people’s ordeal is the subject of “Put Your Soul on Your Hand and Walk”, a timely and heart-wrenching documentary by exiled Iranian director Sepideh Farsi, which opens in French cinemas on Wednesday.",
+      "date_published": "2025-09-24T20:03:58+00:00",
+      "authors": [
+        {
+          "name": "Benjamin DODMAN"
+        }
+      ],
+      "tags": [
+        "Culture"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "adeaacb5a611720fd154c749b85cbccd385158183f7f4073f475b86ce9cec5c4",
+      "url": "https://ici.radio-canada.ca/nouvelle/2194789/blesses-tirs-ice-centre-police-immigration-dallas",
+      "title": "Une fusillade près d’un centre de la police de l’immigration à Dallas fait deux morts",
+      "content_html": "<p>L&#x27;administration Trump blâme «&nbsp;l&#x27;extrême gauche&nbsp;».</p>",
+      "date_published": "2025-09-24T20:02:58+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4eec14c2e462542f45cf8f6497e752c6ec229cba5420440005c6561075e5b406",
+      "url": "https://ici.radio-canada.ca/nouvelle/2194932/ministere-environnement-coupe-134-postes-fonctionnaires",
+      "title": "Québec supprime 134 postes au ministère de l’Environnement",
+      "content_html": "<p>Plus de 1200&nbsp;fonctionnaires ont perdu leur emploi depuis le printemps en raison des restrictions budgétaires.</p>",
+      "date_published": "2025-09-24T20:00:41+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6b1530cd033ca2eca2b6afbce2923e6f7871e65e3b97ce3bd04e422365a86937",
+      "url": "https://www.lefigaro.fr/international/l-egypte-renforce-sa-presence-militaire-dans-le-sinai-israel-s-inquiete-20250924",
+      "title": "L’Égypte renforce sa présence militaire dans le Sinaï, Israël s’inquiète",
+      "content_html": "Le point de contrôle de Rafah, à la frontière israélo-égyptienne.",
+      "date_published": "2025-09-24T19:52:53+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "eebfbc089ebccebaffed80850d880b73639f0c9fc28911408d0cabc44b4ef381",
+      "url": "https://www.ukrinform.net/rubric-polytics/4040128-zelensky-meets-with-secretary-oas-secretary-general.html",
+      "title": "Zelensky meets with OAS secretary general",
+      "content_html": "Ukrainian President Volodymyr Zelensky held a meeting with Albert Ramdin, Secretary General of the Organization of American States (OAS).",
+      "date_published": "2025-09-24T19:51:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "be83f1e2ba442fcc41cf153253e7f568712877a14e96961220b31445d3f74dee",
+      "url": "https://www.france24.com/en/video/20250924-there-was-blood-continuously-flowing-on-the-floor",
+      "title": "'There was blood continuously flowing on the floor'",
+      "content_html": "In a harrowing testimony on FRANCE 24, Dr. Nada Al-Hadithy, a British surgeon who spent a month in Gaza this summer treating civilians at Nasser Hospital, describes cases of children dismembered and burned alive amid the Israeli assault on Gaza. She also describes repeated attacks on health workers. 1700 Gaza health workers have been killed, abducted or arbitrarily detained since October 2023.",
+      "date_published": "2025-09-24T19:50:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "086e5e36eb32b823b2496f79f8c7af65432e0ea8e1bbae274cfb351ae76dd972",
+      "url": "https://www.liberation.fr/international/amerique/la-maison-blanche-presente-son-wall-of-fame-et-tourne-joe-biden-en-ridicule-20250924_GBQVNKSFTFBOXB5HJL3CKLUV6Q/",
+      "title": "La Maison Blanche présente son «Wall of Fame»... et tourne Joe Biden en ridicule",
+      "content_html": "Entre les deux portraits de Donald Trump, le fameux «autopen» dont le président américain accuse son prédecesseur d'avoir abusé.",
+      "date_published": "2025-09-24T19:47:23+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "adcbebb886c86dc02aea2d0906d98f4713cbb53c525d190233511e493aea5e17",
+      "url": "https://www.france24.com/fr/afrique/20250924-au-soudan-une-attaque-de-drone-sur-un-march%C3%A9-d-el-facher-fait-15-morts",
+      "title": "Au Soudan, une attaque de drone sur un marché d'el-Facher fait 15 morts",
+      "content_html": "Au Soudan, au moins 15 personnes sont mortes dans une frappe de drone sur le marché de la ville assiégée d'el-Facher, ont rapporté, mercredi, une source médicale et un comité militant de cette grande ville du Darfour, où se concentrent désormais les combats.",
+      "date_published": "2025-09-24T19:41:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a4d5bd06fd7f919c751aa001947c13f3468be93b1d68c63bd68483666e344272",
+      "url": "https://elpais.com/us/migracion/2025-09-24/un-inmigrante-muerto-y-dos-heridos-en-un-tiroteo-en-una-oficina-del-ice-en-dallas.html",
+      "title": "Un immigrant mort et deux blessés lors d'une fusillade dans un bureau de glace à Dallas",
+      "content_html": "Une voiture de police au bureau ICE de Dallas (Texas), ce mercredi.",
+      "date_published": "2025-09-24T19:39:36+00:00",
+      "authors": [
+        {
+          "name": "Jesús Jank Curbelo,Paola Nagovitch"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "América",
+        "Migrantes",
+        "Inmigrantes",
+        "Migración",
+        "Deportación",
+        "Crisis migratoria",
+        "Inmigración",
+        "Inmigración irregular",
+        "Texas",
+        "Dallas",
+        "ICE",
+        "Tiroteos en Estados Unidos",
+        "Tiroteos"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "045fdc39c9edca051d6e3b3f9cf50f595d8b4f434c87b4ac78f5fc18e2d48075",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/gunman-fires-on-us-immigration-facility-in-texas-killing-at-least-two?traffic_source=rss",
+      "title": "Gunman fires on US immigration facility in Texas, killing at least two",
+      "content_html": "A gunman reportedly opened fired on a federal immigration facility in Dallas, Texas.",
+      "date_published": "2025-09-24T19:38:22+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6acf17d3302197b6cf7b9ac77aa6c6a5a8d4382d75a30d7790256a1e8f5d4ee5",
+      "url": "https://www.france24.com/en/africa/20250924-at-least-15-killed-in-drone-strike-at-sudan-market-in-rsf-besieged-city-of-el-fasher",
+      "title": "At least 15 killed in drone strike at Sudan market in RSF-besieged city of el-Fasher",
+      "content_html": "A drone strike blamed on Sudan’s Rapid Support Forces (RSF) killed at least 15 people and wounded 12 more at a busy market in el-Fasher, North Darfur’s capital, aid workers and local groups said Wednesday. The attack follows a strike on a city mosque days earlier that left at least 70 dead.",
+      "date_published": "2025-09-24T19:32:52+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Africa"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "626336f46e2e49128257885cb197111e520d86ff62423c939938b21292d727e1",
+      "url": "https://www.aljazeera.com/news/2025/9/24/in-his-first-un-speech-syrias-al-sharaa-urges-end-to-all-sanctions?traffic_source=rss",
+      "title": "In his first UN speech, Syria’s al-Sharaa urges end to all sanctions",
+      "content_html": "Syria’s first head of state to speak at UNGA in nearly 60 years calls for &#039;complete lifting of sanctions&#039;.",
+      "date_published": "2025-09-24T19:32:13+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9cf9699b54b4f0d39e61089be3543be46846bd3ecc781982adce02c7aebb3741",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/finlands-president-hails-rise-of-global-south-at-unga?traffic_source=rss",
+      "title": "Finland’s president hails rise of global south at UNGA",
+      "content_html": "At the 80th UNGA, Finnish President Alexander Stubb said the post-Cold War era is over, with a new world order emerging.",
+      "date_published": "2025-09-24T19:27:49+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "266cc7bb4b03f21d4172ab75b00a730b5b3dacb448b3b8213f2f72a727a4d4df",
+      "url": "https://www.theguardian.com/politics/2025/sep/24/boris-johnson-says-farages-stance-on-russia-is-extremely-dangerous",
+      "title": "Boris Johnson says Farage’s stance on Russia is ‘extremely dangerous’",
+      "content_html": "<p>Former PM also brands Reform UK a threat to national security and raises concern about its approach to the economy</p><p>Boris Johnson has said Nigel Farage’s stance on Russia is “extremely dangerous” and Reform UK is a threat to national security.</p><p>The former prime minister’s attack comes in a week in which Reform has stepped up its criticism of what it <a href=\"https://www.theguardian.com/politics/2025/sep/23/what-does-boriswave-mean-nigel-farage-reform-uk-immigration\">calls the “Boriswave”</a> of post-Brexit legal migration.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/24/boris-johnson-says-farages-stance-on-russia-is-extremely-dangerous\">Continue reading...</a>",
+      "date_published": "2025-09-24T19:27:36+00:00",
+      "authors": [
+        {
+          "name": "Rowena Mason Whitehall editor"
+        }
+      ],
+      "tags": [
+        "Boris Johnson",
+        "UK news",
+        "Nigel Farage",
+        "Reform UK",
+        "Politics",
+        "Conservatives",
+        "Kemi Badenoch",
+        "Ukraine"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "765a36e4f0b628440ed5bd560863c1b9d8c72dcb914d74caf14f3f6c01304f65",
+      "url": "https://www.lefigaro.fr/international/50-000-dollars-en-cash-tom-homan-main-de-fer-de-donald-trump-en-matiere-d-immigration-accuse-de-corruption-20250924",
+      "title": "50.000 dollars en cash : Tom Homan, main de fer de Donald Trump en matière d’immigration, accusé de corruption",
+      "content_html": "Le «tsar des frontières» Tom Homan.",
+      "date_published": "2025-09-24T19:26:28+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -115,60 +595,20 @@
       "lang": "en"
     },
     {
-      "id": "9816291c0bffaa29427219f4f9949bdfd0b0e98aa8bc1105c8fb3068e68b4fbc",
-      "url": "https://ici.radio-canada.ca/nouvelle/2194950/negociations-medecins-famille-specialistes-quebec-legault",
-      "title": "Négociations avec les médecins : « Assez, c’est assez », lance François Legault",
-      "content_html": "<p>Le premier ministre a haussé le ton en mêlée de presse mercredi.</p>",
-      "date_published": "2025-09-24T19:19:13+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "54657d40a60dbaa0afcce50496d8638ff1f5c641f87f4f2de90f4e7ad1b450be",
-      "url": "https://www.theguardian.com/us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates",
-      "title": "Officials reportedly identify Dallas Ice facility shooter after two detainees killed – live",
-      "content_html": "<p>Joshua Jahn killed two detainees and severely injured a third before taking his own life, NBC News reports, as JD Vance blames Democrats for surge in political violence</p><ul><li><p>Full report – <a href=\"https://www.theguardian.com/us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest\">Three people shot at Texas Ice building</a></p></li></ul><p><strong>The Kremlin on Wednesday brushed off a comment by US president Donald Trump describing Russia as a “paper tiger”, and said president Vladimir Putin valued his efforts to resolve the Ukraine conflict.</strong></p><p>Kremlin spokesperson Dmitry Peskov said that Russia was a bear, not a tiger, and “there is no such thing as a paper bear”.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-24T19:18:18+00:00",
+      "id": "f82ddb4efbcb130740507faff42bfdab78dd99e6a1292e6ddcee6c2e91bbf9bf",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-replay-retrouvez-l-entretien-exclusif-d-emmanuel-macron-depuis-new-york",
+      "title": "REPLAY : Retrouvez l'entretien exclusif d'Emmanuel Macron depuis New York",
+      "content_html": "Emmanuel Macron a réagi, mercredi, lors d'un entretien sur France 24 et RFI, à la volte-face de Donald Trump sur l'Ukraine opérée la veille, saluant une \"nouvelle approche\" du président américain. Il est ensuite revenu sur la reconnaissance de l'État de Palestine, \"le seul moyen d'isoler le Hamas\", selon le chef de l'État.",
+      "date_published": "2025-09-24T19:18:31+00:00",
       "authors": [
         {
-          "name": "Shrai Popat (now) Lucy Campbell and Tom Ambrose (earlier)"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "US immigration",
-        "Donald Trump",
-        "US news",
-        "US politics",
-        "World news",
-        "Jimmy Kimmel",
-        "Freedom of speech",
-        "Media",
-        "ABC",
-        "US television industry",
-        "Trump administration"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "adeaacb5a611720fd154c749b85cbccd385158183f7f4073f475b86ce9cec5c4",
-      "url": "https://ici.radio-canada.ca/nouvelle/2194789/blesses-tirs-ice-centre-police-immigration-dallas",
-      "title": "Une fusillade près d’un centre de la police de l’immigration à Dallas fait deux morts",
-      "content_html": "<p>L&#x27;administration Trump blâme «&nbsp;l&#x27;extrême gauche&nbsp;»</p>",
-      "date_published": "2025-09-24T19:12:41+00:00",
-      "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -273,24 +713,10 @@
       "lang": "en"
     },
     {
-      "id": "b19997e63e740012c5f8800873c5db9eab71036bf2b5a1c98e5580d9893630c9",
-      "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
-      "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed two immigration detainees",
-      "content_html": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
-      "date_published": "2025-09-24T18:55:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8ce2ebc541e09ddaf0a8ac3bf5adf541bbe525d6d517071ce3bf4071f284f0e0",
       "url": "https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana",
       "title": "‘Sorry for the confusion’: Jeremy Corbyn says membership is open for new party",
-      "content_html": "<p>Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana</p><p>Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to feature or mention its co-founder Zarah Sultana.</p><p>The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana\">Continue reading...</a>",
+      "content_html": "<p>Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana</p><p>Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to mention its co-founder Zarah Sultana.</p><p>The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana\">Continue reading...</a>",
       "date_published": "2025-09-24T18:52:37+00:00",
       "authors": [
         {
@@ -414,34 +840,6 @@
       "lang": "en"
     },
     {
-      "id": "209e9c057729a203681d3a19d20c24a714132e85a877bbe2b18b02911088c8cb",
-      "url": "https://www.theguardian.com/us-news/2025/sep/24/trump-energy-secretary-chris-wright",
-      "title": "Trump energy secretary to return billions set aside for green projects",
-      "content_html": "<p>Chris Wright attacks Joe Biden’s ‘Green New Scam agenda’ and says climate accords have not lowered emissions</p><p>US energy secretary Chris Wright on Wednesday announced that his department will return to the treasury billions of dollars set aside for green projects, while dodging questions about affordability and grid reliability and claiming international climate policy has not lowered emissions.</p><p>“The more people have gotten into so-called climate action, the more expensive their energy has become,” Wright said. “That lowers people’s quality of lives and reduces their life opportunities.”</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/24/trump-energy-secretary-chris-wright\">Continue reading...</a>",
-      "date_published": "2025-09-24T18:46:14+00:00",
-      "authors": [
-        {
-          "name": "Dharna Noor in New York"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US politics",
-        "US news",
-        "Climate crisis",
-        "World news",
-        "Environment",
-        "Energy",
-        "Cop30",
-        "Renewable energy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2f6180d67cc79dab8edb7fa41ca537b4101300f2b5b6431e923f97dce832189b",
       "url": "https://www.bbc.com/news/articles/cvg4n0rrn1no?at_medium=RSS&at_campaign=rss",
       "title": "Malawi's ex-president wins election in comeback at age 85",
@@ -491,7 +889,7 @@
       "id": "a73d7fe26c3a13e8e50341cfed898b5ff19babda5e5bbedbf1c2572f78dd7e53",
       "url": "https://www.theguardian.com/environment/2025/sep/24/world-leaders-united-nations-climate-agenda",
       "title": "‘Science demands action’: world leaders and UN push climate agenda forward despite Trump’s attacks",
-      "content_html": "<p>Leaders unveil new targets to cut planet-heating pollution after Trump called climate crisis a ‘con job’</p><p>World leaders have unveiled new targets to cut planet-heating pollution at the <a href=\"https://www.theguardian.com/world/unitednations\">United Nations</a>, in a bid to spur fresh impetus to the beleaguered climate effort a day after <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> called the crisis “the greatest con job ever perpetrated upon the world”.</p><p>A total of 120 countries and the European Union announced new goals to reduce greenhouse gas emissions in New York on Wednesday. The pledges most notably include one from China, the world’s leading emitter, which said it would cut emissions by 7-10% from its peak level by 2035.</p> <a href=\"https://www.theguardian.com/environment/2025/sep/24/world-leaders-united-nations-climate-agenda\">Continue reading...</a>",
+      "content_html": "<p>Leaders unveil new targets to cut planet-heating pollution after Trump called climate crisis a ‘con job’</p><p>World leaders have unveiled new targets to cut planet-heating pollution at the <a href=\"https://www.theguardian.com/world/unitednations\">United Nations</a>, in a bid to spur fresh impetus to the beleaguered climate effort a day after <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> called the crisis “the greatest con job ever perpetrated upon the world”.</p><p>A total of 120 countries and the European Union announced new goals to reduce greenhouse-gas emissions in New York on Wednesday. The pledges most notably include one from China, the world’s leading emitter, which said it would cut emissions by 7-10% from its peak level by 2035.</p> <a href=\"https://www.theguardian.com/environment/2025/sep/24/world-leaders-united-nations-climate-agenda\">Continue reading...</a>",
       "date_published": "2025-09-24T18:39:58+00:00",
       "authors": [
         {
@@ -512,6 +910,26 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "c603563018cc359385cfd73b74c057bdd738692517545630835a42603b058c02",
+      "url": "https://www.france24.com/fr/moyen-orient/20250924-syrie-%C3%A0-l-onu-al-charaa-promet-de-poursuivre-tous-ceux-impliqu%C3%A9s-dans-le-bain-de-sang",
+      "title": "Syrie : à l'ONU, al-Charaa promet de poursuivre tous ceux \"impliqués dans le bain de sang\"",
+      "content_html": "Le nouveau président syrien, Ahmad al-Charaa, a promis, mercredi, à l'ONU, d'éradiquer le sectarisme dans son pays et de traduire en justice toutes les personnes \"impliquées dans le bain de sang\" que subit la Syrie.",
+      "date_published": "2025-09-24T18:37:27+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "4b293966017e135e4316940f1b4089a08cdb0b8c153ab76b7628e28bf92026cf",
@@ -618,20 +1036,6 @@
       "lang": "en"
     },
     {
-      "id": "f560f8f7a378350ce90a27eaa6dae6685b555e74127d535ee9d34341ab34e0f5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2194753/typhon-ragasa-morts-taiwan-alerte-sud-chine",
-      "title": "Le typhon Ragasa fait 14 morts à Taïwan, le sud de la Chine en alerte",
-      "content_html": "<p>Les pluies torrentielles provoquées par le super-typhon à Taïwan ont entraîné la rupture de la digue d&#x27;un lac.</p>",
-      "date_published": "2025-09-24T18:18:57+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a1907f8eed78788984ffe7ed1bf0ce81ed668410e47576b9d8bd360c15d889a9",
       "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
       "title": "Family of three are first arrivals in UK under ‘one in, one out’ immigration deal",
@@ -662,22 +1066,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "6b1530cd033ca2eca2b6afbce2923e6f7871e65e3b97ce3bd04e422365a86937",
-      "url": "https://www.lefigaro.fr/international/l-egypte-renforce-sa-presence-militaire-dans-le-sinai-israel-s-inquiete-20250924",
-      "title": "L’Égypte renforce sa présence militaire dans le Sinaï, Israël s’inquiète",
-      "content_html": "Le point de contrôle de Rafah, à la frontière israélo-égyptienne.",
-      "date_published": "2025-09-24T18:16:20+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "1423040c858ecf809a5aa41017c276653e9468d42a503680bb36dbcc49189acc",
@@ -982,6 +1370,24 @@
       "lang": "fr"
     },
     {
+      "id": "9ecba1f1dd9f3814444b4cf1e619caec114e57f5a6b01c46390b5c464bb30e02",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-emmanuel-macron-s-exprime-sur-la-guerre-en-ukraine-sur-france-24",
+      "title": "Guerre en Ukraine : \"Il est important que nous soyons unis\" (Emmanuel Macron)",
+      "content_html": "Le président français Emmanuel Macron a répondu aux questions de France 24 en marge de l'Assemblée générale des Nations Unies. L'occasion de revenir sur le sujet de la guerre en Ukraine.L'entretien en intégralité est à retrouver sur France24.com.",
+      "date_published": "2025-09-24T17:55:48+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "19463f40802eb45da1d5182c990bbe040af3a622ce2de535abe77041b92556d4",
       "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/sep/24/jaguar-land-rover-is-a-rich-company-it-can-pay-to-support-its-own-supply-chain",
       "title": "Jaguar Land Rover is a rich company – it can pay to support its own supply chain | Nils Pratley",
@@ -1006,39 +1412,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "6f48661862dd85c1ca6fea0e12d8de466c68e8ef2d366ce7119bd5859737489b",
-      "url": "https://elpais.com/us/migracion/2025-09-24/dos-inmigrantes-muertos-y-otro-herido-en-un-tiroteo-en-una-oficina-del-ice-en-dallas.html",
-      "title": "Deux immigrants morts et un autre blessé lors d'une fusillade dans un bureau de glace à Dallas",
-      "content_html": "Une voiture de police au bureau ICE de Dallas (Texas), ce mercredi.",
-      "date_published": "2025-09-24T17:55:03+00:00",
-      "authors": [
-        {
-          "name": "Jesús Jank Curbelo,Paola Nagovitch"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "América",
-        "Migrantes",
-        "Inmigrantes",
-        "Migración",
-        "Deportación",
-        "Crisis migratoria",
-        "Inmigración",
-        "Inmigración irregular",
-        "Texas",
-        "Dallas",
-        "ICE",
-        "Tiroteos en Estados Unidos",
-        "Tiroteos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "4ab95ab5307dd4b5aed59c737637bf0c3ca31acc68bf7953ae9a52a239d63162",
@@ -1239,6 +1612,24 @@
       "lang": "en"
     },
     {
+      "id": "c7ae73a7eb9e7e48069069b301c6ba8cd3e52e1a827175d71e9eca763f90c66e",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-palestine-la-france-a-toujours-voulu-la-solution-%C3%A0-deux-%C3%A9tats-emmanuel-macron",
+      "title": "Palestine : \"La France a toujours voulu la solution à deux États\" (Emmanuel Macron)",
+      "content_html": "Le président français Emmanuel Macron a répondu aux questions de France 24 en marge de l'Assemblée générale des Nations Unies. L'occasion de revenir sur la récente reconnaissance de la Palestine par la France. L'intégralité de cet entretien est à retrouver sur France24.com.",
+      "date_published": "2025-09-24T17:28:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "2418ca2745747cc2d67a8468e01ff55764597fb1aa36602866e87275a769f260",
       "url": "https://www.ukrinform.net/rubric-polytics/4040089-zelensky-discusses-peace-process-with-ramaphosa-south-africa-ready-to-host-meeting-between-leaders-of-ukraine-and-russia.html",
       "title": "Zelensky discusses peace process with Ramaphosa, South Africa ready to host meeting between leaders of Ukraine and Russia",
@@ -1283,6 +1674,24 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "c1f5627f7ec0d7055033bfd9846830991ab140fdec32477234291708d599a151",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-emmanuel-macron-s-exprime-sur-les-sanctions-contre-l-iran-sur-france-24",
+      "title": "Emmanuel Macron s'exprime sur les sanctions contre l'Iran sur France 24",
+      "content_html": "Le président français Emmanuel Macron a répondu aux questions de France 24 en marge de l'Assemblée générale des Nations Unies. Il s'est notamment exprimé au sujet des sanctions contre l'Iran. L'intégralité de cet entretien est à retrouver sur France24.com.",
+      "date_published": "2025-09-24T17:18:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "97da7674b9e6ce1076ec0f2ab363685021da5126bb7ccbca5a06ce023f8107ae",
@@ -1416,46 +1825,24 @@
       "lang": "en"
     },
     {
-      "id": "f161d47fa8d75750411100777541df9051dd8b2b65620d7e4bce0923bc81cf38",
-      "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
-      "title": "Andy Burnham says Britain needs ‘wholesale change’ as Labour MPs prepare for conference – as it happened",
-      "content_html": "<p>Manchester mayor urges Keir Starmer to reveal plans to deliver reform but denies he is plotting to replace PM</p><p><strong>Wes Streeting</strong>, the health secretary, has <a href=\"https://x.com/wesstreeting/status/1970803931900190818\">described</a> Nigel Farage over his comment implying Donald Trump might be right about paracetamol posing a risk to pregnant women. (See <a href=\"https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates?page=with%3Ablock-68d3b29f8f08be94486286e5#block-68d3b29f8f08be94486286e5\">10.23am</a>.)</p><p>Dangerous and irresponsible.<br /><br />\n This man is a snake oil salesman and it’s time people stopped buying.</p> <a href=\"https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-09-24T16:48:37+00:00",
+      "id": "bdac4031ca53cd6ca3c686ea01143ef10b3767c15cfea155c0ebef94c7fc81bd",
+      "url": "https://www.france24.com/fr/moyen-orient/20250924-isra%C3%ABl-la-cit%C3%A9-baln%C3%A9aire-d-eilat-touch%C3%A9e-par-un-drone-tir%C3%A9-du-y%C3%A9men-au-moins-20-bless%C3%A9s",
+      "title": "Israël : la cité balnéaire d'Eilat touchée par un drone tiré du Yémen, au moins 20 blessés",
+      "content_html": "Un drone tiré du Yémen a touché, mercredi en fin d'après-midi, la cité balnéaire d'Eilat, au bord de la mer Rouge, à l'extrême sud d'Israël, a annoncé l'armée, les secours faisant état d'au moins 20 blessés, dont deux grièvement.",
+      "date_published": "2025-09-24T16:48:38+00:00",
       "authors": [
         {
-          "name": "Andrew Sparrow"
+          "name": "FRANCE 24"
         }
       ],
       "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "Keir Starmer",
-        "Pat McFadden",
-        "Morgan McSweeney",
-        "London",
-        "Donald Trump",
-        "Nigel Farage",
-        "Autism",
-        "Health",
-        "Liberal Democrats",
-        "Islam",
-        "Migration",
-        "Immigration and asylum",
-        "Home Office",
-        "Andy Burnham",
-        "Jeremy Corbyn",
-        "Zarah Sultana",
-        "Bridget Phillipson",
-        "Labour party deputy leadership",
-        "Budget 2025"
+        "Moyen-Orient"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "76528ad38c406165a8587d49cf5ec824fa8169889e36b90fbb4cf4880747377b",
@@ -1488,22 +1875,6 @@
       "lang": "en"
     },
     {
-      "id": "765a36e4f0b628440ed5bd560863c1b9d8c72dcb914d74caf14f3f6c01304f65",
-      "url": "https://www.lefigaro.fr/international/50-000-dollars-en-cash-tom-homan-main-de-fer-de-donald-trump-en-matiere-d-immigration-accuse-de-corruption-20250924",
-      "title": "50.000 dollars en cash : Tom Homan, main de fer de Donald Trump en matière d’immigration, accusé de corruption",
-      "content_html": "Le «tsar des frontières» Tom Homan.",
-      "date_published": "2025-09-24T16:47:06+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c0b709449fd4e408bfcbf5ed60533cb2a10c0ef2e859c4e684fb2bd313f58f57",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/kenyas-president-demands-african-seat-at-un-security-council?traffic_source=rss",
       "title": "Kenya’s president demands African seat at UN Security Council",
@@ -1530,22 +1901,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "dd825453ab203643595163f23c14ff2bd045facbd37d22e90e6861fcf88951a5",
-      "url": "https://www.lefigaro.fr/international/c-est-l-age-d-or-de-l-amerique-retrouvez-le-discours-de-donald-trump-a-l-onu-en-integralite-20250924",
-      "title": "«C’est l’âge d’or de l’Amérique» : retrouvez le discours de Donald Trump à l’ONU en intégralité",
-      "content_html": "Donald Trump prononce un discours de près d’une heure devant la 80e assemblée générale des Nations Unies le 23 septembre 2025.",
-      "date_published": "2025-09-24T16:40:39+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -1744,6 +2099,24 @@
       "lang": "fr"
     },
     {
+      "id": "6aa834264eb463f76accf2cf1a3bcf4c203bb0573b27480580f31b7c5963c9bd",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-malawi-le-retour-du-peter-mutharika-%C3%A0-85-ans-pour-sauver-le-pays",
+      "title": "Malawi : le retour du Peter Mutharika, à 85 ans, pour \"sauver le pays\"",
+      "content_html": "Peter Mutharika, dont la victoire a la présidentielle du Malawi a été reconnue par son principal adversaire, est un ancien professeur de droit de 85 ans dont le premier mandat entre 2014 et 2020 est désormais considéré par de nombreux Malawiens comme une période plus favorable pour ce pays économiquement asphyxié.",
+      "date_published": "2025-09-24T16:09:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "4ff7c9dc4977f8579d0d62d8357cbcab73f3e1099d19c0dde63d525a7b59fc16",
       "url": "https://www.timesofisrael.com/over-20-wounded-including-2-seriously-in-houthi-drone-attack-on-eilat/",
       "title": "Over 20 wounded, including 2 seriously, in Houthi drone attack on Eilat",
@@ -1843,6 +2216,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "cc6de2913235a3aa66eb8020033693d8bdb412a08fa3f37009ff0aba4a4d2365",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-muganga-le-combat-de-denis-mukwege-port%C3%A9-%C3%A0-l-%C3%A9cran",
+      "title": "\"Muganga\" : le combat de Denis Mukwege porté à l'écran",
+      "content_html": "“Muganga, celui qui soigne” s’inspire du combat du docteur Denis Mukwege, prix Nobel de la paix, qui vient en aide depuis des années à des femmes victimes de violences sexuelles en RD Congo.",
+      "date_published": "2025-09-24T15:57:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "398bc2f467b695abba67ab524c5f21d1152cfdcc8b56870f610c026894e7da40",
@@ -1970,10 +2361,48 @@
       "lang": "en"
     },
     {
+      "id": "2e5285baa5513cc2b04e0c2722f0821c201a989defafc365addc52fd9f158d9a",
+      "url": "https://www.france24.com/fr/asie-pacifique/20250924-l-iran-n-a-jamais-cherch%C3%A9-et-ne-cherchera-jamais-%C3%A0-fabriquer-une-bombe-atomique-dit-pezeshkian",
+      "title": "\"L'Iran n'a jamais cherché et ne cherchera jamais à fabriquer une bombe atomique\" dit Pezeshkian",
+      "content_html": "Le président iranien, Massoud Pezeshkian, a assuré, mercredi, à la tribune de l'ONU, que son pays ne veut pas se doter de l'arme nucléaire, alors que des discussions de la dernière chance se poursuivent pour éviter le rétablissement des sanctions onusiennes contre Téhéran.",
+      "date_published": "2025-09-24T15:44:46+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f81aa693e17443aeedf609f9a7992fea1215b5078e33a27e3674299b8391981b",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-guerre-en-ukraine-kiev-peut-regagner-tout-son-territoire-affirme-trump",
+      "title": "Guerre en Ukraine : Kiev \"peut regagner tout son territoire\" affirme Trump",
+      "content_html": "Donald Trump, changeant du tout au tout son approche face au conflit en Ukraine, a jugé mardi que Kiev pourrait \"regagner son territoire dans sa forme originelle et peut-être même aller plus loin\" face à la Russie.",
+      "date_published": "2025-09-24T15:44:28+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "decc2d590dce8b58527b98ea0b73e7e3b5f8f638ce8663704aba7e6ff88dc22c",
       "url": "https://www.dw.com/en/what-challenges-await-malawi-s-next-president/a-74124830?maca=en-rss-en-all-1573-rdf",
       "title": "What challenges await Malawi's next president?",
-      "content_html": "Rising inflation, unemployment and currency shortages fueled widespread frustration among Malawians, setting the stage for Peter Mutharika’s political comeback. Will his presidency deliver tangible economic relief?",
+      "content_html": "Rising inflation, unemployment, and currency shortages have fueled widespread frustration among Malawians, setting the stage for Peter Mutharika's political comeback. Will his presidency deliver tangible economic relief?",
       "date_published": "2025-09-24T15:43:00+00:00",
       "authors": [],
       "tags": [
@@ -2016,6 +2445,26 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "1dfabcf2afd5ec104114a6fcd5b50b1de8f447e2604943e1b983352aeef4ab6f",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20250924-des-tonnes-de-pesticides-pr%C3%A9sentes-dans-les-nuages-une-pollution-sans-fronti%C3%A8re",
+      "title": "Des tonnes de pesticides présentes dans les nuages: une pollution sans frontière",
+      "content_html": "De 6 à 140 tonnes de pesticides, dont certaines substances actives interdites, ont été détectés dans les nuages, selon une étude menée au sommet du puy de Dôme. Ces substances peuvent voyager et se répandre dans des zones éloignées via la pluie ou la neige.",
+      "date_published": "2025-09-24T15:41:00+00:00",
+      "authors": [
+        {
+          "name": "Noémie ROCHE"
+        }
+      ],
+      "tags": [
+        "Élément Terre, la quotidienne"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "89edf4efc19b1b41e6b26236c600720c2f75583112b8c35c2741ec7567673442",
@@ -2138,6 +2587,26 @@
       "lang": "fr"
     },
     {
+      "id": "0b808d4ad07d959bf0d68c8c8e10848b93ee11df69e00eb20b9cdbdd94ba6ae2",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20250924-sommet-sp%C3%A9cial-sur-le-climat-%C3%A0-l-onu-le-monde-r%C3%A9pond-%C3%A0-donald-trump",
+      "title": "Sommet spécial sur le climat à l'ONU : le monde répond à Donald Trump",
+      "content_html": "Plus de 100 pays participent ce mardi à un sommet sur le climat, en marge de l'Assemblée générale de l'ONU, afin de présenter leurs objectifs de réduction des émissions à l'horizon 2035. À moins de deux mois de la COP30, seuls 40 pays ont soumis leurs plans. Les Etats-Unis, dont le président s'est illustré par un discours climatosceptique la veille, n'y participent pas. La Chine, 1er pollueur mondial, doit également dévoiler ses ambitions, alors que l'UE déçoit sur ses ambitions climatiques.",
+      "date_published": "2025-09-24T15:28:51+00:00",
+      "authors": [
+        {
+          "name": "Noémie ROCHE"
+        }
+      ],
+      "tags": [
+        "Élément Terre, la quotidienne"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "b052b66536eb8f3207380782dce90795d06d200a836308eb2affe8f904186a44",
       "url": "https://www.lemonde.fr/international/article/2025/09/24/le-president-iranien-assure-a-l-onu-que-son-pays-ne-veut-pas-l-arme-nucleaire_6642809_3210.html",
       "title": "Le président iranien assure à l’ONU que son pays ne veut pas l’arme nucléaire",
@@ -2148,6 +2617,24 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d05ceeff047bc4f53fe4478ad55d2e9235455a8c665cbb9172970f28e7a28e3f",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-course-%C3%A0-l-armement-ia-russie-volodymyr-zelensky-tire-la-sonnette-d-alarme",
+      "title": "Course à l'armement, IA, Russie... Volodymyr Zelensky tire la sonnette d'alarme",
+      "content_html": "\"Le droit international ne fonctionne pas sans amis puissants\" a affirmé le président ukrainien Volodymyr Zelensky devant l'Assemblée générale des Nations Unies. \"Et même cela ne fonctionne pas sans armes\" a-t-il déploré, qualifiant cette réalité d'\"horrible\". Les explications de Gauthier Rybinski, chroniqueur international à France 24.",
+      "date_published": "2025-09-24T15:19:50+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2170,6 +2657,26 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "ad2ad20fbe416a17b17fedb52f2e77a7c95207deaae6350e63154f11af81d319",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20250924-mort-de-claudia-cardinale-l-ic%C3%B4ne-du-cin%C3%A9ma-des-ann%C3%A9es-60-le-cin%C3%A9ma-m-a-sauv%C3%A9-la-vie",
+      "title": "Mort de Claudia Cardinale, l'icône du cinéma des années 60 : \"Le cinéma m'a sauvé la vie\"",
+      "content_html": "Elle a tourné avec les plus grands réalisateurs, de Luchino Visconti à Federico Fellini, sans oublier Sergio Leone. L'actrice franco-italienne Claudia Cardinale, beauté rebelle du 7ème art, est morte à l'âge de 87 ans. Émission spéciale.",
+      "date_published": "2025-09-24T15:08:01+00:00",
+      "authors": [
+        {
+          "name": "Louise DUPONT"
+        }
+      ],
+      "tags": [
+        "À l'Affiche !"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "7dc0145c8374b0557aa0133f6526b819a8e7b8e43d30786b664193a114e70506",
@@ -2763,42 +3270,6 @@
       "lang": "fr"
     },
     {
-      "id": "6472254c7f0e65457b21e7b9e4a3a96fbb5dd5c9f832f2b5ca473e469de6f1b6",
-      "url": "https://www.france24.com/en/video/20250924-al-sharaa-at-the-un-the-evolution-of-us-syria-relations-and-the-key-figures-behind-it",
-      "title": "Al-Sharaa at the UN : The evolution of US-Syria relations and the key figures behind it",
-      "content_html": "For the first time since 1967, a Syrian leader is set to address the United Nations General Assembly — a historic moment in Syria’s diplomatic history. That leader is Ahmed al-Sharaa, Syria's leader through its transitional phase following the fall of Bashar al-Assad. On this occasion, FRANCE 24's Wassim Nasr explores how relations between Washington and Damascus have shifted, and who are the key figures behind it.",
-      "date_published": "2025-09-24T14:05:09+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fb28197bd07bb67919a6ecbeab0fb75281dcfb400450551e320471a354ec3092",
-      "url": "https://www.france24.com/en/video/20250924-replay-volodymyr-zelensky-addresses-un-general-assembly",
-      "title": "REPLAY: Volodymyr Zelensky addresses UN General Assembly",
-      "content_html": "Rewatch Ukrainian President Volodymyr Zelensky's address at the 80th UN General Assembly on September 24, 2025.",
-      "date_published": "2025-09-24T14:03:16+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5a5f204da2a0a3c949316ee0f7883c02d428ac80c5cc2e7685ff4082d6f9f270",
       "url": "https://www.dw.com/en/trump-s-un-speech-no-laughing-matter-as-body-language-shows/a-74121719?maca=en-rss-en-all-1573-rdf",
       "title": "Trump's UN speech no laughing matter as body language shows",
@@ -2811,26 +3282,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6b65d4c408f9dd5ad13a97d983076a0cfa3624a10ce3132ce602b2beac4b9b5a",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20250924-the-moonwalkers-a-journey-with-tom-hanks",
-      "title": "The Moonwalkers: A Journey with Tom Hanks",
-      "content_html": "In this edition of Entre Nous, Genie Godula dives into a brand new immersive exhibit at the Atelier des Lumières in Paris's 11th district. She is joined by Richard Slaney, the producer and co-creator of \"Destination Lune\" or \"The Moonwalkers: A Journey with Tom Hanks\" to find out more about the exhibition.",
-      "date_published": "2025-09-24T14:02:53+00:00",
-      "authors": [
-        {
-          "name": "Genie GODULA"
-        }
-      ],
-      "tags": [
-        "Entre Nous"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2863,6 +3314,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "edbfcc6dc7c252229d754d1c1758c3da5b9bf484e73827773cfb255996fdf88d",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-replay-discours-de-volodymyr-zelensky-%C3%A0-la-tribune-de-l-onu",
+      "title": "REPLAY - Discours de Volodymyr Zelensky à la tribune de l'ONU",
+      "content_html": "Le président ukrainien, Volodymyr Zelensky, a pris la parole à la tribune des Nations unies, au lendemain d'un revirement de Donald Trump, qui a jugé que l'Ukraine pourrait \"regagner son territoire dans sa forme originelle\" face à la Russie.",
+      "date_published": "2025-09-24T13:57:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "52c9a6e628105af8595d164568f2453fd8185242c84b208868f9186037fa0adc",
@@ -3026,6 +3495,24 @@
       "lang": "fr"
     },
     {
+      "id": "65f9f83e576df539836c8d886540df7ecb1d5f4577ffea7ae3722807af636ffd",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-survol-de-drones-qui-attaque-le-ciel-europ%C3%A9en",
+      "title": "Survol de drones : qui attaque le ciel européen ?",
+      "content_html": "Le Kremlin a qualifié mercredi d'\"hystérie\" les accusations d'intrusions d'appareils russes dans l'espace aérien de pays de l'Otan, après que Donald Trump a estimé que l'Alliance devrait abattre les avions russes en cas de violation. Les précisions de Nicolas Tenzer, politologue, enseignant à Sciences Po.",
+      "date_published": "2025-09-24T13:45:53+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "97ebc4fd79b8ab1238cd9c9be70f505c7f28f7da8af1582846fa45de7d22b2c4",
       "url": "https://www.ukrinform.net/rubric-society/4040005-lithuania-extends-temporary-protection-for-ukrainians-until-2027.html",
       "title": "Lithuania extends temporary protection for Ukrainians until 2027",
@@ -3044,7 +3531,7 @@
     {
       "id": "449296f33382f22b06c355964a5bbf672e04a96c1397760b92577eb158e740dd",
       "url": "https://www.aljazeera.com/news/2025/9/24/three-wounded-in-shooting-at-us-immigration-facility-in-dallas-texas?traffic_source=rss",
-      "title": "At least two people killed in shooting at US immigration facility in Texas",
+      "title": "At least two people killed in Dallas Ice facility shooting",
       "content_html": "FBI says &#039;anti-ICE&#039; message was written on bullets used in the shooting at the immigration facility in Texas.",
       "date_published": "2025-09-24T13:40:06+00:00",
       "authors": [],
@@ -3056,6 +3543,26 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "fc724a794b19e42dd5cd69f14dcdf5d8327a0bf803de12e66e1cdf694bdb9019",
+      "url": "https://www.france24.com/fr/sports/20250924-afghanistan-premiere-competition-sport-refugiees-afghanistan-tournoi-femmes-taliban",
+      "title": "L'instant + : une première compétition internationale pour l'équipe de réfugiées afghanes",
+      "content_html": "L'équipe de réfugiées afghanes va participer, en octobre, à sa première compétition lors d'un tournoi amical organisé aux Émirats arabes unis. Cette sélection a été formée après l'interdiction des sports féminins par les Taliban depuis leur prise du pouvoir en 2021.",
+      "date_published": "2025-09-24T13:36:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "71635484491fde40c16fdbaaa1d73722098dce57411dcfe410a05e42c80a9977",
@@ -3093,6 +3600,26 @@
       "lang": "en"
     },
     {
+      "id": "586af57b3ef99f280740e6c71407e2654ae739b492ee2d03d06ad78de8970735",
+      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20250924-s%C3%A9bastien-lecornu-re%C3%A7oit-syndicats-et-patronat-des-n%C3%A9gociations-sur-le-fil",
+      "title": "Sébastien Lecornu reçoit syndicats et patronat : des négociations sur le fil",
+      "content_html": "Le Premier ministre Sébastien Lecornu reçoit les organisations syndicales et patronales. Les syndicats unis, posent leurs conditions, quant aux patrons, ils refusent toute hausse d'impôts. Comment satisfaire des positions diamétralement opposées : taxer les plus hauts revenus pour satisfaire les syndicats et s'acheter la bienveillance du PS tout ne braquant ni le patronat ni Les LR ? Roselyne Febvre pose la question à Jean Garrigues, historien, et à Brice Soccol, politologue et essayiste.",
+      "date_published": "2025-09-24T13:31:05+00:00",
+      "authors": [
+        {
+          "name": "Roselyne FEBVRE"
+        }
+      ],
+      "tags": [
+        "Face à face"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "1bbee6eda5c0064655bfdb6b02fa16f3f6984f528b560e942262ee991e003c62",
       "url": "https://www.bbc.com/news/articles/cgmzn8802d7o?at_medium=RSS&at_campaign=rss",
       "title": "Landmark deal paves way for cheaper HIV protection jab",
@@ -3105,6 +3632,62 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "d9e5e742e638c7dbff1be4206284da23c662dc31b17022e7eeb432406938fd39",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-france-l-intersyndicale-n-a-pas-obtenu-de-r%C3%A9ponse-%C3%A0-matignon",
+      "title": "France : l'intersyndicale n'a pas obtenu de réponse à Matignon",
+      "content_html": "\"Une occasion manquée\": l'intersyndicale a estimé mercredi, après près de deux heures et demie d'entretien à Matignon, que le Premier ministre n'avait apporté \"aucune réponse claire\" sur leurs revendications et annoncé une nouvelle journée de mobilisation le 2 octobre.",
+      "date_published": "2025-09-24T13:21:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a76859bb2bc1ff0794306831854e37d093a30445e66fd55463bdcd7d09101c9c",
+      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20250924-%C3%A0-quoi-sert-encore-l-onu-parlons-en-avec-sylvie-bermann-alexandra-novosseloff-et-anne-corpet",
+      "title": "À quoi sert encore l'ONU ? Parlons-en avec Sylvie Bermann, Alexandra Novosseloff et Anne Corpet",
+      "content_html": "Alors que l'Assemblée générale des Nations unies se poursuit encore plusieurs jours avec sa litanie de discours des dirigeants du monde entier, c'est dans la très grande tour de verre de New York que nous posons nos valises aujourd'hui : l'ONU. Ce que le Général De Gaulle appelait le \"Machin\" en son temps est critiquée pour son impuissance apparente à empêcher les conflits. C'est pourtant le cœur de sa mission depuis sa création en 1945. Alors à quoi sert encore l'ONU ? C'est la question que l'on pose aujourd'hui dans \"Parlons-en\".",
+      "date_published": "2025-09-24T13:20:32+00:00",
+      "authors": [
+        {
+          "name": "Pauline PACCARD"
+        }
+      ],
+      "tags": [
+        "Parlons-en, les invités"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1c4579d5f7b7d5e837dbfe6f4aba6ab76c46c72aae1d7a4ec55707dacced090a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250924-proc%C3%A8s-des-revenantes-plong%C3%A9e-dans-la-paranoia-familiale-des-clain",
+      "title": "Procès des \"revenantes\" : plongée dans la paranoia familiale des Clain",
+      "content_html": "\"Atmosphère de secret\", peur de la délation et non-dits : deux revenantes de Syrie ont plongé mardi la cour d'assises spéciale de Paris dans les dissensions et la paranoïa qui régnait dans le clan familial Clain comme au sein du groupe Etat islamique (EI).",
+      "date_published": "2025-09-24T13:20:31+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "517f24b5960ede65f661f0674d66322745d538b75d7294e1c8b9230dd0a15187",
@@ -3175,26 +3758,6 @@
       "lang": "en"
     },
     {
-      "id": "d946cff6707afc70e78453de0c096fe22c33c511fb6ab8eafe7b3081a674f36f",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20250924-remembering-claudia-cardinale-europe-s-timeless-cinema-icon",
-      "title": "Remembering Claudia Cardinale: Europe's timeless cinema icon",
-      "content_html": "From a Tunisian beauty contest to starring in Fellini's masterpieces, Claudia Cardinale's dazzling career shaped European cinema's golden age. Join us on arts24 as film critic Emma Jones and Eve Jackson celebrate the legacy of Italy's unforgettable sweetheart, an accidental star who became a legend. Don't miss this tribute to a true cinematic icon.",
-      "date_published": "2025-09-24T13:16:14+00:00",
-      "authors": [
-        {
-          "name": "Eve JACKSON"
-        }
-      ],
-      "tags": [
-        "arts24"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fc2fd34a7afd1ad7980ac40b080cfba4f642255fbf0f687d550713eb8283281f",
       "url": "https://www.themoscowtimes.com/2025/09/24/ukrainian-drone-attack-on-novorossiysk-port-kills-at-least-2-a90614",
       "title": "Ukrainian Drone Attack on Novorossiysk Port Kills At Least 2",
@@ -3221,24 +3784,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "786e0fd007b835b2f514922daeaa6d77c949579d9467405829c39d21ab4cdf7c",
-      "url": "https://www.france24.com/en/video/20250924-us-donald-trump-is-making-a-major-pivot-on-ukraine",
-      "title": "US' Donald Trump 'is making a major pivot on Ukraine'",
-      "content_html": "President Donald Trump has dramatically shifted his position on Ukraine, surprising many in diplomatic circles. Just a month ago, Trump suggested that Ukraine would need to make concessions in the ongoing conflict. Now, he claims he believes Ukraine can retake all its lost territory. UN diplomats describe this sudden reversal as a sign of Trump’s unpredictability and a potential risk to diplomatic efforts, as FRANCE 24's Jessica Le Masurier explains from New York.",
-      "date_published": "2025-09-24T13:10:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3287,24 +3832,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "f092d315c95f369aa24cc903635f6ad24f72c8a86f76519c82e1ccd562ec79ce",
-      "url": "https://www.france24.com/en/video/20250924-drone-incursions-and-cyberattacks-shake-european-security",
-      "title": "Drone incursions and cyberattacks shake European security",
-      "content_html": "Tensions are high in Europe after a series of drone incursions and hacking episodes at critical sites over the past few days. Investigators have yet to figure out who was behind the disruption, but Moscow has come out and said allegations of Russian involvement are ungrounded. NATO warned Russia on Tuesday that it would defend against any breaches of its airspace.",
-      "date_published": "2025-09-24T13:04:36+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "7a8f0fd92b1332a31c239050518373b56b6476a80665f8f2660f12ca22d3db3e",
@@ -3586,22 +4113,6 @@
       "lang": "en"
     },
     {
-      "id": "138c2ee0191e7499cb2caf4829ce0afebcc18058d71057f37ebb169e262c24af",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/greta-thunberg-reads-story-of-palestinian-mother-in-gaza?traffic_source=rss",
-      "title": "Greta Thunberg reads story of Palestinian mother in Gaza",
-      "content_html": "Greta Thunberg narrates the story of Hiba al-Sheikh Khalil, a Palestinian mother of five children in Gaza.",
-      "date_published": "2025-09-24T12:25:10+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "95f1cf87ebe710233f644857c2dcb0aea3838c3a2c89759a71d894e7f13f50fd",
       "url": "https://www.bbc.com/news/articles/clyd580lx3mo?at_medium=RSS&at_campaign=rss",
       "title": "Typhoon Ragasa makes landfall in China after 17 killed in Taiwan",
@@ -3612,22 +4123,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f42acba261684b896a2a04a0db57331ef2f9a59fabe2c9a18625a09a55be10c5",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/waves-burst-through-doors-of-hong-kong-hotel-during-typhoon-ragasa?traffic_source=rss",
-      "title": "Waves burst through doors of Hong Kong hotel during Typhoon Ragasa",
-      "content_html": "Video shows waves smashing through the coastal entrance of a hotel in Hong Kong during Super Typhoon Ragasa.",
-      "date_published": "2025-09-24T12:16:50+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3703,8 +4198,8 @@
     {
       "id": "a6c42facc2ff001e36f8eb397f1500460ec50e2b0cf81597340c48ffe85a8acb",
       "url": "https://www.timesofisrael.com/italy-warns-israel-to-safeguard-gaza-flotilla-after-drone-attacks-sends-warship-for-rescue/",
-      "title": "Italy warns Israel to safeguard Gaza flotilla after drone attacks, sends warship for rescue",
-      "content_html": "<p>Pro-Palestinian, anti-Israel activists on 51 boats sailing near Greek island of Crete harassed by drones overnight, apparently dropping stun grenades and jamming communications</p>\n<p>The post <a href=\"https://www.timesofisrael.com/italy-warns-israel-to-safeguard-gaza-flotilla-after-drone-attacks-sends-warship-for-rescue/\">Italy warns Israel to safeguard Gaza flotilla after drone attacks, sends warship for rescue</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250907__73PF4KE__v1__HighRes__ItalyIsraelPalestinianDemo-1024x640.jpg\" title=\"Italy warns Israel to safeguard Gaza flotilla after drone attacks, sends warship for rescue\" width=\"160\" /></figure>",
+      "title": "Italy and Spain send warships, warn Israel to safeguard Gaza flotilla after drone attacks",
+      "content_html": "<p>Italian PM Meloni clarifies ship not expected to use military force as Spain says it will also dispatch naval vessel 'to ensure that, if necessary, our citizens can be rescued'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/italy-warns-israel-to-safeguard-gaza-flotilla-after-drone-attacks-sends-warship-for-rescue/\">Italy and Spain send warships, warn Israel to safeguard Gaza flotilla after drone attacks</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250907__73PF4KE__v1__HighRes__ItalyIsraelPalestinianDemo-1024x640.jpg\" title=\"Italy and Spain send warships, warn Israel to safeguard Gaza flotilla after drone attacks\" width=\"160\" /></figure>",
       "date_published": "2025-09-24T11:57:32+00:00",
       "authors": [],
       "tags": [
@@ -3730,22 +4225,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bd937d51348a4757e981107ff975767b3f96bbb4826cb0f40288751d098498fd",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/24/global-sumud-flotilla-reports-explosions-as-drones-fly-overhead?traffic_source=rss",
-      "title": "Global Sumud Flotilla reports explosions as drones fly overhead",
-      "content_html": "Activists say Israeli drones carried out several attacks on the Gaza-bound Global Sumud Flotilla,",
-      "date_published": "2025-09-24T11:48:47+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4044,6 +4523,36 @@
       "lang": "fr"
     },
     {
+      "id": "69a7a5b1c915dabbf691e1afd304611d75629b150c9f888d362f68f69830cc5e",
+      "url": "https://www.theguardian.com/world/2025/sep/24/vanuatu-climate-change-fossil-fuel-industry-influence",
+      "title": "Vanuatu working toward UN vote aimed at fighting fossil-fuel industry influence",
+      "content_html": "<p>Ralph Regenvanu, minister of climate change for the Pacific island nation, says step taken on ‘behalf of everybody’</p><p>Vanuatu is working on securing a UN vote to turn a landmark ruling on the climate crisis by the international court of justice (ICJ) into concrete political action that will fight the influence of the fossil-fuel industry and protect the globe from environmental catastrophe.</p><p>In an effort spearheaded by the tiny Pacific island nation, the ICJ issued a rare unanimous advisory <a href=\"https://www.theguardian.com/environment/2025/jul/23/healthy-environment-is-a-human-right-top-un-court-rules\">opinion in July,</a> which clarified that all states are required under international law to protect the climate, prevent further harms and have a duty to cooperate.</p> <a href=\"https://www.theguardian.com/world/2025/sep/24/vanuatu-climate-change-fossil-fuel-industry-influence\">Continue reading...</a>",
+      "date_published": "2025-09-24T11:00:05+00:00",
+      "authors": [
+        {
+          "name": "Nina Lakhani climate justice reporter"
+        }
+      ],
+      "tags": [
+        "Vanuatu",
+        "Climate crisis",
+        "Paris climate agreement",
+        "Pacific islands",
+        "World news",
+        "International court of justice",
+        "Environment",
+        "Asia Pacific",
+        "Greenhouse gas emissions",
+        "South Pacific",
+        "Law"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "3b5e3115c4329421859c83a4ea6131d0d95f1681aa982e5cd3124b587fd60487",
       "url": "https://www.ukrinform.net/rubric-polytics/4039950-nato-announces-ruttes-visit-to-the-us.html",
       "title": "NATO announces Rutte's visit to U.S.",
@@ -4164,22 +4673,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "48890db66684eee134a5ef625348e0e8a4400dbc78b3a51e3173b608d6ba4f0b",
-      "url": "https://www.ukrinform.net/rubric-ato/4039933-married-couple-injured-in-beryslav-due-to-drone-attack-and-mine-explosion.html",
-      "title": "Married couple injured in Beryslav due to drone attack and mine explosion",
-      "content_html": "Russian troops attacked the city of Beryslav in the Kherson region with UAVs. A 63-year-old woman was injured, and while transporting the victim to the hospital, her husband was injured when the car hit a mine.",
-      "date_published": "2025-09-24T10:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4313,7 +4806,7 @@
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "28c473a5ff625ef78deeedd5b7539268183a4b8065947302019258a3062aaaa0",
@@ -4518,20 +5011,6 @@
       "lang": "fr"
     },
     {
-      "id": "b835f7d282e94102cb2f48ac5ad360197c7e4860ae5874b7aeb5b9b5c2ce184f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2194721/financement-politique-dons-militants-parti-revenus-dgeq",
-      "title": "Financement : une année plus difficile pour certains partis politiques à Québec",
-      "content_html": "<p>À l&#x27;exception du Parti québécois, les partis ont de la difficulté à récolter suffisamment de dons.</p>",
-      "date_published": "2025-09-24T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d8625c37cab8385997ec0b48c204a3ce73ae66f552cc479808423f6215e135e2",
       "url": "https://ici.radio-canada.ca/nouvelle/2191375/mere-celibataire-chine-colocation",
       "title": "En Chine, des mères célibataires vivent ensemble pour affronter la vie",
@@ -4564,6 +5043,20 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2194730/retour-fusions-municipales-quebec",
       "title": "Retour des fusions municipales au Québec : « C’est sûr que ça dérange »",
       "content_html": "<p>Depuis janvier 2023, six regroupements ont été complétés et six autres sont actuellement à&nbsp;l&#x27;étude.</p>",
+      "date_published": "2025-09-24T08:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b835f7d282e94102cb2f48ac5ad360197c7e4860ae5874b7aeb5b9b5c2ce184f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2194721/financement-politique-dons-militants-parti-revenus-dgeq",
+      "title": "Financement : une année plus difficile pour certains partis politiques à Québec",
+      "content_html": "<p>À l&#x27;exception du Parti québécois, les partis ont de la difficulté à récolter suffisamment de dons.</p>",
       "date_published": "2025-09-24T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -5522,7 +6015,7 @@
       "id": "10dc326a1ba56806b6f82796b68cadba598e3be6c1a9046e08f75e6a9d06493c",
       "url": "https://www.elmundo.es/internacional/2025/09/23/68d2c05ce9cf4a4b028b4583.html",
       "title": "Erdogan, avant l'ONU: \"La guerre à Gaza représente le point le plus bas de l'humanité\"",
-      "content_html": "Le président turc fait appel de sorte que les pays qui n'ont pas encore reconnu l'État de Palestine à le faire, tout en montrant des images de Palestiniens dans un état avancé de malnutrition",
+      "content_html": "Le président turc fait appel de sorte que des pays qui n'ont pas encore reconnu l'État de Palestine à le faire, tout en montrant des images de Palestiniens dans un état avancé de malnutrition",
       "date_published": "2025-09-23T16:56:24+00:00",
       "authors": [
         {
@@ -6771,29 +7264,6 @@
       "lang": "fr"
     },
     {
-      "id": "1f3196831e3cbf145cf516a8cc3628a7a23d6639e44b0777edb494bb33d844cd",
-      "url": "https://www.theguardian.com/world/2025/sep/23/unification-church-leader-han-hak-ja-arrested-south-korea-ntwnfb",
-      "title": "Unification Church leader arrested in South Korea over bribery allegations linked to former first lady",
-      "content_html": "<p>Han Hak-ja, aged 82, is detained after Seoul court hearing over claims she told church officials to bribe wife of then president Yoon Suk Yeol</p><p>The 82-year-old leader of the Unification Church was arrested in South Korea early Tuesday as investigators probe allegations that the church bribed the wife of jailed former president Yoon Suk Yeol and a conservative lawmaker.</p><p>Han Hak-ja, the widow of the church’s South Korean founder, Sun Myung Moon, has denied allegations that she directed church officials to bribe Yoon’s wife, Kim Keon Hee, and the lawmaker.</p> <a href=\"https://www.theguardian.com/world/2025/sep/23/unification-church-leader-han-hak-ja-arrested-south-korea-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-09-23T03:57:43+00:00",
-      "authors": [
-        {
-          "name": "Raphael Rashid in Seoul, and agencies"
-        }
-      ],
-      "tags": [
-        "South Korea",
-        "Yoon Suk Yeol",
-        "Asia Pacific",
-        "Religion"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7525f40ac8c162c68139c2290b10b3ef7918228284081889d12fde242c78c55f",
       "url": "https://www.bbc.com/news/articles/c3vznlzwrw3o?at_medium=RSS&at_campaign=rss",
       "title": "'Why does China prefer war?' The K-drama line that infuriated the Chinese internet",
@@ -6873,24 +7343,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "5e7d483795781dd65fbd84bb7471123d806d2d3a584d1afc8d38a2b4570b2e3e",
-      "url": "https://www.liberation.fr/international/moyen-orient/reconnaissance-de-la-palestine-le-discours-demmanuel-macron-20250922_H6XIMAXXOJFU7DC2MAMLPPLLWA/",
-      "title": "Reconnaissance de la Palestine : le discours d’Emmanuel Macron",
-      "content_html": "Le président français Emmanuel Macron prononce un discours à la tribune des Nations unies le 22 septembre 2025 à New York où il reconnaît \"l'Etat de Palestine\"",
-      "date_published": "2025-09-22T21:01:23+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "8b23b0cee3325ce90d1b4c36de38171045f0aee438c7e0b61bfaa94452765350",
