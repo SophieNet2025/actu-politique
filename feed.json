@@ -5,25 +5,11 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "95a3cae42c45e9890a8d98c5c669baea572de016450b8096f64ed41db6cfc4e4",
-      "url": "https://ici.radio-canada.ca/nouvelle/2195529/plainte-protecteur-citoyen-perfusionnistes-quebec",
-      "title": "Des médecins blâment la pénurie de perfusionnistes pour des dizaines de décès au Québec",
-      "content_html": "<p>Deux associations de médecins spécialistes disent préparer une plainte à déposer au Protecteur du citoyen.</p>",
-      "date_published": "2025-09-27T09:28:11+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2215150fea51f50350ff45438611be2dcd67cbbcb511663c67b410d29c7483f0",
       "url": "https://www.elmundo.es/internacional/2025/09/27/68d7a73afc6c831c6c8b45ab.html",
       "title": "Des drones d'origine inconnue volent sur la plus grande base militaire du Danemark",
       "content_html": "Le gouvernement danois a décrit comme une \"attaque hybride\" la série d'incidents similaires détectés tout au long de la semaine",
-      "date_published": "2025-09-27T09:24:49+00:00",
+      "date_published": "2025-09-27T09:32:58+00:00",
       "authors": [
         {
           "name": "Afp"
@@ -40,6 +26,40 @@
       "lang": "fr"
     },
     {
+      "id": "7cbe834c759d5868c34521881fe0b165a38189b98ba6c3a45030d0fdaba91ef9",
+      "url": "https://www.france24.com/fr/asie-pacifique/20250927-nucl%C3%A9aire-iranien-qu-est-ce-que-le-snapback-des-sanctions-%C3%A0-l-onu",
+      "title": "Nucléaire iranien : qu'est-ce que le \"snapback\" des sanctions à l'ONU ?",
+      "content_html": "Le mécanisme inédit visant à obliger le Conseil de sécurité de l'ONU à rétablir les sanctions internationales contre l'Iran pour non-respect de ses engagements nucléaires doit intervenir samedi soir. Explications.",
+      "date_published": "2025-09-27T09:29:03+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "95a3cae42c45e9890a8d98c5c669baea572de016450b8096f64ed41db6cfc4e4",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195529/plainte-protecteur-citoyen-perfusionnistes-quebec",
+      "title": "Des médecins blâment la pénurie de perfusionnistes pour des dizaines de décès au Québec",
+      "content_html": "<p>Deux associations de médecins spécialistes disent préparer une plainte à déposer au Protecteur du citoyen.</p>",
+      "date_published": "2025-09-27T09:28:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "08c7df13a2ab4f601cd3c1ee864ffc7a9346cfe83aee3e383e93a3b3ee848240",
       "url": "https://www.ukrinform.net/rubric-ato/4041089-civilian-infrastructure-in-odesa-region-targeted-in-overnight-drone-attack.html",
       "title": "Civilian infrastructure in Odesa region targeted in overnight drone attack",
@@ -52,6 +72,42 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "72f10ed3acefa1fbad6571bb2f8d43c6dd3d7a2b74535d20f55debdc24ce555c",
+      "url": "https://www.france24.com/en/video/20250927-usa-donald-trump-witch-hunt-allegations-intensify",
+      "title": "USA: Donald Trump witch hunt allegations intensify",
+      "content_html": "Donald Trump has gotten his wish : the Department of Justice has indicted James Comey. The former FBI director had long been on the President's enemies list, dating back to his involvement in the investigation into Russian interference during the 2016 Presidential election. Trump is also pressing Attorney General Pam Bondi to investigate Democratic Senator Adam Schiff and New York Attorney General Letitia James, raising fears that the DOJ is being weaponised to target Trump's political rivals. Story by Catherine Viette.",
+      "date_published": "2025-09-27T09:18:02+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4814a508c990fadd660a85d0df29ff3cf3f815bbe32191ea55b5eb4aff5ae36a",
+      "url": "https://www.france24.com/en/video/20250927-un-adds-68-companies-to-blacklist-for-alleged-complicity-in-rights-violations-in-israeli-settlements",
+      "title": "UN adds 68 companies to blacklist for alleged complicity in rights violations in Israeli settlements",
+      "content_html": "The United Nations has added nearly 70 more companies to a blacklist of firms from 11 countries that it says are complicit in violating Palestinian human rights through their business ties to Israeli settlements in the occupied West Bank. Story by Nicholas Rushworth.",
+      "date_published": "2025-09-27T09:16:06+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -74,6 +130,26 @@
       "lang": "fr"
     },
     {
+      "id": "070cf3fea8e5154f9f8c702833ce3b7767566abcf7095f3275dff5ecd928363f",
+      "url": "https://www.france24.com/fr/europe/20250927-la-plus-grande-base-militaire-du-danemark-survol%C3%A9e-par-des-drones",
+      "title": "La plus grande base militaire du Danemark survolée par des drones",
+      "content_html": "Des drones non identifiés ont été observés au-dessus de la plus grande base militaire du Danemark vendredi soir, a annoncé samedi la police.",
+      "date_published": "2025-09-27T09:15:06+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "677aa05aff7219dd3a9ed773624d2c8bf88633b11203b5f116a8b26d3265c489",
       "url": "https://www.liberation.fr/international/moyen-orient/gaza-le-hamas-aurait-accepte-laccord-de-liberation-des-otages-soutenu-par-trump-20250927_WYZFC6A7VJGTLLVPNMVYKB66EY/",
       "title": "Gaza  : le Hamas accepte l’accord de libération des otages soutenu par Trump, annonce le «Haaretz»",
@@ -90,22 +166,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "9eb533471ed6db441264a97ea47fac1c27804b9adf7ae52993f9736181decd26",
-      "url": "https://www.aljazeera.com/video/quotable/2025/9/27/iran-still-willing-to-talk-to-us-but-trump-wants-isolation-or-war?traffic_source=rss",
-      "title": "Iran “still willing to talk” to US but Trump wants isolation or war",
-      "content_html": "As sanctions return on Iran, Adam Weinstein of Quincy Institute says Tehran has shown commitment to diplomacy.",
-      "date_published": "2025-09-27T09:13:21+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "b26db63bbfaed348ddcb54a947ede8b2a67747c82656c7417770d4dc56755c3a",
@@ -181,6 +241,26 @@
       "lang": "en"
     },
     {
+      "id": "69460cc44b76af810e2ad08ae05b85290800e08eb99669b512dacdad9acacec9",
+      "url": "https://www.france24.com/en/europe/20250927-new-drones-sighted-over-denmark-s-largest-military-base",
+      "title": "New drones sighted over Denmark's largest military base",
+      "content_html": "New unidentified drones were observed over Denmark's biggest military base on Saturday, police said, in a slew of sightings that Danish officials have called a \"hybrid attack\".",
+      "date_published": "2025-09-27T09:01:26+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "46800a45f6d9569955a53086a6e6bee13850dfee2ca5031e9a4917b821bbe867",
       "url": "https://www.theguardian.com/us-news/2025/sep/27/new-york-man-murder-confession-tv-news",
       "title": "New York man charged with parents’ murders after TV confession",
@@ -234,6 +314,60 @@
       "lang": "en"
     },
     {
+      "id": "806e95773cebb47df18b02fb134d87a692a046b2e8a1ec3f8c2670195cf3c861",
+      "url": "https://www.france24.com/en/video/20250927-moldova-to-vote-in-critical-parliamentary-election-fraught-with-russian-interference-claims",
+      "title": "Moldova to vote in critical parliamentary election fraught with Russian interference claims",
+      "content_html": "Moldovans head to the polls Sunday to cast ballots in a tense parliamentary election fraught with claims of Russian interference. The vote could decide the country’s geopolitical future: a stark choice between East and West. Story by Maria Gerth-Niculescu.",
+      "date_published": "2025-09-27T08:58:36+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "17f5f462407148951f364293c7518c9e01109e4482782df57b158950b991ccf9",
+      "url": "https://www.france24.com/en/video/20250927-netanyahu-condemns-support-for-palestinian-state-at-un-after-scores-walk-out",
+      "title": "Netanyahu condemns support for Palestinian state at UN after scores walk out",
+      "content_html": "Israeli Prime Minister Benjamin Netanyahu sharply denounced Western countries on Friday for embracing Palestinian statehood, accusing them of sending the message that \"murdering Jews pays off.\" Speaking at the U.N. General Assembly, the Israeli leader pushed back in his harshest terms yet against a flurry of diplomatic moves by leading U.S. allies that deepened Israel’s international isolation over its conduct of a nearly two-year-old war in Gaza. Story by Jennie Shin.",
+      "date_published": "2025-09-27T08:56:39+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "85c57a6f6264d7155b340f3f68d62389726c88f4bc791d23bba7766ff47bd17d",
+      "url": "https://www.france24.com/en/video/20250927-the-iranian-population-braces-as-the-un-restores-sanctions",
+      "title": "The Iranian population braces as the UN restores sanctions",
+      "content_html": "As Iran's ailing economy braces for the reimposition of United Nations sanctions over its nuclear program, it is ordinary people who increasingly find themselves priced out of the food they need to survive and worried about their futures. Details by FRANCE 24 correspondent in Tehran, Saeed Azimi.",
+      "date_published": "2025-09-27T08:53:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "10d68c7f4cb05a9255dc4eb30d6a3a889af3d2348be63b2b47d3dde2255f6429",
       "url": "https://www.ukrinform.net/rubric-ato/4041077-two-apartment-buildings-damaged-in-drone-attack-on-zaporizhzhia.html",
       "title": "Two apartment buildings damaged in drone attack on Zaporizhzhia",
@@ -248,6 +382,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "11abe23038e97d1b996f0d4cb23b336d1b955295bfce8acc84bc1c5e125774e6",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-les-vendettas-personnelles-de-donald-trump-contre-ses-adversaires-politiques",
+      "title": "Les vendettas personnelles de Donald Trump contre ses adversaires politiques",
+      "content_html": "L'inculpation, jeudi, pour fausses déclarations et entrave à une enquête du Congrès de James Comey, ancien directeur du FBI, apparaît comme le dernier épisode en date d'une campagne de représailles menée par Donald Trump contre ses adversaires politiques.",
+      "date_published": "2025-09-27T08:44:28+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "105ba4a229c542669dd516cf68242536ed3b4b16a46663b018e0567d6bb78213",
@@ -267,6 +419,24 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "35b13cb3911ed1e097bf76ba66d8c82eaa141b2bd932a06c5ef546f2fe168862",
+      "url": "https://www.france24.com/en/video/20250927-un-restores-sanctions-on-iran-as-nuclear-diplomacy-fades",
+      "title": "UN restores sanctions on Iran as nuclear diplomacy fades",
+      "content_html": "Iran set to come under sweeping UN sanctions for the first time in a decade – barring an unexpected last-minute breakthrough – after nuclear talks with the West floundered. Story by Peter O'Brien.",
+      "date_published": "2025-09-27T08:37:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -349,6 +519,24 @@
       "lang": "fr"
     },
     {
+      "id": "312036782dd64a1d2831f1b695d05c50e6ead2e0a11c028ac07050ac4ae10e31",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-budget-2026-le-parti-socialiste-brandit-la-menace-de-la-censure",
+      "title": "Budget 2026 : le Parti Socialiste brandit la menace de la censure",
+      "content_html": "Dans un entretien au Parisien, Sébastien Lecornu s'est engagé vendredi à présenter un projet de budget \"robuste\" pour 2026, évoquant des économies sur le train de vie de l'État, sans \"austérité\" ni \"régression sociale\". Le Premier ministre a écarté un retour de l'impôt sur la fortune et estimé que la taxe Zucman sur les hauts patrimoines n'était pas \"la bonne réponse\".",
+      "date_published": "2025-09-27T08:29:33+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "cb42b9bb53c1e4bebf36e51b4f3bad7ddbf9f8a42311a754f051cad80e0ad2e6",
       "url": "https://www.lefigaro.fr/international/arrestation-de-l-ex-directeur-du-fbi-donald-trump-emploie-le-ministere-de-la-justice-contre-ses-adversaires-20250926",
       "title": "Arrestation de l’ex directeur du FBI : Donald Trump emploie le ministère de la Justice contre ses adversaires",
@@ -368,13 +556,31 @@
       "id": "4d6913665f29faa59e563fc8fd4fcc27edb4529ff4703892b844f576a9556d9d",
       "url": "https://www.lemonde.fr/international/live/2025/09/27/en-direct-guerre-en-ukraine-les-dernieres-informations_6642198_3210.html",
       "title": "En direct, guerre en Ukraine : les dernières informations",
-      "content_html": "Un immeuble résidentiel endommagé par une frappe russe, à Izioum, dans l’oblast de Kharkiv, en Ukraine, le 25 septembre 2025.",
+      "content_html": "Un habitant de Kharkiv sort d'un immeuble endommagé par une frappe russe, le 26 septembre 2025.",
       "date_published": "2025-09-27T08:27:12+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5966a245e3197da93c0a15eb7b2a88f8737f396855227b836350d4ef1802c84e",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-finale-de-la-coupe-du-monde-f%C3%A9minine-de-rugby-%C3%A0-xv-angleterre-vs-canada",
+      "title": "Finale de la coupe du monde féminine de rugby à XV : Angleterre VS Canada",
+      "content_html": "Annick Hayraud, ancienne internationale et ancienne manager du XV de France féminin, est notre invitée.",
+      "date_published": "2025-09-27T08:26:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -410,7 +616,7 @@
       "id": "0f990c278bef3de10a714c47072f9236a585bcf31bf1d2210d2b56fa54246f06",
       "url": "https://www.france24.com/en/americas/20250927-us-to-revoke-visa-for-colombian-president-petro-over-incendiary-comments",
       "title": "US to revoke visa for Colombian President Petro over 'incendiary' comments",
-      "content_html": "The State Department will revoke Colombian President Gustavo Petro's US visa \"due to his reckless and incendiary actions\" after he took to New York's streets on Friday in a pro-Palestinian demonstration and urged US soldiers to disobey the orders of US President Donald Trump.",
+      "content_html": "The State Department will revoke Colombian President Gustavo Petro's US visa \"due to his reckless and incendiary actions\" after he took to New York's streets on Friday in a pro-Palestinian demonstration and urged US soldiers to disobey the orders of US President Donald Trump. Petro on Tuesday slammed Trump as \"complicit in genocide\" in his speech to the UN General Assembly.",
       "date_published": "2025-09-27T08:22:32+00:00",
       "authors": [
         {
@@ -427,6 +633,24 @@
       "lang": "en"
     },
     {
+      "id": "6a6c9140cc2a44078c6d5c9b530f033a779c96dcbf487ab52eb14bc2b9a3a940",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-cisjordanie-des-firmes-li%C3%A9es-au-d%C3%A9veloppement-des-colonies-%C3%A9pingl%C3%A9es-par-l-onu",
+      "title": "Cisjordanie: des firmes liées au développement des colonies épinglées par l'ONU",
+      "content_html": "Le vendredi 26 septembre, l'ONU a mis à jour la liste des firmes liées dans le développement des colonies israéliennes, jugées illégales au regard du droit international. Cette nouvelle version recense 158 sociétés, majoritairement israéliennes.",
+      "date_published": "2025-09-27T08:22:22+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "f18912c90ae2e138f2a5a8109e696c118a8c6e196e1a3966db294e3f20c8337f",
       "url": "https://www.lemonde.fr/international/article/2025/09/27/l-iran-deja-etouffe-economiquement-avant-le-retour-des-sanctions-internationales_6643163_3210.html",
       "title": "L’Iran déjà étouffé économiquement avant le retour des sanctions internationales",
@@ -437,6 +661,24 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "eebf00189b6df5a2d9cd91858d92b10714b39957d71fe3c8f8f452380378f2e1",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-nucl%C3%A9aire-iranien-l-%C3%A9chec-de-n%C3%A9gociations-entre-les-europ%C3%A9ens-et-t%C3%A9h%C3%A9ran",
+      "title": "Nucléaire iranien : l'échec de négociations entre les Européens et Téhéran",
+      "content_html": "Les sanctions onusiennes contre la République islamique seront formellement rétablies samedi soir, sauf coup de théâtre, après l'échec de négociations entre les Européens et Téhéran. L'Iran a de son côté rappelé samedi \"pour consultations\" ses ambassadeurs en France, en Allemagne et au Royaume-Uni, a rapporté la télévision d'État.",
+      "date_published": "2025-09-27T08:18:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -475,6 +717,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "b73d08684a43102add750c53f726c0bff7a403f40c9cdf634e9db525643702ab",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-j-1-avant-les-l%C3%A9gislatives-en-moldavie-un-scrutin-sous-influence-russe",
+      "title": "J-1 avant les législatives en Moldavie : un scrutin sous influence russe",
+      "content_html": "Les Moldaves sont appelés aux urnes, dimanche 28 septembre, pour des élections législatives décisives, moins d’un an après une présidentielle perturbée par l’ingérence russe et un référendum sur l’adhésion à l’Union européenne validé de justesse.",
+      "date_published": "2025-09-27T08:14:30+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "2e9d968b7ef933f40ad2268fd704e58bfa4e1fc793dfac88af3c7020901c98fb",
@@ -529,6 +789,24 @@
       "lang": "en"
     },
     {
+      "id": "2bb8f57a5dc23131ae4523c0f6de632a40a3b4c490dfd16e6e5dd6a99dc9cdf5",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-nucl%C3%A9aire-iranien-le-r%C3%A9tablissement-imminent-des-sanctions",
+      "title": "Nucléaire iranien : le rétablissement imminent des sanctions",
+      "content_html": "Siavosh Ghazi, notre correspondant à Téhéran, décrypte la situation.",
+      "date_published": "2025-09-27T08:12:02+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "483bcb71cf0b71bdcfcbc057b4fbf60393e37e0f2e9082912f23ff08caa1ab88",
       "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-warn-labour-battle-reform-fight-soul-nation",
       "title": "Keir Starmer to warn Labour that battle with Reform is ‘fight for soul of the nation’",
@@ -556,6 +834,24 @@
       "lang": "en"
     },
     {
+      "id": "d29b90791049ab94a426270536aabfa5993b23f5f045195074ebfb2eb8c7567a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-pr%C3%A9sidentielle-au-cameroun-paul-biya-brigue-un-8%C3%A8me-mandat-%C3%A0-92-ans",
+      "title": "Présidentielle au Cameroun: Paul Biya brigue un 8ème mandat à 92 ans",
+      "content_html": "Le président sortant Paul Biya, au pouvoir depuis 1982, brigue un huitième mandat à l'âge de 92 ans. L'élection présidentielle aura lieu le12 octobre 2025 au Cameroun.",
+      "date_published": "2025-09-27T08:09:40+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "cacbfd479cc676cd12e2c061f22d6fbe6158c6467761c9c1acdcc0bd7aa1b772",
       "url": "https://www.theguardian.com/politics/2025/sep/27/petition-opposing-starmer-plan-digital-id-cards",
       "title": "More than 1.6m sign petition opposing Starmer’s plan for digital ID cards",
@@ -580,6 +876,24 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "3f17704621c679fef668594a6dabf172b152e8e200b579d5779d153cea1b737d",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250927-finir-le-travail-%C3%A0-gaza-le-discours-offensif-de-netanyahu-%C3%A0-l-onu",
+      "title": "\"Finir le travail\" à Gaza : le discours offensif de Netanyahu à l'ONU",
+      "content_html": "La création d'un État palestinien constituerait un \"suicide national\" pour Israël, a déclaré vendredi à la tribune de l'ONU le Premier ministre Benjamin Netanyahu, promettant de \"finir le travail\" contre le Hamas à Gaza.",
+      "date_published": "2025-09-27T08:06:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "e1c62c83a8099a51c835a7b3c5c782e06a15ee77a15ec2e66d285994f118b295",
@@ -1201,6 +1515,26 @@
       "lang": "en"
     },
     {
+      "id": "b6f79d60bd2bcb44a97f4564bfcc6c2896987893c838e5799aa247a64c5fc58e",
+      "url": "https://www.france24.com/fr/moyen-orient/20250927-reconnaissance-palestine-confusion-erreurs-consulats-britannique-fran%C3%A7ais",
+      "title": "Reconnaissance de la Palestine : confusion et erreurs autour des consulats britannique et français",
+      "content_html": "Après leur reconnaissance d’un État palestinien, la France et le Royaume-Uni sont accusés d'avoir indiqué que leurs consulats généraux à Jérusalem étaient désormais situés en \"Palestine\". Mais le consulat britannique est bien situé à Jérusalem-Est, considéré comme territoire palestinien occupé selon les Nations unies. Côté français, il s'agit d'une erreur du site de la Commission européenne, modifiée depuis.",
+      "date_published": "2025-09-27T06:00:04+00:00",
+      "authors": [
+        {
+          "name": "Nathan GALLO"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "8b25de773ec79727ca5716ff92fb8e8ad2216af4cf338ff1baf5ae3db7968bda",
       "url": "https://www.aljazeera.com/news/2025/9/27/north-koreas-kim-calls-for-sharpening-of-nuclear-shield-and-sword?traffic_source=rss",
       "title": "North Korea’s Kim calls for sharpening of ‘nuclear shield and sword’",
@@ -1251,6 +1585,26 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "baeea60b76b165c39933773223ee72f37fde56894977e0518478c3aba46b4630",
+      "url": "https://www.france24.com/fr/asie-pacifique/20250927-nucl%C3%A9aire-compte-%C3%A0-rebours-vers-le-r%C3%A9tablissement-des-sanctions-de-l-onu-contre-l-iran",
+      "title": "Nucléaire : compte à rebours vers le rétablissement des sanctions de l'ONU contre l'Iran",
+      "content_html": "Les sanctions onusiennes contre la République islamique seront formellement rétablies samedi soir, sauf coup de théâtre, après l'échec de négociations entre les Européens et Téhéran. L'Iran a de son côté rappelé \"pour consultations\" ses ambassadeurs en France, en Allemagne et au Royaume-Uni, a rapporté la télévision d'État.",
+      "date_published": "2025-09-27T05:54:40+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "e9a8eb953d7f6fa3c85be86d49db9e5903460c0464965056de22452bfa1f3b92",
@@ -1424,6 +1778,26 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9a4d44e2dbd03b719ca8fa39ab620316ac6fe81a34c900d760ea54f489a7fb47",
+      "url": "https://www.france24.com/fr/info-en-continu/20250927-les-etats-unis-r%C3%A9voquent-le-visa-du-pr%C3%A9sident-colombien-accus%C3%A9-d-actions-incendiaires",
+      "title": "Washington révoque le visa du président colombien, accusé d'actions \"incendiaires\"",
+      "content_html": "En déplacement à New York pour l’Assemblée générale de l’ONU, le président colombien, Gustavo Petro, s’est vu, vendredi, retirer son visa américain. Washington accuse le président colombien d’“actions téméraires et incendiaires”. Ce dernier a appelé, lors d'une manifestation, à la création d'une armée pour libérer la Palestine.",
+      "date_published": "2025-09-27T05:01:11+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2619,6 +2993,24 @@
       "lang": "fr"
     },
     {
+      "id": "25e026cd7843763f658440aec5621a4456ec2c1aa3b41a36086cfe82677d042d",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250926-anne-c%C3%A9cile-robert-malgr%C3%A9-ses-failles-l-onu-reste-essentielle-au-dialogue-universel",
+      "title": "\"Malgré ses failles, l’ONU reste essentielle au dialogue universel\"",
+      "content_html": "Que retenir de l'Assemblée générale des Nations Unies ? On en parle avec Anne-Cécile Robert, journaliste et directrice adjointe du Monde diplomatique et autrice du livre Le défi de la paix, Romedeler les organisations internationales. (2024 Armand Colin).",
+      "date_published": "2025-09-26T22:24:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "510a9aeff21679d338ef7c6fd756e55913568a128dd7eceb44004d3c7018f495",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/netanyahu-unga-address-sees-props-accusations-and-protests?traffic_source=rss",
       "title": "Netanyahu UNGA address sees props, accusations, and protests",
@@ -2649,6 +3041,22 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "27a8f52c5ec94b03d83033ce795f886bee584e3be15c9d5539ef3d3fd721a4e5",
+      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20250926-nicolas-sarkozy-condamn%C3%A9-justice-ou-injustice",
+      "title": "Nicolas Sarkozy condamné : justice ou injustice ?",
+      "content_html": "Procès équitable pour les uns, acharnement judiciaire pour les autres, la condamnation de Nicolas Sarkozy à 5 ans de prison ferme divise les Français. Qu'en pense Thibaud Mulier, maître de conférences en droit public à l’Université Paris Nanterre?",
+      "date_published": "2025-09-26T21:50:53+00:00",
+      "authors": [],
+      "tags": [
+        "La question qui fâche"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "b4ef1458d38e1277b884214e58a61b3250cbd9c29016771bd5a98173db1928eb",
@@ -2749,6 +3157,24 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "40fc5195c64e27ceb1dc035f6c0168fcf50f80f9c076f628f9ca72f610d337ad",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250926-b%C3%A9nin-adonis-le-francis-cabrel-africain-pr%C3%A9pare-un-concert-%C3%A9v%C3%A9nement-%C3%A0-orl%C3%A9ans",
+      "title": "Bénin : Adonis, le \"Francis Cabrel africain\", prépare un concert événement à Orléans",
+      "content_html": "Adonis, chanteur et guitariste originaire de Cotonou, a un rêve : devenir le Francis Cabrel béninois. Inspiré par les grands auteurs francophones, il chante l’exil, l’amour, les papiers, et ses racines africaines avec poésie. Installé en France depuis 2011, il mêle les influences de la chanson française à son héritage béninois. Il prépare un concert à Orléans et dévoile son nouveau clip Afrika. Un artiste à découvrir dans notre focus culture.",
+      "date_published": "2025-09-26T21:11:16+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "753cda7e3e055c27c12644f7d2383317b2efbfdf6b6d536ba720d59c88c1e878",
@@ -2883,6 +3309,22 @@
       "lang": "en"
     },
     {
+      "id": "5869854b109c4dae54d52e6a6f6fa00639ca834c08105fb113bac7c6da47418e",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/26/beyond-humanity-israeli-strike-devastates-gaza-city-neighbourhood?traffic_source=rss",
+      "title": "‘Beyond humanity’: Israeli strike devastates Gaza City neighbourhood",
+      "content_html": "Hours before Israeli PM Benjamin Netanyahu addressed the 80th UNGA, Israeli strikes continued to bombard the Gaza Strip.",
+      "date_published": "2025-09-26T20:31:17+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "851dd7647b055c6e952e9ceddefbba41d1d6717f451ed8cd43d3d8d6ba0d89b2",
       "url": "https://www.timesofisrael.com/nyc-mayor-thanks-netanyahu-for-defending-the-west-as-mamdani-accuses-him-of-genocide/",
       "title": "NYC mayor thanks Netanyahu for defending the West as Mamdani accuses him of genocide",
@@ -2955,6 +3397,26 @@
       "lang": "en"
     },
     {
+      "id": "e9ee37474d920bd3207aa205214f6c1783d75f9025323a05887763be8f5e9242",
+      "url": "https://www.france24.com/fr/afrique/20250926-madagascar-ministre-limog%C3%A9-apr%C3%A8s-violentes-manifestations-dans-la-capitale-antananarivo",
+      "title": "Madagascar : un ministre limogé après de violentes manifestations dans la capitale Antananarivo",
+      "content_html": "Pour tenter de calmer un mouvement de protestation contre les coupures d'eau et d'électricité, le président malgache a annoncé vendredi qu'il limogeait son ministre de l'Énergie, peu après l'entrée en vigueur d'un deuxième couvre-feu nocturne dans la capitale Antananarivo dévastée par des pillages. Les manifestants ont appelé à une nouvelle manifestation samedi.",
+      "date_published": "2025-09-26T20:22:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "25f43096953800b1f153301e45fb389dfa6288c7dc3dbbff52c386fe4a94b0af",
       "url": "https://www.elmundo.es/internacional/2025/09/26/68d6995ee4d4d8cf528b45a8.html",
       "title": "L'Espagne est absente du discours de Benjamin Netanyahu boycotté par des dizaines de pays",
@@ -2989,6 +3451,46 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
+    },
+    {
+      "id": "edcd2d2cebb20b2c0ccbefc7d694d1a555296797eef2be1bf4f533ce16eb0f3f",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20250926-non-l-atti%C3%A9k%C3%A9-ne-va-pas-%C3%AAtre-interdit-en-france",
+      "title": "Non, l'attiéké ne va pas être interdit en France",
+      "content_html": "Une vidéo virale sur les réseaux sociaux affirme que l'attiéké,  la semoule de manioc star de la Côte d'Ivoire sera bientôt interdite en France. Largement relayée en Afrique de l'Ouest, cette information est en réalité issue d'un compte parodique sur TikTok.",
+      "date_published": "2025-09-26T19:57:45+00:00",
+      "authors": [
+        {
+          "name": "Lucas DE VILLEPIN"
+        }
+      ],
+      "tags": [
+        "Info ou intox"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a830aee4c683b323597214c570213b1bc0c4c20d4377d184dd52e13a552d30c6",
+      "url": "https://www.france24.com/fr/afrique/20250926-madagascar-manifestations-antananarivo-violences-policieres",
+      "title": "\"Ils ne pouvaient pas voir sur qui ils tiraient\" : à Madagascar, des manifestants ciblés",
+      "content_html": "À Antananarivo jeudi, des manifestants ont été pris pour cible par les forces de l’ordre lors d’une mobilisation contre les coupures d’eau et d’électricité. Parmi eux, nos Observateurs dénoncent une répression violente et disproportionnée : grenades lacrymogènes lancées à proximité, voitures fonçant sur la foule, blessures et panique généralisée.",
+      "date_published": "2025-09-26T19:54:39+00:00",
+      "authors": [
+        {
+          "name": "Les Observateurs"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "de13e6585e83332f5afaf87635234cb5dbd258966745d1d470585133aa11ab1b",
@@ -3077,6 +3579,26 @@
       "lang": "en"
     },
     {
+      "id": "8043c95ec9ccf56fc2ea721c7662b9d8322d54c29a4631f3ca9cff6a8572a2f1",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20250926-%C3%A9tat-palestinien-un-premier-pas-et-maintenant",
+      "title": "État palestinien : un premier pas, et maintenant ?",
+      "content_html": "C’est un geste qui se veut décisif. La France a reconnu cette semaine la Palestine en tant qu’État, entraînant à sa suite une dizaine de pays. Dans le même temps, Israël continue de bombarder Gaza et projette d’étendre sa présence en Cisjordanie. À quoi sert l’initiative du président français Emmanuel Macron ? Sortir de l’impasse et permettre d’enclencher une dynamique comme l’assure désormais Paris ? Pour en parler, notre invitée : Yasmina Asrarguis, chercheuse associée à l’université de Princeton, spécialiste des normalisations israélo-arabes.",
+      "date_published": "2025-09-26T19:28:16+00:00",
+      "authors": [
+        {
+          "name": "Raphael KAHANE"
+        }
+      ],
+      "tags": [
+        "Le monde dans tous ses États"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "87bb10748d951223ca0cdc207e5a924a8470e17443e01b73141112f5d572792e",
       "url": "https://elpais.com/internacional/2025-09-26/musk-y-bannon-nombrados-en-nuevos-documentos-publicados-del-caso-epstein.html",
       "title": "Musk and Bannon, nommé dans de nouveaux documents publiés de «l'affaire Epstein»",
@@ -3098,6 +3620,26 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "83bc22f5b0ce7f59014588173036de6b15ef21fef8f30ee729ebca0e3e979b07",
+      "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20250926-ballon-d-or-pour-ousmane-demb%C3%A9l%C3%A9-football",
+      "title": "Le Ballon d'Or pour Ousmane Dembélé",
+      "content_html": "Changement de dimension pour l’ailier du Paris Saint-Germain : distinction individuelle, fierté nationale et la formation française récompensée... Ousmane Dembélé est-il entré dans la cour des très grands ?",
+      "date_published": "2025-09-26T19:18:11+00:00",
+      "authors": [
+        {
+          "name": "Annie GASNIER"
+        }
+      ],
+      "tags": [
+        "Café des sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3260,6 +3802,26 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "317af136cd6b6d2e4633fb5d972b0762c1fd60b2aa90c09227583cc36a9da8e5",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20250926-nicolas-sarkozy-condamn%C3%A9-les-discours-de-netanyahu-et-trump-%C3%A0-l-onu",
+      "title": "Nicolas Sarkozy condamné, les discours de Netanyahu et Trump à l'ONU",
+      "content_html": "En France, 5 ans de prison ferme et surtout une exécution provisoire pour Nicolas Sarkozy. L’ancien Président a été jugé coupable d’association de malfaiteurs dans le cadre du financement libyen de sa campagne électorale de 2007. A la tribune de l’Assemblée générale de l’ONU, Netanyahu persiste et signe : reconnaître l’Etat de Palestine reviendrait à donner un chèque en blanc au Hamas. Trump, lui, a été vindicatif vis-à-vis de l’ONU, virulent à l’égard de l’Europe et climatosceptique.",
+      "date_published": "2025-09-26T18:40:12+00:00",
+      "authors": [
+        {
+          "name": "David DELOS"
+        }
+      ],
+      "tags": [
+        "Une semaine dans le monde"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3427,7 +3989,7 @@
     {
       "id": "e5e9ecdef1691e73f1c37f762b4d3b2472003cf47cda866b90b414ccf7ee0102",
       "url": "https://www.elmundo.es/internacional/2025/09/26/68d697a0e4d4d8be038b459d.html",
-      "title": "Le mur anti-didish est déjà une \"priorité immédiate\" pour l'UE et la Finlande pointe vers l'Espagne: \"Depuis 20 ans, nous nous soutenons avec le Sud, il est temps pour la solidarité de sécurité\"",
+      "title": "Le mur anti-didish est déjà une \"priorité immédiate\" pour l'UE et la Finlande pointe vers l'Espagne: \"Depuis 20 ans, nous sommes favorables au Sud, il est temps pour la solidarité de sécurité\"",
       "content_html": "Le commissaire Kubilius souligne qu'un système \"avec une détection, une surveillance et une interception avancées\" est nécessaire, et que \"la Russie teste l'UE et l'OTAN\"",
       "date_published": "2025-09-26T17:55:20+00:00",
       "authors": [
@@ -4315,26 +4877,6 @@
       "lang": "fr"
     },
     {
-      "id": "c32c333fb24203dc48389d36d2bbf9b2e705360da130a8e42a7bfc3286d5a4fb",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20250926-new-delhi-suspicious-of-washington-after-latest-h-1b-move-from-trump",
-      "title": "New Delhi suspicious of Washington after latest H-1B move from Trump",
-      "content_html": "Is India being forced to reconsider its relationship with the United States? In Access Asia, we explore how the aftershocks of the US's new H-1B visa policy are being felt in New Delhi. We also bring you the latest on Indonesia making overtures towards Israel after recognising Palestine back in 1988. Plus, we tell you why the Disney+ K-drama \"Tempest\" is stirring up a storm in China.",
-      "date_published": "2025-09-26T15:28:46+00:00",
-      "authors": [
-        {
-          "name": "Delano D’SOUZA"
-        }
-      ],
-      "tags": [
-        "Access Asia"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d50aa5efa8073999bf37137a982afb57ef6d5f4a858236937a9885ec7e9c402f",
       "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945?maca=en-rss-en-all-1573-rdf",
       "title": "Trump tariffs: Who stands to lose most from new US pharma duties?",
@@ -4408,26 +4950,6 @@
       "lang": "fr"
     },
     {
-      "id": "c35a6d4937056fa0f2ad8466fbba531e7dc4af4a36ceb0f06a79c658fa5ece6f",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20250926-earth-s-oldest-living-organisms-survive-in-europe-s-last-wild-forest",
-      "title": "Earth's oldest living organisms survive in Europe's last wild forest",
-      "content_html": "It’s a sacred sanctuary for bisons, wolves and countless birds. The Białowieża Forest is the last untouched forest in Europe. Not a single tree has ever been cut down there. Located between Poland and Belarus, it fascinates scientists and nature lovers alike. Our France 2 colleagues report.",
-      "date_published": "2025-09-26T15:07:54+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 2"
-        }
-      ],
-      "tags": [
-        "Down to Earth"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a8730b4de2a95df9960832d50fed1cb18f3c0e0b4055bc36dc58e05cfdb67d0b",
       "url": "https://www.dw.com/en/india-arrests-activist-sonam-wangchuk-after-ladakh-protests/a-74151258?maca=en-rss-en-all-1573-rdf",
       "title": "India arrests activist Sonam Wangchuk after Ladakh protests",
@@ -4440,80 +4962,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5f0cc16509bf07bd0122ae6c99a901c0276ea496e5eb55b785917bff44caa920",
-      "url": "https://www.france24.com/en/video/20250926-takeaways-from-benjamin-netanyahu-s-speech-at-the-un-general-assembly",
-      "title": "Takeaways from Benjamin Netanyahu's speech at the UN General Assembly",
-      "content_html": "Facing international isolation and a walkout by UN delegates, Israeli Prime Minister Benjamin Netanyahu on Friday (September 26) said his country \"must finish the job\" against Hamas in Gaza in a defiant speech at the UN General Assembly. FRANCE 24's Jessica Le Masurier tells us more from New York.",
-      "date_published": "2025-09-26T15:03:43+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8b23651b39b6a5e92a06bba66233a8d690b544f0b3be04a436740e4409b2dc4c",
-      "url": "https://www.france24.com/en/africa/20250926-ivory-coast-former-first-lady-simone-ehivet-eyes-presidency",
-      "title": "Ivory Coast’s former first lady Simone Ehivet eyes the presidency",
-      "content_html": "Once nicknamed \"The Iron Lady\", Simone Ehivet is the strongest female presidential candidate in Ivory Coast’s history. Ex-wife of former president Laurent Gbagbo, the former first lady is hoping to lead her political party, the Movement of Capable Generations (MGC), to victory.",
-      "date_published": "2025-09-26T15:02:53+00:00",
-      "authors": [
-        {
-          "name": "David RICH"
-        }
-      ],
-      "tags": [
-        "Africa"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "643f5ba0ef778f0744514479d57b0366878e146732909e31216b1351e47ca06e",
-      "url": "https://www.france24.com/en/video/20250926-replay-israeli-pm-benjamin-netanyahu-addresses-un-general-assembly",
-      "title": "Replay: Israeli PM Benjamin Netanyahu addresses UN General Assembly",
-      "content_html": "Facing international isolation, Israeli Prime Minister Benjamin Netanyahu took the stage on day four of the UN General Assembly on Friday (September 26). Scores of delegates have walked out of as he entered the hall to give his speech.",
-      "date_published": "2025-09-26T14:59:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b9044c72a5436bab93fcafadd5c86f749d5294a33333e5ed45019a898313e966",
-      "url": "https://www.france24.com/en/video/20250926-nato-tests-new-drone-technologies-after-russian-incursions",
-      "title": "NATO tests new drone technologies after Russian incursions",
-      "content_html": "At Portuguese and Dutch bases, NATO forces are conducting simultaneous tests of new aerial and underwater drones. With numerous Russian incursions into European airspace in recent weeks, the Atlantic alliance aims to prepare a technological response, helped by Ukrainian special forces.",
-      "date_published": "2025-09-26T14:51:48+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4558,26 +5006,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "c95e0923b11badea0bf280f5e4f27839049a36c134078a651545a51ce06ff158",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20250926-we-must-bring-security-back-to-west-africa-sierra-leone-s-bio",
-      "title": "'We must bring security back to West Africa': Sierra Leone's Bio",
-      "content_html": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly in New York, Julius Maada Bio, the president of Sierra Leone and chairman of ECOWAS, stressed that Africa was not represented fairly in the UN when \"70 percent of the decisions of the issues before the Security Council are mostly about Africa\". Asked about the three military-run countries that left ECOWAS back in January, he said he was \"engaging each and every one of them\", in order to bring security back to West Africa and boost economic integration.",
-      "date_published": "2025-09-26T14:47:32+00:00",
-      "authors": [
-        {
-          "name": "Marc PERELMAN"
-        }
-      ],
-      "tags": [
-        "Tête à tête"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "26dbc404f5f05d91eaf759ec8285e784603cd8d8ff3efee751b7bb37f4616b1e",
@@ -6154,7 +6582,7 @@
     {
       "id": "c5b94a301d73eed6586d8fdedfc161f57ce52eb10a47ec511837841b4acfe21f",
       "url": "https://www.liberation.fr/portraits/alejandro-mono-gonzalez-fresque-sur-20250925_OOEV4OMOLNBXFOT2Z3P6XFZ6OQ/",
-      "title": "Alejandro «Mono» González, Fresque Sûr",
+      "title": "Alejandro «Mono» González, fresque sûr",
       "content_html": "Alejandro \"Mono\" González à Santiago de Chili, le 18 janvier.",
       "date_published": "2025-09-25T15:33:08+00:00",
       "authors": [
@@ -6667,7 +7095,7 @@
       "id": "5c84bd306ee9d421c5ecbc47147b6203f315682c5e7539a9473a8477c9d68b63",
       "url": "https://www.elmundo.es/internacional/2025/09/25/68d4f92ffdddff05168b4579.html",
       "title": "L'Italie envoie un deuxième navire de guerre pour escorter la flottille pour Gaza et vous demande de fournir une aide humanitaire à Chipre pour la sécurité",
-      "content_html": "L'Italie a envoyé une première frégate mercredi, quelques heures après que le GSF a signalé une attaque de drones qui a lancé de superbes grenades et irritant la poussière dans les eaux internationales",
+      "content_html": "L'Italie a envoyé une première frégate mercredi, quelques heures après que le GSF a dénoncé une attaque de drones qui ont lancé de superbes grenades et irritant la poussière dans les eaux internationales",
       "date_published": "2025-09-25T08:12:32+00:00",
       "authors": [
         {
