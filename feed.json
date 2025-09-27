@@ -5,16 +5,406 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "5e9f04a7485c9860b1017297fc4a7bf822273b033a30e47e93da7a1341de155b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2195555/centaines-caquistes-se-congres-gatineau-cette-semaine",
-      "title": "Congrès de la CAQ : les délégués divisés sur l’avenir de Legault",
-      "content_html": "<p>Ils ont opté pour une interdiction de cacher son visage dans l’espace public.</p>",
-      "date_published": "2025-09-27T16:34:15+00:00",
+      "id": "cd827fbe35ba64ced4786190c722d6036483c86416b27df54eaceb16134878ca",
+      "url": "https://www.elmundo.es/internacional/2025/09/27/68d81e58fdddff71218b4572.html",
+      "title": "Lavrov: \"La Russie n'a jamais eu ou n'a pas l'intention d'attaquer l'OTAN ou l'UE, mais toute agression recevra une réponse\"",
+      "content_html": "Le ministre des Affaires étrangères de Poutine dit que son pays \"n'a rien à cacher\" et accuse l'Occident du double taux",
+      "date_published": "2025-09-27T17:40:21+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Rusia",
+        "ONU",
+        "Guerra Ucrania Rusia",
+        "Artículos Pablo R. Suanzes",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "677aa05aff7219dd3a9ed773624d2c8bf88633b11203b5f116a8b26d3265c489",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-le-hamas-aurait-accepte-laccord-de-liberation-des-otages-soutenu-par-trump-20250927_WYZFC6A7VJGTLLVPNMVYKB66EY/",
+      "title": "Gaza : le Hamas attend encore le plan Trump pour un cessez-le-feu, selon le «Haaretz»",
+      "content_html": "Le long de la frontière avec la bande de Gaza, en Israël, jeudi 25 septembre.",
+      "date_published": "2025-09-27T17:39:51+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2215150fea51f50350ff45438611be2dcd67cbbcb511663c67b410d29c7483f0",
+      "url": "https://www.elmundo.es/internacional/2025/09/27/68d7a73afc6c831c6c8b45ab.html",
+      "title": "Drones sur les bases militaires et les aéroports au Danemark: une \"humiliation\" avant le sommet de l'UE",
+      "content_html": "Le Premier ministre Frederiksen accuse la Russie et parle de «guerre hybride», mais les vols dans les aéroports et les bases militaires soulignent le manque de préparation du gouvernement dans ces situations",
+      "date_published": "2025-09-27T17:35:43+00:00",
+      "authors": [
+        {
+          "name": "Pedro Poza Maupain"
+        }
+      ],
+      "tags": [
+        "Dinamarca",
+        "Europa",
+        "Noruega",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b609b125ff68c8b8ce2aa12a6f650885c7345ad24e93809b6c7eba10a66938bf",
+      "url": "https://www.elmundo.es/internacional/2025/09/27/68d8188dfc6c83076f8b45a8.html",
+      "title": "Au moins 36 morts et 40 blessés à l'acteur et politicien Indian Vijay",
+      "content_html": "Au moins 36 personnes sont mortes et environ 40 ont été blessées lors d'un rassemblement organisé par le <strong> acteur et politicien Tamil Vijay </strong> dans l'État du Tamil Nadu, dans le sud de L",
+      "date_published": "2025-09-27T17:33:00+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [
+        "India"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "08a46dd45ee04b270a33efb68bb13912f9a0f870e9b830c3837db6d01f007177",
+      "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
+      "content_html": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
+      "date_published": "2025-09-27T17:29:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "59bdec36b72a32a2fad480cb3083e0f0a37be075488560edb80b388bf4bb6530",
+      "url": "https://www.lemonde.fr/international/live/2025/09/27/en-direct-guerre-en-ukraine-kiev-accuse-moscou-d-avoir-coupe-la-centrale-nucleaire-de-zaporijia-du-reseau-electrique-ukrainien-depuis-quatre-jours_6642198_3210.html",
+      "title": "En direct, guerre en Ukraine : Kiev accuse Moscou d’avoir coupé la centrale nucléaire de Zaporijia du réseau électrique ukrainien depuis quatre jours",
+      "content_html": "L’Ukraine a accusé la Russie d’avoir coupé la centrale nucléaire de Zaporijia du réseau électrique ukrainien depuis quatre jours et de chercher ainsi à la « voler » en la rattachant au réseau sous contrôle russe, en dépit de risques pour sa sécurité.",
+      "date_published": "2025-09-27T17:23:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "188e7c60119f67c9c5a8cc3edee3cd953d958c9a7ecc563549e501f46bf45aae",
+      "url": "https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss",
+      "title": "Fact check: Israeli prime minister Netanyahu’s speech at UNGA",
+      "content_html": "Netanyahu faces diplomatic isolation at UN General Assembly.",
+      "date_published": "2025-09-27T17:22:04+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0197565c4548c4e4d0a588ba8cb37bcf5f7916b4d984d6505f94f0fc43b5ca97",
+      "url": "https://www.dw.com/en/trump-sends-troops-to-portland-over-domestic-terrorists/a-74159574?maca=en-rss-en-all-1573-rdf",
+      "title": "Trump sends troops to Portland over 'domestic terrorists'",
+      "content_html": "US President Donald Trump claimed that Antifa is waging \"war\" on the famously progressive city. Portland's mayor has rejected these claims.",
+      "date_published": "2025-09-27T17:21:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2e7b5125c1f89874c17c0ab945bb8c1075015a74edb4a5c7cf8d6efa9f581940",
+      "url": "https://www.timesofisrael.com/idf-demolishes-west-bank-home-of-terrorist-who-carried-out-deadly-jerusalem-shooting/",
+      "title": "IDF demolishes West Bank home of terrorist who carried out deadly Jerusalem shooting",
+      "content_html": "<p>Army razes home of slain terrorist Muthanna Amro in Qubeiba, near Ramallah, home of second shooter Mohammad Taha to follow suit; Amro and Taha killed six in Ramot Junction attack</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-demolishes-west-bank-home-of-terrorist-who-carried-out-deadly-jerusalem-shooting/\">IDF demolishes West Bank home of terrorist who carried out deadly Jerusalem shooting</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/8f6259fe-1e2c-4a80-8490-842bcbaeacf4-e1758990225841-1024x640.jpg\" title=\"IDF demolishes West Bank home of terrorist who carried out deadly Jerusalem shooting\" width=\"160\" /></figure>",
+      "date_published": "2025-09-27T17:17:05+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "home demolitions",
+        "West Bank",
+        "IDF Israel Defense Forces",
+        "Palestinian terrorism",
+        "Hamas"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c0a370622218c1e2183075b1bd89ca8909b85435fedc4bd052baf718aefea86a",
+      "url": "https://www.lemonde.fr/international/live/2025/09/27/en-direct-gaza-a-l-onu-serguei-lavrov-accuse-israel-de-vouloir-faire-exploser-le-moyen-orient-et-l-occident-de-saboter-la-diplomatie_6642982_3210.html",
+      "title": "En direct, Gaza : à l’ONU, Sergueï Lavrov accuse Israël de vouloir « faire exploser » le Moyen-Orient et l’Occident de « saboter » la diplomatie",
+      "content_html": "Le ministre des affaires étrangères russe, Sergueï Lavrov, s’exprime lors de l’Assemblée générale de l’ONU.",
+      "date_published": "2025-09-27T17:14:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "087131fd78b106f520004846380621349ef785f42a7ef1302fb267afce073893",
+      "url": "https://www.ukrinform.net/rubric-polytics/4041224-ukraine-welcomes-syrias-decision-on-arrest-warrant-for-assad.html",
+      "title": "Ukraine welcomes Syria's decision on arrest warrant for Assad",
+      "content_html": "Ukrainian President Volodymyr Zelensky has welcomed the decision by a Syrian court to issue an arrest warrant for former president Bashar al-Assad.",
+      "date_published": "2025-09-27T17:14:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8a5d86bc849aa3b4b2bca029e32f8d9efc215c308cdd64c5ed03dd04ffbe64c4",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195579/trump-deploiement-armee-portland",
+      "title": "Trump ordonne le déploiement de « toutes les forces armées nécessaires » à Portland",
+      "content_html": "<p>Récemment, Donald Trump avait fait déployer les militaires de la Garde nationale à Memphis, dans le&nbsp;Tennessee.</p>",
+      "date_published": "2025-09-27T17:13:34+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e75352f21aa0a54c9e1ecf92ba94707a220e651cbdab62a387d79e64a870f720",
+      "url": "https://www.elmundo.es/internacional/2025/09/27/68d81876fdddff3e5c8b458a.html",
+      "title": "L'Allemagne se défendra contre la menace \"élevée\" des drones: cela permettra aux forces armées de les renverser",
+      "content_html": "Vous devez revoir une loi sur la sécurité aérienne.\"Il s'agit d'être prêt à protéger les infrastructures critiques ou les grandes concentrations de personnes\", explique le ministre de l'Intérieur",
+      "date_published": "2025-09-27T17:12:15+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [
+        "Alemania",
+        "Europa"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ad38cde082b784816743c077035c34b72383fae4cfc6e3d9be9f4f5c849ec81f",
+      "url": "https://www.theguardian.com/us-news/2025/sep/27/portland-oregon-us-military-trump",
+      "title": "Donald Trump says he is deploying troops to Portland, Oregon",
+      "content_html": "<p>Apparently misled by hyperbolic reporting from conservative outlets on a single small protest, president described peaceful city as ‘war ravaged’</p><p>Donald Trump said on Saturday he is deploying troops to Portland, Oregon, “authorizing Full Force, if necessary”, ignoring pleas from local officials and the state’s congressional delegation, who suggested that the president was misinformed or lying about the nature and scale of a single, small protest outside one federal immigration enforcement office.</p><p>Trump made the announcement on social media, using references to antifascists and US Immigration and Customs Enforcement (Ice). He claimed that the deployment was necessary “to protect War ravaged Portland, and any of our (immigration and customs enforcement) Facilities under siege from attack by Antifa, and other domestic terrorists”.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/27/portland-oregon-us-military-trump\">Continue reading...</a>",
+      "date_published": "2025-09-27T17:06:42+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey in Portland, Oregon"
+        }
+      ],
+      "tags": [
+        "Portland",
+        "US military",
+        "Donald Trump",
+        "Trump administration",
+        "Oregon",
+        "US politics",
+        "West Coast",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fc061c02fb8388a799b8e98cecb96010778b08bbbab287a0ad285cbec2726229",
+      "url": "https://www.lemonde.fr/international/video/2025/09/27/video-le-francais-titouan-leduc-arrete-lors-de-l-escalade-du-plus-haut-gratte-ciel-de-l-ue-a-varsovie_6643209_3210.html",
+      "title": "VIDEO | Le Français Titouan Leduc arrêté lors de l’escalade du plus haut gratte-ciel de l’UE, à Varsovie",
+      "content_html": "L’alpiniste urbain français Titouan Leduc escalade l’un des plus hauts gratte-ciel d’Europe, la tour Varso à Varsovie, en Pologne, le 27 septembre 2025.",
+      "date_published": "2025-09-27T17:03:30+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "02838b10e89959dfa3dddc80251db0f9540298e3e4b92d4a5edf0d336c472482",
+      "url": "https://www.lemonde.fr/idees/article/2025/09/27/les-etats-unis-plus-que-l-europe-seront-les-grands-perdants-des-guerres-commerciales-de-trump_6643206_3232.html",
+      "title": "« Les Etats-Unis, plus que l’Europe, seront les grands perdants des guerres commerciales de Trump »",
+      "content_html": "Contrairement aux idées reçues, l’accord commercial entre l’UE et les Américains n’est pas si désastreux, analyse, dans une tribune au « Monde », l’économiste Agathe Demarais, qui a publié à la mi-septembre une étude sur le sujet.",
+      "date_published": "2025-09-27T17:00:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7c5dc5f9e9836e7d975ae7c2d4e0b9a0f6eb9fc4bbe191a7718f82b303d9ef3d",
+      "url": "https://www.aljazeera.com/sports/2025/9/27/atletico-thrash-real-madrid-5-2-in-thrilling-derby-as-alvarez-grabs-brace?traffic_source=rss",
+      "title": "Atletico thrash Real Madrid 5-2 in thrilling derby as Alvarez grabs brace",
+      "content_html": "Julian Alvarez scores twice as Atletico came from behind to inflict a first defeat of the season on city rivals Real.",
+      "date_published": "2025-09-27T16:54:53+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8f5a4b8e0e09e4e48a4553b4797c2c0e22512a380fbab9078da374d2b4a2578d",
+      "url": "https://www.theguardian.com/us-news/2025/sep/27/yogurt-shop-murders-austin-texas",
+      "title": "Police identify suspect in 1991 murders of four girls at Texas yogurt shop",
+      "content_html": "<p>Officials name Robert Eugene Brashers in brutal deaths of Amy Ayers, Eliza Thomas and Jennifer and Sarah Harbison</p><p>After more than three decades, police have identified a dead suspect in an infamous 1991 murder case in which four girls were slain at a yogurt shop in <a href=\"https://www.theguardian.com/us-news/austin\">Austin</a>, Texas.</p><p>Austin police revealed Friday that Robert Eugene Brashers had been identified as a suspect in the murders through “a wide range of DNA testing”. Brashers, who had a lengthy <a href=\"https://notes.mshp.dps.mo.gov/si01/si01p001.nsf/035631d21d12b3ca8625729800536894/719609083dcd88e18625831d0050ad6f?OpenDocument\">criminal history</a>, died by suicide in 1999 at age 40 during a standoff with police in Missouri.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/27/yogurt-shop-murders-austin-texas\">Continue reading...</a>",
+      "date_published": "2025-09-27T16:53:32+00:00",
+      "authors": [
+        {
+          "name": "Maya Yang"
+        }
+      ],
+      "tags": [
+        "US crime",
+        "Austin",
+        "Texas",
+        "US policing",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f4ff304beade4efc461cef245682b8c34f6661b138683ce59f3be5badfa5d315",
+      "url": "https://www.ukrinform.net/rubric-ato/4041220-situation-on-kherson-front-under-control-enemy-taking-heavy-losses-military.html",
+      "title": "Situation on Kherson front under control, enemy taking heavy losses – military",
+      "content_html": "The situation on the Kherson axis remains under control. Over the past three days, Ukrainian forces have inflicted significant losses on the enemy, eliminating 19 occupiers and destroying 42 units of weapons and military equipment.",
+      "date_published": "2025-09-27T16:53:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d50aa5efa8073999bf37137a982afb57ef6d5f4a858236937a9885ec7e9c402f",
+      "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945?maca=en-rss-en-all-1573-rdf",
+      "title": "Trump tariffs: Who stands to lose most from new US pharma duties?",
+      "content_html": "The US president's latest tariff move will see the US impose 100% levies on imports of branded or patented pharmaceutical goods from October 1. What could it mean for global trade?",
+      "date_published": "2025-09-27T16:52:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c09e90c026118b348b720d957882c36766a5e28e6795aea0ba87ef962d549b1d",
+      "url": "https://ici.radio-canada.ca/sports/2195577/finale-coupe-monde-rugby-angleterre-canada",
+      "title": "Le rêve éveillé des Canadiennes prend fin en finale de la Coupe du monde de rugby",
+      "content_html": "<p>Elles s&#x27;inclinent par la marque de 33-13 face aux Anglaises, qui remportent un 3e titre. </p>",
+      "date_published": "2025-09-27T16:51:49+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5e9f04a7485c9860b1017297fc4a7bf822273b033a30e47e93da7a1341de155b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195555/centaines-caquistes-se-congres-gatineau-cette-semaine",
+      "title": "Congrès de la CAQ : les délégués divisés sur l’avenir de Legault",
+      "content_html": "<p>Ils ont opté pour une interdiction de cacher son visage dans l’espace public.</p>",
+      "date_published": "2025-09-27T16:47:09+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "92b1052e83543fb4ce2521c8c1c6565985956240eeb6daa1610d4574e74f9191",
+      "url": "https://www.liberation.fr/international/amerique/tout-a-sa-lutte-contre-les-antifas-donald-trump-deploie-larmee-dans-la-tranquille-portland-20250927_QSU5VRM24NDFVHCUJ5TRJH6H2Q/",
+      "title": "Tout à sa lutte contre les «antifas», Donald Trump déploie l’armée dans la tranquille Portland",
+      "content_html": "A Portland, en mai, lors d'une manifestation contre la guerre à Gaza.",
+      "date_published": "2025-09-27T16:46:35+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
@@ -81,8 +471,8 @@
         }
       ],
       "tags": [
-        "Monarchy",
         "Prince Harry",
+        "Monarchy",
         "King Charles III",
         "UK news"
       ],
@@ -96,7 +486,7 @@
       "id": "c36cedd16195dc4c58c3c64fe59057113a0e76ee5ae5a51066b18cdd7988adad",
       "url": "https://www.timesofisrael.com/khamenei-mocks-netanyahu-un-walkout-most-despised-regime-in-the-world/",
       "title": "Khamenei mocks Netanyahu UN walkout: ‘Most despised regime in the world’",
-      "content_html": "<p>In post on X showing PM's speech to empty UNGA, Iranian leader says it shows isolation of 'evil Zionist regime'; In Beirut, Tehran official calls on region to unite against Israel</p>\n<p>The post <a href=\"https://www.timesofisrael.com/khamenei-mocks-netanyahu-un-walkout-most-despised-regime-in-the-world/\">Khamenei mocks Netanyahu UN walkout: &#8216;Most despised regime in the world&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250926__76VN93P__v1__HighRes__UnDiplomacyUnga-1024x640.jpg\" title=\"Khamenei mocks Netanyahu UN walkout: &#8216;Most despised regime in the world&#8217;\" width=\"160\" /></figure>",
+      "content_html": "<p>In post on X showing PM's speech to empty UNGA, Iranian leader says it shows isolation of 'evil Zionist regime'; in Beirut, Tehran official calls on region to unite against Israel</p>\n<p>The post <a href=\"https://www.timesofisrael.com/khamenei-mocks-netanyahu-un-walkout-most-despised-regime-in-the-world/\">Khamenei mocks Netanyahu UN walkout: &#8216;Most despised regime in the world&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25269475546257-1024x640.jpg\" title=\"Khamenei mocks Netanyahu UN walkout: &#8216;Most despised regime in the world&#8217;\" width=\"160\" /></figure>",
       "date_published": "2025-09-27T16:12:17+00:00",
       "authors": [],
       "tags": [
@@ -160,20 +550,6 @@
       "lang": "en"
     },
     {
-      "id": "08a46dd45ee04b270a33efb68bb13912f9a0f870e9b830c3837db6d01f007177",
-      "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
-      "content_html": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
-      "date_published": "2025-09-27T16:03:01+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "16b94142af31e59d01a5f373fa856d8f97e57c124597b689dc4461f8c5de60d7",
       "url": "https://www.theguardian.com/society/2025/sep/27/build-prefab-homes-to-address-harm-to-generation-of-homeless-children-says-labour-mp-siobhain-mcdonagh",
       "title": "Build prefab homes to address harm to ‘generation of homeless children’, says Labour MP",
@@ -195,33 +571,6 @@
         "Labour",
         "UK news",
         "England"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ad38cde082b784816743c077035c34b72383fae4cfc6e3d9be9f4f5c849ec81f",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/portland-oregon-us-military-trump",
-      "title": "Donald Trump says he is deploying troops to Portland, Oregon",
-      "content_html": "<p>President made announcement on social media, but the White House did not immediately provide details</p><p>Donald Trump said on Saturday he is deploying troops to Portland, Oregon, “authorizing Full Force, if necessary”.</p><p>Trump made the announcement on social media. The White House did not provide details on Trump’s announcement, including a timeline for the deployment or what troops would be involved .</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/27/portland-oregon-us-military-trump\">Continue reading...</a>",
-      "date_published": "2025-09-27T15:48:25+00:00",
-      "authors": [
-        {
-          "name": "Robert Mackey and agencies"
-        }
-      ],
-      "tags": [
-        "Portland",
-        "US military",
-        "Donald Trump",
-        "Trump administration",
-        "Oregon",
-        "US politics",
-        "West Coast",
-        "US news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -629,7 +978,7 @@
       "id": "f9ea58c2d56463c48c6d5c62eae783faad2a1fde4efd30a72a764011f1bb6545",
       "url": "https://www.timesofisrael.com/zelensky-says-israeli-patriot-missile-defense-system-is-operating-in-ukraine/",
       "title": "Zelensky says Israeli Patriot missile defense system is operating in Ukraine",
-      "content_html": "<p>Israel has denied supplying Kyiv with weapons, saying that the systems were American and returned to the US, which refurbished them and sent them to Ukraine</p>\n<p>The post <a href=\"https://www.timesofisrael.com/zelensky-says-israeli-patriot-missile-defense-system-is-operating-in-ukraine/\">Zelensky says Israeli Patriot missile defense system is operating in Ukraine</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25270467946307-1024x640.jpg\" title=\"Zelensky says Israeli Patriot missile defense system is operating in Ukraine\" width=\"160\" /></figure>",
+      "content_html": "<p>Israel has denied supplying Kyiv with weapons, saying that the systems were American and returned to the US, which reportedly refurbished them and sent them to Ukraine</p>\n<p>The post <a href=\"https://www.timesofisrael.com/zelensky-says-israeli-patriot-missile-defense-system-is-operating-in-ukraine/\">Zelensky says Israeli Patriot missile defense system is operating in Ukraine</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25270467946307-1024x640.jpg\" title=\"Zelensky says Israeli Patriot missile defense system is operating in Ukraine\" width=\"160\" /></figure>",
       "date_published": "2025-09-27T14:54:04+00:00",
       "authors": [],
       "tags": [
@@ -643,28 +992,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "2215150fea51f50350ff45438611be2dcd67cbbcb511663c67b410d29c7483f0",
-      "url": "https://www.elmundo.es/internacional/2025/09/27/68d7a73afc6c831c6c8b45ab.html",
-      "title": "Drones sur les bases militaires et les aéroports au Danemark: une \"humiliation\" avant le sommet de l'UE",
-      "content_html": "Le Premier ministre Frederiksen accuse la Russie et parle de «guerre hybride», mais les vols dans les aéroports et les bases militaires soulignent le manque de préparation du gouvernement dans ces situations",
-      "date_published": "2025-09-27T14:49:54+00:00",
-      "authors": [
-        {
-          "name": "Pedro Poza Maupain"
-        }
-      ],
-      "tags": [
-        "Dinamarca",
-        "Europa",
-        "Noruega"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "bff2b90c8f7c41f8c666964ecefc550a3a6e47f0b59c081eecb95510f0755eaf",
@@ -689,7 +1016,7 @@
     {
       "id": "816075c24439be611f4c5176a9f1d4b78d42826543f7e10cb2536e7e4864a09b",
       "url": "https://ici.radio-canada.ca/sports/2195567/cyclisme-magdeleine-vallieres-mill-mondiaux",
-      "title": "« Un truc de ouf » : Magdeleine Vallières-Mill championne du monde",
+      "title": "Magdeleine Vallières-Mill signe un titre mondial inédit",
       "content_html": "<p>La Canadienne remporte contre toute attente la course au Rwanda.</p>",
       "date_published": "2025-09-27T14:47:24+00:00",
       "authors": [],
@@ -1017,31 +1344,6 @@
       "lang": "en"
     },
     {
-      "id": "9e513223de662cd4833a6f53576393b37e8f604b0e29ecebbdcd955a7246010f",
-      "url": "https://www.theguardian.com/us-news/2025/sep/27/fbi-fires-agents-kneeling-2020-racial-justice-protest",
-      "title": "FBI fires agents who kneeled during 2020 racial justice protest",
-      "content_html": "<p>Agents kneeled in Washington DC during protests following the murder of George Floyd by police in Minneapolis</p><p>The FBI has fired agents who were photographed kneeling during a racial justice protest in Washington DC that followed the 2020 murder of <a href=\"https://www.theguardian.com/us-news/george-floyd\">George Floyd</a> at the hands of Minneapolis police officers, three people familiar with the matter told the Associated Press on Friday.</p><p>The bureau last spring had reassigned the agents but has since fired them, said the people, who insisted on anonymity to discuss personnel matters with the AP.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/27/fbi-fires-agents-kneeling-2020-racial-justice-protest\">Continue reading...</a>",
-      "date_published": "2025-09-27T13:43:16+00:00",
-      "authors": [
-        {
-          "name": "Associated Press"
-        }
-      ],
-      "tags": [
-        "FBI",
-        "Trump administration",
-        "George Floyd",
-        "Protest",
-        "US politics",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a96d6f2776f7e8a2ff4e8d495618baf1baacbb60845390f76e22f05063916620",
       "url": "https://ici.radio-canada.ca/nouvelle/2195542/armes-police-longueuil-intervention-nooran-rezayi",
       "title": "Nooran Rezayi : la présence d’une arme à feu mentionnée à au moins quatre reprises au 911",
@@ -1252,34 +1554,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "644bc53ab18c5cc493073f679a635c51ee1cefe4fe1fab446b66a4a26a977e54",
-      "url": "https://www.lemonde.fr/international/live/2025/09/27/en-direct-gaza-l-armee-israelienne-detruit-la-residence-en-cisjordanie-de-l-auteur-presume-d-une-attaque-a-jerusalem-est_6642982_3210.html",
-      "title": "En direct, Gaza : des rassemblements de milliers de personnes à Berlin, au Cap et à Liverpool",
-      "content_html": "Des manifestations ont été organisées dans ces villes en Angleterre, en Allemagne et en Afrique du Sud, samedi, pour demander la fin des attaques de l’armée israélienne sur l’enclave palestinienne.",
-      "date_published": "2025-09-27T13:02:48+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4d6913665f29faa59e563fc8fd4fcc27edb4529ff4703892b844f576a9556d9d",
-      "url": "https://www.lemonde.fr/international/live/2025/09/27/en-direct-guerre-en-ukraine-les-dernieres-informations_6642198_3210.html",
-      "title": "En direct, guerre en Ukraine : Kiev accuse Moscou d’avoir coupé la centrale nucléaire de Zaporijia du réseau électrique ukrainien",
-      "content_html": "L’Ukraine a accusé la Russie d’avoir coupé la centrale nucléaire de Zaporijia du réseau électrique ukrainien depuis quatre jours et de chercher ainsi à la « voler » en la rattachant au réseau sous contrôle russe, en dépit de risques pour sa sécurité.",
-      "date_published": "2025-09-27T13:02:43+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "89e79db15f6e296d3d68b85b54798971658aac6f4799f6038d31a17fca927fdb",
@@ -1758,8 +2032,8 @@
     {
       "id": "b7a6824648f71fb973c3f9506c546852808e5c51f4719bf6dbe3ed360b4c5993",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/9/27/live-atletico-madrid-vs-real-madrid-la-liga?traffic_source=rss",
-      "title": "Atletico Madrid vs Real Madrid 5-2: La Liga",
-      "content_html": "Follow the build-up, analysis, and live text commentary of the game as Atletico host bitter rivals Real Madrid.",
+      "title": "Atletico Madrid vs Real Madrid 5-2: La Liga – as it happened",
+      "content_html": "All the updates as Atletico thrash bitter rivals Real Madrid at the Metropolitano Stadium, with Alvarez scoring twice.",
       "date_published": "2025-09-27T11:20:00+00:00",
       "authors": [],
       "tags": [
@@ -1914,7 +2188,7 @@
     {
       "id": "1ff3b46a3d576729797ef918b34df90ac54f5f4285779eeb0d8428fb05b30c95",
       "url": "https://elpais.com/internacional/oriente-proximo/2025-09-27/un-israeli-de-viaje-por-espana-es-denunciado-en-la-audiencia-nacional-por-crimenes-de-guerra-en-gaza.html",
-      "title": "Un Israélien voyageant en Espagne est dénoncé à la Cour nationale pour les crimes de guerre à Gaza",
+      "title": "Un soldat de voyage israélien en Espagne est dénoncé à la Cour nationale pour crimes de guerre à Gaza",
       "content_html": "Destruction après une attaque aérienne dans le champ des réfugiés de Shati, à l'ouest de Ciudad de Gaza, le 25 décembre dernier.",
       "date_published": "2025-09-27T10:50:47+00:00",
       "authors": [
@@ -2388,24 +2662,6 @@
       "lang": "en"
     },
     {
-      "id": "677aa05aff7219dd3a9ed773624d2c8bf88633b11203b5f116a8b26d3265c489",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-le-hamas-aurait-accepte-laccord-de-liberation-des-otages-soutenu-par-trump-20250927_WYZFC6A7VJGTLLVPNMVYKB66EY/",
-      "title": "Gaza : le Hamas accepte l’accord de libération des otages soutenu par Trump, annonce le «Haaretz»",
-      "content_html": "Le long de la frontière avec la bande de Gaza, en Israël, jeudi 25 septembre.",
-      "date_published": "2025-09-27T09:56:48+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "229ffdaca69d87afc0b8b57d3950160696fe973ca6d7e38bf364916b30cd8ddc",
       "url": "https://www.france24.com/en/americas/20250927-thiel-musk-and-bannon-named-in-epstein-schedules-released-by-democrats",
       "title": "Musk, Thiel and Bannon named in Epstein schedules released by Democrats",
@@ -2862,10 +3118,10 @@
       "lang": "en"
     },
     {
-      "id": "33318bf847fd59c2992b2a96cc0440144f8d0181f56973f168e6deb05bcdbd85",
-      "url": "https://ici.radio-canada.ca/nouvelle/2195325/coupes-postes-fonctionnaires-impacts-citoyens-quebec",
-      "title": "Le gouvernement Legault envisage de retirer plus de 6000 fonctionnaires",
-      "content_html": "<p>C&#x27;est un scénario étudié par la présidente du Conseil du Trésor pour revenir à l&#x27;équilibre budgétaire en 2030.</p>",
+      "id": "4420aff65442d8d0d5959bdf218145afa8560ae5528114e2f6b168331b25c516",
+      "url": "https://ici.radio-canada.ca/recit-numerique/14056/lettres-gaza-poupee-palestiniennes",
+      "title": "Lettres de Gaza : La poupée disparue",
+      "content_html": "<p>2. «&nbsp;Nous dormions, il était 6h30. J’allais réveiller mes filles quand nous avons entendu un bruit étrange.&nbsp;»</p>",
       "date_published": "2025-09-27T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -2876,10 +3132,10 @@
       "lang": "fr"
     },
     {
-      "id": "4420aff65442d8d0d5959bdf218145afa8560ae5528114e2f6b168331b25c516",
-      "url": "https://ici.radio-canada.ca/recit-numerique/14056/lettres-gaza-poupee-palestiniennes",
-      "title": "Lettres de Gaza : La poupée disparue",
-      "content_html": "<p>2. «&nbsp;Nous dormions, il était 6h30. J’allais réveiller mes filles quand nous avons entendu un bruit étrange.&nbsp;»</p>",
+      "id": "33318bf847fd59c2992b2a96cc0440144f8d0181f56973f168e6deb05bcdbd85",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195325/coupes-postes-fonctionnaires-impacts-citoyens-quebec",
+      "title": "Le gouvernement Legault envisage de retirer plus de 6000 fonctionnaires",
+      "content_html": "<p>C&#x27;est un scénario étudié par la présidente du Conseil du Trésor pour revenir à l&#x27;équilibre budgétaire en 2030.</p>",
       "date_published": "2025-09-27T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -2976,20 +3232,6 @@
       "lang": "en"
     },
     {
-      "id": "823b11f2f3d586cca9ed036c9881615143d822eb780b7825bb0709aacee078fe",
-      "url": "https://www.lemonde.fr/international/article/2025/09/27/apres-les-etats-unis-la-hongrie-classe-a-son-tour-le-mouvement-antifa-comme-organisation-terroriste_6643156_3210.html",
-      "title": "La Hongrie classe à son tour « l’idéologie antifa » comme organisation terroriste",
-      "content_html": "Des manifestants, dont certains affiliés au mouvement antifa, lors d’un rassemblement à New York, le 25 juillet 2021.",
-      "date_published": "2025-09-27T07:49:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1bffb86ce9be059e72be76a06a41d7f1371ac901cdb06b5c450a57790d3852e4",
       "url": "https://www.timesofisrael.com/jennifer-lawrence-condemns-gaza-genocide-at-spains-san-sebastian-film-festival/",
       "title": "Jennifer Lawrence condemns Gaza ‘genocide’ at Spain’s San Sebastian film festival",
@@ -3027,20 +3269,6 @@
       "lang": "en"
     },
     {
-      "id": "1b62365473cb68fd70b3ac25a97c054942fe8c5fc447092aab25e337341c06e4",
-      "url": "https://www.lemonde.fr/international/article/2025/09/27/l-irak-reprend-les-exportations-de-petrole-du-kurdistan-apres-deux-ans-de-blocage_6643153_3210.html",
-      "title": "L’Irak reprend les exportations de pétrole du Kurdistan après deux ans de blocage",
-      "content_html": "Le pipeline irako-turc dans le district de Zakho, dans la province de Dohouk, au Kurdistan irakien, en Irak, le 28 août 2016.",
-      "date_published": "2025-09-27T07:12:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f27a3bce541d104fe4babf2ae5dfa3abd217e1e0085086c1b4da6b738c50972f",
       "url": "https://www.ukrinform.net/rubric-ato/4041032-air-defense-neutralizes-97-of-115-drones-launched-by-russia-against-ukraine-overnight.html",
       "title": "Air defense neutralizes 97 of 115 drones launched by Russia against Ukraine overnight",
@@ -3053,32 +3281,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2544e9344c26ff41b59af8494da8c997f53c69593650a98e443cb9d79533d1de",
-      "url": "https://www.timesofisrael.com/israel-to-send-special-flights-to-romania-for-stranded-pilgrims-who-traveled-to-uman/",
-      "title": "Israel to send special flights to Romania for stranded pilgrims who traveled to Uman",
-      "content_html": "<p>Hundreds stuck in Tulcea after trip to Ukraine due to foreign carrier flight cancellations; El Al says decision taken after discussions between Shas head, Regev, Smotrich</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israel-to-send-special-flights-to-romania-for-stranded-pilgrims-who-traveled-to-uman/\">Israel to send special flights to Romania for stranded pilgrims who traveled to Uman</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250922__76DX7G3__v1__HighRes__UkraineReligionJudaismRussiaConflictWar-e1758953792177-1024x640.jpg\" title=\"Israel to send special flights to Romania for stranded pilgrims who traveled to Uman\" width=\"160\" /></figure>",
-      "date_published": "2025-09-27T07:06:38+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "Nachman of Breslov",
-        "El Al Israel Airlines",
-        "Israir",
-        "Uman",
-        "Romania",
-        "Ukraine",
-        "Shas party",
-        "Aryeh Deri",
-        "Miri Regev",
-        "Bezalel Smotrich"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3179,22 +3381,6 @@
       "lang": "en"
     },
     {
-      "id": "ae2c60fa88426d9aa40c480423541bbeb4ec9fc33cbd8540a4421582aab81b4e",
-      "url": "https://www.ukrinform.net/rubric-ato/4041024-war-update-186-clashes-on-front-lines-in-past-day-onethird-in-pokrovsk-sector.html",
-      "title": "War update: 186 clashes on front lines in past day, one-third in Pokrovsk sector",
-      "content_html": "Ukrainian forces engaged in 186 combat clashes with Russian invaders on September 26.",
-      "date_published": "2025-09-27T06:23:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "35d0e3dc312f3e440344ab1da797c471966bd07d95752b488fea60b86f67f3ea",
       "url": "https://www.theguardian.com/australia-news/2025/sep/27/mother-and-baby-whale-trapped-in-shark-net-off-queenslands-rainbow-beach",
       "title": "Mother and baby whale trapped in shark net off Queensland’s Rainbow Beach",
@@ -3247,22 +3433,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "daa078c6be6152a2c858c02eb1bf9f5094d6cce0b013276ddd012cfa6a1783cb",
-      "url": "https://www.ukrinform.net/rubric-ato/4041012-russians-kill-one-and-wound-nine-residents-of-donetsk-region-over-past-day.html",
-      "title": "Russians kill one and wound nine residents of Donetsk region over past day",
-      "content_html": "Russian troops killed one person and wounded nine others in Donetsk region on September 26.",
-      "date_published": "2025-09-27T05:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3538,8 +3708,8 @@
       "lang": "en"
     },
     {
-      "id": "7e9204ca5048ed44b57657150c893170b81e05f6d214786f3dd2082a267e97d7",
-      "url": "https://www.aljazeera.com/news/2025/9/27/turkiye-group-of-athletes-call-on-fifa-uefa-to-ban-israels-football-team?traffic_source=rss",
+      "id": "b679f6c3af774509fca3c9305bd6afa14315141847f7f297803b4b185ad209e3",
+      "url": "https://www.aljazeera.com/sports/2025/9/27/turkiye-group-of-athletes-call-on-fifa-uefa-to-ban-israels-football-team?traffic_source=rss",
       "title": "Turkiye, group of athletes call on FIFA, UEFA to ban Israel’s football team",
       "content_html": "Pressure is growing on football&#039;s governing bodies to take action against Israel&#039;s national team over the war on Gaza.",
       "date_published": "2025-09-27T04:32:38+00:00",
@@ -3698,38 +3868,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "521c245390246fd04d141d8f8d462004df3cee5a12fb76fb2dd32b549a1c3fca",
-      "url": "https://www.aljazeera.com/news/2025/9/27/venezuela-foreign-ministry-warns-of-immoral-military-threat-from-us?traffic_source=rss",
-      "title": "Venezuela Foreign Ministry warns of ‘immoral military threat’ from US",
-      "content_html": "Minister says US wants his country&#039;s oil and gas amid reports Washington readying to strike &#039;drug targets&#039; in Venezuela.",
-      "date_published": "2025-09-27T02:48:23+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "68c5958310530852dfabc59bcbf61fc41a6ffa271d0c930aa17aa1e2a8fec848",
-      "url": "https://www.aljazeera.com/news/2025/9/27/us-revokes-colombian-president-petros-visa-over-reckless-actions-in-nyc?traffic_source=rss",
-      "title": "US to revoke Colombian President Petro’s visa over call to ‘disobey’ Trump",
-      "content_html": "The Colombian leader was filmed joining thousands of pro-Palestinian protesters outside UN headquarters in New York.",
-      "date_published": "2025-09-27T02:45:50+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4847,22 +4985,6 @@
       "lang": "en"
     },
     {
-      "id": "3481c85208bb79ce3d96b59a8a1eb25daa1c104a53dded773ff969e85a9bdccc",
-      "url": "https://www.dw.com/en/comey-latest-target-of-trump-s-weaponized-justice-department/a-74146390?maca=en-rss-en-all-1573-rdf",
-      "title": "Comey latest target of Trump's weaponized Justice Department",
-      "content_html": "Donald Trump had long sought the prosecution of his former FBI director — now, his Justice Department has delivered. Retribution was at the core of Trump's 2024 campaign. He appears to be carrying it out in power.",
-      "date_published": "2025-09-26T16:09:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fbfe9ad38545c659010f77acb213c64ca927df245de784924e48e2f7c9d2860d",
       "url": "https://www.liberation.fr/international/a-lassemblee-generale-de-lonu-netanyahou-hue-des-delegues-quittent-la-salle-20250926_SYYDL2FLBFE43MDVFHO5B6ESKA/",
       "title": "«Israël ne vous permettra pas de nous imposer un Etat terroriste» : à l’ONU, Nétanyahou, hué, durcit le ton",
@@ -5084,22 +5206,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d50aa5efa8073999bf37137a982afb57ef6d5f4a858236937a9885ec7e9c402f",
-      "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945?maca=en-rss-en-all-1573-rdf",
-      "title": "Trump tariffs: Who stands to lose most from new US pharma duties?",
-      "content_html": "The US president's latest tariff move will see the US impose 100% levies on imports of branded or patented pharmaceutical goods from October 1. What could it mean for global trade?",
-      "date_published": "2025-09-26T15:26:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "1340f923eec884b3221355843e163802b3377c5058060881028b9b2075a0c9e3",
@@ -7216,29 +7322,6 @@
       "lang": "en"
     },
     {
-      "id": "5b990f6a27f5c4ecb9df35ef03ff1ca3af9a78ccff7dfcbfc30ddf67b54cceea",
-      "url": "https://www.elmundo.es/internacional/2025/09/25/68d4dfcefdddff96458b456d.html",
-      "title": "Un bombardement d'Israël à Gaza contre une maison de déplacés tue 11 Palestiniens, dont plusieurs enfants",
-      "content_html": "Israël s'est intensifié ces dernières semaines son offensive contre le territoire palestinien dévasté, forçant des centaines de milliers de personnes à fuir",
-      "date_published": "2025-09-25T06:23:15+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Franja de Gaza",
-        "internacional",
-        "Guerra en Israel"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2241acd2cbd47c3e23317e15794ed114dd643c6abad966d6ed17bfd663ff7195",
       "url": "https://www.liberation.fr/international/moyen-orient/cecile-kohler-jacques-paris-et-lennart-monterlos-macron-evoque-une-perspective-solide-pour-des-francais-detenus-en-iran-20250925_C75YJ3KXR5H37IAS3YWO5UVY5M/",
       "title": "Cécile Kohler, Jacques Paris et Lennart Monterlos : Macron évoque une «perspective solide» pour des Français détenus en Iran",
@@ -7253,28 +7336,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d86b9f3d37fe448b8fa845de25617d5ef7f773534dc0d2691eb09df78c849876",
-      "url": "https://www.elmundo.es/internacional/2025/09/25/68d4d12efdddff66548b45a7.html",
-      "title": "Un tremblement de terre de magnitude 6,3 secoue le Venezuela et endommage plusieurs hôpitaux de la région de Zulia",
-      "content_html": "L'épicentre du premier tremblement de terre a été situé à 40 kilomètres au nord-est de La Ceiba, une population de l'État de Trujillo",
-      "date_published": "2025-09-25T05:41:29+00:00",
-      "authors": [
-        {
-          "name": "Efe"
-        }
-      ],
-      "tags": [
-        "Venezuela",
-        "Terremotos",
-        "internacional"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -7308,24 +7369,6 @@
         "url": "https://elpais.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "f0d84a5e007b4bfdea71063683059b84f47e862bd6d1b9282fd16efbc5cf394c",
-      "url": "https://www.liberation.fr/international/amerique/a-dallas-une-attaque-contre-des-agents-de-la-police-de-limmigration-fait-au-moins-trois-blesses-20250924_NG3GE2CE6FBZZLWWQC53G2RGAA/",
-      "title": "A Dallas, au moins une personne tuée dans une attaque contre un centre de rétention de migrants",
-      "content_html": "La police bloque l'autoroute I-35E à proximité d'un bureau de l'U.S. Immigration and Customs Enforcement après une fusillade, à Dallas, le mercredi 24 septembre 2025.",
-      "date_published": "2025-09-24T21:56:32+00:00",
-      "authors": [
-        {
-          "name": "Charles Delouche-Bertolasi"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "ba70e7ad81e370099b3fb6ae1516b99d2a699cfd6087bdb6a172c0a27cc04c4e",
@@ -8357,22 +8400,6 @@
       "title": "Germany updates: AfD tops poll with highest support ever",
       "content_html": "The far-right Alternative for Germany (AfD) party has topped a nationwide opinion poll. Meanwhile, Kenyan athletes won both the men's and women's races at the Berlin Marathon. DW has the latest from Germany.",
       "date_published": "2025-09-21T11:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "af00839b75efa0999c8c9b0d51e0054711b117cd44ecee6180971f1a4a6ffd0b",
-      "url": "https://www.dw.com/en/berlin-marathon-kenyans-double-in-humid-conditions/a-74080196?maca=en-rss-en-all-1573-rdf",
-      "title": "Berlin Marathon: Kenyans double in humid conditions",
-      "content_html": "The 51st edition of the Berlin Marathon ended with Kenyan victories in both the men's and women's races. Despite Berlin's reputation for fast times, humid conditions meant no world records were endangered this year.",
-      "date_published": "2025-09-21T11:41:00+00:00",
       "authors": [],
       "tags": [
         "News"
@@ -9772,6 +9799,22 @@
       "authors": [],
       "tags": [
         "Sports"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2b953294c9cd3824b87e0d9a02ca603dabfc58ce8ddfa84203dc0b76e2e5efc0",
+      "url": "https://www.dw.com/en/why-some-countries-want-fewer-public-holidays/a-73752589?maca=en-rss-en-all-1573-rdf",
+      "title": "Why some countries want fewer public holidays",
+      "content_html": "Some governments have proposed reducing public holidays, claiming it helps budgets and boosts growth. However, counter-arguments suggest that productivity is not just about days worked and that time off is important.",
+      "date_published": "2025-09-01T11:15:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
