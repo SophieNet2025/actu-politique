@@ -5,30 +5,32 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "68a8ca0c4483c142b6779662c4dc71b8f53fe5b36f645c621486a75f28495288",
-      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-      "title": "At least one dead and nine injured in shooting at Mormon church in Michigan",
-      "content_html": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
-      "date_published": "2025-09-28T19:17:06+00:00",
+      "id": "8bb58d1b7ce5c6b50a6fffc658ddd6f13c747d815ee3a4c33463cafa89bd6c43",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195710/manifestation-nooran-rezayi-mort-police-longueuil",
+      "title": "Manifestation pour l’adolescent tué par un policier à Longueuil",
+      "content_html": "<p>Les manifestants doivent défiler dans les rues de Longueuil jusqu&#x27;au quartier général du service de police.</p>",
+      "date_published": "2025-09-28T19:28:58+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
-      "id": "f02f1e7a08e34d0d6d783e7c9e7d63692eafbf0f844c72b9b539c2948be06edb",
-      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "title": "Moldovans await pivotal election result as leader warns of Russian interference",
-      "content_html": "The vote is seen as critical for Moldova's future EU path, with the two main political forces thought to be neck and neck.",
-      "date_published": "2025-09-28T19:13:35+00:00",
+      "id": "0b97f52cc00e6022b3307cb7bcd969c0aebaf585be45423f087027f84751c527",
+      "url": "https://www.ukrinform.net/rubric-ato/4041515-kupiansk-under-control-of-afu-general-staff.html",
+      "title": "Kupiansk under control of AFU - General Staff",
+      "content_html": "Kupiansk is currently under the control of the Armed Forces of Ukraine.",
+      "date_published": "2025-09-28T19:28:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "War"
+      ],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -37,7 +39,7 @@
       "url": "https://www.elmundo.es/internacional/2025/09/28/68d93185fc6c83be088b4573.html",
       "title": "L'opposition pro -russe appelle des manifestations en Moldavie après les élections législatives",
       "content_html": "Les élections sont modifiées par une cyberattaque massive et de nombreux faux avis de pompe.La police a alerté un plan hypothétique pour générer des perturbations après les suffrages",
-      "date_published": "2025-09-28T19:05:56+00:00",
+      "date_published": "2025-09-28T19:26:12+00:00",
       "authors": [
         {
           "name": "Javier Espinosa"
@@ -53,6 +55,67 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "68a8ca0c4483c142b6779662c4dc71b8f53fe5b36f645c621486a75f28495288",
+      "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+      "title": "At least two dead and several injured in shooting at Mormon church in Michigan",
+      "content_html": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
+      "date_published": "2025-09-28T19:23:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ebb92287c43b9de9df98b70f4ebb120c06a29db55f7936ea079d715aefb475c4",
+      "url": "https://elpais.com/internacional/2025-09-28/los-primeros-resultados-con-un-30-del-voto-escrutado-apuntan-a-una-victoria-europeista-en-moldavia.html",
+      "title": "Les premiers résultats, avec 30% du vote d'examen, indiquent une victoire européenne en Moldavie",
+      "content_html": "Une femme a voté ce dimanche dans un collège électoral de Chisináu, capitale de la Moldavie.",
+      "date_published": "2025-09-28T19:20:39+00:00",
+      "authors": [
+        {
+          "name": "Raúl Sánchez Costa"
+        }
+      ],
+      "tags": [
+        "Guerra de Rusia en Ucrania",
+        "Ucrania",
+        "Rusia",
+        "Guerra",
+        "Conflictos",
+        "Unión Europea",
+        "OTAN",
+        "Ataques militares",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Europa",
+        "Moldavia",
+        "Elecciones",
+        "Elecciones legislativas"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f02f1e7a08e34d0d6d783e7c9e7d63692eafbf0f844c72b9b539c2948be06edb",
+      "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+      "title": "Moldovans await pivotal election result as leader warns of Russian interference",
+      "content_html": "The vote is seen as critical for Moldova's future EU path, with the two main political forces thought to be neck and neck.",
+      "date_published": "2025-09-28T19:13:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
     },
     {
       "id": "92cf155faf073de0e18be20144f63dbb806882702992b52244e240a97aed8289",
@@ -75,6 +138,22 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "144574eabee79bbf36cf128a292452cf9d7178f96152b0d54935358f2b73f5c6",
+      "url": "https://www.ukrinform.net/rubric-economy/4041511-zelensky-hopes-for-adoption-of-19th-sanctions-package-against-russia-and-strong-us-measures.html",
+      "title": "Zelensky hopes for adoption of 19th sanctions package against Russia and strong US measures",
+      "content_html": "President Volodymyr Zelensky hopes that next week the 19th package of sanctions against Russia will be adopted and that the United States will take strong measures to force Russia to change its position.",
+      "date_published": "2025-09-28T18:57:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -314,6 +393,22 @@
       "lang": "fr"
     },
     {
+      "id": "2ee730fb90e24e0df2f2ffd927f6c7e83bc128854529bd3e028d3fec87f6f205",
+      "url": "https://www.ukrinform.net/rubric-society/4041509-medical-team-of-liut-brigade-evacuates-wounded-soldier-from-donetsk-region-to-lviv-in-record-20-hours.html",
+      "title": "Medical team of Liut brigade evacuates wounded soldier from Donetsk region to Lviv in record 20 hours",
+      "content_html": "Medics from the National Police's Joint Assault Brigade “Liut” carried out Ukraine's first evacuation of a seriously wounded soldier from Donetsk Oblast to Lviv in just 20 hours.",
+      "date_published": "2025-09-28T18:34:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "98f2ed57f1b91005ea564da920bf7d159a2daa2cc1e3ffca544394ddee0f6e6d",
       "url": "https://www.lemonde.fr/international/article/2025/09/28/apres-la-liberation-d-un-americain-detenu-en-afghanistan-washington-salue-un-pas-en-avant-important_6643303_3210.html",
       "title": "Après la libération d’un Américain détenu en Afghanistan, Washington salue « un pas en avant important »",
@@ -469,7 +564,7 @@
       "id": "657055ae749b0e272b898963e70280f7843413a32889776d07f27efe632fd833",
       "url": "https://www.theguardian.com/us-news/2025/sep/28/eric-adams-drops-out-new-york-mayor-race",
       "title": "Eric Adams drops out of New York City mayoral race",
-      "content_html": "<p>New York City mayor abandons faltering bid to win re-election in social media video set to strains of song My Way</p><p>The mayor of New York City, Eric Adams, announced on Sunday that he is abandoning his faltering bid to win re-election, just over a month before election day, delivering the message in <a href=\"https://x.com/ericadamsfornyc/status/1972348511892262962\">a social media video</a> set to the strains of My Way.</p><p>Adams, who was trailing in the polls, was elected as a <a href=\"https://www.theguardian.com/us-news/democrats\">Democrat</a> but ran for re-election as an independent after he was indicted on federal corruption charges, which were <a href=\"https://www.theguardian.com/us-news/2025/apr/02/eric-adams-corruption-case-dismissed\">then dropped</a> by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> in exchange for his cooperation on immigration raids.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/28/eric-adams-drops-out-new-york-mayor-race\">Continue reading...</a>",
+      "content_html": "<p>New York City mayor abandons faltering bid to win re-election in social media video set to strains of song My Way</p><p>The mayor of <a href=\"https://www.theguardian.com/us-news/new-york\">New York City</a>, <a href=\"https://www.theguardian.com/us-news/eric-adams\">Eric Adams</a>, announced on Sunday that he is abandoning his faltering bid to win re-election, just over a month before election day, delivering the message in <a href=\"https://x.com/ericadamsfornyc/status/1972348511892262962\">a social media video</a> set to the strains of My Way.</p><p>Adams, who was trailing in the polls, was elected as a <a href=\"https://www.theguardian.com/us-news/democrats\">Democrat</a> but ran for re-election as an independent after he was indicted on federal corruption charges, which were <a href=\"https://www.theguardian.com/us-news/2025/apr/02/eric-adams-corruption-case-dismissed\">then dropped</a> by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> in exchange for his cooperation on immigration raids.</p> <a href=\"https://www.theguardian.com/us-news/2025/sep/28/eric-adams-drops-out-new-york-mayor-race\">Continue reading...</a>",
       "date_published": "2025-09-28T18:12:42+00:00",
       "authors": [
         {
@@ -488,26 +583,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "4aa6928d51a0e23c4f90cab8300beda3c5e37bd237465c2f57d352ad6129eb31",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20250928-%C3%A9tats-unis-fusillade-mortelle-dans-une-%C3%A9glise-trump-d%C3%A9nonce-une-attaque-contre-les-chr%C3%A9tiens",
-      "title": "États-Unis: fusillade mortelle dans une église, Trump dénonce une attaque contre les chrétiens",
-      "content_html": "Le président américain Donald Trump a dénoncé dimanche \"une nouvelle attaque ciblée contre les chrétiens\" après qu'un homme a tiré dans une église mormone du Michigan, faisant au moins un mort et neuf blessés, selon la police.",
-      "date_published": "2025-09-28T18:10:53+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "5639992780eb61677bee15a91bddd15106761cab0a3bd20f97d7c4b809d61e77",
@@ -616,7 +691,7 @@
     {
       "id": "ec921fbe18ce14614de02f31596b835e2d0353785f3fb180828282184a713a13",
       "url": "https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss",
-      "title": "New York City Mayor Eric Adams says he won’t seek re-election",
+      "title": "Eric Adam says he is dropping out of New York city mayoral race",
       "content_html": "Adams drops out, leaving the race between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.",
       "date_published": "2025-09-28T17:54:55+00:00",
       "authors": [],
@@ -685,20 +760,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "9a5cccb51037aaa872dbad58cb2798dc3be4528a590b0a2af9230d181193e9a0",
-      "url": "https://www.france24.com/fr/info-en-continu/20250928-le-pr%C3%A9sident-de-la-r%C3%A9publique-s-%C3%A9l%C3%A8ve-contre-les-menaces-envers-les-magistrats",
-      "title": "Le président de la République s'élève contre les menaces envers les magistrats",
-      "content_html": "Le président de la République a dénoncé dimanche des attaques inadmissibles\", trois jours après la condamnation de Nicolas Sarkozy dans le dossier du financement lybien, qui a donné lieu à des menaces et intimidations contre les magistrats ayant prononcé la décision.",
-      "date_published": "2025-09-28T17:43:09+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "4b529ad359bf2507a7165e12cbab9e979276732718f90003be57aa29a964876b",
@@ -980,7 +1041,7 @@
       "id": "7fd5a833b02ac559257d5aaa623d13166a8e244a2cb1ef648282ba5a06cff07e",
       "url": "https://www.aljazeera.com/news/2025/9/28/multiple-people-injured-in-shooting-at-a-mormon-church-in-michigan-police?traffic_source=rss",
       "title": "One dead, nine injured in shooting at Mormon church in Michigan: Police",
-      "content_html": "Local police in Grand Blanc Township have warned that more victims are likely to be found after a fire at the building.",
+      "content_html": "Police in Grand Blanc Township warn that more victims are likely to be found after a fire at the building.",
       "date_published": "2025-09-28T16:52:04+00:00",
       "authors": [],
       "tags": [
@@ -1246,26 +1307,6 @@
       "lang": "en"
     },
     {
-      "id": "61ac2bea38cdf457f6bd6daad76a767b516a712155705d3570bec6195c4a0e30",
-      "url": "https://www.france24.com/fr/europe/20250928-le-danemark-va-interdire-tous-les-vols-de-drones-civils-la-semaine-prochaine",
-      "title": "Le Danemark va interdire tous les vols de drones civils la semaine prochaine",
-      "content_html": "Le Danemark a ordonné l’interdiction de tous les vols de drones civils sur son territoire la semaine prochaine pour assurer la sécurité du sommet européen qui réunira les chefs de gouvernement à Copenhague, a annoncé dimanche le ministère des Transports.",
-      "date_published": "2025-09-28T16:16:31+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "65b6cb3e48606c63ff7a879cc3aa0f84d86cfa3723b4816f78e46224d884bd40",
       "url": "https://www.theguardian.com/world/2025/sep/28/hundreds-of-russian-missiles-and-drones-hit-ukraine-as-poland-scrambles-jets",
       "title": "Zelenskyy condemns Russia’s ‘vile and cowardly’ 12-hour bombing of Ukraine",
@@ -1382,24 +1423,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "9bbdbda0d723e6580ecbaf680d4305a068d725d5d7ea1e99ed7ff5cb8f87d427",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-gaza-une-infirmi%C3%A8re-am%C3%A9ricaine-filme-la-destruction-d-un-h%C3%B4pital",
-      "title": "Gaza : une infirmière américaine filme la destruction d’un hôpital",
-      "content_html": "🏥 Tandis que les troupes israéliennes poursuivent leur avancée dans la bande de territoire palestinienne, le système de santé de la ville de Gaza est pris pour cible.\n \n⛑️ Vaughan est une infirmière originaire de Seattle. Elle s'est portée volontaire en juillet auprès de l'Association médicale palestinienne d'Australie et de Nouvelle-Zélande, et vient de quitter de l'enclave.\n \n📲 Elle a tenu un journal vidéo de son temps passé à al-Quds, qu'elle a parfois publié sur les réseaux sociaux. Elle a partagé plusieurs dizaines de vidéos avec l’agence de presse américaine Associated Press, qui les a vérifiées.",
-      "date_published": "2025-09-28T15:53:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "6615bd2d3b09b1341991dc1b1bddff1e8a9d3e10755ca7520c5b807d0a8329aa",
@@ -1636,26 +1659,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "71309b7443197bd27aea77b75071f8fdca89105fc56f8382d8c3531630d7559c",
-      "url": "https://www.france24.com/fr/sports/20250928-cyclisme-tadej-pogacar-s-offre-un-nouveau-titre-mondial-au-rwanda",
-      "title": "Cyclisme : Tadej Pogacar s'offre un nouveau titre mondial au Rwanda",
-      "content_html": "Le Slovène Tadej Pogacar s'est imposé, dimanche, à Kigali, pour signer un deuxième titre mondial consécutif sur la course en ligne devant le Belge Remco Evenepoel et l'Irlandais Ben Healy au terme d'un parcours exceptionnellement difficile de 267 km.",
-      "date_published": "2025-09-28T15:19:49+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "928f740c928224104e12ef012c83115977fa641a1323a801eabbc7785535b6c8",
@@ -2078,26 +2081,6 @@
       "lang": "en"
     },
     {
-      "id": "6ad3669a32ae122c4897d4488358667cc09160cf33d4f024407f92598eacc8c9",
-      "url": "https://www.france24.com/fr/moyen-orient/20250928-le-hamas-dit-avoir-perdu-le-contact-avec-deux-otages-%C3%A0-gaza-ville-%C3%A0-cause-des-frappes-isra%C3%A9liennes",
-      "title": "Le Hamas dit avoir perdu le contact avec deux otages à Gaza-ville à cause des frappes israéliennes",
-      "content_html": "La branche armée du Hamas a annoncé, dimanche, avoir perdu le contact avec deux otages dans Gaza-ville, à cause des raids israéliens, selon un communiqué, tandis que les autorités sanitaires locales signalaient des dizaines d’appels désespérés d’habitants dans le besoin.",
-      "date_published": "2025-09-28T14:21:52+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "880c8b465a5cae5d7ac2c99f9745b6fba4c7fe83037798cdb3d8f2f479f21d56",
       "url": "https://www.elmundo.es/internacional/2025/09/28/68d9422be4d4d8985b8b4586.html",
       "title": "L'Italie commence son automne électoral dans plusieurs régions comme essai pour les généraux de 2027",
@@ -2281,42 +2264,6 @@
       "lang": "en"
     },
     {
-      "id": "c87b6ee1be6ba3c833bab930b45cce01b4f7f45fb68632de44a6f79795c52dce",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-apr%C3%A8s-sa-condamnation-nicolas-sarkozy-veut-que-son-honn%C3%AAtet%C3%A9-soit-reconnue",
-      "title": "Après sa condamnation, Nicolas Sarkozy veut que son \"honnêteté\" soit reconnue",
-      "content_html": "Nicolas Sarkozy affirme qu'il n'espère \"en aucun cas\" être gracié après sa condamnation dans l'affaire dite du financement libyen, dans un entretien au JDD où il redit qu'il se battra jusqu'à son \"dernier souffle pour faire reconnaître\" son \"honnêteté\".",
-      "date_published": "2025-09-28T14:01:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "b0d41412a51866e6e7e8ca7b04c1012fd45af815ee3eb05c559e6679dc0a2418",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-les-moldaves-%C3%A9lisent-leurs-d%C3%A9put%C3%A9s-dans-un-scrutin-sous-haute-tension-1",
-      "title": "Les Moldaves élisent leurs députés dans un scrutin sous haute tension",
-      "content_html": "Les Moldaves ont commencé dimanche à élire leurs députés aux législatives qui vont décider de l'avenir de leur pays voisin de l'Ukraine en guerre, entre poursuite sur la voie de l'Union européenne ou un rapprochement avec la Russie, le gouvernement et l'UE accusant Moscou \"d'ingérence profonde\".",
-      "date_published": "2025-09-28T13:56:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3f906a1ac2ed0ce9494bde8f4bcb7c03f1a284344fbad39f8dd03a902d7582ee",
       "url": "https://www.aljazeera.com/opinions/2025/9/28/amid-the-genocide-in-gaza-the-italian-people-made-us-smile?traffic_source=rss",
       "title": "The Italian people made us smile in Gaza",
@@ -2349,24 +2296,6 @@
       "lang": "en"
     },
     {
-      "id": "b50576a671905574bb659c853cd7fc0c2a71fe8552bccba29657662a5c47938f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-ha%C3%AFti-%C3%A0-port-au-prince-capitale-assi%C3%A9g%C3%A9e-par-les-gangs",
-      "title": "Haïti : à Port-au-Prince, capitale assiégée par les gangs",
-      "content_html": "Les journalistes de France 24 Catherine Norris-Trent et Roméo Langlois ont remporté, samedi, le DIG Award 2025, l'une des récompenses les plus prestigieuses du journalisme d'investigation, pour leur reportage \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\".",
-      "date_published": "2025-09-28T13:52:58+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "17cdfa1222a318f195295f96d129bf54e92d990a73e128c87f23d52e0b376f88",
       "url": "https://www.timesofisrael.com/shin-bet-probing-how-it-botched-strike-on-hamas-leaders-in-qatar-report/",
       "title": "Shin Bet probing how it botched strike on Hamas leaders in Qatar – report",
@@ -2386,24 +2315,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "455bc1dae95274de16069a2ddc0f269d96ea9eed5189dbc65e9360426615c819",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-rencontre-avec-hakim-arezki-m%C3%A9daill%C3%A9-d-or-des-jeux-paralympiques",
-      "title": "Rencontre avec Hakim Arezki, médaillé d'or des Jeux paralympiques",
-      "content_html": "Harim Arezki,  joueur cécifoot international français, est notre invité.",
-      "date_published": "2025-09-28T13:48:18+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "0d5a9b1d39f5f4dff7da4277df873574380a898fcaa03a17dc87d2633a066c41",
@@ -2480,26 +2391,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "8d47b5874c0e940171c27c52a25b3329eed5c018ec8d137ed26ced76813518e4",
-      "url": "https://www.france24.com/fr/%C3%A9missions/premi%C3%A8res/20250928-nathan-devers-notre-monde-en-surchauffe-est-au-bord-du-burn-out",
-      "title": "Nathan Devers : \"Notre monde en surchauffe est au bord du burn-out\"",
-      "content_html": "Dans Premières cette semaine, rencontre avec l'écrivain et philosophe Nathan Devers qui publie 'Surchauffe' aux éditions Albin Michel. Dans ce roman introspectif et habité, Nathan Devers, qui est aussi éditeur, chroniqueur et éditorialiste, explore les signaux sous terrains de notre époque contemporaine en surchauffe et au bord du burn-out. Il propose ainsi en littérature le diagnostic de ce qu'il décrit comme le \"mal du siècle\" ou la \"maladie de la modernité\".",
-      "date_published": "2025-09-28T13:32:12+00:00",
-      "authors": [
-        {
-          "name": "Axelle SIMON"
-        }
-      ],
-      "tags": [
-        "Premières"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "e91da652eebc7d452dfb94b45ff18ee93878ff071bab164963762177de9b2ed3",
@@ -3111,26 +3002,6 @@
       "lang": "en"
     },
     {
-      "id": "0bc7c69d075f0324bee216ba5b513fbd7b5345073c990b07f3bee420c5c834a6",
-      "url": "https://www.france24.com/fr/sur-france-24/20250928-france-24-remporte-le-dig-award-pour-ha%C3%AFti-%C3%A0-port-au-prince-capitale-assi%C3%A9g%C3%A9e-par-les-gangs",
-      "title": "France 24 remporte le DIG Award pour \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\"",
-      "content_html": "Les journalistes de France 24 Catherine Norris-Trent et Roméo Langlois ont remporté, samedi, le DIG Award 2025, l'une des récompenses les plus prestigieuses du journalisme d'investigation, pour leur reportage \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\".",
-      "date_published": "2025-09-28T11:07:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Sur FRANCE 24"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ec290a1514640c1e61adc646a8346c34a931138b3bb4138629811b29e119e548",
       "url": "https://www.lemonde.fr/international/article/2025/09/28/au-danemark-des-drones-survolent-des-sites-militaires-pour-la-deuxieme-journee-consecutive_6643269_3210.html",
       "title": "Le Danemark interdit les vols de drones civils après une nouvelle incursion d’objets volants au-dessus de sites militaires",
@@ -3310,24 +3181,6 @@
       "lang": "en"
     },
     {
-      "id": "6041c059143883e2c482d4899de0ab0b0bf9ec5039097e3ab7b13d28029dc78b",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-nouvelle-attaque-russe-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev",
-      "title": "Nouvelle attaque russe en Ukraine, au moins quatre morts à Kiev",
-      "content_html": "L'Ukraine a accusé dimanche la Russie d'avoir lancé dans la nuit une attaque massive avec des centaines de drones et missiles qui ont fait au moins quatre morts dont une fillette de 12 ans et des dizaines de blessés, au moment où la Pologne voisine a mobilisé l'aviation pour sécuriser son espace aérien.",
-      "date_published": "2025-09-28T10:39:55+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6f4d213da7b92fc401ed2f6931a05caf30fc1e21b335bd008ed9355c3cb2b327",
       "url": "https://www.france24.com/en/video/20250928-ukraine-kyiv-hit-by-massive-russian-drone-and-missile-attack",
       "title": "Ukraine: Kyiv hit by massive Russian drone and missile attack",
@@ -3364,42 +3217,6 @@
       "lang": "en"
     },
     {
-      "id": "87439472970998e85e3a8faf997236aec472f788bc9797c3c662a671080ac0be",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-guerre-%C3%A0-gaza-des-frappes-isra%C3%A9liennes-sur-le-camp-de-nousseirat",
-      "title": "Guerre à Gaza : des frappes israéliennes sur le camp de Nousseirat",
-      "content_html": "Des chars israéliens ont pénétré dimanche dans les quartiers résidentiels de la ville de Gaza, alors que les autorités sanitaires locales ont signalé des dizaines d'appels désespérés d'habitants dans le besoin.",
-      "date_published": "2025-09-28T10:35:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bc7875775b5b10debf603f2880b0399b3fd218970055622822527793c330d4d7",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-triple-f%C3%A9minicide-en-argentine-des-milliers-de-manifestants-%C3%A0-buenos-aires",
-      "title": "Triple féminicide en Argentine : des milliers de manifestants à Buenos Aires",
-      "content_html": "Quelques milliers de personnes manifestent samedi dans le centre de Buenos Aires pour réclamer justice et dénoncer les féminicides après le meurtre sordide cette semaine de trois jeunes femmes, une affaire au lien présumé avec le narcotrafic.",
-      "date_published": "2025-09-28T10:33:29+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ad29c6032390dfd588d2fefbc815fca46de6df1ec5511df65f4b70cb5ec5f435",
       "url": "https://www.ukrinform.net/rubric-ato/4041400-russian-attack-on-kyiv-recorded-in-seven-districts-kcma.html",
       "title": "Russian attack on Kyiv recorded in seven districts — KCMA",
@@ -3430,24 +3247,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "533f23b8f0a60905f304d0c492dfd17ccbac48e4660969543168ecd51d112dcc",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-elections-en-moldavie-la-russie-accus%C3%A9-d-ing%C3%A9rence-pendant-la-campagne",
-      "title": "Elections en Moldavie : la Russie accusé d'ingérence pendant la campagne",
-      "content_html": "Les bureaux de vote ont ouvert dimanche en Moldavie pour les élections législatives, qui pourraient voir ce pays voisin de l'Ukraine s'écarter de sa trajectoire pro-européenne actuelle pour se rapprocher de Moscou.",
-      "date_published": "2025-09-28T10:30:31+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "4476b1f4650cfe6dea0763443d886d838acbdd23fdc87e2500014c9b71e50ee7",
@@ -3482,46 +3281,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "88021cc658ce33d75ea6916a26f4722dcc32e04adf17d938405bf0a8bda82e5c",
-      "url": "https://www.france24.com/fr/culture/20250928-mineur-sauv%C3%A9-en-colombie-condamnation-de-sarkozy-ballon-d-or-de-demb%C3%A9l%C3%A9-la-semaine-en-images",
-      "title": "Mineur sauvé en Colombie, condamnation de Sarkozy, Ballon d'Or de Dembélé : la semaine en images",
-      "content_html": "Pour revenir sur l'actualité de la semaine, France 24 vous propose une sélection de photos marquantes. L'ex-président Nicolas Sarkozy a été condamné à cinq ans de prison ferme, des Palestiniens fuient vers le sud de la bande de Gaza pour échapper aux bombardements israéliens, un mineur est secouru en Colombie et Ousmane Dembélé sur le toit du monde du football.",
-      "date_published": "2025-09-28T10:18:32+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Culture"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c9724e22a6faeeb65660833241fd722ca59a39876fcd41df5d429459b6619fb2",
-      "url": "https://www.france24.com/fr/france/20250928-taxe-zucman-3-3-la-bataille-culturelle-sur-la-justice-fiscale-en-passe-d-%C3%AAtre-gagn%C3%A9e",
-      "title": "Taxe Zucman (3/3) : la bataille culturelle sur la justice fiscale en passe d’être gagnée ?",
-      "content_html": "Troisième et dernier volet de notre série sur la taxe Zucman, qui vise à instaurer un impôt à hauteur de 2 % pour les patrimoines supérieurs à 100 millions d'euros. Alors qu’en France elle suscite de vifs débats, France 24 conclut l’examen de cette proposition, portée par la gauche, en soulignant que celle-ci a peut-être permis de remporter une victoire idéologique.",
-      "date_published": "2025-09-28T10:08:34+00:00",
-      "authors": [
-        {
-          "name": "Romain BRUNET"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "9a05ca41dc2b81a753f8541f12bb27b6bc25247d0d98a9feae5510a82a226fcc",
@@ -3741,26 +3500,6 @@
       "lang": "en"
     },
     {
-      "id": "dd551136cbb5e399f45941eea1781d74a37358088de36272bda7768cd85082d6",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20250928-ligue-1-le-psg-de-retour-sur-le-tr%C3%B4ne-mais-d%C3%A9cim%C3%A9-avant-barcelone",
-      "title": "Ligue 1 : le PSG de retour sur le trône mais décimé avant Barcelone",
-      "content_html": "Cinq jours après sa défaite à Marseille, le PSG a dominé Auxerre (2-0) au Parc des Princes, grâce à des buts d'Illya Zabarnyi et Lucas Beraldo. Un succès qui permet aux Parisiens de se hisser de nouveau à la première place de la Ligue 1. Seule ombre au tableau : les blessures de Vitinha et Khvicha Kvaratskhelia, incertains pour le choc face au Barça, mercredi.",
-      "date_published": "2025-09-28T09:36:06+00:00",
-      "authors": [
-        {
-          "name": "L'Equipe TV"
-        }
-      ],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "46198f69b0880fac716205edf92f4794677ad2f99f329e5c6e8f3cec5ec302ea",
       "url": "https://www.france24.com/en/video/20250928-ukraine-zaporizhia-under-heavy-fire-amid-disputed-russian-control",
       "title": "Ukraine: Zaporizhia under heavy fire amid disputed Russian control",
@@ -3827,26 +3566,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "328b395163b97a60cd4e7925bbf4f84568c91f90ffd5e06a7ad1a5eaf7f4611f",
-      "url": "https://www.france24.com/fr/europe/20250928-l%C3%A9gislatives-en-direct-les-moldaves-%C3%A9lisent-leurs-d%C3%A9put%C3%A9s-dans-un-scrutin-sous-haute-tension",
-      "title": "En direct : la Moldavie ferme ses bureaux de vote après un scrutin tendu et des soupçons d'ingérence russe",
-      "content_html": "Les électeurs moldaves ont voté, dimanche, à l'occasion de législatives déterminantes pour la candidature de la Moldavie à l'UE dans un contexte marqué, selon les autorités, par une campagne russe visant à influencer le scrutin. Une ONG surveillant les opérations de vote a rapporté 254 incidents, selon l'agence AP. Suivez notre direct.",
-      "date_published": "2025-09-28T09:28:04+00:00",
-      "authors": [
-        {
-          "name": "Elie SAIKALI"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "922bf113a5d41b40259f007ee64673a0f0721aead5034fa4b946102919958e82",
@@ -3969,78 +3688,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "912bbc03b6cfa6323b4353949d0b6c86aadf199e577793456eb0d04de2c835e2",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-nucl%C3%A9aire-iranien-t%C3%A9h%C3%A9ran-promet-une-r%C3%A9ponse-ferme-apr%C3%A8s-les-sanctions",
-      "title": "Nucléaire iranien : Téhéran promet \"une réponse ferme\" après les sanctions",
-      "content_html": "L'Iran a assuré dimanche qu'il prendrait \"une réponse ferme et appropriée\" après le rétablissement dans la nuit des sanctions de l'ONU liées à son programme nucléaire, levées il y a dix ans.",
-      "date_published": "2025-09-28T08:46:55+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a9a25e562dd9ca1784c0e3af03b5c7194484b0bb151a609964670661e1f328c2",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-menace-%C3%A9lev%C3%A9e-des-drones-l-allemagne-s-engage-dans-une-course-aux-armements",
-      "title": "Menace \"élevée\" des drones : l'Allemagne s'engage dans une course aux armements",
-      "content_html": "Anne Maillet, notre correspondante à Berlin, analyse la situation.",
-      "date_published": "2025-09-28T08:41:00+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "df6150d3eb6ef8510d2259254cf3bda7924ddd5e3f3f4c731f1bea13859cc8e3",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-raids-isra%C3%A9liens-sans-re%C3%A2che-%C3%A0-gaza-au-moins-77-palestiniens-tu%C3%A9s-samedi",
-      "title": "Raids israéliens sans relâche à Gaza : au moins 77 palestiniens tués samedi",
-      "content_html": "Au moins 77 morts dans des frappes israéliennes samedi à Gaza dévasté par près de deux ans de guerre.",
-      "date_published": "2025-09-28T08:37:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9e1fd6f45fc4dbbc70767df559cbe2373e31ff1d826f807f23a2804a8b8fc4b4",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-etats-unis-trump-ordonne-le-d%C3%A9ploiement-de-l-arm%C3%A9e-%C3%A0-portland",
-      "title": "Etats-Unis : Trump ordonne le déploiement de l'armée à Portland",
-      "content_html": "Donald Trump a ordonné samedi le déploiement de l'armée dans une quatrième ville démocrate, Portland, qui connaît depuis plusieurs mois des manifestations contre la police de l'immigration, et autorisé \"l'usage de la force maximale si nécessaire\".",
-      "date_published": "2025-09-28T08:34:09+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "41c20240459fae94105714dc3a1b92f575562db6d10daba6f8b7f1f83b33d3a8",
@@ -4203,22 +3850,6 @@
       "lang": "fr"
     },
     {
-      "id": "fa7e6d97b8d3957f6b5afedc94cca58e09a6861ff9a63221fe6f3ab0edf0e051",
-      "url": "https://www.ukrinform.net/rubric-ato/4041340-zelensky-russia-attacks-ukraine-with-nearly-500-drones-over-40-missiles.html",
-      "title": "Zelensky: Russia attacks Ukraine with nearly 500 drones, over 40 missiles",
-      "content_html": "Overnight and into the morning, Russia launched nearly 500 attack drones and more than 40 missiles, including Kinzhals, at Ukrainian cities. In Kyiv, four people were killed, and at least 40 were injured across Ukraine.",
-      "date_published": "2025-09-28T08:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0f46b9a47fee10260655b5de39a22bce6399af0c5546bdd963577484dc3312b1",
       "url": "https://www.lemonde.fr/international/article/2025/09/28/l-otan-renforce-sa-presence-en-baltique-apres-les-recents-survols-de-drones-au-danemark_6643252_3210.html",
       "title": "L’OTAN renforce sa présence en Baltique après les récents survols de drones au Danemark",
@@ -4265,22 +3896,6 @@
       "lang": "en"
     },
     {
-      "id": "2be629e9eb0a4cc1a2087e49694a3993d4fde46d89fffdeedd3cecb6af60518f",
-      "url": "https://www.ukrinform.net/rubric-ato/4041334-power-outages-two-injured-reported-following-russian-strikes-on-chernihiv-region.html",
-      "title": "Power outages, two injured following Russian strikes on Chernihiv region",
-      "content_html": "In Chernihiv region, two people were injured as a result of Russian shelling. Power outages were recorded in six communities of the region and partially in the town of Nizhyn.",
-      "date_published": "2025-09-28T07:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "81928d0ed2de7ab2c8172bb9027ef8ac70ba46f17d167e6e53287364d19d53d8",
       "url": "https://www.theguardian.com/australia-news/2025/sep/28/crisafulli-insists-on-more-shark-nets-to-protect-human-lives-despite-trapped-mother-and-baby-whale",
       "title": "Crisafulli insists on more shark nets to protect human lives despite trapped mother and baby whale",
@@ -4321,22 +3936,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c600eda60744ef50f6dba7397475aa276478dc10b6f9853d49d1752107a8e47e",
-      "url": "https://www.ukrinform.net/rubric-ato/4041324-death-toll-in-russian-attack-on-kyiv-rises-to-four-ten-injured.html",
-      "title": "Death toll in Russian attack on Kyiv rises to four, ten injured",
-      "content_html": "In Kyiv, as a result of the Russian attack on September 28, four people were killed and ten injured.",
-      "date_published": "2025-09-28T07:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5183,7 +4782,7 @@
       "id": "77a4909e04029ed56916836cff5e70e27e0789d20cc93864544116af24a587fe",
       "url": "https://www.elmundo.es/internacional/2025/09/27/68d7e8bc21efa0033d8b4570.html",
       "title": "Petro propose \"une armée de salut du monde\" tandis que les États-Unis révèlent son visa",
-      "content_html": "Le Département d'État américain retire l'autorisation du président colombien après avoir demandé à l'armée de désobéir aux ordres de Trump, lors d'une marche en faveur de la Palestine à New York",
+      "content_html": "Le Département d'État américain retire l'autorisation du président colombien après avoir demandé à l'armée de désobéir aux ordres de Trump, dans une marche en faveur de la Palestine à New York",
       "date_published": "2025-09-27T17:50:24+00:00",
       "authors": [
         {
@@ -6008,36 +5607,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "150c184d3284d19bf9998bf74c454c1d7c53cfa4476c10d7ce5002f32b833a51",
-      "url": "https://elpais.com/internacional/2025-09-27/trump-avisa-de-nuevas-represalias-contra-sus-adversarios-tras-la-imputacion-del-exdirector-del-fbi.html",
-      "title": "Trump menace de nouvelles représailles contre ses adversaires après l'imputation de l'ancien directeur du FBI",
-      "content_html": "Le président des États-Unis, Donald Trump, à l'Air Force One, avant de partir pour New York au Andrews Joint Base, Maryland (États-Unis), le 26 septembre.",
-      "date_published": "2025-09-27T03:45:01+00:00",
-      "authors": [
-        {
-          "name": "Macarena  Vidal Liy"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Departamento Justicia EE UU",
-        "Pam Bondi",
-        "Justicia",
-        "Fiscalía",
-        "Casa Blanca",
-        "Oposición política",
-        "FBI",
-        "Política",
-        "Políticos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "2039d06b9fed3767d74ee1f3b9871a83249509bd95b5eb21af658f05c7b22ab3",
@@ -7198,7 +6767,7 @@
       "id": "e3ab3957d91b1e345f50e6fc74f5b4c7167333860c01a41605550d6d5e7b7e3a",
       "url": "https://www.elmundo.es/internacional/2025/09/26/68d6431de9cf4ac7468b45a8.html",
       "title": "Un tribunal allemand ordonne à l'extrême droite - le parti AFD pour expulser son siège à Berlin à la fin de 2026",
-      "content_html": "Le propriétaire du bien a dénoncé que la partie a enfreint le contrat pendant la soirée électorale, mais l'AFD considère que c'est un succès car il ne devrait pas aller immédiatement",
+      "content_html": "Le propriétaire a dénoncé que la partie avait enfreint le contrat pendant la soirée électorale, mais l'AFD considère que c'est un succès car il ne devrait pas aller immédiatement",
       "date_published": "2025-09-26T07:59:18+00:00",
       "authors": [
         {
