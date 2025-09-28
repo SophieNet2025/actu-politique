@@ -5,6 +5,57 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "fb5f6b504e56fc70e717f5542745a37631f7baa90ca0218f09e8eb6ef2fd86bd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195680/legault-fouette-troupes-congres-caq-gatineau",
+      "title": "Legault fouette ses troupes au dernier jour du congrès de la CAQ à Gatineau",
+      "content_html": "<p>Son leadership est contesté au sein même de sa base militante, mais François Legault compte se représenter.</p>",
+      "date_published": "2025-09-28T15:38:57+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6d04150b8d10dee527cd6353f4f0183bbd6526b94246d796222877e6f731852d",
+      "url": "https://www.timesofisrael.com/statistics-show-50-of-reservists-spouses-experience-marital-troubles/",
+      "title": "Statistics show 50% of reservists’ spouses experience marital troubles",
+      "content_html": "<p>First state report on families of reservists finds 63% of spouses see a negative change in their children's mental state if parents serve more than 200 days</p>\n<p>The post <a href=\"https://www.timesofisrael.com/statistics-show-50-of-reservists-spouses-experience-marital-troubles/\">Statistics show 50% of reservists&#8217; spouses experience marital troubles</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/05/F250505CG09-e1746447282780-1024x640.jpg\" title=\"Statistics show 50% of reservists&#8217; spouses experience marital troubles\" width=\"160\" /></figure>",
+      "date_published": "2025-09-28T15:23:12+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "2023-2025 Israel-Hamas war",
+        "Israel-Hamas conflict",
+        "2023-2024 Israel-Hezbollah conflict",
+        "Central Bureau of Statistics",
+        "psychology",
+        "children",
+        "children in war"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b48f24d62b04c60b9889aebb59e15eeca549fa692e7fc70e2cd027076b5cb705",
+      "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+      "title": "Swiss voters approve plan for electronic identity cards",
+      "content_html": "Swiss voters previously rejected proposals to introduce digital IDs in 2021",
+      "date_published": "2025-09-28T15:21:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "8f5d954f7d025e7818fe08f81c8e155af51ad40a5d3b9fdee98685b9abf3ce6d",
       "url": "https://www.ukrinform.net/rubric-ato/4041473-war-update-44-clashes-on-frontline-since-morning-pokrovsk-sector-remains-hottest.html",
       "title": "War update: 44 clashes on frontline since morning, Pokrovsk sector remains hottest",
@@ -21,20 +72,24 @@
       "lang": "en"
     },
     {
-      "id": "928f740c928224104e12ef012c83115977fa641a1323a801eabbc7785535b6c8",
-      "url": "https://www.dw.com/en/zurich-votes-to-restrict-leaf-blowers-in-pollution-row/a-74163808?maca=en-rss-en-all-1573-rdf",
-      "title": "Zurich votes to restrict leaf blowers in pollution row",
-      "content_html": "Noisy gas-powered leaf blowers will become a thing of the past in Switzerland's Zurich, after more than 61% of citizens voted in favor of banning them in a referendum.",
-      "date_published": "2025-09-28T15:19:00+00:00",
-      "authors": [],
+      "id": "71309b7443197bd27aea77b75071f8fdca89105fc56f8382d8c3531630d7559c",
+      "url": "https://www.france24.com/fr/sports/20250928-cyclisme-tadej-pogacar-s-offre-un-nouveau-titre-mondial-au-rwanda",
+      "title": "Cyclisme : Tadej Pogacar s'offre un nouveau titre mondial au Rwanda",
+      "content_html": "Le Slovène Tadej Pogacar s'est imposé, dimanche, à Kigali, pour signer un deuxième titre mondial consécutif sur la course en ligne devant le Belge Remco Evenepoel et l'Irlandais Ben Healy au terme d'un parcours exceptionnellement difficile de 267 km.",
+      "date_published": "2025-09-28T15:19:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
       "tags": [
-        "News"
+        "Sports"
       ],
       "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "09133cbc9a2b60cafed57e0e35788bbc8b5ab97c36c0bda905ffe1457203f418",
@@ -208,7 +263,8 @@
         "Europe",
         "Donald Trump",
         "World news",
-        "Trade policy"
+        "Trade policy",
+        "Business"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -484,6 +540,26 @@
       "lang": "en"
     },
     {
+      "id": "6ad3669a32ae122c4897d4488358667cc09160cf33d4f024407f92598eacc8c9",
+      "url": "https://www.france24.com/fr/moyen-orient/20250928-le-hamas-dit-avoir-perdu-le-contact-avec-deux-otages-%C3%A0-gaza-ville-%C3%A0-cause-des-frappes-isra%C3%A9liennes",
+      "title": "Le Hamas dit avoir perdu le contact avec deux otages à Gaza-ville à cause des frappes israéliennes",
+      "content_html": "La branche armée du Hamas a annoncé, dimanche, avoir perdu le contact avec deux otages dans Gaza-ville, à cause des raids israéliens, selon un communiqué, tandis que les autorités sanitaires locales signalaient des dizaines d’appels désespérés d’habitants dans le besoin.",
+      "date_published": "2025-09-28T14:21:52+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "1d98cd9b359225fdebba1828e89e8005521e9472d028b677227aad5bebbca87d",
       "url": "https://www.theguardian.com/music/2025/sep/28/lola-young-collapse-on-stage-festival-new-york",
       "title": "Lola Young ‘doing OK’ after collapsing on stage at festival in New York",
@@ -665,6 +741,42 @@
       "lang": "en"
     },
     {
+      "id": "c87b6ee1be6ba3c833bab930b45cce01b4f7f45fb68632de44a6f79795c52dce",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-apr%C3%A8s-sa-condamnation-nicolas-sarkozy-veut-que-son-honn%C3%AAtet%C3%A9-soit-reconnue",
+      "title": "Après sa condamnation, Nicolas Sarkozy veut que son \"honnêteté\" soit reconnue",
+      "content_html": "Nicolas Sarkozy affirme qu'il n'espère \"en aucun cas\" être gracié après sa condamnation dans l'affaire dite du financement libyen, dans un entretien au JDD où il redit qu'il se battra jusqu'à son \"dernier souffle pour faire reconnaître\" son \"honnêteté\".",
+      "date_published": "2025-09-28T14:01:12+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b0d41412a51866e6e7e8ca7b04c1012fd45af815ee3eb05c559e6679dc0a2418",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-les-moldaves-%C3%A9lisent-leurs-d%C3%A9put%C3%A9s-dans-un-scrutin-sous-haute-tension-1",
+      "title": "Les Moldaves élisent leurs députés dans un scrutin sous haute tension",
+      "content_html": "Les Moldaves ont commencé dimanche à élire leurs députés aux législatives qui vont décider de l'avenir de leur pays voisin de l'Ukraine en guerre, entre poursuite sur la voie de l'Union européenne ou un rapprochement avec la Russie, le gouvernement et l'UE accusant Moscou \"d'ingérence profonde\".",
+      "date_published": "2025-09-28T13:56:47+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "3f906a1ac2ed0ce9494bde8f4bcb7c03f1a284344fbad39f8dd03a902d7582ee",
       "url": "https://www.aljazeera.com/opinions/2025/9/28/amid-the-genocide-in-gaza-the-italian-people-made-us-smile?traffic_source=rss",
       "title": "The Italian people made us smile in Gaza",
@@ -697,6 +809,24 @@
       "lang": "en"
     },
     {
+      "id": "b50576a671905574bb659c853cd7fc0c2a71fe8552bccba29657662a5c47938f",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-ha%C3%AFti-%C3%A0-port-au-prince-capitale-assi%C3%A9g%C3%A9e-par-les-gangs",
+      "title": "Haïti : à Port-au-Prince, capitale assiégée par les gangs",
+      "content_html": "Les journalistes de France 24 Catherine Norris-Trent et Roméo Langlois ont remporté, samedi, le DIG Award 2025, l'une des récompenses les plus prestigieuses du journalisme d'investigation, pour leur reportage \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\".",
+      "date_published": "2025-09-28T13:52:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "17cdfa1222a318f195295f96d129bf54e92d990a73e128c87f23d52e0b376f88",
       "url": "https://www.timesofisrael.com/shin-bet-probing-how-it-botched-strike-on-hamas-leaders-in-qatar-report/",
       "title": "Shin Bet probing how it botched strike on Hamas leaders in Qatar – report",
@@ -716,6 +846,24 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
+    },
+    {
+      "id": "455bc1dae95274de16069a2ddc0f269d96ea9eed5189dbc65e9360426615c819",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-rencontre-avec-hakim-arezki-m%C3%A9daill%C3%A9-d-or-des-jeux-paralympiques",
+      "title": "Rencontre avec Hakim Arezki, médaillé d'or des Jeux paralympiques",
+      "content_html": "Harim Arezki,  joueur cécifoot international français, est notre invité.",
+      "date_published": "2025-09-28T13:48:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "0d5a9b1d39f5f4dff7da4277df873574380a898fcaa03a17dc87d2633a066c41",
@@ -830,6 +978,26 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
+    },
+    {
+      "id": "8d47b5874c0e940171c27c52a25b3329eed5c018ec8d137ed26ced76813518e4",
+      "url": "https://www.france24.com/fr/%C3%A9missions/premi%C3%A8res/20250928-nathan-devers-notre-monde-en-surchauffe-est-au-bord-du-burn-out",
+      "title": "Nathan Devers : \"Notre monde en surchauffe est au bord du burn-out\"",
+      "content_html": "Dans Premières cette semaine, rencontre avec l'écrivain et philosophe Nathan Devers qui publie 'Surchauffe' aux éditions Albin Michel. Dans ce roman introspectif et habité, Nathan Devers, qui est aussi éditeur, chroniqueur et éditorialiste, explore les signaux sous terrains de notre époque contemporaine en surchauffe et au bord du burn-out. Il propose ainsi en littérature le diagnostic de ce qu'il décrit comme le \"mal du siècle\" ou la \"maladie de la modernité\".",
+      "date_published": "2025-09-28T13:32:12+00:00",
+      "authors": [
+        {
+          "name": "Axelle SIMON"
+        }
+      ],
+      "tags": [
+        "Premières"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "e91da652eebc7d452dfb94b45ff18ee93878ff071bab164963762177de9b2ed3",
@@ -1515,20 +1683,6 @@
       "lang": "en"
     },
     {
-      "id": "a6abb3488b080959797168b943544cbd5aaa8c48b78f901f990f0567e0bbbda2",
-      "url": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
-      "title": "Swiss vote on electronic identity cards for second time",
-      "content_html": "An early projection shows voters are evenly split over the policy, which has already been rejected once before.",
-      "date_published": "2025-09-28T11:56:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9b12e151b8ba67ff83ef95687e818ff96962e61a98f9da7558dbd63453c0fc76",
       "url": "https://www.dw.com/en/keir-starmer-urges-labour-to-unite-against-reform-uk/a-74166229?maca=en-rss-en-all-1573-rdf",
       "title": "Keir Starmer urges Labour to unite against Reform UK",
@@ -1725,6 +1879,26 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "0bc7c69d075f0324bee216ba5b513fbd7b5345073c990b07f3bee420c5c834a6",
+      "url": "https://www.france24.com/fr/sur-france-24/20250928-france-24-remporte-le-dig-award-pour-ha%C3%AFti-%C3%A0-port-au-prince-capitale-assi%C3%A9g%C3%A9e-par-les-gangs",
+      "title": "France 24 remporte le DIG Award pour \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\"",
+      "content_html": "Les journalistes de France 24 Catherine Norris-Trent et Roméo Langlois ont remporté, samedi, le DIG Award 2025, l'une des récompenses les plus prestigieuses du journalisme d'investigation, pour leur reportage \"Haïti : à Port-au-Prince, capitale assiégée par les gangs\".",
+      "date_published": "2025-09-28T11:07:45+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sur FRANCE 24"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "ec290a1514640c1e61adc646a8346c34a931138b3bb4138629811b29e119e548",
@@ -1977,6 +2151,24 @@
       "lang": "en"
     },
     {
+      "id": "6041c059143883e2c482d4899de0ab0b0bf9ec5039097e3ab7b13d28029dc78b",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-nouvelle-attaque-russe-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev",
+      "title": "Nouvelle attaque russe en Ukraine, au moins quatre morts à Kiev",
+      "content_html": "L'Ukraine a accusé dimanche la Russie d'avoir lancé dans la nuit une attaque massive avec des centaines de drones et missiles qui ont fait au moins quatre morts dont une fillette de 12 ans et des dizaines de blessés, au moment où la Pologne voisine a mobilisé l'aviation pour sécuriser son espace aérien.",
+      "date_published": "2025-09-28T10:39:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "6f4d213da7b92fc401ed2f6931a05caf30fc1e21b335bd008ed9355c3cb2b327",
       "url": "https://www.france24.com/en/video/20250928-ukraine-kyiv-hit-by-massive-russian-drone-and-missile-attack",
       "title": "Ukraine: Kyiv hit by massive Russian drone and missile attack",
@@ -2037,6 +2229,42 @@
       "lang": "en"
     },
     {
+      "id": "87439472970998e85e3a8faf997236aec472f788bc9797c3c662a671080ac0be",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-guerre-%C3%A0-gaza-des-frappes-isra%C3%A9liennes-sur-le-camp-de-nousseirat",
+      "title": "Guerre à Gaza : des frappes israéliennes sur le camp de Nousseirat",
+      "content_html": "Des chars israéliens ont pénétré dimanche dans les quartiers résidentiels de la ville de Gaza, alors que les autorités sanitaires locales ont signalé des dizaines d'appels désespérés d'habitants dans le besoin.",
+      "date_published": "2025-09-28T10:35:41+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bc7875775b5b10debf603f2880b0399b3fd218970055622822527793c330d4d7",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-triple-f%C3%A9minicide-en-argentine-des-milliers-de-manifestants-%C3%A0-buenos-aires",
+      "title": "Triple féminicide en Argentine : des milliers de manifestants à Buenos Aires",
+      "content_html": "Quelques milliers de personnes manifestent samedi dans le centre de Buenos Aires pour réclamer justice et dénoncer les féminicides après le meurtre sordide cette semaine de trois jeunes femmes, une affaire au lien présumé avec le narcotrafic.",
+      "date_published": "2025-09-28T10:33:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "ad29c6032390dfd588d2fefbc815fca46de6df1ec5511df65f4b70cb5ec5f435",
       "url": "https://www.ukrinform.net/rubric-ato/4041400-russian-attack-on-kyiv-recorded-in-seven-districts-kcma.html",
       "title": "Russian attack on Kyiv recorded in seven districts — KCMA",
@@ -2067,6 +2295,24 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "533f23b8f0a60905f304d0c492dfd17ccbac48e4660969543168ecd51d112dcc",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-elections-en-moldavie-la-russie-accus%C3%A9-d-ing%C3%A9rence-pendant-la-campagne",
+      "title": "Elections en Moldavie : la Russie accusé d'ingérence pendant la campagne",
+      "content_html": "Les bureaux de vote ont ouvert dimanche en Moldavie pour les élections législatives, qui pourraient voir ce pays voisin de l'Ukraine s'écarter de sa trajectoire pro-européenne actuelle pour se rapprocher de Moscou.",
+      "date_published": "2025-09-28T10:30:31+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "4476b1f4650cfe6dea0763443d886d838acbdd23fdc87e2500014c9b71e50ee7",
@@ -2101,6 +2347,46 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "88021cc658ce33d75ea6916a26f4722dcc32e04adf17d938405bf0a8bda82e5c",
+      "url": "https://www.france24.com/fr/culture/20250928-mineur-sauv%C3%A9-en-colombie-condamnation-de-sarkozy-ballon-d-or-de-demb%C3%A9l%C3%A9-la-semaine-en-images",
+      "title": "Mineur sauvé en Colombie, condamnation de Sarkozy, Ballon d'Or de Dembélé : la semaine en images",
+      "content_html": "Pour revenir sur l'actualité de la semaine, France 24 vous propose une sélection de photos marquantes. L'ex-président Nicolas Sarkozy a été condamné à cinq ans de prison ferme, des Palestiniens fuient vers le sud de la bande de Gaza pour échapper aux bombardements israéliens, un mineur est secouru en Colombie et Ousmane Dembélé sur le toit du monde du football.",
+      "date_published": "2025-09-28T10:18:32+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Culture"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c9724e22a6faeeb65660833241fd722ca59a39876fcd41df5d429459b6619fb2",
+      "url": "https://www.france24.com/fr/france/20250928-taxe-zucman-3-3-la-bataille-culturelle-sur-la-justice-fiscale-en-passe-d-%C3%AAtre-gagn%C3%A9e",
+      "title": "Taxe Zucman (3/3) : la bataille culturelle sur la justice fiscale en passe d’être gagnée ?",
+      "content_html": "Troisième et dernier volet de notre série sur la taxe Zucman, qui vise à instaurer un impôt à hauteur de 2 % pour les patrimoines supérieurs à 100 millions d'euros. Alors qu’en France elle suscite de vifs débats, France 24 conclut l’examen de cette proposition, portée par la gauche, en soulignant que celle-ci a peut-être permis de remporter une victoire idéologique.",
+      "date_published": "2025-09-28T10:08:34+00:00",
+      "authors": [
+        {
+          "name": "Romain BRUNET"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "9a05ca41dc2b81a753f8541f12bb27b6bc25247d0d98a9feae5510a82a226fcc",
@@ -2336,6 +2622,26 @@
       "lang": "en"
     },
     {
+      "id": "dd551136cbb5e399f45941eea1781d74a37358088de36272bda7768cd85082d6",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20250928-ligue-1-le-psg-de-retour-sur-le-tr%C3%B4ne-mais-d%C3%A9cim%C3%A9-avant-barcelone",
+      "title": "Ligue 1 : le PSG de retour sur le trône mais décimé avant Barcelone",
+      "content_html": "Cinq jours après sa défaite à Marseille, le PSG a dominé Auxerre (2-0) au Parc des Princes, grâce à des buts d'Illya Zabarnyi et Lucas Beraldo. Un succès qui permet aux Parisiens de se hisser de nouveau à la première place de la Ligue 1. Seule ombre au tableau : les blessures de Vitinha et Khvicha Kvaratskhelia, incertains pour le choc face au Barça, mercredi.",
+      "date_published": "2025-09-28T09:36:06+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "de682f996e37ae24c37b01aa2a7275f2f3196024f17e20fb2e6c710c1776527a",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/9/28/live-india-vs-pakistan-2025-asia-cup-final?traffic_source=rss",
       "title": "LIVE: India vs Pakistan – Asia Cup 2025 final",
@@ -2418,6 +2724,26 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "328b395163b97a60cd4e7925bbf4f84568c91f90ffd5e06a7ad1a5eaf7f4611f",
+      "url": "https://www.france24.com/fr/europe/20250928-l%C3%A9gislatives-en-direct-les-moldaves-%C3%A9lisent-leurs-d%C3%A9put%C3%A9s-dans-un-scrutin-sous-haute-tension",
+      "title": "Législatives moldaves en direct : plusieurs incidents dans le processus électoral, selon une ONG",
+      "content_html": "Les électeurs moldaves sont appelés aux urnes, dimanche, à l'occasion de législatives déterminantes pour la candidature de la Moldavie à l'UE dans un contexte marqué, selon les autorités, par une campagne russe visant à influencer le scrutin. Une ONG surveillant les opérations de vote a rapporté 254 incidents, selon l’agence AP. Suivez notre direct.",
+      "date_published": "2025-09-28T09:28:04+00:00",
+      "authors": [
+        {
+          "name": "Elie SAIKALI"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "acb998df114e943d8efb9b2287840b03d0d16510b64e46fcbc835c41c22534e3",
@@ -2648,6 +2974,78 @@
       "lang": "en"
     },
     {
+      "id": "912bbc03b6cfa6323b4353949d0b6c86aadf199e577793456eb0d04de2c835e2",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-nucl%C3%A9aire-iranien-t%C3%A9h%C3%A9ran-promet-une-r%C3%A9ponse-ferme-apr%C3%A8s-les-sanctions",
+      "title": "Nucléaire iranien : Téhéran promet \"une réponse ferme\" après les sanctions",
+      "content_html": "L'Iran a assuré dimanche qu'il prendrait \"une réponse ferme et appropriée\" après le rétablissement dans la nuit des sanctions de l'ONU liées à son programme nucléaire, levées il y a dix ans.",
+      "date_published": "2025-09-28T08:46:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a9a25e562dd9ca1784c0e3af03b5c7194484b0bb151a609964670661e1f328c2",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-menace-%C3%A9lev%C3%A9e-des-drones-l-allemagne-s-engage-dans-une-course-aux-armements",
+      "title": "Menace \"élevée\" des drones : l'Allemagne s'engage dans une course aux armements",
+      "content_html": "Anne Maillet, notre correspondante à Berlin, analyse la situation.",
+      "date_published": "2025-09-28T08:41:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "df6150d3eb6ef8510d2259254cf3bda7924ddd5e3f3f4c731f1bea13859cc8e3",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-raids-isra%C3%A9liens-sans-re%C3%A2che-%C3%A0-gaza-au-moins-77-palestiniens-tu%C3%A9s-samedi",
+      "title": "Raids israéliens sans relâche à Gaza : au moins 77 palestiniens tués samedi",
+      "content_html": "Au moins 77 morts dans des frappes israéliennes samedi à Gaza dévasté par près de deux ans de guerre.",
+      "date_published": "2025-09-28T08:37:21+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9e1fd6f45fc4dbbc70767df559cbe2373e31ff1d826f807f23a2804a8b8fc4b4",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-etats-unis-trump-ordonne-le-d%C3%A9ploiement-de-l-arm%C3%A9e-%C3%A0-portland",
+      "title": "Etats-Unis : Trump ordonne le déploiement de l'armée à Portland",
+      "content_html": "Donald Trump a ordonné samedi le déploiement de l'armée dans une quatrième ville démocrate, Portland, qui connaît depuis plusieurs mois des manifestations contre la police de l'immigration, et autorisé \"l'usage de la force maximale si nécessaire\".",
+      "date_published": "2025-09-28T08:34:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "41c20240459fae94105714dc3a1b92f575562db6d10daba6f8b7f1f83b33d3a8",
       "url": "https://www.ukrinform.net/rubric-ato/4041359-injury-toll-in-russian-attack-on-zaporizhzhia-rises-to-27.html",
       "title": "Injury toll in Russian attack on Zaporizhzhia rises to 27",
@@ -2662,6 +3060,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "697b61f3127fc00e3bad22d4f679e3c4dda8ac966f5ad60823372b40a5ddb0c7",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-madagascar-nouveau-rassemblement-tendu-dans-la-capitale-antananarivo",
+      "title": "Madagascar : nouveau rassemblement tendu dans la capitale Antananarivo",
+      "content_html": "Plusieurs centaines de manifestants, jeunes pour la plupart, ont à nouveau affronté samedi les forces de l'ordre malgaches dans la capitale Antananarivo, deux jours après qu'une manifestation antigouvernementale interdite a dégénéré en heurts et en pillages.",
+      "date_published": "2025-09-28T08:32:14+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "54a0a01bd4ef0cab8c9ac39446159bf0fcc45d0bc7ea48b0056fca2b744c3079",
@@ -2698,6 +3114,24 @@
       "lang": "en"
     },
     {
+      "id": "a732120f7b62b02398964e8ef8970fae26d61f1ea7cde38f74f8e8095b84dce0",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-bousculade-mortelle-en-inde-foule-trop-dense-et-mauvaise-organisation",
+      "title": "Bousculade mortelle en Inde : foule trop dense et mauvaise organisation",
+      "content_html": "Une bousculade qui a fait des dizaines de morts, lors d'un rassemblement politique dans le sud de l'Inde, s'est produite après que des milliers de personnes ont attendu des heures sous une chaleur torride sans mesure de sécurité adaptées, ont pointé dimanche des responsables et des témoins.",
+      "date_published": "2025-09-28T08:28:44+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "f01ea9dc69ffdea4f36a1a70207da6a5406608dae022cdd8cebb01c6877b73a1",
       "url": "https://www.dw.com/en/typhoon-bualoi-vietnam-warns-of-flash-floods-landslides/a-74164646?maca=en-rss-en-all-1573-rdf",
       "title": "Typhoon Bualoi: Vietnam warns of flash floods, landslides",
@@ -2714,24 +3148,40 @@
       "lang": "en"
     },
     {
-      "id": "6042f8b6ff19b4be9b75dfb10d7aad5d506a1102ec638f9a1c820171879864f3",
-      "url": "https://www.timesofisrael.com/four-dead-in-massive-russian-drone-missile-attack-on-kyiv/",
-      "title": "Four dead in massive Russian drone, missile attack on Kyiv",
-      "content_html": "<p>10 injured in barrage; residential buildings, civilian infrastructure, a medical facility and kindergarten heavily damaged</p>\n<p>The post <a href=\"https://www.timesofisrael.com/four-dead-in-massive-russian-drone-missile-attack-on-kyiv/\">Four dead in massive Russian drone, missile attack on Kyiv</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25271281115791-1024x640.jpg\" title=\"Four dead in massive Russian drone, missile attack on Kyiv\" width=\"160\" /></figure>",
-      "date_published": "2025-09-28T08:26:35+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Russian invasion of Ukraine",
-        "drones",
-        "missile strikes",
-        "Kyiv"
+      "id": "9bd0d2be4f4766ff8a55f8d5ce1685fb985fe10526284f7687660127ffb1b253",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-france-nicolas-sarkozy-affirme-qu-il-n-esp%C3%A8re-en-aucun-cas-%C3%AAtre-graci%C3%A9",
+      "title": "France : Nicolas Sarkozy affirme qu'il n'espère \"en aucun cas\" être gracié",
+      "content_html": "Nicolas Sarkozy affirme qu'il n'espère \"en aucun cas\" être gracié après sa condamnation dans l'affaire dite du financement libyen, dans un entretien au JDD où il redit qu'il se battra jusqu'à son \"dernier souffle pour faire reconnaître\" son \"honnêteté\". Le tribunal correctionnel de Paris a condamné jeudi l'ancien président à cinq ans de prison avec incarcération prochaine pour avoir \"laissé ses plus proches\" collaborateurs démarcher la Libye de Mouammar Kadhafi pour financer sa campagne victorieuse de 2007.",
+      "date_published": "2025-09-28T08:26:43+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
       ],
+      "tags": [],
       "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
+    },
+    {
+      "id": "ac09c35a771f045da8b12413215869908bb6940f7e6ca92a8177b5d5d4741941",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-les-moldaves-%C3%A9lisent-leurs-d%C3%A9put%C3%A9s-dans-un-scrutin-sous-haute-tension",
+      "title": "Les Moldaves élisent leurs députés dans un scrutin sous haute tension",
+      "content_html": "Maria Gerth-Niculescu, correspondante France24 en Modlavie, décrypte la situation.",
+      "date_published": "2025-09-28T08:21:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "4b776f8ed9a456c0d77ec5944d3970064de52690caa8340ba3c13481842aa6bf",
@@ -3162,6 +3612,22 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9ffa30446555ef96a218f7b7467039c7999669ebc48cc6f169f8cd5ac63286a0",
+      "url": "https://www.dw.com/en/zurich-to-vote-on-restricting-leaf-blowers-in-pollution-row/a-74163808?maca=en-rss-en-all-1573-rdf",
+      "title": "Zurich to vote on restricting leaf blowers in pollution row",
+      "content_html": "Noisy gas-powered leaf blowers could become a thing of the past in Switzerland's Zurich, where citizens are taking part in a referendum on banning their use.",
+      "date_published": "2025-09-28T06:55:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -4266,7 +4732,7 @@
       "id": "77a4909e04029ed56916836cff5e70e27e0789d20cc93864544116af24a587fe",
       "url": "https://www.elmundo.es/internacional/2025/09/27/68d7e8bc21efa0033d8b4570.html",
       "title": "Petro propose \"une armée de salut du monde\" tandis que les États-Unis révèlent son visa",
-      "content_html": "Le Département d'État américain retire l'autorisation du président colombien après avoir demandé à l'armée de désobéir aux ordres de Trump, dans une marche en faveur de la Palestine à New York",
+      "content_html": "Le Département d'État américain retire l'autorisation du président colombien après avoir demandé à l'armée de désobéir aux ordres de Trump, lors d'une marche en faveur de la Palestine à New York",
       "date_published": "2025-09-27T17:50:24+00:00",
       "authors": [
         {
@@ -6575,7 +7041,7 @@
       "id": "e3ab3957d91b1e345f50e6fc74f5b4c7167333860c01a41605550d6d5e7b7e3a",
       "url": "https://www.elmundo.es/internacional/2025/09/26/68d6431de9cf4ac7468b45a8.html",
       "title": "Un tribunal allemand ordonne à l'extrême droite - le parti AFD pour expulser son siège à Berlin à la fin de 2026",
-      "content_html": "Le propriétaire a dénoncé que la partie avait enfreint le contrat pendant la soirée électorale, mais l'AFD considère que c'est un succès car il ne devrait pas aller immédiatement",
+      "content_html": "Le propriétaire du bien a dénoncé que la partie a enfreint le contrat pendant la soirée électorale, mais l'AFD considère que c'est un succès car il ne devrait pas aller immédiatement",
       "date_published": "2025-09-26T07:59:18+00:00",
       "authors": [
         {
