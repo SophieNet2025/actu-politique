@@ -7,7 +7,7 @@
     {
       "id": "f02f1e7a08e34d0d6d783e7c9e7d63692eafbf0f844c72b9b539c2948be06edb",
       "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-      "title": "Pro-EU party in Moldova set to win election mired in claims of interference",
+      "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
       "content_html": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
       "date_published": "2025-09-28T23:25:19+00:00",
       "authors": [],
@@ -15,6 +15,34 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "98d756dbfbd65850ddc686a6e6ff27aebdc00ee235ae4ed2c5a6e39f862bdd4c",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared",
+      "title": "Australia news live: Labor’s first deficit not as bad as feared; ‘exhausted’ sailors rescued after two days adrift",
+      "content_html": "<p>Final budget outcome will show the budget is $10bn in the red. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>SA continuing search for missing 4-year-old boy</strong></p><p>Police in South Australia are still searching for a missing four-year-old boy who was last seen at his home near the town of Yunta on Saturday night.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared\">Continue reading...</a>",
+      "date_published": "2025-09-28T23:23:57+00:00",
+      "authors": [
+        {
+          "name": "Nick Visser"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian politics",
+        "Jim Chalmers",
+        "Australian economy",
+        "Labor party",
+        "Coalition",
+        "Business",
+        "New South Wales",
+        "Optus"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -129,34 +157,6 @@
       "lang": "en"
     },
     {
-      "id": "98d756dbfbd65850ddc686a6e6ff27aebdc00ee235ae4ed2c5a6e39f862bdd4c",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared",
-      "title": "Australia news live: Labor’s first deficit not as bad as feared; ‘exhausted’ sailors rescued after two days adrift",
-      "content_html": "<p>Final budget outcome will show the budget is $10bn in the red. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Woman dies after unit fire in Sydney</strong></p><p>A woman died yesterday after a unit fire in Sydney’s west.</p><p>Our two nations don’t just share history and values, a monarch and even our language, but Albo and I are actively working together to make our world more secure and to improve the lives of people in our countries.</p><p>From our Aukus partnership, to the Australian soldiers who are standing shoulder to shoulder with British troops training Ukrainians for the frontline, from our free trade deal and our investment in each other’s countries, creating wealth, jobs and opportunity and boosting our economies.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared\">Continue reading...</a>",
-      "date_published": "2025-09-28T22:54:20+00:00",
-      "authors": [
-        {
-          "name": "Nick Visser"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Australian politics",
-        "Jim Chalmers",
-        "Australian economy",
-        "Labor party",
-        "Coalition",
-        "Business",
-        "New South Wales",
-        "Optus"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "71b4b8f9567202660d582283daade16bcf749217bf5717d7aca6473b802f707a",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20250928-moldavie-le-parti-pro-europ%C3%A9en-largement-en-t%C3%AAte-devant-le-bloc-patriotique-prorusse",
       "title": "Moldavie : le parti pro-européen largement en tête devant le Bloc patriotique prorusse",
@@ -249,7 +249,7 @@
       "id": "3e8aa8244a409ee8aff353afc3515a24ba6b005d907dd6a65696ddbd7d3e8432",
       "url": "https://www.france24.com/en/live-news/20250928-live-moldova-s-pro-eu-party-on-course-to-win-pivotal-election-mired-in-claims-of-russian-meddling",
       "title": "Moldova’s pro-EU party on course to win pivotal election mired in claims of Russian meddling",
-      "content_html": "Moldova's ruling PAS party pulled comfortably ahead of its Russian-leaning rivals in a high-stakes parliamentary election as final results trickled in on Monday, leaving the EU candidate country that borders Ukraine on track towards European integration. The tense vote was overshadowed by accusations of Russian interference in the former Soviet country.",
+      "content_html": "Moldova's ruling PAS party pulled comfortably ahead of its Russian-leaning rivals in a high-stakes parliamentary election as final results trickled in on Monday, leaving the EU candidate country that borders Ukraine on a path towards European integration. The tense vote was marked by a string of incidents and overshadowed by accusations of Russian interference.",
       "date_published": "2025-09-28T22:28:09+00:00",
       "authors": [
         {
@@ -449,6 +449,34 @@
       "lang": "fr"
     },
     {
+      "id": "5056fb25174af13b02c4656f892d540f8d92960f5617c887b385c6f260ccb2d5",
+      "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
+      "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
+      "content_html": "<p>Home secretary to set out proposed tougher conditions including not taking benefits and ‘spotless’ criminal record</p><p>Criminals and people who cannot speak English to “a high standard” will be denied permission to settle in the UK, Shabana Mahmood will announce on Monday, in proposals intended to contain the growing electoral threat from Reform UK.</p><p>In a speech framing herself as a “tough home secretary”, Mahmood will say people seeking indefinite leave to remain (ILR) will have to demonstrate they have integrated and “contributed” to society through national insurance payments and voluntary work, and not relied on benefits.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference\">Continue reading...</a>",
+      "date_published": "2025-09-28T21:30:22+00:00",
+      "authors": [
+        {
+          "name": "Rajeev Syal Home affairs editor"
+        }
+      ],
+      "tags": [
+        "Labour conference 2025",
+        "Shabana Mahmood",
+        "Immigration and asylum",
+        "Labour",
+        "Reform UK",
+        "Nigel Farage",
+        "Home Office",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "fb887d3c1e5199b2ba3eea6a1fb26b65aafb511f82250212c8843842012e7eec",
       "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
       "title": "Rachel Reeves pledges a library in every primary school in England",
@@ -471,34 +499,6 @@
         "Politics",
         "Schools",
         "Society",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5056fb25174af13b02c4656f892d540f8d92960f5617c887b385c6f260ccb2d5",
-      "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
-      "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
-      "content_html": "<p>Home secretary to set out proposed tougher conditions including not taking benefits and ‘spotless’ criminal record</p><p>Criminals and people who cannot speak English to “a high standard” will be denied permission to settle in the UK, Shabana Mahmood will announce on Monday, in proposals intended to contain the growing electoral threat from Reform UK.</p><p>In a speech framing herself as a “tough home secretary”, Mahmood will say people seeking indefinite leave to remain (ILR) will have to demonstrate they have integrated and “contributed” to society through national insurance payments and voluntary work, and not relied on benefits.</p> <a href=\"https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference\">Continue reading...</a>",
-      "date_published": "2025-09-28T21:30:22+00:00",
-      "authors": [
-        {
-          "name": "Rajeev Syal Home affairs editor"
-        }
-      ],
-      "tags": [
-        "Labour conference 2025",
-        "Shabana Mahmood",
-        "Immigration and asylum",
-        "Labour",
-        "Reform UK",
-        "Nigel Farage",
-        "Home Office",
-        "Politics",
         "UK news"
       ],
       "source": {
