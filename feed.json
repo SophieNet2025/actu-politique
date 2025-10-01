@@ -5,11 +5,11 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "e6d9d561182d9fa75fa777b423e209df6a462ea3ed0800ddaec8af6f05bda3ec",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196298/greve-stm-mandataire-special-mediateur-horaire",
-      "title": "Grève à la STM : la partie patronale demande à Québec de nommer un mandataire spécial",
-      "content_html": "<p>Les efforts du médiateur, dont le mandat à pris fin mardi, ont été insuffisants pour dénouer l&#x27;impasse.</p>",
-      "date_published": "2025-10-01T19:30:10+00:00",
+      "id": "b13ee7e6c0970540bc3ccdb95ca2483a10c3cbc8860dd1ca7147b84205509ee9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196430/flottille-gaza-navires-interception-israel",
+      "title": "La flottille pour Gaza est interceptée par la marine israélienne",
+      "content_html": "<p>Il s&#x27;agit du deuxième convoi maritime tentant de «&nbsp;percer le blocus humanitaire israélien&nbsp;» depuis juin.</p>",
+      "date_published": "2025-10-01T20:29:43+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,29 +19,79 @@
       "lang": "fr"
     },
     {
-      "id": "c1e3733f14a771b459457ffc1b090f444b8643b240397af97d041cf1f0419b7e",
-      "url": "https://www.liberation.fr/international/moyen-orient/la-flottille-pour-gaza-sommee-de-changer-de-cap-se-dit-etre-encerclee-par-des-navires-de-guerre-israeliens-20251001_DPHQJ373WJGEJLFB4SSH4CLUSM/",
-      "title": "La flottille pour Gaza «en cours d’arraisonnement» par Israël",
-      "content_html": "Greta Thunberg et d'autres membres de l'équipage à bord d'un navire de la flottille Global Sumud, au large de l'île grecque de Crète, le 25 septembre 2025.",
-      "date_published": "2025-10-01T19:25:51+00:00",
-      "authors": [
-        {
-          "name": "Samuel Ravier-Regnat"
-        }
-      ],
+      "id": "907efa261505baca021baa73c4f839b9ee675a0438a7167957d81944c18daa08",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196442/ministre-caroline-proulx-pause-repos-carmant",
+      "title": "La ministre Caroline Proulx prend une pause professionnelle pour traverser un deuil",
+      "content_html": "<p>C&#x27;est le ministre Lionel Carmant qui prendra le relais des dossiers de Mme Proulx pendant quelques semaines.</p>",
+      "date_published": "2025-10-01T20:26:55+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "49ae9d104eb72d4d56a8db981cf6ebcf8ed0909e799bc9bc6816951d2c90d99d",
+      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
+      "content_html": "Copenhagen is on alert as EU leaders discuss boosting their defences in response to disruption from drones and Russian war planes.",
+      "date_published": "2025-10-01T20:26:37+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c60604ad72c8fd43014529cd294e62cf6d88421761b8cd71719c1aede66ac7e3",
+      "url": "https://www.france24.com/en/americas/20251001-chicago-usa-ice-agents-tear-gas",
+      "title": "‘I couldn’t breathe’: ICE agents fire tear gas at peaceful protesters in Chicago suburb",
+      "content_html": "Immigration and Customs Enforcement (ICE) agents used tear gas, pepper balls, and rubber bullets against protesters gathering outside an immigration detention centre in the Chicago suburb of Broadview on September 26. Observers who attended the protest described ICE's tactics as a violent infringement on freedom of expression.",
+      "date_published": "2025-10-01T20:26:37+00:00",
+      "authors": [
+        {
+          "name": "The FRANCE 24 Observers"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ae9ea47bdea15cce6e75bdd12e5ad414c449d368c75b231d478b82d746ac02f7",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251001-plus-de-400-interpellations-et-pr%C3%A8s-de-300-bless%C3%A9s-au-maroc",
+      "title": "Plus de 400 interpellations et près de 300 blessés au Maroc",
+      "content_html": "Au Maroc, plus de 400 personnes ont été interpellées et près de 300 blessées après des violences qui ont émaillé mardi soir des manifestations dans plusieurs villes réclamant des réformes des secteurs publics de la santé et de l'éducation, a indiqué mercredi le ministère de l'Intérieur.",
+      "date_published": "2025-10-01T20:25:36+00:00",
+      "authors": [
+        {
+          "name": "Meriem AMELLAL"
+        }
+      ],
+      "tags": [
+        "Journal de l'Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
     {
       "id": "4ecee2a1c4a445aecbab3f035ed5db1bedaa41121397b204e6fc10d9228025d1",
       "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates",
-      "title": "Israel tells Gaza aid flotilla to change course as activists say navy is intercepting boats – Middle East crisis live",
-      "content_html": "<p>Global Sumud Flotilla, carrying about 500 activists including Greta Thunberg, says Israeli navy boats approaching; foreign ministry says it asked flotilla to change course </p><p>A number of activists aboard the Global Sumud Flotilla have posted on social media videos saying they have been captured by Israeli forces.</p><p>“If you’re watching this video, it means that I have been violently intercepted by Israeli authorities against my will,” said the American activist David Adler, co-general coordinator of Progressive International, in a pre-recorded video <a href=\"https://x.com/ProgIntl/status/1973453907960742181\">posted by the group’s X account</a>. Adler then called on political parties, labor unions and social movements within the group’s network to mobilize against Israel’s war on Gaza.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-10-01T19:24:34+00:00",
+      "title": "Israeli military boards Global Sumud aid flotilla headed for Gaza – Middle East crisis live",
+      "content_html": "<p>Vessels carrying about 500 activists including Greta Thunberg intercepted about 75 miles off coast of war-torn territory</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza\">Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza</a></p></li></ul><p>Amnesty International UK called on UK Prime Minister Keir Starmer to denounce Israel’s interception of the Global Sumud Flotilla.</p><p>“Reports that Israeli forces have intercepted the Gaza flotilla marks yet another shameful chapter in the brutal and merciless enforcement of Israel’s illegal and immoral 18-year blockade of Gaza and is an attack on international law and basic humanity,” said Kerry Moscogiuri, Amnesty International UK’s director of communications. “Keir Starmer has a serious role to play. With British citizens and British-flagged ships involved, he must not revert to silence as usual.”</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-10-01T20:24:34+00:00",
       "authors": [
         {
           "name": "José Olivares"
@@ -60,14 +110,132 @@
       "lang": "en"
     },
     {
+      "id": "0490773accd2f1a09d43f955c71ae102726da4fe7efd4581c3076d562400b39f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196438/menace-islamisme-radical-jean-francois-roberge-francois-legault-caq",
+      "title": "Islamisme radical : Jean-François Roberge appelle à se « réveiller »",
+      "content_html": "<p>Il explique ce qu&#x27;il entend par radicalisme en référant aux situations décrites dans le rapport sur l&#x27;école <span lang=\"en\" title=\"Anglais\">Bedford.</span></p>",
+      "date_published": "2025-10-01T20:16:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dab2df17ddc116609cfdb29ccd23050fe300f1ec9676380afe05a5b6573d21d1",
+      "url": "https://www.lemonde.fr/international/article/2025/10/01/en-allemagne-trois-membres-presumes-du-hamas-soupconnes-de-preparer-des-attentats-arretes-avec-des-armes_6643997_3210.html",
+      "title": "En Allemagne, trois membres présumés du Hamas soupçonnés de préparer des attentats arrêtés avec des armes",
+      "content_html": "Le ministre de l’intérieur allemand, Alexander Dobrindt (à droite), s’exprime aux côtés du chancelier allemand, Friedrich Merz (au centre), et du ministre des finances et vice-chancelier, Lars Klingbeil, lors d’une conférence de presse à Berlin, le 1er octobre 2025.",
+      "date_published": "2025-10-01T20:14:40+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "56a0b39b87eaba250163a67bd93d92ee49a932eacf61978cc66b366f496f3ef1",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196432/oleoduc-projet-cote-ouest-gouvernement-albertain",
+      "title": "L’Alberta prend la tête d’un projet d’oléoduc vers la côte ouest",
+      "content_html": "<p>En l’absence de proposition privée, le gouvernement albertain agit comme promoteur de la demande.</p>",
+      "date_published": "2025-10-01T20:12:14+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dca2293822ffe299411c592d15f902979bc129a0b72bcf7d43652c0c1d9a5be4",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196404/jane-goodall-mort-deces-primatologue",
+      "title": "La célèbre primatologue britannique Jane Goodall est décédée à l’âge de 91 ans",
+      "content_html": "<p>Elle a été une pionnière de la recherche sur les chimpanzés sauvages.</p>",
+      "date_published": "2025-10-01T20:11:51+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "03b4b8bbb118c21482aeb88a3707b2e10be8f2feca13a3068d43577a477db7d9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196414/negociation-fmsq-fmoq-entente-cadre",
+      "title": "Médiation avec les médecins : Québec suspend l’étude du projet de loi 106",
+      "content_html": "<p>Le ministre de la Santé, Christian Dubé, dit souhaiter donner une chance à la négociation.</p>",
+      "date_published": "2025-10-01T20:09:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c784cba535e029aa6058cf17184afdecb341033e242dcd9ff43bf4c58ab0164f",
+      "url": "https://www.bbc.com/news/videos/c9306139eg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Jane Goodall tells BBC how she became interested in animals",
+      "content_html": "The animal rights activist has died aged 91, after a pioneering career studying chimps.",
+      "date_published": "2025-10-01T20:07:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2865027e0aa761ea43803f6d3ceb78c3bec662ce9ed554ebccd4c231298ad183",
+      "url": "https://www.aljazeera.com/news/2025/10/1/jane-goodall-conservationist-and-chimpanzee-expert-dies-aged-91?traffic_source=rss",
+      "title": "Jane Goodall, conservationist and chimpanzee expert, dies aged 91",
+      "content_html": "The Jane Goodall Institute says famed primatologist died in California during US speaking tour.",
+      "date_published": "2025-10-01T20:05:21+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1bfb35729cc6735df032690652d75f4697c8ceb6f84ad9fb15aa4e76a728f998",
+      "url": "https://www.liberation.fr/international/amerique/le-domaine-de-pablo-escobar-en-partie-cede-par-la-colombie-a-des-victimes-du-conflit-arme-20251001_FKAB42BLPJCP3KXVSWNIXQRXZQ/",
+      "title": "Le domaine de Pablo Escobar en partie cédé par la Colombie à des victimes du conflit armé",
+      "content_html": "L’Hacienda Nápoles, en 2021. L'ancien domaine de Pablo Escobar est louée à un parc d’attractions comprenant un zoo et un complexe hôtelier, où un petit avion qu’Escobar aurait utilisé pour le trafic de cocaïne a été exposé pendant des années.",
+      "date_published": "2025-10-01T20:03:57+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "731a04ecb2a30a7e3db4e757ea1489a5e47a1cf0e16f553270dbdcdb3f3568c0",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news",
       "title": "Trump administration suggests ‘imminent’ layoffs as bipartisan group of senators seek way out of government shutdown – live",
-      "content_html": "<p>Bipartisan collaboration good sign that lawmakers are looking for a way out of the funding lapse; JD Vance falsely claims that Democrats want to fund healthcare for ‘illegal aliens’ </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down\">US government shuts down</a></p></li></ul><p>This shutdown is expected to be worse than previous ones. The impact on federal workers could be even more severe.</p><p>Before Trump’s most recent threat of mass layoffs on Tuesday, a memo released last week by the White House’s office of management and budget told agencies not just to prepare for temporary furloughs <a href=\"https://www.theguardian.com/us-news/2025/sep/25/trump-administration-government-shutdown\">but for permanent layoffs</a> in the event of a shutdown.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news\">Continue reading...</a>",
-      "date_published": "2025-10-01T19:24:14+00:00",
+      "content_html": "<p>Bipartisan collaboration good sign that lawmakers are looking for a way out of the funding lapse; JD Vance falsely claims that Democrats want to fund healthcare for ‘illegal aliens’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/01/government-shutdown-reactions\">Democrats and Republicans blame each other for shutdown</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/01/federal-workers-government-shutdown-trump\">Shutdown leaves federal workers ‘on edge’</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/01/democrats-republicans-government-shutdown\">Analysis – Democrats hold fast on healthcare</a></p></li></ul><p>This shutdown is expected to be worse than previous ones. The impact on federal workers could be even more severe.</p><p>Before Trump’s most recent threat of mass layoffs on Tuesday, a memo released last week by the White House’s office of management and budget told agencies not just to prepare for temporary furloughs <a href=\"https://www.theguardian.com/us-news/2025/sep/25/trump-administration-government-shutdown\">but for permanent layoffs</a> in the event of a shutdown.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news\">Continue reading...</a>",
+      "date_published": "2025-10-01T20:01:07+00:00",
       "authors": [
         {
-          "name": "Lucy Campbell (now); Kirsty McEwen, Tom Ambrose and Tom Bryant (earlier)"
+          "name": "Lois Beckett (now); Lucy Campbell Kirsty McEwen, Tom Ambrose and Tom Bryant (earlier)"
         }
       ],
       "tags": [
@@ -85,6 +253,205 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "bec6b38b0dc6c1a40cc30eccd019c7c0e593b2979ef4dce483d4d85015928a55",
+      "url": "https://www.ukrinform.net/rubric-ato/4042729-during-counteroffensive-operation-in-pokrovsk-district-1778-km-were-liberated-cinc-syrskyi.html",
+      "title": "During counteroffensive operation in Pokrovsk district, 177.8 km² were liberated - CinC Syrskyi",
+      "content_html": "During the entire counteroffensive operation in the Pokrovsk district, 177.8 square kilometers of territory were liberated, and 198.9 square kilometers were cleared of saboteurs.",
+      "date_published": "2025-10-01T19:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f9f083cd4552007949643f264c6714693ac5bc988313a62bc99a9bf002fb9d86",
+      "url": "https://www.france24.com/en/video/20251001-populist-billionaire-babi%C5%A1-joined-politics-for-business-will-not-proactively-oppose-brussels",
+      "title": "Populist billionaire Babiš 'joined politics for business', will not proactively oppose Brussels",
+      "content_html": "Czech billionaire Andrej Babiš is on course for victory over a pro-Western coalition, the latest populist leader in Central Europe to stage an electoral comeback. FRANCE 24's Mark Owen speaks with Romain Le Quiniou of Euro Créative about what the vote could mean for Ukraine. He says that Babiš 'joined politics for business and what he needs the most is EU funds, so he will not take a proactive opposition line to Brussels'.",
+      "date_published": "2025-10-01T19:52:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a521ee3fae03658d46dab489089a6a5bc9e05205b7b8701bcc0191b62b7615f6",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
+      "content_html": "The Global Sumud Flotilla says military personnel had boarded some vessels.",
+      "date_published": "2025-10-01T19:50:39+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e6d9d561182d9fa75fa777b423e209df6a462ea3ed0800ddaec8af6f05bda3ec",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196298/greve-stm-mandataire-special-mediateur-horaire",
+      "title": "Grève à la STM : la partie patronale demande à Québec de nommer un mandataire spécial",
+      "content_html": "<p>Les efforts du médiateur, dont le mandat a pris fin mardi, ont été insuffisants pour dénouer l&#x27;impasse.</p>",
+      "date_published": "2025-10-01T19:48:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "68b137c57b7aa6a3777619e77fae48d6dcc4c8ce0c6ed5b2563d107954bf834b",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
+      "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
+      "content_html": "<p>Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation </p><p>​Metropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments.</p><p>The BBC Panorama programme followed seven months of undercover filming at Charing Cross police station.</p><p><a href=\"https://www.bbc.co.uk/news/articles/cvgn0rjyn2jo#:~:text=Panorama%3A%20Undercover%20in%20the%20Police,busiest%20police%20stations%2C%20Charing%20Cross.&amp;text=Watch%20now%20on%20iPlayer%20or,00%20BST%20on%20BBC%20One.\">Panorama: Undercover in the Police</a> is on BBC One at 9pm on Wednesday and is available on iPlayer</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force\">Continue reading...</a>",
+      "date_published": "2025-10-01T19:46:18+00:00",
+      "authors": [
+        {
+          "name": "Vikram Dodd Police and crime correspondent"
+        }
+      ],
+      "tags": [
+        "Metropolitan police",
+        "Police",
+        "Mark Rowley",
+        "UK news",
+        "Race",
+        "Sadiq Khan",
+        "London",
+        "Politics",
+        "Violence against women and girls"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "da873734742698bfdd726508506798050095182cd0b192981c1b2c9264634000",
+      "url": "https://www.theguardian.com/us-news/2025/oct/01/cleveland-bakery-bread-olympics-france",
+      "title": "Cleveland bakery to represent US in ‘Bread Olympics’ in France",
+      "content_html": "<p>For the first time since 2017 the US will be represented in the event, by Brian Evans of On the Rise Artisanal Breads </p><p>A bakery in Ohio has been chosen to pursue its own slice of worldwide fame by representing the US at the “Bread Olympics”, a prestigious international baking contest.</p><p>The biennial Mondial du Pain event, held in France, brings together elite bakers from around the world to compete in traditional breads, viennoiseries and elaborate artistic creations.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/01/cleveland-bakery-bread-olympics-france\">Continue reading...</a>",
+      "date_published": "2025-10-01T19:43:12+00:00",
+      "authors": [
+        {
+          "name": "Marina Dunbar"
+        }
+      ],
+      "tags": [
+        "Cleveland",
+        "Bread",
+        "Baking",
+        "Food",
+        "Ohio",
+        "France",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b42673cf3d5402e5d65f3bf77ef2e11e37bc5c3cd30e0bd498c42cddef48bd2f",
+      "url": "https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza",
+      "title": "Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza",
+      "content_html": "<p>About 20 Israeli naval ships approached the fleet of more than 40 boats carrying aid, activists on board say</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\"><strong>Middle East crisis live</strong></a></p></li></ul><p>At least two ships from a pro-Palestinian flotilla have been boarded by Israeli forces roughly 75 miles off the coast of Gaza, as it attempted to breach the maritime blockade of the war-torn territory and bring aid.</p><p>Several media outlets reported that other vessels are also being intercepted.</p> <a href=\"https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza\">Continue reading...</a>",
+      "date_published": "2025-10-01T19:35:55+00:00",
+      "authors": [
+        {
+          "name": "Lorenzo Tondo in Palermo and agencies"
+        }
+      ],
+      "tags": [
+        "Gaza flotilla",
+        "Gaza",
+        "Israel",
+        "Palestine",
+        "Middle East and north Africa",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "250ab92f700b8c33062de724a8054dbbc8322c6a5372f654d7a8757d2093c606",
+      "url": "https://www.theguardian.com/world/2025/oct/01/russia-accused-of-sabotaging-last-power-line-into-zaporizhzhia-nuclear-plant",
+      "title": "Russia accused of sabotaging last power line into Zaporizhzhia nuclear plant",
+      "content_html": "<p>Satellite images of damaged area show no sign of shelling that Moscow says prevents repair</p><p>Russia has been accused of deliberately sabotaging the last remaining power line into the Zaporizhzhia nuclear plant, after satellite imagery of the damaged area showed no sign of Ukrainian shelling that Moscow says is preventing a repair.</p><p>Outside power, normally used for cooling, has now been down for a record eight days, forcing the Russian operators of the plant in occupied Ukraine to rely on back-up diesel generators to avoid a meltdown of its six reactor cores.</p> <a href=\"https://www.theguardian.com/world/2025/oct/01/russia-accused-of-sabotaging-last-power-line-into-zaporizhzhia-nuclear-plant\">Continue reading...</a>",
+      "date_published": "2025-10-01T19:30:27+00:00",
+      "authors": [
+        {
+          "name": "Dan Sabbagh"
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Europe",
+        "World news",
+        "Nuclear power",
+        "Russia"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0bde2970d09905fad4f369675ba2f489427f0e9f9493165840e845b49dcafd5d",
+      "url": "https://www.ukrinform.net/rubric-society/4042724-ukraine-returns-group-of-children-from-temporarily-occupied-kherson-region.html",
+      "title": "Ukraine returns group of children from temporarily occupied Kherson region",
+      "content_html": "As part of the Ukrainian President's Bring Kids Back UA initiative, a group of children aged 4 to 17 has been returned from the temporarily occupied territory of the Kherson region.",
+      "date_published": "2025-10-01T19:28:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c1e3733f14a771b459457ffc1b090f444b8643b240397af97d041cf1f0419b7e",
+      "url": "https://www.liberation.fr/international/moyen-orient/la-flottille-pour-gaza-sommee-de-changer-de-cap-se-dit-etre-encerclee-par-des-navires-de-guerre-israeliens-20251001_DPHQJ373WJGEJLFB4SSH4CLUSM/",
+      "title": "La flottille pour Gaza «en cours d’arraisonnement» par Israël",
+      "content_html": "Greta Thunberg et d'autres membres de l'équipage à bord d'un navire de la flottille Global Sumud, au large de l'île grecque de Crète, le 25 septembre 2025.",
+      "date_published": "2025-10-01T19:25:51+00:00",
+      "authors": [
+        {
+          "name": "Samuel Ravier-Regnat"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
     },
     {
       "id": "44dc879e6a332fa40fc654733829ae15bfbac1bbae40b3da44d4ae35a45543ff",
@@ -162,10 +529,10 @@
       "lang": "fr"
     },
     {
-      "id": "d4039cbd9eb47e163564ad50d5cc24a99d1352bce47838d5d01c9e9285bd28dc",
-      "url": "https://www.dw.com/en/middle-east-israel-intercepts-gaza-activist-aid-flotilla/live-74203054?maca=en-rss-en-all-1573-rdf",
-      "title": "Middle East: Israel intercepts Gaza activist aid flotilla",
-      "content_html": "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast. Meanwhile, the Red Cross says Israel's fierce offensive has \"forced\" it to pause activities in Gaza City. DW has more.",
+      "id": "25ba9c459b1da2646bbd78b81ff77bb2206b2caa88a0398221beff87622b8e99",
+      "url": "https://www.dw.com/en/middle-east-israel-intercepts-gaza-aid-flotilla-activists/live-74203054?maca=en-rss-en-all-1573-rdf",
+      "title": "Middle East: Israel intercepts Gaza aid flotilla — activists",
+      "content_html": "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast, the convoy said. Meanwhile, the Red Cross says Israel's offensive has \"forced\" it to pause activities in Gaza City. DW has more.",
       "date_published": "2025-10-01T19:12:00+00:00",
       "authors": [],
       "tags": [
@@ -257,34 +624,6 @@
       "lang": "fr"
     },
     {
-      "id": "68b137c57b7aa6a3777619e77fae48d6dcc4c8ce0c6ed5b2563d107954bf834b",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
-      "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
-      "content_html": "<p>Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation </p><p>​Metropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments.</p><p>The BBC Panorama programme followed seven months of undercover filming at Charing Cross police station.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force\">Continue reading...</a>",
-      "date_published": "2025-10-01T19:06:45+00:00",
-      "authors": [
-        {
-          "name": "Vikram Dodd Police and crime correspondent"
-        }
-      ],
-      "tags": [
-        "Metropolitan police",
-        "Police",
-        "Mark Rowley",
-        "UK news",
-        "Race",
-        "Sadiq Khan",
-        "London",
-        "Politics",
-        "Violence against women and girls"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bae417c20094051f41f49396a552eb6951e9faef93ece2d935105df6f7f6caae",
       "url": "https://www.france24.com/en/video/20251001-new-anti-government-protests-and-strikes-planned-in-france-on-thursday",
       "title": "New anti-government protests and strikes planned in France on Thursday",
@@ -335,20 +674,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "dca2293822ffe299411c592d15f902979bc129a0b72bcf7d43652c0c1d9a5be4",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196404/jane-goodall-mort-deces-primatologue",
-      "title": "La célèbre primatologue britannique Jane Goodall est décédée à l’âge de 91 ans",
-      "content_html": "<p>Elle a été une pionnière de la recherche sur les chimpanzés sauvages.</p>",
-      "date_published": "2025-10-01T18:59:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "ba11a07c34aca760794cece73cff8a05c2b4f5195b5c1a401e0fe1c109743655",
@@ -407,20 +732,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "180d877d181d1dc6b9ed8c378cc1f429633b825156c12c44a21362807fe620cd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196309/marineland-beluga-mort-niagara-ontario",
-      "title": "Marineland : le fédéral refuse la demande d’exporter des bélugas vers la Chine",
-      "content_html": "<p>Pour la première fois en 60&nbsp;ans, à l’exception de la pandémie, Marineland n’a pas ouvert cette année</p>",
-      "date_published": "2025-10-01T18:49:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "bd73b39468a7fa136cd1781c54d3b7ece73c737fecefcee3460aa4a4f2792413",
@@ -491,10 +802,10 @@
       "lang": "en"
     },
     {
-      "id": "6188838f2b845989668fc6788b0baeb102a1a1c8b6fe495eaf99ec268ca8bfe3",
-      "url": "https://www.dw.com/en/why-did-a-small-german-town-uninvite-jewish-journalist-friedman/a-74207782?maca=en-rss-en-all-1573-rdf",
-      "title": "Why did a small German town uninvite Jewish journalist Friedman?",
-      "content_html": "Prominent Jewish journalist Michel Friedman was supposed to read from his latest book in the eastern-German town of Klütz, but was uninvited. Did town officials want to placate the far-right?",
+      "id": "68dc7004cdba33d8d8b6187fce3878160e6e48b29d2cf794b9f13f2fc1d633f4",
+      "url": "https://www.dw.com/en/town-in-northeast-germany-cancels-reading-by-jewish-writer/a-74207782?maca=en-rss-en-all-1573-rdf",
+      "title": "Town in northeast Germany cancels reading by Jewish writer",
+      "content_html": "The prominent Jewish journalist Michel Friedman was supposed to read from his latest book in the northeastern German town of Klütz — but was uninvited. Did town officials want to placate the far right?",
       "date_published": "2025-10-01T18:42:00+00:00",
       "authors": [],
       "tags": [
@@ -524,7 +835,7 @@
       "id": "2367e56f2032247cba331b90e1858946ece40c6a7309c6987ade19a97e0d9af7",
       "url": "https://ici.radio-canada.ca/nouvelle/2196383/action-collective-fonderie-horne-arsenic",
       "title": "La Cour supérieure autorise une action collective contre Glencore et Québec",
-      "content_html": "<p>Les émissions de contaminants dans l&#x27;air par la Fonderie Horne sont au coeur de cette action collective.</p>",
+      "content_html": "<p>Les émissions de contaminants dans l&#x27;air par la Fonderie Horne sont au cœur de cette action collective.</p>",
       "date_published": "2025-10-01T18:36:07+00:00",
       "authors": [],
       "tags": [],
@@ -649,7 +960,7 @@
       "id": "81419997abb9e4af2de2c5ac4e9884d2176ed1d508e5dec59604dc03cf1a3b3d",
       "url": "https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies",
       "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
-      "content_html": "<p>Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour</p><p>The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said.</p><p>The Jane Goodall Institute announced that she had passed away of natural causes while in California as part of a US speaking tour.</p> <a href=\"https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies\">Continue reading...</a>",
+      "content_html": "Goodall’s discoveries ‘revolutionised science’, the institute said.",
       "date_published": "2025-10-01T18:26:56+00:00",
       "authors": [
         {
@@ -809,7 +1120,7 @@
       "id": "f48660907dceddd68ed76a4045020324574dcacfc8add7f6db3f24ea601957bf",
       "url": "https://www.theguardian.com/us-news/2025/oct/01/democrats-jb-pritzker-trump-putin-immigration",
       "title": "Democrats liken Trump to Putin after call to use US cities for military training",
-      "content_html": "<p>Illinois governor JB Pritzker and others condemn the US president for suggesting cities be used as military training grounds</p><p>A leading <a href=\"https://www.theguardian.com/us-news/democrats\">Democrat</a> has compared Donald Trump to Russian dictator Vladimir Putin after the US president <a href=\"https://zpstrategies.us21.list-manage.com/track/click?u=abfa3589981adf5348ff20f1c&amp;id=b25801bfe3&amp;e=223fc5f871\">told</a> military leaders on Tuesday that the armed forces should use US cities as “training grounds”.</p><p>JB Pritzker, the governor of Illinois, which is bracing for Trump to deploy national guard troops to his state, questioned the president’s mental health and accused him of behaving like an autocrat.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/01/democrats-jb-pritzker-trump-putin-immigration\">Continue reading...</a>",
+      "content_html": "<p>Illinois governor JB Pritzker and others condemn president for suggesting cities be used as military training grounds</p><p>A leading <a href=\"https://www.theguardian.com/us-news/democrats\">Democrat</a> has compared Donald Trump to Russian dictator Vladimir Putin after the US president <a href=\"https://zpstrategies.us21.list-manage.com/track/click?u=abfa3589981adf5348ff20f1c&amp;id=b25801bfe3&amp;e=223fc5f871\">told</a> military leaders on Tuesday that the armed forces should use US cities as “training grounds”.</p><p>JB Pritzker, the governor of Illinois, which is bracing for Trump to deploy national guard troops to his state, questioned the president’s mental health and accused him of behaving like an autocrat.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/01/democrats-jb-pritzker-trump-putin-immigration\">Continue reading...</a>",
       "date_published": "2025-10-01T18:12:46+00:00",
       "authors": [
         {
@@ -860,30 +1171,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ad91e7a34c7d8c58d7c2f07d8c2d524d206c9a6a129a98fc8a19f3f12746c2bd",
-      "url": "https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook",
-      "title": "Federal Reserve governor will keep job for now despite Trump’s bid to remove her",
-      "content_html": "<p>Supreme court defers action on request to remove Lisa Cook from post, at least until it hears oral arguments on case</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updates-latest-news\">US government shutdown – live updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/business/2025/sep/25/lisa-cook-federal-reserve-supreme-court-trump\">Lisa Cook</a>, the US Federal Reserve governor, will keep her job for now, despite <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> extraordinary bid to remove her from the central bank’s board with immediate effect.</p><p>The US supreme court deferred action on the Department of Justice’s request to allow the president to fire Cook, at least until it hears oral arguments on the case in January.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/01/federal-reserve-supreme-court-lisa-cook\">Continue reading...</a>",
-      "date_published": "2025-10-01T18:10:54+00:00",
-      "authors": [
-        {
-          "name": "Callum Jones in New York and Shrai Popat in Washington"
-        }
-      ],
-      "tags": [
-        "US supreme court",
-        "Federal Reserve",
-        "US news",
-        "Donald Trump",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "1c9f488972a294d9f1efff1a191b0f6fe8c9a8ca955458be3498836bb07c7114",
@@ -941,7 +1228,11 @@
       "title": "‘A life of captivity’: Canada refuses marine park’s request to export its whales to China",
       "content_html": "<p>Fisheries minister says rehoming Marineland’s cetaceans in China would only ‘perpetuate the treatment’ the whales have endured</p><p><a href=\"https://www.theguardian.com/world/canada\">Canada</a>’s government has refused a request by the beleaguered Marineland theme park to export its remaining 30 beluga <a href=\"https://www.theguardian.com/environment/whales\">whales</a> to China due to concerns that the whales will face further mistreatment.</p><p>Marineland, an amusement park, zoo and aquarium in Niagara Falls, has one of the largest captive whale populations in the world, and has long been mired in controversy amid reports of <a href=\"https://www.theguardian.com/environment/2025/jan/14/last-captive-whales-canada-marineland-ontario-beluga-deaths\">poor conditions</a> for the animals on display.</p> <a href=\"https://www.theguardian.com/world/2025/oct/01/canada-marineland-beluga-whales-\">Continue reading...</a>",
       "date_published": "2025-10-01T18:02:14+00:00",
-      "authors": [],
+      "authors": [
+        {
+          "name": "Olivia Bowden in Toronto"
+        }
+      ],
       "tags": [
         "Canada",
         "Whales",
@@ -1865,7 +2156,7 @@
       "id": "9b696df25e4d7c152127197c24e0cbbbc17927f772e9bb1f24b3617f8331f5f4",
       "url": "https://www.lemonde.fr/international/live/2025/10/01/en-direct-gaza-l-armee-israelienne-dit-avoir-pris-le-controle-du-corridor-de-netzarim-coupant-de-fait-la-bande-de-gaza-en-deux_6642982_3210.html",
       "title": "EN DIRECT, Gaza : la flottille humanitaire Global Sumud est en cours d’arraisonnement par Israël, confirme Jean-Noël Barrot",
-      "content_html": "La Global Sumud Flotilla, composée de 500 personnes sur une cinquantaine de petits navires, lors de son passage en Grèce, le 26 septembre 2025.",
+      "content_html": "Des militants grecs du mouvement Global Sumud Flotilla surveillent la flottille pour Gaza depuis une salle de contrôle, à Athènes, en Grèce, le 1er octobre 2025.",
       "date_published": "2025-10-01T16:36:28+00:00",
       "authors": [],
       "tags": [],
@@ -2075,20 +2366,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ffff87d8f7005860ed121810c0a96ed8bd93e79c0e9a9490dd038304ec47c29d",
-      "url": "https://www.bbc.com/news/articles/cwyr2lwg1rjo?at_medium=RSS&at_campaign=rss",
-      "title": "Activists say Gaza flotilla circled by Israeli warship",
-      "content_html": "The Global Sumud Flotilla accused an Israeli vessel of steering \"dangerously close\" to one of its boats.",
-      "date_published": "2025-10-01T16:22:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "8f2bd0898224cf4e61a83b5e91dd8335b89d4f92d06f467d394facbc02b6b307",
@@ -2573,26 +2850,6 @@
       "lang": "fr"
     },
     {
-      "id": "5a572fb82581fb4ee3cf799394e8d820de55e8b074732765c1d78f2e2a5ce58c",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20251001-la-fonte-des-glaciers-suisses-s-acc%C3%A9l%C3%A8re-sous-l-effet-du-changement-climatique",
-      "title": "La fonte des glaciers suisses s'accélère, sous l'effet du changement climatique",
-      "content_html": "Très touchés par le réchauffement climatique, les glaciers suisses ont perdu un quart de leur volume en seulement dix ans, alors que plus de 1100 d'entre eux ont disparu depuis 1970. Un recul qui s’inscrit dans une série de records enregistrés ces dernières années, avec des conséquences concrètes sur les réserves d'eau douce, le risque de déstabilisation des montagnes ou encore le tourisme.",
-      "date_published": "2025-10-01T15:43:13+00:00",
-      "authors": [
-        {
-          "name": "Noémie ROCHE"
-        }
-      ],
-      "tags": [
-        "Élément Terre, la quotidienne"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0f54b81c4d051590e3c46baecaabe83235deee0a012e7e7c82b101b3fae39537",
       "url": "https://www.theguardian.com/world/2025/sep/30/central-philippines-hit-by-powerful-earthquake",
       "title": "Philippines earthquake death toll rises to at least 69 as Cebu hospitals struggle",
@@ -2702,33 +2959,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "268ba7112bea5a853b91ffd9444f5bc06592ab8a0785ad231fae751596651544",
-      "url": "https://www.theguardian.com/artanddesign/2025/oct/01/salvador-dali-carabinieri-italy-parma-authenticity-doubts",
-      "title": "Italy art police seize 21 suspected fake works from Salvador Dalí show",
-      "content_html": "<p>Squad confiscates works from Parma exhibition after consulting Gala-Salvador Dalí Foundation in Catalonia</p><p>Italy’s art squad on Tuesday seized 21 artworks from a major exhibition in Parma dedicated to works by Salvador Dalí on suspicion they were falsely attributed to the Spanish surrealist.</p><p>The show, entitled Dalí, Between Art and Myth, had only been open for a few days at <a href=\"https://www.artribune.com/arti-visive/arte-contemporanea/2025/09/parma-mostra-salvador-dali/\">Palazzo Tarasconi</a> before police confiscated the allegedly forged works, including drawings, tapestries and engravings.</p> <a href=\"https://www.theguardian.com/artanddesign/2025/oct/01/salvador-dali-carabinieri-italy-parma-authenticity-doubts\">Continue reading...</a>",
-      "date_published": "2025-10-01T15:24:54+00:00",
-      "authors": [
-        {
-          "name": "Angela Giuffrida in Rome"
-        }
-      ],
-      "tags": [
-        "Salvador Dalí",
-        "Italy",
-        "Museums",
-        "Exhibitions",
-        "Art",
-        "Culture",
-        "Art and design",
-        "Europe"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -4101,20 +4331,6 @@
       "lang": "en"
     },
     {
-      "id": "49ae9d104eb72d4d56a8db981cf6ebcf8ed0909e799bc9bc6816951d2c90d99d",
-      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
-      "content_html": "Copenhagen is on alert as EU leaders discuss boosting their defences in response to disruption from drones and Russian war planes.",
-      "date_published": "2025-10-01T12:45:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "108c65fb7b90356792ae220411409d2295982e73252050f35dca33bfaf5a728d",
       "url": "https://www.ukrinform.net/rubric-polytics/4042570-zelensky-invites-princess-anne-to-summit-of-international-coalition-for-return-of-ukrainian-children.html",
       "title": "Zelensky invites Princess Anne to summit of International Coalition for Return of Ukrainian Children",
@@ -4149,40 +4365,6 @@
       "lang": "en"
     },
     {
-      "id": "c03e6903a3b2462b4d527b70303a1af47c3cf89ae03dd7127507411ff8f528a3",
-      "url": "https://www.france24.com/en/video/20251001-the-journey-of-dharambir-nain-a-gold-medalist-at-the-paris-paralympic-games",
-      "title": "The journey of Dharambir Nain, a gold medalist at the Paris Paralympic Games",
-      "content_html": "A gold medal at the Paris Paralympic Games, a bronze at the World Championships, and two silver medals at the Asian Championships — this is the impressive record of Dharambir Nain, 36 years old. On September 4, 2024, he made history by winning gold at the Paris Paralympics in the F51 category, which includes seated throwing events. Now, he will aim for gold once again — this time at home, in New Delhi, during the World Para Athletics Championships starting September 27. Report by Octave Levasseur, Alban Alvarez, and Poornima Garg.",
-      "date_published": "2025-10-01T12:38:13+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "03035b3db8fb4108330cdc7863ae3c26703a3654b37fa6dd4eabe235ff4881ad",
-      "url": "https://www.aljazeera.com/news/2025/10/1/can-trump-save-argentinas-crisis-stricken-economy-as-he-hopes?traffic_source=rss",
-      "title": "Can Trump save Argentina’s crisis-stricken economy as he hopes?",
-      "content_html": "The US is planning to extend a $20 billion loan to Argentina in support to President Javier Milei.",
-      "date_published": "2025-10-01T12:34:38+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "99f8f489eef67dbb4ec25034f63ab59af78bb1a81a06b8cc5f802a300a7fd5ab",
       "url": "https://www.dw.com/en/greece-nationwide-strikes-disrupts-services-across-country/a-74201534?maca=en-rss-en-all-1573-rdf",
       "title": "Greece: Nationwide strikes disrupts services across country",
@@ -4195,24 +4377,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5b6937e56aa32cbe508278c168dfa297e2e11c2f4ecf03f4927bdf40a0969314",
-      "url": "https://www.france24.com/en/video/20251001-us-government-shutdown-begins-as-nation-faces-new-period-of-uncertainty",
-      "title": "US: Government shutdown begins as nation faces new period of uncertainty",
-      "content_html": "Roughly 750,000 federal workers are expected to be furloughed, some potentially fired by Trump's Republican administration. Many offices will be shuttered, perhaps permanently, as Trump vows to “do things that are irreversible, that are bad” as retribution. His deportation agenda is expected to run full speed ahead, while education, environmental and other services sputter. The economic fallout is expected to ripple nationwide.",
-      "date_published": "2025-10-01T12:31:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4442,22 +4606,6 @@
       "lang": "fr"
     },
     {
-      "id": "149951ea89ed2968701dec475c477eea53b80f3db5adc349df567e1ee965d564",
-      "url": "https://www.ukrinform.net/rubric-economy/4042550-ukraine-receives-further-eur-4b-from-eu-under-g7-loan-scheme.html",
-      "title": "Ukraine receives further EUR 4B from EU under G7 loan scheme",
-      "content_html": "The European Commission has disbursed the ninth tranche of its exceptional Macro-Financial Assistance (MFA) loan to Ukraine, worth EUR 4 billion.",
-      "date_published": "2025-10-01T11:41:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "799853c28ecb7f28c3fe263aca0526a4ebfcb0611e81f1093495f6784c4cc0ee",
       "url": "https://www.bbc.com/news/articles/ckgqpnx7577o?at_medium=RSS&at_campaign=rss",
       "title": "Kenya offers reward as anger grows over failure to arrest suspected serial killer",
@@ -4512,22 +4660,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ff2007ba01506dbcc37c24478d21a58542d5caf8d2d90ee0c24e6b74ab8747ab",
-      "url": "https://www.ukrinform.net/rubric-ato/4042521-market-houses-garages-burn-in-six-fires-in-kharkiv-region-after-shelling.html",
-      "title": "Market, houses, garages burn in six fires in Kharkiv region after shelling",
-      "content_html": "Rescuers extinguished fires caused by night shelling in the Kharkiv region.",
-      "date_published": "2025-10-01T11:27:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4747,20 +4879,6 @@
       "lang": "en"
     },
     {
-      "id": "0724e2bf63f91dc9c3c68456ace607397677ff17d961fb327adedb6a8868f5b0",
-      "url": "https://www.lemonde.fr/international/article/2025/10/01/en-afghanistan-les-talibans-coupent-l-acces-a-internet-et-a-la-telephonie-mobile_6643873_3210.html",
-      "title": "En Afghanistan, les talibans rétablissent à l’accès à Internet et à la téléphonie mobile après trois jours de black-out",
-      "content_html": "Une antenne de télécommunications, à Kaboul, le 29 septembre 2025.",
-      "date_published": "2025-10-01T10:38:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ca1841195714c5b44e2e2bd5c957f2ded8ec8caa8e3ac4ad9219e79707f6bc78",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dc84d121efa0736d8b457a.html",
       "title": "Les morts au centre des Philippines sont ressuscités après un tremblement de terre de magnitude 6.9",
@@ -4978,20 +5096,6 @@
       "lang": "en"
     },
     {
-      "id": "5fe951b381b24773a335ee3df22c2b77c436453bdb8472f4dc7b1b8de41d1063",
-      "url": "https://ici.radio-canada.ca/sports/2183646/padel-sport-mondial-canada-croissance",
-      "title": "Après le pickleball, le padel débarque au Canada",
-      "content_html": "<p>Ce sport, qui connait la plus grosse croissance mondiale, compte quelque 30&nbsp;millions d&#x27;adeptes.</p>",
-      "date_published": "2025-10-01T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e77041036f41f85fb9205c386abeaa797289fb23e3c25a8b94acd54878f7a20a",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dcec4621efa003338b4577.html",
       "title": "Les esclaves palestiniens «invisibles» qui risquent la vie de travailler illégalement en Israël: \"Vous payez un pot-de-vin, vous sautez le mur et si vous avez de la chance, ils ne vous tirent pas sur\"",
@@ -5128,10 +5232,10 @@
       "lang": "en"
     },
     {
-      "id": "7b786565e5186ea20a4fafdb9eff7ae65d86b394e628b7e78c500f2a2465663f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196092/alcool-cancer-aucun-avertissement-requis-sante-canada",
-      "title": "Alcool et cancer : aucun avertissement requis, selon Santé Canada",
-      "content_html": "<p>Les avertissements de risques de cancer ne sont pas requis sur les bouteilles d’alcool.</p>",
+      "id": "13e98d18e0613187b8664b75800ee03260c397a8017f9ad89c60694231835b4b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2195918/senatrice-amina-gerba-anglais-vancouver",
+      "title": "22 000 $ pour des cours d’anglais à Vancouver : une sénatrice se défend",
+      "content_html": "<p> Amina Gerba a effectué deux voyages de six&nbsp;jours avec son mari sur la côte ouest aux frais des contribuables.</p>",
       "date_published": "2025-10-01T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -5146,34 +5250,6 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2196195/education-lebel-retrait-plafonds-embauche-drainville",
       "title": "Éducation : LeBel va retirer les plafonds d’embauche imposés par Drainville",
       "content_html": "<p>Des écoles envisageaient de ne pas remplacer des congés de maternité et de maladie à cause des plafonds.</p>",
-      "date_published": "2025-10-01T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "dc1213ed2ec0d031c9347b5bffc41295f477cc02e77218bfb32e4af95b058ad1",
-      "url": "https://ici.radio-canada.ca/info/long-format/2195863/revanche-ancien-pensionnat-autochtones-cranbrook-ktunaxa-shuswap",
-      "title": "La revanche d’une nation sur un ancien pensionnat pour Autochtones",
-      "content_html": "<p>Des communautés autochtones de la Colombie-Britannique ont fait d&#x27;un vieux pensionnat un complexe hôtelier.</p>",
-      "date_published": "2025-10-01T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "13e98d18e0613187b8664b75800ee03260c397a8017f9ad89c60694231835b4b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2195918/senatrice-amina-gerba-anglais-vancouver",
-      "title": "22 000 $ pour des cours d’anglais à Vancouver : une sénatrice se défend",
-      "content_html": "<p> Amina Gerba a effectué deux voyages de six&nbsp;jours avec son mari sur la côte ouest aux frais des contribuables.</p>",
       "date_published": "2025-10-01T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -5270,20 +5346,6 @@
       "lang": "en"
     },
     {
-      "id": "5977892cb38ee85472f3e1ccc3999c856ecf7e27807679c767814473af0228ae",
-      "url": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: One street away from collapsed school as relatives wait for news",
-      "content_html": "The BBC reports from a nearby centre as rescuers race to find 38 people believed to still be trapped.",
-      "date_published": "2025-10-01T07:00:05+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d9afa9ad6f195d0bfb235603f09a47f1e1b2f88863eefa5822d10e2998486e07",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dccc97fc6c83f71a8b45b3.html",
       "title": "Le chef présumé du meurtre de trois filles délivré en streaming en Argentine",
@@ -5336,34 +5398,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "673e48cdc0164ed1077ff0e9d1eb1416db4825e90d604cc91ebcadbba4e6768d",
-      "url": "https://www.bbc.com/news/videos/cy9n2dwlldyo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Moment houses topple into the sea in North Carolina",
-      "content_html": "Five unoccupied houses fell into the water in Buxton after being battered by dangerous surf.",
-      "date_published": "2025-10-01T06:27:58+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1d275fc5cf6cce419ef098b7176a7deaf413a58b77918b2f8c2b24feb6c3420b",
-      "url": "https://ici.radio-canada.ca/sports/2196268/canadien-senateurs-match-preparatoire-quebec",
-      "title": "Le temps des bouffons",
-      "content_html": "<p>Le Canadien a dominé les Sénateurs&nbsp;5-0 dans un match où le hockey a parfois été relégué au second plan. </p>",
-      "date_published": "2025-10-01T06:03:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5649,31 +5683,6 @@
       "lang": "en"
     },
     {
-      "id": "27e10ca09f34d5569e8abc22d052a022d5044174b2b1cdf3f4becb59a31c0715",
-      "url": "https://www.theguardian.com/world/2025/oct/01/gaza-aid-flotilla-sumud-update-location-tracker-greta-thunberg-israel-blockade",
-      "title": "Italy to end support for international Gaza flotilla as it nears destination",
-      "content_html": "<p>The Global Sumud Flotilla, with over 500 people including Swedish climate campaigner Greta Thunberg, aims to break Israel’s blockade of Gaza</p><p>Italy has said it will stop tracking an international flotilla attempting to deliver aid to Gaza with a military vessel, as activists on board announced they were on “high alert” as they moved closed to their destination.</p><p>The Global Sumud Flotilla, consisting of more than 40 civilian boats with over 500 people including parliamentarians, lawyers and Swedish climate campaigner Greta Thunberg, aims to <a href=\"https://www.theguardian.com/environment/2025/aug/31/aid-flotilla-with-greta-thunberg-set-to-sail-for-gaza-to-break-siege\">break Israel’s blockade of Gaza</a>.</p> <a href=\"https://www.theguardian.com/world/2025/oct/01/gaza-aid-flotilla-sumud-update-location-tracker-greta-thunberg-israel-blockade\">Continue reading...</a>",
-      "date_published": "2025-09-30T23:36:40+00:00",
-      "authors": [
-        {
-          "name": "Reuters"
-        }
-      ],
-      "tags": [
-        "Gaza",
-        "Israel",
-        "Greta Thunberg",
-        "Middle East and north Africa",
-        "Palestine",
-        "Italy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ca193e1c2adc748eb44d48386c8dbbdde008c350f5b8d61d13bb80aa771c4185",
       "url": "https://elpais.com/internacional/2025-09-30/ee-uu-se-asoma-al-abismo-del-cierre-del-gobierno-tras-una-infructuosa-reunion-entre-trump-y-los-lideres-democratas.html",
       "title": "Le manque d'accord lors du dernier vote au Sénat conduit les États-Unis à la première fermeture du gouvernement en sept ans",
@@ -5857,20 +5866,6 @@
       "lang": "fr"
     },
     {
-      "id": "98a8a3250326548d5f6b0f627a12cd187995efc01d5e55de6bcad9ca71ad77c0",
-      "url": "https://www.bbc.com/news/videos/crkj1k8z8j4o?at_medium=RSS&at_campaign=rss",
-      "title": "Hegseth rails against 'beardos' and 'woke' in gathering of US generals",
-      "content_html": "Hundreds of high ranking military leaders were summoned for a rare meeting with the Department of Defense secretary.",
-      "date_published": "2025-09-30T18:51:36+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9685807ffdea631b73a8c549892712d9741226b9287db568508104c6202cdbcf",
       "url": "https://www.liberation.fr/international/moyen-orient/entre-donald-trump-et-les-pays-arabes-des-interets-bien-partages-20250930_JYPN3TGG6ZHQ7CLCGKLRGR5ERQ/",
       "title": "Entre Donald Trump et les pays arabes, des intérêts bien partagés",
@@ -6029,20 +6024,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "646f12d8478bb259e289763a89ee2fe932e479fa31a165482d287449a189e130",
-      "url": "https://www.bbc.com/news/videos/c5ykwny8dp9o?at_medium=RSS&at_campaign=rss",
-      "title": "Unpicking Trump's Gaza peace plan map",
-      "content_html": "BBC Verify analyses President Trump’s peace plan for Gaza and what it means on the ground.",
-      "date_published": "2025-09-30T17:38:23+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "0a47cd410d985ce788451b2b2c73eee4db48985f88d1a4068e96181689ac2340",
@@ -6457,20 +6438,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d71304492a52be04d1f167d097500a1942aa3b9283bddb589a6767cc5b7d08a8",
-      "url": "https://www.bbc.com/news/videos/cwydxjqq132o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: What do Gazans and Israelis think of Trump's plan?",
-      "content_html": "People in Gaza and Jerusalem share their reactions to the US president's new strategy for ending the war.",
-      "date_published": "2025-09-30T14:03:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -7123,7 +7090,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "bd49cb37b90fb09f435295fc77ef3a1b927cb473616a412dcc1f3a7750885d77",
@@ -7292,24 +7259,6 @@
       "authors": [
         {
           "name": "Nicolas Rouger"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "24962b59210472db49d0cc96470f8a8fffdb9c33c7b85ba142fd0396928397e1",
-      "url": "https://www.liberation.fr/international/moyen-orient/paix-a-gaza-trump-deplie-sa-feuille-de-route-en-20-points-20250929_7JS66XXDOVEYVPPLDWFFRWGVPY/",
-      "title": "Paix à Gaza : Donald Trump déplie sa feuille de route en 20 points",
-      "content_html": "Donald Trump et Benyamin Nétanyahou à la Maison Blanche le 29 septembre.",
-      "date_published": "2025-09-29T19:46:50+00:00",
-      "authors": [
-        {
-          "name": "Philippe Coste"
         }
       ],
       "tags": [],
@@ -8182,36 +8131,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "6204d952cb75dc55b569b89b92e17df3ed2cbf0b2705da3bdc1b0afa2d83ed92",
-      "url": "https://elpais.com/internacional/2025-09-28/erika-la-viuda-de-charlie-kirk-es-la-nueva-mesias-del-cristianismo-maga.html",
-      "title": "Erika Kirk, veuve de Charlie Kirk et New Messie du christianisme magicien",
-      "content_html": "Erika Kirk, dimanche dernier, lors de son mari assassiné, Charlie Kirk, à Glendale (Arizona).",
-      "date_published": "2025-09-28T03:45:01+00:00",
-      "authors": [
-        {
-          "name": "Iker Seisdedos García"
-        }
-      ],
-      "tags": [
-        "Charlie Kirk",
-        "Estados Unidos",
-        "Donald Trump",
-        "Asesinatos",
-        "Norteamérica",
-        "América",
-        "Religión",
-        "Cristianismo",
-        "Arizona",
-        "Partido Demócrata EE UU",
-        "Partido Republicano EE UU"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "1f7a838b68f4a3808dd5b7cd6d618197fa937ce0128c8c89e6777d9c04dc2dd9",
