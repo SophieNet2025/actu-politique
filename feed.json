@@ -5,29 +5,308 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "a2c9bd11ce3d1f116c6cd7988ac1785087ff88496e3eeb44b0a46e2fe2aa81c0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251002-attaque-%C3%A0-manchester-le-roi-charles-iii-profond%C3%A9ment-choqu%C3%A9",
-      "title": "Attaque à Manchester : le Roi Charles III \"profondément choqué\"",
-      "content_html": "Deux personnes ont été tuées et trois grièvement blessées jeudi devant une synagogue très fréquentée pour la fête de Yom Kippour, à Manchester en Angleterre, au cours d'une attaque considérée comme terroriste par la police et dont le suspect est présumé mort. Selon la police du Grand Manchester, \"deux personnes ont été tuées dans un incident majeur à l'extérieur de la synagogue\" d'Heaton Park, à Crumpsall, un quartier du nord de l'agglomération de Manchester.",
-      "date_published": "2025-10-02T13:16:59+00:00",
+      "id": "26733c224abe5c0ba272ff49681e68430f02ed6da84dd32a78735b9c5df994b9",
+      "url": "https://elpais.com/internacional/2025-10-02/convocada-una-huelga-general-en-italia-este-viernes-en-protesta-por-el-abordaje-de-la-flotilla-a-gaza.html",
+      "title": "Convoqué une grève générale en Italie ce vendredi pour protester contre l'approche de la flottille à Gaza",
+      "content_html": "Démonstration dans le centre de Rome mercredi soir pour protester contre l'approche de la flottille humanitaire à Gaza.",
+      "date_published": "2025-10-02T13:46:09+00:00",
       "authors": [
         {
-          "name": "FRANCE24"
+          "name": "Íñigo Domínguez"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "Franja Gaza",
+        "Territorios palestinos",
+        "Derecho internacional",
+        "Flotilla de la libertad",
+        "Pacifismo",
+        "Italia",
+        "Mar Mediterráneo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4e3f7d3e6bbb6f5b371cd11cdd1dc8935495e1f923bfb354c881318f183e262e",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196523/attaque-couteau-synagogue-manchester-angleterre",
+      "title": "Deux morts et trois blessés dans un attentat devant une synagogue de Manchester",
+      "content_html": "<p>L&#x27;assaillant qui a foncé sur des passants en voiture s&#x27;en serait ensuite pris à eux à coups de couteau.</p>",
+      "date_published": "2025-10-02T13:42:54+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7c5d9f14ceee673e8bd517029a1650aa8b6c8d2a73a7c3d19805999344f82f5a",
+      "url": "https://www.france24.com/en/middle-east/20251002-global-sumud-flotilla-latest-bid-to-break-gaza-blockade-drew-activists-from-across-the-world",
+      "title": "Global Sumud Flotilla: Latest bid to break Gaza blockade drew activists from across the world",
+      "content_html": "The Global Sumud Flotilla, the latest humanitarian mission to try to breach Israel’s maritime blockade of Gaza, drew around 500 participants, including Greta Thunberg, from nearly 50 countries. Israeli forces began intercepted the mission in international waters on Wednesday evening.",
+      "date_published": "2025-10-02T13:40:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3f92506a1382d65283bde33cf2388d89fcd5daf258a455486a2d0a646b51fb51",
+      "url": "https://www.dw.com/en/35-years-after-berlin-wall-east-german-football-struggling/a-70715439?maca=en-rss-en-all-1573-rdf",
+      "title": "35 years after Berlin Wall, East German football struggling",
+      "content_html": "East Germany’s political collapse was mirrored in football, but a focus on youth brings hope for the future.",
+      "date_published": "2025-10-02T13:37:00+00:00",
+      "authors": [],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "035e7f79310bdaa43eb9f1b18bf93f2319891a4c507ca805ad8f9724bd7a725c",
+      "url": "https://www.liberation.fr/portraits/pouria-amirshahi-en-etat-de-veille-20251002_DDQYHSGTRJHVHC63IMAF6MQBLQ/",
+      "title": "Pouria Amirshahi, en Etat de veille",
+      "content_html": "Pouria Amirshahi à Paris le 19 septembre.",
+      "date_published": "2025-10-02T13:36:00+00:00",
+      "authors": [
+        {
+          "name": "Charlotte Belaïch"
         }
       ],
       "tags": [],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "9fe427d0d639a94d0ab8dc2a629a74556904762045f881c8105d5dbc743ce1e1",
+      "url": "https://www.dw.com/en/ea-what-do-saudi-arabia-and-us-get-from-video-game-deal/a-74216783?maca=en-rss-en-all-1573-rdf",
+      "title": "EA: What do Saudi Arabia and US get from video game deal?",
+      "content_html": "A consortium led by Saudi Arabia and incorporating a key figure in Donald Trump's circle have brokered a big money deal for video game publisher, Electronic Arts. It looks to be something bigger than pure business.",
+      "date_published": "2025-10-02T13:35:00+00:00",
+      "authors": [],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d352a7c390f41138e57c3989eafb230a3d901291c67047a42c4a664ba3583051",
+      "url": "https://www.theguardian.com/world/live/2025/oct/02/epc-european-political-community-leaders-copenhagen-denmark-ukraine-russia-europe-live",
+      "title": "‘Russia will not stop until they are forced to do so,’ Danish PM warns European leaders summit – Europe live",
+      "content_html": "<p>More than 45 leaders meet in Copenhagen for the seventh summit of the European Political Community </p><p>European Council president <strong>António Costa</strong> opens his speech with congratulations for <strong>Moldova</strong> and its president <strong>Maia Sandu</strong> for the win of pro-European forces in last weekend’s parliamentary elections there.</p><p>He also congratulates the leaders of <strong>Armenia</strong> and <strong>Azerbaijan</strong> for their recent peace deal.</p><p><em>“I know that for some of you, the threat from Russia is very clear and very present. For others, it still seems further away, but <strong>none of us can no longer be naive.</strong> </em></p><p><em><strong>The war was never just about Ukraine.</strong> It is about Europe, all our nations, all our citizens, our values and our freedom.”</em></p><p><em>“Please just take one look at the history of our continent, from the expansion of the Russian Empire to Soviet tanks rolling across several borders during the cold war, shattering hopes of freedom. </em></p><p><em>Recent history tells us the exact same story. <strong>So why shouldn’t it happen again?</strong> </em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/02/epc-european-political-community-leaders-copenhagen-denmark-ukraine-russia-europe-live\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:31:55+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Europe",
+        "World news",
+        "European Political Community",
+        "Ukraine",
+        "Russia",
+        "Denmark"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "618ad9c3a3268d31db5ed4764e91c52134cbb3bc824bd5453821a3d3805a3e22",
+      "url": "https://www.ukrinform.net/rubric-ato/4043021-russian-forces-shell-zelenivka-in-kherson-region-shell-hits-apartment-building.html",
+      "title": "Russian forces shell Zelenivka in Kherson region, shell hits apartment building",
+      "content_html": "Russian troops fired on the settlement of Zelenivka in the Kherson community from the temporarily occupied east bank of the Dnipro River, with one of the shells striking an apartment building.",
+      "date_published": "2025-10-02T13:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3052b56920b6e5f61014b744eb6b5e713da4d085a681676f5ea8a48cf5cb9fc9",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
+      "title": "Police shoot suspect dead as at least two people killed in Manchester synagogue attack",
+      "content_html": "<p>Police confirm suspect is dead after car and knife attack that left three more people in serious condition</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\">Manchester synagogue stabbing – latest updates</a></p></li></ul><p>Two people have died and three remain in a serious condition after a suspected terrorist attack outside a synagogue by a man shot dead by officers, Greater Manchester police (GMP) have said.</p><p>Police shot the suspect after one person was stabbed and a car was driven at members of the public at the Heaton Park Hebrew Congregation synagogue in Crumpsall on Yom Kippur, the holiest day in the Jewish calendar.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:29:58+00:00",
+      "authors": [
+        {
+          "name": "Josh Halliday, Chris Osuh, Emine Sinmaz and Vikram Dodd"
+        }
+      ],
+      "tags": [
+        "Manchester",
+        "Greater Manchester",
+        "UK news",
+        "Police"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dd8984168776b3774db6a524aade0c3a889c3270ae117fc849e6498f83b1006f",
+      "url": "https://www.elmundo.es/internacional/2025/10/02/68de7bd9fc6c83ac278b458c.html",
+      "title": "Des dizaines de milliers de français prennent à nouveau les rues au milieu de l'aspirateur politique",
+      "content_html": "Les syndicats augmentent la pression sur le nouveau Premier ministre Sébastien LeCornu pour leurs mesures d'austérité",
+      "date_published": "2025-10-02T13:28:54+00:00",
+      "authors": [
+        {
+          "name": "Carlos Fresneda"
+        }
+      ],
+      "tags": [
+        "Francia",
+        "Artículos Carlos Fresneda"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a0f02abad1f7648baab2743ef233d09b1b224f2a86de588009239270e58be7f1",
+      "url": "https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live",
+      "title": "Jenrick’s ideas mostly ‘my thoughts repackaged’, says Badenoch – UK politics live",
+      "content_html": "<p>Tory leader also claims the party was close to bankruptcy when she took over last year</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vows-to-repeal-climate-change-act\">Kemi Badenoch vows to repeal Climate Change Act</a></p></li></ul><p>Voters trust the Green party most … on green issues, is the rather unsurprising finding of a poll by <strong>YouGov</strong> looking at how voters view the party, which starts its autumn conference tomorrow. The Greens are least trusted on the economy and on defence.</p><p>But there is something remarkable about this. In his <a href=\"https://yougov.co.uk/politics/articles/53102-how-do-britons-see-the-greens-ahead-of-their-2025-party-conference\">write-up for YouGov</a>, <strong>Dylan Difford</strong> says:</p><p>Unsurprisingly, Britons have a particular degree of confidence in the Greens when it comes to the environment. What’s notable, though, is that a majority of Britons (54%) say they have at least a fair amount of trust in the party on the issue. Out of the 18 areas polled, which have been asked about all five major parties, this is the only issue for any of the parties for where most people express confidence in a given party.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:28:10+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Conservatives",
+        "Keir Starmer",
+        "Kemi Badenoch",
+        "Immigration and asylum",
+        "Migration",
+        "Climate crisis",
+        "Environment",
+        "Energy",
+        "Reform UK",
+        "Nigel Farage",
+        "Liberal Democrats",
+        "Green party",
+        "Ed Miliband",
+        "Confederation of British Industry (CBI)",
+        "Theresa May",
+        "Robert Jenrick",
+        "Health",
+        "Zack Polanski"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3ee3bec0d6f405ce0664b6f5bcfb7413548fd74b0803abf4d8f59c5331135f3c",
+      "url": "https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live",
+      "title": "Two killed in Manchester synagogue attack, police say, with suspect shot dead by officers – latest",
+      "content_html": "<p>Image emerges of man believed to be the suspected attacker; PM says he is ‘appalled’ by attack on Yom Kippur</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester\">Full story: at least two people killed in car and knife attack at Manchester synagogue</a></p></li></ul><p><strong>Police have shot a suspect after several people were stabbed and a car was driven at members of the public at the Heaton Park Hebrew congregation synagogue in Crumpsall</strong>, <a href=\"https://www.theguardian.com/uk/greater-manchester\">Greater Manchester</a> Police said.</p><p><strong>The force posted on X saying police were called to the synagogue, on Middleton Road, Crumpsall, at 9.31am by a member of the public</strong>, stating he had witnessed a car being driven towards members of the public and one man had been stabbed.</p><p><strong>Police said four people have suffered injuries caused by a vehicle and stabbings at a synagogue in Crumpsall</strong>, north Manchester<strong>.</strong></p><p><strong>A cordon has been set up after the incident</strong>, and a major road had been closed while officers attended. Paramedics are at the scene.</p><p><strong>Greater Manchester’s mayor, Andy Burnham, said the “immediate danger appears to be over”</strong> after reports of a “serious incident”.</p><p><strong>Burnham has told BBC Radio Manchester that “it is believed” that the attacker is dead. </strong>However, he says this “is not confirmed” yet.</p><p><strong>Sources say it is being treated as a potential terrorist incident. </strong>Counter-terrorism police and MI5, the security service covering the UK, have joined the investigation. Greater Manchester police say Operation Plato was declared, meaning the violence was treated as a potential marauding terrorist attack.</p><p><strong>The attack was branded an “appalling attack on the holiest day of the Jewish year” by the Community Security Trust (CST).</strong></p><p>CST is working with police and the local Jewish community following a serious incident at a synagogue in north Manchester.</p><p>This appears to be an appalling attack on the holiest day of the Jewish year.</p> <a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:27:36+00:00",
+      "authors": [
+        {
+          "name": "Caroline Davies (now) and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "UK news",
+        "Manchester",
+        "Greater Manchester"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c0d3e2ca4e26c15e007d243d5b211465d75ee18ebd48bc2512f3b3e8704ed51e",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss",
+      "title": "What we know about Israel’s interception of the Gaza flotilla",
+      "content_html": "Videos show Israeli forces intercepting several aid boats in international waters and detaining activists onboard.",
+      "date_published": "2025-10-02T13:27:03+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4ecee2a1c4a445aecbab3f035ed5db1bedaa41121397b204e6fc10d9228025d1",
+      "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates",
+      "title": "Gaza aid flotilla: Israel intercepts vessels but one ship reported to have got through blockade – live",
+      "content_html": "<p>One boat, the Mikeno, reported to have escaped the maritime blockade and to have stopped inside Palestinian territorial waters</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/gaza-aid-flotilla-greta-thunberg-what-we-know-so-far-israel-interception-boat-convoy\">Gaza flotilla interception: what we know so far</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza\">Report: Israeli naval forces board pro-Palestinian flotilla 120km from Gaza</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/israels-gaza-flotilla-interception-triggers-protests-diplomatic-expulsions-and-calls-for-strikes\">Reaction: interception triggers protests, diplomatic expulsions and calls for strikes</a></p></li></ul><p>Amnesty International UK called on UK Prime Minister Keir Starmer to denounce Israel’s interception of the Global Sumud Flotilla.</p><p>“Reports that Israeli forces have intercepted the Gaza flotilla marks yet another shameful chapter in the brutal and merciless enforcement of Israel’s illegal and immoral 18-year blockade of Gaza and is an attack on international law and basic humanity,” said Kerry Moscogiuri, Amnesty International UK’s director of communications. “Keir Starmer has a serious role to play. With British citizens and British-flagged ships involved, he must not revert to silence as usual.”</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:25:48+00:00",
+      "authors": [
+        {
+          "name": "Aneesa Ahmed (now), Fran Singh, Adam Fulton and José Olivares (earlier)"
+        }
+      ],
+      "tags": [
+        "Middle East and north Africa",
+        "World news",
+        "Gaza",
+        "Palestine"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "d20184ee2c77c5c6e30609c1189bbb47c40050582680cda2c1dc82c9b4df0bb6",
       "url": "https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates",
       "title": "Trump to meet with Project 2025 architect on cutting ‘Democrat agencies’ amid government shutdown – live",
-      "content_html": "<p>Trump touts meeting with Russ Vought ‘of Project 2025 fame’ to determine where cuts can be made as the federal government remains shut for second day</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-regular-people-effect\">Here’s what the shutdown means for travel, national parks and housing</a></p></li></ul><p>Treasury secretary Scott Bessent has been <a href=\"https://www.cnbc.com/2025/10/02/bessent-shutdown-gdp.html\">speaking on CNBC this morning</a>, and said that US GDP could take a hit from the government shutdown, which is one day two with no end in sight. He told CNBC Squawk Box:</p><p>This isn’t the way to have a discussion, shutting down the government and <strong>lowering the GDP</strong>. <strong>We could see a hit to the GDP, a hit to growth</strong> and a hit to working America.</p><p>I have a meeting today with Russ Vought, he of PROJECT 2025 Fame, to determine which of the many Democrat Agencies, most of which are a political SCAM, he recommends to be cut, and whether or not those cuts will be temporary or permanent. I can’t believe the Radical Left Democrats gave me this unprecedented opportunity. They are not stupid people, so maybe this is their way of wanting to, quietly and quickly, MAKE AMERICA GREAT AGAIN! President DJT</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-10-02T13:09:20+00:00",
+      "content_html": "<p>Trump touts meeting with Russ Vought ‘of Project 2025 fame’ to determine where cuts can be made as the federal government remains shut for second day</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/02/government-shutdown-regular-people-effect\">Here’s what the shutdown means for travel, national parks and housing</a></p></li></ul><p>In his interview this morning with CNBC Scott Bessent also said that he <strong>could “guarantee” Republicans will not meet Democratic leaders’ demands to extend Obamacare subsidies as a way to end the government shutdown</strong>.</p><p>Democrats are negotiating “like terrorists”, the treasury secretary claimed, adding: “They want to say, ‘This is what we have to have, and if we don’t get it, we’re going to close down the government.’”</p><p>President Trump, in the first nine months now, has been unstoppable. They’ve tried to stop him in the courts, they tried to stop him in the press, and now they’re trying to stop him with the shutdown.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:24:37+00:00",
       "authors": [
         {
           "name": "Lucy Campbell (now) and Tom Ambrose (earlier)"
@@ -55,6 +334,213 @@
       "lang": "en"
     },
     {
+      "id": "755527bced639a78c9fc354c957786b0a6f61330ea93bf68858a34240bf97e95",
+      "url": "https://www.dw.com/en/my-europe-hungary-and-social-media-political-ad-bans/a-74216276?maca=en-rss-en-all-1573-rdf",
+      "title": "My Europe: Hungary and social media political ad bans",
+      "content_html": "Meta and Google are introducing political ad bans on their social media platforms in the EU. How will political parties across Europe — particularly Viktor Orban and his ruling Fidesz party in Hungary — respond?",
+      "date_published": "2025-10-02T13:24:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c4bb0ae2c2a6781dea1d0df2fc670a57b4f6473b99f907398f71305c5764502f",
+      "url": "https://www.lefigaro.fr/international/l-annonce-d-une-hausse-des-visas-accordes-aux-etudiants-algeriens-provoque-un-tolle-20251001",
+      "title": "L’annonce d’une hausse des visas accordés aux étudiants algériens provoque un tollé",
+      "content_html": "Le drapeau algérien flottant à l’ambassade d’Algérie à Paris le 14 mai 2025.",
+      "date_published": "2025-10-02T13:22:41+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e4f366340bd551e9f5ccab46fe1b382b4346957290ecd17df5a1b23542890016",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251002-les-drones-violant-l-espace-a%C3%A9rien-europ%C3%A9en-peuvent-%C3%AAtre-d%C3%A9truits-dit-macron",
+      "title": "Les drones violant l'espace aérien européen \"peuvent être détruits\" dit Macron",
+      "content_html": "Les drones qui violent l'espace aérien européen \"peuvent être détruits. Point final\", a déclaré le président français Emmanuel Macron jeudi à Copenhague, après une série d'intrusions de drones en Europe ces dernières semaines. \"Il est très important d'avoir un message clair. Les drones, qui violeraient nos territoires, représentent un risque important. Ils peuvent être détruits, point final\", a-t-il martelé lors d'un sommet de chefs d'Etat et de gouvernement.",
+      "date_published": "2025-10-02T13:19:12+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "48c3c7c8db56d48725cb971a742589da0b1a8a39f43115ac81882f485774b02f",
+      "url": "https://www.lemonde.fr/societe/article/2025/10/02/navire-pushpa-de-la-flotte-fantome-russe-son-commandant-sera-juge-a-brest-pour-refus-d-obtemperer-en-2026_6644092_3224.html",
+      "title": "Navire « Pushpa » de la flotte fantôme russe : son commandant sera jugé à Brest pour « refus d’obtempérer » en 2026",
+      "content_html": "Cette photo aérienne montre le pétrolier Pushpa ancré au large de Saint-Nazaire, dans l’ouest de la France, le 1er octobre 2025.",
+      "date_published": "2025-10-02T13:18:28+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a2c9bd11ce3d1f116c6cd7988ac1785087ff88496e3eeb44b0a46e2fe2aa81c0",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251002-attaque-%C3%A0-manchester-le-roi-charles-iii-profond%C3%A9ment-choqu%C3%A9",
+      "title": "Attaque à Manchester : le Roi Charles III \"profondément choqué\"",
+      "content_html": "Deux personnes ont été tuées et trois grièvement blessées jeudi devant une synagogue très fréquentée pour la fête de Yom Kippour, à Manchester en Angleterre, au cours d'une attaque considérée comme terroriste par la police et dont le suspect est présumé mort. Selon la police du Grand Manchester, \"deux personnes ont été tuées dans un incident majeur à l'extérieur de la synagogue\" d'Heaton Park, à Crumpsall, un quartier du nord de l'agglomération de Manchester.",
+      "date_published": "2025-10-02T13:16:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3ed930feff05e9e7b124a13d8187b1c3358a37c6b73f4b796260a47c0810d1c5",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/02/party-leaders-condemn-attack-manchester-synagogue-yom-kippur",
+      "title": "Party leaders condemn attack on Manchester synagogue on Yom Kippur",
+      "content_html": "<p>Keir Starmer, Kemi Badenoch, Ed Davey and Nigel Farage express sympathy for victims and condemn attacker</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\"><strong>Manchester synagogue stabbing – latest updates</strong></a></p></li></ul><p>The leaders of the UK’s four big parties have condemned <a href=\"https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester\">the Manchester attack</a>, even as details about its nature and the attacker remained unclear.</p><p>Keir Starmer, the prime minister, interrupted a trip to Copenhagen on Thursday where he was meeting other European leaders at the European Political Community to fly back to the UK to chair a meeting of the government’s emergency Cobra committee.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/02/party-leaders-condemn-attack-manchester-synagogue-yom-kippur\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:15:40+00:00",
+      "authors": [
+        {
+          "name": "Kiran Stacey Policy editor"
+        }
+      ],
+      "tags": [
+        "Manchester",
+        "Greater Manchester",
+        "Keir Starmer",
+        "Kemi Badenoch",
+        "Ed Davey",
+        "Nigel Farage",
+        "Politics",
+        "Andy Burnham",
+        "UK news",
+        "North of England",
+        "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cb2588b4431b1aae1c82221050d30b2c2b650e6499d35486eaaf645775fe0184",
+      "url": "https://www.theguardian.com/world/2025/oct/02/kenyan-activists-abducted-after-joining-opposition-rally-in-uganda",
+      "title": "Kenyan activists abducted after joining opposition rally in Uganda",
+      "content_html": "<p>Pair had crossed border to support presidential campaign of reggae singer Bobi Wine</p><p>Two Kenyan activists have been abducted in <a href=\"https://www.theguardian.com/world/uganda\">Uganda</a> after attending a presidential campaign event for <a href=\"https://www.theguardian.com/world/bobi-wine\">Bobi Wine</a>, a reggae musician turned politician.</p><p>Heavily armed security operatives detained Bob Njagi, the chair of Free Kenya, and Nicholas Oyoo, the movement’s secretary general, at a petrol station near Kampala on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/world/2025/oct/02/kenyan-activists-abducted-after-joining-opposition-rally-in-uganda\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:13:07+00:00",
+      "authors": [
+        {
+          "name": "Samuel Okiror in Kampala"
+        }
+      ],
+      "tags": [
+        "Uganda",
+        "Kenya",
+        "Bobi Wine",
+        "Yoweri Museveni",
+        "World news",
+        "Africa"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d3d0f378bb4ce62d5fe8cdff394524047d509e667d7643ec79dca9b2bbe76090",
+      "url": "https://www.themoscowtimes.com/2025/10/02/europes-top-rights-body-to-create-platform-for-dialogue-with-exiled-russian-opposition-a90700",
+      "title": "Europe’s Top Rights Body to Create ‘Platform for Dialogue’ With Exiled Russian Opposition",
+      "content_html": "The platform will seek to strengthen Russian democratic groups' capacity to bring about “democratic change in Russia” and “a lasting and just peace in Ukraine.”",
+      "date_published": "2025-10-02T13:12:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a3bf24c637c297a4972f71adaf4f173f09d2d17b16a02a743cacf6ba4406be3",
+      "url": "https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vow-to-repeal-climate-change-act-senior-tories-dismayed",
+      "title": "Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act",
+      "content_html": "<p>Theresa May, Alok Sharma, business and church leaders say plan would harm UK and not even Margaret Thatcher would have countenanced it</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live\">UK politics live – latest updates</a></p><p></p></li></ul><p>The former prime minister Theresa May has condemned <a href=\"https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vows-to-repeal-climate-change-act\">a promise made by Kemi Badenoch to repeal the Climate Change Act</a> if the Tories win the next general election, calling the plans a “catastrophic mistake”.</p><p>She joined other leading Tories, business groups, scientists and the Church of England in attacking the Conservative leader’s announcement, which would remove the requirement for governments to set “carbon budgets” laying out how far greenhouse gas emissions will be cut every five years, up to 2050.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vow-to-repeal-climate-change-act-senior-tories-dismayed\">Continue reading...</a>",
+      "date_published": "2025-10-02T13:11:26+00:00",
+      "authors": [
+        {
+          "name": "By Fiona Harvey and Helena Horton"
+        }
+      ],
+      "tags": [
+        "Climate crisis",
+        "Kemi Badenoch",
+        "Conservatives",
+        "Politics",
+        "Environment",
+        "Greenhouse gas emissions",
+        "UK news",
+        "Theresa May",
+        "Business",
+        "Economics",
+        "Christianity",
+        "Catholicism"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8fb174053832eec62c7f001b8f2e6b8e948d908b2d4b51250f8bd457868d9b5b",
+      "url": "https://elpais.com/internacional/2025-10-02/un-hombre-apunala-a-varias-personas-en-una-sinagoga-de-manchester-durante-la-celebracion-del-yom-kipur.html",
+      "title": "Un homme tue deux personnes et blesse trois dans une synagogue de Mercoceter lors de la célébration de Yom Kipur",
+      "content_html": "Plusieurs fidèles s'adrement après l'étranger à l'étranger de la synagogue de Heaton Park à Mercutunter, ce jeudi.",
+      "date_published": "2025-10-02T13:10:09+00:00",
+      "authors": [
+        {
+          "name": "Rafa De Miguel"
+        }
+      ],
+      "tags": [
+        "Reino Unido",
+        "Sinagogas",
+        "Israel",
+        "Mánchester",
+        "Terrorismo",
+        "Víctimas"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "797d7107d1fc28ddacc798f476a64790231b876a7024a8fe997c658521c8ca17",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20251002-surcharge-des-h%C3%B4pitaux-des-partis-sud-africains-ciblent-les-patients-%C3%A9trangers",
       "title": "Surcharge des hôpitaux : des partis sud-africains ciblent les patients étrangers",
@@ -73,24 +559,18 @@
       "lang": "fr"
     },
     {
-      "id": "3ee3bec0d6f405ce0664b6f5bcfb7413548fd74b0803abf4d8f59c5331135f3c",
-      "url": "https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live",
-      "title": "Two dead after suspected terror attack on Manchester synagogue, police say, with suspect shot by officers – latest",
-      "content_html": "<p>Image emerges of man believed to be the suspected attacker; PM says he is ‘appalled’ by attack on Yom Kippur</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester\">Full story: at least two people killed in car and knife attack at Manchester synagogue</a></p></li></ul><p><strong>Police have shot a suspect after several people were stabbed and a car was driven at members of the public at the Heaton Park Hebrew congregation synagogue in Crumpsall</strong>, <a href=\"https://www.theguardian.com/uk/greater-manchester\">Greater Manchester</a> Police said.</p><p><strong>The force posted on X saying police were called to the synagogue, on Middleton Road, Crumpsall, at 9.31am by a member of the public</strong>, stating he had witnessed a car being driven towards members of the public and one man had been stabbed.</p><p><strong>Police said four people have suffered injuries caused by a vehicle and stabbings at a synagogue in Crumpsall</strong>, north Manchester<strong>.</strong></p><p><strong>A cordon has been set up after the incident</strong>, and a major road had been closed while officers attended. Paramedics are at the scene.</p><p><strong>Greater Manchester’s mayor, Andy Burnham, said the “immediate danger appears to be over”</strong> after reports of a “serious incident”.</p><p><strong>Burnham has told BBC Radio Manchester that “it is believed” that the attacker is dead. </strong>However, he says this “is not confirmed” yet.</p><p><strong>Sources say it is being treated as a potential terrorist incident. </strong>Counter-terrorism police and MI5, the security service covering the UK, have joined the investigation. Greater Manchester police say Operation Plato was declared, meaning the violence was treated as a potential marauding terrorist attack.</p><p><strong>The attack was branded an “appalling attack on the holiest day of the Jewish year” by the Community Security Trust (CST).</strong></p><p>CST is working with police and the local Jewish community following a serious incident at a synagogue in north Manchester.</p><p>This appears to be an appalling attack on the holiest day of the Jewish year.</p> <a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\">Continue reading...</a>",
-      "date_published": "2025-10-02T13:08:26+00:00",
-      "authors": [
-        {
-          "name": "Caroline Davies (now) and Tom Ambrose (earlier)"
-        }
-      ],
+      "id": "027aba18a1be783b26ede2aa0b4c87f1b1e9e4de4a3b4bd53f8761943238b2bf",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/al-jazeera-reports-from-scene-of-philippines-earthquake-in-cebu?traffic_source=rss",
+      "title": "Al Jazeera reports from scene of Philippines earthquake in Cebu",
+      "content_html": "Al Jazeera’s Barnaby Lo has been seeing the destruction left by a magnitude 6.9 earthquake in the Philippines.",
+      "date_published": "2025-10-02T13:07:20+00:00",
+      "authors": [],
       "tags": [
-        "UK news",
-        "Manchester",
-        "Greater Manchester"
+        "Show Types"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -227,8 +707,8 @@
     {
       "id": "f640fb1960780fefc1a0f24a0952dc5f82f55063869cfb61c3dc024247cc7355",
       "url": "https://www.france24.com/en/tv-shows/french-connections/20251002-freedom-of-speech-can-you-say-anything-you-want-in-france",
-      "title": "Freedom of Speech: Can you say anything you want in France?",
-      "content_html": "In this week’s show, we take a deep dive into freedom of speech. It’s been in the news States-side following the assassination of conservative activist Charlie Kirk and the temporary suspension of stand-up comedian Jimmy Kimmel. In France, free speech is seen as a fundamental freedom that dates back to the Revolution of 1789. It is often described as a “liberté surveillée” (a supervised freedom) because while it grants wide-ranging freedom it also sets strict legal limits. In France, freedom of expression is not absolute. What are some of the things punishable by French law?",
+      "title": "Freedom of speech: Can you say anything you want in France?",
+      "content_html": "In this week's show, we take a deep dive into freedom of speech. It's been in the news stateside following the assassination of conservative activist Charlie Kirk and the temporary suspension of stand-up comedian Jimmy Kimmel. In France, free speech is seen as a fundamental freedom that dates back to the Revolution of 1789. It is often described as a \"liberté surveillée\" (a supervised freedom) because while it grants wide-ranging freedom, it also sets strict legal limits. In France, freedom of expression is not absolute. So what are some of the things punishable by French law? We take a closer look.",
       "date_published": "2025-10-02T13:00:14+00:00",
       "authors": [
         {
@@ -259,65 +739,32 @@
       "lang": "fr"
     },
     {
-      "id": "a0f02abad1f7648baab2743ef233d09b1b224f2a86de588009239270e58be7f1",
-      "url": "https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live",
-      "title": "Jenrick’s ideas mostly ‘my thoughts repackaged’, says Badenoch – UK politics live",
-      "content_html": "<p>Tory leader also claims the party was close to bankruptcy when she took over last year</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vows-to-repeal-climate-change-act\">Kemi Badenoch vows to repeal Climate Change Act</a></p></li></ul><p>Voters trust the Green party most … on green issues, is the rather unsurprising finding of a poll by <strong>YouGov</strong> looking at how voters view the party, which starts its autumn conference tomorrow. The Greens are least trusted on the economy and on defence.</p><p>But there is something remarkable about this. In his <a href=\"https://yougov.co.uk/politics/articles/53102-how-do-britons-see-the-greens-ahead-of-their-2025-party-conference\">write-up for YouGov</a>, <strong>Dylan Difford</strong> says:</p><p>Unsurprisingly, Britons have a particular degree of confidence in the Greens when it comes to the environment. What’s notable, though, is that a majority of Britons (54%) say they have at least a fair amount of trust in the party on the issue. Out of the 18 areas polled, which have been asked about all five major parties, this is the only issue for any of the parties for where most people express confidence in a given party.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live\">Continue reading...</a>",
-      "date_published": "2025-10-02T12:58:53+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
+      "id": "2ddad1d50fee922c3dd706480a9d46221528f2e80c03ddff6d7a6071cfc3b3ac",
+      "url": "https://www.aljazeera.com/news/2025/10/2/deadly-manchester-synagogue-attack-what-we-know-about-victims-and-attacker?traffic_source=rss",
+      "title": "Deadly Manchester synagogue attack: What we know about victims and attacker",
+      "content_html": "A car was rammed into pedestrians and at least one person stabbed as worshippers arrived to celebrate Yom Kippur.",
+      "date_published": "2025-10-02T12:58:18+00:00",
+      "authors": [],
       "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "Keir Starmer",
-        "Kemi Badenoch",
-        "Immigration and asylum",
-        "Migration",
-        "Climate crisis",
-        "Environment",
-        "Energy",
-        "Reform UK",
-        "Nigel Farage",
-        "Liberal Democrats",
-        "Green party",
-        "Ed Miliband",
-        "Confederation of British Industry (CBI)",
-        "Theresa May",
-        "Robert Jenrick",
-        "Health"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
     {
-      "id": "770bd8c31f1da2b156d26532d5cfa0b4831d55e120fa4231b0e290c625b3830d",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/02/people-smugglers-targeting-englands-south-west-coastline-say-police",
-      "title": "People smugglers targeting England’s south-west coastline, say police",
-      "content_html": "<p>Police in Devon and Cornwall unveil new boat to help tackle increasing number of gangs attempting to land in the region</p><p>People smugglers are targeting the remote coves and small harbours of the far south west of Britain to avoid clampdowns on their operations in the south-east, police have warned.</p><p>Police chiefs in Devon and Cornwall revealed they had intelligence that gangs were beginning to focus their efforts on the hundreds of miles of coastline in the region.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/02/people-smugglers-targeting-englands-south-west-coastline-say-police\">Continue reading...</a>",
-      "date_published": "2025-10-02T12:57:12+00:00",
-      "authors": [
-        {
-          "name": "Steven Morris"
-        }
-      ],
-      "tags": [
-        "Police",
-        "Devon",
-        "Cornwall",
-        "UK news",
-        "Immigration and asylum"
-      ],
+      "id": "54160ce58eba52ff0a7a31748ff02f4f6fc91f44037feaddb814b568ae3d5f38",
+      "url": "https://www.bbc.com/news/articles/cgkn6yxnvpno?at_medium=RSS&at_campaign=rss",
+      "title": "Benidorm cracks down on display of 'offensive' items in shop windows",
+      "content_html": "Authorities fear products like joke t-shirts and items with sexual messages on them are hurting the area's image.",
+      "date_published": "2025-10-02T12:57:32+00:00",
+      "authors": [],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -462,29 +909,6 @@
       "lang": "en"
     },
     {
-      "id": "3052b56920b6e5f61014b744eb6b5e713da4d085a681676f5ea8a48cf5cb9fc9",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
-      "title": "Police shoot suspect as at least two people killed in car and knife attack at Manchester synagogue",
-      "content_html": "<p>Suspect also thought to be dead after suspected terror attack that left three more people in serious condition</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\">Manchester synagogue stabbing – latest updates</a></p></li></ul><p>Two people have died and three remain in a serious condition after a suspected terrorist attack outside a synagogue by a man believed to have been shot dead by officers, Greater Manchester police (GMP) have said.</p><p>Police shot the suspect after one person was stabbed and a car was driven at members of the public at the Heaton Park Hebrew Congregation synagogue in Crumpsall on Yom Kippur, the holiest day in the Jewish calendar.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester\">Continue reading...</a>",
-      "date_published": "2025-10-02T12:40:22+00:00",
-      "authors": [
-        {
-          "name": "Josh Halliday, Chris Osuh, Emine Sinmaz and Vikram Dodd"
-        }
-      ],
-      "tags": [
-        "Manchester",
-        "Greater Manchester",
-        "UK news",
-        "Police"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "92a58c4c6a7d730cb5c63d4efba84ba8099260cf10e280c513b66ae35211022e",
       "url": "https://www.france24.com/en/video/20251002-france-sees-third-day-of-strikes-amid-budget-impasse",
       "title": "France sees third day of strikes amid budget impasse",
@@ -523,31 +947,6 @@
       "lang": "fr"
     },
     {
-      "id": "d352a7c390f41138e57c3989eafb230a3d901291c67047a42c4a664ba3583051",
-      "url": "https://www.theguardian.com/world/live/2025/oct/02/epc-european-political-community-leaders-copenhagen-denmark-ukraine-russia-europe-live",
-      "title": "‘Russia will not stop until they are forced to do so,’ Danish PM warns European leaders summit – Europe live",
-      "content_html": "<p>More than 45 leaders meet in Copenhagen for the seventh summit of the European Political Community </p><p>European Council president <strong>António Costa</strong> opens his speech with congratulations for <strong>Moldova</strong> and its president <strong>Maia Sandu</strong> for the win of pro-European forces in last weekend’s parliamentary elections there.</p><p>He also congratulates the leaders of <strong>Armenia</strong> and <strong>Azerbaijan</strong> for their recent peace deal.</p><p><em>“I know that for some of you, the threat from Russia is very clear and very present. For others, it still seems further away, but <strong>none of us can no longer be naive.</strong> </em></p><p><em><strong>The war was never just about Ukraine.</strong> It is about Europe, all our nations, all our citizens, our values and our freedom.”</em></p><p><em>“Please just take one look at the history of our continent, from the expansion of the Russian Empire to Soviet tanks rolling across several borders during the cold war, shattering hopes of freedom. </em></p><p><em>Recent history tells us the exact same story. <strong>So why shouldn’t it happen again?</strong> </em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/02/epc-european-political-community-leaders-copenhagen-denmark-ukraine-russia-europe-live\">Continue reading...</a>",
-      "date_published": "2025-10-02T12:36:52+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "World news",
-        "European Political Community",
-        "Ukraine",
-        "Russia",
-        "Denmark"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6ec493b6fdb8d8982f0d40834dcbdab7e6425a87079b3de6c121d835f0064e9b",
       "url": "https://www.france24.com/en/video/20251002-two-killed-as-morocco-protests-escalate-into-clashes-with-police",
       "title": "Two killed as Morocco protests escalate into clashes with police",
@@ -564,31 +963,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "8fb174053832eec62c7f001b8f2e6b8e948d908b2d4b51250f8bd457868d9b5b",
-      "url": "https://elpais.com/internacional/2025-10-02/un-hombre-apunala-a-varias-personas-en-una-sinagoga-de-manchester-durante-la-celebracion-del-yom-kipur.html",
-      "title": "Un homme tue deux personnes et blesse trois dans une synagogue de Mercoceter lors de la célébration de Yom Kipur",
-      "content_html": "Police et personnel d'urgence, autour de la synagogue de MercutUter, ce jeudi.",
-      "date_published": "2025-10-02T12:35:51+00:00",
-      "authors": [
-        {
-          "name": "Rafa De Miguel"
-        }
-      ],
-      "tags": [
-        "Reino Unido",
-        "Sinagogas",
-        "Israel",
-        "Mánchester",
-        "Terrorismo",
-        "Víctimas"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "7852abf0062f26059ce8591074f52b0bc70dfde40d6ab5878bbd9256f32b28c3",
@@ -636,37 +1010,14 @@
     {
       "id": "6155f46362d2ee2d0d5a210adc9b22e8c958bc56d5b31148b358bfb89b43a8d8",
       "url": "https://www.themoscowtimes.com/2025/10/02/russia-says-exchanged-captured-soldiers-civilians-with-ukraine-in-new-swap-a90699",
-      "title": "Russia Says Exchanged Captured Soldiers, Civilians With Ukraine in New Swap",
+      "title": "Russia and Ukraine Exchange Captured Soldiers, Civilians in New Swap",
       "content_html": "Russia and Ukraine exchanged 185 captured soldiers each, the Defense Ministry said.",
-      "date_published": "2025-10-02T12:31:38+00:00",
+      "date_published": "2025-10-02T12:31:00+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4ecee2a1c4a445aecbab3f035ed5db1bedaa41121397b204e6fc10d9228025d1",
-      "url": "https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates",
-      "title": "Gaza aid flotilla: Israel intercepts vessels but one ship reported to have got through blockade – live",
-      "content_html": "<p>One boat, the Mikeno, reported to have escaped the maritime blockade and to have stopped inside Palestinian territorial waters</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/gaza-aid-flotilla-greta-thunberg-what-we-know-so-far-israel-interception-boat-convoy\">Gaza flotilla interception: what we know so far</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza\">Report: Israeli naval forces board pro-Palestinian flotilla 120km from Gaza</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/israels-gaza-flotilla-interception-triggers-protests-diplomatic-expulsions-and-calls-for-strikes\">Reaction: interception triggers protests, diplomatic expulsions and calls for strikes</a></p></li></ul><p>Amnesty International UK called on UK Prime Minister Keir Starmer to denounce Israel’s interception of the Global Sumud Flotilla.</p><p>“Reports that Israeli forces have intercepted the Gaza flotilla marks yet another shameful chapter in the brutal and merciless enforcement of Israel’s illegal and immoral 18-year blockade of Gaza and is an attack on international law and basic humanity,” said Kerry Moscogiuri, Amnesty International UK’s director of communications. “Keir Starmer has a serious role to play. With British citizens and British-flagged ships involved, he must not revert to silence as usual.”</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-10-02T12:28:38+00:00",
-      "authors": [
-        {
-          "name": "Aneesa Ahmed (now), Fran Singh, Adam Fulton and José Olivares (earlier)"
-        }
-      ],
-      "tags": [
-        "Middle East and north Africa",
-        "World news",
-        "Gaza",
-        "Palestine"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -986,7 +1337,7 @@
     {
       "id": "e8f9d4ae8b12d550938879d99ec8bdaa5927e628ecf18f3e1a0e615ea0e0791e",
       "url": "https://ici.radio-canada.ca/nouvelle/2196431/ecoles-francophones-elections-provinciales-tnl",
-      "title": "Les partis politiques de T.-N.-L. négligent les écoles francophones",
+      "title": "Les partis politiques de T.-N.-L. négligent les écoles francophones, selon des parents",
       "content_html": "<p>Une école sans gymnase, cafétéria ou bibliothèque&nbsp;: des parents et des dirigeants réclament des engagements.</p>",
       "date_published": "2025-10-02T11:57:17+00:00",
       "authors": [],
@@ -1010,43 +1361,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "5a7f65f88a7b611846e791fb944209bfb5c9afb8afea287a725002aea335975d",
-      "url": "https://www.theguardian.com/society/2025/oct/02/landmark-study-shows-14m-britons-have-a-gambling-problem",
-      "title": "Landmark study shows 1.4m Britons have a gambling problem",
-      "content_html": "<p>Watchdog’s report highlights growing dangers of slot machines and in-play betting on matches</p><p>An estimated 1.4 million adults in Great Britain have a gambling problem, according to <a href=\"https://www.gamblingcommission.gov.uk/news/article/2024-gambling-survey-for-great-britain-published\">landmark figures</a> released days after the chancellor hinted at increasing taxes on the £11.5bn industry.</p><p>The Gambling Commission’s annual survey found that 2.7% of adults scored 8 or above on the problem gambling severity index, a widely accepted measure analysing negative consequences of betting.</p> <a href=\"https://www.theguardian.com/society/2025/oct/02/landmark-study-shows-14m-britons-have-a-gambling-problem\">Continue reading...</a>",
-      "date_published": "2025-10-02T11:54:46+00:00",
-      "authors": [
-        {
-          "name": "Rob Davies"
-        }
-      ],
-      "tags": [
-        "Gambling",
-        "UK news",
-        "Rachel Reeves",
-        "Politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4e3f7d3e6bbb6f5b371cd11cdd1dc8935495e1f923bfb354c881318f183e262e",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196523/attaque-couteau-synagogue-manchester-angleterre",
-      "title": "Quatre blessés dans une attaque à l’extérieur d’une synagogue à Manchester",
-      "content_html": "<p>Les quatre personnes ont été blessées «&nbsp;par un véhicule et par des coups de couteau&nbsp;».</p>",
-      "date_published": "2025-10-02T11:53:23+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "ab1d8a2dc1dcde6944d7f4da9a6008f08de7a8836048277189e0b1769e377955",
@@ -1170,20 +1484,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "60968949a3618c6a0a204fe7dd61da55e721e338fee26682fedbf0d8965508ca",
-      "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-      "title": "Attenborough and Prince William lead tributes to Dr Jane Goodall",
-      "content_html": "The leading conservationist has been remembered as \"a great champion of environmental protection\" after her death aged 91.",
-      "date_published": "2025-10-02T11:45:13+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "d6e13f5980f35cdf66a36dbfedc7e36b70dff43b4345e6563760d1b41ccfcac0",
@@ -1586,8 +1886,8 @@
     {
       "id": "dedf0f0aeaa794bf60676726c163ce8ad574b005133a5361c79c665642809eab",
       "url": "https://www.aljazeera.com/opinions/2025/10/2/no-bill-maher-there-is-no-christian-genocide-in-nigeria?traffic_source=rss",
-      "title": "No, Bill Maher, there is no ‘Christian genocide’ in Nigeria",
-      "content_html": "From Boko Haram to herder–farmer clashes, Nigeria’s crises are complex. Simplistic genocide claims fuel propaganda.",
+      "title": "Non, Bill Maher, il n'y a pas de «génocide chrétien» au Nigéria",
+      "content_html": "De Boko Haram aux affrontements Herder-Farmer, les crises du Nigéria sont complexes.Le génocide simpliste revendique la propagande de carburant.",
       "date_published": "2025-10-02T10:54:28+00:00",
       "authors": [],
       "tags": [
@@ -1597,7 +1897,7 @@
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "3d94d576227728e59db9dd981bb0c1e422d3cdc6758273bcf1694e996a9c6a04",
@@ -1804,22 +2104,6 @@
       "lang": "en"
     },
     {
-      "id": "c4bb0ae2c2a6781dea1d0df2fc670a57b4f6473b99f907398f71305c5764502f",
-      "url": "https://www.lefigaro.fr/international/l-annonce-d-une-hausse-des-visas-accordes-aux-etudiants-algeriens-provoque-un-tolle-20251001",
-      "title": "L’annonce d’une hausse des visas accordés aux étudiants algériens provoque un tollé",
-      "content_html": "Le drapeau algérien flottant à l’ambassade d’Algérie à Paris le 14 mai 2025.",
-      "date_published": "2025-10-02T10:15:44+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2266be7d77dfd7dd49eb1be54a9a0ae7483092b740d3934250e47b4bccf1da1f",
       "url": "https://www.lemonde.fr/international/article/2025/10/02/a-manchester-quatre-personnes-blessees-dans-une-attaque-au-couteau-a-l-exterieur-d-une-synagogue_6644070_3210.html",
       "title": "A Manchester, deux personnes ont été tuées dans une attaque devant une synagogue",
@@ -1919,7 +2203,7 @@
       "id": "cc56f37817add19b1ab4c9cc487bcb5aadaf17dc5d912171aba2cacfa2cf7cf8",
       "url": "https://www.dw.com/en/manchester-2-killed-in-synagogue-car-knife-attack/a-74214707?maca=en-rss-en-all-1573-rdf",
       "title": "Manchester: 2 killed in synagogue car, knife attack",
-      "content_html": "Police in the UK have declared a major incident outside a synagogue in Manchester. Two people died of their injuries, and the attacker is also believed to be dead after police opened fire.",
+      "content_html": "Police in the UK have declared a major incident outside a synagogue in Manchester. Two people died of their injuries, and the attacker was confirmed to be dead after police opened fire.",
       "date_published": "2025-10-02T09:58:00+00:00",
       "authors": [],
       "tags": [
@@ -2298,33 +2582,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "26733c224abe5c0ba272ff49681e68430f02ed6da84dd32a78735b9c5df994b9",
-      "url": "https://elpais.com/internacional/2025-10-02/convocada-una-huelga-general-en-italia-este-viernes-en-protesta-por-el-abordaje-de-la-flotilla-a-gaza.html",
-      "title": "Convoqué une grève générale en Italie ce vendredi pour protester contre l'approche de la flottille à Gaza",
-      "content_html": "Démonstration dans le centre de Rome mercredi soir pour protester contre l'approche de la flottille humanitaire à Gaza.",
-      "date_published": "2025-10-02T09:08:38+00:00",
-      "authors": [
-        {
-          "name": "Íñigo Domínguez"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Franja Gaza",
-        "Territorios palestinos",
-        "Derecho internacional",
-        "Flotilla de la libertad",
-        "Pacifismo",
-        "Italia",
-        "Mar Mediterráneo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "3fbbf91542a548b40cdb9b2ca6c5d8ff05a6050ed6eb495cd25e091d6e3aacd9",
@@ -3267,7 +3524,7 @@
     {
       "id": "01842591b78ce796544c562d1cf43639833a5ae758ad63177d43b66cf5289a18",
       "url": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss",
-      "title": "Israel threatens all staying in Gaza City, kills at least 34 in enclave",
+      "title": "Israel threatens all staying in Gaza City, kills at least 45 in enclave",
       "content_html": "Israeli Defence Minister Katz says anyone who stays in Gaza City will be considered &#039;terrorists and terror supporters&#039;.",
       "date_published": "2025-10-02T07:19:32+00:00",
       "authors": [],
@@ -3607,20 +3864,6 @@
       "lang": "en"
     },
     {
-      "id": "6c7c527b8e28fa764055526b7ae3eeac3322f4cd998da33d3bd4bad5478fa7bb",
-      "url": "https://www.lemonde.fr/international/article/2025/10/02/la-coree-du-sud-reconnait-pour-la-premiere-fois-sa-responsabilite-dans-des-adoptions-abusives-de-dizaines-de-milliers-d-enfants_6644033_3210.html",
-      "title": "La Corée du Sud reconnaît pour la première fois sa responsabilité dans des adoptions abusives de dizaines de milliers d’enfants",
-      "content_html": "Le président sud-coréen, Lee Jae-muyng, à Gyeryong le 1er octobre.",
-      "date_published": "2025-10-02T05:32:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "804e36d90bfde14decb3e78acbcc4fbdc01af116f4a2c9c5e8d1ab3aaacb4fd6",
       "url": "https://www.elmundo.es/internacional/2025/10/02/68de0a8fe4d4d8140c8b458e.html",
       "title": "Le gouvernement Trump déploiera des agents migratoires dans le Super Bowl pour la performance de Porto Rican Bad Bunny",
@@ -3644,22 +3887,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ac5b9d889d815bcaccdae95b6a74ef6b25d8d59e76c2e7da7118c78f81babccf",
-      "url": "https://www.aljazeera.com/news/2025/10/2/yasin-malik-kashmirs-best-known-separatist-an-indian-intelligence-asset?traffic_source=rss",
-      "title": "Yasin Malik, Kashmir’s best-known separatist, an Indian intelligence asset?",
-      "content_html": "In an affidavit whose contents have gripped India, Malik claims he worked with multiple Indian prime ministers, agents.",
-      "date_published": "2025-10-02T05:21:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "d6df151f9099ad13c332f4f12270c4f8fd24dc4bb034926fca0cc7baae79cc6d",
@@ -3929,22 +4156,6 @@
       "lang": "en"
     },
     {
-      "id": "0d5157e44add778f4fe983cab9d8dcc90b1b3d1642850f0417b7f7a311767017",
-      "url": "https://www.aljazeera.com/news/2025/10/2/fbi-cuts-ties-with-anti-defamation-league-amid-conservative-backlash?traffic_source=rss",
-      "title": "FBI cuts ties with Anti-Defamation League amid conservative backlash",
-      "content_html": "FBI Director Kash Patel announces break with anti-Semitism watchdog amid outrage over description of Charlie Kirk.",
-      "date_published": "2025-10-02T03:30:19+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2a5f0c1804f488a4b46a546a89e744fd461f7dd9162a0140e3d0df8d344d878d",
       "url": "https://www.bbc.com/news/articles/cly9gg3vervo?at_medium=RSS&at_campaign=rss",
       "title": "'We only have the sea to live on' - Senegal's fishermen blame BP project for lack of fish",
@@ -3955,22 +4166,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "23e30830e66113708d0e769f7059457ea09039a8cc9f652dd4b7e50371708d81",
-      "url": "https://www.ukrinform.net/rubric-economy/4042764-blackout-at-chornobyl-npp-lasted-over-three-hours-zelensky-says-russia-carried-out-targeted-strike-with-dozens-of-drones.html",
-      "title": "Blackout at Chornobyl NPP lasted over three hours: Zelensky says Russia carried out targeted strike with dozens of drones",
-      "content_html": "A blackout at facilities of the former Chornobyl Nuclear Power Plant lasted more than three hours following yesterday's Russian strike on a power substation in Slavutych.",
-      "date_published": "2025-10-02T03:19:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4035,26 +4230,6 @@
       "lang": "en"
     },
     {
-      "id": "4ef20a21aa18c47012f79b4492451323d948a0897d1bab0ee32fe0b71e822134",
-      "url": "https://www.france24.com/fr/info-en-continu/20251002-ecole-effondr%C3%A9e-en-indon%C3%A9sie-59-personnes-encore-pi%C3%A9g%C3%A9es-des-centaines-de-proches-dans-l-angoisse",
-      "title": "École effondrée en Indonésie : plus aucun signe de vie des 59 personnes encore ensevelies",
-      "content_html": "Après l'effondrement d'une école en Indonésie, les secouristes n'ont détecté aucun nouveau signe de vie sous les décombres, alors que 59 personnes sont encore portées disparues, a annoncé jeudi un responsable, faisant craindre un lourd bilan humain. Cinq survivants ainsi que deux cadavres avaient été extraits la veille.",
-      "date_published": "2025-10-02T03:03:26+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asie-Pacifique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "77bf2d274e09b2f8d810ea6759acd010c2e91c015744956d35265176ed93b853",
       "url": "https://www.france24.com/en/africa/20251002-deaths-morocco-protests-clashes-with-police",
       "title": "Two killed as Morocco protests escalate into clashes with police",
@@ -4112,22 +4287,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4348ddb837620ecf69b67c9867e19e289686ccaa4963b6abb0bf4912bcf93350",
-      "url": "https://www.dw.com/en/us-shutdown-white-house-freezes-funds-for-democratic-states/a-74210578?maca=en-rss-en-all-1573-rdf",
-      "title": "US shutdown: White House freezes funds for Democratic states",
-      "content_html": "The Trump administration has begun targeting funding projects in Democratic states. And Vice President JD Vance warned that the government might sack federal workers if the shutdown lasts more than a few days.",
-      "date_published": "2025-10-02T01:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -4296,22 +4455,6 @@
       "lang": "fr"
     },
     {
-      "id": "ec8106646866a551b382f70f2ca79efb8713399ff10607d8686c23d0fd326f2c",
-      "url": "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far?traffic_source=rss",
-      "title": "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
-      "content_html": "Global Sumud Flotilla had been pressing forward with its mission to break Israel&#039;s siege of Gaza.",
-      "date_published": "2025-10-01T23:21:31+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "56a0b39b87eaba250163a67bd93d92ee49a932eacf61978cc66b366f496f3ef1",
       "url": "https://ici.radio-canada.ca/nouvelle/2196432/oleoduc-projet-cote-ouest-gouvernement-albertain",
       "title": "L’Alberta prend la tête d’un projet d’oléoduc vers la côte ouest",
@@ -4465,26 +4608,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "3494c5e8e7d948e7b5d9da5608523a1835f85899fd2c2aac63ad73e445a7b911",
-      "url": "https://www.france24.com/en/europe/20251001-psg-win-barcelona-football-olympic-stadium",
-      "title": "Late Ramos strike seals Champions League winner PSG’s 2-1 upset over Barcelona",
-      "content_html": "Paris Saint-Germain (PSG) stunned Barcelona with a 90th-minute goal from Gonçalo Ramos, clinching a 2-1 away win in the Champions League on Wednesday. Depleted PSG battled back after Ferran Torres gave the hosts the lead, securing a dramatic victory at the Olympic Stadium.",
-      "date_published": "2025-10-01T21:39:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "878c6f47d26f02c29eb41af68afe791b4e088cb775287cf7ddae2058aac9c50d",
@@ -4653,7 +4776,7 @@
       "id": "a74622983829c2a9ae45f0cf106786acbdccbda4811f4ebd9cfef43ac9fc9ec5",
       "url": "https://elpais.com/internacional/2025-10-01/europa-impulsa-su-defensa-aerea-ante-la-guerra-de-los-drones-rusos.html",
       "title": "L'Europe conduit sa défense aérienne avant la guerre des drones russes",
-      "content_html": "Mette Frederiksen, Premier ministre du Danemark, accueille Emmanuel Macron, présidente de la France, ce mercredi au sommet informel des dirigeants de l'UE de Copenhague.",
+      "content_html": "Mette Frederiksen, Premier ministre du Danemark, accueille Emmanuel Macron, président de la France, ce mercredi au sommet informel des dirigeants de l'UE de Copenhague.",
       "date_published": "2025-10-01T20:47:01+00:00",
       "authors": [
         {
@@ -4778,22 +4901,6 @@
       "lang": "fr"
     },
     {
-      "id": "e2547a75278d6b6278e7c8203a6f1da02b77415b85b0e486a64afa2aac41a9a9",
-      "url": "https://www.dw.com/en/middle-east-israel-intercepts-gaza-aid-flotilla/live-74203054?maca=en-rss-en-all-1573-rdf",
-      "title": "Middle East: Israel intercepts Gaza aid flotilla",
-      "content_html": "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast. Meanwhile, the Red Cross says Israel's offensive has \"forced\" it to pause activities in Gaza City. DW has more.",
-      "date_published": "2025-10-01T19:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7f961d139cc43f3657da0f999dba14431bf015faf33db53e9c20128b33538f95",
       "url": "https://www.dw.com/en/jane-goodall-said-the-biggest-problem-is-greed/a-49556942?maca=en-rss-en-all-1573-rdf",
       "title": "Jane Goodall said 'the biggest problem is greed'",
@@ -4813,7 +4920,7 @@
       "id": "90c9f2b150e4adef4b564136653911614f260022bb85294ec9ef5b25a3d3d177",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dd233efdddff68458b4589.html",
       "title": "Leçon de diplomatie et de domination noire et noire",
-      "content_html": "Il y a des milliers d'images de conversations de paix, mais probablement peu disent tellement et en même temps que l'appel du pardon de Benjamin Netanyahu au Premier ministre Catarí à la Maison Blanche",
+      "content_html": "Il y a des milliers d'images de conversations de paix, mais probablement peu en disent beaucoup et en même temps que l'appel du pardon de Benjamin Netanyahu au Premier ministre Catarí à la Maison Blanche",
       "date_published": "2025-10-01T19:07:24+00:00",
       "authors": [
         {
@@ -6556,7 +6663,7 @@
       "id": "d9afa9ad6f195d0bfb235603f09a47f1e1b2f88863eefa5822d10e2998486e07",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dccc97fc6c83f71a8b45b3.html",
       "title": "Le chef présumé du meurtre de trois filles délivré en streaming en Argentine",
-      "content_html": "Il y en a déjà neuf détenus pour la torture et le meurtre de Morena Verna, 20 ans, Brenda del Castillo, également de 20 ans, et Lara Guérrez, 15 ans, le 19 septembre à Buenos Aires",
+      "content_html": "Il y en a déjà neuf détenus pour la torture et le meurtre de Morena Verna, 20 ans, de Brenda del Castillo, également de 20 ans, et de Lara Guérrez, 15 ans, le 19 septembre à Buenos Aires",
       "date_published": "2025-10-01T06:48:59+00:00",
       "authors": [
         {
@@ -7552,24 +7659,6 @@
       "lang": "en"
     },
     {
-      "id": "d44d9e9e79ef3c77cfb34b52bb2c30b8ebb183800a160119028faeb0b6ddbbe2",
-      "url": "https://www.liberation.fr/international/amerique/au-mexique-un-an-de-pouvoir-et-une-popularite-au-sommet-pour-la-presidente-claudia-sheinbaum-20250930_SNF3PECW4FCQNL7KWJO32XTK3E/",
-      "title": "Au Mexique, un an de pouvoir et une popularité au sommet pour la présidente Claudia Sheinbaum",
-      "content_html": "La présidente du Mexique, Claudia Sheinbaum, sur la place du Zocalo à Mexico, le 1er octobre 2024.",
-      "date_published": "2025-09-30T13:39:26+00:00",
-      "authors": [
-        {
-          "name": "Diego Calmard"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "42a6967c08e0c5600d136b0e410e2fe9d297783a0c33e706c33fd4a2689d9a73",
       "url": "https://www.bbc.com/news/articles/c0jq63edv21o?at_medium=RSS&at_campaign=rss",
       "title": "For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
@@ -7637,7 +7726,7 @@
       "id": "31069f04f20b5fa5be4917cea1a8a0f9152cc18e37ad2d670b2655275e4daa34",
       "url": "https://www.elmundo.es/internacional/2025/09/30/68db719dfc6c8332718b4576.html",
       "title": "Optimisme prudent en Israël pour le plan de paix: le Hamas \"est enclin à accepter\" et Trump donne à la date limite de répondre \"trois ou quatre jours\"",
-      "content_html": "Le groupe peut essayer de négocier par le Qatar et l'Égypte des améliorations et des garanties dans le document présenté par le président des États-Unis",
+      "content_html": "Le groupe peut essayer de négocier par le Qatar et l'Égypte et les garanties dans le document présenté par le président des États-Unis",
       "date_published": "2025-09-30T13:12:39+00:00",
       "authors": [
         {
@@ -7921,29 +8010,6 @@
       "lang": "en"
     },
     {
-      "id": "50a43709022bb1cfbd852a96433d57dee90a077774a10d4419be39e4f4fd6cd9",
-      "url": "https://www.theguardian.com/world/2025/sep/29/madagascars-president-dissolves-government-amid-youth-led-protests",
-      "title": "Madagascar’s president dissolves government amid youth-led protests",
-      "content_html": "<p>Demonstrations over water and power cuts inspired by ‘gen-Z’ protests elsewhere have left at least 22 dead, says UN</p><p><a href=\"https://www.theguardian.com/world/madagascar\">Madagascar</a>’s president, Andry Rajoelina, has dissolved the government after youth-led protests over water and power cuts in which the UN says at least 22 people have been killed and more than 100 injured.</p><p>Inspired by the “gen Z” protests in Kenya and Nepal, the three days of demonstrations are the largest the Indian Ocean island has seen in years, and the most serious challenge Rajoelina has faced since <a href=\"https://www.theguardian.com/world/2023/nov/25/madagascars-andry-rajoelina-re-elected-after-boycotted-presidential-poll\">his re-election in 2023</a>.</p> <a href=\"https://www.theguardian.com/world/2025/sep/29/madagascars-president-dissolves-government-amid-youth-led-protests\">Continue reading...</a>",
-      "date_published": "2025-09-29T18:38:51+00:00",
-      "authors": [
-        {
-          "name": "Guardian staff and agencies in Antananarivo"
-        }
-      ],
-      "tags": [
-        "Madagascar",
-        "Protest",
-        "Africa",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c85a5f3f4eceb7e2b276b6b74233697ef195ec4fc2e5223b526fb9308e950555",
       "url": "https://www.theguardian.com/world/2025/sep/29/afghanistan-communications-blackout-taliban-shuts-internet",
       "title": "Afghanistan hit by communications blackout after Taliban shuts internet",
@@ -8117,10 +8183,10 @@
       "lang": "en"
     },
     {
-      "id": "d3fccae5a74b05e32ae48e0b6886ec6ebe0fd806deb07df6a7115d5d527a8b14",
-      "url": "https://www.dw.com/en/fifpro-risk-to-player-health-rising-ahead-of-2026-world-cup/a-74148515?maca=en-rss-en-all-1573-rdf",
-      "title": "FIFPRO: 'Risk to player health rising' ahead of 2026 World Cup",
-      "content_html": "A report from the global football player union highlights concerns about player load and heat leading up to next summer's World Cup.",
+      "id": "7398d0cca6e56fd1e0cef62f3a13c206afeef04c1dce9b0a29ddfe1db39a7d1f",
+      "url": "https://www.dw.com/en/achraf-hakimi-and-football-s-growing-issue-playing-time/a-74145216?maca=en-rss-en-all-1573-rdf",
+      "title": "Achraf Hakimi and football's growing issue: playing time",
+      "content_html": "According to a new FIFPRO report, Morocco and Paris Saint-Germain star Achraf Hakimi is a footballer at his limit, having had a season that lasted nearly a whole year.",
       "date_published": "2025-09-29T12:02:00+00:00",
       "authors": [],
       "tags": [
@@ -8133,10 +8199,10 @@
       "lang": "en"
     },
     {
-      "id": "7398d0cca6e56fd1e0cef62f3a13c206afeef04c1dce9b0a29ddfe1db39a7d1f",
-      "url": "https://www.dw.com/en/achraf-hakimi-and-football-s-growing-issue-playing-time/a-74145216?maca=en-rss-en-all-1573-rdf",
-      "title": "Achraf Hakimi and football's growing issue: playing time",
-      "content_html": "According to a new FIFPRO report, Morocco and Paris Saint-Germain star Achraf Hakimi is a footballer at his limit, having had a season that lasted nearly a whole year.",
+      "id": "d3fccae5a74b05e32ae48e0b6886ec6ebe0fd806deb07df6a7115d5d527a8b14",
+      "url": "https://www.dw.com/en/fifpro-risk-to-player-health-rising-ahead-of-2026-world-cup/a-74148515?maca=en-rss-en-all-1573-rdf",
+      "title": "FIFPRO: 'Risk to player health rising' ahead of 2026 World Cup",
+      "content_html": "A report from the global football player union highlights concerns about player load and heat leading up to next summer's World Cup.",
       "date_published": "2025-09-29T12:02:00+00:00",
       "authors": [],
       "tags": [
@@ -8717,20 +8783,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3565ffe833e340a8658a8dfa3ff122f7932078703afd26b8b17d2486c33d3f94",
-      "url": "https://www.themoscowtimes.com/2025/09/26/ukraine-says-russia-using-new-tactics-on-front-a90638",
-      "title": "Ukraine Says Russia Using 'New Tactics' on Front",
-      "content_html": "Ukrainian commander-in-chief Oleksandr Syrskyi said Russia is now deploying smaller sabotage groups in a bid to pierce deep through the front.",
-      "date_published": "2025-09-26T14:13:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
