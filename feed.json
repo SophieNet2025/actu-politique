@@ -5,11 +5,29 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "2faefd4f529e196fcee1cdfbf07d19ef7d329bb06473e65b77e075bbc43248bd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196797/attaque-synagogue-manchester-police-responsable-mort",
-      "title": "Attaque d’une synagogue : l’auteur « influencé par l’idéologie islamiste radicale »",
-      "content_html": "<p>L&#x27;attaque a eu lieu jeudi matin alors que la synagogue était très fréquentée.</p>",
-      "date_published": "2025-10-03T21:32:54+00:00",
+      "id": "bf2a2d4f4daff0fad54d2e8b72ee98750707f9a80ca4e9f18f90a4797eaa8aaa",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-le-hamas-se-dit-pret-a-liberer-les-otages-israeliens-dans-le-cadre-de-la-proposition-de-cessez-le-feu-de-trump-20251003_EHILZ6U47NHMNJCZSXMKDLYAZU/",
+      "title": "Gaza : le Hamas prêt à libérer tous les otages israéliens et à des négociations immédiates en vue de la fin de la guerre",
+      "content_html": "Manifestation pour la libération des otages israéliens à Gaza, le 30 septembre, à Tel Aviv.",
+      "date_published": "2025-10-03T22:24:26+00:00",
+      "authors": [
+        {
+          "name": "AFP, Reuters .,  LIBERATION"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "97d57ffffdea77d15401164cab29dabdc2921ea05a068bfe159cf59043d345e0",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013042/le-hamas-pret-a-liberer-tous-les-otages-mais-refuse-de-se-desarmer",
+      "title": "Le Hamas prêt à libérer tous les otages et à négocier",
+      "content_html": "<p>Donald Trump dit que la réponse du Hamas signifie qu&#x27;«&nbsp;Israël doit immédiatement cesser les bombardements&nbsp;».</p>",
+      "date_published": "2025-10-03T22:23:10+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,39 +37,43 @@
       "lang": "fr"
     },
     {
-      "id": "894baa3415fe811261d12caf4681e7bef35234eb58a10a450c9cd5ae8cda4f81",
-      "url": "https://www.france24.com/en/live-news/20251003-trump-orders-israel-to-stop-bombing-gaza-after-hamas-partially-accepts-his-peace-plan",
-      "title": "Trump orders Israel to stop bombing Gaza after Hamas partially accepts his peace plan",
-      "content_html": "",
-      "date_published": "2025-10-03T21:30:20+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "5a749b596d4c11ae4430dd8b6b0aa264632d006ea9cef54e6f48e0772b3789d4",
+      "url": "https://elpais.com/internacional/2025-10-03/trump-considera-que-hamas-esta-listo-para-la-paz.html",
+      "title": "Trump demande à Israël de mettre fin à \"immédiatement\" les attentats à Gaza",
+      "content_html": "Donald Trump va à la presse, cette semaine à Washington.",
+      "date_published": "2025-10-03T22:18:28+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy"
+        }
+      ],
+      "tags": [
+        "Guerra",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo",
+        "Estados Unidos",
+        "Donald Trump",
+        "Casa Blanca"
+      ],
       "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
-      "lang": "en"
-    },
-    {
-      "id": "1f15d5b65abbdfe4217e8826bc95fa015d98d4eec864161a98d78bd97bf3a01b",
-      "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-      "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-      "content_html": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
-      "date_published": "2025-10-03T21:29:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "764ef8f3e2001ee6ccb438c07f1d8c00c7673692055dfd62b08e0a6d854e1956",
       "url": "https://elpais.com/internacional/2025-10-03/hamas-acepta-liberar-a-todos-los-rehenes-pero-pide-negociar-los-detalles-del-plan-de-paz-de-trump-para-gaza.html",
       "title": "Le Hamas accepte de libérer tous les otages mais demande à \"négocier les détails\" du plan Trump pour Gaza",
       "content_html": "Hier, la fumée monte dans le bâtiment d'Al Harazin après une attaque aérienne lors d'une opération militaire israélienne à Ciudad de Gaza.",
-      "date_published": "2025-10-03T21:27:22+00:00",
+      "date_published": "2025-10-03T22:14:28+00:00",
       "authors": [
         {
           "name": "Antonio Pita ,Trinidad Deiros"
@@ -78,20 +100,393 @@
       "lang": "fr"
     },
     {
-      "id": "bf2a2d4f4daff0fad54d2e8b72ee98750707f9a80ca4e9f18f90a4797eaa8aaa",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-le-hamas-se-dit-pret-a-liberer-les-otages-israeliens-dans-le-cadre-de-la-proposition-de-cessez-le-feu-de-trump-20251003_EHILZ6U47NHMNJCZSXMKDLYAZU/",
-      "title": "Gaza : le Hamas se dit prêt à libérer tous les otages israéliens dans le cadre du plan de paix proposé par Donald Trump",
-      "content_html": "Manifestation pour la libération des otages israéliens à Gaza, le 30 septembre, à Tel Aviv.",
-      "date_published": "2025-10-03T21:26:33+00:00",
+      "id": "e54c22d47360c33d45b7b770c18771e134766d78958ee952cb0ce2bf91827bdc",
+      "url": "https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa",
+      "title": "Arkansas man seeks to have visa status restored after being arrested for ‘Opium’ perfume bottle",
+      "content_html": "<p>Police thought bottle contained drugs and arrested Kapil Raghu, who was then taken into custody by Ice</p><p>An Arkansas man, who was detained for a month by US Immigration and Customs Enforcement (Ice) after authorities mistook his bottle of perfume for opium, is seeking to have his visa status restored after the charges were dropped.</p><p>Kapil Raghu, an Indian national married to an American woman and working towards American citizenship, was detained on 3 May after police officers in Benton, a suburb of Little Rock, pulled him over for having a non-moving traffic violation, according to his attorney, Mike Laux.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa\">Continue reading...</a>",
+      "date_published": "2025-10-03T22:07:06+00:00",
       "authors": [
         {
-          "name": "AFP, Reuters .,  LIBERATION"
+          "name": "Coral Murphy Marcos"
         }
       ],
+      "tags": [
+        "Arkansas",
+        "Ice (US Immigration and Customs Enforcement)",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6d2e9d84e6c3c49a35bb7697fb62bb29aec058377bb5b86ddb9e49b8f91cca3b",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/10/3/how-is-the-government-shutdown-being-felt-across-the-us?traffic_source=rss",
+      "title": "How is the government shutdown being felt across the US?",
+      "content_html": "Hundreds of thousands of employees furloughed as government closes down.",
+      "date_published": "2025-10-03T22:01:18+00:00",
+      "authors": [],
+      "tags": [
+        "TV Shows"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c5a7de488bec4e6aa000ec51ffa00585097804eccea266a4ec3528dbe2e4c432",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68dfa39e21efa01b6a8b459a.html",
+      "title": "L'auteur de l'attaque de Manchester a été libéré sous caution pour viol",
+      "content_html": "L'une des victimes d'attaque de Manchester est décédée des coups de police",
+      "date_published": "2025-10-03T21:59:55+00:00",
+      "authors": [
+        {
+          "name": "Pablo Pardo"
+        }
+      ],
+      "tags": [
+        "Artículos Pablo Pardo"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bbc31f240ffeb24a8adaeb51f7a4f49da6f4dfdf99205c234884a5906fed459a",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates",
+      "title": "Trump says Hamas is ready for peace and Israel ‘must immediately stop bombing of Gaza’ – live",
+      "content_html": "<p>Donald Trump welcomes response from Hamas to his Gaza plan despite group saying further negotiations are required over details</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/hamas-likely-to-accept-trump-peace-plan-with-key-revisions-experts-say\">Hamas could ask for revisions to Trump Gaza plan, sources and analysts say</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/03/trump-government-shutdown-republicans-democrats\">US government shutdown day three: Republicans and Democrats make little progress on deal</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/03/trump-administration-shutdown-chicago\">Trump administration freezes $2.1bn in funds for Chicago transit projects</a></p></li></ul><p>As the world waits for Hamas’s response to Donald Trump’s <a href=\"https://www.theguardian.com/world/2025/sep/29/trump-peace-plan-gaza-israel-hamas\">peace plan for Gaza</a>, the US president has issued a new deadline for the militant group of <strong>6pm ET on Sunday</strong>.</p><p>Trump, who on Monday gave Hamas “three or four days” to respond to his ultimatum, said they were being given “one last chance”. He wrote on his Truth Social platform this morning:</p><p>Every Country has signed on! <strong>If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas</strong>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-10-03T21:58:25+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey (now); Lucy Campbell and José Olivares (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Donald Trump",
+        "US Congress",
+        "US news",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "867a8211425846043e98bf03b896d02fe816952d41a7eb4332634860cc03b061",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates",
+      "title": "Sean ‘Diddy’ Combs sentenced to more than four years in prison and given $500,000 fine – live updates",
+      "content_html": "<p>Combs, who was convicted of ‘transportation to engage in prostitution’, sentenced in New York</p><p><strong>The prosecution <a href=\"https://viewer.gutools.co.uk/us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation\">submitted several victim impact </a>statements to the court ahead of sentencing, including one from Ventura.</strong></p><p>“While the jury did not seem to understand or believe that I engaged in freak-offs because of the force and coercion the defendant used against me, I know that is the truth, and his sentence should reflect the reality of the evidence and my lived experience as a victim” Ventura <a href=\"https://viewer.gutools.co.uk/us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation\">wrote</a>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-10-03T21:58:08+00:00",
+      "authors": [
+        {
+          "name": "José Olivares (now) and Marina Dunbar (earlier)"
+        }
+      ],
+      "tags": [
+        "US news",
+        "New York",
+        "Sean ‘Diddy‘ Combs",
+        "Law"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7318b63d53156f32d7422b3cc7db670ded3b8c24a57ada278b231268937151d1",
+      "url": "https://www.aljazeera.com/news/2025/10/3/fbi-cuts-ties-with-civil-rights-watchdog-splc-after-conservative-pressure?traffic_source=rss",
+      "title": "FBI cuts ties with civil rights watchdog SPLC after conservative pressure",
+      "content_html": "Conservatives like billionaire Elon Musk had criticised the group for its criticism of Charlie Kirk&#039;s Turning Point USA.",
+      "date_published": "2025-10-03T21:58:03+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cc7679aa70e75f462011b39b38ea35485541faa6aa8bba8080ffc0ce16a23922",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68e029fce85ece360a8b45a9.html",
+      "title": "Le Hamas accepte de livrer à \"tous les otages\" mais demande à négocier d'autres points du plan Trump",
+      "content_html": "L'ultimatum émis par le président des États-Unis pour que le groupe terroriste accepte sa proposition terminée dimanche",
+      "date_published": "2025-10-03T21:54:15+00:00",
+      "authors": [
+        {
+          "name": "Sal Emergui"
+        }
+      ],
+      "tags": [
+        "Hamas",
+        "Franja de Gaza",
+        "Donald Trump",
+        "Guerra en Israel",
+        "Israel"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e6031713b677d136259e1a2b15274d1e35231aca97729e018a57693c5cfdc05d",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196965/marineland-euthanasie-belugas",
+      "title": "Marineland menace d’euthanasier 30 bélugas",
+      "content_html": "<p>Le parc d&#x27;attractions affirme ne plus avoir les ressources pour leur apporter des soins.</p>",
+      "date_published": "2025-10-03T21:53:20+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5442a89ab79487cbbbdb046a30f56ea910f42152f4cdf5b304e0660ce3ce0335",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196953/sean-diddy-combs-peine-prison",
+      "title": "Sean « Diddy » Combs condamné à plus de quatre ans de prison",
+      "content_html": "<p>Le rappeur attendait depuis le mois de juillet d’être fixé sur sa peine.</p>",
+      "date_published": "2025-10-03T21:52:45+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1f15d5b65abbdfe4217e8826bc95fa015d98d4eec864161a98d78bd97bf3a01b",
+      "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+      "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+      "content_html": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
+      "date_published": "2025-10-03T21:51:16+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b7b624adb0f8950f4a5fc807ed8cc880aef4c60428d82a93fc3b205e89b58df6",
+      "url": "https://www.aljazeera.com/news/2025/10/3/supreme-court-allows-trump-to-nix-temporary-status-for-venezuelan-migrants?traffic_source=rss",
+      "title": "Supreme Court allows Trump to nix temporary status for Venezuelan migrants",
+      "content_html": "The US court&#039;s conservative supermajority once again backed Trump&#039;s efforts to limit temporary immigration pathways.",
+      "date_published": "2025-10-03T21:48:49+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3efd851eda6bad6db83fd681c1837c0d860014177d1719100859c97058f83f42",
+      "url": "https://www.lefigaro.fr/international/manchester-endeuille-par-un-attentat-islamiste-contre-une-synagogue-20251003",
+      "title": "Attentat antisémite à Manchester : l’assaillant, un Britannique d’origine syrienne au profil encore flou",
+      "content_html": "Des personnes assistent à une veillée organisée par le Conseil Représentatif des Juifs de Grande Manchester et de la Région pour honorer les victimes de l’attaque de la synagogue de Manchester, en Grande-Bretagne, le 3 octobre 2025.",
+      "date_published": "2025-10-03T21:44:04+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c945339748b44b666ad04394b1d118400ba8641411cbcbd095499c903353ed37",
+      "url": "https://www.theguardian.com/music/2025/oct/03/sean-diddy-combs-trial-sentence",
+      "title": "Sean ‘Diddy’ Combs sentenced to more than four years in prison on prostitution-related charges",
+      "content_html": "<p>Federal prosecutors had pushed for a jail term of 11 years and three months of a possible 20 after music mogul’s conviction</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates\">Sean ‘Diddy’ Combs sentencing – live updates</a></p></li></ul><p>A New York federal judge has sentenced <a href=\"https://www.theguardian.com/music/diddy\">Sean “Diddy” Combs</a> to four years and two months in prison following his conviction this summer on federal prostitution-related charges.</p><p>The sentencing on Friday in Manhattan came after a federal jury in July <a href=\"https://www.theguardian.com/music/2025/jul/02/diddy-trial-verdict-sean-combs\">acquitted</a> the 55-year-old music mogul of the most serious charges against him – racketeering conspiracy and sex trafficking – but found him guilty of two counts of transportation to engage in prostitution. Each count carried a maximum sentence of 10 years in prison.</p> <a href=\"https://www.theguardian.com/music/2025/oct/03/sean-diddy-combs-trial-sentence\">Continue reading...</a>",
+      "date_published": "2025-10-03T21:43:30+00:00",
+      "authors": [
+        {
+          "name": "Anna Betts in New York"
+        }
+      ],
+      "tags": [
+        "Sean ‘Diddy‘ Combs",
+        "Music",
+        "US news",
+        "Culture",
+        "US crime"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "626f6b4ed011b55db73be0adc34787bfcbf04459fc8c29df0149aa77dcd0b2c0",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation",
+      "title": "Metropolitan police officer arrested after undercover BBC investigation",
+      "content_html": "<p>Sergeant arrested on suspicion of perverting course of justice after colleagues filmed making racist and sexist remarks</p><p>A serving Metropolitan police officer has been arrested on suspicion of perverting the course of justice, after undercover footage showed colleagues at Charing Cross police station making racist and sexist comments.</p><p>The footage, gathered for a BBC Panorama documentary, appears to show officers at a central London station calling for immigrants to be shot and boasting about using violence against suspects.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation\">Continue reading...</a>",
+      "date_published": "2025-10-03T21:43:22+00:00",
+      "authors": [
+        {
+          "name": "PA Media"
+        }
+      ],
+      "tags": [
+        "Metropolitan police",
+        "London",
+        "Police",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dce9b350baf452184361a7db39d5116f7491f8e1a013a57f8ff96e4fe503e5e4",
+      "url": "https://www.dw.com/en/germany-munich-airport-closes-again-amid-drone-sightings/live-74226128?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany: Munich airport closes again amid drone sightings",
+      "content_html": "Both runways at Munich airport have been closed for the second time in 24 hours after further \"unconfirmed drone sightings.\" A drone was earlier sighted over a nearby military facility. DW has more.",
+      "date_published": "2025-10-03T21:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2faefd4f529e196fcee1cdfbf07d19ef7d329bb06473e65b77e075bbc43248bd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2196797/attaque-synagogue-manchester-police-responsable-mort",
+      "title": "Attaque d’une synagogue : l’auteur « influencé par l’idéologie islamiste radicale »",
+      "content_html": "<p>L&#x27;attaque a eu lieu jeudi matin alors que la synagogue était très fréquentée.</p>",
+      "date_published": "2025-10-03T21:38:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8dbbc9b2bc25ef1a28032b126cff19f38004cfab7cfca96da1717c385a662add",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68e03f13fc6c8350798b458b.html",
+      "title": "Trump dit qu'il croit que le Hamas est prêt pour \"une paix durable\" et qu'Israël doit \"arrêter immédiatement les attentats\" à Gaza",
+      "content_html": "\"Nous négocions déjà les détails qui doivent encore être résolus. Il ne s'agit pas seulement de Gaza, c'est la paix longue au Moyen-Orient\"",
+      "date_published": "2025-10-03T21:38:15+00:00",
+      "authors": [
+        {
+          "name": "EL MUNDO"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Franja de Gaza",
+        "Artículos EL MUNDO"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2991a1300c6a770d9e69f0b9c528f2cc05e3c313c1d2acbcf8a469e2cb79573c",
+      "url": "https://www.ukrinform.net/rubric-society/4043236-occupants-in-tot-prepare-repressions-against-parents-whose-children-study-in-ukrainian-schools-online-ccd.html",
+      "title": "Occupants in TOT prepare repressions against parents whose children study in Ukrainian schools online — CCD",
+      "content_html": "The occupiers are blackmailing people with the deprivation of parental rights in order to force their children to attend Russian schools and constantly feed them Kremlin propaganda.",
+      "date_published": "2025-10-03T21:38:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "07a616f22a77e27dab5e489a5196738859e2f8611e7e4ecf96a587a02dc9f697",
+      "url": "https://www.timesofisrael.com/liveblog-october-04-2025/",
+      "title": "Trump says he believes Hamas ‘ready for peace,’ demands Israel immediately halt strikes in Gaza",
+      "content_html": "<p>After terror group welcomes parts of his proposal for ending war, US president tells Israel for first time to 'stop the bombing of Gaza' * Says ‘it’s far too dangerous’ to ‘get the hostages out safely and quickly’ amid Israeli strikes</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-october-04-2025/\">Trump says he believes Hamas ‘ready for peace,’ demands Israel immediately halt strikes in Gaza</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/G2XO_g_XkAAaKLs-1024x640.jpeg\" title=\"Trump says he believes Hamas ‘ready for peace,’ demands Israel immediately halt strikes in Gaza\" width=\"160\" /></figure>",
+      "date_published": "2025-10-03T21:33:56+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Liveblog"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "894baa3415fe811261d12caf4681e7bef35234eb58a10a450c9cd5ae8cda4f81",
+      "url": "https://www.france24.com/en/live-news/20251003-trump-orders-israel-to-stop-bombing-gaza-after-hamas-partially-accepts-his-peace-plan",
+      "title": "Trump orders Israel to stop bombing Gaza after Hamas accepts peace plan",
+      "content_html": "Hamas responded to US President Donald Trump's 20-point peace plan to end the war in Gaza on Friday, after the president issued the group an ultimatum to answer by Sunday evening. Hamas announced that it was willing to release hostages, but said some elements of the plan would need to be further discussed.",
+      "date_published": "2025-10-03T21:30:20+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8f95863fd062fa496d5f4d6b24592eeff1c3bd29323e7a079390134221d6a98a",
+      "url": "https://www.france24.com/fr/info-en-continu/20251003-donald-trump-demande-%C3%A0-isra%C3%ABl-d-arr%C3%AAter-imm%C3%A9diatement-les-bombardements-%C3%A0-gaza",
+      "title": "Gaza : le Hamas prêt à libérer les otages, Donald Trump demande l'arrêt immédiat des bombardements",
+      "content_html": "Après la réponse du Hamas à son plan de paix pour Gaza, Donald Trump a estimé vendredi que le mouvement islamiste palestinien \"était prêt pour une paix durable\" et a demandé à Israël d'arrêter \"immédiatement les bombardements\" afin que les otages puissent être libérés \"en toute sécurité\".",
+      "date_published": "2025-10-03T21:27:32+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -126,40 +521,56 @@
       "lang": "fr"
     },
     {
-      "id": "bbc31f240ffeb24a8adaeb51f7a4f49da6f4dfdf99205c234884a5906fed459a",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates",
-      "title": "Trump says Hamas is ready for peace and Israel ‘must immediately stop bombing of Gaza’ – live",
-      "content_html": "<p>Donald Trump welcomes response from Hamas to his Gaza plan despite group saying further negotiations are required over details</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/hamas-likely-to-accept-trump-peace-plan-with-key-revisions-experts-say\">Hamas could ask for revisions to Trump Gaza plan, sources and analysts say</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/03/trump-government-shutdown-republicans-democrats\">US government shutdown day three: Republicans and Democrats make little progress on deal</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/03/trump-administration-shutdown-chicago\">Trump administration freezes $2.1bn in funds for Chicago transit projects</a></p></li></ul><p>As the world waits for Hamas’s response to Donald Trump’s <a href=\"https://www.theguardian.com/world/2025/sep/29/trump-peace-plan-gaza-israel-hamas\">peace plan for Gaza</a>, the US president has issued a new deadline for the militant group of <strong>6pm ET on Sunday</strong>.</p><p>Trump, who on Monday gave Hamas “three or four days” to respond to his ultimatum, said they were being given “one last chance”. He wrote on his Truth Social platform this morning:</p><p>Every Country has signed on! <strong>If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas</strong>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-10-03T21:24:51+00:00",
+      "id": "cd47b1c14f17c49f16ab5323150975fd52a3adb35da66fc5356848da8d7ef4e4",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251003-manifestations-%C3%A0-madagascar-le-pr%C3%A9sident-d%C3%A9nonce-une-tentative-de-coup-d-etat",
+      "title": "Manifestations à Madagascar: le président dénonce une tentative de \"coup d'Etat\"",
+      "content_html": "Les manifestations qui se poursuivent à Tananarive. Le pays secoué par un vaste mouvement de contestation, le plus important depuis des années, mené par des jeunes de la génération Z.\n \nÉgalement dans l'actualité : au Maroc, le collectif GenZ 212 appelle à la démission du gouvernement après plusieurs jours de mobilisation.\n \nEnfin, notre invité est un danseur, chanteur, animateur, dont l'identité musicale est un savoureux mélange de rythmes afro-caribéens et urbains : Jessy Matador.",
+      "date_published": "2025-10-03T21:25:28+00:00",
       "authors": [
         {
-          "name": "Robert Mackey (now); Lucy Campbell and José Olivares (earlier)"
+          "name": "Fatimata WANE"
         }
       ],
       "tags": [
-        "Trump administration",
-        "Donald Trump",
-        "US Congress",
-        "US news",
-        "US politics"
+        "Journal de l'Afrique"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bd0c82697665f3082d1b48c72cfd0cdcc6fd4c349e21a55dab871f9866a7622d",
+      "url": "https://www.aljazeera.com/news/2025/10/3/police-say-one-victim-possibly-shot-by-officer-during-manchester-attack?traffic_source=rss",
+      "title": "Police say one victim possibly shot by officer during Manchester attack",
+      "content_html": "Deputy Prime Minister David Lammy heckled by members of the public at vigil for victims of attack.",
+      "date_published": "2025-10-03T21:24:36+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
     {
-      "id": "98e6681cd370f5e23a14d4d271f966a4afe9374796852587c0145306a9a17de9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196926/hamas-liberation-otages-gaza-trump",
-      "title": "Le Hamas prêt à libérer tous les otages, mais refuse de se désarmer",
-      "content_html": "<p>Donald Trump dit que la réponse du Hamas signifie qu&#x27;«&nbsp;Israël doit immédiatement cesser les bombardements&nbsp;».</p>",
-      "date_published": "2025-10-03T21:24:33+00:00",
-      "authors": [],
+      "id": "6062a3f2d1f9a9149bc6ca93116bbe39402a64a2afa439cf95feffb1dd4cabeb",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251003-jessy-matador-20-ans-de-carri%C3%A8re-de-d%C3%A9cal%C3%A9-gwada-%C3%A0-l-arena-grand-paris",
+      "title": "Jessy Matador : 20 ans de carrière, de \"Décalé Gwada\" à l’Arena Grand Paris",
+      "content_html": "Il a fait danser la France entière avec ses tubes festifs et ses chorégraphies virales. De ses débuts comme danseur en 2001 à son explosion avec Décalé Gwada, jusqu’à sa participation à l’Eurovision avec Allez Ola Olé, Jessy Matador fête 20 ans de carrière. Chanteur, danseur, showman, il s’impose comme l’un des pionniers de l’\"Afrikan New Style\", mêlant rythmes afro-caribéens, dancehall et sons urbains. À l’occasion de cet anniversaire, il prépare un concert exceptionnel le 7 février 2026 à l’Arena Grand Paris, entouré de La Sélésao et de nombreux invités.",
+      "date_published": "2025-10-03T21:20:36+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -167,7 +578,7 @@
       "id": "ce883c768867e8ef02049a0935a5959d505e9973b8082f6badaee7ea4ec29044",
       "url": "https://www.dw.com/en/us-sean-diddy-combs-sentenced-to-over-4-years-in-prison/a-74233017?maca=en-rss-en-all-1573-rdf",
       "title": "US: Sean 'Diddy' Combs sentenced to over 4 years in prison",
-      "content_html": "The US rapper and record producer was convicted over sexual encounters, capping a sordid federal case that featured harrowing testimony.",
+      "content_html": "The US rapper and record producer was convicted over sexual encounters, capping a sordid federal case that featured harrowing testimony. The judge said \"these were serious offenses that irreparably harmed two women.\"",
       "date_published": "2025-10-03T21:20:00+00:00",
       "authors": [],
       "tags": [
@@ -291,20 +702,6 @@
       "lang": "en"
     },
     {
-      "id": "5442a89ab79487cbbbdb046a30f56ea910f42152f4cdf5b304e0660ce3ce0335",
-      "url": "https://ici.radio-canada.ca/nouvelle/2196953/sean-diddy-combs-peine-prison",
-      "title": "Sean « Diddy » Combs condamné à plus de quatre ans de prison",
-      "content_html": "<p>Le rappeur attendait depuis le mois de juillet d’être fixé sur sa peine.</p>",
-      "date_published": "2025-10-03T21:09:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cc03e554e9094e130a21fc497827de24260fab297be5a83c563c8d2aa497cd58",
       "url": "https://www.liberation.fr/international/amerique/lex-titan-du-hip-hop-sean-combs-alias-p-diddy-ecope-de-plus-de-quatre-ans-de-prison-pour-transport-de-personnes-a-des-fins-de-prostitution-20251003_KDG4OXWPKZB5VGSFSNMC2B7ZMU/",
       "title": "L’ex-titan du hip-hop Sean Combs, alias P. Diddy, écope de quatre ans et deux mois de prison pour transport de personnes à des fins de prostitution",
@@ -323,51 +720,27 @@
       "lang": "en"
     },
     {
-      "id": "c945339748b44b666ad04394b1d118400ba8641411cbcbd095499c903353ed37",
-      "url": "https://www.theguardian.com/music/2025/oct/03/sean-diddy-combs-trial-sentence",
-      "title": "Sean ‘Diddy’ Combs sentenced to more than four years in prison on prostitution-related charges",
-      "content_html": "<p>Federal prosecutors had pushed for a jail term of 11 years and three months of a possible 20 after music mogul’s conviction</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates\">Sean ‘Diddy’ Combs sentencing – live updates</a></p></li></ul><p>A New York federal judge has sentenced <a href=\"https://www.theguardian.com/music/diddy\">Sean “Diddy” Combs</a> to four years and two months in prison following his conviction this summer on federal prostitution-related charges.</p><p>The sentencing on Friday in Manhattan came after a federal jury in July <a href=\"https://www.theguardian.com/music/2025/jul/02/diddy-trial-verdict-sean-combs\">acquitted</a> the 55-year-old music mogul of the most serious charges against him – racketeering conspiracy and sex trafficking – but found him guilty of two counts of transportation to engage in prostitution. Each count carried a maximum sentence of 10 years in prison.</p> <a href=\"https://www.theguardian.com/music/2025/oct/03/sean-diddy-combs-trial-sentence\">Continue reading...</a>",
-      "date_published": "2025-10-03T21:04:16+00:00",
+      "id": "9fc05ed43a291218fe173b22047b84d093cc595a9367ccf8fa00fd0994f19b02",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68df9201e9cf4a157e8b457d.html",
+      "title": "Villes couvertes de réseaux antidron, la dystopie de guerre qui s'étend en Ukraine",
+      "content_html": "La ville de Jersón entreprend un projet pour couvrir des dizaines de kilomètres de ses rues avec des mailles pour arrêter les attaques des AUV, une pratique \"futuriste\" qui est multipliée tout au long du front, et qui a commencé à être utilisé en Russie",
+      "date_published": "2025-10-03T21:04:48+00:00",
       "authors": [
         {
-          "name": "Anna Betts in New York"
+          "name": "Javier Espinosa"
         }
       ],
       "tags": [
-        "Sean ‘Diddy‘ Combs",
-        "Music",
-        "US news",
-        "Culture",
-        "US crime"
+        "Ucrania",
+        "Guerra Ucrania Rusia",
+        "NLPremium",
+        "Artículos Javier Espinosa"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
-      "lang": "en"
-    },
-    {
-      "id": "867a8211425846043e98bf03b896d02fe816952d41a7eb4332634860cc03b061",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates",
-      "title": "Sean ‘Diddy’ Combs sentenced to more than four years in prison and given $500,000 fine – live updates",
-      "content_html": "<p>Combs, who was convicted of ‘transportation to engage in prostitution’, sentenced in New York</p><p><strong>The prosecution <a href=\"https://viewer.gutools.co.uk/us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation\">submitted several victim impact </a>statements to the court ahead of sentencing, including one from Ventura.</strong></p><p>“While the jury did not seem to understand or believe that I engaged in freak-offs because of the force and coercion the defendant used against me, I know that is the truth, and his sentence should reflect the reality of the evidence and my lived experience as a victim” Ventura <a href=\"https://viewer.gutools.co.uk/us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation\">wrote</a>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-10-03T21:01:34+00:00",
-      "authors": [
-        {
-          "name": "José Olivares (now) and Marina Dunbar (earlier)"
-        }
-      ],
-      "tags": [
-        "US news",
-        "New York",
-        "Sean ‘Diddy‘ Combs",
-        "Law"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "005c2cc796aa977d051b78b40c0b094e30bd88b1881b51e90c533a083bf551c4",
@@ -618,7 +991,7 @@
       "id": "b2d92bab7664f601c4f65a51963673ce50290c4a4f5da1fa40dbd5f262742a54",
       "url": "https://www.timesofisrael.com/uk-synagogue-attacker-was-under-investigation-for-rape-his-dad-praised-hamas-for-oct-7/",
       "title": "UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7",
-      "content_html": "<p>Jihad al-Shamie reportedly had other convictions but wasn't on police anti-terrorism radar; witness: He shouted 'this is what they get for killing our children' as he attacked synagogue</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uk-synagogue-attacker-was-under-investigation-for-rape-his-dad-praised-hamas-for-oct-7/\">UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/jihad-e1759505698499-1024x640.jpg\" title=\"UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7\" width=\"160\" /></figure>",
+      "content_html": "<p>Jihad al-Shamie reportedly had other convictions but wasn't on police anti-terrorism radar. Witness: He shouted, 'This is what they get for killing our children,' as he attacked</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uk-synagogue-attacker-was-under-investigation-for-rape-his-dad-praised-hamas-for-oct-7/\">UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/jihad-e1759505698499-1024x640.jpg\" title=\"UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7\" width=\"160\" /></figure>",
       "date_published": "2025-10-03T20:11:22+00:00",
       "authors": [],
       "tags": [
@@ -642,7 +1015,7 @@
       "id": "605fa84f76495ca679596aea75ce0c8c1c2eb5f42cf30515c7ca604c093556ac",
       "url": "https://www.aljazeera.com/news/2025/10/3/hamas-says-it-agrees-to-parts-of-trumps-gaza-plan-but-more-talks-needed?traffic_source=rss",
       "title": "Hamas says it agrees to parts of Trump’s Gaza plan but seeks more talks",
-      "content_html": "This is a developing news story.",
+      "content_html": "Palestinian group says it is ready to release all Israeli captives held in Gaza after US president issues ultimatum.",
       "date_published": "2025-10-03T20:11:14+00:00",
       "authors": [],
       "tags": [
@@ -683,30 +1056,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2bc0a68f792248c1d17856ebb197c7bdf73a86993845044f6c455776ddf67d5a",
-      "url": "https://www.theguardian.com/us-news/2025/oct/03/trump-coin-treasury",
-      "title": "US treasury considers special $1 Trump coin reading ‘fight, fight, fight’",
-      "content_html": "<p>US treasurer says officials looking at drafts for country’s 250th anniversary featuring president with raised fist</p><p>To commemorate the 250th anniversary of the US’s independence, the treasury department is mulling production of a $1 coin displaying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> with a clenched first under an American flag and the words “fight, fight, fight”.</p><p>The words overtly reference what Trump said immediately after narrowly surviving an assassination attempt four months before he won a second presidency.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/03/trump-coin-treasury\">Continue reading...</a>",
-      "date_published": "2025-10-03T20:05:59+00:00",
-      "authors": [
-        {
-          "name": "Ramon Antonio Vargas"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Trump administration",
-        "US politics",
-        "US news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1239,29 +1588,6 @@
       "lang": "fr"
     },
     {
-      "id": "158cc68ec8090830a2c6e7acc7994efa47ed0b6eff7433116a789171054d1855",
-      "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-terrorist-was-on-bail-for-alleged",
-      "title": "Manchester synagogue terrorist was on bail for alleged rape",
-      "content_html": "<p>Exclusive: Jihad al-Shamie had been under investigation over alleged sexual attack earlier this year, sources say</p><p>The Manchester synagogue terrorist was on police bail for an alleged rape when he carried out the attack, the Guardian can reveal.</p><p>Jihad al-Shamie, 35, was being investigated over an alleged sexual attack, which it is understood was said to have taken place earlier this year.</p><p>Greater Manchester police said it appeared that armed officers at the synagogue accidentally shot one of the two victims killed during the terrorist attack and that they probably injured another after opening fire on the attacker.</p><p>Sources disclosed that counter-terrorism police were examining whether Shamie was responsible for a death threat sent to a former Conservative MP in 2012.</p><p>Keir Starmer called for people to “respect the grief of British Jews” after activists planning to demonstrate against the ban on Palestine Action on Saturday said cancelling the event would “let terror win”.</p><p>David Lammy, the justice secretary and deputy prime minister, was heckled and booed as he addressed a vigil close to the scene of the attack. He faced calls of “shame on you”, “go to Palestine, leave us alone” and “you have blood on your hands”.</p><p>Police named the two dead men as Adrian Daulby, 53, and Melvin Cravitz, 66. Relatives of Cravitz said he was a “gentle giant” who “would never harm a fly”. A Muslim neighbour of Daulby described him as “one of the most fantastic men I ever knew in my life”.</p><p>Rabbi Daniel Walker, who was leading a service at the synagogue at the time of the attack, told how the attacker shouted “I’m going to get you” as he tried to force his way in.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-terrorist-was-on-bail-for-alleged\">Continue reading...</a>",
-      "date_published": "2025-10-03T18:31:58+00:00",
-      "authors": [
-        {
-          "name": "Josh Halliday, Daniel Boffey, Rowena Mason and Vikram Dodd"
-        }
-      ],
-      "tags": [
-        "Manchester",
-        "UK news",
-        "Greater Manchester",
-        "England"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "73119efa8a19497fa6263c2cd9d502a8ecaf2b17c9c9095227c2f4e30c31ad5f",
       "url": "https://www.elmundo.es/internacional/2025/10/03/68dff8b1fc6c8350798b4572.html",
       "title": "Le journaliste français Antoni Lallican, premier journaliste tué par un drone russe en Ukraine",
@@ -1275,6 +1601,27 @@
       "tags": [
         "Guerra Ucrania Rusia",
         "Periodismo",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5e7cf42616ce95162c1ca2c3490642a610f9f06fe818d27e8d45a052bbb71655",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68dea19121efa0f1418b456f.html",
+      "title": "L'Europe cherche la forme juridique de \"confiscar\" actif à la Russie et accorde un prêt de 140 000 millions à l'Ukraine: \"Trump n'est plus\" et la guerre est \"extrêmement coûteuse\"",
+      "content_html": "La Belgique est presque le seul pays qui s'oppose parce que ces actifs sont sur leur territoire et craint les conséquences juridiques.Les dirigeants de l'UE s'appuient sur l'acceptation d'un plan à la fin de ce mois",
+      "date_published": "2025-10-03T18:29:12+00:00",
+      "authors": [
+        {
+          "name": "Daniel Viaña"
+        }
+      ],
+      "tags": [
+        "Artículos Daniel Viaña",
         "Especial Guerra de Ucrania"
       ],
       "source": {
@@ -1664,8 +2011,8 @@
     {
       "id": "553da90353962c98f8bdbf87ee1be07641189a542bbd91641caa52cbeced399b",
       "url": "https://www.timesofisrael.com/family-of-man-killed-blocking-synagogue-door-final-act-was-one-of-profound-courage/",
-      "title": "Family of man killed barricading synagogue door: ‘Final act was one of profound courage’",
-      "content_html": "<p>Police praise bravery of Adrian Daulby, accidentally shot by officers as he helped block entrance to Manchester synagogue to prevent terrorist entering during Yom Kippur attack</p>\n<p>The post <a href=\"https://www.timesofisrael.com/family-of-man-killed-blocking-synagogue-door-final-act-was-one-of-profound-courage/\">Family of man killed barricading synagogue door: &#8216;Final act was one of profound courage&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/G2WX3tmXYAAEY4Q-e1759510537758-1024x640.jpeg\" title=\"Family of man killed barricading synagogue door: &#8216;Final act was one of profound courage&#8217;\" width=\"160\" /></figure>",
+      "title": "Family of man killed barricading UK synagogue door: ‘Final act was one of profound courage’",
+      "content_html": "<p>Police praise bravery of Adrian Daulby, accidentally shot by officers as he helped block entrance to Manchester synagogue to prevent terrorist entering during Yom Kippur attack</p>\n<p>The post <a href=\"https://www.timesofisrael.com/family-of-man-killed-blocking-synagogue-door-final-act-was-one-of-profound-courage/\">Family of man killed barricading UK synagogue door: &#8216;Final act was one of profound courage&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/G2WX3tmXYAAEY4Q-e1759510537758-1024x640.jpeg\" title=\"Family of man killed barricading UK synagogue door: &#8216;Final act was one of profound courage&#8217;\" width=\"160\" /></figure>",
       "date_published": "2025-10-03T17:50:52+00:00",
       "authors": [],
       "tags": [
@@ -1684,7 +2031,7 @@
       "id": "b8549288c197a134c536ef5c96097fbd5d697bc4af155d800ceb7f531710b738",
       "url": "https://www.timesofisrael.com/trump-casts-shadow-over-nobels-as-prize-awarding-body-warns-academic-freedom-at-risk/",
       "title": "Trump casts shadow over Nobels as prize-awarding body warns academic freedom at risk",
-      "content_html": "<p>VP of Royal Swedish Academy of Sciences says administration's moves on universities, research have 'devastating effect': Academic freedom 'one of the pillars of the democratic system'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-casts-shadow-over-nobels-as-prize-awarding-body-warns-academic-freedom-at-risk/\">Trump casts shadow over Nobels as prize-awarding body warns academic freedom at risk</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25273464714376-1024x640.jpg\" title=\"Trump casts shadow over Nobels as prize-awarding body warns academic freedom at risk\" width=\"160\" /></figure>",
+      "content_html": "<p>VP of Royal Swedish Academy of Sciences says US administration's moves on universities, research have 'devastating effect': Academic freedom 'one of the pillars of democratic system'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-casts-shadow-over-nobels-as-prize-awarding-body-warns-academic-freedom-at-risk/\">Trump casts shadow over Nobels as prize-awarding body warns academic freedom at risk</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25273464714376-1024x640.jpg\" title=\"Trump casts shadow over Nobels as prize-awarding body warns academic freedom at risk\" width=\"160\" /></figure>",
       "date_published": "2025-10-03T17:46:34+00:00",
       "authors": [],
       "tags": [
@@ -1998,22 +2345,6 @@
       "source": {
         "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
         "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3efd851eda6bad6db83fd681c1837c0d860014177d1719100859c97058f83f42",
-      "url": "https://www.lefigaro.fr/international/manchester-endeuille-par-un-attentat-islamiste-contre-une-synagogue-20251003",
-      "title": "Manchester endeuillé par un attentat islamiste contre une synagogue",
-      "content_html": "Des personnes assistent à une veillée organisée par le Conseil Représentatif des Juifs de Grande Manchester et de la Région pour honorer les victimes de l’attaque de la synagogue de Manchester, en Grande-Bretagne, le 3 octobre 2025.",
-      "date_published": "2025-10-03T16:48:45+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -3306,7 +3637,7 @@
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "eca01120b2faad2c9a58eabaf5b819998009b42018386f04e8e4a4a040614443",
@@ -3417,8 +3748,8 @@
     {
       "id": "7398ae2b9383ccb164ab24b68cc5396dbdb4d114a2ad53c5c153bf72b2cd0078",
       "url": "https://www.timesofisrael.com/leader-of-armed-gazan-group-claims-it-foiled-hamas-attack-with-idf-assistance/",
-      "title": "Israeli air strikes thwart Hamas attack on rival armed Gazan group in Strip’s south",
-      "content_html": "<p>IDF: 20 terror operatives who raided 'humanitarian zone' killed in strikes, some used kids as human shields; armed group tells ToI it foiled attack with Israeli support</p>\n<p>The post <a href=\"https://www.timesofisrael.com/leader-of-armed-gazan-group-claims-it-foiled-hamas-attack-with-idf-assistance/\">Israeli air strikes thwart Hamas attack on rival armed Gazan group in Strip&#8217;s south</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/vlcsnap-2025-10-03-18h00m37s327-1024x640.jpg\" title=\"Israeli air strikes thwart Hamas attack on rival armed Gazan group in Strip&#8217;s south\" width=\"160\" /></figure>",
+      "title": "Israeli airstrikes thwart Hamas attack on rival armed Gazan group in Strip’s south",
+      "content_html": "<p>IDF: 20 terror operatives who raided 'humanitarian zone' killed in strikes, some used kids as human shields; armed group tells ToI it foiled attack with Israeli support</p>\n<p>The post <a href=\"https://www.timesofisrael.com/leader-of-armed-gazan-group-claims-it-foiled-hamas-attack-with-idf-assistance/\">Israeli airstrikes thwart Hamas attack on rival armed Gazan group in Strip&#8217;s south</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/vlcsnap-2025-10-03-18h00m37s327-1024x640.jpg\" title=\"Israeli airstrikes thwart Hamas attack on rival armed Gazan group in Strip&#8217;s south\" width=\"160\" /></figure>",
       "date_published": "2025-10-03T13:53:28+00:00",
       "authors": [],
       "tags": [
@@ -3531,26 +3862,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "6689b95dc23123be587d56555ca7b451375f8e6627d2622e47c1c9ba8c5cd910",
-      "url": "https://www.france24.com/fr/europe/20251003-attentat-de-manchester-la-pire-attaque-contre-la-communaut%C3%A9-juive-en-europe-depuis-le-7-octobre",
-      "title": "Attentat de Manchester : la pire attaque contre la communauté juive en Europe depuis le 7-Octobre",
-      "content_html": "Le Royaume-Uni est en état \"d'alerte maximale\" pour assurer la sécurité d'une communauté juive britannique profondément inquiète, au lendemain de l'attentat contre une synagogue à Manchester qui a fait deux morts. Alors que les actes antisémites sont en hausse en Europe, il s'agit de la première attaque mortelle depuis le massacre commis par le Hamas le 7 octobre 2023 en Israël et le déclenchement de la guerre à Gaza.",
-      "date_published": "2025-10-03T13:31:12+00:00",
-      "authors": [
-        {
-          "name": "Stéphanie TROUILLARD"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3685,41 +3996,6 @@
       "lang": "en"
     },
     {
-      "id": "779d3c466db97c5e1d313641279f551262c482641fe256b2e5c18edbd1e1bc33",
-      "url": "https://www.timesofisrael.com/mossad-reveals-role-in-arrest-of-hamas-linked-cell-in-germany-said-plotting-to-kill-jews/",
-      "title": "Mossad reveals role in arrest of Hamas-linked cell in Germany said plotting to kill Jews",
-      "content_html": "<p>Effort to stop the cell spanned several countries, and was 'part of an extensive Mossad effort throughout Europe' that busted weapons caches, saw other operatives detained</p>\n<p>The post <a href=\"https://www.timesofisrael.com/mossad-reveals-role-in-arrest-of-hamas-linked-cell-in-germany-said-plotting-to-kill-jews/\">Mossad reveals role in arrest of Hamas-linked cell in Germany said plotting to kill Jews</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20240209__34HY73F__v1__HighRes__GermanyMuseumJudaism-1024x640.jpg\" title=\"Mossad reveals role in arrest of Hamas-linked cell in Germany said plotting to kill Jews\" width=\"160\" /></figure>",
-      "date_published": "2025-10-03T13:16:05+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Germany",
-        "Hamas",
-        "Mossad"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1242adb74d424c94ef7452ae9c24fed86e4da0e9f26cbdc45ad8b4d5f8eb8f15",
-      "url": "https://www.aljazeera.com/news/2025/10/3/czechs-vote-in-elections-that-could-usher-in-populist-billionaire?traffic_source=rss",
-      "title": "Czechs vote in elections that could usher in populist billionaire",
-      "content_html": "Self-described &#039;Trumpist&#039; Andrej Babis has campaigned on pledges of welfare and halting military aid to Ukraine.",
-      "date_published": "2025-10-03T13:16:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a11c60685bd17a230cc7443dd2c65c1ebcca54f8b08d6d2a2822a27e200d44f3",
       "url": "https://www.france24.com/en/tv-shows/down-to-earth/20251003-illegal-trade-in-rare-insects-on-the-rise",
       "title": "Illegal trade in rare insects on the rise",
@@ -3842,24 +4118,6 @@
       "lang": "en"
     },
     {
-      "id": "eb69fee223988e37f842c630716627083c6271ac00b592b7c2e8957f33b50f9e",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251003-interception-de-la-flottille-pour-gaza-des-milliers-de-manifestants-en-europe",
-      "title": "Interception de la flottille pour Gaza: des milliers de manifestants en Europe",
-      "content_html": "Des milliers de personnes ont défilé jeudi dans plusieurs pays d'Europe pour dénoncer l'interception par les forces navales israéliennes d'une flottille d'aide humanitaire propalestinienne à destination de Gaza.",
-      "date_published": "2025-10-03T12:52:05+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "74768e021021e9a18da0109dd4a190555991fbec619b3dcc492c7437dfbbf292",
       "url": "https://www.lemonde.fr/international/article/2025/10/03/panne-geante-d-electricite-en-espagne-et-au-portugal-la-surtension-au-centre-de-l-enquete_6644288_3210.html",
       "title": "Panne géante d’électricité en Espagne et au Portugal en avril : la surtension au centre de l’enquête",
@@ -3870,24 +4128,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "670a491ff4678fb8824fba2e2f89e6e538d7b689759a13d811ea687dd913f521",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251003-l%C3%A9gislatives-en-r%C3%A9publique-tch%C3%A8que-vers-un-retour-d-andrej-babis",
-      "title": "Législatives en République tchèque : vers un retour d'Andrej Babis ?",
-      "content_html": "Les bureaux de vote ont ouvert vendredi en République tchèque pour des législatives organisées sur deux jours, dont l'autoproclamé \"trumpiste\" Andrej Babis est donné favori, mais sans certitude de pouvoir former une majorité.",
-      "date_published": "2025-10-03T12:51:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3904,22 +4144,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cbd351c8db63019fdd6cc5ef6d8521e578836851c457d879d3a1316fb9cfa71b",
-      "url": "https://www.aljazeera.com/news/2025/10/3/pakistan-fm-says-trumps-plan-to-end-israels-gaza-war-was-altered?traffic_source=rss",
-      "title": "Pakistan FM says Trump’s plan to end Israel’s Gaza war was altered",
-      "content_html": "The official objects to changes made to the US 20-point Gaza war plan, saying it deviates from the original draft.",
-      "date_published": "2025-10-03T12:30:53+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4014,22 +4238,6 @@
       "lang": "en"
     },
     {
-      "id": "4850e999516d7e9ffb0a6ddc59c6d0a155da9b9413b8a9724fbe1f999b4201e8",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/3/why-is-israels-interception-of-the-gaza-flotilla-illegal?traffic_source=rss",
-      "title": "Why is Israel’s interception of the Gaza flotilla illegal?",
-      "content_html": "Israel has intercepted the Global Sumud Flotilla sailing to Gaza and detained hundreds of crew members.",
-      "date_published": "2025-10-03T12:19:53+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f65c8e3e4b743cfe8294e08ebd9466d4674d99663907834b108286d5fcb16fe5",
       "url": "https://www.lefigaro.fr/international/dana-white-pete-hegseth-veut-rendre-a-l-armee-sa-culture-du-guerrier-20251003",
       "title": "Dana White : «Pete Hegseth veut rendre à l’armée américaine sa culture du guerrier»",
@@ -4043,23 +4251,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "en"
-    },
-    {
-      "id": "7e53ad03466b22669c6a800e588126766a5e1f229f32448c9519bd173fc083bf",
-      "url": "https://www.aljazeera.com/news/2025/10/3/what-are-trumps-new-rules-for-universities-to-qualify-for-federal-funding?traffic_source=rss",
-      "title": "What are Trump’s new rules for universities to qualify for federal funding?",
-      "content_html": "The White House sent the &#039;Compact for Academic Excellence in Higher Education&#039; to nine US universities.",
-      "date_published": "2025-10-03T12:02:23+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "620d0e482e99d625da2ef45f8c76441913303c599b0a4a4d4ffec9f308e0b7a4",
@@ -4278,22 +4470,6 @@
       "lang": "en"
     },
     {
-      "id": "a7ee6b50ec13e5ba37b7c9082c870e5ab0b3cc49281a633bc544bde1883c030d",
-      "url": "https://www.dw.com/en/germany-news-merz-says-democracy-under-threat-on-unity-day/live-74226128?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany news: Merz says democracy under threat on Unity Day",
-      "content_html": "Germany is celebrating 35 years since reunification, with the city of Saarbrücken hosting the main festivities for 2025. French President Emmanuel Macron is the guest of honor. DW has more.",
-      "date_published": "2025-10-03T10:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f6bb3d8df58651318cdc57e0c9b3393023580b513f4b80560096f3efdae6c0ee",
       "url": "https://www.ukrinform.net/rubric-ato/4043385-drones-attack-oil-refinery-in-orenburg-region-of-russia.html",
       "title": "Drones attack oil refinery in Orenburg region of Russia",
@@ -4456,26 +4632,6 @@
       "lang": "fr"
     },
     {
-      "id": "c5a7de488bec4e6aa000ec51ffa00585097804eccea266a4ec3528dbe2e4c432",
-      "url": "https://www.elmundo.es/internacional/2025/10/03/68dfa39e21efa01b6a8b459a.html",
-      "title": "L'auteur de l'attaque de Manchester a été libéré sous caution pour viol",
-      "content_html": "L'une des victimes d'attaque de Manchester est décédée des coups de police",
-      "date_published": "2025-10-03T10:27:59+00:00",
-      "authors": [
-        {
-          "name": "Pablo Pardo"
-        }
-      ],
-      "tags": [
-        "Artículos Pablo Pardo"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c03e7388703b297742a0cee1a27cd6970fa35b9b053544efea5f083404360b48",
       "url": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
       "title": "Japan faces Asahi beer shortage after cyber-attack",
@@ -4581,22 +4737,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7e3ca87a8e81bc586aa8a11c1bb56557e28ee03316ffd494189280ddd2e13c40",
-      "url": "https://www.ukrinform.net/rubric-ato/4043357-russians-intensify-attacks-near-antonivskyi-and-railway-bridges-in-kherson-region.html",
-      "title": "Russians intensify attacks near Antonivskyi and railway bridges in Kherson region",
-      "content_html": "In the Kherson region, over the past three days, Russian forces have stepped up attempts to storm Ukrainian positions in the areas of the railway bridge on the left bank of the Dnipro River and the Antonivskyi Bridge, using rain and fog as cover.",
-      "date_published": "2025-10-03T09:48:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5130,35 +5270,6 @@
       "lang": "fr"
     },
     {
-      "id": "2ebe2ae3f84111ae03cfc5bcd0563966ef0192099e4694393b800836706a405c",
-      "url": "https://elpais.com/america/2025-10-03/bukele-prohibe-el-lenguaje-inclusivo-en-las-escuelas-de-el-salvador.html",
-      "title": "Bukele interdit la langue inclusive dans les écoles du Salvador El",
-      "content_html": "La ministre de l'Éducation salvadorienne Karla Trigueros a accueilli les étudiants d'une école à l'entrée de son centre, le 29 août.",
-      "date_published": "2025-10-03T07:42:08+00:00",
-      "authors": [
-        {
-          "name": "Carlos  Salinas Maldonado"
-        }
-      ],
-      "tags": [
-        "El Salvador",
-        "Nayib Bukele",
-        "Educación",
-        "Derechos civiles",
-        "Lenguaje sexista",
-        "Lengua",
-        "Colegios",
-        "Represión política",
-        "Discriminación",
-        "Sexismo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c200aa5e5508c5d3775039269ba497de54dfaed8ad01fe6d6b4cd3eae079f23c",
       "url": "https://www.lefigaro.fr/international/a-copenhague-les-europeens-cherchent-a-accroitre-la-pression-sur-la-russie-20251002",
       "title": "À Copenhague, les Européens cherchent à accroître la pression sur la Russie",
@@ -5321,6 +5432,30 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b59d0169566038b6dd45953a585ae16d9825912f0f13854cb673d384d9b56851",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68de9410e4d4d86b048b45b2.html",
+      "title": "Les quatre grandes questions qui éveillent le plan de paix de Trump pour Gaza",
+      "content_html": "Avec tous ses défauts et trous, c'est la tentative la plus ambitieuse et avec plus de soutien international pour réaliser une trêve",
+      "date_published": "2025-10-03T05:55:17+00:00",
+      "authors": [
+        {
+          "name": "Sal Emergui"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "Franja de Gaza",
+        "Benjamín Netanyahu",
+        "Donald Trump",
+        "Especial Trump"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -5753,7 +5888,7 @@
     {
       "id": "594ec6c211bd6fe0ac26ae0076d8f3315faccc930d136a82056f6306fb8bd5ad",
       "url": "https://www.elmundo.es/internacional/2025/10/03/68df09c021efa0d8188b4584.html",
-      "title": "Ils découvrent un million de dollars de pièces d'or dans un naufrage espagnol devant la côte de la Floride",
+      "title": "Ils découvrent un million de dollars en pièces d'or dans un naufrage espagnol devant la côte de la Floride",
       "content_html": "Ce n'est pas le premier trésor dans ce même domaine",
       "date_published": "2025-10-02T23:32:04+00:00",
       "authors": [
@@ -5785,18 +5920,18 @@
       "lang": "fr"
     },
     {
-      "id": "655132e4d866b0d8bc545ec8293e9c0dd3121aca4087f1f22df4f53b85e225e8",
-      "url": "https://www.elmundo.es/internacional/2025/10/03/68de5797e85ece06738b456f.html",
-      "title": "Babis contre Fiala: les élections qui définiront l'avenir de la République tchèque et son rôle dans l'UE",
-      "content_html": "Des élections législatives ont lieu ce vendredi et samedi.L'électorat est divisé entre la continuité du Centrodecha de Premier ministre, Petr Fiala, et le retour au pouvoir du magnat populiste Andrej Babis",
+      "id": "c35aa42a8f61e0411c671d739b0083944824fc6fa58c38dab0d88d57dd5bbd2e",
+      "url": "https://www.elmundo.es/internacional/2025/10/03/68de65bee4d4d8df4e8b4599.html",
+      "title": "Natalia Gavrilita, ancien Premier ministre de Moldavie: \"La Russie profite de notre vulnérabilité économique\"",
+      "content_html": "L'ancien chef du gouvernement Moldavo souligne que, en plus \"d'attendre beaucoup de démocratie\", nous devons également \"la sacrifier\"",
       "date_published": "2025-10-02T22:06:47+00:00",
       "authors": [
         {
-          "name": "Carmen Valero"
+          "name": "Xavier Colás"
         }
       ],
       "tags": [
-        "República Checa"
+        "Moldavia"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -5937,6 +6072,27 @@
         "Reino Unido",
         "internacional",
         "Artículos Pablo Pardo"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8ec87bdc218c5e8daedc9796c946afdcb7c9dd82d4be04053a468437b237d0ba",
+      "url": "https://www.elmundo.es/internacional/2025/10/02/68de8106e9cf4aad2c8b45b3.html",
+      "title": "Discord, l'application «joueurs» qui est devenue le moteur de la jeunesse de la rage du Maroc au Népal",
+      "content_html": "Ce qui est né en tant que taverne numérique pour les joueurs est devenu le cadre invisible de plusieurs révoltes de la planète",
+      "date_published": "2025-10-02T20:48:15+00:00",
+      "authors": [
+        {
+          "name": "Lucas de la Cal"
+        }
+      ],
+      "tags": [
+        "NLPremium",
+        "Artículos Lucas de la Cal"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -6453,7 +6609,7 @@
       "id": "f77fb914b0eb80e11c939a1427aff29542fdc79863f26f4e92359e91cbaab843",
       "url": "https://www.dw.com/en/german-unity-day-explained/a-74220285?maca=en-rss-en-all-1573-rdf",
       "title": "German Unity Day explained",
-      "content_html": "October 3 is public holiday all over Germany commemorating the reunification of the once divided nation. But why was Germany divided in the first place? And when was it reunited? DW has the answers.",
+      "content_html": "October 3 is a public holiday all over Germany commemorating the reunification of the once divided nation. But why was Germany divided in the first place? And when was it reunited? DW has the answers.",
       "date_published": "2025-10-02T14:22:00+00:00",
       "authors": [],
       "tags": [
@@ -7219,31 +7375,6 @@
       "lang": "fr"
     },
     {
-      "id": "804e36d90bfde14decb3e78acbcc4fbdc01af116f4a2c9c5e8d1ab3aaacb4fd6",
-      "url": "https://www.elmundo.es/internacional/2025/10/02/68de0a8fe4d4d8140c8b458e.html",
-      "title": "Le gouvernement Trump déploiera des agents migratoires dans le Super Bowl pour la performance de Porto Rican Bad Bunny",
-      "content_html": "Le choix de l'artiste pour chanter à l'événement a divisé l'opinion publique après avoir affirmé qu'il avait évité de passer aux États-Unis avec sa tournée mondiale contre Ice a fait des raids dans les lieux de ses concerts",
-      "date_published": "2025-10-02T05:22:39+00:00",
-      "authors": [
-        {
-          "name": "Efe"
-        }
-      ],
-      "tags": [
-        "Bad Bunny",
-        "Super Bowl",
-        "Estados Unidos",
-        "Donald Trump",
-        "internacional",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "12e9f6f6775c33b1720ab39d92ab9c08d579aa653088efea3c495514a57cd9eb",
       "url": "https://www.bbc.com/news/articles/c8d7l2pvdrro?at_medium=RSS&at_campaign=rss",
       "title": "Relief and new baby for asylum family of child suffocated in English Channel crossing",
@@ -7281,80 +7412,6 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5d63d7513495448092b04fd4d98cc17c82c541204f43c1f4c717b7b2ed6d82ed",
-      "url": "https://www.elmundo.es/internacional/2025/10/01/68dd5863fdddff466f8b4587.html",
-      "title": "Pedro Sánchez essaie de se moquer de la pression européenne pour se réaronner en pariant sur le changement climatique comme un investissement dans la sécurité",
-      "content_html": "Sur les 10 471 millions d'extras que l'Exécutif espagnol prévoit",
-      "date_published": "2025-10-01T20:54:36+00:00",
-      "authors": [
-        {
-          "name": "Raúl Piña, Daniel Viaña"
-        }
-      ],
-      "tags": [
-        "Unión Europea",
-        "Dinamarca",
-        "España",
-        "Pedro Sánchez",
-        "Giorgia Meloni",
-        "Ursula von der Leyen",
-        "NLPremium",
-        "Artículos Raúl Piña",
-        "Artículos Daniel Viaña"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "34c74daa2791be22fe132c369005f605cebdbe35056d503864033dcd654f0495",
-      "url": "https://www.elmundo.es/internacional/2025/10/01/68dd477efc6c83d37e8b45b2.html",
-      "title": "Le mur anti-dangon ukrainien, le modèle à suivre pour l'Europe",
-      "content_html": "Kyiv a formé une défense de couche efficace qui intègre les anciens systèmes soviétiques à la plus moderne de l'Alliance de l'Atlantique",
-      "date_published": "2025-10-01T20:49:08+00:00",
-      "authors": [
-        {
-          "name": "Alberto Rojas"
-        }
-      ],
-      "tags": [
-        "Artículos Alberto Rojas",
-        "Guerra Ucrania Rusia",
-        "OTAN",
-        "NLPremium",
-        "Gráficos"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7a77ca444d5701a007626f0b4d4f2df1c7f6b31098f72de70b6b8d5b022bc404",
-      "url": "https://www.elmundo.es/internacional/2025/10/01/68dd6af8e9cf4aa3028b459e.html",
-      "title": "De la \"défense\" une \"guerre\"",
-      "content_html": "À Copenhague, la plus grande démonstration de préoccupation et de solidarité (espoir) en matière de défense avec une poussée de communauté intéressante est mise en scène;Aussi pour aider",
-      "date_published": "2025-10-01T20:48:25+00:00",
-      "authors": [
-        {
-          "name": "Ana Palacio"
-        }
-      ],
-      "tags": [
-        "NLPremium",
-        "Rusia",
-        "Unión Europea"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -7407,28 +7464,6 @@
       "lang": "en"
     },
     {
-      "id": "90c9f2b150e4adef4b564136653911614f260022bb85294ec9ef5b25a3d3d177",
-      "url": "https://www.elmundo.es/internacional/2025/10/01/68dd233efdddff68458b4589.html",
-      "title": "Leçon de diplomatie et de domination noire et noire",
-      "content_html": "Il y a des milliers d'images de conversations de paix, mais probablement peu en disent beaucoup et en même temps que l'appel du pardon de Benjamin Netanyahu au Premier ministre Catarí à la Maison Blanche",
-      "date_published": "2025-10-01T19:07:24+00:00",
-      "authors": [
-        {
-          "name": "Pablo R. Suanzes"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Franja de Gaza",
-        "Artículos Pablo R. Suanzes"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "68dc7004cdba33d8d8b6187fce3878160e6e48b29d2cf794b9f13f2fc1d633f4",
       "url": "https://www.dw.com/en/town-in-northeast-germany-cancels-reading-by-jewish-writer/a-74207782?maca=en-rss-en-all-1573-rdf",
       "title": "Town in northeast Germany cancels reading by Jewish writer",
@@ -7459,27 +7494,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "698f7d319515212b81af2808b5a78682a5f17e6ea2a92f960967e707e9ba8f65",
-      "url": "https://www.elmundo.es/internacional/2025/10/01/68dd076ae9cf4aad2c8b4582.html",
-      "title": "\"C'est le moment le plus dangereux depuis la Seconde Guerre mondiale\": Frederiksen prévient que le combat \"hybride\" est déjà dans l'UE et demande à l'Espagne de \"réarmer\"",
-      "content_html": "Le Premier ministre du Danemark, un pays qui accueille mercredi la réunion des présidents européens et qu'il est l'un des plus menacés par la Russie, affecte que Poutine est un danger pour l'ensemble du continent",
-      "date_published": "2025-10-01T17:41:32+00:00",
-      "authors": [
-        {
-          "name": "Daniel Viaña"
-        }
-      ],
-      "tags": [
-        "Artículos Daniel Viaña",
-        "Especial Guerra de Ucrania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "d7fbce4260e86ab944826f79d7eb6afa38a94542d6c80efe303618df2c4569c2",
