@@ -5,14 +5,59 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "6a96bc795f18d1f884736ecfcc88a726ef80e64262d3cceba081df2f4366a1c6",
-      "url": "https://www.ukrinform.net/rubric-ato/4044878-zelensky-discusses-countering-russias-shadow-fleet-with-head-of-fis.html",
-      "title": "Zelensky discusses countering Russia’s “shadow fleet” with head of FIS",
-      "content_html": "President Volodymyr Zelensky listened to a report by Oleh Ivashchenko, head of Ukraine's Foreign Intelligence Service (FIS) , on countering Russia's “shadow fleet.”",
-      "date_published": "2025-10-07T17:30:00+00:00",
+      "id": "3b13249703e6e60e70b09daec0b17cd05329aec0978dd495fdd5f4c01ab4e6e5",
+      "url": "https://elpais.com/internacional/2025-10-07/hamas-exige-garantias-para-la-paz-en-gaza-y-trump-dice-que-hara-todo-lo-posible-para-asegurar-su-cumplimiento.html",
+      "title": "Le Hamas demande des garanties pour la paix à Gaza et Trump dit qu'il fera \"tout possible\" pour assurer la conformité",
+      "content_html": "La fumée s'élève à la suite des destructions causées par les bombardements israéliens dans la ville de Gaza, ce mardi.",
+      "date_published": "2025-10-07T18:41:56+00:00",
+      "authors": [
+        {
+          "name": "Antonio Pita ,Trinidad Deiros,Jesús-Sérvulo González Moreno"
+        }
+      ],
+      "tags": [
+        "Conflicto árabe-israelí",
+        "Guerra",
+        "Conflictos",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5facf735838dc1323ec3370bcb0293ca6c8295cdccd462b501d2172afa4e31a8",
+      "url": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss",
+      "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
+      "content_html": "David Adler says Sumud Flotilla activists were &#039;kidnapped, stripped, zip-tied, blindfolded&#039; and sent to prison camp.",
+      "date_published": "2025-10-07T18:41:25+00:00",
       "authors": [],
       "tags": [
-        "War"
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "231e1c227bbba38abbb6b991d64f80fdd10311ed89bf42f6388d3cdb02cf9ff4",
+      "url": "https://www.ukrinform.net/rubric-polytics/4044899-zelensky-sampietro-discuss-return-of-ukrainian-children.html",
+      "title": "Zelensky, Sampietro discuss return of Ukrainian children",
+      "content_html": "Ukrainian President Volodymyr Zelensky met with Pere Joan Pons Sampietro, President of the OSCE Parliamentary Assembly, to discuss the return of Ukrainian children illegally deported by Russia.",
+      "date_published": "2025-10-07T18:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
       ],
       "source": {
         "name": "Latest news",
@@ -21,11 +66,41 @@
       "lang": "en"
     },
     {
-      "id": "4ef8365d8bb8bc48644f0cb844d9d749b7190323ccd7222a0604223b10180b1c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197681/video-spal-bebe-abandonne-longueuil",
-      "title": "Bébé abandonné : le SPAL fait appel au public pour retrouver une personne d’intérêt",
-      "content_html": "<p>Des images captées par une caméra de surveillance ont été diffusées pour faire progresser l&#x27;enquête.</p>",
-      "date_published": "2025-10-07T17:29:04+00:00",
+      "id": "0e074c90c6c0890ff041d1b32d3ca1bc5df600a49885921f181a360479a03b21",
+      "url": "https://www.lemonde.fr/international/live/2025/10/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6644466_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "content_html": "Des secouristes ukrainiens travaillent sur le site d’une infrastructure énergétique après une attaque de drone russe, à Kharkiv, en Ukraine, le 7 octobre 2025.",
+      "date_published": "2025-10-07T18:39:37+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "852f69ab08b8beecbaeb53d252a70885da0eba6de00bd918a47e8163b4a4b072",
+      "url": "https://www.dw.com/en/poland-pushes-back-on-german-nord-stream-extradition-request/a-74269774?maca=en-rss-en-all-1573-rdf",
+      "title": "Poland pushes back on German Nord Stream extradition request",
+      "content_html": "Polish Prime Minister Donald Tusk says it's not in Poland's interest to extradite a man wanted by Germany over the Nord Stream blasts. He said Poland had long warned the pipelines made Europe too dependent on Russia.",
+      "date_published": "2025-10-07T18:38:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6a5ee7d4ff81811b02e28d05b3d7a51c103f5026fa0d762541a82acf863ed1c4",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197654/loi-101-tribunaux-traduction-jugements",
+      "title": "Le juge Galiatsatos assure ne pas avoir été motivé par « une animosité anti-française »",
+      "content_html": "<p>Le magistrat avait déclaré un article de la loi&nbsp;96 inopérant au criminel, une décision invalidée en appel.</p>",
+      "date_published": "2025-10-07T18:35:17+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -35,11 +110,165 @@
       "lang": "fr"
     },
     {
+      "id": "a626e87a130cd1ecb0c51daa4db7683875d13375cc6f7b59ead40a88d3597fe9",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013045/mark-carney-donald-trump-reunion-rencontre-tarifs",
+      "title": "Mark Carney « sortira très content » de la Maison-Blanche, assure Donald Trump",
+      "content_html": "<p>Le premier ministre canadien et le président américain ont discuté avec la presse avant de se voir en privé.</p>",
+      "date_published": "2025-10-07T18:35:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "67a48d170b3c5d43faa52c3d36919bd1af03404243a2f70ff16ad3f73905e3ce",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
+      "title": "Furloughed government workers may not be entitled to back pay, reports say, as Trump claims some jobs ‘will never come back’ – live",
+      "content_html": "<p>White House memo reported by several US media outlets reveals plan to not guarantee back pay for federal workers who are working through the shutdown</p><p>Before we turn our attention to Capitol Hill, we’re also keeping an eye on Illinois today. On Monday, a federal judge did not immediately block the president’s move to deploy national guard troops, including hundreds from Texas, to Chicago.</p><p>Instead, the judge set a hearing for Thursday, leaving room for the military to make their way to the windy city as soon as today.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2025-10-07T18:34:46+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now); Lucy Campbell and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US news",
+        "US politics",
+        "Donald Trump",
+        "Pam Bondi",
+        "Jeffrey Epstein",
+        "Mark Carney",
+        "US immigration",
+        "US Senate",
+        "US justice system",
+        "US supreme court",
+        "Ice (US Immigration and Customs Enforcement)"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e48dc76517804765e8cf93ef54623f5cd4096f84c9d00adae32a0f5ce82dc30e",
+      "url": "https://www.theguardian.com/us-news/2025/oct/07/trump-says-there-is-natural-conflict-with-canada-during-carney-visit",
+      "title": "Trump says there is ‘natural conflict’ with Canada during Carney visit",
+      "content_html": "<p>US president offers few concessions on tariffs after durable alliance fractured by trade war and annexation threats</p><p>Donald Trump said there is “mutual love” but “natural conflict” between the US and Canada as he hailed progress towards a trade deal but offered few concrete concessions on <a href=\"https://www.theguardian.com/us-news/2025/jul/31/trump-canada-tariffs-order\">steep US tariffs</a> during a visit by the Canadian prime minister, <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carney</a>.</p><p>Carney’s second visit to the US comes as one of the world’s most durable and amicable alliances has been fractured by Trump’s trade war and annexation threats. Among the topics up for discussion are trade and the United States-Mexico-Canada Agreement (USMCA), which is critical to Canada’s economy and is up for review next year.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/07/trump-says-there-is-natural-conflict-with-canada-during-carney-visit\">Continue reading...</a>",
+      "date_published": "2025-10-07T18:28:57+00:00",
+      "authors": [
+        {
+          "name": "Associated Press in Washington"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "US news",
+        "Mark Carney",
+        "Canada",
+        "Trump tariffs",
+        "International trade",
+        "Global economy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ff172b03039ef5ff67f433d1c8fd752b4f981f8597c3b342cb02f4174b4d138d",
+      "url": "https://www.bbc.com/news/articles/cd079zn2m5vo?at_medium=RSS&at_campaign=rss",
+      "title": "Everest hikers guided to safety after being stranded by blizzard",
+      "content_html": "Hundreds of hikers have been guided to safety in Tibet after becoming trapped over the weekend by heavy snowfall.",
+      "date_published": "2025-10-07T18:28:24+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9f58c55d65375096fc5619868b00d7e0819ece0f61e055e4a2e542c8d490e780",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197627/dominique-pelicot-seul-accuse-appel-viols-mazan",
+      "title": "Dominique Pelicot accable l’unique accusé du procès en appel des viols de Mazan",
+      "content_html": "<p>Husamettin Dogan ne pouvait avoir «&nbsp;aucun doute quant à l&#x27;état de mon épouse&nbsp;», a dit Dominique Pelicot.</p>",
+      "date_published": "2025-10-07T18:23:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5ae709ef8c468e349c8f52c8f4252434488d802c06841d08a019d5a44d0176ba",
+      "url": "https://elpais.com/internacional/2025-10-07/el-choque-entre-trump-y-las-ciudades-democratas-se-eleva-con-la-llegada-de-la-guardia-nacional-a-chicago.html",
+      "title": "L'affrontement entre Trump et les villes démocratiques augmente avec l'arrivée de la Garde nationale à Chicago",
+      "content_html": "Les militants agitent une affiche où \"les troupes se lit, pas dans nos villes\", ce mardi dans une étape élevée à New York.",
+      "date_published": "2025-10-07T18:22:53+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Donald Trump",
+        "Ciudades santuario",
+        "Norteamérica",
+        "Casa Blanca",
+        "Fuerzas armadas",
+        "Pentágono",
+        "Seguridad nacional",
+        "Illinois",
+        "Chicago",
+        "Oregón",
+        "Portland",
+        "Kristi Noem",
+        "FBI",
+        "Kash Patel",
+        "California",
+        "Gavin Newsom",
+        "Memphis",
+        "Los Ángeles",
+        "Washington D.C."
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "24e40885cc51d8f4d723d13ef25bf3ac8374b42be546a4b5347666d41b0e1614",
+      "url": "https://www.ukrinform.net/rubric-polytics/4044891-ukrainian-uae-defense-officials-discuss-strengthening-security-of-both-states.html",
+      "title": "Ukrainian, UAE defense officials discuss strengthening security of both states",
+      "content_html": "Ukrainian Defense Minister Denys Shmyhal held a meeting with the United Arab Emirates Deputy Defense Minister, Staff Lieutenant General Ibrahim Nasser Al-Alawi, during which they discussed further cooperation to enhance the security of both states.",
+      "date_published": "2025-10-07T18:21:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "8f0b295f99275e5b7eefe904c2fd30acd66d912e011ebbff9deca121e0ff1a1c",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e54b6afdddffee068b459d.html",
       "title": "Israël pleure aux victimes de 7-0 et fait confiance à Trump pour le retour imminent des otages",
       "content_html": "L'arrivée prévue mercredi à l'Égypte des émissaires spéciaux de Trump, Steve Witkoff et Jared Kushner, confirmerait qu'au moins les négociations n'ont pas brisé ou collé",
-      "date_published": "2025-10-07T17:23:03+00:00",
+      "date_published": "2025-10-07T18:20:46+00:00",
       "authors": [
         {
           "name": "Sal Emergui"
@@ -58,11 +287,78 @@
       "lang": "fr"
     },
     {
+      "id": "0c074cc1e73214ed2473bf08eb4fc8e3b41d317a728473ab32360d8a9d69136d",
+      "url": "https://www.bbc.com/news/articles/czrpz5e8mgyo?at_medium=RSS&at_campaign=rss",
+      "title": "German mayor critically injured in stabbing attack, police say",
+      "content_html": "Chancellor Friedrich Merz says \"we fear for the life\" of Iris Stalzer, a newly-elected mayor in the western town of Herdecke.",
+      "date_published": "2025-10-07T18:18:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e0f2e474849ef9ebc9961676bfd8e9887f03007ccdace4190b20c431a63f313f",
+      "url": "https://www.timesofisrael.com/three-idf-reservists-wounded-two-seriously-in-apparent-grenade-accident-in-gaza/",
+      "title": "Three IDF reservists wounded, two seriously, in apparent grenade accident in Gaza",
+      "content_html": "<p>Grenade explodes inside Israeli post near Khan Younis amid pause in offensive operations, as talks are held on ending the war against Hamas</p>\n<p>The post <a href=\"https://www.timesofisrael.com/three-idf-reservists-wounded-two-seriously-in-apparent-grenade-accident-in-gaza/\">Three IDF reservists wounded, two seriously, in apparent grenade accident in Gaza</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/WhatsApp_Image_2025-09-30_at_12.47.38_3_0-1024x640.jpeg\" title=\"Three IDF reservists wounded, two seriously, in apparent grenade accident in Gaza\" width=\"160\" /></figure>",
+      "date_published": "2025-10-07T18:17:12+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "IDF Israel Defense Forces",
+        "Gaza Strip",
+        "2023-2025 Israel-Hamas war"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "90ad1de95805cde0d17d911d75edfd39f97d97e94ef9e8cad99ce467d5dba2df",
+      "url": "https://www.lemonde.fr/international/live/2025/10/07/en-direct-gaza-donald-trump-voit-une-reelle-chance-de-conclure-un-accord-de-paix_6644360_3210.html",
+      "title": "EN DIRECT, Gaza : Donald Trump voit une « réelle chance » de conclure un accord de paix",
+      "content_html": "Le président américain, Donald Trump, à la Maison Blanche, le 7 octobre 2025, à Washington.",
+      "date_published": "2025-10-07T18:16:51+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a23c183ea98505758edb65bb3d722f6efef1aa59fca83440de45813212569365",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20251007-how-has-israel-changed-the-open-wounds-of-the-october-7-attacks",
+      "title": "How has Israel changed? The open wounds of the October 7 attacks",
+      "content_html": "On the second anniversary of Israel’s worst day of bloodshed in its history, Hamas still holds hostages and Israel’s still demolishing Gaza. Often during the past 731 days, panelists on this show have insisted it’s impossible for the two sides to hear each other until the guns go silent. That's yet to happen.",
+      "date_published": "2025-10-07T18:16:47+00:00",
+      "authors": [
+        {
+          "name": "François PICARD"
+        }
+      ],
+      "tags": [
+        "The Debate"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "eda99c4e07393ced61f466632c64e4f6d685401975709642e661803931cd9635",
       "url": "https://ici.radio-canada.ca/nouvelle/2197608/peine-lich-barber-convoi-camionneurs",
       "title": "Des condamnations avec sursis pour Tamara Lich et Chris Barber",
       "content_html": "<p>La Couronne réclamait des peines de prison plus sévères pour Tamara Lich et Chris Barber.</p>",
-      "date_published": "2025-10-07T17:21:25+00:00",
+      "date_published": "2025-10-07T18:14:08+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -72,41 +368,563 @@
       "lang": "fr"
     },
     {
-      "id": "b4cb1ef0ae891685f68cd85432e041317c7e569ffb6493e108c3745e615a884b",
-      "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
-      "title": "‘Not words that I would have used’: Stride distances himself from Jenrick’s ‘no white faces’ comments – UK politics live",
-      "content_html": "<p>Shadow chancellor distances himself from words after Robert Jenrick accused of racism in comments he made about Handsworth </p><p>Asked about the Jenrick story, <strong>Badenoch</strong> again suggests Guardian reporting is reliable.</p><p><em>Q: Jenrick was making a distinction between white faces and brown faces.</em></p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-10-07T17:20:00+00:00",
+      "id": "d256da7daac7288f4e13cd6ebf0eafb21cce82ece0a1623b56aa16e71581987a",
+      "url": "https://www.theguardian.com/world/2025/oct/07/palestine-protests-go-ahead-across-uk-on-second-anniversary-of-7-october",
+      "title": "Palestine protests go ahead across UK on second anniversary of 7 October",
+      "content_html": "<p>March through London and gatherings in Glasgow and Edinburgh proceed despite prime minister’s pleas</p><p>Pro-Palestine protesters in the UK have held demonstrations on the second anniversary of the 7 October attacks in Israel, despite pleas by Keir Starmer to cancel the “un-British” rallies”.</p><p>The prime minister said the events showed “little respect for others” while Bridget Phillipson, the education secretary; Kemi Badenoch and Robert Jenrick also spoke out on the issue.</p> <a href=\"https://www.theguardian.com/world/2025/oct/07/palestine-protests-go-ahead-across-uk-on-second-anniversary-of-7-october\">Continue reading...</a>",
+      "date_published": "2025-10-07T18:13:35+00:00",
       "authors": [
         {
-          "name": "Andrew Sparrow"
+          "name": "Chris Osuh, Libby Brooks and Geneva Abdul"
         }
       ],
       "tags": [
-        "Politics",
+        "Protest",
+        "Israel-Gaza war",
         "UK news",
-        "Conservative conference",
-        "Conservatives",
-        "Kemi Badenoch",
-        "Robert Jenrick",
-        "Labour",
-        "Conservative leadership",
-        "Birmingham",
-        "Race",
-        "Immigration and asylum",
-        "Migration",
-        "Brexit",
-        "Reform UK",
-        "Nigel Farage",
-        "Conservative conference 2025",
-        "Zack Polanski",
-        "Richard Hermer",
-        "Law",
-        "Judiciary",
-        "Mel Stride",
-        "Ed Davey",
+        "England",
+        "Scotland",
+        "Students",
         "London",
-        "James Cleverly"
+        "Judaism"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e359a2832d30afe6e63fdd787bd8aa482c7029ab4590b949f94d1bb0a153ca9f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197610/israel-commemoration-7-octobre-negociations-guerre-gaza",
+      "title": "Israël commémore le 7 octobre sur fond de négociations pour mettre fin à la guerre à Gaza",
+      "content_html": "<p>Les négociations font poindre l&#x27;espoir ténu d&#x27;une libération des otages à Gaza et d&#x27;une fin de la guerre.</p>",
+      "date_published": "2025-10-07T18:10:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1f05edafc6a047b1f869d462400c94365e049e4a4dd3cebe401357a813732370",
+      "url": "https://www.elmundo.es/internacional/2025/10/07/68e39277e4d4d8734d8b4590.html",
+      "title": "La bataille des trains: la Russie et l'Ukraine attaquent les \"artères de guerre\"",
+      "content_html": "Les drones russes commencent à attaquer le transport des passagers dans la lutte que les deux pays ont maintenu pendant des mois pour bloquer le réseau ferroviaire adversaire",
+      "date_published": "2025-10-07T18:08:47+00:00",
+      "authors": [
+        {
+          "name": "Javier Espinosa"
+        }
+      ],
+      "tags": [
+        "Rusia",
+        "Ucrania",
+        "Artículos Javier Espinosa",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "683ebf0820e11960d2ab62f0b157cb4280a915f5fc779940f1ef53ecef10b31e",
+      "url": "https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca",
+      "title": "Up to 14m car loan scandal victims in line for average £700 payout, City regulator announces",
+      "content_html": "<p>City regulator unveils compensation scheme for motorists who bought cars via discretionary commission deals from 2007 to 2024</p><p>Victims of the UK’s car finance scandal are likely to receive compensation payouts averaging £700 resulting from 14m unfair loans, the City regulator said on Tuesday.</p><p>The payouts would be less than previously expected, but the Financial Conduct Authority (FCA) said lenders could be landed with an £8.2bn compensation bill, which could go as high as £9.7bn.</p> <a href=\"https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca\">Continue reading...</a>",
+      "date_published": "2025-10-07T18:08:33+00:00",
+      "authors": [
+        {
+          "name": "Rupert Jones"
+        }
+      ],
+      "tags": [
+        "Motor finance",
+        "Business",
+        "Motoring",
+        "Consumer affairs",
+        "Consumer rights",
+        "Money",
+        "UK news",
+        "Financial Conduct Authority",
+        "Financial sector",
+        "Regulators",
+        "Law"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4c8c006d1c583f89754ffe3b6aa803b089af4efd596452099c0a85fe12852bbc",
+      "url": "https://www.aljazeera.com/news/2025/10/7/witnesses-testify-defendant-fully-aware-he-was-assaulting-gisele-pelicot?traffic_source=rss",
+      "title": "Witnesses testify defendant ‘fully aware’ he was assaulting Gisele Pelicot",
+      "content_html": "Husamettin Dogan is the only defendant to appeal his conviction for assaulting Pelicot in a landmark French case.",
+      "date_published": "2025-10-07T18:04:49+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "26d4f282083e316f48ac107a262daba907b781f1d1b0f766ca01e844b5060ca3",
+      "url": "https://elpais.com/internacional/2025-10-07/reyes-rigo-la-espanola-de-la-flotilla-acusada-de-morder-a-una-funcionaria-israeli-continua-encarcelada-sin-cargos.html",
+      "title": "Reyes Rigo, l'Espagnole de la flottille accusée d'avoir mordu un responsable israélien, reste emprisonnée sans inculpation",
+      "content_html": "L'activiste Reyes Rigo (à gauche), accompagnée des deux autres membres de Mallorcans du Global Sumud Flotilla, Lucía Muñoz et Alejandra Martínez.",
+      "date_published": "2025-10-07T18:04:47+00:00",
+      "authors": [
+        {
+          "name": "Trinidad Deiros"
+        }
+      ],
+      "tags": [
+        "Barcos",
+        "Franja Gaza",
+        "Conflicto árabe-israelí",
+        "Israel",
+        "Ejército profesional",
+        "Marina",
+        "Prisiones",
+        "Derechos humanos",
+        "Hamás",
+        "Tribunales",
+        "Españoles extranjero",
+        "Flotillas ayuda Gaza"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f16fa5106b0b8bf8b64370dd50f8200c84111a21ff149ec9396f214313c2becd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197614/marineland-beluga-mort-ontario",
+      "title": "Marineland : des militants craignent que les bélugas soient euthanasiés",
+      "content_html": "<p>L&#x27;organisme Protection mondiale des animaux demande à l’Ontario d’intervenir.</p>",
+      "date_published": "2025-10-07T18:04:19+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "aaa2b67f481f3ef5117d33e67180de753cb9d9b5e50ddfcbe794cd368674d5eb",
+      "url": "https://www.timesofisrael.com/anti-israel-protests-held-worldwide-on-second-anniversary-of-hamas-attack/",
+      "title": "Anti-Israel protests held worldwide on second anniversary of Hamas attack",
+      "content_html": "<p>Demonstrators in London chant 'Israel is a terrorist state,' reflecting shift of global sentiment as the Gaza war continues; pro-Hamas graffiti in Melbourne calls to 'do it again'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/anti-israel-protests-held-worldwide-on-second-anniversary-of-hamas-attack/\">Anti-Israel protests held worldwide on second anniversary of Hamas attack</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25280508998881-e1759853698810-1024x640.jpg\" title=\"Anti-Israel protests held worldwide on second anniversary of Hamas attack\" width=\"160\" /></figure>",
+      "date_published": "2025-10-07T17:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "anti-Israel activity",
+        "London",
+        "2023-2025 Israel-Hamas war"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3c7a8bf47a0a87fecbc0de3f36da37805b0f745c592877afa4cca16954d5e5db",
+      "url": "https://www.ukrinform.net/rubric-ato/4044881-russian-army-shells-two-areas-of-dnipropetrovsk-region-during-day-causing-civilian-casualties.html",
+      "title": "Russian army shells two areas of Dnipropetrovsk region during day, causing civilian casualties",
+      "content_html": "During the day, the Russian army struck the Nikopol and Synelnykivskyi districts of the Dnipropetrovsk region, causing a number of damages and casualties among the civilian population.",
+      "date_published": "2025-10-07T17:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3b11d02c6650e7231a1c756f890fda504343656980e23965ea8e33715ff64e1e",
+      "url": "https://www.theguardian.com/music/2025/oct/07/long-lost-john-lennon-interview-reveals-us-phone-tapping-fears",
+      "title": "Long-lost John Lennon interview reveals US phone-tapping fears",
+      "content_html": "<p>Ex-Beatle spoke of performing ‘for another 60 years’ in interview to be aired on 85th anniversary of his birth</p><p>A long-lost interview with John Lennon, rediscovered in a basement by the young DJ who conducted it 50 years ago and in which the former <a href=\"https://www.theguardian.com/music/thebeatles\">Beatle</a> speaks of fears the US government was tapping his phone, is being aired on what would have been the singer-songwriter’s 85th birthday.</p><p><a href=\"https://www.boomradiouk.com/nicky-horne/\">Nicky Horne </a>was 24 and an up-and-coming DJ with London’s Capital Radio when he was invited to the star’s New York apartment for a wide-ranging interview.</p> <a href=\"https://www.theguardian.com/music/2025/oct/07/long-lost-john-lennon-interview-reveals-us-phone-tapping-fears\">Continue reading...</a>",
+      "date_published": "2025-10-07T17:56:19+00:00",
+      "authors": [
+        {
+          "name": "Caroline Davies"
+        }
+      ],
+      "tags": [
+        "John Lennon",
+        "Music",
+        "Culture",
+        "The Beatles",
+        "Capital Radio",
+        "UK news",
+        "US news",
+        "Surveillance",
+        "Pop and rock",
+        "Television & radio",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "54243fbd8e5c4af89246438d90e2d4f20e48e4ca68df60f3070919bb2c1c4724",
+      "url": "https://www.timesofisrael.com/global-leaders-mark-nightmare-of-oct-7-as-antisemitism-surges-in-their-countries/",
+      "title": "Global leaders mark ‘nightmare’ of Oct. 7 as antisemitism surges in their countries",
+      "content_html": "<p>While most leaders' statements focus on condemning Hamas and antisemitism, some use the anniversary of the atrocities to slam Israel and accuse it of 'genocide' in ongoing Gaza war</p>\n<p>The post <a href=\"https://www.timesofisrael.com/global-leaders-mark-nightmare-of-oct-7-as-antisemitism-surges-in-their-countries/\">Global leaders mark ‘nightmare’ of Oct. 7 as antisemitism surges in their countries</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AFP__20251007__77ZC79K__v1__HighRes__GermanyIsraelConflictPalestinianAnniversary-1024x640.jpg\" title=\"Global leaders mark ‘nightmare’ of Oct. 7 as antisemitism surges in their countries\" width=\"160\" /></figure>",
+      "date_published": "2025-10-07T17:55:18+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "October 7 Hamas atrocities",
+        "2023-2025 Israel-Hamas war",
+        "Keir Starmer",
+        "Friedrich Merz",
+        "Emmanuel Macron",
+        "Giorgia Meloni",
+        "Zohran Mamdani",
+        "Pedro Sanchez",
+        "Donald Trump"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c029b651c77f2d9e5968b8a9a02fc39794fb2dfced79e3ba6244b8a8ba24fca9",
+      "url": "https://www.theguardian.com/us-news/2025/oct/07/texas-national-guard-troops-chicago-trump",
+      "title": "Texas national guard troops arrive in Chicago amid Trump’s crackdown",
+      "content_html": "<p>Military presence comes after judge declined to block troops from entering, following lawsuit filed by city and state</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p>Texas national guard troops have arrived in the <a href=\"https://www.theguardian.com/us-news/chicago\">Chicago</a> area, marking an escalation of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> crackdown on the city.</p><p>Chicago has already seen a ramping up of immigration enforcement in the past few weeks, as well as increasingly violent altercations in the suburb of Broadview, where law enforcement has <a href=\"https://www.theguardian.com/us-news/2025/oct/04/ice-chicago-extreme-force-protesters-journalists\">been filmed</a> deploying tear gas and pepper gas against protestors.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/07/texas-national-guard-troops-chicago-trump\">Continue reading...</a>",
+      "date_published": "2025-10-07T17:50:30+00:00",
+      "authors": [
+        {
+          "name": "Gloria Oladipo and staff"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Chicago",
+        "Texas",
+        "Donald Trump",
+        "US news",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "af4e6321e7cf4bbf07cd5ca9bb31da229c79a2b7a24adb061bc85796fc00363e",
+      "url": "https://www.timesofisrael.com/uk-prosecutors-appeal-ruling-to-drop-charges-against-rapper-for-displaying-hezbollah-flag/",
+      "title": "UK prosecutors appeal ruling to drop charges against rapper for displaying Hezbollah flag",
+      "content_html": "<p>Appeal comes after court cited technical grounds to nullify indictment of Kneecap's Liam O'Hanna, who is accused of supporting terror</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uk-prosecutors-appeal-ruling-to-drop-charges-against-rapper-for-displaying-hezbollah-flag/\">UK prosecutors appeal ruling to drop charges against rapper for displaying Hezbollah flag</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AFP__20250926__76UX9PL__v3__HighRes__BritainIrelandCourtMusic-e1759854754547-1024x640.jpg\" title=\"UK prosecutors appeal ruling to drop charges against rapper for displaying Hezbollah flag\" width=\"160\" /></figure>",
+      "date_published": "2025-10-07T17:50:15+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Hezbollah",
+        "Kneecap",
+        "anti-Israel activity"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c1481fa1856ebc3faf8cd03329ba03afc35ec16e4bf15c5d47c0e2f4378785fc",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197699/taylor-swift-raisons-super-bowl-kelce",
+      "title": "Voici pourquoi Taylor Swift ne chantera pas au prochain Super Bowl",
+      "content_html": "<p>La chanteuse ne s&#x27;imagine pas monter sur scène si son fiancé Travis Kelce est sur le terrain. </p>",
+      "date_published": "2025-10-07T17:49:19+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7f95cf4bb524a8a8218be3b483c50b1024d8aadd0631bfb371b486f9fc85a0d6",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197724/radar-photo-doug-ford-camera",
+      "title": "Radars photo : Doug Ford rejette le compromis offert par des municipalités « cupides »",
+      "content_html": "<p>Le premier ministre de l’Ontario a envoyé une lettre aux élus mardi.</p>",
+      "date_published": "2025-10-07T17:47:20+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dffb3f90d14448e811c39ccc23e9793dacd6eeaf34532b0d24285f98de80c9e3",
+      "url": "https://www.aljazeera.com/economy/2025/10/7/jury-orders-johnson-johnson-to-pay-966m-in-talc-cancer-case?traffic_source=rss",
+      "title": "Jury orders Johnson & Johnson  to pay $966m in talc cancer case",
+      "content_html": "A Los Angeles court orders the pharma giant to pay damages to the family of Mae Moore, who died of mesothelioma in 2021.",
+      "date_published": "2025-10-07T17:47:19+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c02b0edd6f3bca466797e5641d37c0e6c16842b8dc3a321306bb6baafb3d416a",
+      "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search",
+      "title": "A British Ice and more stop and search: Badenoch’s Tories set out new policies",
+      "content_html": "<p>Shadow ministers have announced far-reaching and often radical proposals – here is a roundup of some of them</p><p>Kemi Badenoch <a href=\"https://www.theguardian.com/politics/2025/jan/08/kemi-badenoch-tells-tories-dont-expect-big-policy-plans-for-two-years\">warned her shadow cabinet</a> in January not to expect any detailed policies until 2027. “We’re not creating policies for 2028 in 2025,” a Tory spokesperson said at the time.</p><p>This week that changed. At the Conservative party’s annual conference in Manchester, shadow ministers have lined up to announce detailed, far-reaching and often radical new policies.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">Continue reading...</a>",
+      "date_published": "2025-10-07T17:45:37+00:00",
+      "authors": [
+        {
+          "name": "Kiran Stacey"
+        }
+      ],
+      "tags": [
+        "Conservatives",
+        "Conservative conference 2025",
+        "Kemi Badenoch",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f979281e54ebafed25316a57dcc097249d011aef96549f9fe789af3b57d045d",
+      "url": "https://www.lemonde.fr/international/article/2025/10/07/une-maire-poignardee-dans-l-ouest-de-l-allemagne-le-motif-politique-ecarte-a-ce-stade_6644956_3211.html",
+      "title": "Une maire poignardée dans l’ouest de l’Allemagne, le motif politique écarté à ce stade",
+      "content_html": "A Herdecke, en Allemagne, le 7 octobre 2025.",
+      "date_published": "2025-10-07T17:45:29+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "624e657350fb5d4f33c4083913ae79863d3a0eaa761e051fe6300477ed21fde4",
+      "url": "https://www.ukrinform.net/rubric-ato/4044887-russians-attack-bytytskyi-starostat-in-sumy-region-with-lancet-drone.html",
+      "title": "Russians attack Bytytskyi starostat in Sumy region with Lancet drone",
+      "content_html": "Russian invaders attacked the territory of the Bytytskyi starostat in the Sumy region with a Lancet-type drone.",
+      "date_published": "2025-10-07T17:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ac2ba3efabfc5547e480e620aeac30fb3fa7ed37e209098658cd56662d39e3dd",
+      "url": "https://www.elmundo.es/internacional/2025/10/07/68e5516d21efa0c13f8b45b8.html",
+      "title": "Macron n'exclut plus de convoquer des élections législatives anticipées en France",
+      "content_html": "Il reçoit les présidents des deux chambres à l'Elysée au milieu des critiques croissantes et des demandes de démission de ses propres alliés.",
+      "date_published": "2025-10-07T17:44:49+00:00",
+      "authors": [
+        {
+          "name": "Carlos Fresneda"
+        }
+      ],
+      "tags": [
+        "Francia",
+        "Emmanuel Macron",
+        "Europa",
+        "Unión Europea",
+        "internacional",
+        "Artículos Carlos Fresneda"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "676f0442984b6b18ec29b630d2b0f319dc7c5b6e492489c948dbf19853b7c88a",
+      "url": "https://www.aljazeera.com/economy/2025/10/7/canadas-carney-makes-second-white-house-visit-as-trade-tensions-loom?traffic_source=rss",
+      "title": "Canada’s Carney makes second White House visit as trade tensions loom",
+      "content_html": "US&#039;s Trump said the two leaders would discuss trade as tariffs weigh on the Canadian economy.",
+      "date_published": "2025-10-07T17:43:32+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1ecb3b54d4ac86b8c966d9720d49511177c532bb6d35b7ff0e3f2ca412a5eb82",
+      "url": "https://www.theguardian.com/world/2025/oct/07/danish-pm-plans-to-ban-social-media-for-under-15s-warning-it-is-stealing-childhood",
+      "title": "Denmark plans social media ban for under-15s as PM warns phones ‘stealing childhood’",
+      "content_html": "<p>Mette Frederiksen links social media use to anxiety, depression and lack of concentration</p><p>The Danish prime minister says the country will ban social media for under-15s, as she accused mobile phones and social networks of “stealing our children’s childhood”.</p><p>Mette Frederiksen used her speech on Tuesday at the opening of Folketing, the Danish parliament, to announce the proposal, in which she said: “We have unleashed a monster.” She added: “Never before have so many children and young people suffered from anxiety and depression.”</p> <a href=\"https://www.theguardian.com/world/2025/oct/07/danish-pm-plans-to-ban-social-media-for-under-15s-warning-it-is-stealing-childhood\">Continue reading...</a>",
+      "date_published": "2025-10-07T17:43:03+00:00",
+      "authors": [
+        {
+          "name": "Miranda Bryant in Stockholm"
+        }
+      ],
+      "tags": [
+        "Denmark",
+        "Social media",
+        "Internet safety",
+        "Smartphones",
+        "Children",
+        "Mobile phones",
+        "Internet",
+        "World news",
+        "Media",
+        "Society",
+        "Digital media",
+        "Europe",
+        "Technology"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4ef8365d8bb8bc48644f0cb844d9d749b7190323ccd7222a0604223b10180b1c",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197681/video-spal-bebe-abandonne-longueuil",
+      "title": "Bébé abandonné : le SPAL fait appel au public pour retrouver une personne d’intérêt",
+      "content_html": "<p>Des images captées par une caméra de surveillance ont été diffusées pour faire progresser l&#x27;enquête.</p>",
+      "date_published": "2025-10-07T17:40:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "57f2045fc0e11b6f25069c505e9976b1f8e35ecfc8996dfe9caa25e9df429214",
+      "url": "https://www.elmundo.es/internacional/2025/10/07/68e4c770fc6c8349488b45b0.html",
+      "title": "Greta Thunberg suggère que Donald Trump \"a des problèmes de gestion de la colère\" après avoir exhorté l'activiste à \"aller chez le médecin\"",
+      "content_html": "Le président américain a décrit lundi le militant suédois expulsé par Israël comme \"difficile\"",
+      "date_published": "2025-10-07T17:39:40+00:00",
+      "authors": [
+        {
+          "name": "Europa Press, Efe"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Greta Thunberg"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bdf8daf2a5722e7a61a3c67a75d7bed86527a179f9f631e816b6c92fdd39274d",
+      "url": "https://www.liberation.fr/international/europe/lutte-anti-drones-face-a-la-peur-du-ciel-lunion-europeenne-veut-remuer-ciel-et-guerre-20251007_TXVS26A3LBCIXGAKKICF3MSDTQ/",
+      "title": "Mur anti-drones : la très illusoire « ligne Maginot» de l’Union européenne",
+      "content_html": "Des soldats ukrainiens tirent sur un drone russe près de Pavlohrad, dans l’est de l’Ukraine, le 19 juillet 2025.",
+      "date_published": "2025-10-07T17:37:03+00:00",
+      "authors": [
+        {
+          "name": "Laurence Defranoux"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "93a21e99ac393004618c2023eb1c38c90d2e32029b59487ae10f6ddecb01ec8c",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/gaza-bound-conscience-sails-as-activists-brace-for-israeli-interception?traffic_source=rss",
+      "title": "Gaza-bound ‘Conscience’ sails as activists brace for Israeli interception",
+      "content_html": "The Conscience is the latest ship in the Freedom Flotilla Coalition to sail across the Mediterranean Sea toward Gaza.",
+      "date_published": "2025-10-07T17:33:10+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6a96bc795f18d1f884736ecfcc88a726ef80e64262d3cceba081df2f4366a1c6",
+      "url": "https://www.ukrinform.net/rubric-ato/4044878-zelensky-discusses-countering-russias-shadow-fleet-with-head-of-fis.html",
+      "title": "Zelensky discusses countering Russia’s “shadow fleet” with head of FIS",
+      "content_html": "President Volodymyr Zelensky listened to a report by Oleh Ivashchenko, head of Ukraine's Foreign Intelligence Service (FIS) , on countering Russia's “shadow fleet.”",
+      "date_published": "2025-10-07T17:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "73e224e64f915fad5681659374a9bcf2c065874f686646069f4c442e3d5f768a",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/07/nigel-farage-felt-genuinely-worried-by-alleged-tiktok-death-threat-court-hears",
+      "title": "Nigel Farage felt ‘genuinely worried’ by alleged TikTok death threat, court hears",
+      "content_html": "<p>Fayaz Khan, 26, is on trial at Southwark crown court accused of threatening to shoot Reform UK leader</p><p>Nigel Farage felt “genuinely worried” after a man allegedly posted a TikTok video threatening to come to Britain and shoot him, a court has heard.</p><p>The Reform UK leader was giving evidence at the trial of Fayaz Khan, 26, who has been charged with threatening to kill the Reform UK leader last year in a post Farage described as “pretty chilling”.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/07/nigel-farage-felt-genuinely-worried-by-alleged-tiktok-death-threat-court-hears\">Continue reading...</a>",
+      "date_published": "2025-10-07T17:23:50+00:00",
+      "authors": [
+        {
+          "name": "Ben Quinn"
+        }
+      ],
+      "tags": [
+        "UK news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -133,32 +951,20 @@
       "lang": "fr"
     },
     {
-      "id": "f16fa5106b0b8bf8b64370dd50f8200c84111a21ff149ec9396f214313c2becd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197614/marineland-beluga-mort-ontario",
-      "title": "Marineland : des militants craignent que les bélugas soient euthanasiés",
-      "content_html": "<p>L&#x27;organisme Protection mondiale des animaux demande à l’Ontario d’intervenir.</p>",
-      "date_published": "2025-10-07T17:19:01+00:00",
+      "id": "76ae763f39c3e8b7fb785e46c23d37ee6b4e0f31320757317e5907b7a294885c",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/10/7/two-years-after-october-7-israels-reckoning?traffic_source=rss",
+      "title": "Two years after October 7: Israel’s reckoning",
+      "content_html": "The Gaza war has lasted two years – are Israel and the US ready to end it now?",
+      "date_published": "2025-10-07T17:19:13+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "News"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
-    },
-    {
-      "id": "a626e87a130cd1ecb0c51daa4db7683875d13375cc6f7b59ead40a88d3597fe9",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013045/mark-carney-donald-trump-reunion-rencontre-tarifs",
-      "title": "Mark Carney « sortira très content » de la Maison-Blanche, assure Donald Trump",
-      "content_html": "<p>Le premier ministre canadien et le président américain ont discuté avec la presse avant de se voir en privé.</p>",
-      "date_published": "2025-10-07T17:17:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "922325cbd8f08bf46a84a3a704de8d661fdf33e49b7fca50d8f1eafde3ca67d9",
@@ -180,7 +986,7 @@
       "id": "bff3c5cb4e228ab30c347c8ca4147b218860aa4ff1a9ce4368ca1ccef296dc9f",
       "url": "https://www.france24.com/en/culture/20251007-uk-prosecutors-to-appeal-dropped-terrorism-case-against-kneecap-rapper",
       "title": "UK prosecutors to appeal dropped 'terrorism' case against Kneecap rapper",
-      "content_html": "UK prosecutors said they would appeal a court's decision to drop terrorism charges brought against Irish singer Liam O'Hanna on Tuesday. The charge against the member of the punk rap group Kneecap was originally dropped as it wasn’t brought to prosecutors within the legal time limit.",
+      "content_html": "UK prosecutors said Tuesday they will appeal a court's decision to drop terrorism charges brought against Irish singer Liam O'Hanna. The charge against the member of the punk rap group Kneecap was dropped last month as it wasn’t brought to prosecutors within the legal time limit.",
       "date_published": "2025-10-07T17:09:40+00:00",
       "authors": [
         {
@@ -197,33 +1003,18 @@
       "lang": "en"
     },
     {
-      "id": "67a48d170b3c5d43faa52c3d36919bd1af03404243a2f70ff16ad3f73905e3ce",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates",
-      "title": "Pam Bondi spars with Democratic senator over Epstein ‘client list’ and national guard deployments in tense hearing – live",
-      "content_html": "<p>Illinois senator Dick Durbin grills Trump’s attorney general on the Epstein investigation and Bondi tells him ‘national guard is on the way’ to Chicago</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/07/pam-bondi-testimony-senate-trump-troop-deployments\">Bondi and Senate Democrats spar amid Trump’s troop deployments</a></p></li></ul><p>Before we turn our attention to Capitol Hill, we’re also keeping an eye on Illinois today. On Monday, a federal judge did not immediately block the president’s move to deploy national guard troops, including hundreds from Texas, to Chicago.</p><p>Instead, the judge set a hearing for Thursday, leaving room for the military to make their way to the windy city as soon as today.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/07/donald-trump-national-guard-pam-bondi-mark-carney-government-shutdown-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-10-07T17:08:00+00:00",
-      "authors": [
-        {
-          "name": "Shrai Popat (now) and Tom Ambrose (earlier)"
-        }
-      ],
+      "id": "d5c195fbedb76d11ec4d9bec3f3f6e110745f5a23a8c816824949c1a7034e8ae",
+      "url": "https://www.aljazeera.com/news/2025/10/7/uk-prosecutors-will-challenge-decision-to-dismiss-kneecap-terrorism-case?traffic_source=rss",
+      "title": "UK prosecutors to appeal decision to dismiss Kneecap rapper ‘terror’ charge",
+      "content_html": "Liam O&#039;Hanna said after case thrown out last month that charges aimed at silencing dissent over Gaza war.",
+      "date_published": "2025-10-07T17:09:19+00:00",
+      "authors": [],
       "tags": [
-        "Trump administration",
-        "US news",
-        "US politics",
-        "Donald Trump",
-        "Pam Bondi",
-        "Jeffrey Epstein",
-        "Mark Carney",
-        "US immigration",
-        "US Senate",
-        "US justice system",
-        "US supreme court",
-        "Ice (US Immigration and Customs Enforcement)"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -242,27 +1033,18 @@
       "lang": "fr"
     },
     {
-      "id": "6473a8d3b6deef2b8d788341953d2e7295993405d9e02930977de7b88263f40d",
-      "url": "https://www.theguardian.com/business/2025/oct/07/dpd-rate-cut-couriers-substantial-earnings-loss",
-      "title": "DPD couriers face substantial earnings loss from cut in delivery payments",
-      "content_html": "<p>Company vows to force through pay decrease in new year that will cost thousands of drivers up to £25 a day</p><p>Thousands of couriers face losing substantial portions of their earnings in the new year after managers at the delivery firm DPD vowed to force through rate cuts after the busy Christmas period.</p><p>About 1,500 drivers are thought to have stopped work on Tuesday after the company, which reported pre-tax profits of nearly £200m, announced a 65p cut in the rate for most of its deliveries in an early morning email on 29 September.</p> <a href=\"https://www.theguardian.com/business/2025/oct/07/dpd-rate-cut-couriers-substantial-earnings-loss\">Continue reading...</a>",
-      "date_published": "2025-10-07T17:02:03+00:00",
-      "authors": [
-        {
-          "name": "Kevin Rawlinson"
-        }
-      ],
+      "id": "663466e6b2c49c063d99ab8ad81d946b7c5e81175907e95d42b87b0b30590668",
+      "url": "https://www.aljazeera.com/sports/2025/10/7/indonesia-vs-saudi-arabia-afc-world-cup-qualifier-teams-start?traffic_source=rss",
+      "title": "Indonesia vs Saudi Arabia: AFC World Cup qualifier – teams, start",
+      "content_html": "Indonesia face Saudi Arabia, who are cohosting the final AFC qualifiers for football&#039;s 2026 FIFA World Cup with Qatar.",
+      "date_published": "2025-10-07T17:03:36+00:00",
+      "authors": [],
       "tags": [
-        "Couriers/delivery industry",
-        "Pay",
-        "Work & careers",
-        "Business",
-        "UK news",
-        "Cost of living crisis"
+        "Sport"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -528,32 +1310,6 @@
       "lang": "fr"
     },
     {
-      "id": "676a90c83d8350feb3ebb7ebb850522e41c2c5a183b70ab1a3f636da5de9caf2",
-      "url": "https://www.theguardian.com/us-news/2025/oct/07/laura-loomer-trump-ghislaine-maxwell-pardon",
-      "title": "Laura Loomer cautions Trump on idea of Ghislaine Maxwell pardon: ‘Do not do it’",
-      "content_html": "<p>Far-right influencer’s comments on X came after president evidently left door open to pardoning the Epstein associate</p><p>A noncommittal response from Donald Trump over whether he would pardon convicted sex trafficker <a href=\"https://www.theguardian.com/us-news/ghislaine-maxwell\">Ghislaine Maxwell</a> provoked a response from the president’s staunch ally and far-right influencer Laura Loomer.</p><p>“Do not do it,” <a href=\"https://x.com/LauraLoomer/status/1975332129048326183?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1975332129048326183%7Ctwgr%5E5cd752a7367be2a3d7f6c8a051c7b766c0e4c188%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.mediaite.com%2Fmedia%2Fnews%2Flaura-loomer-issues-stern-warning-to-trump-after-ghislaine-maxwell-pardon-remark-no-coming-back-from-that%2F\">Loomer wrote on X</a>, tagging Trump, JD Vance and Pam Bondi, the US attorney general. “I repeat. Do not do it. There will be no coming back from that. I repeat again. For the love of God. Do Not Do It.”</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/07/laura-loomer-trump-ghislaine-maxwell-pardon\">Continue reading...</a>",
-      "date_published": "2025-10-07T16:25:10+00:00",
-      "authors": [
-        {
-          "name": "Edward Helmore"
-        }
-      ],
-      "tags": [
-        "Ghislaine Maxwell",
-        "Donald Trump",
-        "US news",
-        "Far right (US)",
-        "Jeffrey Epstein",
-        "Trump administration",
-        "Sean ‘Diddy‘ Combs"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7fdf1de946dc62b9f8e5068b7392459ce7897d5755a83738612f5cc9c78fa3d2",
       "url": "https://ici.radio-canada.ca/nouvelle/2197680/fiasco-saaqclic-cgi-commission-gallant",
       "title": "Fiasco SAAQclic : CGI offrait de faire le projet pour 135 millions de moins",
@@ -566,33 +1322,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "aa5535eb4592c7a56bd332485afa3b48daaaf52ab6ab0d84b3ed17bed52790be",
-      "url": "https://www.theguardian.com/sport/2025/oct/07/mark-sanchez-lawsuit-indianapolis",
-      "title": "Man left with ‘disfigurement’ in confrontation with Mark Sanchez sues former NFL star",
-      "content_html": "<ul><li><p>Lawyers say Perry Tyler also suffered emotional distress</p></li><li><p>Sanchez also facing criminal charges over incident</p></li></ul><p>A man injured in <a href=\"https://www.theguardian.com/sport/2025/oct/06/mark-sanchez-stabbing-indianapolis-charges\">a violent confrontation with Mark Sanchez</a> is suing the former NFL star and his current employer, Fox Corporation.</p><p>Lawyers for Perry Tyler filed the lawsuit in an Indiana court on Monday. They are seeking damages and legal fees. The lawsuit says the incident, which happened in the early hours of Saturday morning in Indianapolis, caused Tyler “severe permanent disfigurement, loss of function” and emotional distress. Police say the 69-year-old suffered lacerations to his cheek during the confrontation.</p> <a href=\"https://www.theguardian.com/sport/2025/oct/07/mark-sanchez-lawsuit-indianapolis\">Continue reading...</a>",
-      "date_published": "2025-10-07T16:23:21+00:00",
-      "authors": [
-        {
-          "name": "Tom Lutz"
-        }
-      ],
-      "tags": [
-        "NFL",
-        "Indianapolis",
-        "Fox",
-        "Media",
-        "Sport",
-        "US news",
-        "US sports",
-        "US television industry"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "b90b3ccdf4543c3d45384bf588c634984efe55457d34f4040f78ec7213afbfe9",
@@ -691,44 +1420,14 @@
       "lang": "en"
     },
     {
-      "id": "683ebf0820e11960d2ab62f0b157cb4280a915f5fc779940f1ef53ecef10b31e",
-      "url": "https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca",
-      "title": "Up to 14m car loan scandal victims in line for average £700 payout, City regulator announces",
-      "content_html": "<p>City regulator unveils compensation scheme for motorists who bought cars via discretionary commission deals from 2007 to 2024</p><p>Up to 14 million victims of the UK’s car finance scandal look likely to receive compensation payouts averaging £700.</p><p>The payouts would be less than previously expected, but announcing the plans for compensation on Tuesday, the Financial Conduct Authority (FCA) said that lenders could be landed with an £8.2bn compensation bill, though it could go as high as £9.7bn.</p> <a href=\"https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca\">Continue reading...</a>",
-      "date_published": "2025-10-07T16:17:03+00:00",
-      "authors": [
-        {
-          "name": "Rupert Jones"
-        }
-      ],
-      "tags": [
-        "Motor finance",
-        "Business",
-        "Motoring",
-        "Consumer affairs",
-        "Consumer rights",
-        "Money",
-        "UK news",
-        "Financial Conduct Authority",
-        "Financial sector",
-        "Regulators",
-        "Law"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d7d6c19f459417b47f74bb8f5105a367c131f6e577513d0412a0af8a1156b8ef",
       "url": "https://www.theguardian.com/business/2025/oct/07/eu-plan-to-match-trump-steel-tariffs-spurs-existential-threat-to-uk-steel-industry",
       "title": "EU plan to match Trump steel tariffs spurs ‘existential threat’ to UK steel industry",
-      "content_html": "<p>Alarm sounds over plan in Brussels to double import tariff to 50% with four-fifths of UK exports heading to Europe</p><p>The EU has announced it will match Donald Trump’s steel tariffs, doubling levies on imports to 50% in a move condemned as “an existential threat” to the industry in the UK.</p><p>With 80% of British exports going to the EU, the change poses the UK steel industry’s biggest ever crisis, according to the lobby group representing the sector.</p> <a href=\"https://www.theguardian.com/business/2025/oct/07/eu-plan-to-match-trump-steel-tariffs-spurs-existential-threat-to-uk-steel-industry\">Continue reading...</a>",
+      "content_html": "<p>Starmer says UK in discussions with EU over Brussels plan to double import tariff to 50%, which unions warn could kill UK steel industry</p><p>The EU has announced it will match Donald Trump’s steel tariffs, doubling levies on imports to 50% in a decision condemned as “an existential threat” to the industry in the UK.</p><p>With 80% of British exports going to the EU, the change poses the UK steel industry’s biggest ever crisis, according to the lobby group representing the sector, while unions said they could kill off the industry.</p> <a href=\"https://www.theguardian.com/business/2025/oct/07/eu-plan-to-match-trump-steel-tariffs-spurs-existential-threat-to-uk-steel-industry\">Continue reading...</a>",
       "date_published": "2025-10-07T16:16:48+00:00",
       "authors": [
         {
-          "name": "Lisa O’Carroll"
+          "name": "Lisa O’Carroll and Jessica Elgot"
         }
       ],
       "tags": [
@@ -743,33 +1442,8 @@
         "Trump tariffs",
         "Europe",
         "US news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7607fd7036e88078ac3621056a9e6edffbb42ac2df63bc78956724c4af030344",
-      "url": "https://www.theguardian.com/music/2025/oct/07/cps-to-appeal-against-dismissal-of-terrorism-charge-against-kneecaps-liam-og-o-hannaidh",
-      "title": "CPS to appeal against dismissal of terrorism charge against Kneecap’s Liam Óg Ó hAnnaidh",
-      "content_html": "<p>The rapper was accused of displaying a flag in support of Hezbollah but case was thrown out by magistrate</p><p>Prosecutors have said they will appeal against the chief magistrate’s decision to <a href=\"https://www.theguardian.com/music/2025/sep/26/terrorism-case-against-kneecap-rapper-liam-og-o-hannaidh-thrown-out\">throw out a terrorism charge</a> against the Kneecap rapper Liam Óg Ó hAnnaidh.</p><p>The 27-year-old, known as Mo Chara, had been charged with a terrorism offence for allegedly displaying a Hezbollah flag at a gig at the O2 Forum in Kentish Town, north London, last November.</p> <a href=\"https://www.theguardian.com/music/2025/oct/07/cps-to-appeal-against-dismissal-of-terrorism-charge-against-kneecaps-liam-og-o-hannaidh\">Continue reading...</a>",
-      "date_published": "2025-10-07T16:15:17+00:00",
-      "authors": [
-        {
-          "name": "Haroon Siddique Legal affairs correspondent"
-        }
-      ],
-      "tags": [
-        "Kneecap",
-        "UK news",
-        "Crown Prosecution Service",
-        "Protest",
-        "Music",
-        "Culture",
-        "Law"
+        "World news",
+        "Keir Starmer"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -838,8 +1512,8 @@
     {
       "id": "fd1fbbb5f343082f922f9b21153d4ac5ae8a3e60c6a3eca4433b10526d8a8b92",
       "url": "https://elpais.com/internacional/2025-10-07/israel-replica-al-vaticano-que-sus-criticas-por-la-ofensiva-en-gaza-pueden-minar-los-esfuerzos-por-la-paz.html",
-      "title": "Israël répond au Vatican que ses critiques sur l'offensive à Gaza peuvent « saper les efforts » de paix",
-      "content_html": "Le secrétaire d'État du Saint-Siège, Pietro Parolin, lors d'une cérémonie au Vatican en avril dernier.",
+      "title": "Israël répond au Vatican que ses critiques pour l'offensive à Gaza peuvent \"saper les efforts\" pour la paix",
+      "content_html": "Le secrétaire d'État du Saint-Siège, Pietro Parolin, lors d'une cérémonie au Vatican, en avril dernier.",
       "date_published": "2025-10-07T16:03:24+00:00",
       "authors": [
         {
@@ -868,8 +1542,8 @@
     {
       "id": "5b2d1703482376f04cd2d7e402a8137f59cdb8476a318d16dbafa1b0b3aeefe5",
       "url": "https://www.timesofisrael.com/in-apparent-sign-of-progress-egypt-says-witkoff-to-soon-join-talks-on-gaza-deal/",
-      "title": "In apparent sign of progress, Egypt says Witkoff to soon join talks on Gaza deal",
-      "content_html": "<p>Kushner also said joining negotiations on plan he helped craft, as Qatar asserts Israel should have ceased fire already and Hamas hails 'glorious success' of Oct. 7 two years on</p>\n<p>The post <a href=\"https://www.timesofisrael.com/in-apparent-sign-of-progress-egypt-says-witkoff-to-soon-join-talks-on-gaza-deal/\">In apparent sign of progress, Egypt says Witkoff to soon join talks on Gaza deal</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25272756744006-e1759848483154-1024x640.jpg\" title=\"In apparent sign of progress, Egypt says Witkoff to soon join talks on Gaza deal\" width=\"160\" /></figure>",
+      "title": "PM’s office reports progress in talks on Gaza deal as top Israeli, US negotiators to join",
+      "content_html": "<p>Israeli official tells ToI there is 'optimism, but very cautious,' warns 'Hamas can add obstacles at any moment and leave'; terror group hails 'glorious success' of Oct. 7 two years on</p>\n<p>The post <a href=\"https://www.timesofisrael.com/in-apparent-sign-of-progress-egypt-says-witkoff-to-soon-join-talks-on-gaza-deal/\">PM&#8217;s office reports progress in talks on Gaza deal as top Israeli, US negotiators to join</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/05/Untitled-49-1024x640.jpeg\" title=\"PM&#8217;s office reports progress in talks on Gaza deal as top Israeli, US negotiators to join\" width=\"160\" /></figure>",
       "date_published": "2025-10-07T16:00:30+00:00",
       "authors": [],
       "tags": [
@@ -972,34 +1646,6 @@
       "lang": "fr"
     },
     {
-      "id": "bbcd3e9fc9b07b4528cc718fbeb5dadac6abd2af5c31d582834ebcadc5b27c55",
-      "url": "https://www.theguardian.com/politics/2025/oct/07/robert-jenrick-accused-of-fuelling-toxic-nationalism-with-birmingham-claims",
-      "title": "Robert Jenrick accused of fuelling ‘toxic nationalism’ with Birmingham claims",
-      "content_html": "<p>Shadow justice secretary stands by comments made in March amid criticism including from a Tory colleague</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Robert Jenrick has been accused of fuelling a “fire of toxic nationalism” after he doubled down on his complaint about “not seeing another white face” in part of Birmingham.</p><p>The shadow justice secretary was criticised by politicians across the parties, local leaders and the bishop of Birmingham after the Guardian published his remarks from March.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/07/robert-jenrick-accused-of-fuelling-toxic-nationalism-with-birmingham-claims\">Continue reading...</a>",
-      "date_published": "2025-10-07T15:51:45+00:00",
-      "authors": [
-        {
-          "name": "Rowena Mason Whitehall editor"
-        }
-      ],
-      "tags": [
-        "Robert Jenrick",
-        "Conservatives",
-        "Birmingham",
-        "Immigration and asylum",
-        "Politics",
-        "UK news",
-        "Race",
-        "Communities",
-        "Society"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "07a8a56786f86933fb28a131ddf26f9e3dbc4ced8e2b1dd09175d982a48c8c51",
       "url": "https://www.lefigaro.fr/international/en-allemagne-medias-et-politiques-se-desolent-du-chaos-francais-20251007",
       "title": "En Allemagne, médias et politiques se désolent du « chaos » français",
@@ -1087,8 +1733,8 @@
     {
       "id": "b84476e27fc2886af328f324e221c65c659e1f5ab8fecb7b72dc646a0b3d232c",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e53129e85ececa288b45b7.html",
-      "title": "Premières condamnations pénitentiaires contre le mouvement de protestation de la génération Z au Maroc",
-      "content_html": "Trois jeunes ont été condamnés entre un an et demi et deux ans de prison pour avoir participé aux manifestations",
+      "title": "Premières peines de prison contre le mouvement de contestation Génération Z au Maroc",
+      "content_html": "Trois jeunes ont été condamnés à entre un an et demi et deux ans de prison pour participation aux manifestations",
       "date_published": "2025-10-07T15:40:49+00:00",
       "authors": [
         {
@@ -1186,20 +1832,6 @@
       "lang": "en"
     },
     {
-      "id": "0c074cc1e73214ed2473bf08eb4fc8e3b41d317a728473ab32360d8a9d69136d",
-      "url": "https://www.bbc.com/news/articles/czrpz5e8mgyo?at_medium=RSS&at_campaign=rss",
-      "title": "German mayor critically injured in stabbing attack, police say",
-      "content_html": "Chancellor Friedrich Merz says \"we fear for the life\" of Iris Stalzer, a newly-elected mayor of the western town of Herdecke.",
-      "date_published": "2025-10-07T15:31:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "dd72072e0ba38cc9fdf5f5910b6fde9add746f9fe630ada4a974b134134992f6",
       "url": "https://www.aljazeera.com/news/2025/10/7/german-mayor-elect-gravely-wounded-in-stabbing-attack?traffic_source=rss",
       "title": "German mayor-elect gravely wounded in stabbing attack",
@@ -1235,7 +1867,7 @@
       "id": "aa8174c7be76f9dfcdef30e829d1810ac93cdd825d93cdad5e86368694eb5570",
       "url": "https://www.france24.com/en/france/20251007-former-pm-and-macron-ally-%C3%A9douard-philippe-joins-calls-for-president-s-resignation",
       "title": "Former PM and Macron ally Édouard Philippe joins calls for president's resignation",
-      "content_html": "French President Emmanuel Macron's first and longest serving prime minister, Edouard Philippe, urged him to resign on Monday, suggesting that polls should be held early once a budget is passed. The appeal came a day after Sébastien Lecornu, France’s latest prime minister, resigned less than a month after being appointed, deepening the political crisis.",
+      "content_html": "French President Emmanuel Macron's first and longest-serving prime minister, Édouard Philippe, urged him to resign on Monday, suggesting that polls should be held early once a budget is passed. The appeal came a day after Sébastien Lecornu, France’s latest prime minister, resigned less than a month after being appointed, deepening the political crisis.",
       "date_published": "2025-10-07T15:29:34+00:00",
       "authors": [
         {
@@ -1540,20 +2172,6 @@
       "lang": "en"
     },
     {
-      "id": "965f852d03f2786aa5c820a50971fbb18e363dc125ea4ed698618ca8e8e0774b",
-      "url": "https://www.lemonde.fr/international/live/2025/10/07/en-direct-gaza-le-hamas-s-efforce-de-surmonter-les-obstacles-en-vue-d-un-accord-affirme-un-de-ses-responsables_6644360_3210.html",
-      "title": "EN DIRECT, Gaza : le Hamas « s’efforce de surmonter les obstacles » en vue d’un accord, affirme un de ses responsables",
-      "content_html": "Les familles des otages israéliens manifestent devant la résidence du premier ministre, Benyamin Nétanyahou, à l’occasion du deuxième anniversaire du 7-Octobre, à Jérusalem, le 7 octobre 2025.",
-      "date_published": "2025-10-07T14:48:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "176d4b0fb580da6dd2014677f1b3f7aa5d04876ba08bb01bb327ef7c18a60e80",
       "url": "https://www.france24.com/fr/france/20251007-cas-d%C3%A9mission-emmanuel-macron-comment-se-d%C3%A9roulerait-pr%C3%A9sidentielle-anticip%C3%A9e",
       "title": "En cas de démission d’Emmanuel Macron, comment se déroulerait la présidentielle anticipée ?",
@@ -1762,37 +2380,6 @@
       "lang": "en"
     },
     {
-      "id": "26d4f282083e316f48ac107a262daba907b781f1d1b0f766ca01e844b5060ca3",
-      "url": "https://elpais.com/internacional/2025-10-07/reyes-rigo-la-espanola-de-la-flotilla-acusada-de-morder-a-una-funcionaria-israeli-continua-encarcelada-sin-cargos.html",
-      "title": "Reyes Rigo, l'Espagnole de la flottille accusée d'avoir mordu un responsable israélien, reste emprisonnée sans inculpation",
-      "content_html": "La militante Reyes Rigo (à gauche), accompagnée des deux autres membres des Malorcans de la Flotilla Global Sumud, Lucía Muñoz et Alejandra Martínez.",
-      "date_published": "2025-10-07T14:21:28+00:00",
-      "authors": [
-        {
-          "name": "Trinidad Deiros"
-        }
-      ],
-      "tags": [
-        "Barcos",
-        "Franja Gaza",
-        "Conflicto árabe-israelí",
-        "Israel",
-        "Ejército profesional",
-        "Marina",
-        "Prisiones",
-        "Derechos humanos",
-        "Hamás",
-        "Tribunales",
-        "Españoles extranjero",
-        "Flotillas ayuda Gaza"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "701ebdf6a991c3c8ab0c39164e2abc590ecb179cabdc15a7df8ad3f84429c46b",
       "url": "https://www.ukrinform.net/rubric-ato/4044812-ukrainian-forces-capture-russian-mercenary-from-india.html",
       "title": "Ukrainian forces capture Russian mercenary from India",
@@ -1980,7 +2567,7 @@
       "id": "442f58a18fadc19fb6fc1644164b7404c5a99dae9e0ad49237daf7451ba09bf9",
       "url": "https://www.lefigaro.fr/international/gaza-le-plan-de-tony-blair-place-l-enclave-palestinienne-sous-tutelle-etrangere-20251007",
       "title": "Gaza : le plan de Tony Blair place l’enclave palestinienne sous tutelle étrangère",
-      "content_html": "Sir Tony Blair.",
+      "content_html": "Monsieur Tony Blair.",
       "date_published": "2025-10-07T14:03:38+00:00",
       "authors": [],
       "tags": [
@@ -2012,7 +2599,7 @@
       "id": "b2bf3d173fb628c8e9fd42739b620b80b3a663dbbc1fe0580131b2fc8d4bb11f",
       "url": "https://www.theguardian.com/australia-news/2025/oct/07/nsw-official-admits-hiding-in-cupboard-during-multimillion-dollar-kickback-investigation",
       "title": "NSW official admits hiding in cupboard during multimillion-dollar kickback investigation",
-      "content_html": "<p>Former transport bureaucrat Ibrahim Helmy appeared at an ICAC hearing after allegedly forming corrupt relationships with contractors and colleagues</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/07/australia-politics-live-october-7-anniversary-hamas-israel-anthony-albanese-sussan-ley-question-time-andrew-hastie-labor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ibrahim Helmy was hiding in a cupboard for the moment he had been warned about.</p><p>Police had arrived at the share house where the former transport bureaucrat was laying low, living discreetly with strangers after failing to appear before a major corruption probe.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/07/nsw-official-admits-hiding-in-cupboard-during-multimillion-dollar-kickback-investigation\">Continue reading...</a>",
+      "content_html": "<p>Former transport bureaucrat Ibrahim Helmy appears at Icac hearing after allegedly forming corrupt relationships with contractors and colleagues</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/07/australia-politics-live-october-7-anniversary-hamas-israel-anthony-albanese-sussan-ley-question-time-andrew-hastie-labor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Ibrahim Helmy was hiding in a cupboard for the moment he had been warned about.</p><p>Police had arrived at the share house where the former transport bureaucrat was laying low, living discreetly with strangers after failing to appear before a major corruption probe.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/07/nsw-official-admits-hiding-in-cupboard-during-multimillion-dollar-kickback-investigation\">Continue reading...</a>",
       "date_published": "2025-10-07T14:00:05+00:00",
       "authors": [
         {
@@ -2225,20 +2812,6 @@
       "lang": "en"
     },
     {
-      "id": "1a652b96072b670bd5b35c5233647426bd004f3167d380c266c00edc341564e7",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197627/enqueteur-accable-accuse-appel-viols-mazan",
-      "title": "Un enquêteur accable l’unique accusé du procès en appel des viols de Mazan",
-      "content_html": "<p>Husamettin Dogan était «&nbsp;conscient&nbsp;» que Mme Pelicot était inanimée lorsqu&#x27;il l&#x27;a agressée, a dit le policier.</p>",
-      "date_published": "2025-10-07T13:44:23+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2116dada4a5dec0f3a1c6668c8a74dacd5cc5a715678d8619c8de80c756ccea0",
       "url": "https://www.france24.com/en/tv-shows/the-observers/20251007-workshops-gaza-children-respite-war",
       "title": "'Giving them moments of happiness': Workshops offer children in Gaza a brief respite from war",
@@ -2385,20 +2958,6 @@
       "lang": "fr"
     },
     {
-      "id": "f516a7b5577b731dffae5e63b3b23eca29457132d18a83cbcaa9c418f56546ec",
-      "url": "https://www.lemonde.fr/international/article/2025/10/07/allemagne-une-maire-recemment-elue-poignardee-dans-l-ouest-du-pays_6644956_3210.html",
-      "title": "Allemagne : une maire poignardée dans l’ouest du pays, peu après son élection",
-      "content_html": "A Herdecke, en Allemagne, le 7 octobre 2025.",
-      "date_published": "2025-10-07T13:33:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "af7f84d1dd69784812e78ae6ba3554d4965bd84e0f2efe2d706ea665bc12027a",
       "url": "https://www.dw.com/en/the-woman-daring-to-end-cameroon-president-s-43-year-rule/a-74249332?maca=en-rss-en-all-1573-rdf",
       "title": "The woman daring to end Cameroon president's 43-year rule",
@@ -2450,7 +3009,7 @@
       "id": "2bb5e477d5f2d99877e4de704fbb5786efb138df9ce221b18c46537d4734d1d7",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e5117cfc6c83221b8b456d.html",
       "title": "70% des Français, en faveur de la démission de Macron",
-      "content_html": "Les sondages ratifient l'inconfort croissant envers le président français, partagé par la classe politique et même par les membres de son parti",
+      "content_html": "Les sondages confirment le malaise croissant à l'égard du président français, partagé par la classe politique et même par les membres de son parti",
       "date_published": "2025-10-07T13:26:31+00:00",
       "authors": [
         {
@@ -2625,7 +3184,7 @@
     {
       "id": "23da2be0e55354270e66d651dd1f4c64be5c2969df13c265e66139a4dfb68f00",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e50ff7e85ece5e308b45b3.html",
-      "title": "La Syrie célèbre ses premières élections post-Assad avec des affrontements meurtriers dans la ville d'Alep",
+      "title": "La Syrie célèbre ses premiers élections post-ASAD avec des affrontements mortels dans la ville d'Alep",
       "content_html": "Au moins une personne a été tuée et des dizaines d'autres blessées dans des affrontements entre l'armée et les forces kurdes syriennes",
       "date_published": "2025-10-07T13:14:12+00:00",
       "authors": [
@@ -2699,8 +3258,8 @@
     {
       "id": "830338c7f3a05b64f53c1b13ce3aef7e46016d25bc69f85db2cc3cbec05354ce",
       "url": "https://elpais.com/internacional/2025-10-07/la-alcaldesa-alemana-del-spd-iris-stalzer-recibe-varias-punaladas-frente-a-su-domicilio.html",
-      "title": "Le maire allemand du SPD Iris Stalzer reçoit plusieurs coups de couteau devant sa maison",
-      "content_html": "Les services d'urgence ont déménagé mardi à Iris Stalzer par Helicopter, à côté de leur domicile à Herdecke.",
+      "title": "Le maire allemand du SPD Iris Stalzer reçoit plusieurs coups de couteau à la maison",
+      "content_html": "Les secours ont transporté Iris Stalzer par hélicoptère ce mardi, à côté de son domicile à Herdecke.",
       "date_published": "2025-10-07T13:08:27+00:00",
       "authors": [
         {
@@ -2779,20 +3338,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "8997a0be3be3451c6b3928c103879ec0af8822edc41e6d844a4c330ac74b404b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197620/grenouille-ranitomeya-hwata-amazonie-perou",
-      "title": "Une espèce inconnue de grenouilles venimeuses observée en Amazonie péruvienne",
-      "content_html": "<p>Dénommé <em>Ranitomeya hwata</em>, cet amphibien ne mesure que 15&nbsp;mm de long.</p>",
-      "date_published": "2025-10-07T13:01:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "2dcbde99ed5c6248009a2efc204d0539e8733474f6e55df93c09282dda2f7854",
@@ -2874,33 +3419,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "758fe95d3a583683466f146c0cf89c126ffc5c5c3a879150ed3c8f35b17e03fc",
-      "url": "https://www.theguardian.com/film/2025/oct/07/george-clooney-says-his-children-have-a-much-better-life-being-raised-in-france",
-      "title": "George Clooney says his children have a ‘much better life’ being raised in France than LA",
-      "content_html": "<p>The actor said that their French farm will be free of paparazzi, teach them self-sufficiency and let them see his handyman skills, such as fixing the coffee machine</p><p>George Clooney has said that his decision to base himself in France was informed by the desire to give his children a better start in life than if they had remained in the US.</p><p>The actor, 64, who has eight-year-old twins, Ella and Alexander, with his wife, the human rights lawyer Amal Clooney, gave a lengthy interview to US Esquire magazine while staying at his Italian villa on Lake Como.</p> <a href=\"https://www.theguardian.com/film/2025/oct/07/george-clooney-says-his-children-have-a-much-better-life-being-raised-in-france\">Continue reading...</a>",
-      "date_published": "2025-10-07T12:42:16+00:00",
-      "authors": [
-        {
-          "name": "Catherine Shoard"
-        }
-      ],
-      "tags": [
-        "George Clooney",
-        "Film",
-        "Amal Clooney",
-        "Culture",
-        "France",
-        "Los Angeles",
-        "Children",
-        "Europe"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3211,20 +3729,6 @@
       "lang": "en"
     },
     {
-      "id": "b930a75ac3bd9bde3bcd786ae5d1cb079077f513a5975d82ab2ca072db74b85e",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197615/trois-chercheurs-nobel-physique-travaux-mecanique-quantique",
-      "title": "Trois chercheurs décrochent le Nobel de Physique pour leurs travaux en mécanique quantique",
-      "content_html": "<p>John Clarke, Michel Devoret et John M. Martinis ont découvert «&nbsp;l&#x27;effet tunnel quantique macroscopique&nbsp;».</p>",
-      "date_published": "2025-10-07T12:04:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ef64a5c27a9dd82b1da0cbcf2a78314cd40d440075a5a1d410e524921df175f3",
       "url": "https://www.lemonde.fr/idees/article/2025/10/07/les-grandes-entreprises-indiennes-n-ont-pas-ete-fondees-pour-conquerir-le-monde-mais-pour-assurer-la-souverainete-de-l-inde_6644946_3232.html",
       "title": "« Les grandes entreprises indiennes n’ont pas été fondées pour conquérir le monde, mais pour assurer la souveraineté de l’Inde »",
@@ -3358,20 +3862,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "d0f01dac360d5499bdee64be4ff52aedfa2c9a0b981292b4febd43125711e3ad",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197497/richmound-degats-groupe-conspirationniste-aide",
-      "title": "Richmound n’a pas les moyens de nettoyer les dégâts du « Royaume du Canada »",
-      "content_html": "<p>Le groupe conspirationniste a été expulsé le mois dernier.</p>",
-      "date_published": "2025-10-07T11:42:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "0492266cabe5381b9eb8e5aff695a39a42fc30e13cda7bcdeaa7be57824afa9a",
@@ -3539,48 +4029,6 @@
       "lang": "en"
     },
     {
-      "id": "9a77fa7416d0cd934b9877b7a292df863ac6f1e49647a61afa423a5a544d6e3c",
-      "url": "https://www.timesofisrael.com/two-years-later-we-still-have-no-answers-nova-families-mourn-on-oct-7-anniversary/",
-      "title": "‘Two years later we still have no answers’: Nova families mourn on Oct. 7 anniversary",
-      "content_html": "<p>Relatives, friends and survivors gather at festival site where over 370 were slaughtered and dozens taken hostage: 'We live the trauma every day. It feels as if it happened yesterday'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/two-years-later-we-still-have-no-answers-nova-families-mourn-on-oct-7-anniversary/\">&#8216;Two years later we still have no answers&#8217;: Nova families mourn on Oct. 7 anniversary</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25280185377869-1024x640.jpg\" title=\"&#8216;Two years later we still have no answers&#8217;: Nova families mourn on Oct. 7 anniversary\" width=\"160\" /></figure>",
-      "date_published": "2025-10-07T11:19:12+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Nova festival",
-        "Kibbutz Re'im",
-        "October 7 Hamas atrocities",
-        "Hamas hostages",
-        "2023-2025 Israel-Hamas war",
-        "Gaza Strip"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "754af6d0861c8d18b6228f5e2a19e6013b91e65b91802f1fd90e00aca6bd580e",
-      "url": "https://www.france24.com/en/live-news/20251007-syria-defence-minister-says-agreed-comprehensive-ceasefire-with-kurds",
-      "title": "Syria agrees to 'comprehensive ceasefire' with Kurds, defence minister says",
-      "content_html": "The Syrian army and the Kurdish-led Syrian Democratic Forces (SDF) have agreed on a ceasefire in the country’s north and northeast, Damascus said Tuesday, marking a key step toward salvaging a reunification deal following recent clashes between the two sides. The truce is effective immediately, Syria's defence ministry said.",
-      "date_published": "2025-10-07T11:13:50+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a317c92a2809c5e3accd7c70c9300784a62fbc70027462907c03518524bf850e",
       "url": "https://www.france24.com/fr/info-en-continu/20251007-syrie-le-ministre-de-la-d%C3%A9fense-annonce-un-cessez-le-feu-global-avec-les-kurdes",
       "title": "Syrie : le ministre de la Défense annonce un \"cessez-le-feu global\" avec les Kurdes",
@@ -3617,22 +4065,6 @@
       "lang": "en"
     },
     {
-      "id": "9d88fa4631f330ef8e00383448566bee783cd16ec4ba92728af2b335cadf37a6",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/video-search-for-bodies-called-off-after-indonesia-school-collapse?traffic_source=rss",
-      "title": "Video: Search for bodies called off after Indonesia school collapse",
-      "content_html": "A search for the bodies of victims from a school collapse in Indonesia has called off after the death toll finalised.",
-      "date_published": "2025-10-07T11:04:46+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "77e754df42c134466fe8f8ff08cb241fafc4645af0791ea48b739d66a14e2c16",
       "url": "https://www.dw.com/en/germany-news-october-7-commemorations-held-across-country/live-74258849?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: October 7 commemorations held across country",
@@ -3663,31 +4095,10 @@
       "lang": "en"
     },
     {
-      "id": "e7061bd905c4b5bb80c4f240caff3647beb3950403b7b2da2b85dc66f680f5e0",
-      "url": "https://www.timesofisrael.com/unesco-board-backs-egyptian-for-chief-amid-controversies-over-anti-israel-bias-claims/",
-      "title": "UNESCO board backs Egyptian for chief amid allegations it is biased against Israel",
-      "content_html": "<p>International cultural body's general assembly must ratify appointment of former antiquities minister Khaled el-Enany, but has never rejected an executive board recommendation</p>\n<p>The post <a href=\"https://www.timesofisrael.com/unesco-board-backs-egyptian-for-chief-amid-controversies-over-anti-israel-bias-claims/\">UNESCO board backs Egyptian for chief amid allegations it is biased against Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AFP__20250410__39UB2MP__v1__HighRes__FranceEgyptUnescoElEnany-e1759828123782-1024x640.jpg\" title=\"UNESCO board backs Egyptian for chief amid allegations it is biased against Israel\" width=\"160\" /></figure>",
-      "date_published": "2025-10-07T11:00:40+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Khaled el-Enany",
-        "Egypt",
-        "UNESCO",
-        "Abdel-Fattah el-Sissi",
-        "Audrey Azoulay"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aafb8ffc194d2319636dc6019c744351e04aa4bd5702f27c19fa8e5aa31845c5",
       "url": "https://www.theguardian.com/world/2025/oct/07/israel-deports-australian-gaza-flotilla-activists-to-jordan",
       "title": "Israel deports Australian Gaza flotilla activists to Jordan",
-      "content_html": "<p>The group of seven held since Friday are released following Australian government representations </p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>breaking news email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p>A group of Australians who were detained in an Israeli prison after being arrested as part of the pro-Palestinian flotilla carrying aid to Gaza have been deported to Jordan.</p><p>Confirmation that the seven Australian citizens had been released by Israeli authorities was received on Tuesday night, following Australian government representations to authorities on the ground.</p> <a href=\"https://www.theguardian.com/world/2025/oct/07/israel-deports-australian-gaza-flotilla-activists-to-jordan\">Continue reading...</a>",
+      "content_html": "<p>The group of seven held since Friday are released following Australian government representations</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A group of Australians who were detained in an Israeli prison after being arrested as part of the pro-Palestinian flotilla carrying aid to Gaza have been deported to Jordan.</p><p>Confirmation that the seven Australian citizens had been released by Israeli authorities was received on Tuesday night, following Australian government representations to authorities on the ground.</p> <a href=\"https://www.theguardian.com/world/2025/oct/07/israel-deports-australian-gaza-flotilla-activists-to-jordan\">Continue reading...</a>",
       "date_published": "2025-10-07T10:52:23+00:00",
       "authors": [
         {
@@ -3705,42 +4116,10 @@
       "lang": "en"
     },
     {
-      "id": "8f3bf70afb4b0535159f07cd927ae549b009cd7966291817593fc34c553523b3",
-      "url": "https://www.aljazeera.com/video/digidocs/2025/10/7/aje-onl-farahandmyriam_digidocs-071025?traffic_source=rss",
-      "title": "Farah and Myriam: Childhood Under Siege in Gaza",
-      "content_html": "Two years on, Gaza’s children still bear the scars of war — Farah fears the night, Myriam survived the rubble.",
-      "date_published": "2025-10-07T10:49:44+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5ed62e72088fa8cbdc91ee60823d1eedf32c0fb8160324d5677ed13d7fd9f2a0",
-      "url": "https://www.aljazeera.com/opinions/2025/10/7/the-second-year-of-genocide-was-different?traffic_source=rss",
-      "title": "The second year of genocide was different",
-      "content_html": "Israel got creative with new methods of mass torture and murder, giving us a choice of how we die.",
-      "date_published": "2025-10-07T10:49:15+00:00",
-      "authors": [],
-      "tags": [
-        "Opinions"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2af39d3af3fc2fc52158a41e3883061f38193d5115be2199c174bec8cad321e3",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4edcafc6c8349488b45c0.html",
-      "title": "Quelle est la loi d'insurrection que Trump considère invoquer les manifestations?",
-      "content_html": "Ce règlement est considéré comme l'un des pouvoirs d'urgence les plus énergiques",
+      "title": "Quelle est la loi de l'insurrection que Trump considère invoquer les manifestations?",
+      "content_html": "Ce règlement est considéré comme l'un des pouvoirs d'urgence les plus puissants",
       "date_published": "2025-10-07T10:45:05+00:00",
       "authors": [
         {
@@ -3821,37 +4200,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "fr"
-    },
-    {
-      "id": "424b04e29380afd89f8b7347472be7003a35c29a282e90948082c9252594b9e1",
-      "url": "https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss",
-      "title": "French lawmaker “beaten” by Israeli police",
-      "content_html": "“I was beaten by two police officers as I was being put into the van.”",
-      "date_published": "2025-10-07T10:34:17+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
       "lang": "en"
-    },
-    {
-      "id": "08c7694e66284bed519cca5616bd430195cefbf5e9dec00b9cb56b59ece716e8",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197607/cineplex-amende-bureau-concurrence",
-      "title": "Tarification au compte-gouttes : Cineplex devant les tribunaux pour contester une sanction",
-      "content_html": "<p>En septembre, le Bureau de concurrence a déterminé que l&#x27;entreprise avait induit ses clients en erreur.</p>",
-      "date_published": "2025-10-07T10:25:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "9152caa42782a8944a961cfe0c37214ed3a2a0c2ac3a17a2c87dea77dcd80041",
@@ -3906,38 +4255,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "8ffa6d638180427f1fc5893d5c83c5590b071e678818402bae71dd880f068d54",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/al-jazeera-reporter-reflects-on-two-years-of-war-in-gaza?traffic_source=rss",
-      "title": "Al Jazeera reporter reflects on two years of war in Gaza",
-      "content_html": "Al Jazeera’s Ibrahim al-Khalili reflects on the two years since Israel’s war on Gaza began.",
-      "date_published": "2025-10-07T10:06:45+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "384d973b7893e5daebf652bcad8ca44f6a873d190531228ef6f03c4a098e5229",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/fighting-reported-in-syrias-aleppo-between-army-and-sdf?traffic_source=rss",
-      "title": "Fighting reported in Syria’s Aleppo between army and SDF",
-      "content_html": "Syrian state media say a ceasefire has been reached between the army and US-backed Kurdish forces after fighting in Alep",
-      "date_published": "2025-10-07T10:06:01+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "753de573b6d12f1a4df20eacc2e4c41bdd1d7929f786cb36df4b0fb25071a00e",
@@ -4016,22 +4333,6 @@
       "lang": "en"
     },
     {
-      "id": "2d5b21225cec4d36a3d7ee03a04099b3bb60f6af2597b95dbc6323f5bd6c36d9",
-      "url": "https://www.aljazeera.com/news/2025/10/7/nobel-prize-for-physics-awarded-for-quantum-mechanic-tunnelling?traffic_source=rss",
-      "title": "Nobel Prize in Physics awarded to trio for quantum mechanics discoveries",
-      "content_html": "Quantum mechanics is the &#039;foundation of all digital technology&#039;, notes the chair of the Nobel Committee for Physics.",
-      "date_published": "2025-10-07T09:52:47+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5e7ded5877226ce80392780d5c7f6c5d98d9a48740bc5789c93df12275064cc8",
       "url": "https://www.bbc.com/news/articles/cqxzv75dp4go?at_medium=RSS&at_campaign=rss",
       "title": "Fifa accuses Malaysia of faking foreign-born players' eligibility",
@@ -4042,41 +4343,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "37a74ef8bd4ac144bcd57509ab4dbfb4ebd1c7ca4151e00d6051b5e43ba613d8",
-      "url": "https://www.aljazeera.com/gallery/2025/10/7/the-young-children-killed-by-israeli-fire-this-year-in-occupied-west-bank?traffic_source=rss",
-      "title": "The young children killed by Israeli fire this year in occupied West Bank",
-      "content_html": "The stories of boys and girls killed walking in their neighbourhoods, playing outside or staying home.",
-      "date_published": "2025-10-07T09:48:31+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "505b79f44040977899b48ec6109b86783153056fdf4a7c4ea492a4fd51f36f0d",
-      "url": "https://www.timesofisrael.com/uk-minister-health-service-failing-to-protect-jewish-patients-from-racist-doctors/",
-      "title": "UK minister: Health service ‘failing to protect Jewish patients from racist doctors’",
-      "content_html": "<p>Wes Streeting vows to overhaul medical disciplinary councils amid growing number of cases, including doctor who went unpunished after calling London hospital a 'Jewish supremacy cesspit'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uk-minister-health-service-failing-to-protect-jewish-patients-from-racist-doctors/\">UK minister: Health service ‘failing to protect Jewish patients from racist doctors’</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25273406627404-e1759816678713-1024x640.jpg\" title=\"UK minister: Health service ‘failing to protect Jewish patients from racist doctors’\" width=\"160\" /></figure>",
-      "date_published": "2025-10-07T09:43:38+00:00",
-      "authors": [],
-      "tags": [
-        "Jewish Times",
-        "antisemitism in the UK",
-        "British Jews",
-        "National Health Service"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -4154,7 +4420,7 @@
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "dc1553e949311529f8311d342c8460b8eb01e5f1e49c21825c86a144b093dfef",
@@ -4185,26 +4451,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "27500858ff4f60908ca030f622e137d90a50438553518701740c5f811c025d81",
-      "url": "https://www.timesofisrael.com/daily-briefing-oct-7-day-732-spotlight-on-tois-those-we-have-lost-project/",
-      "title": "Daily Briefing Oct. 7: Day 732 – Spotlight on ToI’s Those We Have Lost Project",
-      "content_html": "<p>News editor Amy Spiro highlights eight immigrants to Israel from among the 1,250 individuals included in the Losts project who were killed on October 7, 2023, or during the Gaza war</p>\n<p>The post <a href=\"https://www.timesofisrael.com/daily-briefing-oct-7-day-732-spotlight-on-tois-those-we-have-lost-project/\">Daily Briefing Oct. 7: Day 732 &#8211; Spotlight on ToI&#8217;s Those We Have Lost Project</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/Losts-image-1024x640.jpeg\" title=\"Daily Briefing Oct. 7: Day 732 &#8211; Spotlight on ToI&#8217;s Those We Have Lost Project\" width=\"160\" /></figure>",
-      "date_published": "2025-10-07T09:20:22+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "The Daily Briefing",
-        "podcasts",
-        "Times of Israel podcasts",
-        "2023-2025 Israel-Hamas war"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "f0846360abaaf455850205335725f9de8ce43225634f18c17a25d79bdd42849b",
@@ -4298,27 +4544,6 @@
       "lang": "en"
     },
     {
-      "id": "57f2045fc0e11b6f25069c505e9976b1f8e35ecfc8996dfe9caa25e9df429214",
-      "url": "https://www.elmundo.es/internacional/2025/10/07/68e4c770fc6c8349488b45b0.html",
-      "title": "Donald Trump attaque Greta Thunberg: \"C'est un aviron. Il devrait aller chez le médecin\"",
-      "content_html": "Le militant est arrivé lundi à l'aéroport d'Athènes, en Grèce, après avoir été expulsé par Israël avec un groupe de 135 membres du Global Sumud Flotilla",
-      "date_published": "2025-10-07T08:48:16+00:00",
-      "authors": [
-        {
-          "name": "Efe"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Greta Thunberg"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2193514c7dfb72e2f6846757deec71f89ebe8e487ca74b638fca4f853c3d85e5",
       "url": "https://www.dw.com/en/exhibition-recalls-hamas-attack-on-the-nova-music-festival/a-74259993?maca=en-rss-en-all-1573-rdf",
       "title": "Exhibition recalls Hamas attack on the Nova Music Festival",
@@ -4337,7 +4562,7 @@
     {
       "id": "f6952516b27124568c9cc335cf9cb163b6e73ed032a05cef1c9556ebcb22b516",
       "url": "https://elpais.com/internacional/2025-10-07/trump-tilda-a-greta-thunberg-de-alborotadora-y-le-aconseja-ir-al-medico-para-controlar-su-ira.html",
-      "title": "Trump qualifie Greta Thunberg de « fauteuse de troubles » et lui conseille d'aller chez le médecin pour « contrôler sa colère »",
+      "title": "Trump appelle Greta Thunberg \"Romotoradora\" et lui conseille d'aller chez le médecin pour \"contrôler sa colère\"",
       "content_html": "Trump à propos de Greta Thunberg : « Elle est très en colère et elle est folle »",
       "date_published": "2025-10-07T08:36:47+00:00",
       "authors": [
@@ -4409,20 +4634,6 @@
       "lang": "en"
     },
     {
-      "id": "13732cb9577a4bbf416c2e6ab24eca1dc67bc1c234ccbd986b04d51f86088d44",
-      "url": "https://www.lemonde.fr/international/live/2025/10/07/en-direct-guerre-en-ukraine-des-infrastructures-energetiques-et-ferroviaires-visees-par-des-attaques-russes-selon-kiev_6644466_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : des infrastructures énergétiques et ferroviaires visées par des attaques russes dans la nuit de lundi à mardi",
-      "content_html": "Des secouristes ukrainiens travaillent sur le site d’une infrastructure énergétique après une attaque de drone russe, à Kharkiv, en Ukraine, le 7 octobre 2025.",
-      "date_published": "2025-10-07T08:21:58+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "90c6ca70960a496146280d0c6b761b62c5b1ad6d80e182e752176264cee6fb63",
       "url": "https://www.bbc.com/news/articles/cn76424yd2mo?at_medium=RSS&at_campaign=rss",
       "title": "Carney under pressure at White House talks",
@@ -4469,20 +4680,6 @@
       "url": "https://ici.radio-canada.ca/info/long-format/2197432/sextorsion-consequences-tragiques-suicide",
       "title": "Les conséquences parfois tragiques de la sextorsion",
       "content_html": "<p>Particulièrement vulnérables, les adolescents sont des cibles de choix pour les sextorqueurs.</p>",
-      "date_published": "2025-10-07T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "60f1a86beb1af7bf4e00f544ba8513bf602e155b9442f526b7f7d9793e269992",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197376/maires-mobilisation-opposition-loi-106-gatineau-quebec",
-      "title": "Projet de loi 106 : l'Outaouais craint un exode des médecins",
-      "content_html": "<p>Des élus demandent au gouvernement de François Legault de s’entendre avec les médecins au plus vite.  </p>",
       "date_published": "2025-10-07T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -4544,22 +4741,6 @@
       "lang": "fr"
     },
     {
-      "id": "2de6b10a4ee4d641f76b12aa0b7ffa01cf95398615f961c8082dc72ccc98b3ef",
-      "url": "https://www.ukrinform.net/rubric-ato/4044599-russians-attacked-kharkiv-and-six-other-settlements-in-24-hours-two-wounded.html",
-      "title": "Russians attacked Kharkiv and six other settlements in 24 hours, two wounded",
-      "content_html": "Over the past day, Kharkiv and six other settlements in the Kharkiv region were under Russian attack, and two people were injured.",
-      "date_published": "2025-10-07T07:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ecc3935045c2d40d315cf211970e78fff97100afb2857680c2fddb24dc312036",
       "url": "https://www.bbc.com/news/articles/c80g4d5epm8o?at_medium=RSS&at_campaign=rss",
       "title": "Shoe thrown at India's top judge in religious row",
@@ -4591,7 +4772,7 @@
       "id": "246791e1934cac703f01a2503dedb00ba08e8553d1797dbbc76a53a5f37d294b",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4b813fdddffdd528b4588.html",
       "title": "Trois blessés dans un état critique lorsqu'un hélicoptère tombe au milieu d'une autoroute en Californie",
-      "content_html": "À bord du pilote, un médecin et une infirmière voyageaient.L'avion venait de décoller du Davis Medical Center de l'Université de Californie",
+      "content_html": "Le pilote, un médecin et une infirmière étaient à bord.L'avion venait de décoller du centre médical Davis de l'Université de Californie.",
       "date_published": "2025-10-07T07:03:13+00:00",
       "authors": [
         {
@@ -4627,22 +4808,6 @@
       "lang": "fr"
     },
     {
-      "id": "7607199eced4fde509f9c2abacd4c0c6c9de41ae99519665567b56541b382f28",
-      "url": "https://www.ukrinform.net/rubric-ato/4044589-russian-military-strikes-two-educational-institutions-in-sloviansk.html",
-      "title": "Russian military strikes two educational institutions in Sloviansk",
-      "content_html": "On the night of October 7, Russian invaders struck Sloviansk, hitting two educational institutions.",
-      "date_published": "2025-10-07T06:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5c6c47c86ec5e82b8cb90ac0fccd178206cbe8fa28e3ba0b0a7adc4a2fcf0be6",
       "url": "https://www.liberation.fr/international/asie-pacifique/en-indonesie-le-bilan-de-leffondrement-dune-ecole-monte-a-63-morts-20251006_2LFSQWHN6RDJNFB2D2RA5DP7TY/",
       "title": "En Indonésie, le bilan de l’effondrement d’une école grimpe à 67 morts",
@@ -4661,22 +4826,6 @@
       "lang": "fr"
     },
     {
-      "id": "9501c434e30eaffa4664b2ee1667b98e28661d960aed78a90fdd6ae9c3492de2",
-      "url": "https://www.ukrinform.net/rubric-ato/4044585-russian-drones-hit-grain-storage-facility-in-chernihiv-region.html",
-      "title": "Russian drones hit grain storage facility in Chernihiv region",
-      "content_html": "This morning, Russian troops launched another strike with Shahed drones on Novhorod-Siverskyi in the Chernihiv region, hitting their target and causing a fire.",
-      "date_published": "2025-10-07T06:32:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fd14fb152a1d1a67de8dcfdb2c31f51bf6a644c8e792ca745bb63238dbf7d81d",
       "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
       "title": "What are the key sticking points in Trump's Gaza peace plan?",
@@ -4687,22 +4836,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bd28b0f249b185666fc3b21322a7451a27964ee421f6173351b523628761266c",
-      "url": "https://www.ukrinform.net/rubric-ato/4044569-ukraine-reports-193-clashes-on-frontlines-59-attacks-repelled-in-pokrovsk-sector.html",
-      "title": "Ukraine reports 193 clashes on frontlines, 59 attacks repelled in Pokrovsk sector",
-      "content_html": "On October 6, Ukrainian Defense Forces engaged in 193 combat clashes with Russian forces.",
-      "date_published": "2025-10-07T05:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4883,35 +5016,6 @@
       "lang": "fr"
     },
     {
-      "id": "782f2963451d452cd2b4e93d586ddfca154da5435219d09ec5dce90b1bb341eb",
-      "url": "https://elpais.com/internacional/2025-10-07/europa-fracasa-en-su-respuesta-a-los-ataques-de-israel-sobre-gaza.html",
-      "title": "L'Europe ne répond pas aux attaques d'Israël contre Gaza",
-      "content_html": "La présidente de la Commission européenne, Ursula von der Leyen, lors d'une séance plénière au Parlement européen à Strasbourg ce lundi.",
-      "date_published": "2025-10-07T03:45:01+00:00",
-      "authors": [
-        {
-          "name": "María Sahuquillo"
-        }
-      ],
-      "tags": [
-        "Guerra",
-        "Conflictos",
-        "Conflicto árabe-israelí",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Franja Gaza",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8cc1a591dabd405dbf54e496f4e9ec40519f9a1e8890e200a8573a32520983e2",
       "url": "https://elpais.com/internacional/2025-10-07/el-duelo-inacabado-del-ataque-de-hamas-a-israel-por-que-la-pena-no-se-queda-aqui-en-el-cementerio.html",
       "title": "Le duel inachevé de l'attaque du Hamas à Israël: \"Pourquoi la pénalité ne reste-t-elle pas ici, dans le cimetière?\"",
@@ -4943,7 +5047,7 @@
     {
       "id": "867b5a9117ee0ca72fabde7ac6162375a63c310ee0c327ffb88e3584227771a6",
       "url": "https://elpais.com/internacional/2025-10-07/a-la-sombra-de-gaza-los-40000-desplazados-en-el-limbo-en-cisjordania.html",
-      "title": "A l’ombre de Gaza : les 40 000 déplacés dans le flou en Cisjordanie",
+      "title": "Dans l'ombre de Gaza: les 40 000 déplacés dans les limbes en Cisjordanie",
       "content_html": "Le réfugié palestinien Abdesalam Odeh, expulsé du champ de Tulkarem, dans la camionnette dans laquelle il vit maintenant est sa femme, près de cette ville.",
       "date_published": "2025-10-07T03:45:01+00:00",
       "authors": [
@@ -4963,6 +5067,35 @@
         "Palestina",
         "Oriente Próximo",
         "Desplazados"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "782f2963451d452cd2b4e93d586ddfca154da5435219d09ec5dce90b1bb341eb",
+      "url": "https://elpais.com/internacional/2025-10-07/europa-fracasa-en-su-respuesta-a-los-ataques-de-israel-sobre-gaza.html",
+      "title": "L’Europe échoue dans sa réponse aux attaques israéliennes sur Gaza",
+      "content_html": "Le président de la Commission européenne, Ursula von der Leyen, lors d'une session plénière au Parlement européen de Strasbourg lundi.",
+      "date_published": "2025-10-07T03:45:01+00:00",
+      "authors": [
+        {
+          "name": "María Sahuquillo"
+        }
+      ],
+      "tags": [
+        "Guerra",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
       ],
       "source": {
         "name": "Internacional en EL PAÍS",
@@ -5045,7 +5178,7 @@
       "id": "9c0d075bb96ca2ac7e97da064eb0e9cce501c5cb44e967aa51199ff280ef7356",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e45c5efdddffb9128b456d.html",
       "title": "\"Atmosphère positive\" lors du premier cycle de pourparlers entre le Hamas et les médiateurs",
-      "content_html": "Ce mardi poursuivra leurs conversations indirectes en Égypte pour mettre fin à la guerre des deux ans à Gaza, sous le plan du président américain Donald Trump",
+      "content_html": "Ce mardi, ils poursuivront leurs négociations indirectes en Égypte pour mettre fin à la guerre de deux ans à Gaza, selon le plan du président américain Donald Trump.",
       "date_published": "2025-10-07T00:18:40+00:00",
       "authors": [
         {
@@ -5069,7 +5202,7 @@
       "id": "c1e8edf41bde992bcaa7d210c1f8c1d125555ea8f00759d184b1f40672a3ccd4",
       "url": "https://elpais.com/internacional/2025-10-06/el-segundo-grupo-de-detenidos-espanoles-por-israel-nos-han-torturado-con-tecnicas-sibilinas.html",
       "title": "Le deuxième groupe de détenus espagnols par Israël: \"Ils nous ont torturés avec des techniques de Sibylin\"",
-      "content_html": "Capitaine de l'un des navires de la flottille: \"Ils nous ont torturés avec des techniques de Sibylin\"",
+      "content_html": "Capitaine d'un des navires de la Flottille : « Ils nous ont torturés avec des techniques sibyllines »",
       "date_published": "2025-10-07T00:16:28+00:00",
       "authors": [
         {
@@ -5115,8 +5248,8 @@
     {
       "id": "61c55f7fb08cf8395aeda505dbaf5c6e193e788e560a65094862c24a72e5c48b",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4145afdddffea488b45ac.html",
-      "title": "Deuxième anniversaire du massacre: \"Sans otages, nous continuerons en 7-O\"",
-      "content_html": "Les survivants du massacre du Festival de la Nova il y a deux ans et les proches des victimes se reconstruisent dans une conversation avec le monde les heures décisives de l'une des pires attaques de l'histoire",
+      "title": "Deuxième anniversaire du massacre : \"Sans les otages, on continuera en 7-O\"",
+      "content_html": "Les survivants du massacre du Festival NOVA il y a deux ans et les proches des victimes reconstituent dans une conversation avec EL MUNDO les heures décisives de l'un des pires attentats de l'histoire",
       "date_published": "2025-10-07T00:02:54+00:00",
       "authors": [
         {
@@ -5139,7 +5272,7 @@
     {
       "id": "bd73113c422dd1ee3bab95c514e6e4ee719d3ac3d45788fba3e80952edd97a80",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e3c8b0e4d4d89d378b45a7.html",
-      "title": "La nouvelle Europe",
+      "title": "Le nouveau malade de l'Europe",
       "content_html": "La France s'enfonce encore plus dans sa triple crise d'incertitude politique, de méfiance envers les marchés et la tension sociale",
       "date_published": "2025-10-07T00:02:49+00:00",
       "authors": [
@@ -5189,28 +5322,6 @@
       "lang": "en"
     },
     {
-      "id": "1f05edafc6a047b1f869d462400c94365e049e4a4dd3cebe401357a813732370",
-      "url": "https://www.elmundo.es/internacional/2025/10/07/68e39277e4d4d8734d8b4590.html",
-      "title": "La bataille des trains: la Russie et l'Ukraine attaquent les \"artères de guerre\"",
-      "content_html": "Les drones russes commencent à attaquer le transport des passagers dans la lutte que les deux pays ont maintenu pendant des mois pour bloquer le réseau ferroviaire adversaire",
-      "date_published": "2025-10-06T22:09:47+00:00",
-      "authors": [
-        {
-          "name": "Javier Espinosa"
-        }
-      ],
-      "tags": [
-        "Rusia",
-        "Ucrania",
-        "Artículos Javier Espinosa"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "58eb67f2a2e96276ddf0d2c676ccfe1d9cdeb7a2659eb58f6bda9c0ca78d4b7e",
       "url": "https://www.liberation.fr/societe/education/etude-talis-de-locde-la-france-est-le-pays-ou-les-enseignants-se-sentent-le-moins-valorises-20251007_OVRS5YNFMNH3HFED7IA3RVBL5E/",
       "title": "Education : seuls 4% des professeurs français estiment être valorisés par la société, un record mondial selon l’étude Talis de l’OCDE",
@@ -5232,7 +5343,7 @@
       "id": "276ac0a12f3b711a6b43d55626fd648a06dd254438d88f808f9ebd229ddd5811",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3f118fdddff80248b45ae.html",
       "title": "Israël atteint le deuxième anniversaire de son 7-O avec la fin de la guerre à Gaza plus que jamais",
-      "content_html": "Les équipes de négociation du Hamas et d'Israël depuis hier ont des conversations indirectes en Égypte",
+      "content_html": "Les équipes de négociation du Hamas et d'Israël ont tenu des pourparlers indirects en Egypte depuis hier",
       "date_published": "2025-10-06T20:55:35+00:00",
       "authors": [
         {
@@ -5256,7 +5367,7 @@
       "id": "9a4face3b6c2771de411321a0308095833316782c5cdd6c57e28b937d38ab3ae",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3d956e85ece09228b457e.html",
       "title": "7-O: deux ans et deux malheurs (pour Israël)",
-      "content_html": "Avec le recul, les attaques brutales perpétrées par le Hamas il y a deux ans ont signifié un double malheur pour les Israéliens.D'une part, ils ont démoli un de L",
+      "content_html": "Avec le recul, les attaques brutales menées par le Hamas il y a deux ans ont été un double malheur pour les Israéliens.D'une part, ils ont démoli l'un des",
       "date_published": "2025-10-06T20:54:55+00:00",
       "authors": [
         {
@@ -5363,7 +5474,7 @@
       "id": "01e768bdafcec34ec45ea90c8c92117b207bcd3537edae98fbf9cf5c03a0660d",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3ee9cfc6c83343f8b45ab.html",
       "title": "Von der Leyen fait face à un double mouvement de censure en pleine escalade des provocations de la Russie: \"Poutine méprise l'UE\"",
-      "content_html": "L'extrême gauche et l'extrême droite ont présenté deux processus parallèles, qui seront votés jeudi et cela, très probablement, n'ira pas de l'avant.C'est la troisième question que le président souffre en seulement trois mois",
+      "content_html": "L'extrême gauche et l'extrême droite ont présenté deux processus parallèles, qui seront votés ce jeudi et qui, très probablement, n'auront pas lieu.C'est la troisième remise en question que subit le président en seulement trois mois",
       "date_published": "2025-10-06T18:22:59+00:00",
       "authors": [
         {
@@ -5385,7 +5496,7 @@
     {
       "id": "b168f57276fa0af2476705d6cdafa1947a9cb690c71bc575b4d08250d5e668ea",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e37415fdddff5c298b4584.html",
-      "title": "Macron, disposé à \"assumer ses responsabilités\", si le Premier ministre démissionné Sébastian Lecornu ne crée pas \"une plate-forme de stabilité\" en 48 heures",
+      "title": "Macron, prêt à \"assumer ses responsabilités\" si le Premier ministre démissionnaire Sébastian Lecornu ne parvient pas à créer \"une plateforme de stabilité\" en 48 heures",
       "content_html": "Le président français accepte la démission du Premier ministre et lui confie \"une plate-forme de stabilité\"",
       "date_published": "2025-10-06T18:22:39+00:00",
       "authors": [
@@ -5447,8 +5558,8 @@
     {
       "id": "638c0ee01e5afbe8115eb97954e0132a77738034276d7c816fc75980b37a3eb6",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3d243fc6c83343f8b45a0.html",
-      "title": "Bruno Retailleau, le «antimaconiste» politique",
-      "content_html": "Son rejet d'occuper à nouveau le ministère français de l'Intérieur et sa menace de retirer le soutien de Lecornu ont provoqué la chute du nouveau gouvernement en quelques heures",
+      "title": "Bruno Retailleau, l'homme politique \"antimacroniste\" qui a cassé le pont en vue de l'Elysée",
+      "content_html": "Son refus de réoccuper le ministère français de l'Intérieur et sa menace de retirer son soutien à Lecornu provoquent la chute du nouveau gouvernement en quelques heures.",
       "date_published": "2025-10-06T17:53:06+00:00",
       "authors": [
         {
@@ -5505,8 +5616,8 @@
     {
       "id": "22b23c72493a2c7b6d0d61a58061f47cfaef4c18c574bead6d853165667626af",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3f921e9cf4a1a1d8b4580.html",
-      "title": "La crise politique de Milei devient plus profonde et enhardi au péronisme",
-      "content_html": "Son principal candidat démissionne par des liens avec le trafic de drogue au milieu d'une énorme instabilité politique, financière et économique",
+      "title": "La crise politique de Milei approfondit et enhardit le péronisme",
+      "content_html": "Son principal candidat démissionne en raison de ses liens avec le trafic de drogue, dans un contexte d'énorme instabilité politique, financière et économique.",
       "date_published": "2025-10-06T17:22:47+00:00",
       "authors": [
         {
@@ -5601,7 +5712,7 @@
       "id": "92ece6d77e73f94f4c84b428d7d2c357b19e4755ab920edc5258ca5201c23430",
       "url": "https://elpais.com/internacional/2025-10-06/dimite-el-primer-ministro-de-francia-sebastien-lecornu-un-dia-despues-de-anunciar-el-gobierno.html",
       "title": "Le Premier ministre de la France, Sébastien Lecornu, démissionne, un jour après avoir annoncé son gouvernement",
-      "content_html": "Le Premier ministre français Sébastien Lecornu, à son arrivée à Matignon, à Paris, ce lundi.",
+      "content_html": "Le Premier ministre français Sébastien Lecornu à son arrivée à Matignon, à Paris, ce lundi.",
       "date_published": "2025-10-06T16:36:11+00:00",
       "authors": [
         {
@@ -5659,42 +5770,10 @@
       "lang": "fr"
     },
     {
-      "id": "966af092f2f1f4d9cbac150dd4637a4692d3bc299da63a77a62b4afc49f2d4bf",
-      "url": "https://elpais.com/internacional/2025-10-06/hamas-e-israel-reanudan-en-egipto-negociaciones-indirectas-con-pocas-perspectivas-de-lograr-un-rapido-acuerdo-pese-a-las-prisas-de-trump.html",
-      "title": "Le Hamas et Israël reprennent les négociations indirectes en Égypte avec peu de chances de parvenir à un accord rapide malgré la précipitation de Trump",
-      "content_html": "Fumée provenant des explosions lors de l'offensive militaire israélienne dans la ville de Gaza, vue depuis le centre de la bande de Gaza, le 6 octobre 2025.",
-      "date_published": "2025-10-06T16:05:18+00:00",
-      "authors": [
-        {
-          "name": "Marc Español"
-        }
-      ],
-      "tags": [
-        "Conflicto árabe-israelí",
-        "Franja Gaza",
-        "Guerra",
-        "Conflictos",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo",
-        "Plan de paz",
-        "Negociaciones paz",
-        "Países árabes"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "64425b55376ac5072a4d852e524e1b1c7d778ee75e77a887302301873cb09e89",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3687ee85ecec75e8b456e.html",
-      "title": "Un mort, environ 350 personnes secourues et environ 200 personnes toujours coincées par de fortes chutes de neige au pied de l'Everest",
-      "content_html": "La vallée de Karma, où de fortes chutes de neige ont commencé à tomber vendredi, se trouve à 4 200 mètres d'altitude et attire de grands groupes de visiteurs à cette époque de l'année.",
+      "title": "Un mort, environ 350 sauvés et environ 200 toujours piégés par des chutes de neige intenses au pied de l'Everest",
+      "content_html": "La vallée du Karma, où une forte chute de neige a commencé vendredi, mesure 4 200 mètres de haut et attire de grands groupes de visiteurs à cette époque",
       "date_published": "2025-10-06T16:02:24+00:00",
       "authors": [
         {
@@ -5780,20 +5859,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "cf5efc9c07d57f6caf32549edc69314284d4c21a500426b7fa4f96a9cb24492d",
-      "url": "https://www.bbc.com/news/articles/c2knw1nlgdyo?at_medium=RSS&at_campaign=rss",
-      "title": "Skydiver killed after falling without parachute in Nashville",
-      "content_html": "Instructor Justin Fuller fell to his death after becoming separated from his student and safety equipment.",
-      "date_published": "2025-10-06T15:18:41+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "dcd59c6a6f5105f228ce4d4c7bb1aabbaa627cfa4ee2591d0215c92b3ae1cb9c",
@@ -6055,8 +6120,8 @@
     {
       "id": "5541b63a36523ee6d831b8afdfed3b0aa89a130e5553de423c52f4bcb73fa75d",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3a066e4d4d813058b4596.html",
-      "title": "Israël et le Hamas négocient une trêve en Égypte alors que les bombardements à Gaza se poursuivent",
-      "content_html": "Il est prévu que les représentants du Caire, de Doha et de Washington participent aux négociations",
+      "title": "Israël et le Hamas négocient en Égypte la trêve tandis que les attentats à Gaza continuent",
+      "content_html": "Des représentants du Caire, de Doha et de Washington devraient participer aux négociations",
       "date_published": "2025-10-06T11:09:47+00:00",
       "authors": [
         {
@@ -6108,7 +6173,7 @@
     {
       "id": "d7ab504906757fd3543a791320479481a0680d1a0e10d5ec11f47ad8b6de6036",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e392b6e4d4d8cf2d8b459b.html",
-      "title": "Gisèle Pelicot se retrouve de nouveau au tribunal avec l'un de ses violeurs",
+      "title": "Gisèle Pelicot regarde à nouveau au tribunal avec l'un de ses violeurs",
       "content_html": "Husamettin Dogan, un travailleur de la construction initialement condamné à neuf ans de prison, demande le rachat de la pénalité",
       "date_published": "2025-10-06T10:06:35+00:00",
       "authors": [
@@ -6353,7 +6418,7 @@
       "id": "39c0815b8a02f46df80d28b5d78c27ba691d7e7befd802472f551766a7d0ef79",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3534b21efa013088b458b.html",
       "title": "Un juge verrouille l'expédition des troupes de la Garde nationale à l'Oregon ordonné par Trump",
-      "content_html": "La Californie a également ajouté à la demande de l'Oregon qui remet en question le déploiement du personnel de la Garde nationale à Portland, faisant valoir qu'il s'agit d'un excès illégal et inutile",
+      "content_html": "La Californie s'est également jointe au procès intenté par l'Oregon pour contester le déploiement de personnel de la Garde nationale à Portland, arguant qu'il s'agissait d'un excès illégal et inutile.",
       "date_published": "2025-10-06T05:29:38+00:00",
       "authors": [
         {
@@ -6400,35 +6465,6 @@
       "lang": "en"
     },
     {
-      "id": "ba0129a433c1ccf2041064722a1b33ac599eda07f815958fb7197503447f2eb6",
-      "url": "https://elpais.com/internacional/2025-10-06/la-sociedad-israeli-ante-la-masacre-de-gaza-entre-la-indiferencia-y-el-entusiasmo.html",
-      "title": "La société israélienne, face au massacre de Gaza : entre indifférence et enthousiasme",
-      "content_html": "Mirador dans la ville israélienne de Sdeerot dont vous pouvez voir les attentats à Gaza, en septembre.",
-      "date_published": "2025-10-06T03:40:00+00:00",
-      "authors": [
-        {
-          "name": "Antonio Pita"
-        }
-      ],
-      "tags": [
-        "Guerra",
-        "Conflictos",
-        "Conflicto árabe-israelí",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Franja Gaza",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a878fc410f182636a9129035284f404a30493fa56ca0c78114ec437810636ac3",
       "url": "https://www.theguardian.com/world/2025/oct/06/indonesia-school-collapse-death-toll-rises-as-search-for-missing-students-continues",
       "title": "Indonesia school collapse death toll reaches 54 as search for missing students continues",
@@ -6466,7 +6502,7 @@
     {
       "id": "eae005e39755315e0d6696179f1f90cac5ebe6647bbcdd38b2b8dfcf6d06250b",
       "url": "https://www.elmundo.es/internacional/2025/10/06/687e51f1e4d4d809358b4594.html",
-      "title": "Le voyage à travers le désert (et avec peu d'eau) des six candidats à l'Union européenne des Balkans occidentaux",
+      "title": "Le voyage à travers le désert (et avec peu d’eau) des six candidats à l’Union européenne des Balkans occidentaux",
       "content_html": "Les deux pays à la tête sont l'Albanie et le Monténégro, dont les revenus sont attendus d'ici 2030. La Serbie, le favori précédent, a perdu les soufflets ces derniers temps.Nous demandons aux analystes des six territoires de ressembler à la question",
       "date_published": "2025-10-06T00:16:08+00:00",
       "authors": [
@@ -6508,7 +6544,7 @@
       "id": "2730ef71517ff71e3b0b3752428feda4a3e02ef6a53b6d1829db388a330cd947",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e2fca4fc6c83fb698b4575.html",
       "title": "Souffement dur à Milei trois semaines après les élections: son principal candidat renonce aux obligations avec un trafiquant de drogue",
-      "content_html": "José Luis Espert, l'un de ses hommes de confiance, a démissionné de sa candidature pour des allégations de liens avec un homme accusé de trafic de drogue",
+      "content_html": "José Luis Espert, l'un de ses hommes de confiance, a renoncé à sa candidature en raison d'allégations de liens avec un homme accusé de trafic de drogue",
       "date_published": "2025-10-05T23:21:55+00:00",
       "authors": [
         {
@@ -6657,7 +6693,7 @@
       "id": "a032d43eedacd9f0acc741e37ac992f58f17e6088cf7b5e5ac3a10d0f56b5df4",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e2b764e85ece23298b458d.html",
       "title": "Le Premier ministre géorgien dénonce une tentative de renversement de son gouvernement et promet davantage de répression",
-      "content_html": "Des dizaines de milliers de personnes se sont rassemblées samedi à Tbilissi, jour des élections, pour protester contre la politique répressive et le rapprochement de la Géorgie de l'orbite de Moscou.",
+      "content_html": "Des dizaines de milliers de personnes se sont rassemblées à Tiflis samedi, le jour du scrutin, pour marcher contre les politiques répressives et l'approche de Géorgie sur l'orbite de Moscou",
       "date_published": "2025-10-05T18:41:34+00:00",
       "authors": [
         {
@@ -6696,8 +6732,8 @@
     {
       "id": "c0e3abcfd51f430709c350bbbee54024f073ca9a3660eb64c1cc0356cdf5b9ba",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e272dafdddff86688b4576.html",
-      "title": "Le Premier ministre Lecornu parvient à renouveler la coalition centrale-droite en France",
-      "content_html": "Le nouveau Premier ministre de Macron met fin au vide politique après 25 jours, après l'ultimatum du président pour éviter le sentiment de « mauvaise gouvernance »",
+      "title": "Le Premier ministre Lecornu parvient à renouveler la coalition de centre-droit en France",
+      "content_html": "Le nouveau Premier ministre de Macron met fin au vide politique après 25 jours, après l'ultimatum du président pour éviter le sentiment de \"dégoût\"",
       "date_published": "2025-10-05T18:32:01+00:00",
       "authors": [
         {
@@ -6739,7 +6775,7 @@
       "id": "34c74daa2791be22fe132c369005f605cebdbe35056d503864033dcd654f0495",
       "url": "https://www.elmundo.es/internacional/2025/10/01/68dd477efc6c83d37e8b45b2.html",
       "title": "Le mur anti-drones en Ukraine, le modèle à suivre pour l'Europe",
-      "content_html": "Kyiv a formé une défense de couche efficace qui intègre les anciens systèmes soviétiques à la plus moderne de l'Alliance de l'Atlantique",
+      "content_html": "Kiev a formé une défense à plusieurs niveaux efficace qui intègre les anciens systèmes soviétiques aux systèmes les plus modernes de l'Alliance atlantique.",
       "date_published": "2025-10-05T17:39:11+00:00",
       "authors": [
         {
@@ -6798,8 +6834,8 @@
     {
       "id": "a917a3ed90eca295e924c06583fcfe6ae6afeadb845e44a89b69a52678cf4e74",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e2908be4d4d8794a8b4580.html",
-      "title": "Israël et le Hamas lancent une négociation de critique sous la pression de Trump",
-      "content_html": "Le résultat des conversations dira également si la bande se dirige vers la trêve ou si, au contraire, Israël reprend l'offensive terrestre",
+      "title": "Israël et le Hamas entament des négociations cruciales sous la pression de Trump",
+      "content_html": "L'issue des pourparlers dira également si la bande de Gaza se dirige vers une trêve ou si, au contraire, Israël reprend son offensive terrestre.",
       "date_published": "2025-10-05T15:59:51+00:00",
       "authors": [
         {
@@ -6972,7 +7008,7 @@
     {
       "id": "007e00a2ac5a1c5cfd678fe8b5779dd5c5736f4db35c372f43039e476c1e570b",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e2763be85ece5c7c8b458a.html",
-      "title": "Les hommes armés tuent deux personnes et ont blessé 12 en tir au centre de la capitale de l'Alabama",
+      "title": "Des hommes armés tuent deux personnes et en blessent 12 autres lors d'une fusillade dans la capitale du centre-ville de l'Alabama",
       "content_html": "La police n'avait pas signalé d'arrestations dimanche matin et n'avait pas diffusé de détails sur le nombre de personnes tirées ou les types d'armes qu'ils avaient utilisées",
       "date_published": "2025-10-05T13:44:31+00:00",
       "authors": [
@@ -7022,27 +7058,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "732a5a12e2391f7d5de7339724bdea30db686535a5e1cdac171f563f77c28ef1",
-      "url": "https://www.elmundo.es/internacional/2025/10/05/68e24da0fdddff30788b4573.html",
-      "title": "Environ 70 morts en Inde et au Népal pour des glissements de terrain après de fortes pluies",
-      "content_html": "Les dommages causés par le Monzón depuis samedi ont laissé plus de 20 victimes en Inde et près de 50 au Népal",
-      "date_published": "2025-10-05T11:00:41+00:00",
-      "authors": [
-        {
-          "name": "Afp | Efe"
-        }
-      ],
-      "tags": [
-        "Nepal",
-        "India"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -7199,8 +7214,8 @@
     {
       "id": "ad4451a9cefceb584ac2de418215f2dec368fdaa258467ad690e397d6082a826",
       "url": "https://elpais.com/internacional/2025-10-05/del-derecho-al-voto-a-las-atletas-trans-el-supremo-de-ee-uu-inicia-un-curso-judicial-copado-por-trump.html",
-      "title": "Du droit de vote aux athlètes trans: le Supreme américain",
-      "content_html": "Les juges de la Cour suprême des États-Unis sur une photo officielle.De gauche à droite, debout : Amy Coney Barrett, Neil Gorsuch, Brett Kavanaugh et Ketanji Brown Jackson.Assis, de droite, Elena Kagan, Samuel Alito, John Roberts, Clarence Thomas et Sonia Sotomayor.",
+      "title": "Du droit de vote aux athlètes trans : la Cour suprême américaine entame un processus judiciaire dominé par Trump",
+      "content_html": "Les magistrats de la Cour suprême des États-Unis sur une photo officielle.De la gauche, debout: Amy Coney Barrett, Neil Gorsuch, Brett Kavanaugh et Ketanji Brown Jackson.Assis, à droite, Elena Kagan, Samuel Alito, John Roberts, Clarence Thomas et Sonia Sotomayor.",
       "date_published": "2025-10-05T03:45:01+00:00",
       "authors": [
         {
@@ -7355,24 +7370,6 @@
       "authors": [
         {
           "name": "Sonia Delesalle-Stolper"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "db0ce96d2c78b787ac029f70a367fb05ae9234c2872340e1294be06b1b3c77ab",
-      "url": "https://www.liberation.fr/international/europe/republique-tcheque-le-trumpiste-andrej-babis-vire-largement-en-tete-aux-legislatives-20251004_C3RPYN2CYNHZ5NVU5D5MR7NDBY/",
-      "title": "République tchèque : le «trumpiste» Andrej Babis vire largement en tête aux législatives",
-      "content_html": "Andrej Babis à Ostrava, République tchèque, le 3 octobre 2025.",
-      "date_published": "2025-10-04T16:25:13+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
         }
       ],
       "tags": [],
@@ -7836,8 +7833,8 @@
     {
       "id": "16bd0492380a9147ca183f4007cb9eaa9cc720393ea9816145bf055534cdfeda",
       "url": "https://elpais.com/internacional/2025-10-02/protestas-alrededor-del-mundo-en-apoyo-a-la-global-sumud-flotilla-en-imagenes.html",
-      "title": "Manifestations à travers le monde en soutien à la Flottille mondiale du Sumud, en images",
-      "content_html": "Les manifestants pro-palestiniens participent à une démonstration à la solidarité avec le Global Sumud et Gaza Flotilla, à Mexico.",
+      "title": "Protestes dans le monde entier à l'appui de la Flotilla Global Sumud, en images",
+      "content_html": "Des manifestants pro-palestiniens participent à une manifestation en solidarité avec la flottille mondiale Sumud et Gaza, à Mexico.",
       "date_published": "2025-10-02T23:40:57+00:00",
       "authors": [
         {
@@ -8214,8 +8211,8 @@
     {
       "id": "a08f681febb27c91e3b81dc813d99701b884f40dcec04882d355a7ae47d97421",
       "url": "https://elpais.com/videos/2025-10-02/cierre-del-gobierno-de-ee-uu-como-puede-relanzar-a-los-democratas-en-su-batalla-contra-trump.html",
-      "title": "Clôture du gouvernement américain: comment les démocrates peuvent-ils relancer leur bataille contre Trump",
-      "content_html": "Clôture du gouvernement américain: comment les démocrates sont-ils relatifs dans leur bataille contre le Trumpisme",
+      "title": "Fermeture du gouvernement américain : comment relancer les démocrates dans leur bataille contre Trump",
+      "content_html": "Fermeture du gouvernement américain : comment les démocrates relancent leur bataille contre le trumpisme",
       "date_published": "2025-10-02T03:30:00+00:00",
       "authors": [
         {
@@ -8242,7 +8239,7 @@
       "id": "eb7db027bf17df4fa1d6ca8eeace2816dec4a658afe25528ab555d9aeaf18ce2",
       "url": "https://elpais.com/internacional/2025-10-01/en-el-epicentro-del-cierre-del-gobierno-la-ciudad-fantasma-de-washington-se-prepara-para-un-largo-cerrojazo.html",
       "title": "Dans l'épicentre de la fermeture du gouvernement: la «ville fantôme» de Washington est préparée pour un long boulon",
-      "content_html": "Le mémorial de Lincoln, ce mercredi matin.",
+      "content_html": "Le mémorial à Lincoln, ce mercredi tôt le matin.",
       "date_published": "2025-10-01T19:48:31+00:00",
       "authors": [
         {
@@ -8379,7 +8376,7 @@
       "id": "4946bdfe0d9770a0c9f58334b1cd03c12f8fb83306b2cffd4cedd8986804e10a",
       "url": "https://elpais.com/internacional/2025-10-01/un-plan-sin-garantias-ni-justicia.html",
       "title": "Un plan sans garanties ni justice",
-      "content_html": "Le président américain, Donald Trump, a accueilli le Premier ministre israélien, Benjamin Netanyahu, à son arrivée à la Maison Blanche lundi dernier.",
+      "content_html": "Le président américain Donald Trump a accueilli lundi dernier le Premier ministre israélien Benjamin Netanyahu à son arrivée à la Maison Blanche.",
       "date_published": "2025-10-01T14:09:04+00:00",
       "authors": [
         {
@@ -9625,7 +9622,7 @@
       "id": "7210bd3a823ccda59da7e1b356510538022f4500823b6817f872115edf903f74",
       "url": "https://elpais.com/internacional/2025-09-17/arde-gaza-600000-palestinos-moriran-calcinados.html",
       "title": "\"Arde Gaza\": 600 000 Palestiniens mourront brûlés?",
-      "content_html": "De la fumée aux alentours de la ville de Gaza après un bombardement israélien, mardi, alors que débutait l'offensive terrestre sur la capitale de la bande.",
+      "content_html": "Fumer autour de Ciudad de Gaza après un bombardement israélien, mardi, au début de l'offensive foncière sur la capitale de la bande.",
       "date_published": "2025-09-17T03:40:00+00:00",
       "authors": [
         {
@@ -9721,22 +9718,6 @@
       "authors": [],
       "tags": [
         "Sports"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "42e7420ffc838c931d338c9d2c15d2bd453e40f043662a8780c7604619a575b4",
-      "url": "https://www.dw.com/en/how-the-watermelon-became-a-palestinian-protest-symbol/a-73961911?maca=en-rss-en-all-1573-rdf",
-      "title": "How the watermelon became a Palestinian protest symbol",
-      "content_html": "At pro-Palestinian demonstrations, the symbol of the watermelon is everywhere. Artist Sliman Mansour explains how the idea for the symbol goes back to the 1980s and was inspired, ironically, by an Israeli officer.",
-      "date_published": "2025-09-15T13:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "Culture"
       ],
       "source": {
         "name": "Deutsche Welle",
@@ -9860,7 +9841,7 @@
       "id": "02ec9f46297adbfe680a648872bf13f9484bc4df5f90b6a3eac43a1497b87ade",
       "url": "https://elpais.com/internacional/2025-09-14/el-espanto-del-mundo-cabe-en-un-pie-de-foto.html",
       "title": "L'horreur du monde s'inscrit dans un pied de page",
-      "content_html": "Le Nasser de deux ans, dans un hôpital Jan Yunis (Gaza).Son père le regarde peu de temps avant sa mort.",
+      "content_html": "Nasser, deux ans, dans un hôpital de Khan Yunis (Gaza).Son père le regarde peu avant de mourir.",
       "date_published": "2025-09-14T03:30:01+00:00",
       "authors": [
         {
@@ -9888,7 +9869,7 @@
     {
       "id": "5ec0af406f01247086ca5f706043bb4c86affa8c948cd24fd4f642f6e698339f",
       "url": "https://elpais.com/internacional/2025-09-13/por-una-defensa-europea-mas-integrada.html",
-      "title": "Pour une défense européenne plus intégrée",
+      "title": "Par une défense européenne plus intégrée",
       "content_html": "Les avions de combat F-16 dans un défilé militaire à Varsovie, en août dernier.",
       "date_published": "2025-09-13T03:30:01+00:00",
       "authors": [
