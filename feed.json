@@ -5,25 +5,136 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "3542a21f69a2523d0833651183e04365882d44841e5df2ab86a02ebb7c72f9cd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2197892/comite-enquete-camionnage-chauffeurs-inc",
-      "title": "Un comité de la Chambre des communes lance une enquête sur l’industrie du camionnage",
-      "content_html": "<p>Le comité des transports étudie un modèle d&#x27;affaires controversé appelé «&nbsp;Chauffeur inc.&nbsp;».</p>",
-      "date_published": "2025-10-08T03:06:20+00:00",
+      "id": "4bf4335750063fb632408bc1a195584a732aa26a22babeb85bd1089d3edd1483",
+      "url": "https://www.lemonde.fr/campus/article/2025/10/08/aujourd-hui-on-se-bat-pour-entrer-au-quai-d-orsay-chez-les-jeunes-la-diplomatie-fait-toujours-rever_6645179_4401467.html",
+      "title": "« Aujourd’hui, on se bat pour entrer au Quai d’Orsay » : chez les jeunes, la diplomatie fait toujours rêver",
+      "content_html": "Le campus de l’Institut universitaire européen, à Florence (Italie), le 4 septembre 2025.",
+      "date_published": "2025-10-08T03:45:08+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0a764046ac9e929ffd4ba692fb3418ebaf8749623f340ff2c39d8ce1d3b4be1d",
+      "url": "https://elpais.com/internacional/2025-10-08/la-tesis-de-que-israel-comete-un-genocidio-en-gaza-gana-peso-en-el-mundo-academico-tras-dos-anos-de-ofensiva.html",
+      "title": "La thèse selon laquelle Israël commet un génocide à Gaza prend du poids dans le monde universitaire après deux ans d'offensive",
+      "content_html": "Les manifestants montrent une bannière avec les noms des Palestiniens morts à Gaza, ce mardi à Londres.",
+      "date_published": "2025-10-08T03:45:01+00:00",
+      "authors": [
+        {
+          "name": "Antonio Pita"
+        }
+      ],
+      "tags": [
+        "Franja Gaza",
+        "Israel",
+        "Genocidio",
+        "Benjamin Netanyahu",
+        "Oriente Próximo",
+        "Guerra",
+        "Philippe Sands",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Hamás",
+        "Palestina"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "887f2c1c020343d759e8a6164f121a0e6cb7edb9eb3b7a7a87f49fce2fcfd3c4",
+      "url": "https://elpais.com/internacional/2025-10-08/cuatro-vias-para-salir-del-atolladero-politico-frances.html",
+      "title": "Quatre voies pour sortir du bourbier politique français",
+      "content_html": "Le Premier ministre démissionnaire, Sébastien Lecornu, en hommage aux victimes du 7 octobre en Israël.",
+      "date_published": "2025-10-08T03:45:01+00:00",
+      "authors": [
+        {
+          "name": "Daniel Verdú"
+        }
+      ],
+      "tags": [
+        "Emmanuel Macron",
+        "Política",
+        "Francia",
+        "Francia Insumisa",
+        "Marine Le Pen",
+        "Édouard Philippe",
+        "Sébastien Lecornu",
+        "Crisis políticas",
+        "Europa"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b69af4ac715c12be1cb9bd28edce2d06696021bbb1a940e0610bf45cd71ccfbb",
+      "url": "https://elpais.com/internacional/2025-10-08/obreros-sonrientes-y-soldados-ilesos-la-propaganda-de-corea-del-norte-llega-a-moscu.html",
+      "title": "Sourire et les soldats indemnes: la propagande de la Corée du Nord arrive à Moscou",
+      "content_html": "Tableau de l'exposition qui rend hommage à Moscou aux soldats nord-coréens sur le front de l'Ukraine.",
+      "date_published": "2025-10-08T03:45:01+00:00",
+      "authors": [
+        {
+          "name": "Javier  González Cuesta"
+        }
+      ],
+      "tags": [
+        "Guerra de Rusia en Ucrania",
+        "Ucrania",
+        "Rusia",
+        "Guerra",
+        "Conflictos",
+        "Unión Europea",
+        "OTAN",
+        "Ataques militares",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Europa",
+        "Corea del Norte",
+        "Kim Jong-Un",
+        "Geopolítica"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b044215f4516f0cd0d316a34092c9c7414116389aed5a2095fa02407bb85e033",
+      "url": "https://www.liberation.fr/international/europe/intrusion-de-drones-en-europe-lallemagne-tente-de-se-rearmer-en-urgence-20251008_TB6IX4TZAFB5LO2MQFVN2NF7TU/",
+      "title": "Intrusion de drones en Europe : l’Allemagne tente de se réarmer en urgence",
+      "content_html": "Des alertes de drones ont été signalées près de l'aéroport de Munich, les 3 et 4 octobre 2025.",
+      "date_published": "2025-10-08T03:43:00+00:00",
+      "authors": [
+        {
+          "name": "Christophe Bourdoiseau"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
     {
       "id": "accdbc0e8c78fbfe0e0977895d19c7cbfc43787dcb6faf5ed7803a7781d76b0c",
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/08/australia-politics-live-gaza-rally-parliament-anthony-albanese-sussan-ley-question-time-andrew-hastie-ntwnfb",
-      "title": "Australia politics live: Price says leaks risk Liberals looking like ‘clown show’; police warn of potential ‘disaster’ at Gaza rally",
-      "content_html": "<p>Palestine Action Group in standoff with NSW police over proposed plan to march on Sydney Opera House this Sunday. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Victorian premier, <strong>Jacinta Allan</strong>, is doing a breakfast television blitz this morning to announce that the public will be able to travel for free every weekend from early December until 1 February, as part of the launch of the metro tunnel.</p><p>Allan has described it as a “thank you” to commuters for enduring disruptions as the project was built. Speaking on Today, she said:</p><p>To say thank you to Victorians for their [patience, we are] delivering free public transport for everyone every weekend, everywhere in our state. From the opening of the metro tunnel in early December through to the 1st of February, when we integrate this amazing piece of infrastructure into the [public transport network].</p><p>This is how you do it to get a smooth, safe start, to get passengers using this infrastructure at the earliest opportunity.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/08/australia-politics-live-gaza-rally-parliament-anthony-albanese-sussan-ley-question-time-andrew-hastie-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-10-08T02:40:43+00:00",
+      "title": "Australia politics live: Wells says Optus sent ‘inaccurate and misleading’ advice to her office as Ley again targets triple-zero failures",
+      "content_html": "<p>Communications minister under more pressure during question time at Parliament House. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Victorian premier, <strong>Jacinta Allan</strong>, is doing a breakfast television blitz this morning to announce that the public will be able to travel for free every weekend from early December until 1 February, as part of the launch of the metro tunnel.</p><p>Allan has described it as a “thank you” to commuters for enduring disruptions as the project was built. Speaking on Today, she said:</p><p>To say thank you to Victorians for their [patience, we are] delivering free public transport for everyone every weekend, everywhere in our state. From the opening of the metro tunnel in early December through to the 1st of February, when we integrate this amazing piece of infrastructure into the [public transport network].</p><p>This is how you do it to get a smooth, safe start, to get passengers using this infrastructure at the earliest opportunity.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/08/australia-politics-live-gaza-rally-parliament-anthony-albanese-sussan-ley-question-time-andrew-hastie-ntwnfb\">Continue reading...</a>",
+      "date_published": "2025-10-08T03:33:00+00:00",
       "authors": [
         {
           "name": "Krishani Dhanji"
@@ -44,6 +155,114 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "11dd8bfdbe400f56fc91240dc9eedd2f18ecbe820d4a6a75b9ed02cab2db0c2b",
+      "url": "https://www.lemonde.fr/international/article/2025/10/08/dans-le-kentucky-la-peur-des-personnes-transgenres-apres-l-assassinat-de-charlie-kirk_6645176_3210.html",
+      "title": "Dans le Kentucky, la peur des personnes transgenres, après l’assassinat de Charlie Kirk",
+      "content_html": "Les militants transgenres Carma Bell Marshall (à gauche) et Alexander Griggs, à Louisville (Kentucky), le 16 septembre 2025.",
+      "date_published": "2025-10-08T03:30:14+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "33d8c6db3ed94fdfa4292e6c8e361efe8a834481e2b9883e684c77f2c4fbd0b3",
+      "url": "https://www.lemonde.fr/idees/article/2025/10/08/olivier-burtin-historien-donald-trump-se-presente-en-chef-de-guerre-d-un-conflit-domestique-et-envisage-de-mobiliser-l-armee-sur-le-territoire-national_6645175_3232.html",
+      "title": "Olivier Burtin, historien : « Donald Trump se présente en chef de guerre d’un conflit domestique et envisage de mobiliser l’armée sur le territoire national »",
+      "content_html": "Le spécialiste des Etats-Unis revient dans une tribune au « Monde » sur la longue histoire d’une rhétorique d’extrême droite : l’ennemi intérieur. Le président Trump a, selon lui, fait de ce narratif un véritable mode de gouvernement, à même de justifier une politique autoritaire et une militarisation croissante, jusqu’à redéfinir le territoire américain en champ de bataille.",
+      "date_published": "2025-10-08T03:30:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5f78b2dc2be111818d5eaf058c5e36c7eba36bf90f733a05ff06bada482d9483",
+      "url": "https://www.lemonde.fr/idees/article/2025/10/08/le-desarmement-ideologique-du-sionisme-religieux-arc-boute-sur-le-projet-du-grand-israel-par-tous-les-moyens-est-imperatif_6645174_3232.html",
+      "title": "« Le désarmement idéologique du sionisme religieux, arc-bouté sur le projet du Grand Israël, par tous les moyens, est impératif »",
+      "content_html": "Un mur entourant une colonie israélienne vu de Ramallah (Cisjordanie), le 27 septembre 2025.",
+      "date_published": "2025-10-08T03:30:03+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fbe524ebcf0fff8cc064dc4ea2e2a0adb5e032a346cb3ed1293e984b6d6481ac",
+      "url": "https://www.timesofisrael.com/trump-hosts-us-israeli-ex-hostage-edan-alexander-family-of-slain-captive-omer-neutra/",
+      "title": "Trump hosts US-Israeli ex-hostage Edan Alexander, family of slain captive Omer Neutra",
+      "content_html": "<p>Neutra's parents say they gave US president gift with 'Am Yisrael Chai' writing, thanked him for efforts to free living and dead abductees and end the war</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-hosts-us-israeli-ex-hostage-edan-alexander-family-of-slain-captive-omer-neutra/\">Trump hosts US-Israeli ex-hostage Edan Alexander, family of slain captive Omer Neutra</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/G2r4uHzWMAA7OCU-1024x640.jpg\" title=\"Trump hosts US-Israeli ex-hostage Edan Alexander, family of slain captive Omer Neutra\" width=\"160\" /></figure>",
+      "date_published": "2025-10-08T03:28:02+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Hamas hostages",
+        "Donald Trump",
+        "Edan Alexander",
+        "Omer Neutra"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "41cdbf00c92abe7827a25b39041d6d034c2136663ede10e2283ac1997d5e658b",
+      "url": "https://www.ukrinform.net/rubric-ato/4044941-ukrainian-border-guards-destroy-eight-russian-shelters-on-southern-slobozhanshchyna-front.html",
+      "title": "Ukrainian border guards destroy eight Russian shelters on Southern Slobozhanshchyna front",
+      "content_html": "In the Southern Slobozhanshchyna sector of the front, aerial reconnaissance pilots from the 'Strix' strike unmanned aerial systems company of the 4th Border Detachment destroyed eight shelters of the Russian invaders.",
+      "date_published": "2025-10-08T03:24:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "70b8aeda8ad3854bfdae61ac90e7a2aee1ca23d84afc835b0527d43c405ba02b",
+      "url": "https://www.aljazeera.com/news/2025/10/8/muslims-in-indias-poll-bound-bihar-battle-bangladeshi-infiltrator-tag?traffic_source=rss",
+      "title": "Muslims in India’s poll-bound Bihar battle ‘Bangladeshi infiltrator’ tag",
+      "content_html": "A community of Bangla-speaking Muslims in eastern state&#039;s Seemanchal region on edge as key assembly elections near.",
+      "date_published": "2025-10-08T03:15:26+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3542a21f69a2523d0833651183e04365882d44841e5df2ab86a02ebb7c72f9cd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2197892/comite-enquete-camionnage-chauffeurs-inc",
+      "title": "Un comité de la Chambre des communes lance une enquête sur l’industrie du camionnage",
+      "content_html": "<p>Le comité des transports étudie un modèle d&#x27;affaires controversé appelé «&nbsp;Chauffeur inc.&nbsp;».</p>",
+      "date_published": "2025-10-08T03:06:20+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
     },
     {
       "id": "559d689cfb32e474305afcd3f3f36d38dd95690a3da1aafe8ecc315701281573",
@@ -477,8 +696,8 @@
     {
       "id": "9244fa40ee6223afbab714e54b9e216b4f639b6233d7baf91d7b38dfe85549fc",
       "url": "https://www.timesofisrael.com/liveblog-october-8-2025/",
-      "title": "Edan Alexander and family of slain hostage Omer Neutra meet with Trump at White House",
-      "content_html": "<p>Mass Tel Aviv memorial ceremony marks two years since Oct. 7 onslaught, as brother of hostage killed by IDF vows to 'rise' and build a better future</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-october-8-2025/\">Edan Alexander and family of slain hostage Omer Neutra meet with Trump at White House</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/G2r4uH3XIAE2bh1-1024x640.jpg\" title=\"Edan Alexander and family of slain hostage Omer Neutra meet with Trump at White House\" width=\"160\" /></figure>",
+      "title": "Israel says it intercepted latest Gaza flotilla, all passengers safe, set for deportation",
+      "content_html": "<p>Edan Alexander and family of slain hostage Omer Neutra meet with Trump at White House * Mass Tel Aviv memorial ceremony marks two years since Oct. 7 onslaught</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-october-8-2025/\">Israel says it intercepted latest Gaza flotilla, all passengers safe, set for deportation</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/Freedom-Flotilla-Coalition-Freedom-Flotilla-Coalition-Conscience-Live-Stream-kyISIcKg_CI-1840x1035-17h58m11s-1024x640.png\" title=\"Israel says it intercepted latest Gaza flotilla, all passengers safe, set for deportation\" width=\"160\" /></figure>",
       "date_published": "2025-10-07T23:50:30+00:00",
       "authors": [],
       "tags": [
@@ -585,8 +804,8 @@
     {
       "id": "4925967df4e37421896118057954aa3bd33ab3657a3cee55ffed47d788c09ebe",
       "url": "https://www.elmundo.es/internacional/2025/10/08/68e4f395e4d4d8c4538b4580.html",
-      "title": "Pourquoi l’UE veut-elle désespérément utiliser les atouts russes ?\"L'alternative est que les contribuables européens financent la guerre de l'Ukraine\"",
-      "content_html": "Bruxelles est déterminée à articuler un prêt de 145 000 millions en utilisant la Russie Cash qui est déposée dans la société Euroclear.La mesure ne convainque pas la Belgique, qui héberge le siège de cette entreprise, mais la France ni la BCE non plus",
+      "title": "Pourquoi l'UE souhaite-t-elle utiliser désespérément les actifs russes?\"L'alternative est que les contribuables européens financent l'Ukraine dans la guerre\"",
+      "content_html": "Bruxelles est déterminée à articuler un prêt de 145 milliards avec des liquidités russes déposées dans la société Euroclear.La mesure ne convainc pas la Belgique, qui héberge le siège de cette société, mais la France ni la BCE non plus.",
       "date_published": "2025-10-07T23:10:42+00:00",
       "authors": [
         {
@@ -624,7 +843,7 @@
       "id": "6532ec3bfc26b4dba9978b8d42dad84621c60f35c1c08676348f159c9cf45563",
       "url": "https://elpais.com/internacional/2025-10-07/trump-y-carney-ultiman-un-acuerdo-comercial-para-resolver-un-conflicto-natural-entre-vecinos.html",
       "title": "Trump et Carney enfin un accord commercial pour résoudre \"un conflit naturel\" entre voisins",
-      "content_html": "Le Premier ministre du Canada, Mark Carney, accueille le président des États-Unis, Donald Trump, à son arrivée à la Maison Blanche.",
+      "content_html": "Le Premier ministre canadien Mark Carney salue le président américain Donald Trump à son arrivée à la Maison Blanche.",
       "date_published": "2025-10-07T23:06:56+00:00",
       "authors": [
         {
@@ -778,8 +997,8 @@
     {
       "id": "b141392d71007f49cec4c501e27a3561fd503603dad62fbcff93e5029e4a74d9",
       "url": "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss",
-      "title": "Comment réparer la crise politique de la France?",
-      "content_html": "Le président Emmanuel Macron sous pression alors que la paralysie parlementaire persiste.",
+      "title": "How to fix France’s deepening political crisis?",
+      "content_html": "President Emmanuel Macron under pressure as parliamentary paralysis persists.",
       "date_published": "2025-10-07T22:58:47+00:00",
       "authors": [],
       "tags": [
@@ -789,7 +1008,7 @@
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "9086f6b459ab89fb58fb93f1574d2783df6b221f3963796fed2d738bfd396764",
@@ -827,7 +1046,7 @@
       "id": "3aec18ba2d0f9a5f984f6a20e3e0a82f39fa2ac21ae7c62923d54b068ae36387",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e5476ce85ece09228b45a7.html",
       "title": "Ukraine contre-attaque avec ses propres armes pendant la guerre froide",
-      "content_html": "Kiev répond pour la première fois par des bombardements de centrales thermoélectriques à la campagne hivernale du Kremlin contre les civils ukrainiens",
+      "content_html": "Kyiv répond pour la première fois avec des centrales thermoélectriques à la campagne d'hiver du Kremlin contre des civils ukrainiens",
       "date_published": "2025-10-07T22:55:36+00:00",
       "authors": [
         {
@@ -852,7 +1071,7 @@
       "id": "cbd2dd52458d374ed715a0cc7c07507445b78e29fe123d2eea53379fb7c9b24d",
       "url": "https://www.france24.com/en/middle-east/20251007-live-trump-gaza-war-israel-hamas",
       "title": "Live: Trump says 'real chance' to end Gaza war as Israel marks attacks anniversary",
-      "content_html": "US President Donald Trump said on Tuesday there was a “real chance” to end the war in Gaza, as Israel marked two years since the October 7 attacks. Israeli Prime Minister Benjamin Netanyahu vowed to pursue all war goals, including the destruction of Hamas, including crushing the Palestinian militant group Hamas which waged the attacks. Follow our liveblog for the latest developments.",
+      "content_html": "Qatar's prime minister and Turkish delegates will join Hamas and Israeli negotiators in Egypt on Wednesday for a third day of talks aimed at ending the Gaza war. Indirect negotiations between Israel and Hamas are being held at the Red Sea resort town of Sharm El-Sheikh, based on a 20-point plan proposed by US President Donald Trump last month. Follow our liveblog for the latest developments.",
       "date_published": "2025-10-07T22:50:49+00:00",
       "authors": [
         {
@@ -946,7 +1165,7 @@
       "id": "c9b4e52a92844f8faba444057f0b57c8a1a7d48c7085ce7b4f077fa0bde22a3a",
       "url": "https://www.elmundo.es/internacional/2025/10/08/68e38ba221efa0010c8b459d.html",
       "title": "C'est assez!Pas plus!Assez!",
-      "content_html": "Avec ces mots, je soulève ma voix pour demander, fortement, de quitter les Espagnols et les Juifs du monde seuls.Que les citoyens israéliens sont également respectés",
+      "content_html": "Avec ces mots, j’élève la voix pour demander sincèrement que les Juifs espagnols et les Juifs du monde soient laissés tranquilles.Que les citoyens israéliens soient également respectés",
       "date_published": "2025-10-07T22:09:31+00:00",
       "authors": [
         {
@@ -1028,8 +1247,8 @@
     {
       "id": "d1cdddf8901a07ef836b44f737c9d24f143f43968d609067cc60f972106fac96",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e58bbf21efa09a2b8b45ad.html",
-      "title": "Le gouvernement dénonce une \"tentative de meurtre\" contre Noboa, dont la caravane a été attaquée par des manifestants",
-      "content_html": "L'agression contre la caravane présidentielle après 16 jours de chômage pour gravir un conflit qui a commencé par le défi de la conaie contre le gouvernement pour l'annulation de la subvention de l'État au diesel",
+      "title": "Le Gouvernement dénonce une \"tentative d'assassinat\" contre Noboa, dont la caravane a été attaquée par des manifestants",
+      "content_html": "L'agression contre la caravane présidentielle après 16 jours de grève intensifie une fois de plus un conflit qui a commencé avec la contestation de Conaie contre le gouvernement pour l'annulation de la subvention de l'État au diesel.",
       "date_published": "2025-10-07T21:57:51+00:00",
       "authors": [
         {
@@ -1866,7 +2085,7 @@
     {
       "id": "3b13249703e6e60e70b09daec0b17cd05329aec0978dd495fdd5f4c01ab4e6e5",
       "url": "https://elpais.com/internacional/2025-10-07/hamas-exige-garantias-para-la-paz-en-gaza-y-trump-dice-que-hara-todo-lo-posible-para-asegurar-su-cumplimiento.html",
-      "title": "Le Hamas demande des garanties pour la paix à Gaza et Trump dit qu'il fera \"tout possible\" pour assurer la conformité",
+      "title": "Le Hamas exige des garanties pour la paix à Gaza et Trump déclare qu'il fera « tout son possible » pour garantir le respect",
       "content_html": "La fumée augmente au sujet de la destruction des attentats israéliens à Gaza City, ce mardi.",
       "date_published": "2025-10-07T18:41:56+00:00",
       "authors": [
@@ -1998,7 +2217,7 @@
       "id": "5ae709ef8c468e349c8f52c8f4252434488d802c06841d08a019d5a44d0176ba",
       "url": "https://elpais.com/internacional/2025-10-07/el-choque-entre-trump-y-las-ciudades-democratas-se-eleva-con-la-llegada-de-la-guardia-nacional-a-chicago.html",
       "title": "L'affrontement entre Trump et les villes démocratiques aggrave avec l'arrivée de la Garde nationale à Chicago",
-      "content_html": "Les militants agitent une affiche où \"les troupes se lit, pas dans nos villes\", ce mardi dans une étape élevée à New York.",
+      "content_html": "Mardi, des militants brandissent une pancarte indiquant « Troupes, pas dans nos villes » sur un viaduc à New York.",
       "date_published": "2025-10-07T18:22:53+00:00",
       "authors": [
         {
@@ -2072,8 +2291,8 @@
     {
       "id": "8f0b295f99275e5b7eefe904c2fd30acd66d912e011ebbff9deca121e0ff1a1c",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e54b6afdddffee068b459d.html",
-      "title": "Israël pleure les victimes du 7-0 et fait confiance à Trump pour le retour imminent des otages",
-      "content_html": "L'arrivée prévue mercredi à l'Égypte des émissaires spéciaux de Trump, Steve Witkoff et Jared Kushner, confirmerait qu'au moins les négociations n'ont pas brisé ou collé",
+      "title": "Israël pleure aux victimes de 7-0 et fait confiance à Trump pour le retour imminent des otages",
+      "content_html": "L'arrivée prévue ce mercredi des émissaires spéciaux de Trump, Steve Witkoff et Jared Kushner, en Egypte confirmerait qu'au moins les négociations ne sont pas rompues ou au point mort.",
       "date_published": "2025-10-07T18:20:46+00:00",
       "authors": [
         {
@@ -2215,8 +2434,8 @@
     {
       "id": "26d4f282083e316f48ac107a262daba907b781f1d1b0f766ca01e844b5060ca3",
       "url": "https://elpais.com/internacional/2025-10-07/reyes-rigo-la-espanola-de-la-flotilla-acusada-de-morder-a-una-funcionaria-israeli-continua-encarcelada-sin-cargos.html",
-      "title": "Reyes Rigo, l'Espagnole de la flottille accusée d'avoir mordu un responsable israélien, reste emprisonnée sans inculpation",
-      "content_html": "Le militant Reyes Rigo (à gauche), accompagné des deux autres membres majorquins de la Flottille Globale Sumud, Lucía Muñoz et Alejandra Martínez.",
+      "title": "Reyes Rigo, la flottille espagnole accusée d'avoir mordu un responsable israélien, se poursuit sans accusation",
+      "content_html": "La militante Reyes Rigo (à gauche), accompagnée des deux autres membres des Malorcans de la Flotilla Global Sumud, Lucía Muñoz et Alejandra Martínez.",
       "date_published": "2025-10-07T18:04:47+00:00",
       "authors": [
         {
@@ -2371,7 +2590,7 @@
     {
       "id": "ac2ba3efabfc5547e480e620aeac30fb3fa7ed37e209098658cd56662d39e3dd",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e5516d21efa0c13f8b45b8.html",
-      "title": "Macron n'exclut plus d'appeler les premières élections législatives en France",
+      "title": "Macron n'exclut plus de convoquer des élections législatives anticipées en France",
       "content_html": "Recevez dans l'Elysium les présidents des deux chambres entre les critiques croissantes et les demandes de démission de leurs propres alliés",
       "date_published": "2025-10-07T17:44:49+00:00",
       "authors": [
@@ -3055,7 +3274,7 @@
     {
       "id": "51f576c43ffdd711c6e970e36953c4eb5a7cdb833880814a2216d0bee03e3713",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e510c1fc6c83cf108b456f.html",
-      "title": "Le fils du maire allemand poignardé arrêté et dans un état critique",
+      "title": "Arrêtez le fils du maire allemand poignardé qui est dans un état critique",
       "content_html": "La femme avait 13 coups de couteau à l'abdomen et au dos.",
       "date_published": "2025-10-07T16:03:56+00:00",
       "authors": [
@@ -3080,7 +3299,7 @@
       "id": "fd1fbbb5f343082f922f9b21153d4ac5ae8a3e60c6a3eca4433b10526d8a8b92",
       "url": "https://elpais.com/internacional/2025-10-07/israel-replica-al-vaticano-que-sus-criticas-por-la-ofensiva-en-gaza-pueden-minar-los-esfuerzos-por-la-paz.html",
       "title": "Israël répond au Vatican que ses critiques pour l'offensive à Gaza peuvent \"saper les efforts\" pour la paix",
-      "content_html": "Le secrétaire d'État du Saint-Siège, Pietro Parolin, lors d'une cérémonie au Vatican, en avril dernier.",
+      "content_html": "Le secrétaire d'État du Saint-Siège, Pietro Parolin, lors d'une cérémonie au Vatican en avril dernier.",
       "date_published": "2025-10-07T16:03:24+00:00",
       "authors": [
         {
@@ -3259,25 +3478,6 @@
       "lang": "fr"
     },
     {
-      "id": "3d1a4c078c9ddfd99416be070562331151630a8db691cffe19c49dfd8f98d5fc",
-      "url": "https://www.timesofisrael.com/idf-soldier-on-leave-killed-after-police-officer-apparently-accidentally-fires-gun/",
-      "title": "IDF soldier on leave killed after police officer apparently accidentally fires gun",
-      "content_html": "<p>Military Police and Justice Ministry's internal affairs department launch joint investigation into deadly incident in Kiryat Arba settlement</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-soldier-on-leave-killed-after-police-officer-apparently-accidentally-fires-gun/\">IDF soldier on leave killed after police officer apparently accidentally fires gun</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2022/05/F150803FFGM01-1-1024x640.jpg\" title=\"IDF soldier on leave killed after police officer apparently accidentally fires gun\" width=\"160\" /></figure>",
-      "date_published": "2025-10-07T15:40:55+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "IDF Israel Defense Forces",
-        "Israel Police",
-        "Kiryat Arba"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "24f1ac3fc2231c4f55534576cec76454badb3b8f0894d2351087a51bec181226",
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20251007-en-asie-du-sud-une-mousson-2025-d%C3%A9vastatrice",
       "title": "En Asie du sud, une mousson 2025 dévastatrice",
@@ -3301,7 +3501,7 @@
       "id": "b84476e27fc2886af328f324e221c65c659e1f5ab8fecb7b72dc646a0b3d232c",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e53129e85ececa288b45b7.html",
       "title": "Premières peines de prison contre le mouvement de contestation Génération Z au Maroc",
-      "content_html": "Trois jeunes ont été condamnés à entre un an et demi et deux ans de prison pour participation aux manifestations",
+      "content_html": "Trois jeunes ont été condamnés entre un an et demi et deux ans de prison pour avoir participé aux manifestations",
       "date_published": "2025-10-07T15:40:49+00:00",
       "authors": [
         {
@@ -3711,22 +3911,6 @@
       "authors": [],
       "tags": [
         "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5d0d753ae1e65f8b1acd6ea3918e57442a94e5a627be173c02a0701cd35bccef",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/7/displaced-palestinians-hope-to-return-home-amid-ceasefire-talks?traffic_source=rss",
-      "title": "Displaced Palestinians hope to return home amid ceasefire talks",
-      "content_html": "Displaced Palestinians in Gaza&#039;s Deir el-Balah say they’re ready to return home once a ceasefire deal is reached.",
-      "date_published": "2025-10-07T14:33:11+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
       ],
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -4249,7 +4433,7 @@
       "id": "2bb5e477d5f2d99877e4de704fbb5786efb138df9ce221b18c46537d4734d1d7",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e5117cfc6c83221b8b456d.html",
       "title": "70% des Français, en faveur de la démission de Macron",
-      "content_html": "Les sondages confirment le malaise croissant à l'égard du président français, partagé par la classe politique et même par les membres de son parti",
+      "content_html": "Les sondages ratifient l'inconfort croissant envers le président français, partagé par la classe politique et même par les membres de son parti",
       "date_published": "2025-10-07T13:26:31+00:00",
       "authors": [
         {
@@ -4286,7 +4470,7 @@
     {
       "id": "23da2be0e55354270e66d651dd1f4c64be5c2969df13c265e66139a4dfb68f00",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e50ff7e85ece5e308b45b3.html",
-      "title": "La Syrie célèbre ses premières élections post-Assad avec des affrontements meurtriers dans la ville d'Alep",
+      "title": "La Syrie célèbre ses premiers élections post-ASAD avec des affrontements mortels dans la ville d'Alep",
       "content_html": "Au moins une personne a été tuée et des dizaines d'autres blessées dans des affrontements entre l'armée et les forces kurdes syriennes",
       "date_published": "2025-10-07T13:14:12+00:00",
       "authors": [
@@ -4503,22 +4687,6 @@
       "lang": "en"
     },
     {
-      "id": "f8d1c39be21749db9dab9ae0286bc6f688cd00d5583caae5401e195d865b5256",
-      "url": "https://www.ukrinform.net/rubric-ato/4044780-russian-forces-strike-near-railway-station-in-chernihiv-region-train-delays-reported.html",
-      "title": "Russian forces strike near railway station in Chernihiv region, train delays reported",
-      "content_html": "Russian troops carried out a drone strike near the railway section between Nosivka and Nizhyn in Chernihiv region, causing train delays.",
-      "date_published": "2025-10-07T12:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e1f322e128bb8d1fc93b3fa038947ec3cc5f3d7867df0b3eba0d87d4c390bb8c",
       "url": "https://www.dw.com/en/is-vietnam-turning-against-lgbtq-rights/a-74262807?maca=en-rss-en-all-1573-rdf",
       "title": "Is Vietnam turning against LGBTQ+ rights?",
@@ -4711,8 +4879,8 @@
     {
       "id": "2af39d3af3fc2fc52158a41e3883061f38193d5115be2199c174bec8cad321e3",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4edcafc6c8349488b45c0.html",
-      "title": "Quelle est la loi sur l’insurrection que Trump envisage d’invoquer en réponse aux manifestations ?",
-      "content_html": "Ce règlement est considéré comme l'un des pouvoirs d'urgence les plus énergiques",
+      "title": "Quelle est la loi d'insurrection que Trump considère invoquer les manifestations?",
+      "content_html": "Ce règlement est considéré comme l'un des pouvoirs d'urgence les plus puissants",
       "date_published": "2025-10-07T10:45:05+00:00",
       "authors": [
         {
@@ -4820,34 +4988,6 @@
       "lang": "en"
     },
     {
-      "id": "bad497933a46861c76ab171f26882aa4796afa2650386b61ce994f4b49e39716",
-      "url": "https://www.lemonde.fr/societe/article/2025/10/07/sonia-mejri-revenante-de-syrie-et-premiere-femme-francaise-renvoyee-aux-assises-pour-genocide-contre-les-yezidis_6644934_3224.html",
-      "title": "Sonia Mejri, première femme française renvoyée aux assises pour génocide contre les yézidis en Syrie",
-      "content_html": "La victime, une adolescente yézidie, a affirmé avoir été séquestrée pendant plus d’un mois au printemps 2015 en Syrie, et n’avoir pu ni boire, ni manger, ni se doucher sans l’autorisation de Sonia Mejri. Elle accusait aussi cette dernière de l’avoir violentée et d’avoir été au courant que son mari la violait quotidiennement.",
-      "date_published": "2025-10-07T09:42:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e83e1533b573050c15155092a26a8e03823d3992d004386cd8781b690ba8a9d3",
-      "url": "https://www.lemonde.fr/afrique/article/2025/10/07/a-madagascar-andry-rajoelina-se-rapproche-des-militaires-pour-reprendre-la-situation-en-main_6644933_3212.html",
-      "title": "A Madagascar, le président Andry Rajoelina se rapproche des militaires pour reprendre la situation en main",
-      "content_html": "Le président malgache, Andry Rajoelina, lors de la nomination du général Ruphin Fortunat Zafisambo comme premier ministre, à Antananarivo, le 6 octobre 2025.",
-      "date_published": "2025-10-07T09:39:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8e8f9a64393b97c576473433a16efc3a557e2dad8950affc7933d0d663c667c4",
       "url": "https://www.liberation.fr/societe/une-francaise-revenant-de-syrie-renvoyee-aux-assises-dans-un-proces-pour-genocide-20251007_RLMA2N7OJ5CJFHALTEYTNJM6QM/",
       "title": "Une Française revenant de Syrie renvoyée aux assises dans un procès pour génocide",
@@ -4862,34 +5002,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "002bbacfe95a0944af611399aa56b9c1d59eb38117c324604a760e0ed942ed90",
-      "url": "https://www.lemonde.fr/economie/article/2025/10/07/aux-etats-unis-l-ia-bouleverse-deja-le-marche-du-travail-et-les-predictions-de-jobs-apocalypse-se-multiplient_6644930_3234.html",
-      "title": "Aux Etats-Unis, l’IA bouleverse déjà le marché du travail et les prédictions de « jobs apocalypse » se multiplient",
-      "content_html": "A New York, le 8 mai 2025.",
-      "date_published": "2025-10-07T09:30:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "43afb8269adfd06293ff1fd7fb09c20092cc0b8844a591ab99f43e9d5113ea7b",
-      "url": "https://www.lemonde.fr/international/article/2025/10/07/l-ukraine-soupconne-la-chine-d-aider-la-russie-dans-sa-campagne-de-bombardements-aeriens_6644927_3210.html",
-      "title": "L’Ukraine soupçonne la Chine d’aider la Russie dans ses bombardements aériens avec ses satellites",
-      "content_html": "Le président russe, Vladimir Poutine, et son homologue chinois, Xi Jinping, à Tianjin, en Chine, le 1er septembre 2025.",
-      "date_published": "2025-10-07T09:20:53+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -4926,36 +5038,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "f6952516b27124568c9cc335cf9cb163b6e73ed032a05cef1c9556ebcb22b516",
-      "url": "https://elpais.com/internacional/2025-10-07/trump-tilda-a-greta-thunberg-de-alborotadora-y-le-aconseja-ir-al-medico-para-controlar-su-ira.html",
-      "title": "Trump qualifie Greta Thunberg de « fauteuse de troubles » et lui conseille d'aller chez le médecin pour « contrôler sa colère »",
-      "content_html": "Trump à propos de Greta Thunberg : « Elle est très en colère et elle est folle »",
-      "date_published": "2025-10-07T08:36:47+00:00",
-      "authors": [
-        {
-          "name": "EL PAÍS ,Agencias  ."
-        }
-      ],
-      "tags": [
-        "Guerra",
-        "Conflictos",
-        "Conflicto árabe-israelí",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Franja Gaza",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo",
-        "Flotillas ayuda Gaza"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "908bf92aee84e28e94db0065f2d8392155f7150ea62622c39affda33b2f44877",
@@ -5030,7 +5112,7 @@
     {
       "id": "c3b9cf21ba3ca05ab1e01edcb5c66382dec020b3c8961fea3a2f0945a1a5c88e",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4c42ee85ececa288b458e.html",
-      "title": "Le Suprême du Guatemala annule la condamnation du blanchiment d'argent contre le journaliste José Rubén Zamora",
+      "title": "La Cour suprême du Guatemala annule la condamnation pour blanchiment d'argent du journaliste José Rubén Zamora",
       "content_html": "Il a été condamné à six ans de prison et à un paiement de 38 000 $ pour avoir une somme d'argent similaire sans justifier son origine",
       "date_published": "2025-10-07T07:42:37+00:00",
       "authors": [
@@ -5066,7 +5148,7 @@
       "id": "246791e1934cac703f01a2503dedb00ba08e8553d1797dbbc76a53a5f37d294b",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e4b813fdddffdd528b4588.html",
       "title": "Trois blessés dans un état critique lorsqu'un hélicoptère tombe au milieu d'une autoroute en Californie",
-      "content_html": "Le pilote, un médecin et une infirmière étaient à bord.L'avion venait de décoller du centre médical Davis de l'Université de Californie.",
+      "content_html": "À bord du pilote, un médecin et une infirmière voyageaient.L'avion venait de décoller du Davis Medical Center de l'Université de Californie",
       "date_published": "2025-10-07T07:03:13+00:00",
       "authors": [
         {
@@ -5192,7 +5274,7 @@
     {
       "id": "9af945d7580be6afba12f1714f648c38c558e3880f1753130a7b0c4fd618ea56",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e40172fc6c83bb6f8b45a6.html",
-      "title": "L'Illinois et Chicago exigent le gouvernement Trump après le déploiement de troupes fédérales",
+      "title": "L'Illinois et Chicago poursuivent l'administration Trump après le déploiement de troupes fédérales",
       "content_html": "Ce fut d’abord Los Angeles, puis Washington.Maintenant, le concours s'est déplacé vers",
       "date_published": "2025-10-07T05:11:22+00:00",
       "authors": [
@@ -5214,8 +5296,8 @@
     {
       "id": "382649456777431f16aecc290d48efd19dbd3dca2c9246a399c46098fbcc043f",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e49fb4fdddff135d8b4573.html",
-      "title": "Hommage à Charlie Kirk, à Hava Nagila et aux bombes nucléaires: Milei mène au surréalisme libertaire extrême",
-      "content_html": "Mile a perdu le contrôle de l'agenda public alors que son image se détériorait au milieu de scandales de toutes sortes, de son rôle dans une arnaque cryptographique aux accusations de corruption contre sa sœur.",
+      "title": "Hommage à Charlie Kirk, Hava Nagila et aux bombes nucléaires : Milei pousse le surréalisme libertaire à l'extrême",
+      "content_html": "Mile a perdu le contrôle de l'agenda public tandis que son image s'use au milieu des scandales de toutes sortes, de son rôle dans une arnaque crypto aux accusations de corruption contre sa sœur",
       "date_published": "2025-10-07T05:06:23+00:00",
       "authors": [
         {
@@ -5283,37 +5365,10 @@
       "lang": "fr"
     },
     {
-      "id": "352262ba794250ccb669209798837b7c1fc8336648139a1a3285c31ad8ff419c",
-      "url": "https://elpais.com/argentina/2025-10-07/milei-celebra-un-recital-de-rock-ante-15000-personas-para-salvar-la-campana-electoral.html",
-      "title": "\"Donnez-moi le feu, donne-moi le feu de ton amour\": Milei célèbre un récital de rock avant 15 000 personnes",
-      "content_html": "Javier Milei lors de sa présentation au Movistar Arena Stadium de Buenos Aires, ce lundi.",
-      "date_published": "2025-10-07T03:48:00+00:00",
-      "authors": [
-        {
-          "name": "Federico Rivas Molina ,Mar Centenera"
-        }
-      ],
-      "tags": [
-        "Argentina",
-        "América",
-        "Latinoamérica",
-        "Javier Milei",
-        "Conciertos",
-        "Ultraderecha",
-        "La Libertad Avanza",
-        "Elecciones Argentina"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8cc1a591dabd405dbf54e496f4e9ec40519f9a1e8890e200a8573a32520983e2",
       "url": "https://elpais.com/internacional/2025-10-07/el-duelo-inacabado-del-ataque-de-hamas-a-israel-por-que-la-pena-no-se-queda-aqui-en-el-cementerio.html",
       "title": "Le deuil inachevé de l'attaque du Hamas contre Israël : « Pourquoi la douleur ne reste-t-elle pas ici, dans le cimetière ?",
-      "content_html": "Une affiche avec une image d'Oded Lifshitz, kidnappé à son domicile du kibboutz Nir Oz lors de l'attaque du 7 octobre 2023, placée sur une chaise pour commémorer le deuxième anniversaire, ce lundi.",
+      "content_html": "Une affiche avec une image d'Oded Lifshitz, kidnappée dans sa maison du Kibutz Nir Oz lors de l'attaque du 7 octobre 2023, placée sur une chaise à l'occasion de la commémoration du deuxième anniversaire, ce lundi.",
       "date_published": "2025-10-07T03:45:01+00:00",
       "authors": [
         {
@@ -5341,7 +5396,7 @@
     {
       "id": "867b5a9117ee0ca72fabde7ac6162375a63c310ee0c327ffb88e3584227771a6",
       "url": "https://elpais.com/internacional/2025-10-07/a-la-sombra-de-gaza-los-40000-desplazados-en-el-limbo-en-cisjordania.html",
-      "title": "A l’ombre de Gaza : les 40 000 déplacés dans le flou en Cisjordanie",
+      "title": "Dans l'ombre de Gaza: les 40 000 déplacés dans les limbes en Cisjordanie",
       "content_html": "Le réfugié palestinien Abdesalam Odeh, expulsé du camp de Tulkarem, se trouve dans la camionnette dans laquelle vit désormais sa femme, près de cette ville.",
       "date_published": "2025-10-07T03:45:01+00:00",
       "authors": [
@@ -5398,31 +5453,6 @@
       "lang": "fr"
     },
     {
-      "id": "07f9c84370b9688631c4b21d2a4bcd4c8a2bfa5c127b7e8c789d9f1480c5b408",
-      "url": "https://elpais.com/internacional/2025-10-07/macron-atrapado-en-su-laberinto.html",
-      "title": "Macron, pris dans son labyrinthe",
-      "content_html": "Le Premier ministre français, Sébastien Lecornu, démissionne, un jour après l'annonce du gouvernement",
-      "date_published": "2025-10-07T03:45:01+00:00",
-      "authors": [
-        {
-          "name": "Daniel Verdú"
-        }
-      ],
-      "tags": [
-        "Emmanuel Macron",
-        "Francia",
-        "Sébastien Lecornu",
-        "Política",
-        "Crisis gobierno",
-        "François Bayrou"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "60fe73e70359bffb9575fb0bbb739e7e6ad1b4a15bd8b9e5c729ac269b81d7e5",
       "url": "https://www.liberation.fr/international/moyen-orient/israel-deux-ans-apres-lattaque-du-7-octobre-netanyahou-sentete-a-refuser-toute-enquete-20251007_FODFSYH5NNDK7A67HJGCNZMN2A/",
       "title": "Israël : deux ans après l’attaque du 7 Octobre, Nétanyahou s’entête à refuser toute enquête",
@@ -5443,7 +5473,7 @@
     {
       "id": "9c0d075bb96ca2ac7e97da064eb0e9cce501c5cb44e967aa51199ff280ef7356",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e45c5efdddffb9128b456d.html",
-      "title": "\"Atmosphère positive\" lors du premier cycle de pourparlers entre le Hamas et les médiateurs",
+      "title": "\"Atmosphère positive\" dans la première série de conversations entre le Hamas et les médiateurs",
       "content_html": "Ce mardi, ils poursuivront leurs négociations indirectes en Égypte pour mettre fin à la guerre de deux ans à Gaza, selon le plan du président américain Donald Trump.",
       "date_published": "2025-10-07T00:18:40+00:00",
       "authors": [
@@ -5461,30 +5491,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c1e8edf41bde992bcaa7d210c1f8c1d125555ea8f00759d184b1f40672a3ccd4",
-      "url": "https://elpais.com/internacional/2025-10-06/el-segundo-grupo-de-detenidos-espanoles-por-israel-nos-han-torturado-con-tecnicas-sibilinas.html",
-      "title": "Le deuxième groupe d’Espagnols détenus par Israël : « Ils nous ont torturés avec des techniques sibyllines »",
-      "content_html": "Capitaine de l'un des navires de la flottille: \"Ils nous ont torturés avec des techniques de Sibylin\"",
-      "date_published": "2025-10-07T00:16:28+00:00",
-      "authors": [
-        {
-          "name": "Álvaro Sánchez-Martín,Lorraine Delorenzo"
-        }
-      ],
-      "tags": [
-        "Conflicto árabe-israelí",
-        "Palestina",
-        "Guerra",
-        "Conflictos",
-        "Israel"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -5538,8 +5544,8 @@
     {
       "id": "bd73113c422dd1ee3bab95c514e6e4ee719d3ac3d45788fba3e80952edd97a80",
       "url": "https://www.elmundo.es/internacional/2025/10/07/68e3c8b0e4d4d89d378b45a7.html",
-      "title": "Le nouveau malade de l'Europe",
-      "content_html": "La France s'enfonce encore plus dans sa triple crise d'incertitude politique, de méfiance envers les marchés et la tension sociale",
+      "title": "La nouvelle Europe",
+      "content_html": "La France s’enfonce encore plus dans sa triple crise d’incertitude politique, de méfiance à l’égard des marchés et de tensions sociales",
       "date_published": "2025-10-07T00:02:49+00:00",
       "authors": [
         {
@@ -5609,7 +5615,7 @@
       "id": "276ac0a12f3b711a6b43d55626fd648a06dd254438d88f808f9ebd229ddd5811",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3f118fdddff80248b45ae.html",
       "title": "Israël atteint le deuxième anniversaire de son 7-O avec la fin de la guerre à Gaza plus que jamais",
-      "content_html": "Les équipes de négociation du Hamas et d'Israël ont tenu des pourparlers indirects en Egypte depuis hier",
+      "content_html": "Les équipes de négociation du Hamas et d'Israël depuis hier ont des conversations indirectes en Égypte",
       "date_published": "2025-10-06T20:55:35+00:00",
       "authors": [
         {
@@ -5740,7 +5746,7 @@
       "id": "01e768bdafcec34ec45ea90c8c92117b207bcd3537edae98fbf9cf5c03a0660d",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3ee9cfc6c83343f8b45ab.html",
       "title": "Von der Leyen fait face à un double mouvement de censure en pleine escalade des provocations de la Russie: \"Poutine méprise l'UE\"",
-      "content_html": "L'extrême gauche et l'extrême droite ont présenté deux processus parallèles, qui seront votés ce jeudi et qui, très probablement, n'aboutiront pas.C'est la troisième remise en question que subit le président en seulement trois mois",
+      "content_html": "L'extrême gauche et l'extrême droite ont présenté deux processus parallèles, qui seront votés jeudi et cela, très probablement, n'ira pas de l'avant.C'est la troisième question que le président souffre en seulement trois mois",
       "date_published": "2025-10-06T18:22:59+00:00",
       "authors": [
         {
@@ -5762,7 +5768,7 @@
     {
       "id": "b168f57276fa0af2476705d6cdafa1947a9cb690c71bc575b4d08250d5e668ea",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e37415fdddff5c298b4584.html",
-      "title": "Macron, disposé à \"assumer ses responsabilités\", si le Premier ministre démissionné Sébastian Lecornu ne crée pas \"une plate-forme de stabilité\" en 48 heures",
+      "title": "Macron, prêt à \"assumer ses responsabilités\" si le Premier ministre démissionnaire Sébastian Lecornu ne parvient pas à créer \"une plateforme de stabilité\" en 48 heures",
       "content_html": "Le président français accepte la démission du Premier ministre et lui confie \"une plate-forme de stabilité\"",
       "date_published": "2025-10-06T18:22:39+00:00",
       "authors": [
@@ -5785,7 +5791,7 @@
       "id": "1e24f37a050ded536c32a76faa11794aca7969eb9ff467ea70d2056de7a92af1",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68dfe929e4d4d871268b45a2.html",
       "title": "L'Ukraine étouffe l'économie de guerre russe avec ses « drones de sanction » contre ses raffineries",
-      "content_html": "Les drones Kyiv paralysent déjà 21 de leurs 38 raffineries et se terminent avec 38% de la capacité de raffinage de la Russie.Tout le pays subit l'extrême salutation de l'essence",
+      "content_html": "Les drones de Kiev paralysent déjà 21 de ses 38 raffineries et détruisent 38 % de la capacité de raffinage russe.Le pays tout entier souffre d’une grave pénurie d’essence",
       "date_published": "2025-10-06T18:20:57+00:00",
       "authors": [
         {
@@ -5824,7 +5830,7 @@
     {
       "id": "638c0ee01e5afbe8115eb97954e0132a77738034276d7c816fc75980b37a3eb6",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3d243fc6c83343f8b45a0.html",
-      "title": "Bruno Retailleau, le «antimaconiste» politique",
+      "title": "Bruno Retailleau, l'homme politique \"antimacroniste\" qui a cassé le pont en vue de l'Elysée",
       "content_html": "Son rejet d'occuper à nouveau le ministère français de l'Intérieur et sa menace de retirer le soutien de Lecornu ont provoqué la chute du nouveau gouvernement en quelques heures",
       "date_published": "2025-10-06T17:53:06+00:00",
       "authors": [
@@ -6045,8 +6051,8 @@
     {
       "id": "64425b55376ac5072a4d852e524e1b1c7d778ee75e77a887302301873cb09e89",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3687ee85ecec75e8b456e.html",
-      "title": "Un mort, environ 350 sauvés et environ 200 toujours piégés par des chutes de neige intenses au pied de l'Everest",
-      "content_html": "La vallée de Karma, où de fortes chutes de neige ont commencé à tomber vendredi, se trouve à 4 200 mètres d'altitude et attire de grands groupes de visiteurs à cette époque de l'année.",
+      "title": "Un mort, environ 350 personnes secourues et environ 200 personnes toujours coincées par de fortes chutes de neige au pied de l'Everest",
+      "content_html": "La vallée du Karma, où une forte chute de neige a commencé vendredi, mesure 4 200 mètres de haut et attire de grands groupes de visiteurs à cette époque",
       "date_published": "2025-10-06T16:02:24+00:00",
       "authors": [
         {
@@ -6394,7 +6400,7 @@
       "id": "5541b63a36523ee6d831b8afdfed3b0aa89a130e5553de423c52f4bcb73fa75d",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3a066e4d4d813058b4596.html",
       "title": "Israël et le Hamas négocient une trêve en Égypte alors que les bombardements à Gaza se poursuivent",
-      "content_html": "Des représentants du Caire, de Doha et de Washington devraient participer aux négociations",
+      "content_html": "Il est prévu que les représentants du Caire, de Doha et de Washington participent aux négociations",
       "date_published": "2025-10-06T11:09:47+00:00",
       "authors": [
         {
@@ -6446,7 +6452,7 @@
     {
       "id": "d7ab504906757fd3543a791320479481a0680d1a0e10d5ec11f47ad8b6de6036",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e392b6e4d4d8cf2d8b459b.html",
-      "title": "Gisèle Pelicot regarde à nouveau au tribunal avec l'un de ses violeurs",
+      "title": "Gisèle Pelicot se retrouve de nouveau au tribunal avec l'un de ses violeurs",
       "content_html": "Husamettin Dogan, un travailleur de la construction initialement condamné à neuf ans de prison, demande le rachat de la pénalité",
       "date_published": "2025-10-06T10:06:35+00:00",
       "authors": [
@@ -6619,8 +6625,8 @@
     {
       "id": "55e189207d381e365e224d6263de2178479ddd5eb5a0101e3d5eb378ff6f8f03",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e36301fc6c837a5f8b4571.html",
-      "title": "L'Ukraine lance une nouvelle attaque de drones dans la nuit : la Russie affirme en avoir abattu 251, dont un se dirigeait vers Moscou",
-      "content_html": "Il s'agit de l'une des plus grandes attaques avec des véhicules aériens sans pilote depuis le début du conflit : 40 drones abattus au-dessus de la Crimée et 62 au-dessus de la mer Noire.",
+      "title": "L'Ukraine lance une nouvelle attaque de drones pendant la nuit: la Russie prétend avoir démoli 251, l'une d'entre elles vers Moscou",
+      "content_html": "C'est l'une des plus grandes attaques avec des véhicules aériens sans pilote depuis le début du conflit: 40 drones démolis sur la Crimée et 62 sur la mer Noire",
       "date_published": "2025-10-06T06:47:21+00:00",
       "authors": [
         {
@@ -6690,7 +6696,7 @@
     {
       "id": "39c0815b8a02f46df80d28b5d78c27ba691d7e7befd802472f551766a7d0ef79",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e3534b21efa013088b458b.html",
-      "title": "Un juge verrouille l'expédition des troupes de la Garde nationale à l'Oregon ordonné par Trump",
+      "title": "Le juge bloque l'envoi par Trump de troupes de la Garde nationale dans l'Oregon",
       "content_html": "La Californie s'est également jointe au procès intenté par l'Oregon pour contester le déploiement de personnel de la Garde nationale à Portland, arguant qu'il s'agissait d'un excès illégal et inutile.",
       "date_published": "2025-10-06T05:29:38+00:00",
       "authors": [
@@ -6755,7 +6761,7 @@
       "id": "eae005e39755315e0d6696179f1f90cac5ebe6647bbcdd38b2b8dfcf6d06250b",
       "url": "https://www.elmundo.es/internacional/2025/10/06/687e51f1e4d4d809358b4594.html",
       "title": "Le voyage à travers le désert (et avec peu d'eau) des six candidats à l'Union européenne des Balkans occidentaux",
-      "content_html": "Les deux pays en tête sont l'Albanie et le Monténégro, dont l'adhésion est attendue en 2030. La Serbie, précédente favorite, s'est essoufflée récemment.Nous avons demandé aux analystes des six territoires leur avis sur la question",
+      "content_html": "Les deux pays en tête sont l'Albanie et le Monténégro, dont l'adhésion est attendue en 2030. La Serbie, précédente favorite, s'est essoufflée ces derniers temps.Nous avons demandé aux analystes des six territoires leur avis sur la question",
       "date_published": "2025-10-06T00:16:08+00:00",
       "authors": [
         {
@@ -6796,7 +6802,7 @@
       "id": "2730ef71517ff71e3b0b3752428feda4a3e02ef6a53b6d1829db388a330cd947",
       "url": "https://www.elmundo.es/internacional/2025/10/06/68e2fca4fc6c83fb698b4575.html",
       "title": "Souffement dur à Milei trois semaines après les élections: son principal candidat renonce aux obligations avec un trafiquant de drogue",
-      "content_html": "José Luis Espert, l'un de ses hommes de confiance, a renoncé à sa candidature en raison d'allégations de liens avec un homme accusé de trafic de drogue",
+      "content_html": "José Luis Espert, l'un de ses hommes de confiance, a démissionné de sa candidature pour des allégations de liens avec un homme accusé de trafic de drogue",
       "date_published": "2025-10-05T23:21:55+00:00",
       "authors": [
         {
@@ -6945,7 +6951,7 @@
       "id": "a032d43eedacd9f0acc741e37ac992f58f17e6088cf7b5e5ac3a10d0f56b5df4",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e2b764e85ece23298b458d.html",
       "title": "Le Premier ministre de Géorgie dénonce une tentative de renverser son gouvernement et de promettre plus de répression",
-      "content_html": "Des dizaines de milliers de personnes se sont rassemblées à Tiflis samedi, le jour du scrutin, pour marcher contre les politiques répressives et l'approche de Géorgie sur l'orbite de Moscou",
+      "content_html": "Des dizaines de milliers de personnes se sont rassemblées samedi à Tbilissi, jour des élections, pour protester contre la politique répressive et le rapprochement de la Géorgie de l'orbite de Moscou.",
       "date_published": "2025-10-05T18:41:34+00:00",
       "authors": [
         {
@@ -6964,7 +6970,7 @@
     {
       "id": "ac197b6094dc3c3c292c5ba00fde8f432e0a06d67290962281251c421bdd5b2f",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e2b7cfe85ece86688b4589.html",
-      "title": "Les «torsos» britanniques copient les politiques de Farage dans le but d'éviter l'extinction",
+      "title": "Les conservateurs britanniques copient la politique de Farage pour tenter d'éviter l'extinction",
       "content_html": "Le parti ultranationaliste et « europhobe » Reform UK les devance de plus de dix points dans les sondages.",
       "date_published": "2025-10-05T18:32:59+00:00",
       "authors": [
@@ -6984,8 +6990,8 @@
     {
       "id": "c0e3abcfd51f430709c350bbbee54024f073ca9a3660eb64c1cc0356cdf5b9ba",
       "url": "https://www.elmundo.es/internacional/2025/10/05/68e272dafdddff86688b4576.html",
-      "title": "Le Premier ministre Lecornu parvient à renouveler la coalition de centre-droit en France",
-      "content_html": "Le nouveau Premier ministre de Macron met fin au vide politique après 25 jours, après l'ultimatum du président pour éviter le sentiment de « mauvaise gouvernance »",
+      "title": "Le Premier ministre Lecornu parvient à renouveler la coalition centrale-droite en France",
+      "content_html": "Le nouveau Premier ministre de Macron met fin au vide politique après 25 jours, après l'ultimatum du président pour éviter le sentiment de \"dégoût\"",
       "date_published": "2025-10-05T18:32:01+00:00",
       "authors": [
         {
@@ -7498,24 +7504,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "415741b24834e25fd49ae065db2bca5ff4810b6ca751f5bdae989ff17db94dbd",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-a-gaza-le-hamas-pret-a-liberer-les-otages-israel-se-prepare-20251004_KU253CTY4ND4ZOCSWTTRNO47FA/",
-      "title": "Guerre à Gaza : Nétanyahou espère ramener «tous les otages dans les prochains jours»",
-      "content_html": "Benyamin Nétanyahou le 29 septembre à la Maison Blanche, à Washington.",
-      "date_published": "2025-10-04T18:39:53+00:00",
-      "authors": [
-        {
-          "name": "Antoine  Rondel, Sonia Delesalle-Stolper, Romain Métairie"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "7ad24e285881903786a4f53a82f14bdf3df90849f123719a4cae23d82c82a125",
@@ -8363,7 +8351,7 @@
     {
       "id": "a08f681febb27c91e3b81dc813d99701b884f40dcec04882d355a7ae47d97421",
       "url": "https://elpais.com/videos/2025-10-02/cierre-del-gobierno-de-ee-uu-como-puede-relanzar-a-los-democratas-en-su-batalla-contra-trump.html",
-      "title": "Clôture du gouvernement américain: comment les démocrates peuvent-ils relancer leur bataille contre Trump",
+      "title": "Fermeture du gouvernement américain : comment relancer les démocrates dans leur bataille contre Trump",
       "content_html": "Clôture du gouvernement américain: comment les démocrates sont-ils relatifs dans leur bataille contre le Trumpisme",
       "date_published": "2025-10-02T03:30:00+00:00",
       "authors": [
@@ -9741,7 +9729,7 @@
     {
       "id": "7210bd3a823ccda59da7e1b356510538022f4500823b6817f872115edf903f74",
       "url": "https://elpais.com/internacional/2025-09-17/arde-gaza-600000-palestinos-moriran-calcinados.html",
-      "title": "« Gaza brûle » : 600 000 Palestiniens brûleront-ils vifs ?",
+      "title": "\"Arde Gaza\": 600 000 Palestiniens mourront brûlés?",
       "content_html": "Fumer autour de Ciudad de Gaza après un bombardement israélien, mardi, au début de l'offensive foncière sur la capitale de la bande.",
       "date_published": "2025-09-17T03:40:00+00:00",
       "authors": [
@@ -9961,7 +9949,7 @@
       "id": "02ec9f46297adbfe680a648872bf13f9484bc4df5f90b6a3eac43a1497b87ade",
       "url": "https://elpais.com/internacional/2025-09-14/el-espanto-del-mundo-cabe-en-un-pie-de-foto.html",
       "title": "L'horreur du monde tient dans une légende de photo",
-      "content_html": "Nasser, deux ans, dans un hôpital de Khan Yunis (Gaza).Son père le regarde peu avant de mourir.",
+      "content_html": "Le Nasser de deux ans, dans un hôpital Jan Yunis (Gaza).Son père le regarde peu de temps avant sa mort.",
       "date_published": "2025-09-14T03:30:01+00:00",
       "authors": [
         {
@@ -9990,7 +9978,7 @@
       "id": "5ec0af406f01247086ca5f706043bb4c86affa8c948cd24fd4f642f6e698339f",
       "url": "https://elpais.com/internacional/2025-09-13/por-una-defensa-europea-mas-integrada.html",
       "title": "Par une défense européenne plus intégrée",
-      "content_html": "Des avions de combat F-16 lors d'un défilé militaire à Varsovie en août dernier.",
+      "content_html": "Les avions de combat F-16 dans un défilé militaire à Varsovie, en août dernier.",
       "date_published": "2025-09-13T03:30:01+00:00",
       "authors": [
         {
