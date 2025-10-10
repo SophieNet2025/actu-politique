@@ -5,40 +5,50 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "4d67fa93661b59f5f37bdc59f0e92c1415ed824f012ce5758a6eae4287c96b98",
-      "url": "https://ici.radio-canada.ca/nouvelle/2198465/procureure-ny-letitia-james-trump-accusations",
-      "title": "La procureure new-yorkaise Letitia James, dans la mire de Trump, est inculpée",
-      "content_html": "<p>Letitia James avait poursuivi Donald Trump et son entreprise au civil pour une série de fraudes financières.</p>",
-      "date_published": "2025-10-09T23:36:25+00:00",
+      "id": "5502120376af9bae072573c5a7f8a1f4c14f75f9c2016ac861d28506bd3a0760",
+      "url": "https://www.ukrinform.net/rubric-ato/4045765-eastern-part-of-kyiv-without-power-following-russian-attack-mayor.html",
+      "title": "Eastern part of Kyiv without power following Russian attack – mayor",
+      "content_html": "The eastern districts of Kyiv have been left without electricity following a Russian missile and drone attack, with problems also recorded with the water supply.",
+      "date_published": "2025-10-10T03:08:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f2b2920b43d9600701c8fee56a5f8f39f3ae3489781dce25e85675b76b82b9c5",
+      "url": "https://www.lemonde.fr/international/article/2025/10/10/guerre-a-gaza-le-gouvernement-netanyahou-approuve-la-premiere-etape-du-plan-de-paix-malgre-ses-divisions_6645550_3210.html",
+      "title": "Guerre à Gaza : le gouvernement Nétanyahou approuve la première étape du plan de paix malgré ses divisions",
+      "content_html": "Le premier ministre israélien, Benjamin Nétanyahou, à Washington, le 29 septembre 2025.",
+      "date_published": "2025-10-10T03:00:03+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
     {
-      "id": "4988c688aabef779a2bd173734cf34026818c1960cc0bd0b2f2814d4cc436f93",
-      "url": "https://www.theguardian.com/world/live/2025/oct/09/gaza-ceasefire-live-trump-says-hostages-probably-released-monday-idf-says-gaza-city-still-extremely-dangerous",
-      "title": "Gaza ceasefire plan live: Israel’s government approves hostage and ceasefire deal",
-      "content_html": "<p>The decisions clears the way for suspension of hostilities in Gaza within 24 hours and freeing of Israeli hostages after that</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal\">Full report: joy and anxiety as Hamas and Israel prepare to implement ceasefire deal</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2025/oct/09/gaza-ceasefire-deal-first-phase-trump-peace-plan\">What has been agreed for Gaza ceasefire deal</a></p></li></ul><p>Families of Israelis held hostage in Gaza gathered in what has come to be known as Hostage Square in Tel Aviv after the announcement.</p><p>“President Trump, thank you very much. We thank him, our children will not have returned home without him,” said <strong>Hatan Angrest</strong>, whose son Matan is among the hostages.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/09/gaza-ceasefire-live-trump-says-hostages-probably-released-monday-idf-says-gaza-city-still-extremely-dangerous\">Continue reading...</a>",
-      "date_published": "2025-10-09T23:18:44+00:00",
+      "id": "0bdb094f7c5a9118e50893fa2f2e180d52ed7350c0eea041bcc849005bfbe85b",
+      "url": "https://www.theguardian.com/world/live/2025/oct/10/philippines-earthquake-tsunami-warning-issued-after-7-quake-hits-mindanao",
+      "title": "Philippines earthquake: tsunami warning for coasts including Indonesia after 7.4 quake hits Mindanao – live updates",
+      "content_html": "<p>The Philippines seismology agency said it strongly advises people in coastal towns in central and southern Philippines to immediately evacuate</p><p><strong>A note on earthquake measurements:</strong><br /><br />\n It is worth mentioning that different agencies often generate different readings of earthquakes immediately after the event, which are sometimes revised up or down in subsequent hours. Today the magnitude measurement of the Mindanao quake has fluctuated between 7.2 to 7.6, depending on the agency.<br /><br />\n A bigger difference is, however, apparent in the recorded depth of today’s earthquake, with the Philippines Phivolcs agency saying it occurred at a depth of 10km, while the European-Mediterranean Seismological Centre put the quake at a depth of 58 km.<br /><br />\n We will continue to provide updates and clarification as they become available.</p><p><strong>Tsunami warning center says hazardous waves possible within 300km of epicenter</strong></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/10/philippines-earthquake-tsunami-warning-issued-after-7-quake-hits-mindanao\">Continue reading...</a>",
+      "date_published": "2025-10-10T02:46:25+00:00",
       "authors": [
         {
-          "name": "Nick Visser (now); Adam Fulton ,Lucy Campbell, Fran Lawther, Tom Ambrose and Amy Sedghi (earlier)"
+          "name": "Nick Visser"
         }
       ],
       "tags": [
-        "Gaza",
-        "Israel",
-        "Hamas",
-        "Palestine",
-        "Donald Trump",
-        "Trump administration",
-        "Middle East and north Africa",
-        "World news",
-        "Israel-Gaza war"
+        "Philippines",
+        "Earthquakes",
+        "Asia Pacific"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -49,9 +59,9 @@
     {
       "id": "e3ecdaa70c03fec5b28afed20a4dc286c8abe05bfac3a20e48e8aa7747046db2",
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb",
-      "title": "Australia politics live: Zali Steggall warns against ‘totalitarian crackdown’ on protesters; Gaza flotilla members arrive back in Australia",
-      "content_html": "<p>Independent MP says Australia needs to be mindful of the right to free speech. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>We’re still talking about superannuation tax concessions?</strong></p><p>We can’t seem to stop hearing about the government’s plan to increase tax on superannuation balances over $3m … yes that’s right, we’re still talking about it.</p><p>There have been some conversations with the prime minister’s office … It’s probably not unusual for that to occur from time to time.</p><p>This is too often what happens when you get a government that has such a large majority that they don’t take people along on key policy issues.</p><p>People have been planning for decades for how they save for retirement and structure those investments. So any changes that are made to super need to be considered and provide people looking to retire with plenty of warning.</p><p>I don’t think there are high risks to this first phase. The ceasefire, the release of the living hostages, the rapid identification and turnover of those bodies that can be found, and the introduction of humanitarian assistance, coupled with that, first of all steps, the Israeli withdrawal to the agreed initial line. I think that will happen. The problematic and hard to negotiate issues are what follows. This phase one is, if you will, the opening of the door.</p><p>An armed Hamas is a Hamas which will retain the ability to assert, albeit clandestinely, effective governance. Disarmament must be in parallel to the process of shifting Hamas out of that effective governance role. And so the question that has to be raised here is what pressures can be brought to bear upon Hamas in order to affect that goal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-10-09T23:18:19+00:00",
+      "title": "Australia news live: Hannah Thomas begins legal action against NSW; Allegra Spender quits parliamentary sports club after Pocock ban",
+      "content_html": "<p>Fellow independent Monique Ryan also quit after it was first revealed the gambling lobby was sponsoring the club. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>We’re still talking about superannuation tax concessions?</strong></p><p>We can’t seem to stop hearing about the government’s plan to increase tax on superannuation balances over $3m … yes that’s right, we’re still talking about it.</p><p>There have been some conversations with the prime minister’s office … It’s probably not unusual for that to occur from time to time.</p><p>This is too often what happens when you get a government that has such a large majority that they don’t take people along on key policy issues.</p><p>People have been planning for decades for how they save for retirement and structure those investments. So any changes that are made to super need to be considered and provide people looking to retire with plenty of warning.</p><p>I don’t think there are high risks to this first phase. The ceasefire, the release of the living hostages, the rapid identification and turnover of those bodies that can be found, and the introduction of humanitarian assistance, coupled with that, first of all steps, the Israeli withdrawal to the agreed initial line. I think that will happen. The problematic and hard to negotiate issues are what follows. This phase one is, if you will, the opening of the door.</p><p>An armed Hamas is a Hamas which will retain the ability to assert, albeit clandestinely, effective governance. Disarmament must be in parallel to the process of shifting Hamas out of that effective governance role. And so the question that has to be raised here is what pressures can be brought to bear upon Hamas in order to affect that goal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Continue reading...</a>",
+      "date_published": "2025-10-10T02:45:58+00:00",
       "authors": [
         {
           "name": "Krishani Dhanji"
@@ -80,14 +90,219 @@
       "lang": "en"
     },
     {
-      "id": "7f2cc13730a0fa7447d9054fe827f26dc676dcb37cbaf7388df0e4492a1a4a2b",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
-      "title": "New York attorney general calls bank fraud indictment ‘desperate weaponization of our justice system’ – live",
-      "content_html": "<p>Letitia James, who prosecuted several Trump-related cases, reacts to one criminal charge filed against her in Virginia</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general\">Letitia James criminally charged in Trump’s latest effort to punish rivals</a></p></li></ul><p>The president has spent much of Thursday morning <strong>thanking his allies on Truth social for praising his diplomatic efforts in Gaza. </strong></p><p>“I would like to thank Republican Congressman Brian Mast, of Florida, for his brilliant words and analysis on the return of the Hostages, and Peace in the Middle East, this morning on Fox &amp; Friends. Thank you Brian!!!,” Trump <a href=\"https://truthsocial.com/@realDonaldTrump/115344000556414178\">wrote in a post</a>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live\">Continue reading...</a>",
-      "date_published": "2025-10-09T23:14:06+00:00",
+      "id": "d69d1bc0b54f4bd324bf81e9dac8247ac53ec63df9ed8cc6542f25684a5b3ea2",
+      "url": "https://www.lemonde.fr/international/article/2025/10/10/en-equateur-l-armee-deployee-dans-la-capitale-pour-faire-face-a-l-intensification-de-manifestations-indigenes_6645548_3210.html",
+      "title": "En Equateur, l’armée déployée dans la capitale pour faire face à l’intensification de manifestations indigènes",
+      "content_html": "Des soldats lors d’une manifestation contre la hausse du prix du diesel à Calderon (Equateur), le 9 octobre 2025.",
+      "date_published": "2025-10-10T02:40:59+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3f4efb025f9c271214abc09c6f24fd365a1c937a3c3e8607c871f51d3dedcb48",
+      "url": "https://www.aljazeera.com/news/2025/10/10/strong-magnitude-7-6-earthquake-strikes-off-southern-philippines?traffic_source=rss",
+      "title": "Strong magnitude 7.6 earthquake strikes off southern Philippines",
+      "content_html": "Tsunami evacuation warning after quake strikes in waters off Davao Oriental in the country&#039;s Mindanao region.",
+      "date_published": "2025-10-10T02:30:43+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d8b77738297f2baef26f149cd58f65b2dc1ecdaf05b8b089085a21d0c7731b61",
+      "url": "https://www.theguardian.com/world/2025/oct/10/tsunami-warning-philippines-indonesia-earthquake-mindanao",
+      "title": "Tsunami warning for Philippines and Indonesia after 7.4-magnitude earthquake strikes Mindanao",
+      "content_html": "<p>Warnings of possible hazardous waves within 300km of the quake’s epicentre were issued after the powerful quake</p><p>A tsunami warning has been issued for the Philippines after a 7.4-magnitude earthquake struck the Mindanao region on Friday, with the local seismology office saying damage and aftershocks were expected.</p><p>The US Tsunami Warning System and Philippine seismology agency both issued tsunami warnings, saying hazardous tsunami waves were possible for coasts located within 300km (186 miles) of the earthquake’s epicentre.</p> <a href=\"https://www.theguardian.com/world/2025/oct/10/tsunami-warning-philippines-indonesia-earthquake-mindanao\">Continue reading...</a>",
+      "date_published": "2025-10-10T02:30:26+00:00",
       "authors": [
         {
-          "name": "Lois Beckett (now) Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)"
+          "name": "Agencies"
+        }
+      ],
+      "tags": [
+        "Earthquakes",
+        "World news",
+        "Philippines",
+        "Asia Pacific"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cbcaf9bbf19d02a62419453ac2d1428205ec824b5272bcc8089b95795c4d180b",
+      "url": "https://www.ukrinform.net/rubric-society/4045601-mfa-invites-teenagers-temporarily-residing-abroad-to-attend-iron-change-summit.html",
+      "title": "MFA invites teenagers temporarily residing abroad to attend Iron Change summit",
+      "content_html": "The Ministry of Foreign Affairs of Ukraine has called on Ukrainian children aged 14 to 16 who are temporarily residing in the EU, the US, Canada, Turkey, Moldova, and the UK to participate in the Third International Iron Change Summit.",
+      "date_published": "2025-10-10T02:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d7ca8d00946afcfba72e6b73ed15350af3e0a315d97ce25e245aacb7290f5dc5",
+      "url": "https://www.theguardian.com/us-news/2025/oct/09/anti-fascism-mark-bray-rutgers-university",
+      "title": "US anti-fascism expert blocked from flying to Spain at airport",
+      "content_html": "<p>Rutgers University professor who published book on antifa was informed at boarding gate that his trip was cancelled</p><p>A Rutgers University professor who taught a course on <a href=\"https://www.theguardian.com/commentisfree/series/rise-against-fascism\">anti-fascism</a> and was blocked from leaving the US for Spain on Wednesday night, <a href=\"https://www.nytimes.com/2025/10/08/nyregion/rutgers-professor-threats-antifa.html?smid=nytcore-ios-share&amp;referringSource=articleShare\">according to media reports</a>, hours after Donald Trump hosted a White House roundtable highlighting the impact of antifa – or “anti-fascist” – far-left activists is now departing.</p><p>Mark Bray, an historian who published the 2017 book Antifa: the Anti-Fascist Handbook and has taught courses on anti-fascism at the New Jersey university, <a href=\"https://bsky.app/profile/mark-bray.bsky.social/post/3m2sgs7rmek2z\">posted</a> on the social media platform Bluesky that “Our plane to Spain is in the air!”. Bray was attempting to board a plane at Newark airport when he was informed at the boarding gate that the reservations for him and his family had been cancelled.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/09/anti-fascism-mark-bray-rutgers-university\">Continue reading...</a>",
+      "date_published": "2025-10-10T02:20:14+00:00",
+      "authors": [
+        {
+          "name": "Edward Helmore"
+        }
+      ],
+      "tags": [
+        "US news",
+        "US universities",
+        "New Jersey"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3cfe82c571df2d232399c617f1c209650d0c0691c82806a638436aa4ddc7a87a",
+      "url": "https://www.bbc.com/news/articles/c4g9n4xj904o?at_medium=RSS&at_campaign=rss",
+      "title": "New York Attorney General Letitia James criminally indicted",
+      "content_html": "James, who led a civil fraud case against US President Donald Trump, was indicted in Alexandria, Virginia.",
+      "date_published": "2025-10-10T02:17:58+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e26c41679766b122844f6a257f42deb035cc06ad5f1050145628845ac4bc432e",
+      "url": "https://www.france24.com/en/europe/20251010-russia-launches-missile-and-drone-attack-on-kyiv-targeting-power-grid-ukraine",
+      "title": "Russia launches missile and drone attack on Kyiv, targeting power grid",
+      "content_html": "Ukraine reported a large-scale Russian assault on Kyiv early Friday, involving ballistic missiles and drone strikes that caused widespread power outages and injured at least nine people. The attack, which targeted critical infrastructure, is part of what officials say is an intensified Russian campaign against Ukraine’s energy grid.",
+      "date_published": "2025-10-10T02:16:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2047d7b3a8ed2835578ea0ca5b6925999de58263d9d8df2db9eb57912bc15ea7",
+      "url": "https://www.aljazeera.com/news/2025/10/10/who-are-the-five-nobel-peace-prize-judges-deciding-whether-trump-gets-it?traffic_source=rss",
+      "title": "Who are the five Nobel Peace Prize judges deciding whether Trump gets it?",
+      "content_html": "Donald Trump insists he wins the prize, which will be announced on Friday. These five people decide who gets it.",
+      "date_published": "2025-10-10T02:15:31+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8e6a73295675c9e4669c36baffd3dd7daf10fa0df9bf3487b3e2d8fb9fa66d0d",
+      "url": "https://www.liberation.fr/international/moyen-orient/accord-israel-hamas-la-fin-de-la-guerre-a-gaza-ne-signifie-pas-necessairement-une-accalmie-dans-la-region-20251010_RIAYY35R6VFCBBFSESUTY4N3VI/",
+      "title": "Accord Israël-Hamas : «La fin de la guerre à Gaza ne signifie pas nécessairement une accalmie dans la région»",
+      "content_html": "Scène de joie dans le camp de Nuseirat à Gaza, ce jeudi 9 octobre 2025.",
+      "date_published": "2025-10-10T02:05:00+00:00",
+      "authors": [
+        {
+          "name": "Luc Mathieu, Hala Kodmani"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0ff3e01ec59bbeb889c62d53e6d542bcae6f21f52eb409794a438184d65b6aeb",
+      "url": "https://www.theguardian.com/news/audio/2025/oct/10/from-boom-to-backlash-has-taylor-swift-lost-her-touch-podcast",
+      "title": "From boom to backlash: has Taylor Swift lost her touch? – podcast",
+      "content_html": "<p>She’s a global pop star who appears relatable even as her tours alter a country’s economy. Bu her new album has sparked surprisingly fierce criticism. Alexis Petridis and Laura Snapes explain.</p><p>She is by any measure the biggest pop star in the world, which has made her ability to retain her relatable appeal all the more impressive. But this week Taylor Swift seems to have made a rare misstep.</p><p>For decades her fans have watched her grow from a teenage country star to globally recognised billionaire, and she has taken them with her, thanks to her sharp lyrics about growing up, relationships and heartbreak. But it’s not just about the music. She has cultivated a unique connection with her Swifties, dropping clues in her music and content and encouraging them to decode it, explains the Guardian’s deputy music editor, <strong>Laura Snapes</strong>. And it has paid off. The Eras tour boosted the UK economy by £1bn.</p> <a href=\"https://www.theguardian.com/news/audio/2025/oct/10/from-boom-to-backlash-has-taylor-swift-lost-her-touch-podcast\">Continue reading...</a>",
+      "date_published": "2025-10-10T02:00:40+00:00",
+      "authors": [
+        {
+          "name": "Presented by Nosheen Iqbal with Alexis Petridis and Laura Snapes; produced by Emilia Gill, Ruth Abrahams, and Ross Burns; executive producer Homa Khaleeli"
+        }
+      ],
+      "tags": [
+        "Music",
+        "Taylor Swift",
+        "Culture",
+        "US news",
+        "World news",
+        "Pop and rock",
+        "Country",
+        "Music industry",
+        "Business"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f3404615884917289bedba7cae5b99ac0661faa07f6907fe8c6fcddaf310f995",
+      "url": "https://www.liberation.fr/international/moyen-orient/fais-tout-ce-que-tu-peux-pour-ramener-ton-fils-tres-vite-il-ne-tiendra-pas-segev-kalfon-festivalier-enleve-le-7-octobre-2023-20251010_SZ6BHLRDEJFIPFHUN2WQVBN3S4/",
+      "title": "«Fais tout ce que tu peux pour ramener ton fils très vite, il ne tiendra pas» : Segev Kalfon, festivalier enlevé le 7 octobre 2023",
+      "content_html": "Ségé Calfon.",
+      "date_published": "2025-10-10T02:00:00+00:00",
+      "authors": [
+        {
+          "name": "Sascha Garcia"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7f2cc13730a0fa7447d9054fe827f26dc676dcb37cbaf7388df0e4492a1a4a2b",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live",
+      "title": "New York attorney general calls bank fraud indictment ‘desperate weaponization of our justice system’ – as it happened",
+      "content_html": "<p>This blog has now closed. Read our <a href=\"https://www.theguardian.com/us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general\">latest story here</a></p><p>The president has spent much of Thursday morning <strong>thanking his allies on Truth social for praising his diplomatic efforts in Gaza. </strong></p><p>“I would like to thank Republican Congressman Brian Mast, of Florida, for his brilliant words and analysis on the return of the Hostages, and Peace in the Middle East, this morning on Fox &amp; Friends. Thank you Brian!!!,” Trump <a href=\"https://truthsocial.com/@realDonaldTrump/115344000556414178\">wrote in a post</a>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/09/national-guard-ice-federal-property-chicago-illinois-us-politics-live\">Continue reading...</a>",
+      "date_published": "2025-10-10T01:59:17+00:00",
+      "authors": [
+        {
+          "name": "Lois Beckett , Shrai Popat, Lucy Campbell and Tom Ambrose"
         }
       ],
       "tags": [
@@ -104,6 +319,495 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a075f53e88a9bdaaf6cc5f55fab8b353e51527bba7717797bf9be90d9404311e",
+      "url": "https://www.france24.com/fr/europe/20251010-ukraine-kiev-partiellement-privee-electricite-attaque-russe-drones-missiles",
+      "title": "Ukraine : Kiev partiellement privée d'électricité après une attaque russe d'ampleur",
+      "content_html": "La capitale ukrainienne était partiellement touchée, vendredi matin, par une coupure de courant, après une nouvelle attaque russe à l'aide de missiles et de drones. Jeudi, le président Volodymyr Zelensky a accusé Moscou de vouloir \"semer le chaos\" en visant les infrastructures énergétiques.",
+      "date_published": "2025-10-10T01:56:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d5134b6f6ffef3d670bee2ab4c042ba5ba5140f40289d4dbbaf5e6c0cbf4dbcb",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/10/nsw-police-reveal-operation-targeting-kill-cars-allegedly-used-by-sydney-gangs-ntwnfb",
+      "title": "NSW police reveal operation targeting ‘kill cars’ used by alleged Sydney crime gangs",
+      "content_html": "<p>Arrests have been made over alleged involvement in group of contract criminals that uses network of staged vehicles</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A secret police investigation into alleged violent contract criminals and a network of “kill cars” has been revealed after an alleged murder plot at a daycare centre was disrupted.</p><p>NSW police on Tuesday pounced on a group of men driving through Revesby in Sydney’s south-west with balaclavas and pistols.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/10/nsw-police-reveal-operation-targeting-kill-cars-allegedly-used-by-sydney-gangs-ntwnfb\">Continue reading...</a>",
+      "date_published": "2025-10-10T01:54:03+00:00",
+      "authors": [
+        {
+          "name": "Australian Associated Press"
+        }
+      ],
+      "tags": [
+        "Sydney",
+        "New South Wales",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4b6afe14dd54d7f8865be15ef8b750826e2a998c50347ad3e6995243249923d0",
+      "url": "https://www.timesofisrael.com/minneapolis-synagogue-targeted-with-pro-hamas-graffiti-on-oct-7-anniversary/",
+      "title": "Minneapolis synagogue targeted with pro-Hamas graffiti on Oct. 7 anniversary",
+      "content_html": "<p>Temple Israel rabbi denounces the antisemitic vandalism, which includes warning 'Watch out Zionists,' saying 'it's not about political differences. It’s about hate'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/minneapolis-synagogue-targeted-with-pro-hamas-graffiti-on-oct-7-anniversary/\">Minneapolis synagogue targeted with pro-Hamas graffiti on Oct. 7 anniversary</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/tempelisraelmainimage10925-e1760059111426-1024x640.jpeg\" title=\"Minneapolis synagogue targeted with pro-Hamas graffiti on Oct. 7 anniversary\" width=\"160\" /></figure>",
+      "date_published": "2025-10-10T01:43:15+00:00",
+      "authors": [],
+      "tags": [
+        "Jewish Times",
+        "October 7 Hamas atrocities",
+        "anti-Semitic graffiti",
+        "Minneapolis",
+        "antisemitism in the US"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "73797fe416f36a79766038b6052a7dbe1472bff3a8055d01cc800b8ab2080ca2",
+      "url": "https://ici.radio-canada.ca/nouvelle/2198533/postes-canada-greve-tournante",
+      "title": "Postes Canada reprendra partiellement la livraison du courrier",
+      "content_html": "<p>Dès samedi, les syndiqués passeront d&#x27;une grève nationale à une «&nbsp;grève tournante&nbsp;».</p>",
+      "date_published": "2025-10-10T01:43:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "92b3df4e43d8659a39c8543605883b679d32b51d91dfea29aa1246481e1a36ae",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/10/child-dead-after-being-hit-by-a-truck-outside-bendigo-school-ntwnfb",
+      "title": "Boy, 15, dead after being hit by a truck outside Bendigo school",
+      "content_html": "<p>Victoria police say pedestrian died at the scene after the crash on High Street at 8.30am Friday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A 15-year-old boy has died after being hit by a truck outside a regional Victorian school shortly before classes were due to start.</p><p>Victoria police on Friday said the teenager, who lived locally, was hit by a truck on High Street in Bendigo at 8.30am.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/10/child-dead-after-being-hit-by-a-truck-outside-bendigo-school-ntwnfb\">Continue reading...</a>",
+      "date_published": "2025-10-10T01:42:45+00:00",
+      "authors": [
+        {
+          "name": "Benita Kolovos"
+        }
+      ],
+      "tags": [
+        "Victoria",
+        "Australian police and policing",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4482d0575cbb9a04db12684bf36386108adf77ae80c25bbda6abd9b6ce6dda18",
+      "url": "https://www.ukrinform.net/rubric-economy/4045530-from-garage-startup-to-world-leader-baykar-ceo-reveals-secrets-behind-companys-success.html",
+      "title": "From ‘garage startup’ to world leader: Baykar CEO reveals secrets behind company’s success",
+      "content_html": "The Turkish company Baykar, in nearly 40 years of existence — the last 20 focused on UAVs — has grown from a dream and a “garage startup” into a world leader in the UAV industry controlling roughly 60% of the global drone market.",
+      "date_published": "2025-10-10T01:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a830d925a51fb84e9d089a20b3f05d66e9fdb1de029eefdfedc8a013c256dfe",
+      "url": "https://www.aljazeera.com/news/2025/10/10/we-dont-want-to-disappear-tuvalu-fights-for-climate-action-and-survival?traffic_source=rss",
+      "title": "‘We don’t want to disappear’: Tuvalu fights for climate action and survival",
+      "content_html": "Pacific island nation explores new ways to survive climate change but needs help to build protective sea walls now.",
+      "date_published": "2025-10-10T01:07:30+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ec13ecbaded02a87872fe81d4d0f9fdc1ac9349de8c3e6c58039694882d893ba",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20251010-argentine-etats-unis-donald-trump-secours-peso-javier-milei",
+      "title": "Argentine : les États-Unis de Donald Trump volent au secours du peso et de Javier Milei",
+      "content_html": "Les États-Unis ont annoncé jeudi des mesures pour soutenir le peso argentin et le président ultralibéral Javier Milei, un allié de Donald Trump. Cette annonce intervient à un moment critique pour l'Argentine, à moins de trois semaines des élections législatives de mi-mandat.",
+      "date_published": "2025-10-10T01:01:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Éco/Tech"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4d67fa93661b59f5f37bdc59f0e92c1415ed824f012ce5758a6eae4287c96b98",
+      "url": "https://ici.radio-canada.ca/nouvelle/2198465/procureure-ny-letitia-james-trump-accusations",
+      "title": "La procureure new-yorkaise Letitia James, dans la mire de Trump, est inculpée",
+      "content_html": "<p>Letitia James avait poursuivi Donald Trump et son entreprise au civil pour une série de fraudes financières.</p>",
+      "date_published": "2025-10-10T00:52:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0d92663af1b5280c2a42b92b53dfc5e4decd56f9c7bd731162c937a88d762d85",
+      "url": "https://www.france24.com/en/americas/20251010-new-york-attorney-general-who-led-trump-fraud-case-criminally-indicted-letitia-james-us",
+      "title": "New York attorney general who led Trump fraud case criminally indicted",
+      "content_html": "New York Attorney General Letitia James — who led the civil fraud case that won a nearly half-billion-dollar judgment against Donald Trump — was indicted Thursday on federal bank fraud charges, becoming the second high-profile Trump critic to face prosecution in as many days.",
+      "date_published": "2025-10-10T00:51:34+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4988c688aabef779a2bd173734cf34026818c1960cc0bd0b2f2814d4cc436f93",
+      "url": "https://www.theguardian.com/world/live/2025/oct/09/gaza-ceasefire-live-trump-says-hostages-probably-released-monday-idf-says-gaza-city-still-extremely-dangerous",
+      "title": "Israel’s government approves hostage and ceasefire deal – as it happened",
+      "content_html": "<p>This live blog is now closed, you can read our latest report <a href=\"https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal\">here</a>.</p><p>Families of Israelis held hostage in Gaza gathered in what has come to be known as Hostage Square in Tel Aviv after the announcement.</p><p>“President Trump, thank you very much. We thank him, our children will not have returned home without him,” said <strong>Hatan Angrest</strong>, whose son Matan is among the hostages.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/09/gaza-ceasefire-live-trump-says-hostages-probably-released-monday-idf-says-gaza-city-still-extremely-dangerous\">Continue reading...</a>",
+      "date_published": "2025-10-10T00:42:45+00:00",
+      "authors": [
+        {
+          "name": "Nick Visser (now); Adam Fulton ,Lucy Campbell, Fran Lawther, Tom Ambrose and Amy Sedghi (earlier)"
+        }
+      ],
+      "tags": [
+        "Gaza",
+        "Israel",
+        "Hamas",
+        "Palestine",
+        "Donald Trump",
+        "Trump administration",
+        "Middle East and north Africa",
+        "World news",
+        "Israel-Gaza war"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "546d2b4bba2e5c1fb7eace00f578e4ebe948a1b203f69b5cb86f6985e452c28f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2198527/justice-suspension-deploiement-garde-nationale-chicago",
+      "title": "La justice ordonne la suspension du déploiement de la Garde nationale à Chicago",
+      "content_html": "<p>Un déploiement similaire à Portland, autre ville dirigée par les démocrates, a été provisoirement bloqué.</p>",
+      "date_published": "2025-10-10T00:38:19+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2b81b7c1de6de8b0247f9f40aaa58c20d87ee752665fe25e59dc8e2960dae3b1",
+      "url": "https://www.timesofisrael.com/gaza-ceasefire-takes-effect-as-government-approves-deal-to-free-the-hostages/",
+      "title": "Gaza ceasefire takes effect as government approves deal to free the hostages",
+      "content_html": "<p>Most far-right ministers vote against agreement to halt fighting with Hamas; Kushner and Witkoff tell cabinet that IDF's 'bravery' and Netanyahu's 'difficult decisions' enabled agreement</p>\n<p>The post <a href=\"https://www.timesofisrael.com/gaza-ceasefire-takes-effect-as-government-approves-deal-to-free-the-hostages/\">Gaza ceasefire takes effect as government approves deal to free the hostages</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/WhatsApp-Image-2025-10-09-at-23.27.48-1024x640.jpeg\" title=\"Gaza ceasefire takes effect as government approves deal to free the hostages\" width=\"160\" /></figure>",
+      "date_published": "2025-10-10T00:32:20+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2023-2025 Israel-Hamas war",
+        "Hamas hostages",
+        "Trump's Gaza proposal",
+        "Benjamin Netanyahu",
+        "Steve Witkoff",
+        "Jared Kushner"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d9937fa1332929f461fd10023cba1a095c87562bab9c4e4c91b2aa4cc16c0846",
+      "url": "https://www.theguardian.com/australia-news/2025/oct/10/former-wallabies-david-pocock-banned-parliamentary-sports-club-gambling",
+      "title": "Former Wallabies star David Pocock booted from parliamentary sports club",
+      "content_html": "<p><strong>Exclusive:</strong> Senator accused of bringing social club into disrepute after raising concerns about its association with betting lobby</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Independent ACT senator David Pocock – a former Wallabies captain – has been banned from attending Parliament House’s social sports club after raising concern about its sponsorship by the gambling industry.</p><p>The former rugby star was on Thursday night told he was no longer welcome at Australian Parliament Sports Club events, and accused of politicising the organisation. He has been removed from group chats discussing its events.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/10/former-wallabies-david-pocock-banned-parliamentary-sports-club-gambling\">Continue reading...</a>",
+      "date_published": "2025-10-10T00:29:42+00:00",
+      "authors": [
+        {
+          "name": "Henry Belot"
+        }
+      ],
+      "tags": [
+        "David Pocock",
+        "Gambling",
+        "Australian politics",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "224b83b4600dfb922ab6f9efa7d6f6d674de3de964679805ed5c65460e563804",
+      "url": "https://www.france24.com/en/americas/20251010-gang-violence-erupts-as-haitian-cabinet-meets-in-port-au-prince-haiti",
+      "title": "Gang violence erupts as Haitian cabinet meets in Port-au-Prince",
+      "content_html": "Gang violence broke out near Haiti’s National Palace on Thursday as the country’s fragile interim government convened a rare cabinet meeting in the heart of gang-controlled Port-au-Prince. The high-stakes gathering, described by officials as a symbolic attempt to reclaim authority, was marred by heavy gunfire, underscoring the deep insecurity plaguing a nation without a functioning president, congress, or recent elections.",
+      "date_published": "2025-10-10T00:28:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "37a57e578f4079ffac4ee8d3ed605eec27e73aa4acebe8779c7563c1bf525939",
+      "url": "https://www.ukrinform.net/rubric-polytics/4045484-parliament-approves-creation-of-ukraines-military-cyber-forces.html",
+      "title": "Parliament approves creation of Ukraine’s military Cyber Forces",
+      "content_html": "The Verkhovna Rada supported in the first reading a draft law to create the Cyber Forces of the Armed Forces of Ukraine.",
+      "date_published": "2025-10-10T00:27:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "76d78f17601bf824e9fa1693abd55b8ff45b5d4db0ea764f466340035a530439",
+      "url": "https://www.dw.com/en/israeli-government-approves-hostage-release-deal/live-74299423?maca=en-rss-en-all-1573-rdf",
+      "title": "Israeli government approves hostage release deal",
+      "content_html": "The Israeli military is expected to pull back to new lines within Gaza as part of the deal. The US will also deploy 200 troops to monitor its implementation. DW has the latest.",
+      "date_published": "2025-10-10T00:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fc54460157d841b22156410b7c4573da511286f1fa9a362dae0d54ea9191db68",
+      "url": "https://ici.radio-canada.ca/nouvelle/2198513/rustad-cellulaire-conservateurs-vie-privee",
+      "title": "John Rustad a fait fouiller les cellulaires de ses députés",
+      "content_html": "<p>John Rustad a demandé à tous les membres de son cabinet de montrer le contenu de leurs cellulaires.</p>",
+      "date_published": "2025-10-10T00:14:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0f549ba2467af3b02ca92e021c5b2830b34103f83c60456f2d8982962fd76219",
+      "url": "https://www.theguardian.com/food/2025/oct/10/melbourne-bar-caretaker-cottage-ranked-best-australasia-19-global",
+      "title": "Melbourne bar ranked best in Australasia and 19 in world",
+      "content_html": "<p>Panel of 800 experts places Melbourne’s Caretaker’s Cottage and Sydney’s Maybe Sammy in World’s 50 Best Bar list once again, with Melbourne’s Byrdi placing in top 100</p><ul><li><p><a href=\"https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=cvau_sfl\">Get our weekend culture and lifestyle email</a></p></li></ul><p>For close followers of the annual <a href=\"https://www.theworlds50best.com/stories/News/the-worlds-50-best-bars-2025-the-list.html\">World’s 50 Best Bars</a> accolade, it’ll come as little surprise to see Melbourne’s Caretaker’s Cottage and Sydney’s Maybe Sammy recognised.</p><p>For the second year running, Caretaker’s Cottage has been named Best Bar in Australasia, coming in at number 19 globally on the awards list, announced at an event in Hong Kong on 8 October.</p> <a href=\"https://www.theguardian.com/food/2025/oct/10/melbourne-bar-caretaker-cottage-ranked-best-australasia-19-global\">Continue reading...</a>",
+      "date_published": "2025-10-10T00:11:10+00:00",
+      "authors": [
+        {
+          "name": "Emma Joyce"
+        }
+      ],
+      "tags": [
+        "Australian food and drink",
+        "Bars, pubs and clubs",
+        "Food",
+        "Australian lifestyle",
+        "Life and style",
+        "Melbourne",
+        "Sydney",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9eb24658931e0a4b11d5b9e9a7f73fdc311fea31bb3ada67121f5b3fc20dfa80",
+      "url": "https://www.lemonde.fr/international/article/2025/10/10/donald-trump-poursuit-sa-vendetta-contre-ses-ennemis-politiques-et-obtient-des-poursuites-judiciaires-contre-letitia-james-la-procureure-generale-de-new-york_6645545_3210.html",
+      "title": "Donald Trump poursuit sa vendetta contre ses ennemis politiques et obtient des poursuites judiciaires contre Letitia James, la procureure générale de New York",
+      "content_html": "La procureure générale de New York, Letitia James, à New York, le 16 février 2024.",
+      "date_published": "2025-10-10T00:07:16+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fe21f2df18228d1d2be5d4f1a453c3c98d57013da4bf258e7dc85f36fd1ef272",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/10/10/live-hamas-gets-guarantees-of-end-to-gaza-war-israel-approves-ceasefire?traffic_source=rss",
+      "title": "LIVE: Hamas gets guarantees of end to Gaza war, Israel approves ceasefire",
+      "content_html": "Israel&#039;s government has approved the plan for the &#039;release of all captives&#039; fighting in Gaza to stop within 24 hours.",
+      "date_published": "2025-10-10T00:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ab713c749894656e5e1dc13e0ff56a7a23a4d09ec2b54588fd5021785875743d",
+      "url": "https://elpais.com/internacional/2025-10-09/el-alto-el-fuego-en-gaza-entrara-en-vigor-24-horas-despues-de-que-el-gobierno-israeli-lo-ratifique-esta-tarde.html",
+      "title": "Le gouvernement israélien approuve le cessez-le-feu à Gaza",
+      "content_html": "Einav Zangauker, mère de l'otage Matan Zangauker, tenait un drapeau israélien avec des photos des captifs, ce jeudi à Tel Aviv.",
+      "date_published": "2025-10-09T23:59:43+00:00",
+      "authors": [
+        {
+          "name": "Antonio Pita ,Trinidad Deiros,Marc Español"
+        }
+      ],
+      "tags": [
+        "Guerra",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cb6a4a3d740ba334d96ac14cbab1713cbe171bdb3131360a32ab78b4a11d549b",
+      "url": "https://www.france24.com/en/middle-east/20251009-israel-government-ratifies-gaza-ceasefire-and-hostage-deal-trump-netanyahu-hamas",
+      "title": "Israel's government ratifies Gaza ceasefire and hostage deal",
+      "content_html": "Israel's government approved a ceasefire agreement with Hamas on Friday, setting the stage to end two years of devastating war in Gaza. The deal, brokered with US backing as part of President Donald Trump's peace initiative, promises to suspend hostilities within 24 hours and secure the release of Israeli hostages within 72 hours.",
+      "date_published": "2025-10-09T23:57:36+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e54be3cf111ed767b425d11af72ec6e30cb95e485f7f2657c71fcdbd9449c994",
+      "url": "https://www.lemonde.fr/international/article/2025/10/10/a-chicago-une-juge-bloque-le-deploiement-de-centaines-de-gardes-nationaux-qui-devaient-epauler-la-police-de-l-immigration_6645544_3210.html",
+      "title": "A Chicago, une juge bloque le déploiement de centaines de gardes nationaux qui devaient épauler la police de l’immigration",
+      "content_html": "Des gardes nationaux se déploient dans un centre de la police de l’immigration à Chicago (Illinois), le 9 octobre 2025.",
+      "date_published": "2025-10-09T23:38:10+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7ef305d15e429ddd2488d7aa15730f24dbf97712a74dc37f40cb1c5b9a13e7b1",
+      "url": "https://www.aljazeera.com/news/2025/10/9/ecuadors-noboa-faces-escalating-protests-over-rise-in-diesel-costs?traffic_source=rss",
+      "title": "Ecuador’s Noboa faces escalating protests over rise in diesel costs",
+      "content_html": "The country&#039;s largest Indigenous group, CONAIE, has organised protests against Noboa&#039;s decision to cut a fuel subsidy.",
+      "date_published": "2025-10-09T23:30:24+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "09fd9c0fbe25d951649f6e4dbb54801199bb3f96ca3743edb7f0686e445cb4a5",
+      "url": "https://www.ukrinform.net/rubric-ato/4045467-fire-reported-in-volgograd-region-near-yefimovka-oil-refinery.html",
+      "title": "Fire reported in Volgograd region near Yefimovka oil refinery",
+      "content_html": "A fire was reported near the Yefimovka oil refinery in the Volgograd region following a drone attack.",
+      "date_published": "2025-10-09T23:22:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -147,6 +851,20 @@
       "lang": "en"
     },
     {
+      "id": "a7965aadab206b406aae937f6332a16dd9b94b19c43b7b19ee76d948a39e195e",
+      "url": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+      "title": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+      "content_html": "The debate is ramping up about what happens if - or when - computer intelligence overtakes humans",
+      "date_published": "2025-10-09T23:02:51+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "e7876be83b13eb7328516206abc95f6176b36a76305b540073256301b812ca68",
       "url": "https://www.aljazeera.com/features/2025/10/9/palestinians-in-gazas-south-relearn-sound-of-peace-after-truce-deal?traffic_source=rss",
       "title": "Palestinians in Gaza’s south relearn sound of peace after truce deal",
@@ -159,6 +877,26 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b8af902618e4ad6bf53f3675f1988135ba8c8f21d883d598238fe04ea7be1ae9",
+      "url": "https://www.france24.com/en/middle-east/20251009-israeli-government-approves-gaza-hostage-release-deal-hamas-trump-netanyahu",
+      "title": "Live: US to send 200 troops to 'oversee' Gaza ceasefire deal, reports say",
+      "content_html": "The Israeli government approved a ceasefire agreement for Gaza early Friday, approximately 24 hours after mediators announced the deal, which includes the release of Israeli hostages in exchange for Palestinian prisoners. Meanwhile, senior US officials confirmed that a 200-member US military team will be deployed to the Middle East to help oversee the implementation of the ceasefire. Follow our liveblog for all the latest.",
+      "date_published": "2025-10-09T23:01:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -211,12 +949,12 @@
     {
       "id": "ac254777994d0953b14c719adb3ecccef08b65e124a661e180c0f36c2905a9e0",
       "url": "https://www.theguardian.com/us-news/2025/oct/09/trump-national-guard-troops-chicago-ruling",
-      "title": "Judge temporarily blocks Trump’s effort to deploy national guard troops in Chicago",
-      "content_html": "<p>Much-anticipated judgement centers on efforts by Trump administration to use troops to aid immigration crackdown</p><p>A judge on Thursday temporarily blocked the deployment of the national guard in Chicago in a much-anticipated ruling about efforts by the Trump administration to use troops to help enforce immigration policy and also battle what it says are high crime rates.</p><p>During arguments about the case, lawyers for the state of Illinois had called the sending of national guard soldiers to the city – which was opposed by Chicago and state political leaders – a constitutional crisis.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/09/trump-national-guard-troops-chicago-ruling\">Continue reading...</a>",
+      "title": "Judge temporarily blocks Trump’s effort to deploy national guard in Chicago",
+      "content_html": "<p>Much-anticipated judgment centers on efforts by Trump administration to use troops to aid immigration crackdown</p><p>A judge has temporarily blocked the Trump administration from federalizing or deploying the national guard in Illinois after <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> ordered hundreds of troops to Chicago to help with immigration enforcement and to battle what the White House says are high crime rates in the city.</p><p>US district judge April Perry issued her decision from the bench after more than two hours of arguments from lawyers for the federal government and the state of Illinois, which sued the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> over the deployment. The order took effect on Thursday and will remain in place for two weeks.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/09/trump-national-guard-troops-chicago-ruling\">Continue reading...</a>",
       "date_published": "2025-10-09T22:43:18+00:00",
       "authors": [
         {
-          "name": "Guardian staff"
+          "name": "Lauren Gambino and agencies"
         }
       ],
       "tags": [
@@ -225,7 +963,8 @@
         "US news",
         "US politics",
         "Donald Trump",
-        "Illinois"
+        "Illinois",
+        "World news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -258,8 +997,8 @@
     {
       "id": "6c97d4a6850dff4c92ec3f0779d1851f3991582bec6997fdde9c34185420cf38",
       "url": "https://www.timesofisrael.com/liveblog-october-10-2025/",
-      "title": "Gaza ceasefire takes effect as government okays deal to free the hostages, stop the war",
-      "content_html": "<p>Most far-right ministers vote against deal * Kushner tells cabinet that the pending release of the captives ‘wouldn’t have been possible without the bravery of the IDF and its soldiers’</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-october-10-2025/\">Gaza ceasefire takes effect as government okays deal to free the hostages, stop the war</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/WhatsApp-Image-2025-10-09-at-23.27.48-1024x640.jpeg\" title=\"Gaza ceasefire takes effect as government okays deal to free the hostages, stop the war\" width=\"160\" /></figure>",
+      "title": "Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials",
+      "content_html": "<p>Signed deal for ‘comprehensive end of Gaza war’ calls for 'establishment of information-sharing mechanism… on any deceased hostages' who aren't released alongside all the living captives</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-october-10-2025/\">Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/06/AP24177566789716-1024x640.jpg\" title=\"Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials\" width=\"160\" /></figure>",
       "date_published": "2025-10-09T22:40:00+00:00",
       "authors": [],
       "tags": [
@@ -275,8 +1014,8 @@
     {
       "id": "8089a05ddb9ee43296d51b03603bc767d0776dccadddf88bd1b692ac5c7f3781",
       "url": "https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal",
-      "title": "Joy and anxiety as Hamas and Israel prepare to implement ceasefire deal",
-      "content_html": "<p>Israelis and Palestinians share mixed feelings as end to bloody two-year conflict that has killed tens of thousands nears</p><p>Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a <a href=\"https://www.theguardian.com/world/2025/oct/09/first-phase-of-ceasefire-deal-to-end-war-in-gaza-agreed-by-israel-and-hamas\">ceasefire deal</a> that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world.</p><p>In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones.</p> <a href=\"https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal\">Continue reading...</a>",
+      "title": "Hamas and Israel prepare to implement ceasefire as Netanyahu says deal approved by government",
+      "content_html": "<p>Israel’s government ratified the ceasefire and hostage deal on Friday, clearing the way to suspend hostilities in Gaza within 24 hours</p><p>Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a <a href=\"https://www.theguardian.com/world/2025/oct/09/first-phase-of-ceasefire-deal-to-end-war-in-gaza-agreed-by-israel-and-hamas\">ceasefire deal</a> that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world.</p><p>In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones.</p> <a href=\"https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal\">Continue reading...</a>",
       "date_published": "2025-10-09T22:36:17+00:00",
       "authors": [
         {
@@ -303,7 +1042,7 @@
       "id": "2ee033d83e186c3ed2d499552b927ca0d3793d5e9047fa64dfc9aaf0a0f29ce0",
       "url": "https://www.france24.com/fr/info-en-continu/20251009-en-direct-le-gouvernement-isra%C3%A9lien-approuve-l-accord-de-lib%C3%A9ration-des-otages-%C3%A0-gaza",
       "title": "En direct : le gouvernement israélien approuve l'accord de libération des otages à Gaza",
-      "content_html": "Le gouvernement israélien a approuvé tôt vendredi un accord visant à la libération de tous les otages retenus à Gaza, vivants ou morts, a annoncé le bureau du Premier ministre. \"Le gouvernement vient d'approuver le cadre pour la libération de tous les otages - qu'ils soient vivants ou décédés\", indique-t-il dans un communiqué. Suivez notre direct.",
+      "content_html": "Le gouvernement israélien a indiqué tôt vendredi avoir approuvé la première phase de l'accord de cessez-le-feu à Gaza et de libération des otages après de fortes pressions du président américain, Donald Trump, pour mettre fin à la guerre dans le territoire palestinien. Suivez notre direct.",
       "date_published": "2025-10-09T22:34:25+00:00",
       "authors": [
         {
@@ -318,6 +1057,44 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "d9db90716d3a1498d5c3cbb33427aeb49c80d13ae069d55cc39894e6e053fe0a",
+      "url": "https://www.france24.com/fr/info-en-continu/20251009-la-justice-am%C3%A9ricaine-inculpe-une-haute-magistrate-cibl%C3%A9e-par-trump",
+      "title": "Letitia James, procureure dans le viseur de Donald Trump, inculpée par la justice américaine",
+      "content_html": "Un grand jury de l'État de Virginie a inculpé jeudi Letitia James, procureure générale de l'État de New York et bête noire de Donald Trump depuis qu'elle a obtenu sa condamnation pour fraude en 2024. \"Voilà à quoi ressemble la tyrannie\", a réagi le ténor démocrate au Sénat Chuck Schumer.",
+      "date_published": "2025-10-09T22:29:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5fc29dce13b55569dd1babb0b7f8a82d666cf9fd8a3d457d2cd79513653d403b",
+      "url": "https://www.france24.com/en/live-news/20251009-israeli-government-approves-gaza-hostage-release-deal",
+      "title": "Israeli government approves Gaza hostage release deal",
+      "content_html": "",
+      "date_published": "2025-10-09T22:27:45+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "c9850c8a4aecdfb31515bb42ad2a2824e02c4ce856104f39d8a5a2b04b2da57a",
@@ -364,6 +1141,26 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
+    },
+    {
+      "id": "48ecf34a92d59ee665e2f6a976fa9f236acede3238041b7c168d1b7cf5d82c2b",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20251009-us-buys-argentine-pesos-finalizes-20-billion-currency-swap-framework",
+      "title": "US buys Argentine pesos,  finalises $20 billion currency swap framework",
+      "content_html": "Treasury Secretary Scott Bessent said Thursday that the United States has bought Argentine pesos and finalised a $20 billion economic support program with the South American nation's central bank, after concluding talks with his counterpart.The support comes as Argentina's right-wing President Javier Milei, a close ally of US President Donald Trump, had been struggling with market turbulence after a defeat in Buenos Aires provincial elections seen as a bellwether for upcoming mid-terms.",
+      "date_published": "2025-10-09T22:13:20+00:00",
+      "authors": [
+        {
+          "name": "Sharon GAFFNEY"
+        }
+      ],
+      "tags": [
+        "A propos"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "a227b1982eb8f57f11f9bbb812a193d9786dc1dc24da9b3adf6dab8ec4cd4431",
@@ -460,35 +1257,6 @@
       "lang": "fr"
     },
     {
-      "id": "ab713c749894656e5e1dc13e0ff56a7a23a4d09ec2b54588fd5021785875743d",
-      "url": "https://elpais.com/internacional/2025-10-09/el-alto-el-fuego-en-gaza-entrara-en-vigor-24-horas-despues-de-que-el-gobierno-israeli-lo-ratifique-esta-tarde.html",
-      "title": "Le cessez-le-feu à Gaza entrera en vigueur après que le gouvernement israélien l'aura ratifié cet après-midi",
-      "content_html": "Einav Zangauker, mère de l'otage Matan Zangauker, tenait un drapeau israélien avec des photos des captifs, ce jeudi à Tel Aviv.",
-      "date_published": "2025-10-09T21:42:37+00:00",
-      "authors": [
-        {
-          "name": "Antonio Pita ,Trinidad Deiros,Marc Español"
-        }
-      ],
-      "tags": [
-        "Guerra",
-        "Conflictos",
-        "Conflicto árabe-israelí",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Franja Gaza",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f8dad2173642fd43086fa9b71fd83881e05bdf5109f79af7d21e029fecd9c75c",
       "url": "https://ici.radio-canada.ca/nouvelle/2198453/hydro-quebec-revers-proces-espionnage-confidentialite",
       "title": "Revers pour Hydro-Québec au procès pour espionnage de Yuesheng Wang",
@@ -536,48 +1304,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f4085657a9f53ebafec9b1e2f1ee9ebbd7f786902becfa73cdc86b7bce7887a5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2198487/marineland-belugas-vivants-euthanasie",
-      "title": "Marineland : les bélugas sont encore en vie après l’expiration du délai d’euthanasie",
-      "content_html": "<p>Le gouvernement de l&#x27;Ontario affirme que tous les bélugas restants de Marineland sont toujours vivants.</p>",
-      "date_published": "2025-10-09T21:35:53+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "b6902b936283acd104c18e9134360f33e1b4ea7b6f6e622cbe2e339da3c68c11",
-      "url": "https://www.theguardian.com/music/2025/oct/09/drakes-defamation-lawsuit-dismissed",
-      "title": "Drake’s defamation lawsuit against Universal Music Group dismissed",
-      "content_html": "<p>Rapper had claimed UMG helped to damage his reputation by distributing Kendrick Lamar’s Not Like Us</p><p>A federal judge has thrown out Drake’s defamation lawsuit against Universal Music Group (UMG), ruling that the company cannot be held responsible for promoting Kendrick Lamar’s hit diss track Not Like Us.</p><p>US district judge Jeannette Vargas decided Thursday that the song’s lyrics express “nonactionable opinion” and therefore cannot be considered defamatory.</p> <a href=\"https://www.theguardian.com/music/2025/oct/09/drakes-defamation-lawsuit-dismissed\">Continue reading...</a>",
-      "date_published": "2025-10-09T21:35:04+00:00",
-      "authors": [
-        {
-          "name": "Marina Dunbar"
-        }
-      ],
-      "tags": [
-        "Drake",
-        "Universal Music",
-        "Kendrick Lamar",
-        "Rap",
-        "Hip-hop",
-        "Music",
-        "Culture",
-        "US news",
-        "Law"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -668,30 +1394,6 @@
       "lang": "en"
     },
     {
-      "id": "a2db7cd6b27ad625fdaaf4580e6f5b8cdf5cba7dcd1832f449e879c46fca383f",
-      "url": "https://www.theguardian.com/us-news/2025/oct/09/fbi-agents-reassigned-ice-immigration",
-      "title": "Nearly half of FBI agents in major offices reassigned to immigration enforcement",
-      "content_html": "<p>Data shows a stunning shift in law enforcement priorities that has raised public safety concerns</p><p>Nearly half of the <a href=\"https://www.theguardian.com/us-news/fbi\">FBI</a> agents working in the US’s major field offices have been reassigned to aid immigration enforcement, according to newly released data, a stunning shift in law enforcement priorities that has raised public safety concerns.</p><p>Personnel data obtained by Mark Warner, a Democratic senator, and shared with the Guardian, suggests the Trump administration has moved 45% of FBI agents in the country’s 25 largest field offices to support the Department of Homeland Security’s immigration crackdown. Across all of the FBI’s offices, 23% of the roughly 13,000 total agents at the bureau are now working on immigration, according to Warner, the top-ranking Democrat on the Senate intelligence committee.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/09/fbi-agents-reassigned-ice-immigration\">Continue reading...</a>",
-      "date_published": "2025-10-09T21:21:33+00:00",
-      "authors": [
-        {
-          "name": "Sam Levin in Los Angeles"
-        }
-      ],
-      "tags": [
-        "FBI",
-        "US immigration",
-        "Trump administration",
-        "US news",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5b0902e5a0b8367087c62f484cffa85f08cf439e6b9f35af1614760861fa2092",
       "url": "https://www.france24.com/fr/europe/20251009-belgique-dejoue-projet-attentat-jihadiste-premier-ministre-bart-de-wever-drone",
       "title": "La Belgique déjoue un projet d'attentat jihadiste qui visait le Premier ministre",
@@ -710,6 +1412,20 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "a7916ade670b3e3e96ecead4eb978147fbc2cf9add540eb948f1aae7e41fa301",
+      "url": "https://www.bbc.com/news/articles/cj3yke64vp6o?at_medium=RSS&at_campaign=rss",
+      "title": "How Trump secured a Gaza breakthrough which eluded Biden",
+      "content_html": "Trump's unique style and his relationships with key players helped but there were also factors beyond his control.",
+      "date_published": "2025-10-09T21:09:48+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
     },
     {
       "id": "bab655451f3674d0b8a11786a6c50faf6e85ccbb4b8fed62044076aeee50322b",
@@ -803,8 +1519,8 @@
     {
       "id": "eb508f4910f7a83653162ad57e9a1fc728ceae8bc9a8f6427dd19efe667d7078",
       "url": "https://www.france24.com/fr/info-en-continu/20251009-des-centaines-de-gardes-nationaux-d%C3%A9ploy%C3%A9s-%C3%A0-chicago-les-autorit%C3%A9s-locales-d%C3%A9noncent-une-occupation",
-      "title": "Les autorités de Chicago dénoncent une \"occupation\" après le déploiement de la Garde nationale",
-      "content_html": "Des centaines de gardes nationaux ont été déployés à Chicago, dans le nord des États-Unis, par l'administration de Donald Trump pour appuyer la police de l'immigration. Les autorités locales s'insurgent contre une tentative de \"créer une occupation militaire de l'Illinois par l'État fédéral\".",
+      "title": "États-Unis : la justice ordonne la suspension du déploiement de la Garde nationale à Chicago",
+      "content_html": "Une juge fédérale a bloqué jeudi le déploiement de centaines de gardes nationaux à Chicago, dans le nord des États-Unis, par l'administration de Donald Trump pour appuyer la police de l'immigration. Les autorités locales s'insurgent contre une tentative de \"créer une occupation militaire de l'Illinois par l'État fédéral\".",
       "date_published": "2025-10-09T20:49:08+00:00",
       "authors": [
         {
@@ -819,6 +1535,26 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "d816125243a59d7b2ba961a45bb81269d4e438495edcec6f2086a351eeb7bf2e",
+      "url": "https://www.france24.com/en/live-news/20251009-us-finalizes-20-bn-economic-lifeline-for-argentina-buys-pesos",
+      "title": "Trump boosts Argentina's Milei with $20 bn economic lifeline as US buys pesos",
+      "content_html": "The United States has stepped in to bolster Argentina's floundering economy, with Treasury Secretary Scott Bessent announcing Thursday a $20 billion economic support package and the purchase of Argentine pesos aimed at stabilising the South American nation’s volatile markets. Argentine President Javier Milei, a staunch ally of Donald Trump, hailed the initiative and praised the US president for his \"vision and powerful leadership\" in facilitating the deal.",
+      "date_published": "2025-10-09T20:47:12+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "506addd5f1ceb3c22ece431eab7300a2b374a12445f089aaf48a09dbddc511da",
@@ -883,7 +1619,7 @@
     {
       "id": "fbb5a0bf1189268575e4a0326b7d83aea4fc886af09ba636356c62d606c109aa",
       "url": "https://www.elmundo.es/internacional/2025/10/09/68e7d886fc6c835a6a8b457a.html",
-      "title": "Donald Trump, un président inimaginable pour un moment impensable",
+      "title": "Donald Trump, un président inimaginable pour une époque impensable",
       "content_html": "Le président américain marque son premier grand objectif de son deuxième mandat avec l'accord entre le Hamas et Israël",
       "date_published": "2025-10-09T20:41:57+00:00",
       "authors": [
@@ -1018,8 +1754,8 @@
     {
       "id": "034f0c9e8d1a2d7adbae70f854cd7d219b516e85759d42f61e8710422bf9421e",
       "url": "https://www.lemonde.fr/international/live/2025/10/09/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-il-augmente-la-pression-pour-mettre-fin-au-conflit_6644466_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’il « augmente la pression » pour mettre fin au conflit",
-      "content_html": "Le président Donald Trump invite un journaliste à poser une question lors d’une réunion avec le président finlandais, Alexander Stubb, dans le bureau Ovale de la Maison Blanche, le jeudi 9 octobre 2025, à Washington.",
+      "title": "EN DIRECT, guerre en Ukraine : toute la partie est de Kiev privée de courant après une attaque russe",
+      "content_html": "Des explosions dans le ciel de Kiev, lors d’une précédente attaque nocturne russe sur la capitale ukrainienne, le 10 septembre 2025.",
       "date_published": "2025-10-09T20:15:43+00:00",
       "authors": [],
       "tags": [],
@@ -1174,7 +1910,7 @@
       "id": "4726b8fceb21ed5cf624569199acc658ca1a1fa3e7be2efaf101ab10e3a7aec8",
       "url": "https://www.timesofisrael.com/trump-we-ended-gaza-war-the-hostages-are-coming-home-after-that-well-see/",
       "title": "Trump: ‘We ended Gaza war,’ the hostages are coming home. ‘After that, we’ll see’",
-      "content_html": "<p>US president says Hamas will disarm and IDF will pull back its troops, but indicates issues pertaining to post-war management of the Strip still need to be finalized</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-we-ended-gaza-war-the-hostages-are-coming-home-after-that-well-see/\">Trump: &#8216;We ended Gaza war,&#8217; the hostages are coming home. &#8216;After that, we’ll see&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25282586174142-e1760026745897-1024x640.jpg\" title=\"Trump: &#8216;We ended Gaza war,&#8217; the hostages are coming home. &#8216;After that, we’ll see&#8217;\" width=\"160\" /></figure>",
+      "content_html": "<p>US president says Hamas will disarm and IDF will pull back its troops, but indicates issues pertaining to post-war management of the Strip still need to be finalized; hopes to be in Israel for hostages' release</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-we-ended-gaza-war-the-hostages-are-coming-home-after-that-well-see/\">Trump: &#8216;We ended Gaza war,&#8217; the hostages are coming home. &#8216;After that, we’ll see&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25282586174142-e1760026745897-1024x640.jpg\" title=\"Trump: &#8216;We ended Gaza war,&#8217; the hostages are coming home. &#8216;After that, we’ll see&#8217;\" width=\"160\" /></figure>",
       "date_published": "2025-10-09T19:35:59+00:00",
       "authors": [],
       "tags": [
@@ -1674,20 +2410,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "8f51b79e0d29ee510b336cc27d9fd21a3633321f4194ff8a51340420dc9a279c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2198352/france-peine-alourdie-appel-accuse-viols-gisele-pelicot",
-      "title": "France : peine alourdie en appel contre le dernier accusé des viols de Gisèle Pelicot",
-      "content_html": "<p>La peine de l&#x27;accusé est de 10&nbsp;ans de réclusion, soit un an de plus que sa condamnation en première instance.</p>",
-      "date_published": "2025-10-09T18:28:23+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "57b69cde7d5e6ef40ad2dc375b7772d25beac3dc4bd7d5296acb6b2cc977f719",
@@ -2773,30 +3495,6 @@
       "lang": "en"
     },
     {
-      "id": "70d37e593fb794015274838afafcb6da79b18c4c32f5d87fa3867de7d9288826",
-      "url": "https://www.timesofisrael.com/marking-jubilee-settlers-lay-down-uncompromising-vision-for-regions-future/",
-      "title": "Marking jubilee, settlers lay down uncompromising vision for region’s future",
-      "content_html": "<p>Revelers and politicians celebrate 50 years since the march to Sebastia, call for annexation of the West Bank and firmly reject the realization of Palestinian national aspirations</p>\n<p>The post <a href=\"https://www.timesofisrael.com/marking-jubilee-settlers-lay-down-uncompromising-vision-for-regions-future/\">Marking jubilee, settlers lay down uncompromising vision for region&#8217;s future</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/WhatsApp-Image-2025-10-08-at-16.54.45-1024x640.jpeg\" title=\"Marking jubilee, settlers lay down uncompromising vision for region&#8217;s future\" width=\"160\" /></figure>",
-      "date_published": "2025-10-09T16:28:16+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "West Bank",
-        "West Bank settlements",
-        "West Bank outposts",
-        "Israeli-Palestinian conflict",
-        "B'Tselem",
-        "Samaria",
-        "Sebastia",
-        "Kedumim"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "72083e70372a8a2933099814b519dbc0c3e653057d490c43460c2946e08c2faa",
       "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss",
       "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
@@ -2979,38 +3677,6 @@
       "lang": "fr"
     },
     {
-      "id": "435cf7170d517b2f4bdae417a4f4a2bc7013af30843fc2aa9f5d921a674dd4e6",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/putin-backs-trumps-gaza-peace-plan-will-support-peaceful?traffic_source=rss",
-      "title": "Putin backs Trump’s Gaza peace plan, will support ‘peaceful efforts’",
-      "content_html": "Russian President Vladimir Putin said Moscow supports US President Donald Trump’s plan to end the Gaza war.",
-      "date_published": "2025-10-09T16:04:45+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "70954c9749397fd86f2e8d616dc19980cd4c749b5408618a6308d9940a3c7fcb",
-      "url": "https://www.aljazeera.com/news/2025/10/9/modi-starmer-hail-uk-india-trade-deal-as-new-investment-revealed?traffic_source=rss",
-      "title": "Modi, Starmer hail UK-India trade deal as new investment revealed",
-      "content_html": "Indian foreign ministry says the two sides agreed to set up a connectivity and innovation centre and a joint AI centre.",
-      "date_published": "2025-10-09T16:02:58+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9c454d0c756c0493faccc06c7be09379b873edc312605eaccdafa10c4c79c303",
       "url": "https://www.bbc.com/news/articles/c07v33mg9m2o?at_medium=RSS&at_campaign=rss",
       "title": "Police fire rubber bullets as Madagascar protesters reject president's promises",
@@ -3119,22 +3785,6 @@
       "lang": "fr"
     },
     {
-      "id": "f82405988aad31dc9f2bac786bdb02f881d68ec2b556c08070398091284ae2b4",
-      "url": "https://www.aljazeera.com/news/2025/10/9/starmer-meets-modi-what-the-uk-can-learn-from-indias-digital-ids?traffic_source=rss",
-      "title": "Starmer meets Modi: What the UK can learn from India’s digital IDs",
-      "content_html": "The UK is eyeing India&#039;s controversial digital ID system for inspiration. Critics say it is fraught with problems.",
-      "date_published": "2025-10-09T15:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8a6909a79215f791da7567590e0d7c60e0bde2a0e5300c099645c9d06dadd35a",
       "url": "https://www.france24.com/fr/moyen-orient/20251009-israeliens-dechirent-vetements-rite-religieux",
       "title": "Des Israéliens déchirent leurs vêtements pour simuler une agression ? C’est un rite religieux",
@@ -3185,22 +3835,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ecaadc0e705769ff61e151f11ff4d37b1cde3c568bb2fba1716ccd2f113ceb7d",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/thousands-rally-for-gaza-in-islamabad-after-ceasefire-agreement?traffic_source=rss",
-      "title": "Thousands rally for Gaza in Islamabad after ceasefire agreement",
-      "content_html": "Thousands of students rallied in Pakistan’s Islamabad after a Gaza ceasefire deal was announced.",
-      "date_published": "2025-10-09T15:40:36+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3339,22 +3973,6 @@
       "lang": "en"
     },
     {
-      "id": "d31894fd15766cd42d96f459aa0c5efe95fd7a656c5e4e24b3448619b401f70d",
-      "url": "https://www.aljazeera.com/news/2025/10/9/us-federal-court-to-weigh-trumps-deployment-of-national-guard-to-chicago?traffic_source=rss",
-      "title": "US federal court to weigh Trump’s deployment of National Guard to Chicago",
-      "content_html": "National Guard troops have already arrived in the Chicago area, as President Trump condemns the city as a &#039;hellhole&#039;.",
-      "date_published": "2025-10-09T15:31:22+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "384193e1b9669498803755adc7fcca666c2953480610dc95dc0f961869979ae8",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20251009-madagascar-un-millier-de-manifestants-%C3%A0-antananarivo-arrestations-et-tirs-de-gaz-lacrymog%C3%A8ne",
       "title": "Madagascar : un millier de manifestants à Antananarivo, arrestations et tirs de gaz lacrymogène",
@@ -3403,24 +4021,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "99ab03c8fd9e7054cd24e8e1a9937ba1870fc7b9ba2a2956e53ff558724bcc5f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251009-les-otages-isra%C3%A9liens-lib%C3%A9r%C3%A9s-au-plus-tard-72-heures-apr%C3%A8s-la-signature-du-cessez-le-feu-%C3%A0-gaza",
-      "title": "Les otages israéliens libérés au plus tard 72 heures après la signature du cessez-le-feu à Gaza",
-      "content_html": "Les 47 otages israéliens, dont 20 présumés vivants, seront libérés au plus tard 72 heures après l'entrée en vigueur du cessez-le-feu, soit aux alentours du lundi 13 octobre, a indiqué une porte-parole du gouvernement israélien.",
-      "date_published": "2025-10-09T15:27:26+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3489,24 +4089,6 @@
       "lang": "en"
     },
     {
-      "id": "3d3a11d5ea14fab28b337e4cd9173b70a2e9471a2213f385eb496f1c531c61de",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251009-plan-de-paix-%C3%A0-gaza-des-chefs-de-la-diplomatie-europ%C3%A9ens-et-arabes-se-r%C3%A9unissent-au-quai-d-orsay",
-      "title": "Plan de paix à Gaza : des chefs de la diplomatie européens et arabes se réunissent au Quai d'Orsay",
-      "content_html": "Préparer l'après-guerre, tel est l'objectif de la réunion des chefs de la diplomatie européens et arabes au Quai d'Orsay sur le plan de paix à Gaza. James André, grand reporter France 24, est sur place.",
-      "date_published": "2025-10-09T15:24:58+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "208e600ffdb2c85138efe8c7c88c0b3070dda1587ec769aeb5e8c45c85c9fb07",
       "url": "https://www.bbc.com/news/articles/ce9rl9krm0do?at_medium=RSS&at_campaign=rss",
       "title": "Fireworks and a toast to life: Israelis delight at deal to return hostages",
@@ -3523,7 +4105,7 @@
     {
       "id": "ca87f46cc47853696ec1222078590efd0b161c37ffe8e9e035d3ddb6df52ba07",
       "url": "https://elpais.com/internacional/2025-10-09/putin-promete-indemnizaciones-por-el-derribo-de-un-avion-de-pasajeros-de-azerbaiyan-pero-culpa-a-ucrania.html",
-      "title": "Poutine promet une compensation pour la destruction de l'avion de ligne azerbaïdjanais mais accuse l'Ukraine",
+      "title": "Poutine promet une compensation pour la destruction d'un avion de ligne azerbaïdjanais mais accuse l'Ukraine",
       "content_html": "Le président russe s'adresse aux Azéris lors de sa rencontre parallèle à la rencontre Russie-Asie centrale à Douchanbé.",
       "date_published": "2025-10-09T15:24:08+00:00",
       "authors": [
@@ -3549,25 +4131,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "2f79bbaf36469038491bc50b15f94b557b183cae2bff118de95c5d11b98d96c3",
-      "url": "https://www.timesofisrael.com/from-hamas-to-red-cross-to-the-idf-in-gaza-how-the-hostage-releases-will-be-handled/",
-      "title": "From Hamas to Red Cross to the IDF in Gaza: How the hostage releases will be handled",
-      "content_html": "<p>IDF says ready to manage simultaneous release of all 20 living captives if Hamas frees them together; IDF to retain control of 53% of Gaza following retreat after deal is ratified</p>\n<p>The post <a href=\"https://www.timesofisrael.com/from-hamas-to-red-cross-to-the-idf-in-gaza-how-the-hostage-releases-will-be-handled/\">From Hamas to Red Cross to the IDF in Gaza: How the hostage releases will be handled</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/01/WhatsApp-Image-2025-01-19-at-19.48.00-1024x640.jpeg\" title=\"From Hamas to Red Cross to the IDF in Gaza: How the hostage releases will be handled\" width=\"160\" /></figure>",
-      "date_published": "2025-10-09T15:22:43+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "2023-2025 Israel-Hamas war",
-        "Hamas hostages",
-        "Trump's plan to end Gaza war"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "5489777a7d7dff9beacb1191a7438c531b4bccf7aa5ad03117c6c7f051a6bc56",
@@ -3766,26 +4329,6 @@
       "lang": "en"
     },
     {
-      "id": "1fd72df49f2dbc198ab3bb7913f223718e8036058f42855058568396e905fa9f",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20251009-les-glaciers-d-arctique-attaqu%C3%A9s-de-toutes-parts-par-le-changement-climatique",
-      "title": "Les Glaciers d'Arctique attaqués de toutes parts par le changement climatique",
-      "content_html": "Dans le Svalbard, cette région de l’Arctique dominée par la cryosphère, les glaciers fondent encore plus vite que ce que les scientifiques avaient projeté. L'archipel situé entre le nord de la Norvège et le Pôle nord se réchauffe 6 à 7 fois plus vite que la moyenne mondiale. C’est ici que le réalisateur Pierre Dugowson a suivi la glaciologue Heidi Sevestre et d'autres scientifiques, dans un documentaire saisissant.",
-      "date_published": "2025-10-09T15:00:28+00:00",
-      "authors": [
-        {
-          "name": "Noémie ROCHE"
-        }
-      ],
-      "tags": [
-        "Élément Terre, la quotidienne"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d9f936928a82409a4bfe430a878bf881d0cfa330bedbd2ca0c3bd63616e54c35",
       "url": "https://www.bbc.com/news/articles/cd071g83101o?at_medium=RSS&at_campaign=rss",
       "title": "'Business is at a standstill' - Mali jihadists' fuel blockade hits the capital",
@@ -3830,64 +4373,6 @@
       "lang": "fr"
     },
     {
-      "id": "bbafa21141bf5594813876a757f31ccba257c56ba4bf14f61547dd2a9cef4fc7",
-      "url": "https://www.france24.com/en/video/20251009-israel-and-hamas-agree-to-a-ceasefire-world-leaders-express-hope",
-      "title": "Israel and Hamas agree to a ceasefire: World leaders express hope",
-      "content_html": "Angela Diffley, France24 International Affairs Editor, gives us her analysis.",
-      "date_published": "2025-10-09T14:54:49+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "387a92e9e90e6dd84acc93d6114818853fe7f2ad8a07562a50ae9e87cd6c2968",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20251009-inside-a-french-emergency-psychiatric-unit-social-stigma-a-lack-of-beds-and-drug-shortages",
-      "title": "Inside a French emergency psychiatric unit: Social stigma, a lack of beds and drug shortages",
-      "content_html": "At least one in five people in France suffer from a mental health condition. The issue has been named a priority for the government in 2025, which hopes to tackle a wide range of conditions, from mild symptoms to severe and chronic illnesses. Every day, psychiatric emergency departments in hospitals treat patients in distress, while operating in increasingly difficult conditions. To find out more, we spent time with the Ville-Evrard psychiatric unit of the Delafontaine Hospital in Saint-Denis, north of Paris.",
-      "date_published": "2025-10-09T14:45:23+00:00",
-      "authors": [
-        {
-          "name": "Jonathan WALSH"
-        }
-      ],
-      "tags": [
-        "France in focus"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "88e6e6415f41284259624044298c540823291051113dd5ba4be11995d896e42b",
-      "url": "https://www.france24.com/en/tv-shows/french-connections/20251009-beyond-disneyland-paris-exploring-french-amusement-parks",
-      "title": "Beyond Disneyland Paris: Exploring French amusement parks",
-      "content_html": "France may be known for its chateaux, cuisine and couture, but it is also quietly home to one of Europe's most varied amusement park industries. France has a network of theme parks – les parcs d'attractions – that in many ways reflect the country's contradictions: you've got global glamour next to local pride, high technology alongside nostalgic myth-making. Buckle up and join us on this wild ride around French amusement parks.",
-      "date_published": "2025-10-09T14:43:53+00:00",
-      "authors": [
-        {
-          "name": "Florence VILLEMINOT"
-        }
-      ],
-      "tags": [
-        "French connections"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d34b610b9958cc54795122fad77f7996cf28dff948f5990eb14b66f0dbdc77ad",
       "url": "https://www.lefigaro.fr/international/le-hamas-compte-sur-donald-trump-pour-garantir-un-retrait-israelien-de-gaza-20251009",
       "title": "Le Hamas compte sur Donald Trump pour garantir un retrait israélien de Gaza",
@@ -3914,20 +4399,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b014a7c83d042db7912abe896679ed316ae5c5d62f06f63e88f54199803d8936",
-      "url": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss",
-      "title": "Israel and Hamas agree first phase of Gaza ceasefire deal",
-      "content_html": "The deal will see the release of hostages held in Gaza in exchange for Palestinian prisoners and raises hopes for peace after two years of war.",
-      "date_published": "2025-10-09T14:33:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -4046,32 +4517,6 @@
       "lang": "en"
     },
     {
-      "id": "21ff644ef9b66d6e1d76cdc0bdb59e54d38e749f11656081249b962905b34f73",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/09/victoria-labor-socialist-left-mark-dreyfus-federal-isaacs-seat",
-      "title": "Victorian Labor’s socialist left stakes claim to Mark Dreyfus’s federal seat of Isaacs in factional tussle",
-      "content_html": "<p><strong>Exclusive: </strong>Left faction moves to cement dominance amid speculation over the future of former attorney general from Labor’s right</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor’s socialist left is moving to cement its dominance in Victoria, using renegotiations of the factions’ stability pact to push for the federal seat of Isaacs now held by Labor right member Mark Dreyfus.</p><p>It comes amid speculation that the former attorney general, who was <a href=\"https://www.theguardian.com/australia-news/2025/may/08/mark-dreyfus-and-ed-husic-at-risk-as-labor-factions-brawl-over-cabinet-positions\">dumped from cabinet</a> in May, could resign before the next federal election.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/09/victoria-labor-socialist-left-mark-dreyfus-federal-isaacs-seat\">Continue reading...</a>",
-      "date_published": "2025-10-09T14:00:28+00:00",
-      "authors": [
-        {
-          "name": "Benita Kolovos and Tom McIlroy"
-        }
-      ],
-      "tags": [
-        "Victorian politics",
-        "Labor party",
-        "Australian politics",
-        "Mark Dreyfus",
-        "Jacinta Allan",
-        "Victoria",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8ab442b4062378ce3f9944518438204d3049b5eefb7db5e56a5b17067a44aa75",
       "url": "https://elpais.com/internacional/2025-10-08/trump-anuncia-un-alto-el-fuego-en-gaza-entre-israel-y-hamas.html",
       "title": "Israël et le Hamas parviennent à un accord sur la première phase du plan de paix de Trump à Gaza",
@@ -4101,82 +4546,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "49ec76000688bb6af24f3732ef0c6cbbc0d0496ae0ce9a17b9079e85563662a7",
-      "url": "https://www.theguardian.com/society/2025/oct/10/child-sex-abuse-victims-must-be-protected-in-new-laws-allowing-afp-to-share-material-to-catch-perpetrators-ntwnfb",
-      "title": "Fears for victims as police win greater powers to use child abuse material to snare offenders",
-      "content_html": "<p>Bravehearts supports plan involving Australian federal police but cautions that consent, transparency and proper safeguards are often overlooked</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Child protection campaigners Bravehearts say the rights of victims must be protected in a plan to give federal law enforcement agencies legal protections to possess and share child sexual abuse material <a href=\"https://www.theguardian.com/society/2025/oct/08/afp-to-get-power-to-possess-and-share-child-abuse-material-to-target-sex-offenders-online\">to target criminals online</a>.</p><p>New laws being considered by parliament will ensure <a href=\"https://www.theguardian.com/australia-news/australian-federal-police\">Australian federal police</a> and officers from the Australian Criminal Intelligence Commission are protected from criminal and civil responsibility to do their work fighting child abuse syndicates, often operating in dark corners of the internet.</p> <a href=\"https://www.theguardian.com/society/2025/oct/10/child-sex-abuse-victims-must-be-protected-in-new-laws-allowing-afp-to-share-material-to-catch-perpetrators-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-10-09T14:00:27+00:00",
-      "authors": [
-        {
-          "name": "Tom McIlroy Political editor"
-        }
-      ],
-      "tags": [
-        "Child protection",
-        "Australian police and policing",
-        "Australian federal police",
-        "Australia news",
-        "Green party",
-        "Law (Australia)"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "038bef247a1f18b2744abd1634de1e2ad38c553942b08396c2cbbd5b1b1380e7",
-      "url": "https://www.theguardian.com/australia-news/2025/oct/10/sportsbet-dines-with-government-minister-at-labor-fundraiser-despite-calls-to-reject-lobbying-from-industry",
-      "title": "Sportsbet dines with government minister at Labor fundraiser despite calls to reject lobbying from industry",
-      "content_html": "<p><strong>Exclusive:</strong> Dinner occurred on the same day that four crossbench MPs held a press conference calling on government to ignore lobbying from gambling industry</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/10/australia-politics-live-senate-estimates-anthony-albanese-sussan-ley-andrew-hastie-migration-aukus-trump-gaza-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Sportsbet was invited to a Labor party fundraising dinner with an Albanese government minister earlier this week, despite bipartisan calls for <a href=\"https://www.theguardian.com/australia-news/2025/jan/19/labor-mps-worried-albanese-government-may-sideline-gambling-reform-until-after-election\">the party to ignore lobbying</a> from the wagering industry and introduce tougher regulation.</p><p>A Sportsbet employee was among a small group of donors who attended the “boardroom dinner” with the minister for regional development, Kristy McBain, on Tuesday night. The dinner was organised by Labor’s fundraising vehicle.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/10/sportsbet-dines-with-government-minister-at-labor-fundraiser-despite-calls-to-reject-lobbying-from-industry\">Continue reading...</a>",
-      "date_published": "2025-10-09T14:00:27+00:00",
-      "authors": [
-        {
-          "name": "Henry Belot"
-        }
-      ],
-      "tags": [
-        "Gambling",
-        "Sport betting",
-        "Australia news",
-        "Australian politics",
-        "Advertising",
-        "Labor party"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "dd3c4b6d71ded320f58fc7e04fbe5c16f4cb56e88a1885d284f706053fa71dbb",
-      "url": "https://www.theguardian.com/law/2025/oct/09/could-a-landmark-court-decision-undermine-the-right-to-peacefully-protest-in-nsw",
-      "title": "Could a landmark court decision undermine the right to peacefully protest in NSW?",
-      "content_html": "<p>Human rights advocates fear new ruling could deter people from using system designed to facilitate protests – and expose them to risk of criminal charges</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/oct/09/pro-palestine-march-sydney-opera-house-blocked-court-what-protesters-will-do-instead\">A pro-Palestine march to the Sydney Opera House has been blocked by a court. Here’s what protesters will do instead</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p></p><p>People organising protests in New South Wales could face a tough choice after this week.</p><p>On Thursday, the <a href=\"https://www.theguardian.com/australia-news/2025/oct/09/court-prohibits-pro-palestine-march-to-sydney-opera-house-after-police-raise-safety-concerns\">NSW court of appeal made a landmark ruling</a> that criminalises attending a “prohibited” protest. It came as part of a judgment that banned a planned pro-Palestine march to the Sydney Opera House scheduled for the weekend.</p> <a href=\"https://www.theguardian.com/law/2025/oct/09/could-a-landmark-court-decision-undermine-the-right-to-peacefully-protest-in-nsw\">Continue reading...</a>",
-      "date_published": "2025-10-09T14:00:26+00:00",
-      "authors": [
-        {
-          "name": "Jordyn Beazley"
-        }
-      ],
-      "tags": [
-        "Law (Australia)",
-        "Sydney",
-        "Gaza",
-        "Protest",
-        "Australia news",
-        "New South Wales",
-        "New South Wales politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "9cba92bcfb3bb9442645e1012221ab4beceffe0b27cdf3fad8c762bf57dee0f7",
@@ -4211,80 +4580,6 @@
       "lang": "en"
     },
     {
-      "id": "9ba42b828717a580e8b15cb2a519901ca44317e65dab37e4a3fd25c4e9975e96",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20251009-norwegian-refugee-council-hails-gaza-peace-deal-as-chance-to-scale-up-operations",
-      "title": "Norwegian Refugee Council hails Gaza peace deal as chance to 'scale up operations'",
-      "content_html": "A leading NGO official has spoken to FRANCE 24 abut her intense relief after the announcement of a peace deal for Gaza. Shaina Low works for the Norwegian Refugee Council. She spoke to us about her and her colleagues' reaction to the news, and what is needed now in term of humanitarian aid to help Palestinians in Gaza. She spoke to us in Perspective.",
-      "date_published": "2025-10-09T13:52:28+00:00",
-      "authors": [
-        {
-          "name": "Stuart NORVAL"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cf558efb6596f3072c3420bb4eb3716db99d6d76ab323968cb605c74b95a2ae6",
-      "url": "https://www.france24.com/en/video/20251009-french-president-emmanuel-macron-seeks-new-prime-minister-for-the-6th-time",
-      "title": "French President Emmanuel Macron seeks new Prime minister for the 6th time",
-      "content_html": "French President Emmanuel Macron was on Thursday racing to find a new prime minister within a two-day deadline after the resignation of outgoing premier Sebastien Lecornu tipped the country deeper into political crisis.",
-      "date_published": "2025-10-09T13:49:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "97fb6a36deaed4a671b3d2a6a9cc5bffb9c8c500c47d944081a0deb8c028964b",
-      "url": "https://www.france24.com/en/video/20251009-they-re-coming-back-israelis-await-return-of-gaza-hostages",
-      "title": "'They're coming back': Israelis await return of Gaza hostages",
-      "content_html": "Thousands of jubilant Israelis gathered in a Tel Aviv square Thursday, hopeful for the return of hostages held in Gaza, after two years of fear and worry.",
-      "date_published": "2025-10-09T13:37:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "070e8ae5b2ee67318271f44ac41c3da489accee017fdc54b9a107f9f046cea3b",
-      "url": "https://www.france24.com/en/video/20251009-in-khan-younis-celebrations-of-the-ceasefire-were-colored-by-grief",
-      "title": "In Khan Younis, celebrations of the ceasefire were colored by grief",
-      "content_html": "Israel and Hamas have agreed to a pause in their devastating two-year war and the release of the remaining hostages in exchange for Palestinian prisoners — a breakthrough greeted with joy and relief Thursday but also caution.",
-      "date_published": "2025-10-09T13:32:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3056df0cfa9a6693b2a3621ea7f46a0e8dbca6fbef74fc6f6484dd4349ebed6e",
       "url": "https://www.ukrinform.net/rubric-society/4045579-new-water-pipeline-in-mykolaiv-built-using-technologies-applied-in-ukraine-for-first-time.html",
       "title": "New water pipeline in Mykolaiv built using technologies applied in Ukraine for first time",
@@ -4297,44 +4592,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "9f158488f93146eea88f8c48310f8cc6c0170e203465dcaed84f7af9d6016dda",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20251009-les-demoiselles-de-rochefort-finds-new-audience-in-paris",
-      "title": "'Les demoiselles de Rochefort' finds new audience in Paris",
-      "content_html": "The 1967 film \"Les demoiselles de Rochefort\" by Jacques Demy starred a young Catherine Deneuve and her real-life sister Françoise Dorleac as twins living in the French seaside town of Rochefort, where they sang and danced their way through a series of pastel settings in search of true love. Almost 60 years later, the movie has come to life in a show at the Lido theatre on the Champs-Élysées in Paris. We speak to Juliette Tacchino and Marine Chagnon, the two French actresses who play the twins Delphine and Solange.",
-      "date_published": "2025-10-09T13:25:23+00:00",
-      "authors": [
-        {
-          "name": "Genie GODULA"
-        }
-      ],
-      "tags": [
-        "Entre Nous"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8dcfd5eed60ebfe433895cd40d932f944835d49632e75c9dde01f3a3abb77007",
-      "url": "https://www.france24.com/en/video/20251009-statement-of-shosh-bedrosian-israeli-government-spokeswoman",
-      "title": "Statement of Shosh Bedrosian, Israeli government spokeswoman",
-      "content_html": "Israel and Hamas have agreed to the “first phase” of U.S. President Donald Trump's peace plan to pause fighting and release at least some hostages and prisoners, in a major breakthrough in the two-year-old war.",
-      "date_published": "2025-10-09T13:23:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4367,7 +4624,7 @@
       "id": "6670fffe741ebc6a03130d19f7f4802e464afb13ccf6d083b51771d939654fed",
       "url": "https://www.dw.com/en/ukraine-children-ordered-to-evacuate-from-frontline-city/live-74286122?maca=en-rss-en-all-1573-rdf",
       "title": "Ukraine: Children ordered to evacuate from frontline city",
-      "content_html": "Ukrainian authorities ordered the evacuation of children and their guardians from around the frontline city of Kramatorsk in the Donetsk region, citing an increase in Russian drone attacks. DW has more.",
+      "content_html": "Ukrainian authorities ordered the evacuation of children and their guardians from around the frontline city of Kramatorsk in the Donetsk region, citing an increase in Russian drone attacks.",
       "date_published": "2025-10-09T13:15:00+00:00",
       "authors": [],
       "tags": [
@@ -4546,22 +4803,6 @@
       "lang": "en"
     },
     {
-      "id": "4991b5e98dec61d25d36a66d47a6d0b60dc1542244dcdb6b98896520abce4ea3",
-      "url": "https://www.ukrinform.net/rubric-polytics/4045555-zelensky-welcomes-progress-toward-peace-in-middle-east.html",
-      "title": "Zelensky welcomes progress toward peace in Middle East",
-      "content_html": "President Volodymyr Zelensky welcomed signs of progress toward peace in the Middle East, emphasizing that Russia remains the largest source of war and terror in the world.",
-      "date_published": "2025-10-09T12:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "23215d54373aa4705762cbe42fe7cb02408ca0234b9f8a05b64dfceddd921969",
       "url": "https://www.lemonde.fr/international/article/2025/10/09/accord-hamas-israel-a-gaza-une-joie-teintee-de-la-peur-d-etre-une-nouvelle-fois-decus_6645489_3210.html",
       "title": "Accord Hamas-Israël : à Gaza, une joie teintée de la « peur d’être une nouvelle fois déçus »",
@@ -4642,22 +4883,6 @@
       "lang": "fr"
     },
     {
-      "id": "1c88b163e518016766b963434ab0a399c2ba29d2c5e2d1e420b11745d3cd9447",
-      "url": "https://www.ukrinform.net/rubric-ato/4045546-russian-gab-attack-on-sloviansk-leaves-six-people-injured.html",
-      "title": "Russian GAB attack on Sloviansk leaves six people injured",
-      "content_html": "In Sloviansk, Donetsk region, six people were injured, including one in serious condition, following a Russian guided aerial bomb (GAB) attack.",
-      "date_published": "2025-10-09T11:48:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2dc1a43980fb6246243333370c0ec6ea1e2051ebdda04a34dc3f5d937dc8b6ba",
       "url": "https://www.theguardian.com/world/2025/oct/09/radioactive-shrimp-crisis-indonesia-contaminated-industrial-zone",
       "title": "‘Radioactive’ shrimp crisis: Indonesia grapples with contaminated industrial zone",
@@ -4711,25 +4936,9 @@
       "lang": "fr"
     },
     {
-      "id": "8537700cb6790dcc2c6be3f29575a53c650722ddbfdabeacbb377d1b0c240c5c",
-      "url": "https://www.ukrinform.net/rubric-ato/4045540-russia-strikes-civilian-car-in-sumy-region-injuring-two-people.html",
-      "title": "Russia strikes civilian car in Sumy region, injuring two people",
-      "content_html": "In Sumy region, Russian forces struck a civilian vehicle, injuring a man and a woman who have been hospitalized.",
-      "date_published": "2025-10-09T11:35:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6c39237ae02e802130f6d8773e8c6d39be9b59eb9531b16649a6b4c20377ce6e",
       "url": "https://elpais.com/internacional/2025-10-09/ucrania-confia-en-recibir-de-ee-uu-los-misiles-de-largo-alcance-tomahawk.html",
-      "title": "L'Ukraine espère recevoir des missiles Tomahawk à longue portée des États-Unis",
+      "title": "L'Ukraine espère recevoir des États-Unis des missiles Tomahawk à longue portée",
       "content_html": "Un citoyen ukrainien passe ce jeudi à côté de sa maison détruite par un drone russe, dans la ville de Chornomorsk (région d'Odessa).",
       "date_published": "2025-10-09T11:30:44+00:00",
       "authors": [
@@ -4829,22 +5038,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "9361de8fb3ca9f5cda4f2e2fb5a4559a5ae0bcbfe8f348a881d5b4fa38fab316",
-      "url": "https://www.ukrinform.net/rubric-ato/4045534-ukraine-strikes-fsb-base-in-crimea-with-three-flamingo-missiles-die-welt.html",
-      "title": "Ukraine strikes FSB base in Crimea with three ‘Flamingo’ missiles — Die Welt",
-      "content_html": "Ukraine has tested its new long-range FP-5 ‘Flamingo’ cruise missile under combat conditions, striking a Russian FSB base in the northern part of occupied Crimea.",
-      "date_published": "2025-10-09T11:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "727e742c5746f5e211b058ec41be0cb60de661b5bd951024e77b07e159f04699",
@@ -4983,22 +5176,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "869fccb81a4f670f9f8b3a359ff9678ede43158f6c8bf1820787591d1b6663f5",
-      "url": "https://www.ukrinform.net/rubric-society/4045512-national-police-call-for-tougher-penalties-for-illegal-border-crossings-arms-trafficking.html",
-      "title": "National Police call for tougher penalties for illegal border crossings, arms trafficking",
-      "content_html": "The National Police of Ukraine are calling for tougher penalties for illegally transporting people across the state border, as well as for the sale of captured (trophy) weapons or ammunition, including to criminal networks.",
-      "date_published": "2025-10-09T10:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5165,7 +5342,7 @@
       "id": "b9dc48d819e11ea485ebc64ec2cb3d2f5a329866d4a012ba1738ba5b9e7b2d8c",
       "url": "https://www.elmundo.es/internacional/2025/10/09/68e779d9fdddff182c8b4578.html",
       "title": "Les Gazaouis réagissent avec euphorie à l'annonce d'un accord pour mettre fin à la guerre : \"C'est comme si nous étions nés de nouveau\"",
-      "content_html": "\"Je me suis réveillé avec cette belle nouvelle. Tout le monde parlait de la fin de la guerre, de l'arrivée de l'aide humanitaire et de l'ouverture des frontières. J'éprouve une immense joie\", raconte l'un d'eux.",
+      "content_html": "\"Je me suis réveillé avec cette belle nouvelle. Tout le monde parlait de la fin de la guerre, de l'arrivée de l'aide humanitaire et de l'ouverture des frontières. Je ressens une immense joie\", dit l'un d'eux.",
       "date_published": "2025-10-09T09:09:11+00:00",
       "authors": [
         {
@@ -5187,7 +5364,7 @@
       "id": "675de4b0d4f45a01d0fd42e4317b40bcb561c3ff78983807e0160de0fd6e382a",
       "url": "https://www.dw.com/en/germany-news-government-presents-raft-of-reforms/live-74286362?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Government presents raft of reforms",
-      "content_html": "Chancellor Merz's coalition has agreed to place tight restrictions on welfare recipients and promote the purchase of German-made electric vehicles. The news came ahead of a major auto industry summit. DW has more.",
+      "content_html": "Chancellor Merz's coalition has agreed to place tight restrictions on welfare recipients and promote the purchase of German-made electric vehicles. The news came ahead of a major auto industry summit.",
       "date_published": "2025-10-09T09:03:00+00:00",
       "authors": [],
       "tags": [
@@ -5212,20 +5389,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "d848cc14e2608948b168238f535bef8f582fa4abb652dc20fbfcd70a69d7ac28",
-      "url": "https://ici.radio-canada.ca/info/long-format/2195836/defibrillateur-cardiaque-infarctus-dea",
-      "title": "Où sont les défibrillateurs?",
-      "content_html": "<p>L&#x27;incident cardiaque dont a été victime un joueur de balle-molle de Brossard cet été relance la question.</p>",
-      "date_published": "2025-10-09T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "35f32c964bac91c0b83512c9a3b60484b9387d0333a205d674eae9f03be014c2",
@@ -5258,20 +5421,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "580bb579fc180649990bd52ed70207e29de28f984c1d4c64e02d2a56a4e636d7",
-      "url": "https://www.lemonde.fr/afrique/article/2025/10/09/en-centrafrique-l-opposition-annonce-qu-elle-boycottera-l-election-presidentielle-de-decembre_6645454_3212.html",
-      "title": "En République centrafricaine, l’opposition annonce qu’elle boycottera l’élection présidentielle de décembre",
-      "content_html": "Manifestation de la principale plateforme d’opposition centrafricaine, le Bloc républicain pour la défense de la Constitution (BRDC), contre un troisième mandat du président Faustin-Archange Touadéra, à Bangui, le 4 avril 2025.",
-      "date_published": "2025-10-09T08:45:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -5379,20 +5528,6 @@
       "lang": "en"
     },
     {
-      "id": "d1219f1bdd8b96c06f8542ddf17d000c833306defd701903f1f6a884d74d93d1",
-      "url": "https://www.lemonde.fr/international/article/2025/10/09/prix-nobel-de-la-paix-la-derniere-reunion-du-comite-a-eu-lieu-lundi-il-y-aura-un-laureat-cette-annee-assure-l-institut-nobel_6645447_3210.html",
-      "title": "Prix Nobel de la paix : la dernière réunion du comité a eu lieu lundi ; « il y aura un lauréat cette année », assure l’Institut Nobel",
-      "content_html": "Une photo prise le 25 septembre 2024 à Oslo, en Norvège, montre les répliques de l’avers et du revers de la médaille du prix Nobel de la paix, exposées à l’Institut Nobel norvégien.",
-      "date_published": "2025-10-09T08:18:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7026b7d63d52d0bca95b45c25a38435e3df76e1a5b5357f64c4b7c0749c2edc1",
       "url": "https://www.elmundo.es/internacional/2025/10/09/68e75e81e4d4d8605f8b4583.html",
       "title": "L'UE salue un accord dans lequel elle a été ignorée et dans lequel elle n'a pas non plus voulu figurer : \"Je salue l'annonce sur Gaza qui est basée sur la proposition de Trump\"",
@@ -5409,20 +5544,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4e81008630c8294f06d46d1ebd0e94ab829fa06729ada90a292f91eeb3538e8e",
-      "url": "https://www.lemonde.fr/international/article/2025/10/09/a-portland-avec-humour-des-militants-contredisent-la-description-apocalyptique-de-la-ville-par-donald-trump_6645446_3210.html",
-      "title": "A Portland, avec humour, des militants contredisent la description apocalyptique de la ville par Donald Trump",
-      "content_html": "Un manifestant contre le deploiement des troupes fédérales à Portland, Oregon, États-Unis, le 7 octobre 2025.",
-      "date_published": "2025-10-09T08:09:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -5451,20 +5572,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "ada100f20ddaabbc8085a6144c7fde8cc93c1a62809be54ff91eb1cf95b29677",
-      "url": "https://www.lemonde.fr/international/article/2025/10/09/accord-israel-hamas-l-etat-hebreu-denonce-la-tenue-a-paris-d-une-reunion-sur-le-jour-d-apres-la-guerre-a-gaza_6645443_3210.html",
-      "title": "Accord Israël-Hamas : l’Etat hébreu dénonce la tenue à Paris d’une réunion sur le « jour d’après » la guerre à Gaza",
-      "content_html": "Le ministre des affaires étrangères israélien, Gideon Saar, lors d’une réunion du Conseil de sécurité des Nations unies, au siège de l’organisation, à New York, le 5 août 2025.",
-      "date_published": "2025-10-09T07:59:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -6736,42 +6843,6 @@
       "lang": "fr"
     },
     {
-      "id": "bf22aaa8053eb3b3032ebdeb8b6c94cd76a679af1fd193c0d45a2ea7984f00d4",
-      "url": "https://www.liberation.fr/international/attentat-devant-une-synagogue-a-manchester-lassaillant-avait-dit-faire-allegeance-au-groupe-etat-islamique-20251008_EPFXOL4GRRDJXLIEQBXQZNPB2I/",
-      "title": "Attentat devant une synagogue à Manchester : l’assaillant avait dit faire allégeance au groupe Etat islamique",
-      "content_html": "Sur les lieux de l'attaque, à Manchester, le 4 octobre.",
-      "date_published": "2025-10-08T15:52:06+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3681fcf464b2e714cf140339d34957d2f401405d990fcc48978709e1c198aaec",
-      "url": "https://www.liberation.fr/international/moyen-orient/jerusalem-ben-gvir-ministre-israelien-dextreme-droite-une-nouvelle-fois-sur-lesplanade-des-mosquees-20251008_4IMIRNPDBVFTBK7WC3K7ZQM2UU/",
-      "title": "Jérusalem : Ben-Gvir, ministre israélien d’extrême droite, une nouvelle fois en visite sur l’esplanade des Mosquées",
-      "content_html": "Le ministre israélien de la Sécurité nationale, Itamar Ben-Gvir, en train de prier dans l'enceinte de la mosquée Al-Aqsa pendant la fête juive de Soukkot, dans la vieille ville de Jérusalem, le 8 octobre 2025.",
-      "date_published": "2025-10-08T15:51:16+00:00",
-      "authors": [
-        {
-          "name": "Mila Thiebault,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8883178c5d97eb10e04726ef27730fcbe78f51e83a79dccca14d89a5d952cce1",
       "url": "https://www.lefigaro.fr/international/ursula-von-der-leyen-face-a-la-fronde-des-partis-extremistes-au-parlement-europeen-20251008",
       "title": "Ursula von der Leyen face à la fronde des partis extrémistes au Parlement européen",
@@ -6946,20 +7017,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1e26f21612fb19b4ee4dddc9a1e19563b12151981eecc4a0a0f8c1f26a569e7d",
-      "url": "https://www.bbc.com/news/articles/cn82dv8lrdro?at_medium=RSS&at_campaign=rss",
-      "title": "Somalia to increase Swahili teaching to boost East African ties",
-      "content_html": "The president says it will speed up integration into East Africa, seen as crucial for boosting trade.",
-      "date_published": "2025-10-08T14:24:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -7476,39 +7533,6 @@
       "lang": "en"
     },
     {
-      "id": "038ea2f1a254dd3f4f06b0f52019f3370c20182d0b3d2e3943acb02cd47b4596",
-      "url": "https://www.theguardian.com/environment/2025/oct/08/uk-plastic-waste-exports-to-developing-countries-rose-84-in-a-year-data-shows",
-      "title": "UK plastic waste exports to developing countries rose 84% in a year, data shows",
-      "content_html": "<p>Campaigners say increase in exports mostly to Malaysia and Indonesia is ‘unethical and irresponsible waste imperialism’</p><p>Britain’s exports of plastic waste to developing countries have soared by 84% in the first half of this year compared with last year, according to an analysis of trade data carried out for the Guardian.</p><p>Campaigners described the rise in exports, mostly to Malaysia and Indonesia, as “unethical and irresponsible waste imperialism”.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/08/uk-plastic-waste-exports-to-developing-countries-rose-84-in-a-year-data-shows\">Continue reading...</a>",
-      "date_published": "2025-10-08T06:00:16+00:00",
-      "authors": [
-        {
-          "name": "Karen McVeigh"
-        }
-      ],
-      "tags": [
-        "Plastics",
-        "Waste",
-        "Plastic bags",
-        "Environment",
-        "OECD",
-        "Business",
-        "Global economy",
-        "Malaysia",
-        "Indonesia",
-        "Asia Pacific",
-        "World news",
-        "Europe",
-        "Pollution",
-        "Recycling"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "992982c3b2ed1489c826e06e2a8ca26b2b1e2d92525fa8b64f1d3c2454b88b0c",
       "url": "https://www.lefigaro.fr/international/depuis-londres-la-france-est-regardee-avec-un-soupcon-de-moquerie-et-un-peu-d-inquietude-20251007",
       "title": "Depuis Londres, la France est regardée avec un soupçon de moquerie et un peu d’inquiétude",
@@ -7541,20 +7565,6 @@
       "lang": "en"
     },
     {
-      "id": "b88159e1a8c44e4e5e78bd2957d563b21a75c54cd4c3862fa14940d86a1a9711",
-      "url": "https://www.bbc.com/news/articles/ckgyxyjvyvxo?at_medium=RSS&at_campaign=rss",
-      "title": "'One of the greatest things' - Nigeria's art innovators on display in London",
-      "content_html": "Nigerian Modernism at the Tate spotlights a compelling period in the West African country's history.",
-      "date_published": "2025-10-08T03:48:17+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1df2a2f095328190b84531b5a31b0659e57cee6e95f59a3806db922fad4f7a5f",
       "url": "https://www.bbc.com/news/articles/c5yenwklgdyo?at_medium=RSS&at_campaign=rss",
       "title": "'I sleep with a gas mask on': Life next to Portland protest angering Trump",
@@ -7565,44 +7575,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ed404ca1a1c37163d6e269f95a4f69d001852bc1450396df553a2509ec5386e9",
-      "url": "https://www.bbc.com/news/articles/ceq28jey1xwo?at_medium=RSS&at_campaign=rss",
-      "title": "The deadly dose: Inside India's cough syrup obsession",
-      "content_html": "India’s booming cough syrup market faces scrutiny after contaminated syrups kill multiple children.",
-      "date_published": "2025-10-08T01:12:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "9e46ddba27ba6ded4213438315bee18c3851d2965f408c50390b9c99d82cfdde",
-      "url": "https://www.theguardian.com/world/2025/oct/08/new-zealand-oceans-warming-34-per-cent-faster-than-global-average",
-      "title": "New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds",
-      "content_html": "<p>NZ$180bn worth of housing and $26bn of infrastructure at risk of flooding and storm damage, new government report finds</p><p>New Zealand’s oceans are warming 34% faster than the global average, with NZ$180bn (US$104bn) worth of housing at risk of flooding, a new report about the nation’s marine environment has revealed.</p><p>The ministry of the environment and Stats NZ’s three-yearly update, <a href=\"https://mcusercontent.com/ebebf9501bcd56a598aa9f357/files/2d584549-1445-a5b3-f7dd-73c342c58c32/our_environment_2025_embargoed.pdf\">Our Environment 2025</a>, collates statistics, data and research across five domains – air, atmosphere and climate, freshwater, land, and marine – to paint a picture of the state of New Zealand’s marine environment.</p> <a href=\"https://www.theguardian.com/world/2025/oct/08/new-zealand-oceans-warming-34-per-cent-faster-than-global-average\">Continue reading...</a>",
-      "date_published": "2025-10-08T00:57:22+00:00",
-      "authors": [
-        {
-          "name": "Eva Corlett"
-        }
-      ],
-      "tags": [
-        "New Zealand",
-        "Climate crisis",
-        "Asia Pacific",
-        "Environment",
-        "Oceans"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -9342,22 +9314,6 @@
       "lang": "en"
     },
     {
-      "id": "fb306e5a613f89e97a13ffc6a49c965337f78c94baf3569a2dba358bfb3a2124",
-      "url": "https://www.dw.com/en/german-infrastructure-hit-by-drones-cybercrime-arson/a-74183488?maca=en-rss-en-all-1573-rdf",
-      "title": "German infrastructure hit by drones, cybercrime, arson",
-      "content_html": "The government says Germany's critical infrastructure is under serious threat daily. Fingers have been pointed at Moscow, Beijing and left-wing extremists, but is Berlin prepared to handle a multi-pronged strike?",
-      "date_published": "2025-09-30T10:17:00+00:00",
-      "authors": [],
-      "tags": [
-        "Germany"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "cf2286b39f0eb9678bc2e83f6ee1b91205d1659584498654e946f262a35974a8",
       "url": "https://www.dw.com/en/oktoberfest-overcrowding-sparks-safety-concerns/a-74183387?maca=en-rss-en-all-1573-rdf",
       "title": "Oktoberfest overcrowding sparks safety concerns",
@@ -10252,7 +10208,7 @@
       "id": "02ec9f46297adbfe680a648872bf13f9484bc4df5f90b6a3eac43a1497b87ade",
       "url": "https://elpais.com/internacional/2025-09-14/el-espanto-del-mundo-cabe-en-un-pie-de-foto.html",
       "title": "L'horreur du monde tient dans une légende de photo",
-      "content_html": "Nasser, deux ans, dans un hôpital de Khan Yunis (Gaza).Son père le regarde peu avant de mourir.",
+      "content_html": "Le garçon Nasser, deux ans, dans un hôpital de Khan Yunis (Gaza).Son père le regarde peu avant de mourir.",
       "date_published": "2025-09-14T03:30:01+00:00",
       "authors": [
         {
@@ -10302,38 +10258,6 @@
       "authors": [],
       "tags": [
         "Environment"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "dab7689385159a7948f3dd03af4718e5c43aecd666172c97fd31995cea1a6706",
-      "url": "https://www.dw.com/en/nasa-rover-discovers-potential-signs-of-ancient-life-on-mars/a-73953862?maca=en-rss-en-all-1573-rdf",
-      "title": "NASA rover discovers potential signs of ancient life on Mars",
-      "content_html": "The discovery is among the strongest evidence yet that the red planet may have once harbored life. . However, scientists say more study is needed, ideally in labs on Earth.",
-      "date_published": "2025-09-10T18:35:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0a844edbe8a5cd0adfe93a0f741f98170c761f9608c1079e135480c35c425799",
-      "url": "https://www.dw.com/en/space-law-crisis-outer-space-security-in-an-insecure-world/a-73932818?maca=en-rss-en-all-1573-rdf",
-      "title": "Space law crisis: Outer space security in an insecure world",
-      "content_html": "If we can't get along on Earth, how will we ever get along in space, right? Experts told DW there are reasons to be optimistic.",
-      "date_published": "2025-09-10T12:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "Science"
       ],
       "source": {
         "name": "Deutsche Welle",
