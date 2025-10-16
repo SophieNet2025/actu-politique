@@ -5,25 +5,54 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "2d1a0a72df95218c9c93aa2fa6247e646b5e6e3bb9d8c5c82834c24cfafe23e9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2200039/gouvernement-liberal-mise-liberte-caution-crimes-graves",
-      "title": "Ottawa veut restreindre la mise en liberté sous caution pour les crimes graves",
-      "content_html": "<p>Ottawa veut ainsi mieux «&nbsp;tenir les délinquants violents et récidivistes à l’écart de nos communautés&nbsp;».</p>",
-      "date_published": "2025-10-16T15:37:25+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "bc4b5e8bbc72c97ed2abfb8f608ac20d4a448a3f0f4c627fe5a1e308d09e89d2",
+      "url": "https://elpais.com/internacional/2025-10-16/sebastien-lecornu-supera-la-primera-de-las-dos-mociones-de-censura-gracias-al-apoyo-de-los-socialistas.html",
+      "title": "Le gouvernement français surmonte le premier obstacle majeur grâce au soutien des socialistes",
+      "content_html": "Le Premier ministre français, Sébastien Lecornu, à l'Assemblée nationale.",
+      "date_published": "2025-10-16T16:41:44+00:00",
+      "authors": [
+        {
+          "name": "Daniel Verdú"
+        }
+      ],
+      "tags": [
+        "Sébastien Lecornu",
+        "Francia",
+        "Emmanuel Macron",
+        "Política",
+        "Marine Le Pen",
+        "Mociones censura",
+        "Francia Insumisa",
+        "Agrupación Nacional"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
       "lang": "fr"
+    },
+    {
+      "id": "16b7728c3afb2f7f2651cc76303351b10a264ad065194571ae38fc439765159f",
+      "url": "https://www.ukrinform.net/rubric-ato/4048158-government-works-on-model-for-controlled-arms-exports.html",
+      "title": "Government works on model for controlled arms exports",
+      "content_html": "The Ministry of Defense, together with other ministries and the National Security and Defense Council, is working on a model for arms exports; the first agreements are expected to appear in the near future.",
+      "date_published": "2025-10-16T16:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
     },
     {
       "id": "f4ea613d71122e08bcee27946955f87ec7d4e93b656c30ba4e8acbe40aadad60",
       "url": "https://ici.radio-canada.ca/nouvelle/2200022/canada-vente-maisons-baisse-septembre",
       "title": "Où s’en va le marché immobilier au pays après une baisse des ventes en septembre?",
       "content_html": "<p>Malgré cette baisse, l&#x27;Association canadienne de l&#x27;immobilier est optimiste pour les ventes en 2026.</p>",
-      "date_published": "2025-10-16T15:29:06+00:00",
+      "date_published": "2025-10-16T16:38:45+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -33,11 +62,275 @@
       "lang": "fr"
     },
     {
-      "id": "acec0005936a69c671a7689c36f8cfaa6848901d052793ea2e285c70ffa038a0",
-      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-      "title": "Kenya police fire shots and tear gas at crowds gathered to see body of ex-PM Odinga",
-      "content_html": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
-      "date_published": "2025-10-16T15:27:41+00:00",
+      "id": "6d4e4ac1dc88992d3bba23f879aa8cb27c137d164ffbeae12661f5ca68a69fad",
+      "url": "https://www.france24.com/fr/moyen-orient/20251016-cessez-feu-israel-hamas-gaza-temoignage-destructions-aide-humanitaire",
+      "title": "Cessez-le feu entre Israël et le Hamas : \"les Gazaouis ont recommencé à respirer\"",
+      "content_html": "Sous les ruines, les Gazaouis tentent de renouer avec la vie après deux ans de bombardements israéliens, tandis que le Hamas tente de resserrer son emprise sur le territoire palestinien et que le calme, imposé par le cessez-le-feu, reste suspendu à un fil. Témoignage.",
+      "date_published": "2025-10-16T16:36:21+00:00",
+      "authors": [
+        {
+          "name": "Marc DAOU"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "056e64f7dbf5c53ddbe22d749b82551412ae36737bb951261edbb57230a6e168",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20251016-qu-ils-s-en-aillent-tous-p%C3%A9rou-gen-z-m%C3%A8ne-fronde-contre-syst%C3%A8me-%C3%A0-bout-de-souffle",
+      "title": "\"Qu’ils s’en aillent tous !” : au Pérou, la Gen Z mène la fronde contre un système à bout de souffle",
+      "content_html": "De Lima à Cusco, des milliers de jeunes Péruviens sont descendus dans la rue mercredi 15 octobre pour dénoncer l’instabilité politique, la corruption et l’insécurité. Né sur les réseaux sociaux en septembre, le mouvement s’est transformé en colère nationale après la nomination du président par intérim José Jeri.",
+      "date_published": "2025-10-16T16:35:26+00:00",
+      "authors": [
+        {
+          "name": "Barbara GABEL"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3b8bf1a586af0ee666552aa1bb32fba12a2f9df98d92da86ef706cfde22a3d1a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-face-%C3%A0-la-russie-l-ue-d%C3%A9fend-son-projet-de-mur-antidrones",
+      "title": "Face à la Russie, l'UE défend son projet de \"mur\" anti-drones",
+      "content_html": "La mise en œuvre d'une défense anti-drones dans l'Union européenne face à la menace russe n'est \"plus une option\", après les multiples incursions de drones dans le ciel européen, a jugé jeudi 16 octobre la cheffe de la diplomatie de l'UE Kaja Kallas. Nous en parlons avec Ali Laïdi, notre chroniqueur intelligence économique.",
+      "date_published": "2025-10-16T16:33:30+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4632bd7e627adc2718aa8e7e1fa78d63a34cef689218e53ce2264760fb20c70d",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200082/constitution-quebec-consultations-projet-loi-1",
+      "title": "Constitution du Québec : Simon Jolin-Barrette prêt à tenir une consultation générale",
+      "content_html": "<p>Le ministre cède aux pressions de l&#x27;opposition, qui réclamait qu&#x27;un maximum de groupes puissent se prononcer.</p>",
+      "date_published": "2025-10-16T16:33:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fe6fc56b80e9d2ad30904181b2a73deb31b8adc60e305d91b21bdb50fa61104e",
+      "url": "https://www.theguardian.com/us-news/2025/oct/16/john-bolton-indictment-trump",
+      "title": "Prosecutors expected to ask grand jury to indict Trump critic John Bolton",
+      "content_html": "<p>Potential move against ex-national security adviser comes amid effort to prosecute president’s political enemies</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/16/trump-latest-shutdown-vote-jd-vance-republicans-democrats\">US politics live – latest updates</a></p></li></ul><p>Federal prosecutors are expected to ask a grand jury on Thursday afternoon to indict <a href=\"https://www.theguardian.com/us-news/john-bolton\">John Bolton</a>, the former national security adviser in <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> first term, according to a person familiar with the matter.</p><p>Details of what prosecutors in the US attorney’s office in Maryland will seek remains unknown, but previous case activity, including the search warrant for Bolton’s home, has pointed at charges related to mishandling classified information.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/john-bolton-indictment-trump\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:31:51+00:00",
+      "authors": [
+        {
+          "name": "Hugo Lowell and Sam Levine"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Donald Trump",
+        "John Bolton",
+        "US politics",
+        "FBI",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "56952cfd8a0292bce70482c2a37f77e3ec13760aa47abc1099dd7419827e12c9",
+      "url": "https://www.theguardian.com/world/2025/oct/16/catalonia-socialist-president-salvador-illa-tackling-inequality-separatist-far-right-coexistence-madrid",
+      "title": "Catalonia’s Socialist president: tackling inequality can blunt separatist and far-right voices",
+      "content_html": "<p>In an interview, Salvador Illa tells of ‘pragmatic approach’ as he seeks to persuade voters about benefits of coexistence with Madrid</p><p>Catalonia’s Socialist president has said his party’s focus on tackling inequality can win over voters who are tempted by pro-independence and far-right voices, as he seeks to persuade Catalans of the benefits of coexistence with the central government in Madrid after years of turmoil.</p><p>Salvador Illa, a close ally of Spain’s prime minister, Pedro Sánchez, has been in the post since August 2024 and leads the first Catalan parliament in 44 years without a pro-independence majority.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/catalonia-socialist-president-salvador-illa-tackling-inequality-separatist-far-right-coexistence-madrid\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:31:21+00:00",
+      "authors": [
+        {
+          "name": "Patrick Wintour Diplomatic editor"
+        }
+      ],
+      "tags": [
+        "Catalonia",
+        "Spain",
+        "The far right",
+        "Pedro Sánchez",
+        "Carles Puigdemont",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1ec96b6f72ccda86d3fb3b914cd71061d75641251ed04e5bbf79895b2c73051e",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/en-coree-du-sud-des-centres-de-desintoxication-pour-lutter-contre-la-dependance-au-numerique_6647200_3210.html",
+      "title": "En Corée du Sud, des centres de désintoxication pour lutter contre la dépendance au numérique",
+      "content_html": "Des étudiants devant un magasin à Séoul, le 21 mars 2025.",
+      "date_published": "2025-10-16T16:30:01+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "978bc3568cffdf3694b1f50c98f91725b133f380cbbf2ee2be6aace5b36d8c2e",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-grand-m%C3%A8re-anna-la-barista-la-plus-%C3%A2g%C3%A9e-d-italie",
+      "title": "‘Grand-mère Anna’, la barista la plus âgée d’Italie",
+      "content_html": "\"J’ai commencé à travailler ici à 18 ans, et j’ai toujours fait ce métier.\"\n \nÀ 100 ans, Anna Possi continue de servir des cafés dans son bar de la petite ville de Nebbiuno dans le nord de l’Italie. Et malgré son grand âge, elle n’a pas l’intention de prendre sa retraite.",
+      "date_published": "2025-10-16T16:29:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "af915466ef1e82c537afee38132b4582f1191b2eebcddfad6e74969be2b8e9ce",
+      "url": "https://elpais.com/internacional/2025-10-16/jd-vance-defiende-a-los-jovenes-republicanos-que-declararon-su-amor-por-hitler-en-un-chat-privado.html",
+      "title": "J.D. Vance défend les jeunes Républicains qui ont déclaré leur « amour » pour Hitler lors d’une conversation privée",
+      "content_html": "Le vice-président des États-Unis, J. D. Vance, lors d'une conférence de presse à Washington, le 1er octobre.",
+      "date_published": "2025-10-16T16:28:00+00:00",
+      "authors": [
+        {
+          "name": "Iker Seisdedos García"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "J. D. Vance",
+        "Jóvenes",
+        "Partido Republicano EE UU",
+        "Nazismo",
+        "Racismo",
+        "Violaciones",
+        "Sexismo",
+        "Chat",
+        "Internet"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2f432605d84036a3983deacaf2b7600758518cc7a5da04efef48b782ce1a2d48",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/otages-francais-en-iran-le-quai-d-orsay-denonce-la-condamnation-arbitraire-de-cecile-kohler-et-jacques-paris_6647199_3210.html",
+      "title": "Otages français en Iran : le Quai d’Orsay dénonce la condamnation « arbitraire » de Cécile Kohler et Jacques Paris",
+      "content_html": "Le ministre des affaires étrangères, Jean-Noël Barrot, lors d’une conférence de presse sur le plan de paix au Moyen-Orient, à Paris, le 9 octobre 2025.",
+      "date_published": "2025-10-16T16:27:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c6943d62e089082ebd0a2974ea925997e65fd03127ea8eb4c7aabaecfe908f91",
+      "url": "https://www.dw.com/en/eu-drone-defense-system-operational-in-two-years-kallas/a-74390744?maca=en-rss-en-all-1573-rdf",
+      "title": "EU drone defense system operational in two years: Kallas",
+      "content_html": "EU foreign policy chief Kaja Kallas says no choice but to build up defenses against Russia. Flagship project to cover land, sea, air, space and cyberspace.",
+      "date_published": "2025-10-16T16:27:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6db4ef6b31afc0e5218deb94addaef4197c7aa53b988e108e085d903e035c730",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/16/man-accused-of-killing-georgina-ward-in-2020-appears-in-dudley-court",
+      "title": "Man accused of killing Georgina Ward in 2020 appears in Dudley court",
+      "content_html": "<p>Daniel Birtwistle, 39, faces trial for manslaughter of 24-year-old tattoo artist and other charges including assault</p><p>A man has appeared in court charged with manslaughter, assault and coercive and controlling behaviour.</p><p>Daniel Birtwistle, 39, from Tamworth, Staffordshire, appeared by video link at Dudley magistrates court on Thursday morning, where he spoke only to confirm his name and date of birth.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/16/man-accused-of-killing-georgina-ward-in-2020-appears-in-dudley-court\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:26:17+00:00",
+      "authors": [
+        {
+          "name": "Hannah Al-Othman North of England correspondent"
+        }
+      ],
+      "tags": [
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4b5c014b146c1936ac1e0575c252a0f43f6674a9b490eba7e2102570433ffb27",
+      "url": "https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests",
+      "title": "Brazil to ask countries to quadruple biofuel use, leak suggests",
+      "content_html": "<p>Exclusive: Document sets draft pledge for leaders gathering at climate conference to increase usage of controversial fuels</p><p>Brazil will ask countries to quadruple the global use of controversial biofuels despite concerns from environmental experts, the Guardian has learned.</p><p>A leaked document seen by the Guardian sets out a draft pledge for world leaders gathering at the climate conference next month in Brazil to increase the use of biofuels in the next decade by four times compared with 2024 levels.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:26:14+00:00",
+      "authors": [
+        {
+          "name": "Fiona Harvey and Jonathan Watts"
+        }
+      ],
+      "tags": [
+        "Biofuels",
+        "Environment",
+        "Brazil",
+        "Cop30",
+        "Luiz Inácio Lula da Silva",
+        "Greenhouse gas emissions",
+        "Trees and forests",
+        "Americas",
+        "Energy",
+        "Renewable energy",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "97a8cd8484704644e90aa7b310194ef80906084dc49af9a1562cf9d594f7e359",
+      "url": "https://www.bbc.com/news/articles/c4gkm0243wzo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu 'determined' to pressure Hamas to find remaining dead hostages",
+      "content_html": "The Israeli prime minister's comments come after Hamas said it could not access the bodies of 19 hostages in Gaza.",
+      "date_published": "2025-10-16T16:25:59+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -45,6 +338,989 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "264e0508bf5f285dab553d043f19b7cc82d25acf5574cf803747a6bcbebf8853",
+      "url": "https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles",
+      "title": "Russia bombards Ukraine’s gas sites as Zelenskyy flies to US for Trump meeting",
+      "content_html": "<p>Strikes cause outages in eight regions before Washington talks to discuss US providing Kyiv with cruise missiles</p><p>A massive Russian drone and missile attack has hit gas facilities in eastern Ukraine as the Ukrainian president, Volodymyr Zelenskyy, flew to Washington for a meeting with Donald Trump to discuss the US providing Kyiv with long-range Tomahawk cruise missiles.</p><p>Russia launched hundreds of drones and dozens of missiles, as well as glide bombs early on Thursday, sparking outages in eight regions in another large-scale bombardment targeting Ukraine’s energy network.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:23:36+00:00",
+      "authors": [
+        {
+          "name": "Peter Beaumont in Kharkiv region"
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Volodymyr Zelenskyy",
+        "Donald Trump",
+        "US foreign policy",
+        "Trump administration",
+        "Europe",
+        "World news",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "982731d1fa10adae82c6b667368759fac26b0f0b53dcd684fe74031b93ce6fd7",
+      "url": "https://www.theguardian.com/music/2025/oct/16/taylor-swift-fans-german-museum-fate-of-ophelia-painting",
+      "title": "‘It’s been a shock’: Taylor Swift fans flock to see German museum’s Ophelia",
+      "content_html": "<p>Depiction of Shakespeare character by Friedrich Heyser believed to have inspired pop superstar’s new music video</p><p>A 200-year-old museum in Germany has found itself in the eye of a storm of delighted Taylor Swift fans when it emerged that one of the probable inspirations for the <a href=\"https://www.youtube.com/watch?v=ko70cExuzZM\">music video</a> of her new song The Fate of Ophelia was hanging on its wall.</p><p>In the opening scene of the clip for the first song on Swift’s blockbuster new album The Life of a Showgirl, one of the world’s biggest pop stars assumes the role of the tragic Shakespearean character. <a href=\"https://www.youtube.com/watch?v=ko70cExuzZM&amp;list=PLINj2JJM1jxMKUSiMcZPYvORDFh5sa8XH\">The video</a>, released earlier this month, was watched more than 27m times on YouTube in the first three days.</p> <a href=\"https://www.theguardian.com/music/2025/oct/16/taylor-swift-fans-german-museum-fate-of-ophelia-painting\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:23:05+00:00",
+      "authors": [
+        {
+          "name": "Deborah Cole in Berlin"
+        }
+      ],
+      "tags": [
+        "Taylor Swift",
+        "Music",
+        "Europe",
+        "Culture",
+        "Painting",
+        "Art and design",
+        "Art",
+        "Germany",
+        "Museums",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ba5d46df2f666d2685783da7902e189dfe37beb104577c4c4f26b4574031e73a",
+      "url": "https://elpais.com/internacional/2025-10-16/trump-y-putin-hablaran-este-jueves-antes-de-la-visita-de-zelenski-a-la-casa-blanca.html",
+      "title": "Trump et Poutine s'expriment avant la visite de Zelensky à la Maison Blanche",
+      "content_html": "Donald Trump, ce mercredi, à la Maison Blanche.",
+      "date_published": "2025-10-16T16:21:00+00:00",
+      "authors": [
+        {
+          "name": "Iker Seisdedos García"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Norteamérica",
+        "América",
+        "Donald Trump",
+        "Casa Blanca",
+        "Partido Republicano EE UU",
+        "Partido Demócrata EE UU",
+        "Washington D.C."
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4d3f826d8888698d7af62392a7a17f1f167315a5f8aa556a087ca31a2a9128e2",
+      "url": "https://www.ukrinform.net/rubric-economy/4048154-emergency-power-cuts-introduced-across-ukraine.html",
+      "title": "Emergency power cuts introduced across Ukraine",
+      "content_html": "Emergency power cuts have been introduced across Ukraine.",
+      "date_published": "2025-10-16T16:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "57e242fbe2f1c79f07aecd3c14f90bb8c1eb284d7851dc17621995e5b69ac7cf",
+      "url": "https://www.bbc.com/news/articles/c4gz2ppye5zo?at_medium=RSS&at_campaign=rss",
+      "title": "EU sets 2027 target for anti-drone system to defend against Russia",
+      "content_html": "It is part of a new drive for the 27-member European Union to be ready for conflict by 2030.",
+      "date_published": "2025-10-16T16:19:23+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7a79e5792ae1b7ff7807eea3f419297a1d07406dc8c3b16030fd2eec334cc5af",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-le-cambodge-va-expulser-59-sud-cor%C3%A9ens-li%C3%A9s-%C3%A0-des-centres-d-arnaques-en-ligne-police",
+      "title": "Le Cambodge va expulser 59 Sud-Coréens liés à des centres d'arnaques en ligne (police)",
+      "content_html": "Le Cambodge va expulser vendredi 59 Sud-Coréens impliqués dans des centres d'arnaques en ligne, a annoncé jeudi la police, après que Séoul a dépêché une équipe pour enquêter sur la détention de dizaines de ses ressortissants liés à ces centres.",
+      "date_published": "2025-10-16T16:19:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e21bc12468e18a762c4ffd20069d4990c81ea46ce028228863e5b5966a9357e8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-hommage-%C3%A0-raila-odinga-mouvement-de-panique-apr%C3%A8s-des-tirs-de-la-police",
+      "title": "Hommage à Raila Odinga : mouvement de panique après des tirs de la police",
+      "content_html": "Des dizaines de milliers de Kényans rassemblés jeudi 16 octobre dans un stade de Nairobi en hommage à l'opposant historique Raila Odinga ont fui dans un mouvement de panique après que les forces de sécurités ont tiré et lancé des gaz lacrymogène.",
+      "date_published": "2025-10-16T16:17:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "acec0005936a69c671a7689c36f8cfaa6848901d052793ea2e285c70ffa038a0",
+      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya police fire shots at crowds gathered to see body of ex-PM Odinga",
+      "content_html": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
+      "date_published": "2025-10-16T16:16:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3c0151ffa345ab4b24ec0446c278c40c533049a987b337c1698770ecb4f31abf",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200108/fmsq-negociation-medecin-specialiste-syndicat",
+      "title": "Suspension de la médiation entre Québec et les médecins spécialistes",
+      "content_html": "<p>La Fédération des médecins spécialistes du Québec évoque la préparation de nouveaux moyens de pression.</p>",
+      "date_published": "2025-10-16T16:15:31+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ee1a75476ebea21f421f42cabef71368baf39ace1aa150236b9e3b1242972efe",
+      "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
+      "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – as it happened",
+      "content_html": "<p>Downing Street says had Starmer intervened he would have been interfering in a case related to a previous government. This live blog is closed</p><p><strong>Ward</strong> says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government.</p><p>There is a lot of jeering at this. The Speaker, <strong>Lindsay Hoyle</strong>, reprimands Tom Tugendhat for his interruption.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:15:18+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Conservatives",
+        "China",
+        "Espionage",
+        "Crown Prosecution Service",
+        "Keir Starmer",
+        "Cyberwar",
+        "Dominic Cummings",
+        "Tom Tugendhat",
+        "Bridget Phillipson",
+        "Internet",
+        "Education",
+        "Emily Thornberry"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "69385a4937802cb5a491951b2ce4ddf9f66240e67edb4d8f27882c1e5bbc6466",
+      "url": "https://www.timesofisrael.com/to-the-gas-chamber-young-republicans-members-exposed-for-antisemitic-racist-chat/",
+      "title": "‘To the gas chamber’: Young Republicans members exposed for antisemitic, racist chat",
+      "content_html": "<p>Publication of messages has led some to be fired or job offers pulled, although Vice President JD Vance dismissed controversy, saying people should 'focus on the real issues'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/to-the-gas-chamber-young-republicans-members-exposed-for-antisemitic-racist-chat/\">&#8216;To the gas chamber&#8217;: Young Republicans members exposed for antisemitic, racist chat</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/Screenshot-2025-10-16-at-5.27.37 PM-e1760625139725-1024x640.png\" title=\"&#8216;To the gas chamber&#8217;: Young Republicans members exposed for antisemitic, racist chat\" width=\"160\" /></figure>",
+      "date_published": "2025-10-16T16:15:09+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Republicans",
+        "antisemitism",
+        "racism",
+        "Telegram",
+        "Elise Stefanik",
+        "JD Vance"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0441bf5535d773edab1d554534f19501e1b59d88c42b440a3d0cc0013bb98ff6",
+      "url": "https://www.theguardian.com/politics/2025/oct/16/china-spying-case-dream-job-turns-into-nightmare-for-dpp-stephen-parkinson",
+      "title": "China spying case: dream job turns into nightmare for DPP Stephen Parkinson",
+      "content_html": "<p>After years of openly coveting role as most senior prosecutor in England and Wales, Parkinson now finds himself in firing line over collapsed case</p><p>Stephen Parkinson dreamed of being the most senior prosecutor in England and Wales before he even qualified as a barrister, but now finds himself in a situation more akin to a nightmare.</p><p>As the director of public prosecutions (DPP), Parkinson is facing questions over why he felt he could not proceed with the trial of two men accused of spying for China. He said the case was dropped because <a href=\"https://www.theguardian.com/world/2025/oct/07/china-spies-case-was-dropped-after-government-failed-to-provide-evidence-of-beijing-threat\">prosecutors had tried and failed to obtain a witness statement from the government</a> stating that China posed a current “threat to the national security of the UK”.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/16/china-spying-case-dream-job-turns-into-nightmare-for-dpp-stephen-parkinson\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:14:50+00:00",
+      "authors": [
+        {
+          "name": "Haroon Siddique  and Eleni Courea"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "64288347d7d2598430dd4cc979237173c7404176d7426ba494d04694f9ebea42",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-face-%C3%A0-la-russie-l-europe-veut-un-mur-anti-drones-d-ici-2027",
+      "title": "Face à la Russie, l'Europe veut un mur \"anti-drones\" d'ici 2027",
+      "content_html": "La mise en oeuvre d'une défense antidrones dans l'Union européenne face à la menace russe n'est \"plus une option\", après les multiples incursions de drones dans le ciel européen, a jugé jeudi la cheffe de la diplomatie de l'UE Kaja Kallas. Notre correspondant Gulliver Cragg nous en dit plus.",
+      "date_published": "2025-10-16T16:14:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6b9abf13941e5f9bdf648d5e8c2c2c4070099057f723b95763acb4d822390c6e",
+      "url": "https://www.aljazeera.com/news/2025/10/16/what-to-know-about-the-new-york-city-mayoral-debates?traffic_source=rss",
+      "title": "What to know about the New York City mayoral debates",
+      "content_html": "Zohran Mamdani and Andrew Cuomo will face off in two debates ahead of the November 4 election for New York City mayor.",
+      "date_published": "2025-10-16T16:14:33+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc0646c73699073e1c9187e7ed204853837f08e0e6a7d9d73ac870fbdac29aa8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-tirs-dans-un-stade-de-nairobi-l-hommage-%C3%A0-raila-odinga-se-mue-en-mouvement-de-panique",
+      "title": "Tirs dans un stade de Nairobi, l'hommage à Raila Odinga se mue en mouvement de panique",
+      "content_html": "Des tirs des forces de sécurité kényanes ont brutalement transformé jeudi en mouvement de panique l'hommage à l'opposant historique Raila Odinga, décédé la veille en Inde, des dizaines de milliers de personnes évacuant un stade de Nairobi en quelques minutes. Nous en parlons avec notre correspondant régional Bastien Renouil.",
+      "date_published": "2025-10-16T16:12:34+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2d1a0a72df95218c9c93aa2fa6247e646b5e6e3bb9d8c5c82834c24cfafe23e9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200039/gouvernement-liberal-mise-liberte-caution-crimes-graves",
+      "title": "Ottawa veut restreindre la mise en liberté sous caution pour les crimes graves",
+      "content_html": "<p>Ottawa veut ainsi mieux «&nbsp;tenir les délinquants violents et récidivistes à l’écart de nos communautés&nbsp;».</p>",
+      "date_published": "2025-10-16T16:12:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "84bad3943b0270921786e3463d5f3ede40dd84b9ac7586c0a8f5deac1f57c069",
+      "url": "https://www.theguardian.com/world/2025/oct/16/kanchha-sherpa-last-surviving-member-of-first-team-to-reach-mount-everest-summit-dies",
+      "title": "Last surviving member of first team to conquer Everest dies aged 92",
+      "content_html": "<p>Kanchha Sherpa was part of expedition that put Tenzing Norgay and Edmund Hillary atop world’s highest peak in 1953</p><p>Kanchha Sherpa, the last surviving member of the mountaineering expedition team that first conquered Mount Everest, has died at the age of 92, according to the Nepal Mountaineering Association.</p><p>Kanchha died early on Thursday at his home in Kapan, Kathmandu district, said Phur Gelje Sherpa, the association’s president.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/kanchha-sherpa-last-surviving-member-of-first-team-to-reach-mount-everest-summit-dies\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:12:02+00:00",
+      "authors": [
+        {
+          "name": "Associated Press in Kathmandu"
+        }
+      ],
+      "tags": [
+        "Mount Everest",
+        "Mountaineering",
+        "Nepal",
+        "South and central Asia",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bef9e5fd79aa1c50b88cddf28862bd94dc49e48bd5c61bb23ace8c76fce01228",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200113/carney-pdg-stellantis-brampton",
+      "title": "Carney dit que le PDG de Stellantis a présenté des options pour Brampton",
+      "content_html": "<p>M.&nbsp;Carney assure aussi qu’un soutien serait fourni aux travailleurs locaux.</p>",
+      "date_published": "2025-10-16T16:10:38+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ea93c11f8e2fbebb0db35a382970aeca65f7e0b29143d70eac106131531f60c8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-venezuela-%C3%A9tats-unis-escalade-militaire-sur-fond-de-narcotrafic",
+      "title": "Venezuela-États-Unis : escalade militaire sur fond de narcotrafic",
+      "content_html": "Le président américain Donald Trump a indiqué mercredi 16 octobre avoir autorisé des actions clandestines de la CIA contre le Venezuela et envisager des frappes sur le territoire vénézuélien, déclenchant la colère de Caracas qui s'est insurgé contre \"les coups d'Etats fomentés\" par la principale agence américaine de renseignement extérieur. Nous en parlons avec notre correspondant à Washington Matthieu Mabin.",
+      "date_published": "2025-10-16T16:10:16+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3e49b4ba3c13d0269528e190bf6e8aff9aa6db7e4c260ce31050ccc0fc985842",
+      "url": "https://www.dw.com/en/lenacapavir-hiv-shot-stirs-debate-in-zimbabwe/a-74354459?maca=en-rss-en-all-1573-rdf",
+      "title": "Lenacapavir HIV shot stirs debate in Zimbabwe",
+      "content_html": "Zimbabwe is among 10 nations rolling out lenacapavir, a twice-yearly HIV prevention shot. Experts call it a breakthrough, but locals question its cost, safety, and accessibility.",
+      "date_published": "2025-10-16T16:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "57824d62dbf2089dc70c4828ae12ba8f5871d91a9af7025df881e61d3f8fd643",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-iran-les-proches-de-kohler-et-paris-exhortent-l-etat-fran%C3%A7ais-%C3%A0-les-faire-lib%C3%A9rer",
+      "title": "Iran : les proches de Kohler et Paris exhortent l'État français à les faire libérer",
+      "content_html": "Les familles de Cécile Kohler et Jacques Paris, détenus en Iran depuis plus de trois ans, ont alerté jeudi 16 octobre sur la situation de leurs proches, dont \"la survie\" est désormais en jeu selon elles, et exhorté l'Etat français à les faire libérer immédiatement.",
+      "date_published": "2025-10-16T16:05:57+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "52b2f9d4f8e7102a104afcc49ab2d15fe9ee2c89fc6549161682d6276e2471e6",
+      "url": "https://www.france24.com/en/economy/20251016-cat-mouse-sport-ai-generated-videos",
+      "title": "Did a cat really drop a mouse in its owner's mouth? How to spot new AI-generated videos",
+      "content_html": "A viral video on TikTok, allegedly surveillance footage of a cat dropping a mouse into its sleeping owner's mouth, is actually a fake. The clip was generated using next-generation artificial intelligence, possibly Sora 2.",
+      "date_published": "2025-10-16T16:04:26+00:00",
+      "authors": [
+        {
+          "name": "The FRANCE 24 Observers"
+        }
+      ],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "61219c01d767cf24362f292a05555bd490bc7f0471a192f51646eb66809e0a48",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-kenya-mouvement-de-panique-lors-d-un-hommage-%C3%A0-raila-odinga",
+      "title": "Kenya : mouvement de panique lors d’un hommage à Raila Odinga",
+      "content_html": "Sur ces images, des dizaines de milliers de personnes s'enfuient dans la panique alors que les forces de sécurité kenyanes tirent des coups de feu dans un stade à #Nairobi. La foule était rassemblée pour voir le cercueil du leader de l'opposition Raila #Odinga. Plusieurs personnes ont été blessées.",
+      "date_published": "2025-10-16T16:04:14+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ba4fbb7a235e12d09a354bfd597293d29a18c811ec88360b8e6272236a0381a5",
+      "url": "https://www.theguardian.com/society/2025/oct/16/woman-who-travelled-with-husband-to-assisted-dying-clinic-will-not-face-charges",
+      "title": "UK woman who travelled with husband to assisted dying clinic will not face charges",
+      "content_html": "<p>Louise Shackleton faced ‘excruciating pressure’ while awaiting decision of CPS, which said prosecution not in public interest</p><p>A woman who accompanied her husband to an assisted dying clinic in Switzerland has been told she will not face charges.</p><p>Louise Shackleton, 59, handed herself in to police on her return from a Dignitas clinic after the death of her husband, Anthony, last December. North Yorkshire police said this week that although the Crown Prosecution Service concluded there was evidence of assisted suicide, it was not in the public interest to prosecute her.</p> <a href=\"https://www.theguardian.com/society/2025/oct/16/woman-who-travelled-with-husband-to-assisted-dying-clinic-will-not-face-charges\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:04:10+00:00",
+      "authors": [
+        {
+          "name": "Harriet Sherwood"
+        }
+      ],
+      "tags": [
+        "Assisted dying",
+        "Crown Prosecution Service",
+        "UK news",
+        "Society",
+        "Law",
+        "North Yorkshire",
+        "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "eca29b1d94049679d7877b601f4b365d106a8ccb072358479251ec49fecc8abc",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200095/trump-poutine-discussion-russie-ukraine",
+      "title": "Donald Trump dit avoir une « longue » discussion avec Vladimir Poutine",
+      "content_html": "<p>La discussion téléphonique précède la visite du président ukrainien à la Maison-Blanche.</p>",
+      "date_published": "2025-10-16T16:03:40+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1fa061d65cac229fa3a9079362397f9cf97513f1b8f78f966ef378dc6f2422af",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20251016-record-de-co2-et-for%C3%AAts-tropicales-%C3%A0-bout-de-souffle-la-plan%C3%A8te-suffoque",
+      "title": "Record de CO2 et forêts tropicales à bout de souffle : la planète suffoque",
+      "content_html": "C’est un signal très inquiétant pour le climat : les forêts tropicales du Queensland (Australie), longtemps considérées comme des \"poumons verts\", relâchent aujourd’hui plus de CO₂ qu’elles n’en absorbent. En cause : le réchauffement climatique, qui provoque sécheresses, cyclones et hausse de la mortalité des arbres. Ce phénomène inquiète, car il réduit la capacité de la planète à stocker le carbone, alors que le taux de CO2 a atteint un niveau record en 2024.",
+      "date_published": "2025-10-16T16:03:19+00:00",
+      "authors": [
+        {
+          "name": "Noémie ROCHE"
+        }
+      ],
+      "tags": [
+        "Élément Terre, la quotidienne"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e54c22d47360c33d45b7b770c18771e134766d78958ee952cb0ce2bf91827bdc",
+      "url": "https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa",
+      "title": "Arkansas man, arrested over perfume bottle police mistook for ‘opium’, seeks to restore visa",
+      "content_html": "<p>Police thought bottle contained drugs and arrested Kapil Raghu, who was then taken into custody by Ice</p><p>An Arkansas man who was detained for a month by US Immigration and Customs Enforcement (Ice) after authorities mistook his bottle of perfume for opium is seeking to have his visa status restored after the charges were dropped.</p><p>Kapil Raghu, an Indian national married to an American woman and working towards American citizenship, was detained on 3 May after police officers in Benton, a suburb of Little Rock, pulled him over for having a non-moving traffic violation, according to his attorney, Mike Laux.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/03/arkansas-arrest-ysl-opium-perfume-immigration-visa\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:02:49+00:00",
+      "authors": [
+        {
+          "name": "Coral Murphy Marcos"
+        }
+      ],
+      "tags": [
+        "Arkansas",
+        "Ice (US Immigration and Customs Enforcement)",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b431896a6fbc3258ca3f3e6715847a3899c33147bdd308fa5c39f0fb351293ac",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-gaza-80-des-b%C3%A2timents-ont-%C3%A9t%C3%A9-d%C3%A9truits-selon-l-onu",
+      "title": "Gaza : 80% des bâtiments ont été détruits, selon l'ONU",
+      "content_html": "Les Palestiniens rentrés chez eux à Gaza-ville après le cessez-le-feu n'ont trouvé que des décombres à la place de leurs maisons. Ils tentent de mettre en place des abris de fortune en utilisant tout ce qu'ils peuvent trouver parmi les débris.",
+      "date_published": "2025-10-16T16:02:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dcc695e082302f5fbdf9a89b503e901aa24fc28f77943866b5146af12f05262e",
+      "url": "https://www.theguardian.com/world/2025/oct/16/indigenous-and-environmental-leaders-in-ecuador-say-they-are-facing-state-intimidation",
+      "title": "Indigenous and environmental leaders in Ecuador say they are facing state intimidation",
+      "content_html": "<p>Critics say referendum on rewriting country’s eco-friendly constitution is president’s latest pro-extractivist move</p><p>Indigenous and environmental leaders in Ecuador say they are facing a wave of state intimidation ahead of a national referendum next month on whether to rewrite the world’s only constitution that recognises the rights of nature.</p><p>The pressure is being applied by the <a href=\"https://www.theguardian.com/world/2025/apr/14/ecuador-presidential-election-daniel-noboa\">rightwing president, Daniel Noboa</a>, who has begun his second term with a Trumpian agenda of consolidating power and sweeping away legal and social barriers to extractivist businesses, such as mining.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/indigenous-and-environmental-leaders-in-ecuador-say-they-are-facing-state-intimidation\">Continue reading...</a>",
+      "date_published": "2025-10-16T16:00:46+00:00",
+      "authors": [
+        {
+          "name": "Jonathan Watts"
+        }
+      ],
+      "tags": [
+        "Ecuador",
+        "Environment",
+        "Americas",
+        "World news",
+        "Indigenous peoples"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8d9796578e01110aa3f9473357d8526188298dd2d068aadb7df545f75dded67e",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/en-turquie-meme-apres-deux-decennies-d-erdogan-personne-ne-s-attendait-a-une-telle-escalade-dans-l-arbitraire_6647194_3210.html",
+      "title": "En Turquie, « même après deux décennies d’Erdogan, personne ne s’attendait à une telle escalade dans l’arbitraire »",
+      "content_html": "Les portraits du maire d’Istanbul, Ekrem Imamoglu, et d’autres responsables politiques actuellement en détention, lors du congrès extraordinaire du Parti républicain du peuple, à Ankara, le 21 septembre 2025.",
+      "date_published": "2025-10-16T16:00:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "43a10132d0296d1a09958dac7d5ea74f226f455251777ab1858305818f8668de",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/en-republique-tcheque-filip-turek-le-motoriste-trumpiste-qui-joue-avec-les-symboles-nazis_6647193_3210.html",
+      "title": "En République tchèque, Filip Turek, le « motoriste » trumpiste qui joue avec les symboles nazis",
+      "content_html": "Filip Turek, le président d’honneur du parti des Motoristes, à Prague, le 13 octobre 2025.",
+      "date_published": "2025-10-16T16:00:10+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3454f86a48e3b1236e0051ece94738d20aaacb3bd21fe58b84839121828f638f",
+      "url": "https://www.lefigaro.fr/international/face-a-des-menaces-tous-azimuts-l-europe-veut-son-mur-antidrones-en-2027-20251016",
+      "title": "Face à des menaces tous azimuts, l’Europe veut son mur antidrones en 2027",
+      "content_html": "Kaja Kallas, chef de la diplomatie européenne à Kiev, en Ukraine, le 13 octobre 2025.",
+      "date_published": "2025-10-16T16:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f9f735c165cddf234dac60622371c50a037e7cbb296ca9723434d86b838c8a0d",
+      "url": "https://www.ukrinform.net/rubric-ato/4048148-russians-attack-mobile-office-of-ukrposhta-in-kherson-region-with-drone-one-person-injured.html",
+      "title": "Russians attack mobile office of Ukrposhta in Kherson region with drone, one person injured",
+      "content_html": "A Russian drone attacked a mobile office of Ukrposhta, Ukraine's National Post, near the village of Shyroka Balka in the Kherson region, injuring the driver.",
+      "date_published": "2025-10-16T15:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a1412c1d903013087385d51cd83a22b293a5f34fe4cd16674b131e900410dfbb",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/16/great-british-railways-clock-launches-london-bridge",
+      "title": "Timely arrival: Great British Railways clock launches at London Bridge",
+      "content_html": "<p>Digital timepiece is UK rail’s first national clock in more than 50 years and will be seen at stations across the country</p><p>Commuters rushing through London Bridge station on Thursday morning may have missed it, but a new era in railway timekeeping and design was looming above them: a 1.8-metre-high digital timepiece, hanging above the concourse, the first physical manifestation of what will be <a href=\"https://www.theguardian.com/business/2025/may/19/labour-great-britain-railways-south-western-lower-fares\">Great British Railways</a>’ signature station clock.</p><p>The design, the first such for more than 50 years, will appear in digital form on electronic information boards at stations across the country.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/16/great-british-railways-clock-launches-london-bridge\">Continue reading...</a>",
+      "date_published": "2025-10-16T15:58:47+00:00",
+      "authors": [
+        {
+          "name": "Gwyn Topham Transport correspondent"
+        }
+      ],
+      "tags": [
+        "Rail transport",
+        "Transport",
+        "London",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5c74f5899d6891a8765b513856eee0333dd059985bc08c2617017e18fdcff51c",
+      "url": "https://www.timesofisrael.com/knesset-winter-session-to-open-with-annexation-push-but-pm-unlikely-to-back-effort/",
+      "title": "Knesset winter session to open with annexation push, but PM unlikely to back effort",
+      "content_html": "<p>Ministerial committee likely won't advance bills to apply sovereignty to West Bank despite significant parliamentary support, as coalition source labels efforts as 'political spin'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/knesset-winter-session-to-open-with-annexation-push-but-pm-unlikely-to-back-effort/\">Knesset winter session to open with annexation push, but PM unlikely to back effort</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/F191016GE06-1024x640.jpg\" title=\"Knesset winter session to open with annexation push, but PM unlikely to back effort\" width=\"160\" /></figure>",
+      "date_published": "2025-10-16T15:55:26+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Israeli politics",
+        "Limor Son Har-Melech",
+        "Otzma Yehudit",
+        "Oded Forer",
+        "Avigdor Liberman",
+        "Yisrael Beytenu party",
+        "West Bank annexation",
+        "Avi Maoz",
+        "Likud party",
+        "Ohad Tal",
+        "Religious Zionism Party"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1204500837d754e7a7bec2357885b7a0e04c616a32da85516cffb82d62251687",
+      "url": "https://www.dw.com/en/japanese-fear-for-future-as-summers-grow-longer-hotter/a-74384753?maca=en-rss-en-all-1573-rdf",
+      "title": "Japanese fear for future as summers grow longer, hotter",
+      "content_html": "Heat lingers on in Japan after its hottest summer on record, with many voices warning of its impact on agriculture, fishing, public health and even extreme weather events such as typhoons.",
+      "date_published": "2025-10-16T15:53:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "58a578fd75ca9998aa26b6c57eea3c80f10555f687a9c555d7516743cf0dbfb1",
+      "url": "https://www.france24.com/en/video/20251016-kenya-panic-breaks-out-during-a-tribute-to-raila-odinga",
+      "title": "Kenya: Panic breaks out during a tribute to Raila Odinga",
+      "content_html": "In this footage, tens of thousands of people are seen fleeing in panic as Kenyan security forces open fire in a stadium in #Nairobi on October 16. The crowd had gathered to pay tribute to opposition leader Raila #Odinga. Several people were injured.",
+      "date_published": "2025-10-16T15:52:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2e46cb6d2a9d6dc1b868f87a8db5cf26a339645d75f1180afadfd389b3e392a5",
+      "url": "https://www.dw.com/en/kenya-security-forces-fire-at-crowds-at-odinga-funeral/a-74390855?maca=en-rss-en-all-1573-rdf",
+      "title": "Kenya: Security forces fire at crowds at Odinga funeral",
+      "content_html": "Kenyan security forces fired live rounds in the air in an attempt at crowd control, as tens of thousands gathered in a stadium.",
+      "date_published": "2025-10-16T15:52:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e30a493573c837cec9773eb8d5059f94487024e6289344fa1430278003d6d0d4",
+      "url": "https://www.aljazeera.com/news/2025/10/16/yemens-houthis-say-military-chief-killed-as-israel-claims-responsibility?traffic_source=rss",
+      "title": "Yemen’s Houthis say military chief killed as Israel claims responsibility",
+      "content_html": "Group says its Chief of Staff Mohammed Abdulkarim al-Ghamari was killed &#039;while fulfilling his duties&#039;.",
+      "date_published": "2025-10-16T15:49:45+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a5e7aa7ab9d41296ca990875936a686fd1a8693893f23f5337ade4c2ee15a418",
+      "url": "https://www.dw.com/en/can-nuclear-power-help-curb-global-shipping-s-huge-carbon-footprint/a-74335799?maca=en-rss-en-all-1573-rdf",
+      "title": "Can nuclear power help curb global shipping's huge carbon footprint?",
+      "content_html": "With most cargo vessels still running on dirty bunker oil, the global shipping industry is desperate to meet its CO2 reduction targets. Has it overlooked the most obvious contender — nuclear energy — to power its ships?",
+      "date_published": "2025-10-16T15:49:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "86e7eeffcb0634762a4a404f304d5038ba5a17ab7d22085cb88003c470ad78c5",
+      "url": "https://www.lefigaro.fr/international/galvanise-par-la-fin-de-la-guerre-a-gaza-donald-trump-se-concentre-sur-l-ukraine-20251016",
+      "title": "Galvanisé par la fin de la guerre à Gaza, Donald Trump se concentre sur l’Ukraine",
+      "content_html": "Le président ukrainien Volodymyr Zelensky et le président américain Donald Trump.",
+      "date_published": "2025-10-16T15:45:43+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f5f3df95e8036565b37c07c63155009a538a1392afcff78987d937e7c6ac6a1d",
+      "url": "https://www.liberation.fr/international/europe/en-russie-une-jeune-artiste-arretee-pour-avoir-interprete-en-pleine-rue-des-chansons-anti-kremlin-20251016_B62VBNFMUNBMZLMFI2CPCDLNXU/",
+      "title": "En Russie, une jeune artiste arrêtée pour avoir interprété en pleine rue des chansons anti-Kremlin",
+      "content_html": "Diana Loginova, à l'extérieur d'un tribunal de Saint-Pétersbourg, le 16 octobre 2025.",
+      "date_published": "2025-10-16T15:44:05+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ea5329a3ce7191254105a712ce9479042b1f47417f25ea662a02666c58899c92",
+      "url": "https://www.france24.com/en/video/20251016-french-pair-imprisoned-in-iran-over-alleged-spying-have-reached-the-limit-families-say",
+      "title": "French pair imprisoned in Iran over alleged spying have 'reached the limit,' families say",
+      "content_html": "As France denounced an 'arbitrary sentence' against French nationals detained in Iran, Cécile Kohler and Jacques Paris' families have called for the French government to act to try and get them liberated as quickly as possible. The couple has been detained since 2022 and were sentenced on October 14, 2025 to a cumulated 63 years in prison.",
+      "date_published": "2025-10-16T15:43:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8829dbfa8474c302bb4bd45a12e471a7aeef2060836e9aa3ee72fc1fe4a2bf4c",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/l-ue-relance-un-partenariat-avec-les-pays-du-sud-de-la-mediterrannee_6647191_3210.html",
+      "title": "L’UE relance un partenariat avec les pays du sud de la Méditerrannée",
+      "content_html": "Dubravka Suica, la commissaire à la Méditerranée, à Bruxelles, le 16 octobre 2025.",
+      "date_published": "2025-10-16T15:42:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c809013d308bd611b7f73295d73945e81c83275e818a6229c0655d9692c54b72",
+      "url": "https://www.theguardian.com/us-news/2025/oct/16/trump-dei-human-trafficking",
+      "title": "Trump’s DEI bans undermine anti-human trafficking law, lawsuit alleges",
+      "content_html": "<p>Suit comes after Guardian investigation found administration rolled back efforts to combat human trafficking while Trump officials deny retreat</p><p>A lawsuit by a national coalition of more than 50 organizations that fight human trafficking charges that the Trump administration’s bans on diversity, equity and inclusion efforts amount to unlawful censorship and undermine the US’s landmark anti-trafficking law.</p><p>The <a href=\"https://www.lawyerscommittee.org/wp-content/uploads/2025/10/FNUSA.pdf\">lawsuit</a> alleges that two anti-DEI executive orders issued by Trump in January harm the ability of anti-trafficking groups to “zealously advocate for survivors” and violate the intent of the Trafficking Victims Protection Act (TVPA), a quarter-century-old law designed to eradicate sexual slavery and forced labor.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/trump-dei-human-trafficking\">Continue reading...</a>",
+      "date_published": "2025-10-16T15:41:58+00:00",
+      "authors": [
+        {
+          "name": "Aaron Glantz"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Human trafficking",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "45d09b02478adac162a2c5ac585801719f84f95bc1ae22c9300e0a471261ec29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/what-we-know-about-the-fighting-on-the-pakistan-afghan-border?traffic_source=rss",
+      "title": "What we know about the fighting on the Pakistan-Afghan border",
+      "content_html": "After days of cross-border fighting, Pakistan and Afghan Taliban authorities agreed a temporary ceasefire.",
+      "date_published": "2025-10-16T15:40:44+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6b0dc140624c8f38df1c9ceec1db5d21435a1661b0db8192fcf4f0ea2492176b",
+      "url": "https://www.ukrinform.net/rubric-ato/4048141-ukrainian-strikes-on-oil-refineries-cause-russia-more-damage-than-sanctions-budanov.html",
+      "title": "Ukrainian strikes on oil refineries cause Russia more damage than sanctions — Budanov",
+      "content_html": "Ukrainian strikes on oil refineries caused more damage to the Russian economy than international sanctions.",
+      "date_published": "2025-10-16T15:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e2c7d2fdc6b9e70078f1dbbc627b2b5ded70fa3fdf4c35862ada6f5df8c812f9",
+      "url": "https://www.lemonde.fr/international/article/2025/10/16/le-vatican-prone-plus-de-transparence-dans-la-facon-dont-sont-traitees-les-plaintes-de-victimes-de-violences-sexuelles_6647190_3210.html",
+      "title": "Le Vatican prône plus de transparence dans la façon dont sont traitées les plaintes de victimes de violences sexuelles",
+      "content_html": "Le pape Léon XIV et l’archevêque Thibault Verny,  président de la commission pontificale pour la protection des mineurs, au Vatican, le 12 septembre 2025.",
+      "date_published": "2025-10-16T15:38:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7de0e799cb7b770586d818c54a944ff6a238b102226e929d999619e78f10f27a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-france-lecornu-survit-%C3%A0-deux-motions-de-censure-gr%C3%A2ce-%C3%A0-l-abstention-du-ps",
+      "title": "France : Lecornu survit à deux motions de censure grâce à l'abstention du PS",
+      "content_html": "Le Premier ministre Sébastien Lecornu a échappé jeudi 16 octobre à deux motions de censure du Rassemblement national (RN) et de La France insoumise (LFI), à la faveur du soutien temporaire du Parti socialiste (PS) après son recul sur la réforme des retraites.",
+      "date_published": "2025-10-16T15:35:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "142ce5fd591ec8cff3b6295a2bb92b2c6a0352e430082c1c31cab457a1a30b21",
+      "url": "https://www.theguardian.com/law/2025/oct/16/pets-on-flights-can-be-classed-as-baggage-iberia",
+      "title": "Pets on flights can be classed as baggage, top EU court rules",
+      "content_html": "<p>European court of justice asked to intervene after dog was lost on journey from Buenos Aires to Barcelona</p><p>Pets on flights can be classified as baggage, the European court of justice (ECJ) has ruled, meaning airlines are not required to pay higher compensation if the animal is lost.</p><p>Europe’s highest court was asked to intervene after a dog was lost during a journey from Buenos Aires to Barcelona, triggering a claim for losses from the owner.</p> <a href=\"https://www.theguardian.com/law/2025/oct/16/pets-on-flights-can-be-classed-as-baggage-iberia\">Continue reading...</a>",
+      "date_published": "2025-10-16T15:34:54+00:00",
+      "authors": [
+        {
+          "name": "Lisa O’Carroll"
+        }
+      ],
+      "tags": [
+        "Court of justice of the European Union",
+        "Iberia",
+        "Europe",
+        "Airline industry",
+        "Law",
+        "Dogs",
+        "Pets",
+        "World news",
+        "Air transport",
+        "Animals",
+        "Spain"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6d283ea0addddde2c3bbb1fdc2b329484abe1a05c1e8f412776eda5edd894509",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-premier-mariage-homosexuel-en-france-j-ai-re%C3%A7u-environ-4000-lettres-d-insultes",
+      "title": "Premier mariage homosexuel en France: \"J'ai reçu environ 4000 lettres d'insultes\"",
+      "content_html": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Écologie, journalisme, politique... Cette semaine, c'est l'ancien député et premier maire en France à avoir célébré un marriage homosexuel, Noël Mamère, qui a répondu à ses questions.",
+      "date_published": "2025-10-16T15:33:21+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4bfcba2566bf6225d07c13933a7d7308c2176860c8607451f2443b8f5dc7b734",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-%C3%A9tats-unis-donald-trump-pr%C3%A9sente-sa-maquette-d-arc-de-triomphe",
+      "title": "États-Unis : Donald Trump présente sa maquette d'Arc de Triomphe",
+      "content_html": "Donald Trump a  montré des plans pour son projet d'arche près du mémorial de Lincoln à Washington, dont une option aux dimensions plus imposantes que l'Arc de Triomphe français.",
+      "date_published": "2025-10-16T15:31:20+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "025206d4dfbc436a3b92fc76451e30b0a72a3430d56146aa4d20e69d853dddb0",
@@ -65,6 +1341,26 @@
       "lang": "en"
     },
     {
+      "id": "99c3c56de62dfb0bb4be76af95c73c8ba70a5624ef69cddaec0d30578a477741",
+      "url": "https://www.france24.com/fr/europe/20251016-instant-japon-invite-londres-pour-tournoi-sumo-exceptionnel",
+      "title": "L'instant + : le Japon s’invite à Londres pour un tournoi de sumo exceptionnel",
+      "content_html": "Le Royal Albert Hall, salle de concert londonienne mondialement connue, accueille depuis mercredi et pendant cinq jours un grand tournoi de sumo. Lieu mythique, lutteurs géants et ambiance sacrée transportent le public britannique au cœur des traditions nippones.",
+      "date_published": "2025-10-16T15:25:45+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "88e70f08d15d6a5fd0ae1e93b00273c6943cd106550ad80bebc0b1f45b3cda1b",
       "url": "https://www.timesofisrael.com/hackers-breach-four-north-american-airports-broadcast-anti-israel-messages/",
       "title": "Hackers breach four North American airports, broadcast anti-Israel messages",
@@ -80,6 +1376,22 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a8d7d6231929adc79ec272376bc9c048151262d5512c43f665d8a04b62b0dd10",
+      "url": "https://www.aljazeera.com/sports/2025/10/16/what-to-know-about-trumps-threat-to-take-world-cup-games-from-boston?traffic_source=rss",
+      "title": "FIFA World Cup 2026: What to know about Trump’s threat to move Boston games",
+      "content_html": "United States President Donald Trump has taken aim at Boston over safety concerns ahead of FIFA World Cup 2026 fixtures.",
+      "date_published": "2025-10-16T15:21:53+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -117,8 +1429,8 @@
       "id": "479b648f926a15d1bcbdc1af919d0b947da2f5b5dd4a9707ec342dfc1a942ebe",
       "url": "https://www.lemonde.fr/videos/video/2025/10/16/gaza-le-d9-israelien-un-bulldozer-de-guerre-au-service-de-l-aneantissement-de-l-enclave_6647187_1669088.html",
       "title": "VIDEO Gaza : le D9 israélien, un bulldozer de guerre au service de l’anéantissement de l’enclave",
-      "content_html": "TACTIQUES Importé par dizaines des Etats-Unis, l’engin de chantier militarisé par l’armée israélienne remplit une double fonction, stratégique et politique : protéger les soldats qui pénètrent dans Gaza et raser l’enclave.",
-      "date_published": "2025-10-16T15:19:25+00:00",
+      "content_html": "Importé par dizaines des Etats-Unis, l’engin de chantier militarisé par l’armée israélienne a rempli une double fonction, stratégique et politique : protéger les soldats qui pénètrent dans Gaza et raser l’enclave.",
+      "date_published": "2025-10-16T15:19:21+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -148,36 +1460,6 @@
       "lang": "en"
     },
     {
-      "id": "142ce5fd591ec8cff3b6295a2bb92b2c6a0352e430082c1c31cab457a1a30b21",
-      "url": "https://www.theguardian.com/law/2025/oct/16/pets-on-flights-can-be-classed-as-baggage-iberia",
-      "title": "Pets on flights can be classed as baggage, top EU court rules",
-      "content_html": "<p>European court of justice asked to intervene after dog was lost on journey from Buenos Aires to Barcelona</p><p>Pets on flights can be classified as baggage, the European court of justice (ECJ) has ruled, meaning airlines are not required to pay higher compensation if the animal is lost.</p><p>Europe’s highest court was asked to intervene after a dog was lost during a journey from Buenos Aires to Barcelona, triggering a claim for losses from the owner.</p> <a href=\"https://www.theguardian.com/law/2025/oct/16/pets-on-flights-can-be-classed-as-baggage-iberia\">Continue reading...</a>",
-      "date_published": "2025-10-16T15:17:33+00:00",
-      "authors": [
-        {
-          "name": "Lisa O’Carroll"
-        }
-      ],
-      "tags": [
-        "Court of justice of the European Union",
-        "Iberia",
-        "Europe",
-        "Airline industry",
-        "Law",
-        "Dogs",
-        "Pets",
-        "World news",
-        "Air transport",
-        "Animals",
-        "Spain"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9295eee36003dc23ccd05e5d473a86cd6bbf8fe30b917c248ae64e77f047bec0",
       "url": "https://www.lefigaro.fr/international/donald-trump-objet-geopolitique-non-identifie-sur-la-scene-du-monde-20251016",
       "title": "Donald Trump, objet géopolitique non identifié sur la scène du monde",
@@ -190,6 +1472,26 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1d919062073bd60ae258e9f7250e6b40e8db46cfe623c7f6b8831f35548bfc7f",
+      "url": "https://www.france24.com/fr/europe/20251016-manifestations-pro-israel-paris-londres-new-york-creees-par-ia",
+      "title": "Ces images de manifestations pro-Israël ont été générées par IA",
+      "content_html": "Depuis fin septembre, des vidéos impressionnantes montrant d’immenses manifestations pro-israéliennes à Paris, Londres et New York circulent sur les réseaux sociaux, partagées par un compte de soutien à Israël. Pourtant ces images, spectaculaires par l’ampleur de la foule, ont en réalité été créées par intelligence artificielle.",
+      "date_published": "2025-10-16T15:15:59+00:00",
+      "authors": [
+        {
+          "name": "Les Observateurs"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -232,6 +1534,26 @@
       "lang": "en"
     },
     {
+      "id": "00c693ea1b66764811ccc7577e622182d856ef2f0183a4dd6b3458f9d97f0468",
+      "url": "https://www.elmundo.es/internacional/2025/10/16/68f108b7e4d4d8fc3e8b4588.html",
+      "title": "Jesús Silva, ambassadeur impassible dans le volcan vénézuélien",
+      "content_html": "<strong>\"Ces choses ne se voient pas dans mon pays\", a avoué <strong>Fidel Castro</strong> à un jeune Espagnol de même taille, récemment arrivé dans la carrière diplomatique et",
+      "date_published": "2025-10-16T15:13:58+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [
+        "Venezuela"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "2b5335160e3166bc055d2fcdc1a0f445b71f11b7efe23ec3b0ccc40ab4d927de",
       "url": "https://www.france24.com/en/video/20251016-highly-mediatised-femicide-jtrial-comes-to-a-close",
       "title": "Highly mediatised femicide trial comes to a close",
@@ -246,6 +1568,22 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "203f79134f7ed0cc315a6dfa34f3bbf7e8b9af6f6dd00653bf9b5d3653b2fa53",
+      "url": "https://www.aljazeera.com/video/quotable/2025/10/16/malnutrition-affecting-bond-between-parents-and-gaza-kids?traffic_source=rss",
+      "title": "Malnutrition affecting “bond” between parents and Gaza kids",
+      "content_html": "Dr. Amber Alayyan discusses the long-term effects of malnutrition in developing children in Gaza.",
+      "date_published": "2025-10-16T15:08:04+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -270,36 +1608,6 @@
         "Culture",
         "Europe",
         "Art"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4b5c014b146c1936ac1e0575c252a0f43f6674a9b490eba7e2102570433ffb27",
-      "url": "https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests",
-      "title": "Brazil to ask countries to quadruple biofuel use, leak suggests",
-      "content_html": "<p>Exclusive: Document sets draft pledge for leaders gathering at climate conference to increase usage of controversial fuels</p><p>Brazil will ask countries to quadruple the global use of controversial biofuels despite concerns from environmental experts, the Guardian has learned.</p><p>A leaked document seen by the Guardian sets out a draft pledge for world leaders gathering at the climate conference next month in Brazil to increase the use of biofuels in the next decade by four times compared with 2024 levels.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests\">Continue reading...</a>",
-      "date_published": "2025-10-16T15:07:14+00:00",
-      "authors": [
-        {
-          "name": "Fiona Harvey and Jonathan Watts"
-        }
-      ],
-      "tags": [
-        "Biofuels",
-        "Environment",
-        "Brazil",
-        "Cop30",
-        "Luiz Inácio Lula da Silva",
-        "Greenhouse gas emissions",
-        "Trees and forests",
-        "Americas",
-        "Energy",
-        "Renewable energy",
-        "World news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -354,58 +1662,9 @@
       "lang": "fr"
     },
     {
-      "id": "ee1a75476ebea21f421f42cabef71368baf39ace1aa150236b9e3b1242972efe",
-      "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
-      "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – UK politics live",
-      "content_html": "<p>Downing Street says had Starmer intervened he would have been interfering in a case related to a previous government</p><p><strong>Ward</strong> says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government.</p><p>There is a lot of jeering at this. The Speaker, <strong>Lindsay Hoyle</strong>, reprimands Tom Tugendhat for his interruption.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-10-16T15:04:23+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "China",
-        "Espionage",
-        "Crown Prosecution Service",
-        "Keir Starmer",
-        "Cyberwar",
-        "Dominic Cummings",
-        "Tom Tugendhat",
-        "Bridget Phillipson",
-        "Internet",
-        "Education"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1204500837d754e7a7bec2357885b7a0e04c616a32da85516cffb82d62251687",
-      "url": "https://www.dw.com/en/japanese-fear-for-future-as-summers-grow-longer-hotter/a-74384753?maca=en-rss-en-all-1573-rdf",
-      "title": "Japanese fear for future as summers grow longer, hotter",
-      "content_html": "Heat lingers on in Japan after its hottest summer on record, with many voices warning of its impact on agriculture, fishing, public health and even extreme weather events such as typhoons.",
-      "date_published": "2025-10-16T15:04:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b0ebf9ccc654543bfcaa206509216de68ed32d9ee96e9024ff32fcbcf6cea895",
       "url": "https://www.aljazeera.com/video/fact-check/2025/10/16/donald-trumps-speech-to-the-israels-knesset?traffic_source=rss",
-      "title": "Donald Trump’s speech to the Israel’s Knesset",
+      "title": "Donald Trump’s speech to the Israeli Knesset",
       "content_html": "Trump claimed a “historic dawn of a new Middle East” in his speech to Israel’s Knesset.  We Fact Check his claim.",
       "date_published": "2025-10-16T15:03:16+00:00",
       "authors": [],
@@ -415,34 +1674,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "264e0508bf5f285dab553d043f19b7cc82d25acf5574cf803747a6bcbebf8853",
-      "url": "https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles",
-      "title": "Russia bombards Ukraine’s gas sites as Zelenskyy flies to US for Trump meeting",
-      "content_html": "<p>Strikes cause outages in eight regions before Washington talks to discuss US providing Kyiv with cruise missiles</p><p>A massive Russian drone and missile attack has hit gas facilities in eastern Ukraine as the Ukrainian president, Volodymyr Zelenskyy, flew to Washington for a meeting with Donald Trump to discuss the US providing Kyiv with long-range Tomahawk cruise missiles.</p><p>Russia launched hundreds of drones and dozens of missiles, as well as glide bombs early on Thursday, sparking outages in eight regions in another large-scale bombardment targeting Ukraine’s energy network.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles\">Continue reading...</a>",
-      "date_published": "2025-10-16T15:02:39+00:00",
-      "authors": [
-        {
-          "name": "Peter Beaumont in Kharkiv region"
-        }
-      ],
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "Volodymyr Zelenskyy",
-        "Donald Trump",
-        "US foreign policy",
-        "Trump administration",
-        "Europe",
-        "World news",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -472,12 +1703,12 @@
         }
       ],
       "tags": [
+        "US immigration",
         "Louisiana",
         "Ice (US Immigration and Customs Enforcement)",
         "Rape and sexual assault",
         "Transgender",
         "LGBTQ+ rights",
-        "US immigration",
         "US constitution and civil liberties",
         "US news",
         "Trump administration"
@@ -517,9 +1748,9 @@
       "lang": "fr"
     },
     {
-      "id": "d7e103a0079aec6bcfc29d860fd2f5cf2b3b123743eeea8ef1a5dbb1cfac379c",
-      "url": "https://www.dw.com/en/merz-criticized-for-cityscape-problem-remark-on-migration/a-74390107?maca=en-rss-en-all-1573-rdf",
-      "title": "Merz criticized for cityscape 'problem' remark on migration",
+      "id": "3507d7c75343c0736b35f518e7e89b3473e2688aa43bbf1e9f71860486abc5f4",
+      "url": "https://www.dw.com/en/merz-s-discriminatory-cityscape-migration-remark-draws-ire/a-74390107?maca=en-rss-en-all-1573-rdf",
+      "title": "Merz's 'discriminatory' cityscape migration remark draws ire",
       "content_html": "Greens and Left Party lawmakers have urged Chancellor Friedrich Merz to apologize after he linked migration to a \"problem in the cityscape.\" A government spokesman says critics are \"reading too much into\" the comment.",
       "date_published": "2025-10-16T15:00:00+00:00",
       "authors": [],
@@ -652,61 +1883,82 @@
       "lang": "fr"
     },
     {
-      "id": "754e41a113ac0d74ca44ef8e87a6f7b86220fa2dfc5f356b2084aad54527ac01",
-      "url": "https://www.theguardian.com/politics/2025/oct/16/china-spy-case-row-shows-why-most-mps-prefer-conspiracy-theory-over-cock-up",
-      "title": "Why MPs prefer conspiracy theory over cock-up in China spy case row | John Crace",
-      "content_html": "<p>The facts had changed so MPs simply amended their conspiracy theories to fit the new evidence</p><p>It’s all as clear as mud. If Keir Starmer thought that releasing the three witness statements of the deputy national security adviser (DNSA) Matthew Collins late on Wednesday night was going to make the China spy case row go away, then he was in for a big disappointment.</p><p>There was no way MPs were going to let a story like this out of their clutches. This was their moment to take centre stage. When they could bathe in their own importance. When they could believe that they and national security were one and the same thing.</p><p><strong><a href=\"https://live.theguardian.com/uk/events/1873537?utm_medium=ACQUISITIONS_FOOTER&amp;utm_campaign=Live_event_Year_in_Westminster_2025&amp;utm_content=article_endnotes&amp;utm_term=live&amp;utm_source=GUARDIAN_WEB\">A year in Westminster: John Crace, Marina Hyde and Pippa Crerar</a>.</strong> On Tuesday 2 December, join Crace, Hyde and Crerar as they look back with special guests at another extraordinary year, live at the Barbican in London and livestreamed globally. <a href=\"https://live.theguardian.com/uk/events/1873537?utm_medium=ACQUISITIONS_FOOTER&amp;utm_campaign=Live_event_Year_in_Westminster_2025&amp;utm_content=article_endnotes&amp;utm_term=live&amp;utm_source=GUARDIAN_WEB\">Book tickets here</a></p> <a href=\"https://www.theguardian.com/politics/2025/oct/16/china-spy-case-row-shows-why-most-mps-prefer-conspiracy-theory-over-cock-up\">Continue reading...</a>",
-      "date_published": "2025-10-16T14:48:05+00:00",
+      "id": "06b806327fe4e7e3fb35d67d9218523d3d21c36762dcb0d10eb151764b299a13",
+      "url": "https://www.elmundo.es/internacional/2025/10/16/68f104cefc6c83c5438b45ba.html",
+      "title": "Trump et Poutine s'exprimeront aujourd'hui avant la visite de Zelensky à la Maison Blanche demain",
+      "content_html": "L’Ukraine recherche des États-Unis des missiles Tomahawk à longue portée, ce qui mettrait Moscou et d’autres grandes villes russes à portée de ses missiles.",
+      "date_published": "2025-10-16T14:53:35+00:00",
       "authors": [
         {
-          "name": "John Crace"
+          "name": "Reuters"
         }
       ],
       "tags": [
-        "Politics",
-        "China",
-        "UK security and counter-terrorism",
-        "UK news",
-        "Crime",
-        "Law",
-        "Keir Starmer"
+        "Donald Trump",
+        "Vladimir Putin",
+        "Volodímir Zelenski"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
-      "id": "9a1ae4942c8e0f41633cc2c3c9c33e3b525286606320c9b39fb387e7cd20a8dc",
-      "url": "https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
-      "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
-      "content_html": "<p>Manufacturing and health sectors boost growth but ONS revises down figures for July</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget\">Exclusive:  says higher taxes on wealthy ‘part of budget story’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/16/uk-gdp-economy-growth-august-reeves-budget-imf-business-live-news\">Business live – updates</a></p></li></ul><p>The UK economy expanded by 0.1% in August, according to official figures, giving a lift to Rachel Reeves before next month’s crucial budget.</p><p>A boost from the manufacturing sector helped the economy improve along with a strong performance by the health sector.</p> <a href=\"https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget\">Continue reading...</a>",
-      "date_published": "2025-10-16T14:45:02+00:00",
+      "id": "97564187200a61065eb91b24ea9f6256cf082dc638444eb8d36e25732be4a246",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-trente-ans-de-r%C3%A9clusion-criminelle-requis-contre-c%C3%A9dric-jubillar",
+      "title": "Trente ans de réclusion criminelle requis contre Cédric Jubillar",
+      "content_html": "L'image du jour est celle de Cédric Jubillar.\n \nMercredi 15 octobre au soir, le ministère public a requis 30 ans de réclusion criminelle contre Cédric Jubillar, jugé depuis le 22 septembre pour le meurtre de Delphine, la mère de leurs deux enfants, disparue dans la nuit du 15 au 16 décembre 2020 à Cagnac-les-Mines, un village du Tarn.\n \nLaure Manent, présentatrice du magazine Actuelles France 24, nous en dit plus.",
+      "date_published": "2025-10-16T14:53:32+00:00",
       "authors": [
         {
-          "name": "Phillip Inman"
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9c686e992ff003dff9963f58872eb5038cd2a3262053c2745aa889090577d4ed",
+      "url": "https://www.france24.com/fr/sports/20251016-cyclisme-paul-magnier-sprint",
+      "title": "Cyclisme : qui est Paul Magnier, le jeune prodige français du sprint ?",
+      "content_html": "Seul Tadej Pogacar fait mieux en 2025. À 21 ans, Paul Magnier a déjà remporté 17 victoires cette saison, dont un fabuleux triplé au Tour du Guangxi, jeudi, en Chine. Ambitieux, le jeune sprinteur français de la Soudal-Quick-Step aspire à continuer sur sa lancée en 2025 et à se transformer en sérieux concurrent sur les classiques flandriennes.",
+      "date_published": "2025-10-16T14:50:14+00:00",
+      "authors": [
+        {
+          "name": "Romain HOUEIX"
         }
       ],
       "tags": [
-        "Economic growth (GDP)",
-        "Economic policy",
-        "Economics",
-        "Office for National Statistics",
-        "UK news",
-        "Rachel Reeves",
-        "Business",
-        "Budget",
-        "Budget 2025",
-        "Politics",
-        "Services sector",
-        "Construction industry"
+        "Sports"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
+    },
+    {
+      "id": "530b0eb02b653af87c950d8f7ae3d8b18b7fdd3c1994b1b8dafb8595743d00ab",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-lecornu-%C3%A9chappe-%C3%A0-la-censure-un-succ%C3%A8s-pour-le-premier-ministre",
+      "title": "Lecornu échappe à la censure, \"un succès\" pour le Premier ministre",
+      "content_html": "Sébastien Lecornu a échappé à quelques voix près jeudi 16 octobre à la censure, le Parti socialiste laissant sa chance au Premier ministre en échange de sa promesse de suspendre la réforme des retraites. Les débats budgétaires vont désormais pouvoir commencer à l'Assemblée dès la semaine prochaine. Nous en parlons avec notre invité Olivier Guyottot, enseignant-chercheur en stratégie et sciences politiques à l'INSEEC.",
+      "date_published": "2025-10-16T14:48:57+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "ef5e581d2de0f91a8eb8674491d388b08add20d18f30fb0085936448527c1d73",
@@ -723,30 +1975,40 @@
       "lang": "en"
     },
     {
-      "id": "75e2c1934a9ee26a9a25fdfbafd8cba13082ba807f6b359fe99aba7bf46e3f2a",
-      "url": "https://www.theguardian.com/world/2025/oct/16/russian-cyber-attacks-against-nato-states-up-by-25-in-a-year-analysis-finds",
-      "title": "Russian cyber-attacks against Nato states up by 25% in a year, analysis finds",
-      "content_html": "<p>Microsoft report says sector most targeted by Russian state cyber-activity was government amid warnings of Kremlin’s ‘hybrid warfare’</p><p>Russia has increased cyber-attacks against Nato states by 25% over the past year, according to an analysis, as the Kremlin escalates its “hybrid war” against European countries.</p><p>Microsoft said nine of the top 10 countries most affected by Russian state cyber-activity were members of the Nato alliance and attacks against them had risen by a quarter compared with the previous year.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/russian-cyber-attacks-against-nato-states-up-by-25-in-a-year-analysis-finds\">Continue reading...</a>",
-      "date_published": "2025-10-16T14:44:29+00:00",
+      "id": "e8c3fd5c850e63ae8095bed3d5b11b37a406b250c28643012f0bda0715e57648",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-jacques-louis-david-le-louvre-c%C3%A9l%C3%A8bre-le-bicentenaire-de-sa-disparition",
+      "title": "Jacques-Louis David : le Louvre célèbre le bicentenaire de sa disparition",
+      "content_html": "Il était le grand peintre de la Révolution et de Napoléon. C’est lui qui a peint le célèbre Sacre de l’empereur à Notre-Dame. Artiste ambitieux et très politique, le peintre David entre en majesté au Louvre : une exposition monumentale lui est consacrée.",
+      "date_published": "2025-10-16T14:43:41+00:00",
       "authors": [
         {
-          "name": "Dan Milmo Global technology editor"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Nato",
-        "Russia",
-        "Europe",
-        "World news",
-        "UK news",
-        "Cyberwar",
-        "Hacking"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
+    },
+    {
+      "id": "76aac198589bbc541e0cb4da1ee5e0ecd23516668109ac605f9b3f5fc78378d8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-le-gouvernement-lecornu-ii-%C3%A9chappe-%C3%A0-la-censure-mais-tout-cela-est-%C3%A0-court-terme",
+      "title": "Le gouvernement Lecornu II échappe à la censure, mais \"tout cela est à court terme\"",
+      "content_html": "Le Premier ministre Sébastien Lecornu a échappé jeudi 16 octobre à deux motions de censure, éloignant le spectre d'une dissolution de l'Assemblée nationale et ouvrant la voie à l'examen du budget pour 2026. \"Tout cela est à court terme\", rappelle Richard Werly, correspondant France/Europe pour le quotidien suisse Blick. \"Aujourd'hui, ce gouvernement a un objectif, celui de faire voter un budget.\"",
+      "date_published": "2025-10-16T14:40:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "20450e19a5ad093b6d7d38b17222ed4e8a6f1b067846e60297063a29f1d3282d",
@@ -767,8 +2029,8 @@
     {
       "id": "34c63eb3f57cb1cf73292198a408fe78c5a06de080f3172d4767d1cca4c46b0a",
       "url": "https://www.theguardian.com/us-news/2025/oct/16/government-shutdown-aoc-bernie-sanders-republicans",
-      "title": "Progressives reject Republican promise of healthcare vote to end shutdown",
-      "content_html": "<p>Bernie Sanders and AOC dismiss GOP’s proposition to discuss healthcare subsidies only after government reopens</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/16/trump-latest-shutdown-vote-jd-vance-republicans-democrats\">US politics live – latest updates</a></p></li></ul><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> will hold two more votes on Thursday as the federal government shutdown stretches into its third week<strong> </strong>and prominent progressives in <a href=\"https://www.theguardian.com/us-news/us-congress\">Congress</a> rejected Republican promises to discuss healthcare subsidies after the government is funded.</p><p>The Senate on Thursday afternoon will vote for the 10th time on a short-term <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> funding bill, which needs 60 votes and is expected to fail again. A second vote on Pentagon funding on Thursday could begin the process of fully funding military operations and ending the lapse in military pay if it passes. After the votes, senators are expected to leave Washington for the weekend, almost guaranteeing the shutdown lasts until at least Monday.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/government-shutdown-aoc-bernie-sanders-republicans\">Continue reading...</a>",
+      "title": "Bernie Sanders and AOC reject Republican promise of healthcare vote to end shutdown",
+      "content_html": "<p>Prominent progressives dismiss GOP’s proposition to discuss healthcare subsidies only after government reopens</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/16/trump-latest-shutdown-vote-jd-vance-republicans-democrats\">US politics live – latest updates</a></p></li></ul><p>The <a href=\"https://www.theguardian.com/us-news/us-senate\">US Senate</a> vote to re-open the government failed for a tenth time<strong> </strong>on Thursday after prominent progressives in <a href=\"https://www.theguardian.com/us-news/us-congress\">Congress</a> rejected Republican promises to discuss healthcare subsidies once the government is funded.</p><p>The Senate vote<strong> </strong>on a short-term <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> funding bill failed with just 51 votes. A second vote on Pentagon funding on Thursday could begin the process of fully funding military operations and ending the lapse in military pay if it passes. After the votes, senators are expected to leave Washington for the weekend, almost guaranteeing the shutdown lasts until at least Monday.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/government-shutdown-aoc-bernie-sanders-republicans\">Continue reading...</a>",
       "date_published": "2025-10-16T14:39:40+00:00",
       "authors": [
         {
@@ -809,6 +2071,24 @@
       "lang": "en"
     },
     {
+      "id": "01d596a31c9bae30c123745ee4c4b17530737f48d85c62064ca837c30782f6b1",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-trump-a-autoris%C3%A9-la-cia-%C3%A0-mener-des-op%C3%A9rations-au-venezuela-accentuant-la-pression-sur-maduro",
+      "title": "Trump a autorisé la CIA à mener des opérations au Venezuela, accentuant la pression sur Maduro",
+      "content_html": "Le président américain Donald Trump a confirmé mercredi 15 octobre avoir autorisé l'Agence centrale du renseignement (CIA) à mener des opérations clandestines au Venezuela, dans ce qui constitue une importante escalade des pressions exercées par Washington contre le gouvernement du président vénézuélien Nicolas Maduro. Nous en parlons avec notre journaliste Anne Corpet.",
+      "date_published": "2025-10-16T14:36:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "28e7dcfee1e8077dc4257e20cf2d1347dd758436c5b7b2ba4f19dc299e615053",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/10/16/trump-confirms-covert-cia-operations-against-venezuela?traffic_source=rss",
       "title": "Trump confirms covert CIA operations against Venezuela",
@@ -821,31 +2101,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "847ca61ee5024b2264735c9348b0badd36b4bf6d233c735f0018ff38af46617e",
-      "url": "https://www.theguardian.com/business/2025/oct/16/woman-blames-johnson-johnson-talc-cancer",
-      "title": "‘When I was a child, everyone used it’: woman blames Johnson & Johnson talc for her cancer",
-      "content_html": "<p>Sue Rizzello is among thousands in UK suing the firm, which denies selling baby powder containing asbestos</p><ul><li><p><a href=\"https://www.theguardian.com/business/2025/oct/16/thousands-in-uk-open-case-against-johnson-johnson-over-alleged-talcum-powder-cancer-link\">Thousands in UK take legal action against Johnson &amp; Johnson over alleged talc cancer link</a></p></li></ul><p>It was Sue Rizzello’s husband who persuaded her to see a doctor, concerned about the bloating in her abdomen that was making her more and more uncomfortable. Rizzello, then in her late 40s, had assumed it was menopausal weight gain, but agreed to go to her GP. “A smart locum said: ‘There’s something wrong here,’ and sent me for a blood test … And that saved my life.”</p><p>It was the worst news: Rizzello had stage 3 ovarian cancer that had begun to spread. She would need to begin chemotherapy immediately and prepare for the complete removal of her uterus, ovaries, fallopian tubes and omentum, a procedure that would put her into immediate menopause.</p> <a href=\"https://www.theguardian.com/business/2025/oct/16/woman-blames-johnson-johnson-talc-cancer\">Continue reading...</a>",
-      "date_published": "2025-10-16T14:34:31+00:00",
-      "authors": [
-        {
-          "name": "Esther Addley"
-        }
-      ],
-      "tags": [
-        "Johnson & Johnson",
-        "Health",
-        "Cancer",
-        "Pharmaceuticals industry",
-        "Business",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -866,29 +2121,23 @@
       "lang": "en"
     },
     {
-      "id": "ba5d46df2f666d2685783da7902e189dfe37beb104577c4c4f26b4574031e73a",
-      "url": "https://elpais.com/internacional/2025-10-16/trump-y-putin-hablaran-este-jueves-antes-de-la-visita-de-zelenski-a-la-casa-blanca.html",
-      "title": "Trump et Poutine s'exprimeront ce jeudi avant la visite de Zelensky à la Maison Blanche",
-      "content_html": "Donald Trump, ce mercredi, à la Maison Blanche.",
-      "date_published": "2025-10-16T14:26:48+00:00",
+      "id": "82f1385a446d04c5eeed169be0d2d6da6cc2f1766ce693bdbd0bae7114de1e88",
+      "url": "https://www.elmundo.es/internacional/2025/10/16/68f0fcbae85ece9a268b459c.html",
+      "title": "Le photojournaliste emprisonné par Israël à qui on a annoncé la mort de sa famille : \"J'ai vu ma femme et mes enfants vivants. Au milieu de la mort, la vie\"",
+      "content_html": "Le Palestinien Shadi Abu Sido a été libéré lundi dernier dans le cadre de l'accord de cessez-le-feu négocié par les États-Unis entre le Hamas et Israël.",
+      "date_published": "2025-10-16T14:27:21+00:00",
       "authors": [
         {
-          "name": "Iker Seisdedos García"
+          "name": "Reuters"
         }
       ],
       "tags": [
-        "Estados Unidos",
-        "Norteamérica",
-        "América",
-        "Donald Trump",
-        "Casa Blanca",
-        "Partido Republicano EE UU",
-        "Partido Demócrata EE UU",
-        "Washington D.C."
+        "Israel",
+        "Franja de Gaza"
       ],
       "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -995,35 +2244,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3d90c0bbff36e71db0f809aa0bd900f6d70de5149f78de38f94a6a7ba93bb851",
-      "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-begin-charm-offensive-to-win-over-labour-mps-sceptical-of-digital-id-plans",
-      "title": "Labour begins charm offensive to win over MPs sceptical of digital ID plans",
-      "content_html": "<p>Party tries to reassure its MPs about proposed scheme and gather ideas on how it could improve public services</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Ministers have launched a charm offensive to win over sceptical Labour MPs to back the digital ID scheme, asking MPs to offer ideas about how it could improve public services.</p><p>The outreach is part of a broader loyalty and delivery drive to soothe tensions after a fractious few months for the government.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/16/ministers-begin-charm-offensive-to-win-over-labour-mps-sceptical-of-digital-id-plans\">Continue reading...</a>",
-      "date_published": "2025-10-16T14:14:18+00:00",
-      "authors": [
-        {
-          "name": "Jessica Elgot, Aletha Adu and Pippa Crerar"
-        }
-      ],
-      "tags": [
-        "Identity cards",
-        "Labour",
-        "Politics",
-        "UK news",
-        "Benefits",
-        "Public services policy",
-        "Data protection",
-        "Technology",
-        "Privacy",
-        "Society"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1226,31 +2446,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "746bb761a75e50072c3b5ecfa7395797825a5a0a8e4d19f4408b96f489c70e97",
-      "url": "https://www.theguardian.com/us-news/2025/oct/16/alaska-typhoon-halong-airlift-evacuations",
-      "title": "Major airlift evacuations in Alaska after remnants of typhoon decimate villages",
-      "content_html": "<p>Weekend storm devastated two villages and displaced more than 1,500 people in the south-western part of the state</p><p>Authorities in <a href=\"https://www.theguardian.com/us-news/alaska\">Alaska</a> are evacuating hundreds from villages on the state’s south-west coast that were inundated by the remnants of a typhoon last weekend, in one of the “most significant” airlifts in the state’s history.</p><p>Over the weekend, the remnants of Typhoon Halong hit remote communities in the Yukon-Kuskokwim Delta, in the south-western part of the state, decimating two small villages and displacing more than 1,500 people.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/alaska-typhoon-halong-airlift-evacuations\">Continue reading...</a>",
-      "date_published": "2025-10-16T13:54:27+00:00",
-      "authors": [
-        {
-          "name": "Guardian staff and agency"
-        }
-      ],
-      "tags": [
-        "Alaska",
-        "Extreme weather",
-        "US news",
-        "US weather",
-        "Trump administration",
-        "Environment"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1770,6 +2965,20 @@
       "lang": "en"
     },
     {
+      "id": "218c005ef240fc3e7ab56762bdb066dd193f593c4581d44e7987604d527aac82",
+      "url": "https://www.bbc.com/news/articles/cgjd76pw79do?at_medium=RSS&at_campaign=rss",
+      "title": "Greece passes labour law allowing 13-hour workdays in some cases",
+      "content_html": "Under the new law, annual overtime is capped at 150 hours, and the standard 40-hour week still remains in place.",
+      "date_published": "2025-10-16T13:12:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "518c568b3a75a39361b651db4c763dfaf0ad0bd45b46e3088d5c7eaed7abf2f6",
       "url": "https://www.france24.com/en/video/20251016-madagascar-population-welcomes-new-president-as-sign-of-needed-political-change",
       "title": "Madagascar population welcomes new president as sign of needed political change",
@@ -1840,30 +3049,6 @@
       "lang": "en"
     },
     {
-      "id": "c4ad365db65e7da6ab6199e51418323c74af574a092e4a623cb37917df70638b",
-      "url": "https://www.theguardian.com/us-news/2025/oct/16/california-prop-50-voting-maps",
-      "title": "Californians wary yet supportive of proposal to redraw voting maps: ‘This is a tactical measure’",
-      "content_html": "<p>Proposition 50 is part of the Democratic governor Gavin Newsom’s plan to counter Texas’s gerrymandered maps</p><p>California is set to vote on a new congressional map in November, part of a plan by the governor, Gavin Newsom, and state Democrats to deliver up to five new Democrat-held seats in the US Congress.</p><p>The plan is a direct effort to counter a Republican-led push in Texas, which will give the GOP a five-seat advantage in the upcoming midterms.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/california-prop-50-voting-maps\">Continue reading...</a>",
-      "date_published": "2025-10-16T13:00:03+00:00",
-      "authors": [
-        {
-          "name": "Nick Visser"
-        }
-      ],
-      "tags": [
-        "US news",
-        "California",
-        "Gavin Newsom",
-        "Texas",
-        "Democrats"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fbd39dfaee916136a082ce6cc9da536edecd96198a7f97ce0c0babbd8ef39926",
       "url": "https://www.aljazeera.com/video/the-stream/2025/10/16/is-loneliness-the-new-global-pandemic?traffic_source=rss",
       "title": "Is loneliness the new global pandemic?",
@@ -1876,36 +3061,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4d0a8cfa44742302208899b816b05a0859d8d59e6253120a2a4aa343a55c3068",
-      "url": "https://www.theguardian.com/technology/2025/oct/16/google-ai-overviews-italian-news-publishers-demand-investigation",
-      "title": "Italian news publishers demand investigation into Google’s AI Overviews",
-      "content_html": "<p>Newspaper federation says ‘traffic killer’ feature violates legislation and threatens to destroy media diversity</p><p>Italian news publishers are calling for an investigation into Google’s AI Overviews, arguing that the search engine’s AI-generated summaries feature is a “traffic killer” that threatens their survival.</p><p>FIEG, the Italian federation of newspaper publishers, said it has submitted a formal complaint to Agcom, Italy’s communications watchdog.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/16/google-ai-overviews-italian-news-publishers-demand-investigation\">Continue reading...</a>",
-      "date_published": "2025-10-16T12:53:59+00:00",
-      "authors": [
-        {
-          "name": "Angela Giuffrida Rome correspondent"
-        }
-      ],
-      "tags": [
-        "Artificial intelligence (AI)",
-        "Computing",
-        "Technology",
-        "Italy",
-        "Europe",
-        "World news",
-        "Google",
-        "Media",
-        "Alphabet",
-        "Newspapers",
-        "Newspapers & magazines"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2042,20 +3197,6 @@
       "lang": "en"
     },
     {
-      "id": "1bfab6674533bf022d46322776dc3ebdf9b64e7bfb59b4bd60fef3ae256ba2a6",
-      "url": "https://www.france24.com/en/live-news/20251016-sumo-stars-make-giant-splash-in-london",
-      "title": "Sumo stars make giant splash in London",
-      "content_html": "For one week, a corner of London has been transformed into a pocket of ancient Japan, with dozens of sumo wrestlers descending on the city in a rare foray outside the sport's homeland.",
-      "date_published": "2025-10-16T12:41:22+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a5ec1ecd35ef9c49753e1457d326f18be9c72429bdd7b0832de8b3def40f8057",
       "url": "https://www.lefigaro.fr/international/isolement-evasion-ratee-tortures-tres-severes-les-otages-liberes-livrent-leurs-premiers-temoignages-20251015",
       "title": "Isolement, évasion ratée, « tortures très sévères »... Les otages israéliens libérés livrent leurs premiers témoignages",
@@ -2088,36 +3229,6 @@
       "lang": "en"
     },
     {
-      "id": "0b9e8a31bfe703796ac0ede5c39ec3a3f18dba43bf1444154c979cbc19eeb4ae",
-      "url": "https://www.theguardian.com/us-news/2025/oct/16/anti-terror-funding-trump-democratic-states",
-      "title": "Trump plans to switch anti-terror funds from Democratic to Republican states",
-      "content_html": "<p>Overhaul of $1bn post-9/11 program would shift funds to states that voted for Trump in 2024 election</p><p>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> plans to shift terrorism prevention funding from Democratic-led states toward those led by Republicans, government records show, as it overhauls a $1bn program created after the <a href=\"https://www.theguardian.com/us-news/september11\">9/11 attacks</a>.</p><p>Twelve Democratic-led states are suing to block the cuts, alleging that the Trump administration is trying to punish them for not cooperating with federal immigration agents.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/anti-terror-funding-trump-democratic-states\">Continue reading...</a>",
-      "date_published": "2025-10-16T12:30:31+00:00",
-      "authors": [
-        {
-          "name": "Reuters"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US domestic policy",
-        "US politics",
-        "US news",
-        "Washington DC",
-        "Illinois",
-        "New Jersey",
-        "New York",
-        "Wisconsin",
-        "North Carolina",
-        "Ohio"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ec1bda82aee8739e4ca124c5195c45c7c2f1e60be452d26be9f5fd380aa3fb47",
       "url": "https://ici.radio-canada.ca/nouvelle/2200020/voter-plus-une-fois-elections-municipales-legal",
       "title": "Voter plus d’une fois aux élections municipales, c’est possible… et légal",
@@ -2130,30 +3241,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "84bad3943b0270921786e3463d5f3ede40dd84b9ac7586c0a8f5deac1f57c069",
-      "url": "https://www.theguardian.com/world/2025/oct/16/kanchha-sherpa-last-surviving-member-of-first-team-to-reach-mount-everest-summit-dies",
-      "title": "Last surviving member of first team to conquer Everest dies aged 92",
-      "content_html": "<p>Kanchha Sherpa part of expedition that put Tenzing Norgay and Edmund Hillary atop world’s highest peak in 1953</p><p>Kanchha Sherpa, the last surviving member of the mountaineering expedition team that first conquered Mount Everest, has died at the age of 92, according to the Nepal Mountaineering Association.</p><p>Kanchha died early on Thursday at his home in Kapan, Kathmandu district, said Phur Gelje Sherpa, the association’s president.</p> <a href=\"https://www.theguardian.com/world/2025/oct/16/kanchha-sherpa-last-surviving-member-of-first-team-to-reach-mount-everest-summit-dies\">Continue reading...</a>",
-      "date_published": "2025-10-16T12:27:54+00:00",
-      "authors": [
-        {
-          "name": "Associated Press in Kathmandu"
-        }
-      ],
-      "tags": [
-        "Mount Everest",
-        "Mountaineering",
-        "Nepal",
-        "South and central Asia",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "dfce02b119abd69b7ad0aed3e0d876cc0daf3d184847c49d1c0d23a267b8d0b9",
@@ -2490,20 +3577,6 @@
       "lang": "fr"
     },
     {
-      "id": "5db63ab4036329b9ec1f98a90f0ba45bc37ce36d6f782e475c19007052647493",
-      "url": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
-      "content_html": "Trump would not be drawn on whether the CIA was seeking to topple Maduro.",
-      "date_published": "2025-10-16T11:27:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "da4896646e9a276f7820e7b713bf4737254694b5e50e2a0a6b9ddbb60f969e13",
       "url": "https://www.lefigaro.fr/international/le-cameroun-a-vote-majoritairement-pour-le-changement-l-opposant-a-paul-biya-issa-tchiroma-bakary-revendique-une-victoire-historique-20251015",
       "title": "«Le Cameroun a voté majoritairement pour le changement» : l’opposant à Paul Biya, Issa Tchiroma Bakary, revendique une victoire historique",
@@ -2562,24 +3635,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5919ac2cc333a95dff764911e7f374615e29c32ca0a15212886b572715c9fa7e",
-      "url": "https://www.france24.com/en/video/20251016-us-uses-drug-trafficking-as-pretence-to-force-regime-change-in-venezuela",
-      "title": "US uses drug trafficking as pretence to force regime change in Venezuela",
-      "content_html": "As Donald Trump confirms CIA action in Venezuela, the US president cites concerns over drug trafficking as a way to oust Nicolas Maduro from power and enforce a regime change. It is also the sign of a new policy era for the CIA, which should be 'going places no one can go and doing things no one else can do', according to its new director John Ratcliffe. FRANCE 24's Douglas Herbert tells us more.",
-      "date_published": "2025-10-16T11:08:34+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2660,55 +3715,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "4897ecb521fd0155f1d18a8b87d45d21e97c4cebb1891fa28a8bee9fa1c948d5",
-      "url": "https://www.france24.com/en/tv-shows/focus/20251016-india-s-baby-bust-world-s-most-populous-country-fears-demographic-decline",
-      "title": "India’s baby bust: World’s most populous country fears demographic decline",
-      "content_html": "India, home to 1.45 billion people, recently overtook China as the world’s most populous country. Yet, behind this demographic milestone lies an unexpected challenge. While national leaders once warned that a large population could hinder development, several southern states are now facing the opposite problem – falling fertility rates. This decline is more than just a demographic issue. A shrinking birth rate could reduce the future workforce, strain healthcare and social services, and weaken political influence, since parliamentary representation and federal funding are tied to population size.",
-      "date_published": "2025-10-16T10:51:24+00:00",
-      "authors": [
-        {
-          "name": "Khansa JUNED"
-        }
-      ],
-      "tags": [
-        "Focus"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "af915466ef1e82c537afee38132b4582f1191b2eebcddfad6e74969be2b8e9ce",
-      "url": "https://elpais.com/internacional/2025-10-16/jd-vance-defiende-a-los-jovenes-republicanos-que-declararon-su-amor-por-hitler-en-un-chat-privado.html",
-      "title": "J.D. Vance défend les jeunes Républicains qui ont déclaré leur « amour » pour Hitler lors d’une conversation privée",
-      "content_html": "Le vice-président des États-Unis, J. D. Vance, lors d'une conférence de presse à Washington, le 1er octobre.",
-      "date_published": "2025-10-16T10:43:42+00:00",
-      "authors": [
-        {
-          "name": "EL PAÍS"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "J. D. Vance",
-        "Jóvenes",
-        "Partido Republicano EE UU",
-        "Nazismo",
-        "Racismo",
-        "Violaciones",
-        "Sexismo",
-        "Chat",
-        "Internet"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "c9cebbfe6401100ed7e39e5e3de052120f581d844f518e0cc18c611cfad0b9a3",
@@ -2804,33 +3810,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bc4b5e8bbc72c97ed2abfb8f608ac20d4a448a3f0f4c627fe5a1e308d09e89d2",
-      "url": "https://elpais.com/internacional/2025-10-16/sebastien-lecornu-supera-la-primera-de-las-dos-mociones-de-censura-gracias-al-apoyo-de-los-socialistas.html",
-      "title": "Le gouvernement français surmonte le premier obstacle majeur grâce au soutien des socialistes",
-      "content_html": "Le Premier ministre français, Sébastien Lecornu, à l'Assemblée nationale.",
-      "date_published": "2025-10-16T10:29:45+00:00",
-      "authors": [
-        {
-          "name": "Daniel Verdú"
-        }
-      ],
-      "tags": [
-        "Sébastien Lecornu",
-        "Francia",
-        "Emmanuel Macron",
-        "Política",
-        "Marine Le Pen",
-        "Mociones censura",
-        "Francia Insumisa",
-        "Agrupación Nacional"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -3104,28 +4083,6 @@
       "lang": "fr"
     },
     {
-      "id": "77083224d16b6d5b2355692b6fbd54fce8630d93a81f4371bf7f0f53452e815c",
-      "url": "https://www.timesofisrael.com/bereaved-by-october-7-an-entrepreneur-seeds-startups-with-memorials-to-those-lost/",
-      "title": "Bereaved by October 7, an entrepreneur seeds startups with memorials to those lost",
-      "content_html": "<p>Launched by Izhar Shay in honor of his son, Staff Sgt. Yaron Shay, Next October aids new ventures, which in turn preserve the memory of those killed in the Hamas invasion and war in Gaza</p>\n<p>The post <a href=\"https://www.timesofisrael.com/bereaved-by-october-7-an-entrepreneur-seeds-startups-with-memorials-to-those-lost/\">Bereaved by October 7, an entrepreneur seeds startups with memorials to those lost</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/nextoctoberbourse-1024x640.jpg\" title=\"Bereaved by October 7, an entrepreneur seeds startups with memorials to those lost\" width=\"160\" /></figure>",
-      "date_published": "2025-10-16T09:55:02+00:00",
-      "authors": [],
-      "tags": [
-        "Tech Israel",
-        "Izhar Shay",
-        "2023-2025 Israel-Hamas war",
-        "October 7 Hamas atrocities",
-        "Israeli startups",
-        "Israeli innovation",
-        "Israeli economy"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "dd9ce0ffe13ef6f93ab60d240f3a94c4c0d32a99c1deea1de98150c3272d0f8f",
       "url": "https://www.dw.com/en/french-pm-lecornu-survives-dual-no-confidence-votes/a-74383601?maca=en-rss-en-all-1573-rdf",
       "title": "French PM Lecornu survives dual no-confidence votes",
@@ -3142,22 +4099,6 @@
       "lang": "en"
     },
     {
-      "id": "6228f0fcccda4cfc65492802c28b517d8566a6d60ed13909129fb62ef3889422",
-      "url": "https://www.aljazeera.com/news/2025/10/16/madagascars-new-army-ruler-to-be-sworn-in-as-rajoelina-confirms-departure?traffic_source=rss",
-      "title": "Madagascar’s new army ruler to be sworn in as Rajoelina confirms departure",
-      "content_html": "Military leader to take his oath as president on Friday as African Union calls for the restoration of civilian rule.",
-      "date_published": "2025-10-16T09:49:46+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e43a3755393d17244ae11ff3dad9f420400448426a44725e1559bff2e9f68764",
       "url": "https://www.ukrinform.net/rubric-ato/4047950-reports-of-russian-troops-landing-on-karantynnyi-island-false-ukrainian-military.html",
       "title": "Reports of Russian troops landing on Karantynnyi Island false – Ukrainian military",
@@ -3170,22 +4111,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "39fa8c453643166a3202a950cf2546d727233067edb2d2a70ddcb1738e0c9906",
-      "url": "https://www.aljazeera.com/sports/2025/10/16/indonesia-and-kluivert-part-ways-after-fifa-world-cup-2026-miss?traffic_source=rss",
-      "title": "Kluivert, Indonesia part ways after FIFA World Cup 2026 miss",
-      "content_html": "Indonesia appointed Patrick Kluivert in January on a two-year deal to boost hopes of reaching next year&#039;s World Cup.",
-      "date_published": "2025-10-16T09:44:51+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3438,36 +4363,6 @@
       "lang": "fr"
     },
     {
-      "id": "4eeaa21789f517e2dd976dbe7748040380948eec059fa3f4282ffb4f7aeb62ce",
-      "url": "https://www.lemonde.fr/afrique/article/2025/10/16/un-rapport-parlementaire-propose-la-denonciation-de-l-accord-franco-algerien-de-1968_6647126_3212.html",
-      "title": "Un rapport parlementaire propose la dénonciation de l’accord franco-algérien de 1968",
-      "content_html": "Les députés français Mathieu Lefèvre, devenu ministre délégué à la transition écologique, et Charles Rodwell.",
-      "date_published": "2025-10-16T08:52:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c79069965f39bc8b9d4e81548435e2cce7e96657beb0daf7462d2257f9b5ac8a",
-      "url": "https://www.aljazeera.com/news/2025/10/16/insurrection-act-what-is-it-and-does-us-president-have-plenary-authority?traffic_source=rss",
-      "title": "Insurrection Act: What is it, and does US president have plenary authority?",
-      "content_html": "Trump considers deploying military domestically using Insurrection Act amid debates on legal terms and implications.",
-      "date_published": "2025-10-16T08:50:46+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "facca6a8f166d25e4593c9ffe1b91a5772773952e0bbce0774fa60d8a6104a10",
       "url": "https://www.dw.com/en/malaysia-naturalization-scandal-a-wake-up-call-for-southeast-asia/a-74369824?maca=en-rss-en-all-1573-rdf",
       "title": "Malaysia naturalization scandal a wake-up call for Southeast Asia",
@@ -3480,22 +4375,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "adf155461ed1e51fe505bfe40616465d39909cfff0ad93c9dafa30edf900f013",
-      "url": "https://www.aljazeera.com/video/quotable/2025/10/16/malnourished-kids-in-gaza-face-lifelong-range-of?traffic_source=rss",
-      "title": "Malnourished kids in Gaza face lifelong “range of effects”",
-      "content_html": "Kirk Prichard on the long-term effects of severe malnourishment on Palestinian children and mothers in Gaza.",
-      "date_published": "2025-10-16T08:48:46+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3570,22 +4449,6 @@
       "lang": "fr"
     },
     {
-      "id": "7495661199ca661b02f1fa55d6ebbf70ae2c10c533690e46c706e9a4681c7be3",
-      "url": "https://www.aljazeera.com/news/2025/10/16/analysis-why-pakistan-and-the-taliban-wont-find-it-easy-to-patch-up?traffic_source=rss",
-      "title": "Analysis: Why Pakistan and the Taliban won’t find it easy to patch up",
-      "content_html": "Despite the challenges to peace, both know they will hurt from continued hostilities - and need a path to peace.",
-      "date_published": "2025-10-16T08:34:22+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2163639450a0a845f1b49cb8c12cab383dc1d49fb870631a5809ec2a0e8e7453",
       "url": "https://elpais.com/internacional/2025-10-16/un-centenar-de-lideres-europeos-como-macron-merkel-salvini-y-tusk-denunciados-ante-la-haya-por-complicidad-en-la-muerte-de-migrantes.html",
       "title": "Une centaine de dirigeants européens comme Macron, Merkel, Salvini et Tusk, dénoncés devant La Haye pour complicité dans la mort de migrants",
@@ -3618,34 +4481,6 @@
       "lang": "fr"
     },
     {
-      "id": "dce0b30f6b2ce39f4d6256cf9e2921b82ef7d5eab7bd0a45e3a1c5407b18dafa",
-      "url": "https://www.lemonde.fr/international/article/2025/10/16/la-cia-officiellement-autorisee-a-operer-au-venezuela_6647124_3210.html",
-      "title": "La CIA officiellement autorisée à opérer au Venezuela",
-      "content_html": "Le président américain, Donald Trump, lors d’une conférence de presse dans le bureau Ovale de la Maison Blanche à Washington, le 15 octobre 2025.",
-      "date_published": "2025-10-16T08:31:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "95bf95bbb6261d253496a6f3b4049cbdd4fb8d64445bf2dbdd29352bcdb150e3",
-      "url": "https://www.lemonde.fr/international/article/2025/10/16/face-a-la-lenteur-de-la-restitution-des-corps-des-otages-par-le-hamas-israel-menace-d-une-reprise-de-la-guerre_6647119_3210.html",
-      "title": "Face à la lenteur de la restitution des corps des otages par le Hamas, Israël menace d’une reprise de la guerre",
-      "content_html": "Un véhicule transportant les corps de quatre otages remis au Centre national de médecine légale de Tel-Aviv, le 15 octobre 2025.",
-      "date_published": "2025-10-16T08:24:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "dd416410fad0e137054305b97da8637776accca42626f7afd5b93c91b57e417b",
       "url": "https://www.ukrinform.net/rubric-ato/4047910-zelensky-on-night-attack-russia-uses-more-than-300-drones-and-37-missiles.html",
       "title": "Zelensky on night attack: Russia uses more than 300 drones and 37 missiles",
@@ -3660,34 +4495,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "2012c4abd4c5538de6fa8ef0fa3d7f3b772d98fc5094d87a011086eb03dccfd9",
-      "url": "https://www.lemonde.fr/afrique/article/2025/10/16/maroc-17-condamnations-pour-violences-en-marge-du-mouvement-de-la-jeunesse_6647118_3212.html",
-      "title": "Maroc : 17 condamnations pour violences en marge du mouvement de la jeunesse",
-      "content_html": "Une manifestation de la jeunesse marocaine demandant une réforme des secteurs de la santé et de l’éducation, à Casablanca, le 6 octobre 2025.",
-      "date_published": "2025-10-16T08:17:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e3840e29e1d7019e6e759371ba9cf69cea95b42ecb414cb7ff873e286f2f638d",
-      "url": "https://www.lemonde.fr/international/article/2025/10/16/en-ukraine-volodymyr-zelensky-limoge-le-maire-d-odessa-et-le-remplace-par-un-general_6647117_3210.html",
-      "title": "En Ukraine, Volodymyr Zelensky limoge le maire d’Odessa et le remplace par un général",
-      "content_html": "Le maire d’Odessa, Hennadi Troukhanov, dans son bureau du port de la mer Noire, en Ukraine, le 28 juin 2024.",
-      "date_published": "2025-10-16T08:13:09+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "09513f630e76c75793dba3ec7c4b901411c083699cf2a20b17856b56693e56a7",
@@ -3752,34 +4559,6 @@
       "lang": "en"
     },
     {
-      "id": "0e2b80d3b1987f60c83d190fbb5b3cc56ecce044f01de46c7344db097ee515e4",
-      "url": "https://www.lemonde.fr/idees/article/2025/10/16/abdel-latif-rachid-president-de-l-irak-la-crise-du-camp-d-al-hol-est-un-probleme-mondial_6647115_3232.html",
-      "title": "Abdel Latif Rachid, président de l’Irak : « La crise du camp d’Al-Hol est un problème mondial »",
-      "content_html": "Abdel Latif Rachid, président de la République d’Irak depuis 2022, aux Nations unies, le 23 septembre 2025.",
-      "date_published": "2025-10-16T08:00:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "37c794c4a08c8abd5f4d52a1fd663dd962fa4a08e3eba636ba531994ef6b87a9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2200004/cia-donald-trump-venezuela-nicolas-maduro",
-      "title": "La CIA contre le régime vénézuélien",
-      "content_html": "<p>Le président Donald Trump a confirmé avoir autorisé la CIA à mener des opérations clandestines au Venezuela.</p>",
-      "date_published": "2025-10-16T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "950c5bbf9f06209483b95933093f6a0e15dceaf19e41139ea942a50685eabeb7",
       "url": "https://ici.radio-canada.ca/nouvelle/2199935/projets-filiere-batterie-general-motors-becancour",
       "title": "Deux gros projets de la filière batterie tombent à l’eau à Bécancour",
@@ -3798,6 +4577,20 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2199286/high-point-tarifs-douaniers-renaissance-trump-caroline",
       "title": "Cette ville américaine où les tarifs font renaître l’espoir",
       "content_html": "<p>HIGH POINT, Caroline du Nord - Des gens d'affaires espèrent profiter des nouveaux tarifs de Donald Trump.</p>",
+      "date_published": "2025-10-16T08:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "37c794c4a08c8abd5f4d52a1fd663dd962fa4a08e3eba636ba531994ef6b87a9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2200004/cia-donald-trump-venezuela-nicolas-maduro",
+      "title": "La CIA contre le régime vénézuélien",
+      "content_html": "<p>Le président Donald Trump a confirmé avoir autorisé la CIA à mener des opérations clandestines au Venezuela.</p>",
       "date_published": "2025-10-16T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3894,22 +4687,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a338b506f1fc5ab746cd300744bdcadf434521cb73cb2a8dcf439140dd2cbcef",
-      "url": "https://www.dw.com/en/trump-says-india-will-stop-buying-russian-oil/a-74376883?maca=en-rss-en-all-1573-rdf",
-      "title": "Trump says India will stop buying Russian oil",
-      "content_html": "The US president said Indian PM Narendra Modi \"assured\" him India would wind down oil purchases from its top supplier. India has said its priority is to \"safeguard consumers.\"",
-      "date_published": "2025-10-16T07:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -4023,54 +4800,6 @@
       "lang": "fr"
     },
     {
-      "id": "9672fdb963e36bdd2ab8379580d492b8ad5693bc22e7570a7c717dec00b2649e",
-      "url": "https://www.ukrinform.net/rubric-ato/4047854-russians-kill-one-and-injure-six-residents-of-donetsk-region.html",
-      "title": "Russians kill one and injure six residents of Donetsk region",
-      "content_html": "Russian invaders killed one and wounded six residents of the Donetsk region over the past day, October 15.",
-      "date_published": "2025-10-16T06:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4d61a1d0cf6bd9b2db72f332c09535976c68495381adbc9596fc6b590127fa0d",
-      "url": "https://www.ukrinform.net/rubric-ato/4047850-explosions-in-russia-substation-on-fire-airport-operations-suspended.html",
-      "title": "Explosions in Russia: Substation on fire, airport operations suspended",
-      "content_html": "As a result of drone attacks targeting energy facilities in Russia’s Volgograd region overnight on October 15–16, a fire broke out at an electrical substation.",
-      "date_published": "2025-10-16T06:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e95d86a4246cd282fbb37c3ef0211381e6dd389f87d58cb5e6ecab347874e553",
-      "url": "https://www.dw.com/en/uruguay-passes-law-legalizing-euthanasia/a-74376809?maca=en-rss-en-all-1573-rdf",
-      "title": "Uruguay passes law legalizing euthanasia",
-      "content_html": "Passing the euthanasia law comes after years of debate and opposition from the Catholic Church.",
-      "date_published": "2025-10-16T06:38:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "33039424c8565fd9fc3e6870a2efcb008309051949cb44ff3e822966279e80c7",
       "url": "https://www.bbc.com/news/videos/c993r08kp89o?at_medium=RSS&at_campaign=rss",
       "title": "Watch: Police fire tear gas at protesters in Peru",
@@ -4085,26 +4814,10 @@
       "lang": "en"
     },
     {
-      "id": "f4d1464db9bcca97c7e653bce48515abb7febc40db359a258a42bf1e91e683c7",
-      "url": "https://www.ukrinform.net/rubric-economy/4047843-gas-production-suspended-in-poltava-region-following-russian-attack.html",
-      "title": "Gas production suspended in Poltava region following Russian attack",
-      "content_html": "On the night of October 16, Russian forces attacked Ukraine’s energy infrastructure, halting operations at gas production facilities in the Poltava region.",
-      "date_published": "2025-10-16T06:29:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f2c784f47453183f90adc4e0d2b6f59ae10332be4749c119266841bcd8c92348",
       "url": "https://www.elmundo.es/internacional/2025/10/15/68efe92ee4d4d8f11c8b45a9.html",
-      "title": "Se convertir à l'islam en échange d'un meilleur traitement et de meilleure nourriture : ce que l'otage Rom Braslavski a refusé et la punition qu'il a reçue",
-      "content_html": "Le Forum des Familles et des Personnes Disparues exige la remise de tous les corps : \"Le combat ne s'arrêtera que jusqu'à leur retour pour qu'ils soient enterrés\"",
+      "title": "Se convertir à l'islam en échange d'un meilleur traitement et d'une meilleure nourriture : ce que l'otage Rom Braslavski a refusé et la punition qu'il a reçue",
+      "content_html": "Le Forum des Familles et des Personnes Disparues exige la remise de tous les corps : \"Le combat ne s'arrêtera qu'à leur retour pour qu'ils soient enterrés\"",
       "date_published": "2025-10-16T06:16:21+00:00",
       "authors": [
         {
@@ -4122,22 +4835,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ca4df1f996b5aef153dd27257705d3a1cf44fd78f0f8d3d9f0a94dd1aeafeffa",
-      "url": "https://www.ukrinform.net/rubric-ato/4047832-war-update-184-combat-engagements-along-frontline-over-past-day.html",
-      "title": "War update: 184 combat engagements along frontline over past day",
-      "content_html": "On October 15, Ukrainian Defense Forces recorded 184 combat engagements with Russian forces along the front line.",
-      "date_published": "2025-10-16T06:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "0757423225799290f653c5a2195fe55526698ac0296cc18f0431e768a89fe9b5",
@@ -4503,20 +5200,6 @@
       "lang": "fr"
     },
     {
-      "id": "08174359d5f7229fe1d35e15698a9ab22666ad38a80199d28d6b6b8a211cc8ae",
-      "url": "https://www.bbc.com/news/articles/cewnrqydny0o?at_medium=RSS&at_campaign=rss",
-      "title": "Indian cinema tickets are getting pricier - but not everyone's complaining",
-      "content_html": "Experts say while the big-screen magic still matters, it must come at a price that doesn't hurt the pocket.",
-      "date_published": "2025-10-16T00:36:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d0067ac6f8241f2fa56c3110fe831cee6b0e536e22f7ed09a1c520a4212ca933",
       "url": "https://ici.radio-canada.ca/nouvelle/2199964/fmoq-medecin-boycott-enseignement-negociation-quebec",
       "title": "Négociations avec Québec : la FMOQ va boycotter l’enseignement dès jeudi",
@@ -4536,20 +5219,6 @@
       "title": "'I can't afford to save both twins': Sudan's war left one mother with an impossible choice",
       "content_html": "The destruction and hunger that Sudan's war has brought leaves parents with some impossible choices.",
       "date_published": "2025-10-15T23:10:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "93f341e50fe5161cdd000cdfda51bb79216fc5fd14721d665b4a6104cf231562",
-      "url": "https://www.bbc.com/news/articles/cvgdepnqk2jo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia intensifies attacks on Ukraine's trains in 'battle for the railways'",
-      "content_html": "In the last two months, Russia has hugely upped its attacks on Ukraine's trains and rail network.",
-      "date_published": "2025-10-15T23:04:20+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -5131,20 +5800,6 @@
       "lang": "fr"
     },
     {
-      "id": "9c415766ba0717aad50cdc2b1180d7b30d185202592afe3a852ed0600918b8dd",
-      "url": "https://www.bbc.com/news/articles/c5yd8rv02ydo?at_medium=RSS&at_campaign=rss",
-      "title": "War crimes alert as food runs out in besieged Sudan city",
-      "content_html": "Evidence of the intentional targeting of civilians in el-Fasher amounts to war crimes, researchers say.",
-      "date_published": "2025-10-15T16:51:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8247807a8b8a01fbf1dfed89d84e999e25756807ecd9d76428aa7ff61a8b44fd",
       "url": "https://www.elmundo.es/internacional/2025/10/15/68ef962bfdddff773d8b4581.html",
       "title": "Le président syrien se rend à Moscou pour rencontrer Poutine, allié du précédent régime d'Assad",
@@ -5185,33 +5840,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "9fb892c1fbfb076207c7db2f9648882714ad3f7f83d25049f014b6bafa238b95",
-      "url": "https://www.theguardian.com/world/2025/oct/15/canada-ai-hallucinations-legal-defense",
-      "title": "Canadian man fined for submitting AI hallucinations as part of legal defense",
-      "content_html": "<p>Jean Laprade ordered to pay $3,500 in legal saga of ‘hijacked planes’, Interpol red alerts and ‘inappropriate use’ of AI</p><p>A <a href=\"https://www.theguardian.com/world/quebec\">Quebec</a> man has been ordered to pay C$5,000 (US$3,562) for submitting artificial intelligence hallucinations as part of his legal defense, a move the judge warned was “highly reprehensible” and threatened to undermine integrity in the legal system.</p><p>Justice Luc Morin of Quebec superior court levied the fine on Jean Laprade in a <a href=\"https://citoyens.soquij.qc.ca/php/decision.php?ID=21B262E00E271D3FA17BC6D26D8D0603&amp;page=2\">decision released on 1 October</a>, capping a legal saga the judge said “contains several elements worthy of a successful movie script”, including a “hijacked plane passing through several complacent airports”, Interpol red alerts and the “inappropriate use of artificial intelligence” by Laprade.</p> <a href=\"https://www.theguardian.com/world/2025/oct/15/canada-ai-hallucinations-legal-defense\">Continue reading...</a>",
-      "date_published": "2025-10-15T16:31:31+00:00",
-      "authors": [
-        {
-          "name": "Leyland Cecco in Toronto"
-        }
-      ],
-      "tags": [
-        "Canada",
-        "Artificial intelligence (AI)",
-        "Americas",
-        "Computing",
-        "Technology",
-        "Law",
-        "World news",
-        "Quebec"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "205809568fca132584bbbb2bd6d3fc3b7d0fa6b0dd74dbb3a44804f159e2f956",
@@ -5976,22 +6604,6 @@
       "lang": "en"
     },
     {
-      "id": "5f64bff2b7f77ebdc8c8fd468717312c0073f0a6119eff365ee119c389107344",
-      "url": "https://www.lefigaro.fr/international/il-faut-reconstruire-tout-un-systeme-d-approvisionnement-a-gaza-la-reprise-de-l-aide-humanitaire-deja-en-suspens-20251014",
-      "title": "« Nous restons dépendants de la fragilité de la situation politique » : à Gaza, la reprise de l’aide humanitaire déjà en suspens",
-      "content_html": "Des camions transportant de l’aide à destination de Gaza traversent le point de passage entre l’Égypte et la bande de Gaza, après qu’un cessez-le-feu entre Israël et le Hamas à Gaza est entré en vigueur, à Rafah, en Égypte, le 12 octobre 2025.",
-      "date_published": "2025-10-15T08:02:02+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "41181a1badeb8b781982c781e8a38089b2c05452e07d846fd40802f1109318d8",
       "url": "https://www.themoscowtimes.com/2025/10/15/us-congresswoman-says-russian-ambassador-gave-her-soviet-report-on-jfk-assassination-a90811",
       "title": "U.S. Congresswoman Says Russian Ambassador Gave Her Soviet Report on JFK Assassination",
@@ -6054,20 +6666,6 @@
       "lang": "en"
     },
     {
-      "id": "4f18211c75fe3c55043343e9cbeeca0aaa86394176140fc571f49af06b161d6a",
-      "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
-      "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
-      "content_html": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
-      "date_published": "2025-10-15T06:52:37+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "24b337497b23991d706bdcb201844df59e2ffbdac0ee8d30818a2119234d8e28",
       "url": "https://www.liberation.fr/international/moyen-orient/otages-a-gaza-les-quatre-depouilles-rendues-lundi-ont-ete-identifiees-20251014_2ZZO2TIEDBABTNHGPRVETZJX5A/",
       "title": "Otages à Gaza : les premières dépouilles remises par le Hamas ont été identifiées, la Croix-Rouge en a récupéré quatre autres mardi soir",
@@ -6088,7 +6686,7 @@
     {
       "id": "32933c08602060bd21b981a6cb445681811705e34f40037aee44f7ec31d6b6fa",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68ee91f8e85ece99428b458e.html",
-      "title": "Trump annonce six morts dans une nouvelle attaque contre un bateau de drogue présumé au large du Venezuela",
+      "title": "Trump annonce six morts dans une nouvelle attaque contre un prétendu bateau de drogue au large du Venezuela",
       "content_html": "\"Les services de renseignement ont confirmé que le navire faisait du trafic de drogue, était associé à des réseaux narcoterroristes illicites et empruntait une route bien connue\", a déclaré le président américain.",
       "date_published": "2025-10-15T05:03:22+00:00",
       "authors": [
@@ -6473,7 +7071,7 @@
     {
       "id": "701d533c6e686a87a7e6d245d65013aa1732db3e91d77f96d9eec3e22b20998f",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68ee7db9fc6c83c97b8b45a4.html",
-      "title": "Répression du Hamas pour maintenir le contrôle : « Gaza doit être débarrassée des hors-la-loi et des collaborateurs »",
+      "title": "La répression du Hamas pour maintenir le contrôle : « Gaza doit être débarrassée des hors-la-loi et des collaborateurs »",
       "content_html": "Les affrontements entre le groupe palestinien et les milices, notamment des exécutions, font des dizaines de morts et font planer le spectre d'une guerre civile",
       "date_published": "2025-10-14T17:05:05+00:00",
       "authors": [
@@ -6488,22 +7086,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "85da992406bb8500b1fcddc3af70e83a7fd899dfa39a88a8d55c70cb0185da5d",
-      "url": "https://www.lefigaro.fr/international/recep-tayyip-erdogan-acteur-strategique-du-cessez-le-feu-entre-israel-et-le-hamas-20251014",
-      "title": "Recep Tayyip Erdogan, acteur stratégique du cessez-le-feu entre Israël et le Hamas",
-      "content_html": "Le président turc, Recep Tayyip Erdogan, pose avec l’accord de cessez-le-feu signé lors d’un sommet visant à mettre fin à la guerre au Proche-Orient, à Charm el-Cheikh en Égypte, le 13 octobre 2025.",
-      "date_published": "2025-10-14T16:48:14+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -7012,7 +7594,7 @@
       "id": "b623babf293c0f49f7327054ce17d120a0a55115f96e351f79f0ccd5600694d2",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68edfcf4fc6c833c6e8b457a.html",
       "title": "Trois policiers tués et 13 blessés dans une explosion de gaz provoquée pour empêcher une expulsion",
-      "content_html": "Les propriétaires sont trois frères qui avaient déjà tenté de faire sauter la maison.Deux d'entre eux sont détenus et un a pris la fuite.",
+      "content_html": "Les propriétaires sont trois frères qui avaient déjà tenté de faire sauter la maison auparavant.Deux d'entre eux sont détenus et un a pris la fuite.",
       "date_published": "2025-10-14T07:34:17+00:00",
       "authors": [
         {
@@ -7035,7 +7617,7 @@
       "id": "cb56c2c4aad37c2fa5566242a36fc7503814959d66536a63f12feb16f6bce5bd",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68edf6a3e4d4d8546b8b459d.html",
       "title": "Trump se plaint de sa photo en couverture du magazine Time : \"Ils ont 'supprimé' mes cheveux\"",
-      "content_html": "Le leader républicain a souligné qu'il n'a jamais aimé que des photos soient prises en contre-plongée et a souligné que cette image en particulier \"est vraiment mauvaise\".",
+      "content_html": "Le leader républicain a souligné qu'il n'a jamais aimé que des photos soient prises en contre-plongée et a souligné que cette image \"est vraiment mauvaise\".",
       "date_published": "2025-10-14T07:07:38+00:00",
       "authors": [
         {
@@ -7285,45 +7867,6 @@
       "lang": "fr"
     },
     {
-      "id": "40352dc3c9914e99a45cc96c248ca7c422c2d464342f476b0c5386bcef9915d0",
-      "url": "https://www.elmundo.es/internacional/2025/10/13/68ed748bfdddff2a658b458f.html",
-      "title": "Le président de Madagascar confirme avoir fui vers un \"endroit sûr\" pour protéger sa vie",
-      "content_html": "Andry Rajoelina a diffusé une vidéo via Facebook",
-      "date_published": "2025-10-13T21:52:14+00:00",
-      "authors": [
-        {
-          "name": "Agencias"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0812a840a69ee0878d0aa894219b5e925b229cc97ea9019c687b1bd635ebf6c2",
-      "url": "https://www.elmundo.es/internacional/2025/10/13/68ed6b6fe85ecef75c8b4598.html",
-      "title": "Un militant et politologue vénézuélien exilé en Colombie survit à un attentat à Bogotá",
-      "content_html": "Yendri Velásquez et Luis Peche attendaient un Uber à la porte d'un immeuble lorsque deux tueurs à gages leur ont tiré au moins une douzaine de balles depuis un véhicule.",
-      "date_published": "2025-10-13T21:47:23+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "Venezuela",
-        "Colombia"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f72dcb3b4c26652f022ba91015e551bbe024f6e0cef1232a967ad1f1c4e04bfb",
       "url": "https://www.dw.com/en/germany-back-on-world-cup-track-after-win-in-belfast/a-74338846?maca=en-rss-en-all-1573-rdf",
       "title": "Germany back on World Cup track after win in Belfast",
@@ -7358,31 +7901,6 @@
       "lang": "fr"
     },
     {
-      "id": "5851feb596613c9847b33386ea7a6653d7ad9c0143ce1c7c13445185219f287a",
-      "url": "https://www.elmundo.es/internacional/2025/10/13/68ed3a59fc6c839b738b457c.html",
-      "title": "Donald Trump reconfigure le Moyen-Orient et projette son leadership mondial",
-      "content_html": "Le président américain se vante que \"la paix est arrivée\" et que son plan pour Gaza représente \"l'aube historique\" d'une nouvelle région",
-      "date_published": "2025-10-13T20:49:16+00:00",
-      "authors": [
-        {
-          "name": "Raúl Piña"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Franja de Gaza",
-        "Benjamín Netanyahu",
-        "Donald Trump",
-        "NLPremium",
-        "Artículos Raúl Piña"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b0b8c429825782046df27da5b9312b1fa81fa3adb7a049a792d23889dba6d346",
       "url": "https://www.liberation.fr/international/afrique/le-president-malgache-rajoelina-assure-etre-parti-dans-un-endroit-sur-apres-une-tentative-de-meurtre-20251013_WDNSS4423JBGVJYN66Z4T2PZFI/",
       "title": "Madagascar : le président Rajoelina assure être parti «dans un endroit sûr» après une «tentative de meurtre»",
@@ -7391,24 +7909,6 @@
       "authors": [
         {
           "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8b392f00dfb22911c728b24f628885eeeec33c44ff54e575711880f43cafdac8",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-accord-a-gaza-le-hamas-publie-la-liste-des-20-otages-vivants-leur-liberation-est-imminente-20251013_EQ5RLY5DUFACFA7RE3SGZKDTKM/",
-      "title": "Accord à Gaza : pour le président égyptien, la solution à deux Etats est le seul moyen pour que les Palestiniens et Israéliens vivent en paix",
-      "content_html": "Le président égyptien Abdel Fattah al-Sissi ce lundi 13 octobre lors de la rencontre avec Donald Trump.",
-      "date_published": "2025-10-13T20:00:52+00:00",
-      "authors": [
-        {
-          "name": "Romain Métairie, Sascha Garcia,  AFP, Reuters ."
         }
       ],
       "tags": [],
@@ -8179,22 +8679,6 @@
       "title": "Germany news: Investigators raid homes of Frankfurt police",
       "content_html": "Investigators have searched the homes and offices of 17 Frankfurt police officers accused of assault and obstruction of justice. Meanwhile, two far-right AfD lawmakers have lost parliamentary immunity.",
       "date_published": "2025-10-10T10:06:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "542a397ef703a4c0a65dc7aaf41d67859880be6d9ec90cdffa545fd9629090d7",
-      "url": "https://www.dw.com/en/maria-corina-machado-of-venezuela-wins-nobel-peace-prize/live-74300626?maca=en-rss-en-all-1573-rdf",
-      "title": "Maria Corina Machado of Venezuela wins Nobel Peace Prize",
-      "content_html": "The Nobel Peace Prize for 2025 has gone to Maria Corina Machado. The committee lauded \"her tireless work promoting democratic rights for the people of Venezuela.\"",
-      "date_published": "2025-10-10T09:21:00+00:00",
       "authors": [],
       "tags": [
         "News"
