@@ -5,6 +5,36 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "f506fb33c794c32c047be9b58eff0e7679025c49800a978f1ebcc077ff613e66",
+      "url": "https://www.ukrinform.net/rubric-ato/4047993-air-force-spokesperson-shares-details-of-russias-overnight-attack-on-ukraines-energy-infrastructure.html",
+      "title": "Air Force spokesperson shares details of Russia's overnight attack on Ukraine's energy infrastructure",
+      "content_html": "On the night of October 15-16, Russia carried out another combined strike targeting Ukraine's energy infrastructure, particularly facilities in the gas sector.",
+      "date_published": "2025-10-16T11:37:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "acec0005936a69c671a7689c36f8cfaa6848901d052793ea2e285c70ffa038a0",
+      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
+      "title": "Huge crowds welcome body of former PM Odinga to Kenya",
+      "content_html": "A sudden influx of mourners prompted authorities to relocate the public viewing ceremony.",
+      "date_published": "2025-10-16T11:35:39+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "70a88d677e3c41f0437a549661a16fd29ab974a2c0e8c04ae42e1f7248a7954d",
       "url": "https://ici.radio-canada.ca/nouvelle/2200003/blue-jays-toronto-victoire-seattle",
       "title": "Les Blue Jays écrasent les Mariners 13 à 4; peuvent-ils égaler la série ce soir?",
@@ -15,6 +45,20 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3b93f020fd8c1b9cbc22385c5d4e15c846da4ddc1f374b0cb38c0ff679d1f8d9",
+      "url": "https://www.lemonde.fr/afrique/article/2025/10/16/tunisie-ouverture-du-proces-de-mustapha-djemali-juge-pour-etre-venu-en-aide-a-des-migrants_6647146_3212.html",
+      "title": "Tunisie : ouverture du procès de Mustapha Djemali, jugé pour être venu en aide à des migrants",
+      "content_html": "Un camp de migrants subsahariens à Tunis, en mars 2023.",
+      "date_published": "2025-10-16T11:30:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -47,11 +91,93 @@
       "lang": "en"
     },
     {
+      "id": "57696bd99dc5feb2d109378b467854df0da235c6e442e39c0e15ee387e290c79",
+      "url": "https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister",
+      "title": "MPs to hold inquiry into collapsed China spy case after No 10 publishes key evidence",
+      "content_html": "<p>Labour MP and chair of security committee Matt Western says there are ‘a lot of questions still to be asked’</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row\">Questions for CPS after No 10 publishes key witness statements in China spy row</a></p></li></ul><p>MPs will hold an inquiry into the collapse of a trial of two men accused of spying for China, after No 10 <a href=\"https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row\">published key evidence</a> in an attempt to draw a line under the row.</p><p>Matt Western, a Labour MP and chair of the joint committee on the national security strategy (JCNSS), told the House of Commons there are “a lot of questions yet to be asked” and announced a formal inquiry.</p> <a href=\"https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister\">Continue reading...</a>",
+      "date_published": "2025-10-16T11:24:51+00:00",
+      "authors": [
+        {
+          "name": "Eleni Courea Political correspondent"
+        }
+      ],
+      "tags": [
+        "Crown Prosecution Service",
+        "Law",
+        "UK news",
+        "China",
+        "Stephen Kinnock",
+        "Keir Starmer",
+        "Labour",
+        "Espionage"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e51ebfe5c85a7b53efe3bd038beda15bb27b56c992a42518deab79d4a5f61e12",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/16/review-anti-black-racism-metropolitan-police-force-london",
+      "title": "‘Damning’ review of anti-Black racism within Met police ‘buried’ by force",
+      "content_html": "<p>Exclusive: external consultancy report found discrimination ‘baked into HR systems’ at London force</p><p>A review of anti-Black racism within the Metropolitan police has been “buried” by the force, despite finding discrimination “baked into its HR systems”, the Guardian<em> </em>can reveal.</p><p>The internal review, commissioned by the Met from the consultancy HR Rewired, concluded that bias, racial stereotyping and inequity were woven through the force’s recruitment, promotion and grievance processes, affecting Black staff specifically.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/16/review-anti-black-racism-metropolitan-police-force-london\">Continue reading...</a>",
+      "date_published": "2025-10-16T11:24:47+00:00",
+      "authors": [
+        {
+          "name": "Nadine White"
+        }
+      ],
+      "tags": [
+        "Metropolitan police",
+        "London",
+        "Race",
+        "Police",
+        "Mark Rowley",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ee1a75476ebea21f421f42cabef71368baf39ace1aa150236b9e3b1242972efe",
+      "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
+      "title": "Joint committee on national security strategy to hold inquiry into collapse of China spy trial, MPs told – UK politics live",
+      "content_html": "<p>Chairs of home affairs, foreign affairs and justice committees to be among those involved in inquiry</p><p><strong>Ward</strong> says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government.</p><p>There is a lot of jeering at this. The Speaker, <strong>Lindsay Hoyle</strong>, reprimands Tom Tugendhat for his interruption.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-10-16T11:23:11+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Conservatives",
+        "China",
+        "Espionage",
+        "Crown Prosecution Service",
+        "Keir Starmer",
+        "Cyberwar",
+        "Dominic Cummings",
+        "Tom Tugendhat"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "da4896646e9a276f7820e7b713bf4737254694b5e50e2a0a6b9ddbb60f969e13",
       "url": "https://www.lefigaro.fr/international/le-cameroun-a-vote-majoritairement-pour-le-changement-l-opposant-a-paul-biya-issa-tchiroma-bakary-revendique-une-victoire-historique-20251015",
       "title": "«Le Cameroun a voté majoritairement pour le changement» : l’opposant à Paul Biya, Issa Tchiroma Bakary, revendique une victoire historique",
       "content_html": "Trois jours après le vote, aucun chiffre n’a été divulgué, pas même celui de la participation. Issa Tchiroma marche donc sur des œufs pour maintenir les siens sous tensions.",
-      "date_published": "2025-10-16T11:12:12+00:00",
+      "date_published": "2025-10-16T11:23:02+00:00",
       "authors": [],
       "tags": [
         "International"
@@ -59,6 +185,150 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3b441a04a82b5a51be726661592e8c8db1e016d0e6a442d747e073706b9cf958",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-netanyahu-d%C3%A9t%C3%A9rmin%C3%A9-%C3%A0-obtenir-le-retour-de-toutes-les-d%C3%A9pouilles-d-otages",
+      "title": "Netanyahu détérminé à obtenir le retour de toutes les dépouilles d'otages",
+      "content_html": "Le Premier ministre israélien Benjamin Netanyahu a affirmé jeudi 16 octobre sa détermination à obtenir le retour de toutes les dépouilles d'otages aux mains du Hamas, au lendemain de menaces de son ministre de la Défense de reprendre l'offensive dans la bande de Gaza.",
+      "date_published": "2025-10-16T11:17:19+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6942906711b6cd625b313f4bc3cff23a1939f5c4ef94c43c16d8c8cdc30c8222",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-tunisie-manifestations-contre-la-pollution-d-une-usine-de-fertilisants",
+      "title": "Tunisie : manifestations contre la pollution d’une usine de fertilisants",
+      "content_html": "À #Gabès, en #Tunisie, des #manifestations ont éclaté pour exiger la fermeture d’une #usine #toxique qui pollue l’environnement et met en danger la #santé des habitants. Face à la pression, le président Kaïs #Saied a envoyé une équipe sur place pour tenter de nettoyer ce site de production d’engrais phosphatés.",
+      "date_published": "2025-10-16T11:15:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "969c86cc60580368f8a8ea84e85c84000aaf0c82ee03298d402eceb82702fc8d",
+      "url": "https://www.theguardian.com/us-news/2025/oct/16/first-thing-jd-vance-brushes-off-racist-texts-in-republican-group-chat-as-what-kids-do",
+      "title": "First Thing: JD Vance brushes off racist texts in Republican group chat as ‘what kids do’",
+      "content_html": "<p>Vice-president downplays messages such as ‘I love Hitler’ in chat by 24- to 35-year-olds as ‘stupid jokes’. Plus, Virginia Giuffre on her abuse at the hands of Epstein and Maxwell</p><p>Good morning.</p><p>JD Vance sought to downplay the revelation that leaders of a group called the Young Republicans <a href=\"https://www.theguardian.com/us-news/2025/oct/15/jd-vance-racist-messages-young-republicans-chat-leak\">exchanged hundreds of racist, sexist text messages</a> – including one in which rape was called “epic”, and another in which someone wrote “I love Hitler” – as youthful indiscretions.</p><p><strong>How old are the people who exchanged the messages?</strong> <a href=\"https://www.motherjones.com/politics/2025/10/republican-hitler-group-chat-nazi-politico/\">Mother Jones reports</a> that public records indicate that eight of the 11 Republican operatives who took part in the offensive chat appear to range in age from 24 to 35.</p><p><strong>What has the US said about the return of the dead hostages?</strong> Though well short of the 28 dead hostages expected by Israel, senior US advisers later said they believed Hamas was committed to finding and returning the others.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/16/first-thing-jd-vance-brushes-off-racist-texts-in-republican-group-chat-as-what-kids-do\">Continue reading...</a>",
+      "date_published": "2025-10-16T11:15:14+00:00",
+      "authors": [
+        {
+          "name": "Nicola Slawson"
+        }
+      ],
+      "tags": [
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d505bbebcc601ed0be582bf82cb5129e0dc5992be4804c1c9dab7b2c82f62aed",
+      "url": "https://www.ukrinform.net/rubric-economy/4047981-ukrenergo-not-planning-to-introduce-scheduled-power-outages-for-households.html",
+      "title": "Ukrenergo not planning to introduce scheduled power outages for households",
+      "content_html": "Ukraine's national power grid operator Ukrenergo currently has no plans to introduce scheduled hourly power outages for households.",
+      "date_published": "2025-10-16T11:15:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2f06568d0e540e134d9c14c14ed3da251df3584db346b239c811d49e3c485fc7",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-gouvernement-lecornu-la-motion-de-censure-de-lfi-rejet%C3%A9e-1",
+      "title": "France : Sébastien Lecornu échappe à la motion de censure de LFI",
+      "content_html": "Sébastien Lecornu a échappé jeudi à la motion de censure déposée par La France insoumise : seuls 271 députés ont voté pour la chute de son gouvernement au lieu des 289 voix requises. Johan Bodin nous en dit plus.",
+      "date_published": "2025-10-16T11:14:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "df9b295f67d92bbecee8deb44105713cbe90612818f6eccf0ad65945cde38076",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-xxx-tunisie-manifestations-contre-la-pollution-d-une-usine-de-fertilisants",
+      "title": "XXX Tunisie : manifestations contre la pollution d’une usine de fertilisants",
+      "content_html": "À #Gabès, en #Tunisie, des #manifestations ont éclaté pour exiger la fermeture d’une #usine #toxique qui pollue l’environnement et met en danger la #santé des habitants. Face à la pression, le président Kaïs #Saied a envoyé une équipe sur place pour tenter de nettoyer ce site de production d’engrais phosphatés.",
+      "date_published": "2025-10-16T11:13:10+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4b52cf8d8db20c5bf3b84b321b2753e437b24d9753aae371c4c52095d319c200",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-gouvernement-lecornu-la-motion-de-censure-de-lfi-rejet%C3%A9e",
+      "title": "Gouvernement Lecornu : la motion de censure de LFI rejetée",
+      "content_html": "L'Assemblée nationale a rejeté à quelques voix près jeudi la motion de censure déposée par LFI contre le gouvernement, le PS ayant décidé de laisser sa chance au Premier ministre Sébastien Lecornu, contre la promesse de suspendre la réforme des retraites jusqu'à l'élection présidentielle. Nous en parlons avec notre journaliste Marc Perelman",
+      "date_published": "2025-10-16T11:11:42+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0f40fbdc1e338246133334c7bdab58be76951b597adf232f4c97b6f853a4375b",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-ukraine-des-sites-de-production-de-gaz-%C3%A0-l-arr%C3%AAt-apr%C3%A8s-des-frappes-russes",
+      "title": "Ukraine : des sites de production de gaz à l'arrêt après des frappes russes",
+      "content_html": "Des sites de production de gaz en Ukraine ont été mis à l'arrêt jeudi 16 octobre après une nouvelle vague de frappes russes, qui mettent sous pression le réseau énergétique à l'approche de l'hiver. Notre correspondant Gulliver Cragg nous en dit plus.",
+      "date_published": "2025-10-16T11:09:44+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -232,34 +502,22 @@
       "lang": "en"
     },
     {
-      "id": "ee1a75476ebea21f421f42cabef71368baf39ace1aa150236b9e3b1242972efe",
-      "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
-      "title": "Joint committee on national security strategy to hold inquiry into collapse of China spy trial, MPs told – UK politics live",
-      "content_html": "<p>Chairs of home affairs, foreign affairs and justice committees to be among those involved in inquiry</p><p><strong>Ward</strong> says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government.</p><p>There is a lot of jeering at this. The Speaker, <strong>Lindsay Hoyle</strong>, reprimands Tom Tugendhat for his interruption.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-10-16T10:55:58+00:00",
+      "id": "86fb2ebde4f4cbf175cf97b87bf30d47febae28a74fee4ae1976fd1af5037213",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-urgence-humanitaire-%C3%A0-gaza-il-est-urgent-d-ouvrir-tous-les-points-de-passage",
+      "title": "Urgence humanitaire à Gaza : \"il est urgent d'ouvrir tous les points de passage\"",
+      "content_html": "Les autorités israéliennes ont annoncé jeudi 16 octobre que la date d'ouverture du passage de Rafah entre la bande de Gaza et l'Egypte serait annoncée \"ultérieurement\".\"Il est urgent d'ouvrir tous les points de passage, alerte notre invitée Anne-Claire Yaeesh, directrice nationale pour le territoire palestinien à Handicap International. Tous nos stocks de chaises roulantes, de béquilles... est bloqué soit en Jordanie, soit en Égypte.\"",
+      "date_published": "2025-10-16T10:54:04+00:00",
       "authors": [
         {
-          "name": "Andrew Sparrow"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "China",
-        "Espionage",
-        "Crown Prosecution Service",
-        "Keir Starmer",
-        "Cyberwar",
-        "Dominic Cummings",
-        "Tom Tugendhat"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "45a14df4dbffda6baa9f125aaba97ac0b5bf937c8f4c4a9fd4a30b1db7407dba",
@@ -326,6 +584,24 @@
       "lang": "en"
     },
     {
+      "id": "9653af3c76d0d5b5d85fcf46abad28cbe0edcd1ca3e938c971fde47fe2705fc6",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-p%C3%A9rou-un-mort-et-plus-de-100-bless%C3%A9s-apr%C3%A8s-de-nouvelles-manifestations",
+      "title": "Pérou : un mort et plus de 100 blessés après de nouvelles manifestations",
+      "content_html": "Des affrontements à Lima ont fait un mort et plus de 100 blessés dans la nuit de mercredi à jeudi 16 octobre, après une grande manifestation de la jeunesse pour dire son ras-le-bol de la classe politique et du crime organisé, selon un nouveau bilan des autorités.",
+      "date_published": "2025-10-16T10:49:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "264e0508bf5f285dab553d043f19b7cc82d25acf5574cf803747a6bcbebf8853",
       "url": "https://www.theguardian.com/world/2025/oct/16/russia-strikes-ukraine-gas-sites-zelenskyy-us-trump-meeting-cruise-missiles",
       "title": "Russia bombards Ukraine’s gas sites as Zelenskyy flies to US for Trump meeting",
@@ -354,9 +630,27 @@
       "lang": "en"
     },
     {
+      "id": "2cd7db7a85e77f35d7da73c46f5153942e19f03be22949ee1bba099db921ed67",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-ukraine-coupure-de-courant-massive-apr%C3%A8s-des-attaques-russes",
+      "title": "Ukraine : coupure de courant massive après des attaques russes",
+      "content_html": "L’Ukraine est obligée de couper son courant par intermittence en raison des dégâts causés aux infrastructures électriques par les frappes russes. De nombreuses régions sont touchées, comme celles de Kiev ou de Dnipropetrovsk.",
+      "date_published": "2025-10-16T10:45:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "af915466ef1e82c537afee38132b4582f1191b2eebcddfad6e74969be2b8e9ce",
       "url": "https://elpais.com/internacional/2025-10-16/jd-vance-defiende-a-los-jovenes-republicanos-que-declararon-su-amor-por-hitler-en-un-chat-privado.html",
-      "title": "J.D. Vance défend les jeunes Républicains qui ont déclaré leur « amour » pour Hitler lors d'une conversation privée",
+      "title": "J.D. Vance défend les jeunes républicains qui ont déclaré leur « amour » pour Hitler lors d'une conversation privée",
       "content_html": "Le vice-président des États-Unis, J. D. Vance, lors d'une conférence de presse à Washington, le 1er octobre.",
       "date_published": "2025-10-16T10:43:42+00:00",
       "authors": [
@@ -399,6 +693,24 @@
       "lang": "en"
     },
     {
+      "id": "c3a387999c9436ba31ad47d30808c91baa779b7fd6b82eb0e077970bc3bfbeaf",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-trump-approuve-des-op%C3%A9rations-de-la-cia-contre-le-venezuela-qui-proteste",
+      "title": "Trump approuve des opérations de la CIA contre le Venezuela",
+      "content_html": "Le président américain Donald Trump a indiqué mercredi 15 octobre avoir autorisé des actions clandestines de la CIA contre le Venezuela et envisager des frappes sur le territoire vénézuélien, déclenchant la colère de Caracas qui s'est insurgé contre \"les coups d'Etats fomentés\" par la principale agence américaine de renseignement extérieur.",
+      "date_published": "2025-10-16T10:37:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "95e24b43954eea855fd2603d164bf019b550797e326c0cc158cd0415aabc8c9d",
       "url": "https://www.lemonde.fr/international/article/2025/10/16/en-norvege-un-ancien-vigile-de-l-ambassade-des-etats-unis-condamne-pour-espionnage-au-profit-de-la-russie-et-de-l-iran_6647142_3210.html",
       "title": "En Norvège, un ancien vigile de l’ambassade des Etats-Unis condamné pour espionnage au profit de la Russie et de l’Iran",
@@ -409,6 +721,24 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1771c8936f312212f847ad4e6560f538f761d6510150a13b6f642664b60679e8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-tunisie-%C3%A0-gab%C3%A8s-mobilisation-contre-un-complexe-chimique-polluant",
+      "title": "Tunisie : à Gabès, mobilisation contre un complexe chimique polluant",
+      "content_html": "Plusieurs milliers d'habitants de Gabès, dans le sud tunisien, ont manifesté mercredi 15 octobre pour réclamer la fermeture d'un complexe chimique, après des dizaines de cas d'intoxications ces dernières semaines.",
+      "date_published": "2025-10-16T10:34:57+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -481,18 +811,22 @@
       "lang": "en"
     },
     {
-      "id": "acec0005936a69c671a7689c36f8cfaa6848901d052793ea2e285c70ffa038a0",
-      "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-      "title": "Flights halted at Kenyan airport as thousands turn out to receive Odinga's body",
-      "content_html": "A sudden influx of mourners prompted authorities to relocate the public viewing ceremony.",
-      "date_published": "2025-10-16T10:30:35+00:00",
-      "authors": [],
+      "id": "7068e8e115e241dc6bcbfb74d2783487f3d42f01f56b4b0619e0f626a844e201",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-rencontre-poutine-al-charaa-je-ne-pense-pas-qu-on-puisse-parler-d-alliance",
+      "title": "Rencontre Poutine-al-Charaa : \"je ne pense pas qu'on puisse parler d'alliance\"",
+      "content_html": "Le président syrien par intérim Ahmed al-Charaa a dit mercredi 15 octobre en Russie vouloir \"redéfinir\" les relations Damas-Moscou, lors de sa première rencontre avec Vladimir Poutine depuis le renversement de Bachar al-Assad, un ex-allié clé du Kremlin.\n \nNous en parlons avec notre invité Nadim Houry, directeur exécutif du think thank Arab Reform Initiative.",
+      "date_published": "2025-10-16T10:30:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
       "tags": [],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "bc4b5e8bbc72c97ed2abfb8f608ac20d4a448a3f0f4c627fe5a1e308d09e89d2",
@@ -518,6 +852,26 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "061f894ef23d9f0973d7910952b4a6270ff144393e6e06bec06e067f252a5aa1",
+      "url": "https://www.france24.com/fr/sports/20251016-can-2025-telechargez-calendrier-complet",
+      "title": "CAN 2025 : téléchargez le calendrier complet de la compétition",
+      "content_html": "La CAN 2025 aura lieu du samedi 21 décembre au dimanche 18 janvier au Maroc. Retrouvez toutes les affiches, les dates et les horaires dans notre calendrier à télécharger.",
+      "date_published": "2025-10-16T10:28:48+00:00",
+      "authors": [
+        {
+          "name": "Romain HOUEIX"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -574,6 +928,24 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
+    },
+    {
+      "id": "ea17011d2c8483bc9d8d187043e78e53fc5c58662c41837daa3ca80940388dea",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-la-date-de-r%C3%A9ouverture-du-passage-de-rafah-sera-annonc%C3%A9e-ult%C3%A9rieurement-isra%C3%ABl",
+      "title": "La date de réouverture du passage de Rafah sera annoncée \"ultérieurement\" (Israël)",
+      "content_html": "Les autorités israéliennes ont annoncé jeudi 16 octobre que la date d'ouverture du passage de Rafah entre la bande de Gaza et l'Égypte serait annoncée \"ultérieurement\".",
+      "date_published": "2025-10-16T10:25:46+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "059fc6313420c372ea7b910cdfbb603d10bfc0505eba7b4b815b14bdfa4fa6d6",
@@ -633,6 +1005,24 @@
       "lang": "en"
     },
     {
+      "id": "a3b4c2c942f6685a8a3d33fb1c115fdd1230f65aa7541b765fc2ee2df8f5f442",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-isra%C3%ABl-confirme-l-identification-de-deux-otages-isra%C3%A9liens-morts-restitu%C3%A9s-mercredi",
+      "title": "Israël confirme l'identification de deux otages israéliens morts restitués mercredi",
+      "content_html": "L'armée israélienne a annoncé jeudi 16 octobre avoir identifié les dépouilles des otages Inbar Hayman et Mohammad al-Atrash restituées à Israël la veille au soir par le Hamas.",
+      "date_published": "2025-10-16T10:20:42+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "c096825b4cbc056273451f9cd3c16ed95f0518518c8e44a71ebcf926d8f3532e",
       "url": "https://www.dw.com/en/can-hamas-be-disarmed-in-gaza/a-74375825?maca=en-rss-en-all-1573-rdf",
       "title": "Can Hamas be disarmed in Gaza?",
@@ -652,7 +1042,7 @@
       "id": "8692e844df9768ddbb766bb3b006c302a61996989cca18ec205dc9d81046d53f",
       "url": "https://www.elmundo.es/internacional/2025/10/16/68f0b620e9cf4af3558b45a8.html",
       "title": "Sébastien Lecornu survit à deux motions de censure",
-      "content_html": "Présenté par l'extrême gauche, il a été soutenu par 271 députés, mais il a fallu 289 voix pour que la motion soit approuvée.",
+      "content_html": "Présentée par l'extrême gauche, elle a été soutenue par 271 députés, mais il a fallu 289 voix pour que la motion soit approuvée.",
       "date_published": "2025-10-16T10:18:47+00:00",
       "authors": [
         {
@@ -686,6 +1076,24 @@
       "lang": "en"
     },
     {
+      "id": "a2ae16609f3a1d7ad57bf5d1450fb949a697ba5c72565c1e749599de27850cb4",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-politique-en-france-s%C3%A9bastien-lecornu-face-%C3%A0-la-censure",
+      "title": "Politique en France : Sébastien Lecornu face à la censure",
+      "content_html": "À peine nommé, Sébastien Lecornu doit affronter un double front à l'Assemblée nationale : deux motions de censure, l'une déposée par le Rassemblement national (RN), l'autre par La France insoumise (LFI). Johan Bodin nous en dit plus.",
+      "date_published": "2025-10-16T10:17:33+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "30e269fe0b3698e4a2398b8f98d8d656cce1b20083f3d8fe4cb24bf8b8e09822",
       "url": "https://www.france24.com/en/france/20251016-live-french-pm-faces-two-no-confidence-votes-over-budget-proposals",
       "title": "Live: French PM Lecornu survives both no-confidence votes in parliament",
@@ -702,6 +1110,42 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
+    },
+    {
+      "id": "6e31b7d961ec9adc2a70678194159025390ac18af44ce71bbd2b334fef81b5f3",
+      "url": "https://www.france24.com/fr/france/20251016-en-direct-france-sebastien-lecornu-deux-motions-censure-assemblee-nationale-rn-lfi",
+      "title": "En direct : sans surprise, le gouvernement Lecornu échappe aussi à la motion de censure du RN",
+      "content_html": "",
+      "date_published": "2025-10-16T10:13:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ba203c57d622b6c9bdd4017c789cac5337914a032f5595fdbd184bc8b6b784cb",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-tunisie-%C3%A0-gab%C3%A8s-des-manifestations-pour-la-fermeture-d-une-usine-chimique",
+      "title": "Tunisie : à Gabès, des manifestations pour la fermeture d'une usine chimique",
+      "content_html": "Plusieurs milliers d'habitants de Gabès, dans le sud du pays, ont manifesté ce mercredi 15 octobre à l'appel du collectif Stop Pollution pour réclamer la fermeture d'un complexe chimique. Une manifestation organisée au lendemain de la prise en charge, par la Protection civile, de dizaines d'élèves et de riverains de l'usine, victimes de malaises...",
+      "date_published": "2025-10-16T10:13:22+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "b38d566f834c64c48c5ce7b40dc26bc329e81563a67b6b60f1ba8c5b86e2237d",
@@ -724,7 +1168,7 @@
     {
       "id": "40fb0fa5e2c4987c2dc988b28cc880a65e052496d20319f54f8a0ede83372837",
       "url": "https://elpais.com/internacional/2025-10-16/alemania-encarga-a-airbus-20-nuevos-aviones-eurofighter-para-reforzar-sus-defensas.html",
-      "title": "L'Allemagne commande à Airbus 20 nouveaux avions Eurofighter pour renforcer ses défenses",
+      "title": "L'Allemagne commande 20 nouveaux avions Eurofighter à Airbus pour renforcer ses défenses",
       "content_html": "Avions Eurofighters, lors d'exercices à l'aéroport de Münster-Osnabrück (Allemagne), le 9 octobre 2025.",
       "date_published": "2025-10-16T10:08:07+00:00",
       "authors": [
@@ -754,9 +1198,9 @@
       "lang": "fr"
     },
     {
-      "id": "2d818b8efbfb84b07d32ac4effef32d116c03215f6b686b7eeacc2a0d3c1b2fc",
-      "url": "https://www.dw.com/en/iran-stuck-between-anger-and-acceptance-as-gaza-war-ends/a-74379071?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran stuck between anger and acceptance as Gaza war ends",
+      "id": "60b545d972a9c76d96271776abf05a64966efa03bab545612c490cffb4c25e4e",
+      "url": "https://www.dw.com/en/iran-stuck-between-anger-and-acceptance-after-gaza-ceasefire/a-74379071?maca=en-rss-en-all-1573-rdf",
+      "title": "Iran stuck between anger and acceptance after Gaza ceasefire",
       "content_html": "Russia is mediating between Iran and Israel while Donald Trump tries to remake the Middle East with the US-backed Gaza peace plan. The new reality leaves the Iranian regime with few options and even fewer friends.",
       "date_published": "2025-10-16T10:08:00+00:00",
       "authors": [],
@@ -1059,6 +1503,24 @@
       "lang": "en"
     },
     {
+      "id": "e93490d1a3747ac5e19aa2e0e1afdf85f3e9e34e3e544b5ebe4f873adf2cf3c1",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-rdc-afc-et-m23-s-accordent-sur-un-m%C3%A9canisme-de-v%C3%A9rification-du-cessez-le-feu",
+      "title": "RDC : AFC et M23 s'accordent sur un mécanisme de vérification du cessez-le-feu",
+      "content_html": "L’AFC et le M23 sont tombés d'accord sur le mode de vérification du respect du cessez-le-feu. Un cessez-le-feu signé en juillet à Doha, déjà violé à maintes reprises. En théorie, ce mécanisme doit faire taire les armes, alors que des combats ont été signalés ces dernières semaines. Aurélie Bazzara-Kibangula nous en dit plus.",
+      "date_published": "2025-10-16T09:43:42+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "a037dba6273ae010d47c97d6d5bd8d38653e8a5156c4c85649b49cde6a55c485",
       "url": "https://www.dw.com/en/germany-news-school-students-lag-behind-in-science-and-math/live-74379117?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: School students lag behind in science and math",
@@ -1089,6 +1551,24 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f29bf7f3d1d1f96347e966b1163ac93f59b9ea07af43da593be02254d95499c0",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-pr%C3%A9sidentielle-en-guin%C3%A9e-bissau-domingos-sim%C3%B5es-pereira-exclu-de-la-liste",
+      "title": "Présidentielle en Guinée-Bissau : Domingos Simões Pereira exclu de la liste",
+      "content_html": "L’élection présidentielle doit se tenir dans un peu plus d’un mois en Guinée-Bissau. Et le principal opposant au président Umaro Sissoco Embaló ne pourra pas se porter candidat. Domingos Simões Pereira, leader du parti historique PAIGC, a été définitivement exclu par la Cour suprême. Notre correspondante régionale, Sarah Sakho, nous en dit plus.",
+      "date_published": "2025-10-16T09:34:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1178,6 +1658,24 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
+    },
+    {
+      "id": "418b26dd9806bbc2bae139b8fdc31eb4b063c424f003909a1efa178d6bb80ddf",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-pr%C3%A9sidentielle-en-c%C3%B4te-d-ivoire-simone-ehivet-en-campagne-%C3%A0-guib%C3%A9roua",
+      "title": "Présidentielle en Côte d'Ivoire : Simone Ehivet en campagne à Guibéroua",
+      "content_html": "Quatre candidats d'opposition sont qualifiés pour la présidentielle en Côte d'Ivoire. Parmi eux, Simone Ehivet. Elle s’est rendue ce mardi à Guibéroua, un village au cœur d’une région longtemps acquise à son ex-mari Laurent Gbagbo. Notre correspondante Julia Guggenheim nous en dit plus.",
+      "date_published": "2025-10-16T09:26:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "74b3da9b3aec5f36506a014d7f14116f08d781aa89c13257c48e21be7b21e2cc",
@@ -1337,32 +1835,22 @@
       "lang": "fr"
     },
     {
-      "id": "be41ec3ec3a913a86a616c844764254762bef8eddfbea880adee95d3594aaf7c",
-      "url": "https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey",
-      "title": "‘Gruesome videos’: social media pushes distressing news to children, experts say",
-      "content_html": "<p>Survey by Internet Matters finds children being left worried and upset by content showing shootings, stabbings and war</p><p>More than half of children who get news from social media are left worried and upset after seeing content that involves war, violence and death, according to new research that found social media companies are “pushing” distressing news to children who are not seeking it.</p><p>Videos of the murder of Charlie Kirk, the Liverpool parade car-ramming attack, scenes from wars, shootings, stabbings and car crashes have recently been pushed into children’s feeds, research by Internet Matters, an online safety organisation, has found. As a result, 39% of those who saw <a href=\"https://www.theguardian.com/society/2025/jan/24/talking-about-extreme-online-violence-with-young-people-advice-for-parents\">distressing content</a> described themselves as very or extremely upset and worried by it.</p> <a href=\"https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey\">Continue reading...</a>",
-      "date_published": "2025-10-16T09:11:18+00:00",
+      "id": "a866c28e23914c1b1c6f8905f98a2260377b94692bf1a9a68628c10d618cc64e",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251016-kenya-sept-jours-de-deuil-national-d%C3%A9cr%C3%A9t%C3%A9s-apr%C3%A8s-le-d%C3%A9c%C3%A8s-de-raila-odinga",
+      "title": "Kenya : sept jours de deuil national décrétés après le décès de Raila Odinga",
+      "content_html": "Raila Odinga a été cinq fois candidat malheureux à la présidentielle, notamment en 2022. La disparition de cette figure incontournable de la communauté Luo, l'une des plus importantes du pays, laisse un grand vide dans l'opposition kényane. Notre correspondant Bastien Renouil nous en dit plus.",
+      "date_published": "2025-10-16T09:10:28+00:00",
       "authors": [
         {
-          "name": "Robert Booth Technology editor"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Children",
-        "Internet safety",
-        "Social media",
-        "Digital media",
-        "Instagram",
-        "TikTok",
-        "YouTube",
-        "Technology",
-        "UK news"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "69c0c60f87e642659d1e86098532b06e737e54d848350c385c2e414686bb2d54",
@@ -1708,33 +2196,6 @@
       "lang": "en"
     },
     {
-      "id": "57696bd99dc5feb2d109378b467854df0da235c6e442e39c0e15ee387e290c79",
-      "url": "https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister",
-      "title": "Prosecutions director must explain why China spy case was dropped, says UK minister",
-      "content_html": "<p>Stephen Kinnock says government is ‘deeply disappointed’ CPS abandoned prosecution</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row\">Questions for CPS after No 10 publishes key witness statements in China spy row</a></p></li></ul><p>The director of public prosecutions should explain why he felt he could not proceed with the trial of two men accused of spying for China, a government minister has said after No 10 <a href=\"https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row\">published key evidence</a> in an attempt to draw a line under the row.</p><p>Stephen Kinnock said the government was “deeply disappointed that the prosecution didn’t go ahead” and that Stephen Parkinson was “the best person to explain” <a href=\"https://www.theguardian.com/law/2025/oct/08/why-has-the-uk-dropped-its-trial-of-two-alleged-china-spies\">why the Crown Prosecution Service (CPS) felt</a> the government’s evidence did not meet the bar.</p> <a href=\"https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister\">Continue reading...</a>",
-      "date_published": "2025-10-16T08:42:26+00:00",
-      "authors": [
-        {
-          "name": "Eleni Courea Political correspondent"
-        }
-      ],
-      "tags": [
-        "Crown Prosecution Service",
-        "Law",
-        "UK news",
-        "China",
-        "Stephen Kinnock",
-        "Keir Starmer",
-        "Labour",
-        "Espionage"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aeed93b7f78bfbe454d2ebb0c9d73b8c9b879747a72be68e6290ed287867618b",
       "url": "https://www.ukrinform.net/rubric-economy/4047918-russia-launches-its-sixth-massive-attack-on-ukraines-gas-infrastructure-since-beginning-of-october.html",
       "title": "Russia launches its sixth massive attack on Ukraine's gas infrastructure since beginning of October",
@@ -1823,6 +2284,26 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "3250d45b6fd3c93b3c0a82f62bdba2556601055796c12ce1e1995767e86b6d1f",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20251016-pr%C3%A9sidentielle-en-bolivie-le-lithium-au-c%C5%93ur-des-promesses-%C3%A9conomiques-des-candidats",
+      "title": "Présidentielle en Bolivie : le lithium au cœur des promesses économiques des candidats",
+      "content_html": "À l’approche du second tour de la présidentielle, la Bolivie cherche un nouveau souffle économique. Après deux décennies de socialisme, le pays fait face à un net ralentissement de la croissance. Le “triangle d’or du lithium”, dont elle détient une part majeure, alimente aujourd’hui de grands espoirs de relance.",
+      "date_published": "2025-10-16T08:31:38+00:00",
+      "authors": [
+        {
+          "name": "Christophe DANSETTE"
+        }
+      ],
+      "tags": [
+        "Info éco"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "2163639450a0a845f1b49cb8c12cab383dc1d49fb870631a5809ec2a0e8e7453",
@@ -2757,7 +3238,7 @@
     {
       "id": "f2c784f47453183f90adc4e0d2b6f59ae10332be4749c119266841bcd8c92348",
       "url": "https://www.elmundo.es/internacional/2025/10/15/68efe92ee4d4d8f11c8b45a9.html",
-      "title": "Se convertir à l'islam en échange d'un meilleur traitement et de meilleure nourriture : ce que l'otage Rom Braslavski a refusé et la punition qu'il a reçue",
+      "title": "Se convertir à l'islam en échange d'un meilleur traitement et d'une meilleure nourriture : ce que l'otage Rom Braslavski a refusé et la punition qu'il a reçue",
       "content_html": "Le Forum des Familles et des Personnes Disparues exige la remise de tous les corps : \"Le combat ne s'arrêtera que jusqu'à leur retour pour qu'ils soient enterrés\"",
       "date_published": "2025-10-16T06:16:21+00:00",
       "authors": [
@@ -2802,31 +3283,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a83191ddcd593bbe76849599c5139227b75dedfc5eb4aede4ff8a299a7e72acf",
-      "url": "https://www.theguardian.com/music/2025/oct/16/britney-spears-ex-husband-kevin-federline-memoir",
-      "title": "Britney Spears calls claims in Kevin Federline’s memoir ‘extremely hurtful’",
-      "content_html": "<p>Singer disputes account in ex-husband’s memoir You Thought You Knew, in which he says she behaved erratically around their sons</p><p>Britney Spears has responded to her ex-husband Kevin Federline’s claims in his upcoming memoir about their marriage, calling his depiction of her “extremely hurtful and exhausting”.</p><p>In You Thought You Knew, Federline details his two-year marriage with Spears and their divorce in 2007, which was followed by a protracted battle over custody of their two sons, Sean Preston and Jayden James.</p> <a href=\"https://www.theguardian.com/music/2025/oct/16/britney-spears-ex-husband-kevin-federline-memoir\">Continue reading...</a>",
-      "date_published": "2025-10-16T06:05:12+00:00",
-      "authors": [
-        {
-          "name": "Michael Sun"
-        }
-      ],
-      "tags": [
-        "Britney Spears",
-        "Music",
-        "Culture",
-        "Books",
-        "Autobiography and memoir",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3309,20 +3765,6 @@
       "lang": "en"
     },
     {
-      "id": "4057d28ace2b6a37ab8511059be5e9938f026302484f5d7c2880c95f67b4519f",
-      "url": "https://www.lemonde.fr/idees/article/2025/10/16/la-premiere-phase-du-plan-de-donald-trump-pour-gaza-est-un-succes-qui-laisse-israel-dans-une-position-rare-a-la-fois-forte-et-isolee_6647084_3232.html",
-      "title": "« La première phase du plan de Donald Trump pour Gaza est un succès… qui laisse Israël dans une position rare, à la fois forte et isolée »",
-      "content_html": "Donald Trump, entouré des chefs d’Etat participant au sommet pour la paix de Charm El-Cheikh (Egypte), le 13 octobre 2025.",
-      "date_published": "2025-10-16T03:45:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f4ce46648ac3bb68372c147374be2db7a3fb64024c414ec9e93cfa71a81bcae9",
       "url": "https://elpais.com/internacional/2025-10-16/el-intercambio-de-cadaveres-entre-israel-y-hamas-enturbia-el-alto-el-fuego-en-gaza.html",
       "title": "L’échange de corps entre Israël et le Hamas obscurcit le cessez-le-feu à Gaza",
@@ -3662,22 +4104,6 @@
       "lang": "en"
     },
     {
-      "id": "55286e6a1b26df490ff3b3ad169f459403d7045f6a7b545c03ef112eaca1d612",
-      "url": "https://www.ukrinform.net/rubric-crime/4047598-ssu-detains-russian-agent-who-collected-coordinates-for-missile-and-drone-strike-on-odesa.html",
-      "title": "SSU detains Russian agent who collected coordinates for missile and drone strike on Odesa",
-      "content_html": "The counterintelligence unit of the Security Service of Ukraine has detained a Russian agent who, acting on the instructions of the Federal Security Service (FSB), collected coordinates for a missile and drone strike on Odesa.",
-      "date_published": "2025-10-16T00:33:00+00:00",
-      "authors": [],
-      "tags": [
-        "Crime"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6e0a4db0b6cdf130bb35a87a8f647ab7bdf8c856f80076a8df019904fb5edd46",
       "url": "https://www.aljazeera.com/news/liveblog/2025/10/16/live-gaza-ceasefire-fears-as-israel-demands-return-of-all-captives-bodies?traffic_source=rss",
       "title": "LIVE: At least three Palestinians killed by Israel in Gaza amid ceasefire",
@@ -3706,22 +4132,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "00b4ad2c090e8d5dd84a4283bd379e352abbc70cf437fb05f15227a62a6fc8a2",
-      "url": "https://www.ukrinform.net/rubric-ato/4047540-russians-strike-private-sector-of-kramatorsk-community-damaging-houses.html",
-      "title": "Russians strike private sector of Kramatorsk community, damaging houses",
-      "content_html": "The Russian army shelled the private sector of the Kramatorsk community in the Donetsk region, damaging residential buildings.",
-      "date_published": "2025-10-15T23:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "6eb5b188188e8264acc8221d1830d294f7c5537ed665730be3b79db8aa049371",
@@ -4110,7 +4520,7 @@
       "id": "00ba2baec4c6532e74de01c09182d095febfa0e04f82427cecabfa574ec35d70",
       "url": "https://www.dw.com/en/german-researchers-find-highly-effective-hiv-antibody/a-74363818?maca=en-rss-en-all-1573-rdf",
       "title": "German researchers find highly effective HIV antibody",
-      "content_html": "Ahead of the 2025 European AIDS Conference in Paris, researchers discovered a new antibody against HIV. They say it can prevent infections and neutralize the virus in the laboratory. But will it work in real life?",
+      "content_html": "Ahead of the 2025 European AIDS Conference, researchers discovered a new antibody against HIV. They say it can prevent infections and neutralize the virus in the lab. But can it help boost the immune system in real life?",
       "date_published": "2025-10-15T19:30:00+00:00",
       "authors": [],
       "tags": [
@@ -4267,7 +4677,7 @@
     {
       "id": "187651638b46bc6ef287266c4ae83b6529568213d8e0275839f886d235b572ed",
       "url": "https://elpais.com/internacional/2025-10-15/cuerpo-responde-a-las-amenazas-arancelarias-de-trump-es-la-comision-europea-la-que-negocia-los-acuerdos-comerciales.html",
-      "title": "L'organisme répond aux menaces tarifaires de Trump : « C'est la Commission européenne qui négocie les accords commerciaux »",
+      "title": "L'organisme répond aux menaces tarifaires de Trump : « C'est la Commission européenne qui négocie les accords commerciaux »",
       "content_html": "Le ministre espagnol de l'Économie, Carlos Body, ce mercredi à Washington.",
       "date_published": "2025-10-15T18:11:03+00:00",
       "authors": [
@@ -6522,7 +6932,7 @@
       "id": "b623babf293c0f49f7327054ce17d120a0a55115f96e351f79f0ccd5600694d2",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68edfcf4fc6c833c6e8b457a.html",
       "title": "Trois policiers tués et 13 blessés dans une explosion de gaz provoquée pour empêcher une expulsion",
-      "content_html": "Les propriétaires sont trois frères qui avaient déjà tenté de faire sauter la maison.Deux d'entre eux sont détenus et un a pris la fuite.",
+      "content_html": "Les propriétaires sont trois frères qui avaient déjà tenté de faire sauter la maison auparavant.Deux d'entre eux sont détenus et un a pris la fuite.",
       "date_published": "2025-10-14T07:34:17+00:00",
       "authors": [
         {
@@ -6545,7 +6955,7 @@
       "id": "cb56c2c4aad37c2fa5566242a36fc7503814959d66536a63f12feb16f6bce5bd",
       "url": "https://www.elmundo.es/internacional/2025/10/14/68edf6a3e4d4d8546b8b459d.html",
       "title": "Trump se plaint de sa photo en couverture du magazine Time : \"Ils ont 'supprimé' mes cheveux\"",
-      "content_html": "Le leader républicain a souligné qu'il n'a jamais aimé que des photos soient prises en contre-plongée et a souligné que cette image en particulier \"est vraiment mauvaise\".",
+      "content_html": "Le leader républicain a souligné qu'il n'a jamais aimé que des photos soient prises en contre-plongée et a souligné que cette image \"est vraiment mauvaise\".",
       "date_published": "2025-10-14T07:07:38+00:00",
       "authors": [
         {
@@ -7107,7 +7517,7 @@
       "id": "f7dbe86e07dc9c363d57241c8c04643277d88fc0b1839718d8d55fe18527ee98",
       "url": "https://www.elmundo.es/internacional/2025/10/12/68ebc11a21efa075618b456f.html",
       "title": "Volodymyr Mykolayenko, ancien maire de Kherson : « Dans les prisons russes, j'étais battu quotidiennement, jusqu'à trois fois par jour »",
-      "content_html": "L'ancien conseiller municipal a été libéré en août dernier et confirme la torture systématique dans les prisons contrôlées par Moscou, dénoncée par l'ONU et plusieurs ONG internationales.",
+      "content_html": "L'ancien conseiller a été libéré en août dernier et confirme la torture systématique dans les prisons contrôlées par Moscou, dénoncée par l'ONU et plusieurs ONG internationales.",
       "date_published": "2025-10-13T17:49:49+00:00",
       "authors": [
         {
