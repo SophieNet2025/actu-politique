@@ -5,11 +5,39 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "a3d2dbbf7956326825f655ac929db435043c63229f0248184e037aa15b0a0315",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201360/alerte-amber-suspect-mort-niagara-falls",
-      "title": "Un suspect recherché pour une alerte Amber abattu par la police",
-      "content_html": "<p>Le suspect de 38&nbsp;ans avait fait l&#x27;objet d&#x27;une alerte Amber relativement à une disparition et à un homicide.</p>",
-      "date_published": "2025-10-22T17:31:09+00:00",
+      "id": "4b04f5973a62b7a8b1ba7035aa623d334789e2c6fb0a420fae1f39a85f61bae3",
+      "url": "https://elpais.com/internacional/2025-10-22/la-ue-estrecha-lazos-con-egipto-para-que-colabore-en-la-estabilizacion-del-mediterraneo.html",
+      "title": "L'UE renforce ses liens avec l'Égypte pour collaborer à la stabilisation de la Méditerranée",
+      "content_html": "De gauche à droite, le président du Conseil européen, António Costa ;le président égyptien, Abdel Fattá al Sisi, et la chef de la Commission européenne, Ursula von der Leyen, ce mercredi.",
+      "date_published": "2025-10-22T18:07:31+00:00",
+      "authors": [
+        {
+          "name": "Manuel Vicente Gómez Gómez"
+        }
+      ],
+      "tags": [
+        "Egipto",
+        "Unión Europea",
+        "Comisión Europea",
+        "António Costa",
+        "Ursula von der Leyen",
+        "Consejo Europeo",
+        "Mar Mediterráneo",
+        "Europa",
+        "África"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7ee18ed50e66726c82b171c73e301ccf6869474571d3e540737eb529dfe786e6",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201399/elections-generales-liberaux-opposition-budget-federal",
+      "title": "Des élections cet hiver? Les libéraux jettent la balle dans le camp de l’opposition",
+      "content_html": "<p>Le premier ministre Mark Carney multiplie ses rencontres deux semaines avant le dépôt de son premier budget.</p>",
+      "date_published": "2025-10-22T18:06:38+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,11 +47,25 @@
       "lang": "fr"
     },
     {
-      "id": "7ee18ed50e66726c82b171c73e301ccf6869474571d3e540737eb529dfe786e6",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201399/elections-generales-liberaux-opposition-budget-federal",
-      "title": "Des élections cet hiver? Les libéraux jettent la balle dans le camp de l’opposition",
-      "content_html": "<p>Le premier ministre Mark Carney multiplie ses rencontres deux semaines avant le dépôt de son premier budget.</p>",
-      "date_published": "2025-10-22T17:25:25+00:00",
+      "id": "cb1d62efc2cb93d1dd193222346eecb804b9710b0c51ba697e002e5d7eff83bd",
+      "url": "https://www.bbc.com/news/articles/cd9k2w8ell0o?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes alleged drug boat in the Pacific",
+      "content_html": "At least eight strikes have been conducted against alleged drug traffickers near Latin America.",
+      "date_published": "2025-10-22T18:04:28+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a3d2dbbf7956326825f655ac929db435043c63229f0248184e037aa15b0a0315",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201360/alerte-amber-suspect-mort-niagara-falls",
+      "title": "Un suspect recherché pour une alerte Amber abattu par la police",
+      "content_html": "<p>Le suspect de 38&nbsp;ans avait fait l&#x27;objet d&#x27;une alerte Amber relativement à une disparition et à un homicide.</p>",
+      "date_published": "2025-10-22T18:02:11+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -31,6 +73,224 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "52fc86de9d6b84fb978aa2c7abdab64cf8e28f64e14bb88f6ba4adc29b16dbf6",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201428/paccar-mises-a-pied-usine-sainte-therese",
+      "title": "Paccar met à pied 300 travailleurs à son usine de Sainte-Thérèse",
+      "content_html": "<p>L&#x27;usine assemble des camions de classe&nbsp;5,&nbsp;6 et&nbsp;7 principalement destinés au marché américain.</p>",
+      "date_published": "2025-10-22T17:59:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9078ee0b21006e9ce329af7cb50b08eee009b88572ea5fccc388b9dc57cd5198",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201379/israel-cij-gaza-aide-humanitaire",
+      "title": "Israël ne doit plus empêcher l’aide à Gaza, déclare la Cour internationale de Justice",
+      "content_html": "<p>La Cour internationale de justice (CIJ) rappelle Israël à ses obligations en matière de droit international.</p>",
+      "date_published": "2025-10-22T17:57:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ac42aab293562e86e97b6075bfecc804fd4e0abfda3ea473990b453b3a52a82f",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/22/man-murdered-stranger-in-devon-park-after-losing-mental-health-support-inquest-hears",
+      "title": "Man murdered stranger in Devon park after losing mental health support, inquest hears",
+      "content_html": "<p>Coroner said a care coordinator might have prompted a multi-agency risk meeting before Cameron Davis killed 74-year-old Lorna England </p><p></p><p>A man with mental health issues and a history of making violent threats murdered a woman in a Devon park after falling off a waiting list for a care coordinator, possibly because a health trust’s computer records were compromised by a cyber-attack, an inquest has heard.</p><p>If Cameron Davis had been allocated a care coordinator, a multi-agency meeting on him may have been called <a href=\"https://www.theguardian.com/uk-news/article/2024/jul/09/cameron-davis-guilty-lorna-england-murder-exeter\">before he stabbed 74-year-old Lorna England</a>, the senior coroner for Devon, Plymouth and Torbay, Philip Spinney, concluded.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/22/man-murdered-stranger-in-devon-park-after-losing-mental-health-support-inquest-hears\">Continue reading...</a>",
+      "date_published": "2025-10-22T17:50:21+00:00",
+      "authors": [
+        {
+          "name": "Steven Morris"
+        }
+      ],
+      "tags": [
+        "Crime",
+        "Mental health",
+        "Health",
+        "Society",
+        "UK news",
+        "Devon",
+        "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a6ecc4cd1b0044571a25c992a349bc3ab369daac79126c7b41e0fe27c8d27a9f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201416/louvre-reclame-commissariat-police-musee",
+      "title": "La patronne du Louvre réclame qu’on installe un commissariat de police dans le musée",
+      "content_html": "<p>La surveillance extérieure par vidéo était défaillante, a-t-elle admis après un vol spectaculaire de bijoux.</p>",
+      "date_published": "2025-10-22T17:50:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c9935642dc5e70252d62c11ac6dbb25de361ea4fba20ea1d45d519dfbede0f4e",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates",
+      "title": "Top Democrat on House oversight committee urges DOJ to turn over Epstein files – US politics live",
+      "content_html": "<p>Robert Garcia calls on attorney general Pam Bondi and justice department to turn over all Jeffrey Epstein-related files after release of Virginia Giuffre’s memoir</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/22/donald-trump-damages-federal-investigations\">Trump says he would have final say on damage payment for past investigations</a></p></li></ul><p><strong>Mike Johnson</strong> said that he hasn’t spoken with the president about a New York Times report that he is seeking $230m from his own justice department in damages over past federal investigations.</p><p>“I know that he believes he’s owed that reimbursement. What I heard yesterday was, if he receives it, he was going to consider giving it to charity,” he said.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2025-10-22T17:49:55+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now); Maya Yang and Kirsty McEwen (earlier)"
+        }
+      ],
+      "tags": [
+        "US news",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Donald Trump",
+        "New York"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "16f873fc9c99cb217fa1d4e71e3501a3c616d176d546e480014cc6fd68dda5ea",
+      "url": "https://elpais.com/internacional/2025-10-22/rutte-se-reune-este-miercoles-con-trump-con-la-intencion-de-evitar-nuevos-bandazos-sobre-ucrania.html",
+      "title": "Rutte rencontre Trump ce mercredi avec l'intention d'éviter de nouvelles embardées sur l'Ukraine",
+      "content_html": "Le secrétaire général de l'OTAN, Mark Rutte, donne ce mercredi une brève conférence de presse au bâtiment Dirksen du Sénat à Washington, aux États-Unis.",
+      "date_published": "2025-10-22T17:49:31+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy"
+        }
+      ],
+      "tags": [
+        "Guerra de Rusia en Ucrania",
+        "Ucrania",
+        "Rusia",
+        "Guerra",
+        "Conflictos",
+        "Unión Europea",
+        "OTAN",
+        "Ataques militares",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Europa"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9c89aba3afccae8f0dc3e484ba638d207fde58c449f4312db4849e010df1d86a",
+      "url": "https://www.liberation.fr/international/europe/defense-une-partie-des-europeens-dont-les-francais-nont-pas-conscience-de-la-menace-russe-20251022_C6YNPKZZWNG6PPSDQFWRWFVJ5Q/",
+      "title": "Défense : «Une partie des Européens, dont les Français, n’ont pas conscience de la menace russe»",
+      "content_html": "Lors d’un chargement de missiles par des soldats allemands, mobilisés dans le cadre de l’Otan en Pologne, le 23 janvier 2025.",
+      "date_published": "2025-10-22T17:48:59+00:00",
+      "authors": [
+        {
+          "name": "Jean Quatremer"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4a7252fd8cf880e98c7116eef14dd43e42fe7ddd7da43a563fb214617392a88f",
+      "url": "https://www.lefigaro.fr/international/les-europeens-reprennent-l-initiative-pour-la-paix-en-ukraine-20251022",
+      "title": "Les Européens reprennent l’initiative pour la paix en Ukraine",
+      "content_html": "Volodymyr Zelensky lors d’une réunion de la Communauté politique européenne à Copenhague, présidée par la première ministre danoise, Mette Frederiksen, le 2 octobre 2025.",
+      "date_published": "2025-10-22T17:44:10+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ba4ebd8c7d480f4011b9b9baec87b63a40d476652b3d742979ae5abb788158f5",
+      "url": "https://www.theguardian.com/uk-news/2025/oct/22/london-woman-shocked-by-150-fine-for-pouring-coffee-down-street-drain",
+      "title": "London woman’s £150 fine for pouring coffee down street drain revoked",
+      "content_html": "<p>Council had initially defended the fixed-penalty penalty issued to Burcu Yesilyurt near Richmond station</p><p>A woman from west London who was fined £150 for pouring the dregs of her morning coffee down a street drain has had the penalty revoked after a council review.</p><p>Three enforcement officers stopped Burcu Yesilyurt near Richmond station on 10 October and handed her a fixed-penalty notice on her way to work.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/22/london-woman-shocked-by-150-fine-for-pouring-coffee-down-street-drain\">Continue reading...</a>",
+      "date_published": "2025-10-22T17:35:13+00:00",
+      "authors": [
+        {
+          "name": "Matthew Pearce"
+        }
+      ],
+      "tags": [
+        "London",
+        "UK news",
+        "Waste",
+        "Water",
+        "Environment"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d930ef0a588a849ceceb25b92a3936a56947841c497b1c5ae13171b20b11e437",
+      "url": "https://www.dw.com/en/serbia-vucic-supporter-shot-near-parliament/a-74463007?maca=en-rss-en-all-1573-rdf",
+      "title": "Serbia: Vucic supporter shot near parliament",
+      "content_html": "The shooting, which President Aleksandar Vucic called an act of terrorism, comes after nearly a year of anti-government protests. The perpetrator called pro-government tents outside parliament an \"occupation.\"",
+      "date_published": "2025-10-22T17:35:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "33f5f6e0a83547efec12b6a8df8b1dee84264f25681b510771ec51c1ac7f3245",
+      "url": "https://www.theguardian.com/us-news/2025/oct/22/white-house-trump-new-ballroom-demolition",
+      "title": "White House hasn’t filed plans for Trump’s new ballroom despite demolition under way",
+      "content_html": "<p>Amid backlash over footage of East Wing being partly demolished, White House reportedly intends to send plans for new construction</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p>The White House has not submitted plans for Donald Trump’s new ballroom to the federal agency that oversees construction of federal buildings, though demolition is already underway.</p><p>On Tuesday, the White House told <a href=\"https://www.reuters.com/world/us/white-house-says-it-will-submit-ballroom-plans-review-with-demolition-already-2025-10-22/\">Reuters</a> it intends to send plans to the National Capital Planning Commission, an agency that typically approves and monitors construction on federal buildings. Demolition began earlier this week, with reporters taking video of a backhoe <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction\">ripping out</a> chunks of the White House’s exterior.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/white-house-trump-new-ballroom-demolition\">Continue reading...</a>",
+      "date_published": "2025-10-22T17:30:44+00:00",
+      "authors": [
+        {
+          "name": "Lauren Aratani"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "US news",
+        "Washington DC",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "c795aad5f64cd1cd14f9f19c2d1be0bf4b0e47ddc46d1d038fe157161fff8c8d",
@@ -125,7 +385,7 @@
     {
       "id": "e8634a48082c7209709529db762ab5be96da4b4ecbd54f4d95529028bb68410b",
       "url": "https://elpais.com/internacional/2025-10-22/hamas-devuelve-la-mayoria-de-cadaveres-de-rehenes-israelies.html",
-      "title": "J.D. Vance souligne à Netanyahu l'engagement des États-Unis dans la « tâche très difficile » de désarmer le Hamas à Gaza",
+      "title": "J. D. Vance souligne à Netanyahu l'engagement des États-Unis dans la « tâche très difficile » de désarmer le Hamas à Gaza",
       "content_html": "Le vice-président américain J. D. Vance et le Premier ministre israélien Benjamin Netanyahu ce mercredi à Jérusalem.",
       "date_published": "2025-10-22T17:18:14+00:00",
       "authors": [
@@ -152,20 +412,6 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "52fc86de9d6b84fb978aa2c7abdab64cf8e28f64e14bb88f6ba4adc29b16dbf6",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201428/paccar-mises-a-pied-usine-sainte-therese",
-      "title": "Paccar met à pied 300 travailleurs à son usine de Sainte-Thérèse",
-      "content_html": "<p>L’usine assemble des camions de classe&nbsp;5,&nbsp;6 et&nbsp;7 principalement destinés au marché américain.</p>",
-      "date_published": "2025-10-22T17:16:30+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -321,29 +567,6 @@
         "Donald Trump",
         "Trump administration",
         "West Coast"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c9935642dc5e70252d62c11ac6dbb25de361ea4fba20ea1d45d519dfbede0f4e",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates",
-      "title": "Top Democrat on House oversight committee urges DOJ to turn over Epstein files – US politics live",
-      "content_html": "<p>Robert Garcia calls on attorney general Pam Bondi and justice department to turn over all Jeffrey Epstein-related files after release of Virginia Giuffre’s memoir</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/22/donald-trump-damages-federal-investigations\">Trump says he would have final say on damage payment for past investigations</a></p></li></ul><p><strong>Mike Johnson</strong> said that he hasn’t spoken with the president about a New York Times report that he is seeking $230m from his own justice department in damages over past federal investigations.</p><p>“I know that he believes he’s owed that reimbursement. What I heard yesterday was, if he receives it, he was going to consider giving it to charity,” he said.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-10-22T17:00:36+00:00",
-      "authors": [
-        {
-          "name": "Shrai Popat (now); Maya Yang and Kirsty McEwen (earlier)"
-        }
-      ],
-      "tags": [
-        "US news",
-        "Ice (US Immigration and Customs Enforcement)",
-        "Donald Trump",
-        "New York"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -663,38 +886,6 @@
       "lang": "en"
     },
     {
-      "id": "9631c17f7154d3888cc43b3b23e3d77283a3c904170e5335037fd82d3bbaaed3",
-      "url": "https://www.theguardian.com/environment/2025/oct/22/heathrow-third-runway-plans-fast-tracked-anps",
-      "title": "Heathrow third runway plans to be fast-tracked for ‘full benefits sooner’",
-      "content_html": "<p>Transport secretary says updated airports national policy statement (ANPS) will be published by next summer</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/oct/22/grooming-gangs-inquiry-mahmood-starmer-caerphilly-pmqs-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Heathrow’s third runway plans will be fast-tracked so Britain can “experience the benefits sooner”, ministers said as they launched a key part of the government process required for the airport’s expansion.</p><p>The transport secretary, Heidi Alexander, said work had started on a new airports national policy statement (ANPS), allowing a final decision by the end of this parliament to “realise the government’s ambition” of <a href=\"https://www.theguardian.com/uk-news/2025/aug/01/why-is-heathrow-third-runway-back-on-the-agenda\">a runway by 2035</a>.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/22/heathrow-third-runway-plans-fast-tracked-anps\">Continue reading...</a>",
-      "date_published": "2025-10-22T16:19:09+00:00",
-      "authors": [
-        {
-          "name": "Gwyn Topham Transport correspondent"
-        }
-      ],
-      "tags": [
-        "Heathrow third runway",
-        "Heathrow airport",
-        "Transport",
-        "Travel and transport",
-        "Airline industry",
-        "Transport policy",
-        "Heidi Alexander",
-        "Air transport",
-        "UK news",
-        "England",
-        "London",
-        "Environment",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3bf495af36599c442d0f3adffb5eaf0c2fff810c86c8edbf8d2625b9378b0874",
       "url": "https://www.aljazeera.com/news/2025/10/22/icj-says-israel-must-allow-aid-into-blockaded-gaza-provide-basic-needs?traffic_source=rss",
       "title": "ICJ says Israel must allow aid into blockaded Gaza, provide ‘basic needs’",
@@ -812,32 +1003,6 @@
       "lang": "en"
     },
     {
-      "id": "1972d963dbb1b5aa4bc9b0451c667dbc6e98d3e60d98d15f9df7fc94dce9fe9b",
-      "url": "https://www.theguardian.com/technology/2025/oct/22/apple-google-face-enforced-changes-uk-mobile-phone-dominance-uk-competition-watchdog-stricter-oversight",
-      "title": "Apple and Google face enforced changes over UK mobile phone dominance",
-      "content_html": "<p>Competition watchdog takes similar stance as EU, saying both tech firms require stricter regulatory oversight</p><p>Google and Apple face enforced changes to how they operate their mobile phone platforms, after the UK’s competition watchdog ruled the companies require tougher regulatory oversight.</p><p>The Competition and Markets Authority has conferred “strategic market status” (SMS) on the tech firms after investigating their mobile operating systems, app stores and browsers. It means Apple and Google will be subjected to tailormade guidelines to regulate their behaviour in the mobile market.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/22/apple-google-face-enforced-changes-uk-mobile-phone-dominance-uk-competition-watchdog-stricter-oversight\">Continue reading...</a>",
-      "date_published": "2025-10-22T16:02:58+00:00",
-      "authors": [
-        {
-          "name": "Dan Milmo Global technology editor"
-        }
-      ],
-      "tags": [
-        "Apple",
-        "Google",
-        "Competition and Markets Authority",
-        "Regulators",
-        "Business",
-        "Alphabet",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "53894f376774f8b4fe59d390438151c0003e7a5f7eead8696c07ff8b56aa0506",
       "url": "https://www.bbc.com/news/articles/c17pqxzl0yzo?at_medium=RSS&at_campaign=rss",
       "title": "UN's top court says Israel obliged to allow UN aid into Gaza",
@@ -907,20 +1072,6 @@
       "title": "Offre aux médecins : Dubé promet des ressources et de la stabilité pour deux ans",
       "content_html": "<p>Les dirigeants de Santé Québec seront également soumis à des cibles de performance, liées à leur rémunération.</p>",
       "date_published": "2025-10-22T15:57:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9078ee0b21006e9ce329af7cb50b08eee009b88572ea5fccc388b9dc57cd5198",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201379/israel-cij-gaza-aide-humanitaire",
-      "title": "Israël ne doit plus empêcher l’aide à Gaza, déclare la Cour internationale de Justice",
-      "content_html": "<p>La Cour internationale de justice (CIJ) rappelle Israël à ses obligations en matière de droit international.</p>",
-      "date_published": "2025-10-22T15:56:18+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1231,8 +1382,8 @@
     {
       "id": "3bc85f218f67cad0d834e0be0429d3bf5e7382635a092b4eace2f718aa789606",
       "url": "https://www.theguardian.com/us-news/2025/oct/22/new-york-chinatown-ice-raid-reaction",
-      "title": "New York officials condemn Manhattan Ice raid: ‘This creates fear and chaos’",
-      "content_html": "<p>Hochul, Schumer and the three mayoral candidates express outrage over federal operation in Chinatown</p><p>Local and state officials in New York are expressing outrage after dozens of federal agents <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">carried out a US Immigration and Customs Enforcement (Ice) raid</a> in Manhattan’s Chinatown on Tuesday.</p><p>Eyewitnesses accounts and <a href=\"https://x.com/amnewyork/status/1980746869836816743?s=46\">video</a> footage captured the chaotic scenes in Lower Manhattan on Tuesday afternoon, where <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">masked and armed</a> federal agents were seen <a href=\"https://gothamist.com/news/federal-agents-descend-on-chinatown-in-apparent-raid\">detaining several individuals</a> near Canal Street, while crowds of New Yorkers gathered, <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">protesting</a> against the action. <a href=\"https://www.cbsnews.com/newyork/video/ice-carries-out-investigation-targeting-nyc-street-vendors/\">Military-style vehicles</a> were also seen driving through the area.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/new-york-chinatown-ice-raid-reaction\">Continue reading...</a>",
+      "title": "New York officials condemn Manhattan ICE raid: ‘This creates fear and chaos’",
+      "content_html": "<p>Hochul, Schumer and the three mayoral candidates express outrage over federal operation in Chinatown</p><p>Local and state officials in New York are expressing outrage after dozens of federal agents <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">carried out a US Immigration and Customs Enforcement (ICE) raid</a> in Manhattan’s Chinatown on Tuesday.</p><p>Eyewitnesses accounts and <a href=\"https://x.com/amnewyork/status/1980746869836816743?s=46\">video</a> footage captured the chaotic scenes in Lower Manhattan on Tuesday afternoon, where <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">masked and armed</a> federal agents were seen <a href=\"https://gothamist.com/news/federal-agents-descend-on-chinatown-in-apparent-raid\">detaining several individuals</a> near Canal Street, while crowds of New Yorkers gathered, <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">protesting</a> against the action. <a href=\"https://www.cbsnews.com/newyork/video/ice-carries-out-investigation-targeting-nyc-street-vendors/\">Military-style vehicles</a> were also seen driving through the area.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/new-york-chinatown-ice-raid-reaction\">Continue reading...</a>",
       "date_published": "2025-10-22T15:28:28+00:00",
       "authors": [
         {
@@ -1241,7 +1392,7 @@
       ],
       "tags": [
         "New York",
-        "Ice (US Immigration and Customs Enforcement)",
+        "ICE (US Immigration and Customs Enforcement)",
         "US immigration",
         "Kathy Hochul",
         "Chuck Schumer",
@@ -1430,20 +1581,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "77b186a960d4914d29b54ccfe4608fa9782b5ead992e7662a4cd1b249d9041ab",
-      "url": "https://www.bbc.com/news/articles/c0exgrvw9gyo?at_medium=RSS&at_campaign=rss",
-      "title": "Louvre reopens three days after French crown jewels stolen",
-      "content_html": "The world's most-visited museum shut its doors after jewels worth tens of millions were stolen on Sunday.",
-      "date_published": "2025-10-22T15:09:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -1697,33 +1834,6 @@
       "lang": "en"
     },
     {
-      "id": "0e07d1e09f6e93f93fe4729b319cfec19440952868471ae48bcc86ee83a0c75f",
-      "url": "https://elpais.com/internacional/2025-10-22/el-presidente-de-serbia-atribuye-a-un-acto-terrorista-un-tiroteo-frente-al-parlamento-del-pais.html",
-      "title": "Le président serbe accuse l'opposition d'avoir tiré sur l'un de ses partisans devant le Parlement",
-      "content_html": "Un policier, devant la tente où se sont produits les coups de feu et l'incendie, ce mercredi à Belgrade.",
-      "date_published": "2025-10-22T14:38:24+00:00",
-      "authors": [
-        {
-          "name": "Reuters"
-        }
-      ],
-      "tags": [
-        "Serbia",
-        "Tiroteos",
-        "Balcanes",
-        "Incidentes",
-        "Terrorismo",
-        "Protestas sociales",
-        "Europa",
-        "Aleksandar Vucic"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c7f6cab5b6f42b29eddc43653e09f5933177ed23e833cfebb38e107b692248cb",
       "url": "https://www.france24.com/en/video/20251022-ukrainians-describe-deadly-russian-drone-attack-on-ten-regions",
       "title": "Ukrainians describe deadly Russian drone attack on ten regions",
@@ -1772,29 +1882,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "173e628f6a9542cfe13a3b16fff3c9d7bfe347055d1d061d925bd803d3625a86",
-      "url": "https://www.theguardian.com/us-news/2025/oct/22/donald-trump-damages-federal-investigations",
-      "title": "Trump says he has final say on paying himself $230m for past investigations",
-      "content_html": "<p>President says government owes him ‘a lot of money’ for federal investigations during and after first term</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> declared himself the arbiter of whether or not his own administration should pay him damages over past federal investigations, telling reporters that any such decision “would have to go across my desk”.</p><p>The president insisted on Tuesday that the government owes him “a lot of money” for previous justice department investigations into his conduct, while at the same time asserting his personal authority over any potential payout.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/donald-trump-damages-federal-investigations\">Continue reading...</a>",
-      "date_published": "2025-10-22T14:30:28+00:00",
-      "authors": [
-        {
-          "name": "Joseph Gedeon in Washington"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "US news",
-        "Trump administration",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "238d9781417b0e14e566ede8e889a290b2c87635e723122c825ee48d9f873020",
@@ -2865,30 +2952,6 @@
       "lang": "en"
     },
     {
-      "id": "e42d3d3991df48d6af86feb60b1b8bdbc644070371cd24a0da4e03fd9e7b14d1",
-      "url": "https://www.theguardian.com/business/2025/oct/23/groceries-via-delivery-apps-like-ubereats-doordash-and-milkrun-can-be-up-to-39-more-expensive",
-      "title": "Groceries via delivery apps like UberEats, DoorDash and MilkRun can be up to 39% more expensive",
-      "content_html": "<p>Seven out of 13 items at Aldi were priced higher on DoorDash than in store, while MilkRun charged more for 11 out of 13 items from Woolworths</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Convenience can come at a steep price, Choice has found, with Australian consumers paying up to 39% more for groceries ordered through rapid delivery apps.</p><p><a href=\"https://www.choice.com.au/grocerydeliverycosts\">Choice compared in store prices of 13 common grocery items </a>available at Coles, Woolworths and Aldi with their equivalents on third party apps UberEats, DoorDash and Woolworths-owned MilkRun.</p> <a href=\"https://www.theguardian.com/business/2025/oct/23/groceries-via-delivery-apps-like-ubereats-doordash-and-milkrun-can-be-up-to-39-more-expensive\">Continue reading...</a>",
-      "date_published": "2025-10-22T13:01:09+00:00",
-      "authors": [
-        {
-          "name": "Alyx Gorman"
-        }
-      ],
-      "tags": [
-        "Woolworths",
-        "Coles",
-        "Uber",
-        "Supermarkets",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4b2aecfe8531db2de6a641b18c53bb0eb543f9f3410ad2a7de492aae117d71df",
       "url": "https://www.theguardian.com/australia-news/2025/oct/23/australian-house-prices-rising-at-fastest-rate-in-nearly-four-years-data-shows",
       "title": "Australian house prices rising at fastest rate in nearly four years, data shows",
@@ -2906,6 +2969,30 @@
         "Melbourne",
         "Australia news",
         "New South Wales"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e42d3d3991df48d6af86feb60b1b8bdbc644070371cd24a0da4e03fd9e7b14d1",
+      "url": "https://www.theguardian.com/business/2025/oct/23/groceries-via-delivery-apps-like-ubereats-doordash-and-milkrun-can-be-up-to-39-more-expensive",
+      "title": "Groceries via delivery apps like UberEats, DoorDash and MilkRun can be up to 39% more expensive",
+      "content_html": "<p>Seven out of 13 items at Aldi were priced higher on DoorDash than in store, while MilkRun charged more for 11 out of 13 items from Woolworths</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Convenience can come at a steep price, Choice has found, with Australian consumers paying up to 39% more for groceries ordered through rapid delivery apps.</p><p><a href=\"https://www.choice.com.au/grocerydeliverycosts\">Choice compared in store prices of 13 common grocery items </a>available at Coles, Woolworths and Aldi with their equivalents on third party apps UberEats, DoorDash and Woolworths-owned MilkRun.</p> <a href=\"https://www.theguardian.com/business/2025/oct/23/groceries-via-delivery-apps-like-ubereats-doordash-and-milkrun-can-be-up-to-39-more-expensive\">Continue reading...</a>",
+      "date_published": "2025-10-22T13:01:09+00:00",
+      "authors": [
+        {
+          "name": "Alyx Gorman"
+        }
+      ],
+      "tags": [
+        "Woolworths",
+        "Coles",
+        "Uber",
+        "Supermarkets",
+        "Australia news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -4646,7 +4733,7 @@
     {
       "id": "e1d91999f8c52cb9ddb2339446810ed5f6cd3ff5746b048c635fa949c18897b2",
       "url": "https://www.elmundo.es/internacional/2025/10/21/68f7b63321efa0711f8b45ca.html",
-      "title": "La rencontre entre Trump et Poutine à Budapest est suspendue après l'avoir annoncée la semaine dernière.",
+      "title": "La rencontre entre Trump et Poutine à Budapest est suspendue après l'avoir annoncée la semaine dernière",
       "content_html": "La Maison Blanche affirme, sans en expliquer les raisons, qu'\"il n'y a aucun projet dans l'immédiat\" après le peu de progrès entre Marco Rubio et Sergueï Lavrov",
       "date_published": "2025-10-22T06:08:21+00:00",
       "authors": [
@@ -5210,26 +5297,10 @@
       "lang": "en"
     },
     {
-      "id": "94f88f01c4cc55b306e16d587debb255a43faa170a2aef23b8b7f12ecf6aa00e",
-      "url": "https://www.dw.com/en/lithuania-s-main-airport-shut-after-balloon-sightings/a-74449401?maca=en-rss-en-all-1573-rdf",
-      "title": "Lithuania's main airport shut after balloon sightings",
-      "content_html": "Vilnius airport has suspended air traffic and closed its border crossings with Belarus after balloons ferrying smuggled cigarettes from there entered its airspace.",
-      "date_published": "2025-10-21T21:24:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4050a8ccd8c92bb4d0f6f88f72f76dfdc0f8265d94e69c57d042c5940a4c3225",
       "url": "https://www.elmundo.es/internacional/2025/10/21/68f7b6d7fc6c83d3498b458f.html",
       "title": "Geler la guerre en Ukraine, un clou brûlant auquel l’Europe s’accroche",
-      "content_html": "Zelensky pourrait avaler ce crapaud si la paix l'accompagnait, même si tout le monde dans son pays estime que ce serait une paix précaire",
+      "content_html": "Zelensky pourrait avaler ce crapaud si la paix l'accompagne, même si tout le monde dans son pays estime que ce serait une paix précaire",
       "date_published": "2025-10-21T20:49:02+00:00",
       "authors": [
         {
@@ -5303,20 +5374,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "5e14138b76bc62d5b5db02a46c56b6488a37d56e979afa5d4d8ad0cfa334336e",
-      "url": "https://www.bbc.com/news/articles/c629zz8gz5mo?at_medium=RSS&at_campaign=rss",
-      "title": "Colombian court overturns former president's conviction",
-      "content_html": "Alvaro Uribe was the country's first president to be criminally convicted, and faced 12 years' house arrest.",
-      "date_published": "2025-10-21T20:08:40+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "b89babbe284e17034944f8d8f62704025595742c6c31f7af6dfb1810b4b9ea95",
@@ -5704,7 +5761,7 @@
     {
       "id": "299d8f386947ff971c95ee5959dd3905baae712653eaaa920f4dc1572bbef902",
       "url": "https://www.elmundo.es/internacional/2025/10/21/68f7a9d0e4d4d864588b45b9.html",
-      "title": "Vance est optimiste quant à la trêve à Gaza mais reconnaît qu'« il reste encore beaucoup à faire »",
+      "title": "Vance est optimiste quant à la trêve à Gaza mais reconnaît qu'« il y a encore beaucoup à faire »",
       "content_html": "Le vice-président américain arrive en Israël pour ouvrir la voie à la deuxième phase du plan de Trump",
       "date_published": "2025-10-21T15:50:42+00:00",
       "authors": [
@@ -5804,20 +5861,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "00da1eac946ddeaea331bd080937154d94b481d9ee47b07b3d35e3ea793eb000",
-      "url": "https://www.bbc.com/news/articles/c0exgnwl092o?at_medium=RSS&at_campaign=rss",
-      "title": "Europe's leaders back Trump call for frontline freeze but Russia says no",
-      "content_html": "Russian Foreign Minister Sergei Lavrov rejects the idea of halting the conflict at the current contact line.",
-      "date_published": "2025-10-21T14:21:52+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "9bf90b8689886c1547943db0c2ce2611653bcc4aedefe4e3c51e7121b5ab2da7",
@@ -7611,7 +7654,7 @@
       "id": "f17fb64bb97862674ba7735320a4e48e572c544a68f0d669ec7fa89d702269b3",
       "url": "https://www.elmundo.es/internacional/2025/10/19/68f4e3eafc6c8342188b456f.html",
       "title": "Trump répond aux manifestants avec une vidéo générée par l'IA dans laquelle il leur jette des excréments",
-      "content_html": "Le président américain a diffusé une vidéo dans laquelle il pilote un avion appelé « King Trump » et porte une couronne.",
+      "content_html": "Le président américain a publié une vidéo dans laquelle il pilote un avion appelé « King Trump » et porte une couronne.",
       "date_published": "2025-10-20T05:35:47+00:00",
       "authors": [
         {
@@ -7900,24 +7943,6 @@
       "lang": "fr"
     },
     {
-      "id": "bb2c4ccc7232666127385adf673ecc55e4835f07b83c3d1c475a97872c11668a",
-      "url": "https://www.liberation.fr/international/europe/accident-de-montagne-ou-parricide-bien-maquille-lenquete-sur-la-mort-du-fondateur-de-mango-passionne-lespagne-20251019_ANIHUT24LBEQZB4AF6GD3M7JIU/",
-      "title": "Accident de montagne ou parricide bien maquillé : l’enquête sur la mort du fondateur de Mango passionne l’Espagne",
-      "content_html": "Jonathan Andic, fils aîné du fondateur de Mango, Isak Andic, le 16 décembre 2024 à Barcelone.",
-      "date_published": "2025-10-19T17:42:17+00:00",
-      "authors": [
-        {
-          "name": "François Musseau"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1a269fe241157657e85a4233191d8eb00b4a95fdfea4afe07c54440757141f21",
       "url": "https://www.elmundo.es/internacional/2025/10/19/68f221f2e85eceba308b45ce.html",
       "title": "Planter du blé et chasser les drones : le quotidien des agriculteurs ukrainiens sous les attaques russes",
@@ -7948,22 +7973,6 @@
       "title": "Pierre Lévy, ex-ambassadeur à Moscou: «La Russie souffre d’une pathologie post-impériale»",
       "content_html": "Selon Pierre Lévy (ici à Moscou en 2024), «Vladimir Poutine doit se réjouir du spectacle de la crise politique en France ».",
       "date_published": "2025-10-19T17:15:00+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a1ca8d30d5b85d97dbe842552165d0a1b7ff7edc43bdc12d5914759f6e0fea6c",
-      "url": "https://www.lefigaro.fr/international/a-jacumba-hot-springs-pres-de-la-frontiere-avec-le-mexique-les-migrants-ont-disparu-20251019",
-      "title": "À Jacumba Hot Springs, près de la frontière avec le Mexique, les migrants ont disparu",
-      "content_html": "Un véhicule de la Border Patrol (Police des frontières) patrouille le long du fameux «mur» de la frontière entre les États-Unis et le Mexique dans la zone de Jacumba Hot Springs.",
-      "date_published": "2025-10-19T15:16:12+00:00",
       "authors": [],
       "tags": [
         "International"
