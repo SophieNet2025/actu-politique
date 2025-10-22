@@ -5,11 +5,25 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "9e6aa73059b3088978270d0a60872aa092e15a2e25bf07b318ff8510212ae024",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201556/medecins-legault-loi-speciale-negociations",
+      "title": "François Legault menace les médecins d’une loi spéciale vendredi",
+      "content_html": "<p>«&nbsp;Si les syndicats campent sur leurs positions, le gouvernement va déposer un projet de loi vendredi matin.&nbsp;»</p>",
+      "date_published": "2025-10-22T23:31:14+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "e5dc94fabe60dda82edf61955c125b52eceab0e265d480c17982158c512a0693",
       "url": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
       "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
       "content_html": "The US has announced new sanctions on Rosneft and Lukoil, Russia's two largest oil companies over continued fighting in Ukraine.",
-      "date_published": "2025-10-22T23:03:04+00:00",
+      "date_published": "2025-10-22T23:30:11+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,39 +33,71 @@
       "lang": "en"
     },
     {
-      "id": "9e6aa73059b3088978270d0a60872aa092e15a2e25bf07b318ff8510212ae024",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201556/medecins-legault-loi-speciale-negociations",
-      "title": "Négociations avec les médecins : Legault compte imposer une loi spéciale vendredi",
-      "content_html": "<p>«&nbsp;Si les syndicats campent sur leurs positions, le gouvernement va déposer un projet de loi vendredi matin.&nbsp;»</p>",
-      "date_published": "2025-10-22T23:00:15+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "99d723e2c21966b17eec713fb3fcdb59311d4c236ffdbcaf5b3838d6ba79f1e3",
+      "url": "https://www.theguardian.com/us-news/live/2025/oct/22/nyc-mayoral-debate-mamdani-cuomo-live-updates",
+      "title": "New York City mayoral debate live: Zohran Mamdani, Andrew Cuomo and Curtis Sliwa face off for final time",
+      "content_html": "<p>The two-hour debate is likely to focus on public safety, cost of living, housing and Trump </p><p>“It’s us versus them,” <strong>Curtis Sliwa</strong>, the Republican candidate, says in his brief opening statement, in which he claims that he is the true representative of New Yorkers.</p><p><strong>Andrew Cuomo</strong>, the former New York governor, begins by urging the Knicks to win, and then pivots to attacking “my main opponent”, <strong>Zohran Mamdani</strong>.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/nyc-mayoral-debate-mamdani-cuomo-live-updates\">Continue reading...</a>",
+      "date_published": "2025-10-22T23:24:27+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey (now); Ryan Fonseca and Shannon Ho (earlier)"
+        }
+      ],
+      "tags": [
+        "New York",
+        "US news",
+        "Zohran Mamdani",
+        "US politics",
+        "Andrew Cuomo"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
-      "id": "70d743426d6dd694f5c7194ebc943d070e5250ba9e7db2896a1544870d5a7967",
-      "url": "https://ici.radio-canada.ca/nouvelle/2201229/sclerose-laterale-amyotrophique-estrie-sante-publique",
-      "title": "SLA en Estrie : pas d’excès de cas, la Santé publique met fin à son enquête",
-      "content_html": "<p>Les facteurs environnementaux potentiellement liés à la SLA doivent être explorés, disent citoyens et experts.</p>",
-      "date_published": "2025-10-22T23:00:00+00:00",
+      "id": "f25b40a615b60cd6f9b4e71d137144ef99cb377c0ea4594b254a2b950beb152c",
+      "url": "https://www.dw.com/en/uk-sanctions-balkans-based-migrant-smugglers/a-74464777?maca=en-rss-en-all-1573-rdf",
+      "title": "UK sanctions Balkans-based migrant smugglers",
+      "content_html": "The UK was hosting a summit of Western Balkan nations, with Prime Minister Keir Starmer having announced measures to curb illegal migration, a top political concern for voters in the country.",
+      "date_published": "2025-10-22T23:16:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "News"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
-      "lang": "fr"
+      "lang": "en"
+    },
+    {
+      "id": "6a084755ed60509130a5a8785f9036d13d84711809d5dc64ea8f115729a8986e",
+      "url": "https://www.france24.com/en/europe/20251022-trump-slaps-sanctions-on-russia-s-top-oil-firms-says-talks-with-putin-don-t-go-anywhere",
+      "title": "Trump slaps sanctions on Russia's top oil firms, says talks with Putin 'don't go anywhere'",
+      "content_html": "US President Donald Trump imposed sweeping sanctions Wednesday on Russian oil giants Rosneft and Lukoil, expressing frustration over stalled peace talks with Vladimir Putin to end the war in Ukraine, as the EU unveiled its own new measures targeting Moscow’s energy revenues.",
+      "date_published": "2025-10-22T23:13:05+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "5d8ce4c0f2459d1ec5c06e5f316185ffd862e4f7042dd3c9541c6b9018f4cbc8",
       "url": "https://www.theguardian.com/australia-news/live/2025/oct/23/australia-news-live-pauline-hanson-barnaby-joyce-one-nation-nationals-weather-wind-damage-melbourne-sydney-ntwnfb",
       "title": "Australia news live: MP to reveal name of suspect in Cheryl Grimmer case in NSW parliament; high-density housing plan for Sydney’s inner west",
       "content_html": "<p>Staged development planned for 800m radius of Erskineville station and 400m radius of Macdonaldtown, Newtown and St Peters stations. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A five-decade-old cold case of a missing toddler which has attracted international attention and a $1m reward is set to take another turn, Australian Associated Press reports.</p><p>Three-year-old <strong>Cheryl Gene Grimmer</strong> was abducted on 12 January 1970 outside a shower block at Fairy Meadow beach in Wollongong, on the NSW south coast, when she was enjoying a day at the beach with her mother and three brothers.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/23/australia-news-live-pauline-hanson-barnaby-joyce-one-nation-nationals-weather-wind-damage-melbourne-sydney-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-10-22T22:50:51+00:00",
+      "date_published": "2025-10-22T23:07:32+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -74,28 +120,69 @@
       "lang": "en"
     },
     {
-      "id": "99d723e2c21966b17eec713fb3fcdb59311d4c236ffdbcaf5b3838d6ba79f1e3",
-      "url": "https://www.theguardian.com/us-news/live/2025/oct/22/nyc-mayoral-debate-mamdani-cuomo-live-updates",
-      "title": "New York final mayoral debate: Mamdani, Cuomo and Sliwa to spar again before early voting – live updates",
-      "content_html": "<p>The two-hour debate – which is likely to focus on public safety, cost of living, housing and Trump – kicks off at 7 pm ET</p><p>He’s the hottest politician in the US, who managed to attract thousands of young and first-time voters to the <a href=\"https://www.theguardian.com/us-news/democrats\">Democratic party</a> in his unexpected win in the <a href=\"https://www.theguardian.com/us-news/new-york\">New York City</a> mayoral primary.</p><p>With the Democrats suffering from <a href=\"https://www.newsweek.com/democratic-party-approval-rating-hits-30-year-low-wsj-poll-2104572\">historically low</a> approval ratings, one might have thought the party would rally round <a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a>, to learn lessons from the media-savvy 33-year-old and bask in his soaring popularity.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/22/nyc-mayoral-debate-mamdani-cuomo-live-updates\">Continue reading...</a>",
-      "date_published": "2025-10-22T22:50:38+00:00",
+      "id": "33f5f6e0a83547efec12b6a8df8b1dee84264f25681b510771ec51c1ac7f3245",
+      "url": "https://www.theguardian.com/us-news/2025/oct/22/white-house-trump-new-ballroom-demolition",
+      "title": "White House East Wing will be torn down ‘within days’ even as no plans filed for Trump’s new ballroom",
+      "content_html": "<p>Demolition has drawn fierce backlash, with National Trust for Historic Preservation saying plans are ‘legally required’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/22/donald-trump-white-house-ballroom\">Trump takes a wrecking ball to White House in on-the-nose metaphor</a></p></li></ul><p>Trump administration officials confirmed to various outlets on Wednesday that the White House’s East Wing will be demolished “within days”, a revelation given the administration has not submitted plans for the new ballroom to the federal agency that oversees construction of federal buildings.</p><p>In discussion with reporters in the Oval Office on Wednesday, Donald Trump was asked by Jeff Mason of Reuters to respond to the widespread surprise that the entire East Wing is being torn down. <a href=\"https://www.youtube.com/live/0moOxFjwdn4?si=FqRraxyDgSpWNHKg&amp;t=1941\">Trump said</a> that the wing he described as a separate building “was never thought of as being much; it was a very small building”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/white-house-trump-new-ballroom-demolition\">Continue reading...</a>",
+      "date_published": "2025-10-22T23:03:16+00:00",
       "authors": [
         {
-          "name": "Ryan Fonseca and Shannon Ho"
+          "name": "Lauren Aratani and Robert Mackey"
         }
       ],
       "tags": [
-        "New York",
+        "Donald Trump",
         "US news",
-        "Zohran Mamdani",
+        "Washington DC",
         "US politics",
-        "Andrew Cuomo"
+        "World news"
       ],
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "a09dbb210ded9cb434108a14a0304d9243f8eaab47e17be0750521e2046b6697",
+      "url": "https://www.theguardian.com/stage/2025/oct/23/bbc-sitcom-two-doors-down-to-be-adapted-for-the-stage-with-full-tv-cast",
+      "title": "BBC sitcom Two Doors Down to be adapted for the stage with full TV cast",
+      "content_html": "<p>The hit Scottish comedy about suburban neighbours will move from screen to stage next year at Glasgow’s Hydro</p><p>Two Doors Down, the BBC comedy series about a suburban Scottish couple with constantly knocking neighbours, is to be <a href=\"https://www.ticketmaster.co.uk/two-doors-down-live\">brought to the stage</a>.</p><p>Unusually, it will make that journey with the full cast from the hit TV show intact. Alex Norton and Arabella Weir will reprise their roles as Eric and Beth, whose house on Latimer Crescent is consistently besieged by the street’s residents, usually expecting a drink or two. Elaine C Smith will return as the oversharing Christine, and Doon Mackichan and Jonathan Watson are reuniting as a flashy couple, with an unhealthy interest in everyone’s intimate business. The younger couple on the street will again be played by Graeme Stevely and Joy McAvoy, while Jamie Quinn will be back as Eric and Beth’s son, Ian, with standup Kieran Hodgson once more playing his partner, Gordon.</p> <a href=\"https://www.theguardian.com/stage/2025/oct/23/bbc-sitcom-two-doors-down-to-be-adapted-for-the-stage-with-full-tv-cast\">Continue reading...</a>",
+      "date_published": "2025-10-22T23:01:51+00:00",
+      "authors": [
+        {
+          "name": "Chris Wiegand"
+        }
+      ],
+      "tags": [
+        "Stage",
+        "Theatre",
+        "Comedy",
+        "Comedy",
+        "Culture",
+        "Scotland",
+        "UK news",
+        "Television"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "70d743426d6dd694f5c7194ebc943d070e5250ba9e7db2896a1544870d5a7967",
+      "url": "https://ici.radio-canada.ca/nouvelle/2201229/sclerose-laterale-amyotrophique-estrie-sante-publique",
+      "title": "SLA en Estrie : pas d’excès de cas, la Santé publique met fin à son enquête",
+      "content_html": "<p>Les facteurs environnementaux potentiellement liés à la SLA doivent être explorés, disent citoyens et experts.</p>",
+      "date_published": "2025-10-22T23:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
     },
     {
       "id": "52fc86de9d6b84fb978aa2c7abdab64cf8e28f64e14bb88f6ba4adc29b16dbf6",
@@ -143,7 +230,7 @@
       "id": "4dd0878b54492681709c17509c9f99d14efe2d561579ff9cc07afdb63ea85b82",
       "url": "https://www.theguardian.com/world/2025/oct/22/stones-and-fireworks-again-thrown-at-dublin-police-as-protests-enter-third-night",
       "title": "Third night of unrest in Dublin as protesters target asylum hotel",
-      "content_html": "<p>Officers pelted with stones and fireworks near Citywest facility after man charged over alleged assault on 10-year-old</p><p>Twenty-three people were arrested after an hours-long standoff with Irish police, whose members were directly struck with fireworks, stones and other debris on a third consecutive night of disorder in Dublin.</p><p>Two members of the Irish police service, An Garda Síochána, were taken to hospital with injuries sustained during clashes with protesters.</p> <a href=\"https://www.theguardian.com/world/2025/oct/22/stones-and-fireworks-again-thrown-at-dublin-police-as-protests-enter-third-night\">Continue reading...</a>",
+      "content_html": "<p>Officers pelted with stones and fireworks near Citywest facility after man charged over alleged assault on 10-year-old</p><p>Twenty-three people were arrested after an hours-long standoff with Irish police, whose members were directly struck with fireworks, stones and other debris on a third consecutive night of disorder in Dublin.</p><p>Two members of the Irish police service, An Garda Síochána, were taken to hospital with injuries sustained during clashes with protesters. One garda was struck on the head by a bottle while the other sustained a shoulder injury.</p> <a href=\"https://www.theguardian.com/world/2025/oct/22/stones-and-fireworks-again-thrown-at-dublin-police-as-protests-enter-third-night\">Continue reading...</a>",
       "date_published": "2025-10-22T22:41:20+00:00",
       "authors": [
         {
@@ -565,32 +652,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "0b606cc093659add00155f2c6af93ccb96766fc7e67862e3a6acf487b766c47f",
-      "url": "https://www.theguardian.com/us-news/2025/oct/22/new-york-chinatown-ice-raids-letitia-james",
-      "title": "Letitia James asks New Yorkers to share footage of ICE after Chinatown raid",
-      "content_html": "<p>Attorney general urges residents to submit images and video footage of raids across the state</p><p>The New York state attorney general, Letitia James, rolled out a “<a href=\"https://ag.ny.gov/federal-actions-form\">Federal Action Reporting Portal</a>” form urging New York residents to share photos and videos of federal immigration enforcement action across the state, just one day after a <a href=\"https://www.theguardian.com/us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests\">high-profile ICE raid</a> rattled Manhattan’s Chinatown and prompted hundreds to come out in protest.</p><p>“Every New Yorker has the right to live without fear or intimidation,” James wrote in a statement announcing the portal.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/22/new-york-chinatown-ice-raids-letitia-james\">Continue reading...</a>",
-      "date_published": "2025-10-22T21:35:12+00:00",
-      "authors": [
-        {
-          "name": "Cy Neff"
-        }
-      ],
-      "tags": [
-        "New York",
-        "ICE (US Immigration and Customs Enforcement)",
-        "US immigration",
-        "US news",
-        "US politics",
-        "Trump administration",
-        "US policing"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "27bb59c900b86642236f325220e28d98aea83a42225c6a61e0b23e446941a170",
@@ -1303,8 +1364,8 @@
     {
       "id": "26492d5e53c5d29a58ef6607910f02af1880fd9be6d4afe10c08bd789b588951",
       "url": "https://elpais.com/internacional/2025-10-22/estados-unidos-se-dispone-a-anunciar-un-aumento-sustancial-de-las-sanciones-contra-rusia.html",
-      "title": "Estados Unidos impone  sanciones contra el sector petrolero de Rusia, las primeras de la era Trump",
-      "content_html": "Scott Bessent, este miércoles en la Casa Blanca.",
+      "title": "Les États-Unis imposent des sanctions contre le secteur pétrolier russe, les premières de l'ère Trump",
+      "content_html": "Scott Bessent, ce mercredi à la Maison Blanche.",
       "date_published": "2025-10-22T19:57:00+00:00",
       "authors": [
         {
@@ -1930,34 +1991,6 @@
       "lang": "en"
     },
     {
-      "id": "801a2f94a51ed883ffc639e3f6a149e86c82885be5852eb364a687497619bfbd",
-      "url": "https://www.theguardian.com/education/2025/oct/22/smart-money-family-offers-18000-a-year-for-tutor-to-get-one-year-old-into-eton",
-      "title": "Smart money: family offers £180,000 a year for tutor to get one-year-old into Eton",
-      "content_html": "<p>Family seeks tutor from ‘socially appropriate background’ who can provide infant with ‘comprehensive British cultural environment’</p><p>Getting paid £180,000 a year to tutor a single child might sound like a dream job but there’s a catch: the child is only one-year-old and you need to get him into Eton.</p><p>A wealthy family near London is “searching for a tutor to provide a comprehensive British cultural environment” for their infant, according to an <a href=\"https://jobs.tutors.international/advert/612\">advertisement published by Tutors International</a>, which calls itself “the handcrafted Bentley” of private tutoring.</p> <a href=\"https://www.theguardian.com/education/2025/oct/22/smart-money-family-offers-18000-a-year-for-tutor-to-get-one-year-old-into-eton\">Continue reading...</a>",
-      "date_published": "2025-10-22T18:42:27+00:00",
-      "authors": [
-        {
-          "name": "Richard Adams Education editor"
-        }
-      ],
-      "tags": [
-        "Tutoring",
-        "Early years education",
-        "London",
-        "The super-rich",
-        "Teaching",
-        "Education",
-        "England",
-        "UK news",
-        "Schools"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "643c134702a593b47198f90898cb88e54c5dc7e3109f3b1a2bd42997fe0b0492",
       "url": "https://www.france24.com/en/video/20251022-israel-not-a-protectorate-of-the-us-netanyahu-says-ahead-of-meeting-with-vance",
       "title": "Israel 'not a protectorate' of the US, Netanyahu says ahead of meeting with Vance",
@@ -2309,7 +2342,7 @@
       "id": "4050a8ccd8c92bb4d0f6f88f72f76dfdc0f8265d94e69c57d042c5940a4c3225",
       "url": "https://www.elmundo.es/internacional/2025/10/21/68f7b6d7fc6c83d3498b458f.html",
       "title": "Geler la guerre en Ukraine, un clou brûlant auquel l’Europe s’accroche",
-      "content_html": "Zelensky pourrait avaler ce crapaud si la paix l'accompagnait, même si tout le monde dans son pays estime que ce serait une paix précaire",
+      "content_html": "Zelensky pourrait avaler ce crapaud si la paix l'accompagne, même si tout le monde dans son pays estime que ce serait une paix précaire",
       "date_published": "2025-10-22T17:51:11+00:00",
       "authors": [
         {
@@ -2492,7 +2525,7 @@
     {
       "id": "e8634a48082c7209709529db762ab5be96da4b4ecbd54f4d95529028bb68410b",
       "url": "https://elpais.com/internacional/2025-10-22/hamas-devuelve-la-mayoria-de-cadaveres-de-rehenes-israelies.html",
-      "title": "J.D. Vance souligne à Netanyahu l'engagement des États-Unis dans la « tâche très difficile » de désarmer le Hamas à Gaza",
+      "title": "J. D. Vance souligne à Netanyahu l'engagement des États-Unis dans la « tâche très difficile » de désarmer le Hamas à Gaza",
       "content_html": "Le vice-président américain J. D. Vance et le Premier ministre israélien Benjamin Netanyahu ce mercredi à Jérusalem.",
       "date_published": "2025-10-22T17:18:14+00:00",
       "authors": [
@@ -3642,24 +3675,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "96e66792894889219e6481319cced46ecbb7d3c5d685667b0566b138452789ef",
-      "url": "https://www.france24.com/en/video/20251022-critics-of-giorgia-meloni-remain-despite-newfound-stability-for-italy",
-      "title": "Critics of Giorgia Meloni remain despite newfound stability for Italy",
-      "content_html": "Three years after Giorgia Meloni's election as prime minister, her government has become the third-longest serving one in the history of the Italian Republic. Her personal approval is at 42%, and she has stabilised the country's economy. But critics say she has not dealt with the structural reforms the country needs, and that without the EU Covid recovery money, Italy would be in a recession. FRANCE 24's Seema Gupta tells us more from Rome.",
-      "date_published": "2025-10-22T14:41:19+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -5187,22 +5202,6 @@
       "lang": "en"
     },
     {
-      "id": "76ca951d6e6bb5b9d214addb723bd2de3c2d0cd8d826f20a7c466729240cd892",
-      "url": "https://www.dw.com/en/ukraine-updates-kyiv-targets-major-russian-explosives-plant/live-74450537?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine updates: Kyiv targets major Russian explosives plant",
-      "content_html": "Ukraine says it has scored a successful hit on a Russian chemical plant supplying Moscow with gunpowder, explosives and rocket fuel. Meanwhile, Ukraine's President Zelenskyy is visiting Sweden. Follow DW for the latest.",
-      "date_published": "2025-10-22T06:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9d62b1aea6d047b578605d666cf80de980b4a402b35317d05ba43e2cf0886598",
       "url": "https://www.elmundo.es/internacional/2025/10/22/68f877f5e9cf4aae4f8b459a.html",
       "title": "Un homme arrêté après avoir percuté avec sa voiture une barrière de sécurité de la Maison Blanche",
@@ -5239,7 +5238,7 @@
     {
       "id": "e1d91999f8c52cb9ddb2339446810ed5f6cd3ff5746b048c635fa949c18897b2",
       "url": "https://www.elmundo.es/internacional/2025/10/21/68f7b63321efa0711f8b45ca.html",
-      "title": "La rencontre entre Trump et Poutine à Budapest est suspendue après l'avoir annoncée la semaine dernière.",
+      "title": "La rencontre entre Trump et Poutine à Budapest est suspendue après l'avoir annoncée la semaine dernière",
       "content_html": "La Maison Blanche affirme, sans en expliquer les raisons, qu'\"il n'y a aucun projet dans l'immédiat\" après le peu de progrès entre Marco Rubio et Sergueï Lavrov",
       "date_published": "2025-10-22T06:08:21+00:00",
       "authors": [
@@ -5609,7 +5608,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "a3ce61384c4a6c3770a381fd0fa2e66e2519b30cb4df64ec01e5a62d265010e2",
@@ -7907,7 +7906,7 @@
       "id": "f17fb64bb97862674ba7735320a4e48e572c544a68f0d669ec7fa89d702269b3",
       "url": "https://www.elmundo.es/internacional/2025/10/19/68f4e3eafc6c8342188b456f.html",
       "title": "Trump répond aux manifestants avec une vidéo générée par l'IA dans laquelle il leur jette des excréments",
-      "content_html": "Le président américain a diffusé une vidéo dans laquelle il pilote un avion appelé « King Trump » et porte une couronne.",
+      "content_html": "Le président américain a publié une vidéo dans laquelle il pilote un avion appelé « King Trump » et porte une couronne.",
       "date_published": "2025-10-20T05:35:47+00:00",
       "authors": [
         {
