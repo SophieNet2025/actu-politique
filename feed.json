@@ -5,25 +5,48 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "e662ebb65db3c0e5d385cd04c0fed34fca390f10b7a3b8f51cc02ca4a3c78388",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013120/elections-municipales-quebec-vote-resultats",
-      "title": "Élections municipales au Québec : c’est jour de vote",
-      "content_html": "<p>Il reste encore 523 (48&nbsp;%) postes de maires à pourvoir, alors que 568 (52&nbsp;%) ont été élus sans opposition.</p>",
-      "date_published": "2025-11-02T22:07:27+00:00",
+      "id": "f24fd9d712ca49193e153aa8f28d5f9d38e2c97bc320be7639547b7580bb45df",
+      "url": "https://www.aljazeera.com/news/2025/11/2/powerful-magnitude-6-3-quake-hits-north-afghanistans-hindu-kush-region?traffic_source=rss",
+      "title": "Powerful magnitude 6.3 quake hits north Afghanistan’s Hindu Kush region",
+      "content_html": "The earthquake comes two months after the deadliest quake in recent Afghan history, which killed thousands of people.",
+      "date_published": "2025-11-02T22:09:41+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "News"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
+      "lang": "en"
+    },
+    {
+      "id": "eedeaea746e3c23b5aaf7068cc33a876c62b55eeba239131351abb0d3cd20e18",
+      "url": "https://www.theguardian.com/world/2025/nov/02/opponents-and-loyalists-of-serbias-autocratic-president-clash-in-belgrade",
+      "title": "Opponents and loyalists of Serbia’s autocratic president clash in Belgrade",
+      "content_html": "<p>Thousands throw bottles and flares as tensions soar after huge rally to mark anniversary of train station disaster</p><p>Hundreds of riot police separated opponents and loyalists of Serbia’s autocratic president, Aleksandar Vučić,<strong> </strong>in central Belgrade on Sunday as political tensions boiled after a year of anti-government protests.</p><p>Several thousand people faced off on both sides of the police cordons, with officers in riot gear standing in rows between shouting crowds who threw bottles and flares at each other.</p> <a href=\"https://www.theguardian.com/world/2025/nov/02/opponents-and-loyalists-of-serbias-autocratic-president-clash-in-belgrade\">Continue reading...</a>",
+      "date_published": "2025-11-02T22:09:07+00:00",
+      "authors": [
+        {
+          "name": "Associated Press"
+        }
+      ],
+      "tags": [
+        "Serbia",
+        "Europe"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "a606a21336ea321cf4509b53110d8c7f64726be977c8415e43c297d4164eb23e",
       "url": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
       "title": "Australia politics live: Liberal frontbencher admits Coalition ‘down in the dumps’ but backs Ley; Littleproud rejects ‘puerile’ net zero argument",
       "content_html": "<p>Liberal leader Sussan Ley faces fundamental fracture on Coalition climate policy. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Mortgage arrears fall at Westpac after rate cuts</strong></p><p>Mortgage holders are enjoying a reprieve from relentless cost of living pressures, as the number of home owners falling behind on their repayments falls.</p><p>Notwithstanding the relief from interest rates, challenges remain, with inflation and unemployment increasing in recent months.</p><p>Globally, uncertainty remains but this is an opportunity for Australia and we are in a good position to work through any impacts from events such as the ongoing geopolitical and trade tensions.</p><p>I never started this process seeking to fail. I want to succeed, and that means we’ve all got to work together. And the way we have been constructively working together – obviously, there’s some noise here and noise there – but the way we have been working constructively together, I’m very confident that we’ll be able to reach a position which means we can all continue to work together in the best interests of the nation.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time\">Continue reading...</a>",
-      "date_published": "2025-11-02T21:55:19+00:00",
+      "date_published": "2025-11-02T22:09:06+00:00",
       "authors": [
         {
           "name": "Krishani Dhanji"
@@ -44,6 +67,76 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e662ebb65db3c0e5d385cd04c0fed34fca390f10b7a3b8f51cc02ca4a3c78388",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013120/elections-municipales-quebec-vote-resultats",
+      "title": "Élections municipales au Québec : c’est jour de vote",
+      "content_html": "<p>Il reste encore 523 (48&nbsp;%) postes de maires à pourvoir, alors que 568 (52&nbsp;%) ont été élus sans opposition.</p>",
+      "date_published": "2025-11-02T22:07:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "650f6ee810bd8d80d070b13d7395341cdfadba83e15f8bc2caaaa134c27d18e7",
+      "url": "https://www.theguardian.com/us-news/2025/nov/02/california-officers-hospitalized-attack",
+      "title": "Two California officers hospitalized after alleged attack by incarcerated man",
+      "content_html": "<p>Authorities are investigating the incident as an attempted homicide and suspect was placed in restricted housing</p><p>Two <a href=\"https://www.theguardian.com/us-news/california\">California</a> prison officers were hospitalized after an alleged attack by an incarcerated man, and authorities are investigating it as an attempted homicide, officials said Sunday.</p><p>The incident happened Saturday at the California state prison in Sacramento as the suspect was being escorted from his cell to allow staff to conduct a search, according to the state <a href=\"https://www.cdcr.ca.gov/\">department of corrections and rehabilitation</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/02/california-officers-hospitalized-attack\">Continue reading...</a>",
+      "date_published": "2025-11-02T22:07:13+00:00",
+      "authors": [
+        {
+          "name": "Associated Press"
+        }
+      ],
+      "tags": [
+        "California",
+        "US prisons",
+        "US crime",
+        "US news",
+        "West Coast"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dbb3df9ff3d74c32365421ee50715661801ffda054f921e72cc8c2031aeee256",
+      "url": "https://www.aljazeera.com/news/2025/11/2/colombias-eln-rebels-face-us-drug-threats-amid-push-for-peace-talks?traffic_source=rss",
+      "title": "Colombia’s ELN rebels face US drug threats amid push for peace talks",
+      "content_html": "The US focus on drugs and nearby Venezuela brings an international dimension to what was an internal Colombian conflict.",
+      "date_published": "2025-11-02T21:59:30+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "39f9e8a58f67ffe553521cf7f3e846dbdda6e80bde348ccc2c38c2feef610d90",
+      "url": "https://www.aljazeera.com/news/2025/11/2/palestinians-face-hunger-cold-and-loss-amid-ongoing-israeli-siege-on-gaza?traffic_source=rss",
+      "title": "Palestinians face hunger, cold and loss amid ongoing Israeli siege on Gaza",
+      "content_html": "Despite the ceasefire, Israel’s strikes and severe restrictions on aid leave Gaza’s civilians struggling to survive.",
+      "date_published": "2025-11-02T21:53:25+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -136,7 +229,7 @@
       "id": "c59c9be3a338579ca41364204b378fccef85619405c5e79c9450d6f8769b8a8c",
       "url": "https://ici.radio-canada.ca/sports/2204047/chronique-martin-leclerc-serie-mondiale",
       "title": "L’art irrationnel de traire la vache jusqu’au sang",
-      "content_html": "<p>Dans sa chronique, Martin Leclerc s&#x27;interroge sur la surutilisation de leurs lanceurs par les Dodgers.</p>",
+      "content_html": "<p>Dans sa chronique, Martin Leclerc s&#x27;interroge sur la surutilisation de leurs lanceurs par les&nbsp;Dodgers.</p>",
       "date_published": "2025-11-02T21:34:30+00:00",
       "authors": [],
       "tags": [],
@@ -1309,31 +1402,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "b1f4fdc306c7a8e1de83454cbd0e12d395cabe506a328d6741d4393c9adf5a00",
-      "url": "https://www.theguardian.com/us-news/2025/nov/02/california-prop-50-democrats-trump",
-      "title": "California set to approve Prop 50 as voters signal displeasure with Trump",
-      "content_html": "<p>Voters set to accept new maps to help Democrats counter Republican gerrymandering – and check president’s power</p><p><a href=\"https://www.theguardian.com/us-news/california\">California</a>’s Proposition 50 began as a warning from the nation’s largest blue state to its largest red one: <a href=\"https://x.com/CAgovernor/status/1958202719052697630\">don’t poke the bear</a>. But when Texas <a href=\"https://www.theguardian.com/us-news/2025/aug/18/texas-democrats-california-electoral-maps-redistricting\">moved ahead </a>with a rare, mid-decade gerrymander, pushed by Donald Trump as Republicans seek to shore up their fragile House majority in the midterm elections, California made good on its threat.</p><p>Now, California voters appear poised to approve a redistricting measure placed on the ballot in August by Democrats and the state’s governor, <a href=\"https://www.theguardian.com/us-news/gavin-newsom\">Gavin Newsom</a>, who have cast it as a chance <a href=\"https://www.theguardian.com/us-news/2025/oct/25/california-prop-50-trump-redistricting\">to check Trump’s power</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/02/california-prop-50-democrats-trump\">Continue reading...</a>",
-      "date_published": "2025-11-02T17:33:54+00:00",
-      "authors": [
-        {
-          "name": "Lauren Gambino in Los Angeles"
-        }
-      ],
-      "tags": [
-        "California",
-        "US politics",
-        "Gavin Newsom",
-        "Donald Trump",
-        "West Coast",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "f1a60e92f9f7587e406d937166098fb7a3bc1539e4a319d8b8a82d9131a752d3",
@@ -4088,51 +4156,6 @@
       "lang": "en"
     },
     {
-      "id": "f7b968682f8b9faa1a95dacaa3f0e4c0e8bbd03651f95c541acce5846a3835d5",
-      "url": "https://www.theguardian.com/music/2025/nov/02/rosalia-berghain-is-a-thundrous-goth-pop-hit-but-is-it-opera",
-      "title": "Rosalía’s Berghain is a thundrous goth-pop hit – but is it opera?",
-      "content_html": "<p>The Catalan star’s epic new single is delighting and dividing classical music fans in equal measure</p><p>The Top 10 of today’s Spotify Global Top 50 looks like business as usual: two Taylor Swift songs; Lady Gaga and Bruno Mars’ Die With a Smile hanging around for an eighth month; the eminently normal male pop stars Sombr and Alex Warren doing brisk business.</p><p>But nestled among the crowd-pleasers is something of an outlier: a gothic, baroque assault powered by Vivaldi-style strings and operatic singing in German and Spanish.</p> <a href=\"https://www.theguardian.com/music/2025/nov/02/rosalia-berghain-is-a-thundrous-goth-pop-hit-but-is-it-opera\">Continue reading...</a>",
-      "date_published": "2025-11-02T08:00:01+00:00",
-      "authors": [
-        {
-          "name": "Laura Snapes Deputy music editor"
-        }
-      ],
-      "tags": [
-        "Music",
-        "Rosalía",
-        "Culture",
-        "Spain",
-        "Experimental music",
-        "Pop and rock",
-        "Europe",
-        "Björk",
-        "Opera",
-        "Classical music"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cab1dcdee7ec3a674518f78bf25226297eda77c8f2ce2437eeb79cde4b1d2acb",
-      "url": "https://www.aljazeera.com/news/2025/11/2/russia-ukraine-war-list-of-key-events-day-1347?traffic_source=rss",
-      "title": "Russia-Ukraine war: List of key events, day 1,347",
-      "content_html": "The battle over Ukraine&#039;s Pokrovsk rages as both Russia and Ukraine continue to hit each other&#039;s energy infrastructure.",
-      "date_published": "2025-11-02T07:28:18+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bf36511f3175883250fc38ef18288cf7cd0ffd5420692bc8777dd483a016a6a4",
       "url": "https://www.dw.com/en/zohran-mamdani-who-is-the-likely-new-mayor-of-new-york/a-74572160?maca=en-rss-en-all-1573-rdf",
       "title": "Zohran Mamdani: Who is the likely new mayor of New York?",
@@ -4195,38 +4218,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "050f8b53506a58adcb73b64e0863ef55250800567da5a7be9916b2c5f60249a4",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/2/live-india-vs-australia-icc-womens-world-cup-final-2025?traffic_source=rss",
-      "title": "India beat South Africa: ICC Women’s World Cup final 2025 – as it happened",
-      "content_html": "All our updates, with post-match interviews and reactions, from our text commentary stream of the final in Navi Mumbai.",
-      "date_published": "2025-11-02T06:41:54+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8d517cac56bfbdaf992da53841b6362187ff036ae3694bdacba473c00c882a47",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/11/2/live-hamas-continues-search-for-captives-remains-as-israel-blocks-aid?traffic_source=rss",
-      "title": "LIVE: Hamas returns three more Israeli captives’ bodies from Gaza",
-      "content_html": "Hamas says three bodies found in south Gaza today; Israel kills man in Shujayea for approaching &#039;yellow line&#039;.",
-      "date_published": "2025-11-02T06:15:34+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "3f26ca00ae8e1ffa7797ae2feb88316d11fd78aa62e30793bd2a9f8a89cd2a3b",
@@ -5708,7 +5699,7 @@
       "id": "e71c28ab83862b27a64ae61426a7baf028b1fdaaeaa764c583adbdbb8ad466eb",
       "url": "https://www.elmundo.es/internacional/2025/11/01/6905bc3cfdddffdd578b45b5.html",
       "title": "\"Xi Jinping dehors !\" : la vague anti-Chine qui ébranle la démocratie asiatique alliée de Trump",
-      "content_html": "Les relations entre les voisins Pékin et Séoul sont depuis longtemps traversées par de nombreuses luttes acharnées.",
+      "content_html": "Les relations entre les voisins Pékin et Séoul sont depuis longtemps traversées par de nombreux bras de fer.",
       "date_published": "2025-11-01T07:53:59+00:00",
       "authors": [
         {
@@ -7382,7 +7373,7 @@
     {
       "id": "12236fe35ff66775d08df4b56307f23c48507a05138304f7cba8fb2eff2627c8",
       "url": "https://www.elmundo.es/internacional/2025/10/31/690409e6e9cf4af6208b458d.html",
-      "title": "Milei fait le tour et invite au consensus",
+      "title": "Milei donne une tournure et invite au consensus",
       "content_html": "\"La volonté est de travailler avec tout le monde, indépendamment des différences partisanes\", a déclaré le président argentin.",
       "date_published": "2025-10-31T00:59:20+00:00",
       "authors": [
