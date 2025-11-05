@@ -5,11 +5,43 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "9168a87bc2ca1e85f062bf87c74aa5ea44d5501843585eff212dfaf11bc0ff5a",
-      "url": "https://ici.radio-canada.ca/nouvelle/2205523/greve-stm-milieu-affaires-pression-boulet",
-      "title": "Grève à la STM : le milieu des affaires fait pression sur le ministre Boulet",
-      "content_html": "<p>De concert avec le Conseil des Arts et le CPQ, il réclame que soit appliquée «&nbsp;dès maintenant&nbsp;» la loi 89.</p>",
-      "date_published": "2025-11-05T15:16:46+00:00",
+      "id": "ae69f9191aa353838f0ef619a0694124349ca4c90b7c1ed1f465b9437669fe3b",
+      "url": "https://www.ukrinform.net/rubric-ato/4055473-russia-redeploys-drone-operators-from-crimea-to-reinforce-its-forces-on-dnipro-river-front-voloshyn.html",
+      "title": "Russia redeploys drone operators from Crimea to reinforce its forces on Dnipro River front – Voloshyn",
+      "content_html": "Russian invasion forces are reinforcing their units on the Dnipro River front with new crews of drone operators trained at facilities in temporarily occupied Crimea.",
+      "date_published": "2025-11-05T15:37:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "398030a5b888d6b8e27197e9d09d6e64eb40db20bea2bb480051880ef9b58ec9",
+      "url": "https://www.dw.com/en/incoming-czech-gov-t-triggers-alarm-over-public-media-plans/a-74631336?maca=en-rss-en-all-1573-rdf",
+      "title": "Incoming Czech gov't triggers alarm over public media plans",
+      "content_html": "Czechia's populist ANO party won the most votes in the recent general election and seeks to form a government with two far-right parties. The coalition's plans for public media are causing particular concern.",
+      "date_published": "2025-11-05T15:34:00+00:00",
+      "authors": [],
+      "tags": [
+        "NRS-Import"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "11c838136d657c8beae1725effe66f2ed7b7cf6e10a91ced35fddd782422cb15",
+      "url": "https://ici.radio-canada.ca/nouvelle/2205525/exclue-caucus-caquiste-isabelle-poulet-loi-speciale-medecins",
+      "title": "Plusieurs caquistes ont approché le Parti québécois, révèle Paul St-Pierre Plamondon",
+      "content_html": "<p>Mardi, la députée de Laporte Isabelle Poulet a été exclue de la CAQ pour avoir eu des discussions avec le PLQ.</p>",
+      "date_published": "2025-11-05T15:32:50+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -17,6 +49,256 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "5587b9d47f8902feb6cd19e594294e9859182841a2c7915e08f0bd76262effaa",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results",
+      "title": "‘Not sure it was good for anybody’: Trump reacts to Democrats’ sweep of key races on election night – live",
+      "content_html": "<p>US president hosts Republicans morning after Democrats pick up major wins in elections for New York City mayor, Virginia governor and New Jersey governor</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/04/mamdani-victory-speech-trump-policies\">‘Turn the volume up’: Mamdani invokes Trump in fiery speech laying out plan of action</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/05/share-your-views-new-york-mayoral-election-results\">Share your views on the New York result</a></p></li></ul><p>Here’s a look at some of the pictures from New York, as Zohran Mamdani was elected the next mayor of the city.</p><p>In a short while, we’ll hear from <strong>Donald Trump</strong> when he hosts a breakfast with Republican senators at the White House. As we noted earlier, the president had choice words about Mamdani’s victory in New York, and other Democratic wins across the country – including the gubernatorial races in Virginia and New Jersey.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:29:50+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now) and Frances Mao (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Zohran Mamdani",
+        "Andrew Cuomo",
+        "New York",
+        "California",
+        "US politics",
+        "New Jersey",
+        "Virginia",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0a0ae7b6e701b3263fb103b1e3e64d6157417f0b4a3a863b5f58d05897723c6c",
+      "url": "https://www.themoscowtimes.com/2025/11/05/russian-black-sea-port-halts-fuel-exports-after-ukraine-strike-a91053",
+      "title": "Russian Black Sea Port Halts Fuel Exports After Ukrainian Strike",
+      "content_html": "The port had been expected to increase fuel exports in November,\nbut shipping data showed tankers moved off their berths and anchored offshore.",
+      "date_published": "2025-11-05T15:29:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "58916412d58968d730fd235ce0556313484ed2c7bf6f07e41324d16021d668b8",
+      "url": "https://www.theguardian.com/world/live/2025/nov/05/latest-europe-live-news-updates-brussels-drones-eu",
+      "title": "Two people seriously injured and attacker arrested after car driven into pedestrians and cyclists on French island – Europe live",
+      "content_html": "<p>Aide to far-right National Rally MP among the five people injured after car ‘deliberately’ rammed into pedestrians and cyclists on Île d’Oléron</p><p>At least <strong>nine people were injured</strong>, the mayor of Dolus-d’Oleron, <strong>Thibault Brechkoff</strong>, said in <a href=\"https://www.facebook.com/thibault.brechkoff/posts/pfbid02kzhThc3KYRj78S5beW3S6i4s8zfJqfq91Rku8qeB7X1L4xHN7ThaqUQ6R1biDR3rl?__cft__[0]=AZXlyNK0SIBN5vKX2X4mhdC39zI5mCpwjBI8kuf_nou7v1EzeU1NcBdC8axGeGiAIgwrkK6USMffFgR4KGZBVwLUtPmK4n0FvMgku2x204ZA4KEXtAssHZRMxIXeRts2_aEFxCs2xlFZjJiNlK5CDA48lkQHwOmGI5ayritWxA3bcDtHfAfQjSIhdySwoemv2cY&amp;__tn__=%2CO%2CP-R\">a post on Facebook</a>.</p><p>He stressed the “deliberate” nature of the incident, and said that local authorities were setting up a crisis centre to coordinate their response.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/05/latest-europe-live-news-updates-brussels-drones-eu\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:29:07+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Belgium",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ce205ff82a458d98af0d420b600d2a97991bd1a25e95d13f9d1d0c4167c80ae8",
+      "url": "https://toi.li/Y21YKS",
+      "title": "Is Phase Two of the Gaza Deal Possible? - Sponsored Content",
+      "content_html": "<p>Former U.S. Ambassador to Israel Dan Shapiro joins Yaakov to discuss the fragile Gaza ceasefire, what a real “phase two” could mean, and whether paths to normalization can be revived.</p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/is-phase-two-of-the-gaza-deal-possible/\">Is Phase Two of the Gaza Deal Possible?</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/Screenshot-2025-11-05-at-10.28.15-1024x640.png\" title=\"Is Phase Two of the Gaza Deal Possible?\" width=\"160\" /></figure>",
+      "date_published": "2025-11-05T15:28:41+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "54625b28fdf525d319afe5b80f942692087bef3f9f108fedb6e30ba630f8eee7",
+      "url": "https://ici.radio-canada.ca/nouvelle/2205435/baseball-engouement-toronto-blue-jays",
+      "title": "Quel sera l’héritage de la Série mondiale?",
+      "content_html": "<p>Verra-t-on l&#x27;émergence d&#x27;une génération Blue Jays?</p>",
+      "date_published": "2025-11-05T15:28:38+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c9752c2d8a381ce5e98adc36bda62df5bb390a35214624b25d619189f3963a0a",
+      "url": "https://www.dw.com/en/munich-seeks-to-reactivate-eisbach-freshwater-surf-wave/a-74627199?maca=en-rss-en-all-1573-rdf",
+      "title": "Munich seeks to reactivate Eisbach freshwater surf wave",
+      "content_html": "Munich authorities are trying to recover a renowned river wave in the city center that has drawn in surfers for decades. The wave mysteriously vanished after what should have been routine cleaning of the Eisbach basin.",
+      "date_published": "2025-11-05T15:26:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9168a87bc2ca1e85f062bf87c74aa5ea44d5501843585eff212dfaf11bc0ff5a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2205523/greve-stm-milieu-affaires-pression-boulet",
+      "title": "Grève à la STM : le milieu des affaires fait pression sur le ministre Boulet",
+      "content_html": "<p>De concert avec le Conseil des Arts et le CPQ, il réclame que soit appliquée «&nbsp;dès maintenant&nbsp;» la loi 89.</p>",
+      "date_published": "2025-11-05T15:24:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a852c43dfd64a6f5a8b037846cf8ea6dc0c4f7dca03f0d91eccd25d9e73880cd",
+      "url": "https://www.elmundo.es/internacional/2025/11/05/690b6b0821efa0b1098b45a9.html",
+      "title": "Rutte tente de minimiser l'importance du départ des troupes américaines d'Europe alors que des drones russes arrivent déjà en Belgique",
+      "content_html": "Des avions sans pilote ont survolé ces dernières heures des cibles militaires et civiles belges, et les services de renseignement du pays affirment que leur origine est \"très probablement\" russe.",
+      "date_published": "2025-11-05T15:23:29+00:00",
+      "authors": [
+        {
+          "name": "Daniel Viaña"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a53fa03f441031b3e0dfd3716e632e6a0b8510985e4939336df5aa69a7a904d4",
+      "url": "https://www.theguardian.com/world/2025/nov/05/high-speed-european-rail-network-could-be-possible-by-2040",
+      "title": "High-speed European rail network could be possible by 2040",
+      "content_html": "<p>Berlin to Copenhagen rail trips could be cut from seven to four hours, says European Commission</p><p>Breakfast in Berlin, lunch in Copenhagen, with a fast and easy train journey to pass the morning? Or a midday meal in Sofia, then taking the high-speed line to arrive in Athens just in time for an evening aperitif? Both could be possible if a vision for European high-speed rail travel ever becomes a reality.</p><p>A faster, “truly European” high-speed rail network could be possible by 2040, the EU executive said on Wednesday, as it revealed plans to dramatically cut journey times between major cities.</p> <a href=\"https://www.theguardian.com/world/2025/nov/05/high-speed-european-rail-network-could-be-possible-by-2040\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:21:34+00:00",
+      "authors": [
+        {
+          "name": "Jennifer Rankin in Brussels"
+        }
+      ],
+      "tags": [
+        "Rail transport",
+        "World news",
+        "Europe",
+        "European Commission"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9040f09157492b686e2da7bfc7aad2efdc866637f4a136bc141c648ba3cce410",
+      "url": "https://www.theguardian.com/business/2025/nov/05/drax-power-plant-to-go-on-earning-over-1m-a-day-from-burning-wood-pellets",
+      "title": "Drax power plant to go on earning ‘over £1m a day’ from burning wood pellets",
+      "content_html": "<p>Analysts say Britain’s biggest power plant in line to earn £458.6m a year under new government subsidy contract</p><p>Britain’s biggest power plant will continue to earn more than £1m a day from burning wood pellets under a new government subsidy contract designed to halve its financial support, according to analysts.</p><p>The Drax power plant in North Yorkshire is in line to earn £458.6m a year between 2027 and 2031 after the government <a href=\"https://www.theguardian.com/business/2025/feb/10/uk-subsidies-for-drax-sustainable-wood-power-plant\">agreed to extend its subsidies beyond 2026</a>, according to analysts at Ember, a climate thinktank.</p> <a href=\"https://www.theguardian.com/business/2025/nov/05/drax-power-plant-to-go-on-earning-over-1m-a-day-from-burning-wood-pellets\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:19:34+00:00",
+      "authors": [
+        {
+          "name": "Jillian Ambrose"
+        }
+      ],
+      "tags": [
+        "Drax",
+        "Energy industry",
+        "Business",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "af28d2aa067165264183f11c8242e213aaa8366b46d852008664644a08c69a8b",
+      "url": "https://www.theguardian.com/politics/live/2025/nov/05/david-lammy-pmqs-rachel-reeves-tax-system-news-updates-uk-politics-live",
+      "title": "Second accidental release of prisoner ‘utterly unacceptable’, No 10 says, as Lammy blames system left by Tories – UK politics live",
+      "content_html": "<p>Lammy, standing in for Keir Starmer, avoided answering questions on the mistaken release during PMQs</p><p><strong>David Lammy</strong> starts by saying the PM is in Brazil.</p><p>He says the thoughts of all MPs are still with the victims of the appalling attacks in Huntingdon and Peterborough, where, he says, he was at school for seven years.</p> <a href=\"https://www.theguardian.com/politics/live/2025/nov/05/david-lammy-pmqs-rachel-reeves-tax-system-news-updates-uk-politics-live\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:16:26+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Conservatives",
+        "David Lammy",
+        "PMQs",
+        "Budget 2025",
+        "Tax and spending",
+        "Zohran Mamdani",
+        "Scotland",
+        "Scottish politics",
+        "Devolution",
+        "Prisons and probation",
+        "Immigration and asylum",
+        "Migration"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "975ac2c6a12526393a89b28d458e8464aae1a39f9e6ad345a3e8753a08fbed2f",
+      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2025/11/05/proces-lafarge-de-quoi-est-accuse-le-cimentier-francais_6652338_6176282.html",
+      "title": "Procès Lafarge : de quoi est accusé le cimentier français ?",
+      "content_html": "L’entreprise et huit anciens employés sont poursuivis pour financement du terrorisme dans le cadre de l’activité d’une usine de ciment en Syrie, de 2012 à 2014.",
+      "date_published": "2025-11-05T15:15:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f3993ed0392dc68c537cf0cfbe93172446dfc7b537fed61d5aa8a00d0e346869",
+      "url": "https://www.ukrinform.net/rubric-polytics/4055469-ukrainian-parliament-calls-on-world-to-step-up-pressure-on-russia-over-crimes-against-journalists.html",
+      "title": "Ukrainian parliament calls on world to step up pressure on Russia over crimes against journalists",
+      "content_html": "The Verkhovna Rada, Ukraine's parliament, has adopted an appeal to the United Nations, EU and NATO institutions, parliamentary assemblies, and international journalist organizations, urging increased pressure on the Russian Federation in response to its systematic crimes against journalists and media workers.",
+      "date_published": "2025-11-05T15:15:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
     },
     {
       "id": "c45b23e5835b4b8aadccc51c299fd3dc7b6218b1027398719c30e84c9d8f53b7",
@@ -39,6 +321,37 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "0f43bd030d005ea4c7d96a0e146e194021c412df6b2cb8ea009e8b91b5134c0a",
+      "url": "https://www.theguardian.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+      "title": "US supreme court hears oral arguments on legality of Trump imposing tariffs",
+      "content_html": "<p>President’s tariffs are being scrutinized in crucial legal test of plan to impose duties on nearly every US trading partner</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results\">US politics – live updates</a></p></li></ul><p>Donald Trump’s sweeping tariffs on the world are being scrutinized by the US supreme court today, a crucial legal test of the president’s controversial economic strategy – and his power.</p><p>Justices started to hear <a href=\"https://www.supremecourt.gov/oral_arguments/live.aspx\">oral arguments</a> this morning on the legality of using emergency powers to impose tariffs on almost every US trading partner.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:11:08+00:00",
+      "authors": [
+        {
+          "name": "Michael Sainato"
+        }
+      ],
+      "tags": [
+        "Trump tariffs",
+        "Business",
+        "US politics",
+        "US supreme court",
+        "Trump administration",
+        "Donald Trump",
+        "US news",
+        "Tariffs",
+        "US economy",
+        "US Congress",
+        "Republicans",
+        "US Senate"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "27bdb37f1d5730ec900f884b2f0c78685aeca4508676da7e896b9c16c5f497b8",
@@ -68,6 +381,36 @@
       "lang": "fr"
     },
     {
+      "id": "ae453170cfaa747cd2771eca88942dfcfc00ed26373f6c5afa83acf73dce095e",
+      "url": "https://www.lemonde.fr/planete/article/2025/11/05/cop30-de-belem-optimiste-le-bresil-entend-arracher-des-avancees-concretes-pour-le-climat_6652336_3244.html",
+      "title": "COP30 de Belem : optimiste, le Brésil entend arracher des avancées concrètes pour le climat",
+      "content_html": "Le président brésilien Lula (à droite), en février 2025, dans le parc de la Cité à Belem, ville hôte de la COP30.",
+      "date_published": "2025-11-05T15:09:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2d95b30606fd5eaa5e4bfa2a133df1e5e5a5c29ef438ea51b2858053c1bfe3e0",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/trump-republicans-didnt-have-good-election-night?traffic_source=rss",
+      "title": "Trump: Republicans didn’t have good election night",
+      "content_html": "US President Donald Trump admitted that the federal government shutdown hurt Republicans in Tuesday’s elections.",
+      "date_published": "2025-11-05T15:07:39+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "15e742a2b0b7c584d0b924a5e407cd9d8128d78a8a0004bd7e690e45036e5442",
       "url": "https://www.lemonde.fr/international/live/2025/11/05/en-direct-guerre-en-ukraine-pokrovsk-n-est-pas-encerclee-assure-l-armee-ukrainienne_6651075_3210.html",
       "title": "EN DIRECT, guerre en Ukraine : Pokrovsk n’est pas encerclée, assure l’armée ukrainienne",
@@ -82,22 +425,52 @@
       "lang": "fr"
     },
     {
-      "id": "f9d2d7d0e0b134bf05405e8b0544cb8c2c4d1213dfc56aeb26cff07a3bec5d87",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-replay-trump-la-paralysie-budg%C3%A9taire-c-est-de-la-faute-des-d%C3%A9mocrates",
-      "title": "REPLAY - Trump : \"La paralysie budgétaire, c'est de la faute des démocrates\"",
-      "content_html": "Donald Trump a jugé mercredi 5 novembre que ses opposants démocrates étaient des \"kamikazes\" responsables de la plus longue paralysie budgétaire de l'histoire aux États-Unis, appelant son parti à passer en force au Congrès. Nous en parlons avec notre chroniqueur Antoine Mariotti.",
-      "date_published": "2025-11-05T15:02:00+00:00",
+      "id": "c4ea1e9130c4584442ea79accca1b15a195c20e397e029792f5fc9a35c2a6162",
+      "url": "https://www.timesofisrael.com/judge-extends-ex-idf-legal-chiefs-remand-after-suspicions-against-her-strengthen/",
+      "title": "Judge extends ex-IDF legal chief’s remand after suspicions against her strengthen",
+      "content_html": "<p>Coalition MKs accuse AG of taking part in ‘deep state’ cover-up of Sde Teiman abuse video leak in Knesset meeting; former IDF chief prosecutor to be released, though still a suspect</p>\n<p>The post <a href=\"https://www.timesofisrael.com/judge-extends-ex-idf-legal-chiefs-remand-after-suspicions-against-her-strengthen/\">Judge extends ex-IDF legal chief&#8217;s remand after suspicions against her strengthen</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F251105AVS04-1024x640.jpg\" title=\"Judge extends ex-IDF legal chief&#8217;s remand after suspicions against her strengthen\" width=\"160\" /></figure>",
+      "date_published": "2025-11-05T15:02:53+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Gali Baharav-Miara",
+        "Yifat Tomer-Yerushalmi",
+        "Sde Teiman abuse leak",
+        "Sde Teiman detention facility",
+        "constitution",
+        "Constitution Law and Justice Committee",
+        "Knesset Foreign Affairs and Defense Committee",
+        "Tel Aviv Magistrate's Court"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8e522efab6823a83236942543b28e7a5b3073563b36e7135641400a03a511385",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
+      "title": "Air safety officials to investigate deadly UPS cargo plane crash near Kentucky airport",
+      "content_html": "<p>Aircraft crashed shortly after takeoff at Louisville international airport, killing at least nine and injuring 11</p><p>Dozens of air safety investigators are set to arrive in <a href=\"https://www.theguardian.com/us-news/kentucky\">Kentucky</a> on Wednesday to piece together evidence on how a UPS cargo plane crashed and erupted into a huge fireball, killing at least nine people and injuring a further 11.</p><p>At least 28 National Transportation Safety Board agents will start searching for clues about the possible cause of the disaster, which saw the UPS plane <a href=\"https://www.theguardian.com/us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest\">crash shortly after takeoff at the Louisville Muhammad Ali international airport</a>, leaving behind a fiery trail of destruction on the ground and a huge plume of black smoke.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:01:48+00:00",
       "authors": [
         {
-          "name": "FRANCE24"
+          "name": "Oliver Milman"
         }
       ],
-      "tags": [],
+      "tags": [
+        "Kentucky",
+        "Plane crashes",
+        "Louisville",
+        "Air transport",
+        "US news"
+      ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "8453b67867080ae9f47cc8711cfc9e77c7994b89d3e631edb31f2cb571adcea6",
@@ -118,63 +491,50 @@
       "lang": "fr"
     },
     {
-      "id": "0a71b20d0ddcf3defd0124afbb2b855d00afea413986b85efc9ebfd3f94f79b3",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-france-shein-l-ouverture-de-magasin-qui-fait-scandale",
-      "title": "France : Shein, l'ouverture de magasin qui fait scandale",
-      "content_html": "5.000 clients sont attendus pour l'ouverture de Shein au BHV, à Paris. Ces derniers jours, les scandales autour de la marque se sont multipliés.",
-      "date_published": "2025-11-05T14:59:59+00:00",
+      "id": "4222917c384cdf86428d15d5410c0b764028117c1143a5ea1c61a003c7a0b638",
+      "url": "https://www.theguardian.com/us-news/2025/nov/05/san-francisco-waymo-kitkat-cat-death",
+      "title": "Death of beloved neighborhood cat sparks outrage against robotaxis in San Francisco",
+      "content_html": "<p>KitKat, affectionately known as ‘mayor of 16th Street’ was struck and killed by a Waymo in the city’s Mission District</p><p>The death of beloved neighborhood cat named KitKat, who was <a href=\"https://www.instagram.com/p/DQW2gfrEZpb/\">struck and killed</a> by a <a href=\"https://www.theguardian.com/technology/waymo\">Waymo</a> in San Francisco’s Mission District last week, is sparking uproar in the city and across the internet. Now, local politicians and community leaders are harnessing momentum to put new limits on the fast-spreading autonomous vehicle industry.</p><p>KitKat was a regular fixture at the deli and liquor store Randa’s Market, and was well known in the neighborhood and <a href=\"https://www.instagram.com/p/B_sQPtihO-B/\">on social media</a>. In a recent podcast interview, Daniel Zeidan, part of the family that owns Randa’s, described KitKat as unequivocally adored.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/05/san-francisco-waymo-kitkat-cat-death\">Continue reading...</a>",
+      "date_published": "2025-11-05T15:00:30+00:00",
       "authors": [
         {
-          "name": "FRANCE24"
+          "name": "Cy Neff"
         }
       ],
-      "tags": [],
+      "tags": [
+        "San Francisco",
+        "California",
+        "Waymo",
+        "Self-driving cars",
+        "West Coast",
+        "US news"
+      ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
-      "id": "9fb415917796450dd5bb05e1a8872c7cda3e3a26d30f1db39c9f460222c4a79d",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-france-shein-ouvre-ses-portes-%C3%A0-paris-malgr%C3%A9-les-scandales",
-      "title": "France : Shein ouvre ses portes à Paris malgré les scandales",
-      "content_html": "Shein a ouvert mercredi 5 novembre son premier magasin physique au monde au sein du BHV, au coeur de Paris, malgré la présence de quelques manifestants et les vives critiques en France contre les pratiques du spécialiste chinois du commerce en ligne et son modèle à bas coût. Nous en parlons avec notre journaliste Flore Simon.",
-      "date_published": "2025-11-05T14:58:25+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
+      "id": "4216b880335f8f33c240295f86f5a05f06608aa4ba3aeca943721b8556a4a1d0",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/5/dozens-dead-after-typhoon-sweeps-across-philippines?traffic_source=rss",
+      "title": "Dozens dead after typhoon sweeps across Philippines",
+      "content_html": "Typhoon Kalmaegi has killed dozens of people and destroyed thousands of homes in central Philippines.",
+      "date_published": "2025-11-05T14:59:01+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
       ],
-      "tags": [],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
-    },
-    {
-      "id": "4bbf2b4408a84badf2edc83cc3449f7ab333d77b5f0a3cea651b775a6d30fcb8",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-c%C3%A9cile-kohler-et-jacques-paris-derniers-visages-de-la-diplomatie-des-otages-de-t%C3%A9h%C3%A9ran",
-      "title": "Cécile Kohler et Jacques Paris, derniers visages de la \"diplomatie des otages\" de Téhéran",
-      "content_html": "Professeure de lettres de 41 ans, et enseignant retraité de 72 ans, Cécile Kohler et Jacques Paris ont été arrêtés le 7 mai 2022, au dernier jour d'un voyage touristique en Iran.\n \nConsidérés comme des \"otages d'État\" par la France, qui à l'instar d'autres pays occidentaux, accuse Téhéran de capturer des étrangers sur son sol pour négocier ensuite leur libération, ils étaient les deux derniers Français détenus sur le sol Iranien.",
-      "date_published": "2025-11-05T14:57:48+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "e5fe6fe2c3054409263b7f6909ddc730f464ecea0ad4bcc22c3c4aa98c50f636",
       "url": "https://www.elmundo.es/internacional/2025/11/05/690b5b9ce4d4d88b138b458d.html",
-      "title": "Le 40ème anniversaire de l'assaut du Palais de Justice confronte Gustavo Petro aux hautes juridictions",
+      "title": "Le 40e anniversaire de l'assaut du Palais de Justice confronte Gustavo Petro aux hautes juridictions",
       "content_html": "Un groupe de guérilleros est entré au siège judiciaire en 1985, dans le but ultime de soumettre le chef de l'État de l'époque, Belisario Betancourt, à un procès politique.",
       "date_published": "2025-11-05T14:55:59+00:00",
       "authors": [
@@ -192,62 +552,18 @@
       "lang": "fr"
     },
     {
-      "id": "e2d5d1aa69f68d85a836b05b50e5d525f71f3ba22c16b32636f914f74c020b2c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-%C3%A9tats-unis-mamdani-%C3%A9lu-maire-de-new-york-soir%C3%A9e-de-revers-pour-trump",
-      "title": "États-Unis : Mamdani élu maire de New York, soirée de revers pour Trump",
-      "content_html": "Le socialiste Zohran Mamdani a remporté mardi la mairie de New York au terme d'une soirée d'élections locales dans lesquelles Donald Trump a essuyé plusieurs revers, un message de défiance à un an des élections de mi-mandat. Nous en parlons avec notre invité Jérôme Viala-Gaudefroy, docteur en civilisation américaine.",
-      "date_published": "2025-11-05T14:55:20+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
+      "id": "97a17cc7966e152bd23ff0771f00eabde3a22a785a4a08d796a391c901091e4f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2205545/prix-medicis-emmanuel-carrere-kolkhoze",
+      "title": "Le prix littéraire Médicis décerné à Emmanuel Carrère",
+      "content_html": "<p>En lice pour le Goncourt, il a finalement gagné le prix Médicis, réputé pour son exigence littéraire.</p>",
+      "date_published": "2025-11-05T14:54:26+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "1f8717738cd2a75a3c696205a932c3c2b9f13fbec67ebea67f8fd77bb7cb4b5d",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-macron-s-est-entretenu-avec-kohler-et-paris-sortis-de-prison-en-iran-ambassadeur",
-      "title": "Macron s'est entretenu avec Kohler et Paris sortis de prison en Iran (ambassadeur)",
-      "content_html": "Le président Emmanuel Macron s'est entretenu mercredi 5 novembre au matin avec Cécile Kohler et Jacques Paris, les deux Français sortis de prison mardi après plus de trois ans de détention en Iran, a dit mercredi l'ambassadeur de France en Iran, qui les héberge à Téhéran. Précisions de notre correspondant à Téhéran Siavosh Ghazi.",
-      "date_published": "2025-11-05T14:53:33+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "58916412d58968d730fd235ce0556313484ed2c7bf6f07e41324d16021d668b8",
-      "url": "https://www.theguardian.com/world/live/2025/nov/05/latest-europe-live-news-updates-brussels-drones-eu",
-      "title": "Two people seriously injured and attacker arrested after car driven into pedestrians and cyclists on French island – Europe live",
-      "content_html": "<p>Aide to far-right National Rally MP among the five people injured after car ‘deliberately’ rammed into pedestrians and cyclists on Île d’Oléron</p><p>At least <strong>nine people were injured</strong>, the mayor of Dolus-d’Oleron, <strong>Thibault Brechkoff</strong>, said in <a href=\"https://www.facebook.com/thibault.brechkoff/posts/pfbid02kzhThc3KYRj78S5beW3S6i4s8zfJqfq91Rku8qeB7X1L4xHN7ThaqUQ6R1biDR3rl?__cft__[0]=AZXlyNK0SIBN5vKX2X4mhdC39zI5mCpwjBI8kuf_nou7v1EzeU1NcBdC8axGeGiAIgwrkK6USMffFgR4KGZBVwLUtPmK4n0FvMgku2x204ZA4KEXtAssHZRMxIXeRts2_aEFxCs2xlFZjJiNlK5CDA48lkQHwOmGI5ayritWxA3bcDtHfAfQjSIhdySwoemv2cY&amp;__tn__=%2CO%2CP-R\">a post on Facebook</a>.</p><p>He stressed the “deliberate” nature of the incident, and said that local authorities were setting up a crisis centre to coordinate their response.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/05/latest-europe-live-news-updates-brussels-drones-eu\">Continue reading...</a>",
-      "date_published": "2025-11-05T14:53:17+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "Belgium",
-        "Europe",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "6485faf127145b3cd2b90eccccf498df3d738f2dcc95738f55c813cacaa7b79b",
@@ -265,6 +581,22 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "65e9ae48e86d175017a0849cfb6f4e301c89a2e4f1c687bedb3dcf2470949a76",
+      "url": "https://www.aljazeera.com/news/2025/11/5/zohran-mamdani-wins-who-are-the-democratic-socialists-of-america?traffic_source=rss",
+      "title": "Zohran Mamdani wins: Who are the Democratic Socialists of America?",
+      "content_html": "Zohran Mamdani&#039;s win in New York has been seen by many as a wake-up call for a listless Democratic party.",
+      "date_published": "2025-11-05T14:52:49+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -301,26 +633,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "ebe19f3cf4a74a938e4baaae0e4ec66962ac93235bb1fee7b95e293a9ac5f707",
-      "url": "https://www.france24.com/fr/france/20251105-fast-fashion-france-engage-proc%C3%A9dure-suspension-plateforme-shein",
-      "title": "Fast-fashion : la France engage une procédure de \"suspension\" de la plateforme Shein",
-      "content_html": "Le chef du gouvernement Sébastien Lecornu a annoncé mercredi une procédure de \"suspension\" de la plateforme chinoise Shein en France, au cœur de plusieurs polémiques, \"le temps\" que cette dernière se conforme aux lois du pays. Dans la foulée, la marque a dit souhaiter \"engager dans les plus brefs délais un dialogue avec les autorités françaises\".",
-      "date_published": "2025-11-05T14:49:08+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "a95955bac31b4d290c3a81f7ff12023d61c233aa53dffce46836687627efaff3",
@@ -369,34 +681,6 @@
       "lang": "en"
     },
     {
-      "id": "5587b9d47f8902feb6cd19e594294e9859182841a2c7915e08f0bd76262effaa",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results",
-      "title": "‘Not sure it was good for anybody’: Trump reacts to Democrats’ sweep of key races on election night – live",
-      "content_html": "<p>US president hosts Republicans morning after Democrats pick up major wins in elections for New York City mayor, Virginia governor and New Jersey governor</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/04/mamdani-victory-speech-trump-policies\">‘Turn the volume up’: Mamdani invokes Trump in fiery speech laying out plan of action</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/05/share-your-views-new-york-mayoral-election-results\">Share your views on the New York result</a></p></li></ul><p>Here’s a look at some of the pictures from New York, as Zohran Mamdani was elected the next mayor of the city.</p><p>In a short while, we’ll hear from <strong>Donald Trump</strong> when he hosts a breakfast with Republican senators at the White House. As we noted earlier, the president had choice words about Mamdani’s victory in New York, and other Democratic wins across the country – including the gubernatorial races in Virginia and New Jersey.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results\">Continue reading...</a>",
-      "date_published": "2025-11-05T14:43:58+00:00",
-      "authors": [
-        {
-          "name": "Shrai Popat (now) and Frances Mao (earlier)"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "Zohran Mamdani",
-        "Andrew Cuomo",
-        "New York",
-        "California",
-        "US politics",
-        "New Jersey",
-        "Virginia",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a8c202c9b90ceb53b1fe3b39ca8627b3d18e92b1e437afabc51d74d91e1ac123",
       "url": "https://www.themoscowtimes.com/2025/11/05/russia-to-introduce-childrens-sim-cards-a91050",
       "title": "Russia to Introduce ‘Children’s SIM Cards’",
@@ -431,60 +715,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "af28d2aa067165264183f11c8242e213aaa8366b46d852008664644a08c69a8b",
-      "url": "https://www.theguardian.com/politics/live/2025/nov/05/david-lammy-pmqs-rachel-reeves-tax-system-news-updates-uk-politics-live",
-      "title": "Second accidental release of prisoner ‘utterly unacceptable’, No 10 says, as Lammy blames system left by Tories – UK politics live",
-      "content_html": "<p>Lammy, standing in for Keir Starmer, avoided answering questions on the mistaken release during PMQs</p><p><strong>David Lammy</strong> starts by saying the PM is in Brazil.</p><p>He says the thoughts of all MPs are still with the victims of the appalling attacks in Huntingdon and Peterborough, where, he says, he was at school for seven years.</p> <a href=\"https://www.theguardian.com/politics/live/2025/nov/05/david-lammy-pmqs-rachel-reeves-tax-system-news-updates-uk-politics-live\">Continue reading...</a>",
-      "date_published": "2025-11-05T14:39:53+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "David Lammy",
-        "PMQs",
-        "Budget 2025",
-        "Tax and spending",
-        "Zohran Mamdani",
-        "Scotland",
-        "Scottish politics",
-        "Devolution",
-        "Prisons and probation",
-        "Immigration and asylum",
-        "Migration"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d45ea173711272887b320492b34af8faf3aeb607fc30ae3d3ceb13bc3c86e3d6",
-      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20251105-victoire-de-zohran-mamdani-%C3%A0-new-york-et-scandale-autour-de-shein-en-france",
-      "title": "Victoire de Zohran Mamdani à New York et scandale autour de Shein en France",
-      "content_html": "Zohran Mamdani élu maire de New York. La victoire de ce démocrate, musulman et farouche opposant à Donald Trump est un revers pour le président américain. Une victoire saluée par la gauche radicale française. Pendant ce temps, les politiques de tout bord crient au scandale après la vente de poupées à caractère pédopornographique sur le site de l'enseigne chinoise Shein qui fait, en parallèle, son entrée au BHV. Et une question : l'État peut-il interdire la plateforme en France ?",
-      "date_published": "2025-11-05T14:38:56+00:00",
-      "authors": [
-        {
-          "name": "Roselyne FEBVRE"
-        }
-      ],
-      "tags": [
-        "Face à face"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "d16f8880323a2f2d3ad399657035fbfd62d74dd2f8b0e555d32040eeb98d1c6a",
@@ -634,7 +864,7 @@
       "id": "c4247ff8b523095133ce3ae74d3841842acba1e1fbf6c3c0b547a8936f1f07b1",
       "url": "https://www.dw.com/en/germany-cracks-down-on-tiktok-islamism/a-74630321?maca=en-rss-en-all-1573-rdf",
       "title": "Germany cracks down on 'TikTok Islamism'",
-      "content_html": "The group \"Muslim Interaktiv\" called for setting up a caliphate in Germany, abolishing democracy. The German Interior Ministry has banned the association, which was popular mainly with very young people.",
+      "content_html": "The group \"Muslim Interaktiv\" called for setting up a caliphate in Germany, abolishing democracy. The German interior ministry has banned the association, which was popular mainly with very young people.",
       "date_published": "2025-11-05T14:23:00+00:00",
       "authors": [],
       "tags": [
@@ -733,26 +963,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "19c01468b40fe1c41e05a85f754e6122a11fd0cdbe0abde8696112fe42fc00e7",
-      "url": "https://www.france24.com/fr/afrique/20251105-image-troublante-exactions-satellite-soudan-preuve-intox",
-      "title": "Une image \"troublante\" d'exactions ? Comment une vue satellite du Soudan a été mal interprétée",
-      "content_html": "Après les exactions réelles des Forces de soutien rapide (FSR) lors de la prise de la ville d'El-Facher fin octobre, des internautes ont partagé une capture d'écran de Google Earth censée montrer des tueries de masse au Soudan. Mais ces images sont anciennes et montrent des animaux d'élevage.",
-      "date_published": "2025-11-05T14:15:01+00:00",
-      "authors": [
-        {
-          "name": "Nathan GALLO"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "c4ae79c9472a18bfeb569214601d39f9f826a86571dda7302aa0645d80155722",
@@ -1068,30 +1278,6 @@
       "lang": "en"
     },
     {
-      "id": "8e522efab6823a83236942543b28e7a5b3073563b36e7135641400a03a511385",
-      "url": "https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation",
-      "title": "Air safety officials to investigate deadly UPS cargo plane crash near Kentucky airport",
-      "content_html": "<p>Aircraft crashed shortly after takeoff at Louisville international airport, killing at least seven and injuring 11</p><p>Dozens of air safety investigators are set to arrive in <a href=\"https://www.theguardian.com/us-news/kentucky\">Kentucky</a> on Wednesday to piece together evidence on how a UPS cargo plane crashed and erupted into a huge fireball, killing at least seven people and injuring a further 11.</p><p>At least 28 National Transportation Safety Board agents will start searching for clues about the possible cause of the disaster, which saw the UPS plane <a href=\"https://www.theguardian.com/us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest\">crash shortly after takeoff at the Louisville Muhammad Ali international airport</a>, leaving behind a fiery trail of destruction on the ground and a huge plume of black smoke.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/05/ups-plane-crash-louisville-investigation\">Continue reading...</a>",
-      "date_published": "2025-11-05T13:56:27+00:00",
-      "authors": [
-        {
-          "name": "Oliver Milman"
-        }
-      ],
-      "tags": [
-        "Kentucky",
-        "Plane crashes",
-        "Louisville",
-        "Air transport",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "74496c632744dee51ae5c5bccdd9ff65bc6b38c0b7c99a947e13a2160b381749",
       "url": "https://www.france24.com/en/video/20251105-mamdani-win-a-good-night-for-the-democrats-but-still-a-lot-to-play-for-in-the-future",
       "title": "Mamdani win a good night for the Democrats, \"but still a lot to play for in the future\"",
@@ -1108,26 +1294,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "628b40c994bdca8be7426312e9da81aea0aa3f080530354e1fbab113a383ec2a",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20251105-l-inconnu-de-la-grande-arche-ou-le-destin-secret-de-l-architecte-de-l-arche-de-la-d%C3%A9fense-%C3%A0-paris",
-      "title": "\"L'Inconnu de la Grande Arche\" ou le destin secret de l'architecte de l'Arche de La Défense à Paris",
-      "content_html": "Dans ce nouveau numéro 100 % cinéma, \"L'Inconnu de la Grande Arche\" de Stéphane Demoustier. Deux ans à peine après \"Borgo\", le cinéaste revient avec une forme de thriller avec du ciment, du crayon et du papier. C'est l'histoire d'un architecte danois engagé par François Mitterrand au milieu des années 1980 pour réaliser ce qui allait devenir la Grande Arche de La Défense. Avec au casting : Claes Bang dans le rôle-titre, Xavier Dolan urbaniste de l'Élysée et Michel Fau en François Mitterrand.",
-      "date_published": "2025-11-05T13:55:28+00:00",
-      "authors": [
-        {
-          "name": "Natacha VESNITCH"
-        }
-      ],
-      "tags": [
-        "À l'Affiche !"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "3dfc5f8fc28956af6d710f71766d011b0c91016c1532533bbdd54ccce01f8864",
@@ -1374,32 +1540,6 @@
       "lang": "fr"
     },
     {
-      "id": "fcfa1227af27a458a092237c6a84c61ce20af5826640cb88381389b0646fe676",
-      "url": "https://www.theguardian.com/society/2025/nov/05/police-urgently-looking-for-prisoner-freed-by-mistake-in-london",
-      "title": "Police ‘urgently’ looking for prisoner freed by mistake in London",
-      "content_html": "<p>Algerian man, 24, ‘released in error’ from HMP Wandsworth two days after stronger checks for jails were brought in</p><p>Police have launched an urgent manhunt for a second foreign prisoner freed mistakenly, two days after the justice secretary, David Lammy, brought in stronger checks for jails.</p><p>The 24-year-old Algerian was wrongly released from Wandsworth prison in south London last Wednesday, with the Metropolitan police informed only this week.</p> <a href=\"https://www.theguardian.com/society/2025/nov/05/police-urgently-looking-for-prisoner-freed-by-mistake-in-london\">Continue reading...</a>",
-      "date_published": "2025-11-05T13:36:59+00:00",
-      "authors": [
-        {
-          "name": "Pippa Crerar and Peter Walker"
-        }
-      ],
-      "tags": [
-        "Prisons and probation",
-        "Metropolitan police",
-        "London",
-        "Police",
-        "UK news",
-        "Politics",
-        "David Lammy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "25da76d1a53ba54bcc8525494327ee4ab928db7531542431ab6104ff3f2a92b3",
       "url": "https://ici.radio-canada.ca/nouvelle/2205524/californiens-vote-nouvelle-carte-electorale",
       "title": "Les Californiens votent en faveur d’une nouvelle carte électorale en réponse à Trump",
@@ -1548,7 +1688,7 @@
       "id": "dd8f3e8e2c26fcc979a4ca49ea4d291cc039dd6136526f7391a8ec61e3cc9355",
       "url": "https://www.dw.com/en/france-several-injured-after-car-rams-into-pedestrians/a-74625523?maca=en-rss-en-all-1573-rdf",
       "title": "France: Several injured after car rams into pedestrians",
-      "content_html": "Officials said an investigation was underway after the incident on the French Atlantic island of Oleron. The anti-terrorism prosecutor's office has not been involved in the investigation.",
+      "content_html": "Officials said an investigation was underway after the incident on the French Atlantic island of Oleron. At least nine people were injured, with two in hospital in critical condition.",
       "date_published": "2025-11-05T13:19:00+00:00",
       "authors": [],
       "tags": [
@@ -1583,20 +1723,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "11c838136d657c8beae1725effe66f2ed7b7cf6e10a91ced35fddd782422cb15",
-      "url": "https://ici.radio-canada.ca/nouvelle/2205525/exclue-caucus-caquiste-isabelle-poulet-loi-speciale-medecins",
-      "title": "Exclue du caucus caquiste, Isabelle Poulet fustige la loi spéciale sur les médecins",
-      "content_html": "<p>François Legault l&#x27;a exclue du caucus de la CAQ, car il n&#x27;a pas aimé qu&#x27;elle songe à traverser au PLQ.</p>",
-      "date_published": "2025-11-05T13:15:55+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "332d627c82139b19aee7f96b3379c2592d4de9c7894d03f43ad0d124a6c5cec8",
@@ -1729,50 +1855,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "af4f0b739def62fc8f89b2d3a82af43342884cc3504044a0fb2691cb505f85d1",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20251105-kohler-et-paris-lib%C3%A9r%C3%A9s-mais-pas-libres-parlons-en-avec-c-ardakani-a-hadizadeh-et-m-pirzadeh",
-      "title": "Kohler et Paris, libérés mais pas libres ? Parlons-en avec C. Ardakani, A. Hadizadeh et M. Pirzadeh",
-      "content_html": "Après 1 277 jours en détention, enfin la lumière au bout du cauchemar. Cécile Kohler et Jacques Paris sont sortis de prison, mardi, en Iran. Les derniers détenus français de la République islamique sont en ce moment sous contrôle judiciaire à l'ambassade de France à Téhéran. Libérés mais pas encore libres.",
-      "date_published": "2025-11-05T12:58:18+00:00",
-      "authors": [
-        {
-          "name": "Pauline PACCARD"
-        }
-      ],
-      "tags": [
-        "Parlons-en, les invités"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "359d765e7632820d482c334f3b3d864bdf522facc53dc0caa1d37ec6ef3a6459",
-      "url": "https://www.theguardian.com/film/2025/nov/05/kristen-stewart-female-film-makers-the-chronology-of-water",
-      "title": "‘I could eat this podium with a fork and knife I’m so angry’: Kristen Stewart blasts neglect of female film-makers",
-      "content_html": "<p>The actor, whose forthcoming directorial debut The Chronology of Water spent eight years in development, said women in the industry should ‘print our own currency’</p><p>Kristen Stewart has spoken out against “the violence of silencing” female directors in the film industry, which she described as being “in a state of emergency”.</p><p>Speaking at the Academy Women’s Luncheon on Tuesday, Stewart said her fellow women in film should reject tokenism and “print our own currency”.</p> <a href=\"https://www.theguardian.com/film/2025/nov/05/kristen-stewart-female-film-makers-the-chronology-of-water\">Continue reading...</a>",
-      "date_published": "2025-11-05T12:57:38+00:00",
-      "authors": [
-        {
-          "name": "Catherine Shoard"
-        }
-      ],
-      "tags": [
-        "Kristen Stewart",
-        "Film industry",
-        "Film",
-        "US news",
-        "Culture"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1926,46 +2008,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d07b7dda4b709a43c6ae5522c6b63744dbdcfef1b35c449acbc00c03b07c91b6",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20251105-gem-le-mus%C3%A9e-de-toutes-les-ambitions-parlons-en-v-rondot-s-tonsy-et-j-babin",
-      "title": "GEM, le musée de toutes les ambitions ? Parlons-en V. Rondot, S. Tonsy et J. Babin",
-      "content_html": "Direction le plus grand musée archéologique au monde : le grand musée égyptien GEM qui ouvre ses portes au public après 20 ans de travaux. Le bâtiment de tous les superlatifs tant par les trésors qu’il abrite que l’ambition qu’il incarne.",
-      "date_published": "2025-11-05T12:37:18+00:00",
-      "authors": [
-        {
-          "name": "Pauline PACCARD"
-        }
-      ],
-      "tags": [
-        "Parlons-en, les invités"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "6ee691b83e4eff059a0436da7d6f4a7f581da83101053ea5d75cbab6646f9074",
-      "url": "https://www.france24.com/fr/info-en-continu/20251105-litt%C3%A9rature-emmanuel-carr%C3%A8re-remporte-le-prix-m%C3%A9dicis-pour-son-roman-kolkhoze",
-      "title": "Littérature : Emmanuel Carrère remporte le prix Médicis pour son roman \"Kolkhoze\"",
-      "content_html": "À défaut de remporter le prix Goncourt, Emmanuel Carrère a été récompensé, mercredi, du prix Médicis pour son roman \"Kolkhoze\", vaste fresque familiale et hommage à sa mère Hélène Carrère d'Encausse.",
-      "date_published": "2025-11-05T12:33:50+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Culture"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2173,24 +2215,6 @@
       "lang": "fr"
     },
     {
-      "id": "afc5f0e2e246993481bafbc79477f541d80ecc23a2e7320c5bd6f9e764d49ab9",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-%C3%A9tats-unis-zohran-mamdani-%C3%A9lu-maire-de-new-york",
-      "title": "États-Unis : Zohran Mamdani élu maire de New York",
-      "content_html": "Le socialiste Zohran Mamdani a remporté mardi la mairie de New York au terme d'une soirée d'élections locales dans lesquelles Donald Trump a essuyé plusieurs revers, un message de défiance à un an des élections de mi-mandat.",
-      "date_published": "2025-11-05T12:14:39+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3b98fb030bf4f6aa2540cabb8868bb689f13942adceed86601c555d07429d0cc",
       "url": "https://www.themoscowtimes.com/2025/11/05/moldova-moves-to-end-cultural-centers-deal-with-russia-a91046",
       "title": "Moldova Moves to End Cultural Centers Deal With Russia",
@@ -2221,24 +2245,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "6054c4b98c568d7f50a66b8d55fb0236360aea0374e1c6709790b8f676851632",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-macron-a-demand%C3%A9-au-pr%C3%A9sident-iranien-la-lib%C3%A9ration-pleine-et-enti%C3%A8re-de-kohler-et-paris",
-      "title": "Macron a demandé au président iranien la \"libération pleine et entière\" de Kohler et Paris",
-      "content_html": "Emmanuel Macron a demandé mercredi 5 novembre à son homologue iranien Massoud Pezeshkian la \"libération pleine et entière\", \"le plus rapidement possible\", de Cécile Kohler et Jacques Paris, les deux Français sortis de prison mardi après plus de trois ans de détention en Iran, a déclaré l'Elysée.",
-      "date_published": "2025-11-05T12:01:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "ac239e9e38af64e4a273f5d9decb94955611d89a38dd7332f3b17cedd2dcc00b",
@@ -2301,34 +2307,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f77cc35a1e59ac0c1995bd9c310558a41b94862651ea1cbe8bf6e1e2cb60db73",
-      "url": "https://www.theguardian.com/world/2025/nov/05/pope-leo-religious-rights-detained-migrants-treatment-ice-us",
-      "title": "Pope Leo calls for ‘deep reflection’ about treatment of detained migrants in US",
-      "content_html": "<p>Pontiff says authorities must address the spiritual rights of those held in custody amid immigration crackdown</p><p>Pope Leo has called for “deep reflection” in the US about the <a href=\"https://www.theguardian.com/us-news/2025/oct/20/ice-facilities-lighting-overnight\">treatment of migrants held in detention</a>, saying that “many people who have lived for years and years and years, never causing problems, have been deeply affected by what is going on right now”.</p><p>The Chicago-born pope was responding late on Tuesday to a range of geopolitical questions from reporters outside the papal retreat at Castel Gandolfo, near Rome, including what kind of spiritual rights migrants in US custody should have, <a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role\">US military attacks on suspected drug traffickers off Venezuela</a> and the fragile ceasefire in the Middle East.</p> <a href=\"https://www.theguardian.com/world/2025/nov/05/pope-leo-religious-rights-detained-migrants-treatment-ice-us\">Continue reading...</a>",
-      "date_published": "2025-11-05T11:44:40+00:00",
-      "authors": [
-        {
-          "name": "Associated Press in Vatican City"
-        }
-      ],
-      "tags": [
-        "Pope Leo XIV",
-        "The papacy",
-        "Catholicism",
-        "World news",
-        "Christianity",
-        "Religion",
-        "US news",
-        "ICE (US Immigration and Customs Enforcement)",
-        "US immigration"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2455,32 +2433,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3ea7aaa6bf792d645b51c5e67245faf041d3f74380e7127adf1f917ad1e443e9",
-      "url": "https://www.theguardian.com/world/2025/nov/05/facebook-job-ads-algorithm-is-sexist-french-equality-watchdog-rules",
-      "title": "Facebook’s job ads algorithm is sexist, French equality watchdog rules",
-      "content_html": "<p>Regulator found ads for mechanics skewed towards men while those for preschool teachers targeted women</p><p>The French equalities regulator has ruled that Facebook’s algorithm for placing job adverts is sexist, after an investigation found that adverts for mechanic roles skewed towards men while those for preschool teachers were targeted at women.</p><p>The Défenseur des Droits watchdog said the Facebook system for targeted job ads treated users differently based on their sex, and constituted indirect discrimination. The regulator recommended that Facebook and its parent company, Meta, took measures to ensure adverts were non-discriminatory, giving the company three months to inform the French body of the measures.</p> <a href=\"https://www.theguardian.com/world/2025/nov/05/facebook-job-ads-algorithm-is-sexist-french-equality-watchdog-rules\">Continue reading...</a>",
-      "date_published": "2025-11-05T11:17:24+00:00",
-      "authors": [
-        {
-          "name": "Dan Milmo Global technology editor"
-        }
-      ],
-      "tags": [
-        "France",
-        "Facebook",
-        "Meta",
-        "Advertising",
-        "World news",
-        "Technology",
-        "Europe"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2645,24 +2597,6 @@
       "lang": "en"
     },
     {
-      "id": "8b7373b05c0bc07ff322c6292800a9c3a9808ce838a2c5c54f3332ae6f16d994",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-gaza-des-habitants-traumatis%C3%A9s-laiss%C3%A9s-sans-soins-psychologiques",
-      "title": "Gaza : des habitants traumatisés laissés sans soins psychologiques",
-      "content_html": "Un docteur a recueilli pendant des années la parole des Palestiniens : Fadi Adel Afaneh, psychiatre et chercheur à l'INSERM réfugié en France depuis décembre 2024, était notre invité. Il partage avec nous son expérience à Gaza.",
-      "date_published": "2025-11-05T10:57:58+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "33676b254f48ca9833a1c594206d3336d969af3298325aae87844a8615de577d",
       "url": "https://www.france24.com/en/video/20251105-david-beckham-made-a-knight-by-king-charles-for-services-to-sport-and-charity",
       "title": "David Beckham made a knight by King Charles for services to sport and charity",
@@ -2681,24 +2615,6 @@
       "lang": "en"
     },
     {
-      "id": "9a5ca18d63e30b2a671e2b5106576568edcd63b44362beb835256ef62966f1f2",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-ukraine-visite-de-zelensky-aux-troupes-dans-la-zone-de-pokrovsk",
-      "title": "Ukraine : visite de Zelensky aux troupes dans la zone de Pokrovsk",
-      "content_html": "Le président Volodymyr Zelensky a annoncé mardi 4 novembre s'être rendu auprès des troupes ukrainiennes combattant dans la zone de Pokrovsk, ville stratégique du Donbass en difficulté face aux attaques de l'armée russe.",
-      "date_published": "2025-11-05T10:55:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "aec3b3e7e49ec801f315155aa4d34b2a1f8e4c1f0cdb29a96f5312170a34283b",
       "url": "https://www.aljazeera.com/news/2025/11/5/why-is-pakistan-making-india-a-key-figure-in-its-dispute-with-the-taliban?traffic_source=rss",
       "title": "Why is Pakistan making India a key figure in its dispute with the Taliban?",
@@ -2715,80 +2631,6 @@
       "lang": "en"
     },
     {
-      "id": "20d8b37a2e4edb37e56569f66f10925cb9a4effb9064fba3f5c081b25cd10cef",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-%C3%A9tats-unis-un-avion-cargo-s-%C3%A9crase-apr%C3%A8s-son-d%C3%A9collage-%C3%A0-louisville",
-      "title": "États-Unis : un avion-cargo s’écrase après son décollage à Louisville",
-      "content_html": "Un avion-cargo s'est écrasé, mardi 4 novembre, en une boule de feu peu après son décollage de Louisville, dans le centre-est des États-Unis, tuant au moins sept personnes, selon le gouverneur du Kentucky, qui s'attend à un bilan plus lourd.",
-      "date_published": "2025-11-05T10:54:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bb7ad2d571a6f925715cb83d9c13583cd0d9e63bb06337184846a916dc628f4e",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-shein-ouvre-un-magasin-%C3%A0-paris-des-manifestants-protestent-devant-l-entr%C3%A9e",
-      "title": "Shein ouvre un magasin à Paris, des manifestants protestent devant l'entrée",
-      "content_html": "Malgré les sanctions administratives et l'enquête judiciaire ouverte pour la vente de poupées sexuelles d'apparence enfantine, le géant de l'e-commerce asiatique Shein ouvre mercredi 5 novembre son premier magasin physique et pérenne au monde à Paris. Précisions de notre reporter Julie Dungelhoeff, en direct de Paris.",
-      "date_published": "2025-11-05T10:53:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e1191f77c7b91b93121092af09feedc925e43de4ad304f9520effff848c6ed37",
-      "url": "https://www.france24.com/fr/%C3%A9missions/focus/20251105-un-orchestre-dans-la-guerre-un-ukraine-les-sons-loin-du-front",
-      "title": "Un orchestre dans la guerre : en Ukraine, les sons loin du front",
-      "content_html": "À Kivchovata, au sud de Kiev, les alertes aériennes font désormais partie du quotidien. Ce village loin de la ligne de front est sur la trajectoire des drones et des missiles russes. Il abrite aussi un orchestre pas comme les autres, devenu célèbre en Ukraine avec son morceau \"L'ouverture des Shahed\" qui reproduit les sons d'une nuit de guerre. Reportage de notre correspondant Gulliver Cragg.",
-      "date_published": "2025-11-05T10:52:42+00:00",
-      "authors": [
-        {
-          "name": "Gulliver CRAGG"
-        }
-      ],
-      "tags": [
-        "Focus"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f6d2868ee6d418de3114489e2e7a6a3b4ebde25e761e3e7dea5d2cd5725f0da7",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-aux-%C3%A9tats-unis-la-paralysie-budg%C3%A9taire-bat-un-record-de-long%C3%A9vit%C3%A9",
-      "title": "Aux États-Unis, la paralysie budgétaire bat un record de longévité",
-      "content_html": "Les États-Unis sont entrés mercredi 5 novembre dans leur 36e jour de paralysie budgétaire, battant ainsi le record du plus long \"shutdown\" de l'histoire du pays, au moment où les conséquences néfastes pour des millions d'Américains s'étendent de jour en jour.",
-      "date_published": "2025-11-05T10:50:31+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6e9148898567f1e00603b3556401c841e45ac44f571ed5c0f21c799fea7b8d43",
       "url": "https://www.aljazeera.com/sports/2025/11/5/cristiano-ronaldo-plans-to-retire-from-football-for-family-reasons?traffic_source=rss",
       "title": "Cristiano Ronaldo plans to retire from football for family reasons",
@@ -2803,42 +2645,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "892fc4d214fce71c02f9489fe82378bf8d8e442343bd3f5e91983d58462dd354",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-%C3%A9tats-unis-un-an-apr%C3%A8s-le-retour-de-trump-%C3%A0-la-maison-blanche-le-r%C3%A9veil-des-d%C3%A9mocrates",
-      "title": "États-Unis : un an après le retour de Trump à la Maison blanche, le réveil des démocrates ?",
-      "content_html": "Les candidats démocrates ont remporté mardi 4 novembre au soir les trois premiers scrutins majeurs organisés depuis que le républicain Donald Trump est revenu à la Maison blanche en janvier dernier, redonnant du souffle à un parti en difficulté depuis son revers électoral de l'an dernier et alors que se profilent les élections de mi-mandat au Congrès (\"midterms\") l'an prochain. Nous en parlons avec notre chroniqueur international Gauthier Rybinski.",
-      "date_published": "2025-11-05T10:47:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "73b2178253e1b324db8161ea3a9295f6a1b490354c8f5791c34f8dcabbeb3c56",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251105-iran-premi%C3%A8res-heures-de-semi-libert%C3%A9-pour-kohler-et-paris-%C3%A0-l-ambassade-de-france",
-      "title": "Iran : premières heures de semi-liberté pour Kohler et Paris à l'ambassade de France",
-      "content_html": "Cécile Kohler et Jacques Paris, les deux Français sortis mardi 4 novembre de prison en Iran et que Paris considérait comme des \"otages d'État\", vivaient mercredi leurs premières heures de semi-liberté à l'ambassade de France après trois ans et demi d'éprouvante détention, en attendant de pouvoir rentrer dans leur pays à une date inconnue. Les précisions de Pierre Cochard, ambassadeur de France en Iran, qui s'est exprimé chez nos confrères de France Inter.",
-      "date_published": "2025-11-05T10:45:55+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "aa087f5b003e837ce49d5abd2d6afaac51c1c24d625a6d76db79e90d94d8c208",
@@ -2887,20 +2693,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "54625b28fdf525d319afe5b80f942692087bef3f9f108fedb6e30ba630f8eee7",
-      "url": "https://ici.radio-canada.ca/nouvelle/2205435/baseball-engouement-toronto-blue-jays",
-      "title": "Quel sera l’héritage de la Série mondiale?",
-      "content_html": "<p>Le passage des Blue Jays en Série mondiale aura fait augmenter le nombre d’adeptes du baseball.  </p>",
-      "date_published": "2025-11-05T10:36:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "21eb6e1c51ee3089842ceeced72c522bec0fa522962cd2343c94608b0d025ab9",
@@ -3093,27 +2885,6 @@
       "lang": "en"
     },
     {
-      "id": "3cdc1b70fbfac85050337b50eef18d6b67dfa6f88649f6b39ebe2c5055448562",
-      "url": "https://www.timesofisrael.com/in-first-voters-in-boston-suburb-back-municipal-proposal-to-divest-from-israel/",
-      "title": "In first, voters in Boston suburb back municipal proposal to divest from Israel",
-      "content_html": "<p>While anti-Israel activists celebrate, mayoral candidate who endorsed measure concedes to rival, Jake Wilson, who did not; Jewish groups ran TV ads against ballot question</p>\n<p>The post <a href=\"https://www.timesofisrael.com/in-first-voters-in-boston-suburb-back-municipal-proposal-to-divest-from-israel/\">In first, voters in Boston suburb back municipal proposal to divest from Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/11-4-25-somerville-2-e1762334302128-1024x640.jpg\" title=\"In first, voters in Boston suburb back municipal proposal to divest from Israel\" width=\"160\" /></figure>",
-      "date_published": "2025-11-05T10:07:46+00:00",
-      "authors": [],
-      "tags": [
-        "Jewish Times",
-        "Boston",
-        "divestment",
-        "BDS Boycott Divestment Sanctions",
-        "US politics",
-        "anti-Israel activity"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "79323268b3c637d0efdae8f98568278294f265f823f2501da85fd5464776f3e6",
       "url": "https://www.ukrinform.net/rubric-ato/4055304-occupiers-move-pantsirs1-missile-system-from-kerch-to-simferopol.html",
       "title": "Occupiers move Pantsir-S1 missile system from Kerch to Simferopol",
@@ -3229,22 +3000,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "6cec0fabcc2525c57914c291fd8a58f9e60dd015e832210d2f34b489bdb1b57b",
-      "url": "https://www.aljazeera.com/news/2025/11/5/un-chief-warns-gaza-stabilisation-force-must-have-international-legitimacy?traffic_source=rss",
-      "title": "UN chief warns Gaza stabilisation force must have international legitimacy",
-      "content_html": "Antonio Guterres tells Al Jazeera, ceasefire in Gaza remains &#039;fragile&#039; as more aid is needed to &#039;eliminate famine&#039;.",
-      "date_published": "2025-11-05T09:52:27+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "df841a3bf363df3f08d396b1cddd9ce8fa8a62c01bb12b48515e9b8f6e28fa13",
@@ -3606,22 +3361,6 @@
       "lang": "en"
     },
     {
-      "id": "af678f8c328c5f983b90b6a46b2f418bf129964a31c005e4ae41955870bace9b",
-      "url": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss",
-      "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
-      "content_html": "‘Cycle of terror’ spikes as Higher Planning Council set to advance plans to build 1985 new settlement units.",
-      "date_published": "2025-11-05T08:38:49+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4d59b22c86b4c3664efc41241ef568fde833b9426673acf4d92625dabc7cc282",
       "url": "https://www.bbc.com/news/articles/cvgkjj5j3dyo?at_medium=RSS&at_campaign=rss",
       "title": "Eleven killed in blaze at Bosnian retirement home",
@@ -3698,22 +3437,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ced31e425cf7cbc72f3f6d359fd32736fa823269b76c60670c3fa0039787e729",
-      "url": "https://www.aljazeera.com/gallery/2025/11/5/pakistan-welcomes-indian-sikh-pilgrims-in-first-crossing-since-may-conflict?traffic_source=rss",
-      "title": "Pakistan welcomes Indian Sikh pilgrims in first crossing since May conflict",
-      "content_html": "Sikh pilgrims cross from India into Pakistan to celebrate Guru Nanak&#039;s birthday, one of Sikhism&#039;s most sacred festivals.",
-      "date_published": "2025-11-05T08:16:25+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "d6a924ad244781f5e87473d0cd8572372de23d2a0ee46d0c05f217c8f94c496d",
@@ -4755,62 +4478,27 @@
       "lang": "fr"
     },
     {
-      "id": "b0126a2ef9b992821df4787fba8872152d5f7ece51ede4b9f71559a2568d622f",
-      "url": "https://www.lemonde.fr/international/article/2025/11/05/derriere-la-liberation-de-cecile-kohler-et-jacques-paris-les-deux-otages-francais-en-iran-des-tractations-discretes_6652054_3210.html",
-      "title": "Derrière la libération de Cécile Kohler et de Jacques Paris, les deux otages français en Iran, des tractations discrètes",
-      "content_html": "Lors d’un rassemblement pour les 41 ans de Cécile Kohler, à Paris, le 25 septembre 2025.",
-      "date_published": "2025-11-05T04:30:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5d58f6bb8d24b45203eef612f174f72500f5c72e96c643b5899da943ef1d17b5",
-      "url": "https://www.lemonde.fr/international/article/2025/11/05/elargissement-de-l-union-europeenne-la-tentation-d-une-integration-graduelle-de-nouveaux-etats-membres_6652053_3210.html",
-      "title": "Elargissement de l’Union européenne : la tentation d’une intégration graduelle de nouveaux Etats membres",
-      "content_html": "Marta Kos, la commissaire européenne chargée de l’élargissement, à Bruxelles, le 4 novembre 2025.",
-      "date_published": "2025-11-05T04:30:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0d11488518b66daaf3c1d4346cbc81204f8ad3c346b05323dc3ab94afbcf52a6",
-      "url": "https://www.dw.com/en/ups-cargo-plane-crashes-in-kentucky-killing-several-people/a-74620085?maca=en-rss-en-all-1573-rdf",
-      "title": "UPS cargo plane crashes in Kentucky killing several people",
-      "content_html": "A cargo plane burst into flames shortly after taking off from Louisville international airport Tuesday evening. Several buildings in a nearby industrial area caught fire, and flights were grounded overnight.",
-      "date_published": "2025-11-05T04:20:00+00:00",
-      "authors": [],
+      "id": "13c0618e5a086fede4f309d3110947b836320df017be6ebd0396738609fac292",
+      "url": "https://www.theguardian.com/world/2025/nov/05/canada-federal-budget-adds-tens-of-billions-to-deficit-as-carney-spends-to-dampen-trump-tariffs-effect",
+      "title": "Canada budget adds tens of billions to deficit as Carney spends to dampen Trump tariffs effect",
+      "content_html": "<p>Budget envisions significant increase in defence spending, cuts to civil service and ‘generational investments’</p><p>A protracted trade war with the United States and a weakening domestic economy has forced Mark Carney to run a deficit tens of billions larger than initially forecast in his first-ever federal budget.</p><p>The spending plan, titled “Canada Strong” envisions significant new defence spending, a reduction of the country’s civil service and “generational investments” that would reshape the nature of the country’s economy.</p> <a href=\"https://www.theguardian.com/world/2025/nov/05/canada-federal-budget-adds-tens-of-billions-to-deficit-as-carney-spends-to-dampen-trump-tariffs-effect\">Continue reading...</a>",
+      "date_published": "2025-11-05T03:43:47+00:00",
+      "authors": [
+        {
+          "name": "Leyland Cecco in Toronto"
+        }
+      ],
       "tags": [
-        "News"
+        "Canada",
+        "Trump tariffs",
+        "Mark Carney",
+        "Tariffs",
+        "Americas",
+        "World news"
       ],
       "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "820a09529bcf2a40daf94377668b000d44313456f3a89593a0800f251e53f7d0",
-      "url": "https://www.ukrinform.net/rubric-society/4054946-ukraine-counts-354-artists-and-media-workers-killed-in-russias-war.html",
-      "title": "Ukraine counts 354 artists and media workers killed in Russia’s war",
-      "content_html": "Since the beginning of Russia’s full-scale invasion, 236 artists and 118 media workers — including foreign journalists — have been killed in Ukraine.",
-      "date_published": "2025-11-05T03:26:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -4897,22 +4585,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "2128c022b5b1cca1b20e4e7b2f25e4ab1229e040e1ea414cb99c3479011e90b1",
-      "url": "https://www.ukrinform.net/rubric-crime/4054945-suspect-in-embezzlement-of-100m-from-energoatom-extradited-from-germany.html",
-      "title": "Suspect in embezzlement of ₴100M from Energoatom extradited from Germany",
-      "content_html": "One of the defendants in the case involving the embezzlement of UAH 100 million during the construction of a spent nuclear fuel storage facility has been extradited from Germany.",
-      "date_published": "2025-11-05T02:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "Crime"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "80c0488da6791cfa9aa6e3db28d93eaec0c1538a63dccc3eb0f0af4b451ccb8a",
@@ -5061,20 +4733,6 @@
       "title": "L’écrasement d’un avion-cargo d’UPS fait au moins trois morts au Kentucky",
       "content_html": "<p>L&#x27;avion avait trois membres d&#x27;équipage à son bord, a déclaré le transporteur.</p>",
       "date_published": "2025-11-05T00:59:43+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "802833b1c3f95fa06c1c21320dc53d18883d116877965bc3dc8c4e16baa9a6e5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2205187/dick-cheney-vice-president-mort",
-      "title": "L’ancien vice-président américain Dick Cheney est mort, annonce sa famille",
-      "content_html": "<p>Il est considéré comme l&#x27;un des vice-présidents les plus puissants de l&#x27;histoire américaine.</p>",
-      "date_published": "2025-11-05T00:56:52+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -5626,36 +5284,6 @@
         "Rio de Janeiro",
         "Americas",
         "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e3c0147ceefa258333e5d9fc60216b2c149d9ff55da4c3f17d6fca1e42062153",
-      "url": "https://www.theguardian.com/world/2025/nov/04/claudia-sheinbaum-us-troops-mexico-cartels",
-      "title": "Sheinbaum denies reports US will send troops to Mexico: ‘It’s not going to happen’",
-      "content_html": "<p>President says she’s repeatedly rejected such offers from Trump for US to confront Mexico’s powerful drug cartels</p><p>Mexico’s President <a href=\"https://www.theguardian.com/world/claudia-sheinbaum\">Claudia Sheinbaum</a> has flatly denied reports that the United States is planning to send troops into Mexico to confront the country’s powerful cartels, noting that she had repeatedly rejected such offers from Donald Trump.</p><p>“It’s not going to happen,” Sheinbaum said during her daily morning news conference on Tuesday. “We do not agree with any process of interference or interventionism.”</p> <a href=\"https://www.theguardian.com/world/2025/nov/04/claudia-sheinbaum-us-troops-mexico-cartels\">Continue reading...</a>",
-      "date_published": "2025-11-04T18:31:34+00:00",
-      "authors": [
-        {
-          "name": "Oscar Lopez in Mexico City"
-        }
-      ],
-      "tags": [
-        "Mexico",
-        "Donald Trump",
-        "Claudia Sheinbaum",
-        "Drugs trade",
-        "Drugs",
-        "Americas",
-        "US news",
-        "World news",
-        "Trump administration",
-        "US military",
-        "CIA"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -7794,28 +7422,6 @@
       "lang": "fr"
     },
     {
-      "id": "a86d5bdbf5f90cc2038658c9944cb80e6fbc517ba5ca7af8e4e9cf5319eb8a71",
-      "url": "https://www.elmundo.es/internacional/2025/11/03/68fa36c0e85ece29328b45c5.html",
-      "title": "La Turquie entend criminaliser la communauté LGBT : « C'est pire que les lois russes »",
-      "content_html": "Les personnes trans devront prouver qu'elles ne peuvent pas avoir d'enfants pour pouvoir accéder aux opérations de transition de genre, une mesure qualifiée de « stérilisation forcée ».",
-      "date_published": "2025-11-03T00:53:33+00:00",
-      "authors": [
-        {
-          "name": "Lara Villalón"
-        }
-      ],
-      "tags": [
-        "Turquía",
-        "Recep Tayyip Erdoğan",
-        "LGTBI"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "eaa5bf0a0022288f2de7fb3dd5a3662166f30633ee73c9646cbe9fdcbf6ae65c",
       "url": "https://www.bbc.com/news/articles/cd673291pljo?at_medium=RSS&at_campaign=rss",
       "title": "I built this 'AI aunt' for women after family tragedy in South Africa",
@@ -8124,22 +7730,6 @@
       "lang": "en"
     },
     {
-      "id": "d82d694c21d5dd5a166f05db9003d4df05a9fa3e0dfc77eaa38bfe017e4d2aa9",
-      "url": "https://www.dw.com/en/uk-three-activists-cleared-over-stonehenge-spray-powder/a-74577823?maca=en-rss-en-all-1573-rdf",
-      "title": "UK: Three activists cleared over Stonehenge spray powder",
-      "content_html": "The activists cited human rights as part of their defense after throwing orange powder on the stones at the prehistoric site in Wiltshire, England.",
-      "date_published": "2025-10-31T18:44:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bb877b358033505a63f5b74105962cd4f22cf904f5068179a2c879c3c7b25411",
       "url": "https://www.dw.com/en/china-launches-youngest-astronaut-and-space-mice/a-74577866?maca=en-rss-en-all-1573-rdf",
       "title": "China launches youngest astronaut and 'space mice'",
@@ -8377,7 +7967,7 @@
       "id": "33d2fccd3d9c66079688d2b4bc7fc7e0bd617338294e4c04da0b96c4decc7137",
       "url": "https://elpais.com/internacional/2025-10-30/la-derrota-de-wilders-en-paises-bajos-muestra-que-el-populismo-fracasa-en-el-gobierno.html",
       "title": "La défaite de Wilders aux Pays-Bas montre que le populisme échoue au sein du gouvernement",
-      "content_html": "Le leader du parti PVV, Geert Wilders, s'adresse à la presse à la Chambre des Représentants à La Haye (Pays-Bas), ce jeudi.",
+      "content_html": "Le leader du parti PVV, Geert Wilders, s'adresse ce jeudi à la presse à la Chambre des représentants à La Haye (Pays-Bas).",
       "date_published": "2025-10-30T17:55:04+00:00",
       "authors": [
         {
@@ -8637,20 +8227,6 @@
       "lang": "en"
     },
     {
-      "id": "c984b8652c561ab992273c8c0692a9653acddfb22faa23c7c94687711d93f0a0",
-      "url": "https://www.themoscowtimes.com/2025/10/30/lukoil-accepts-oil-trader-gunvors-offer-to-buy-international-assets-after-us-sanctions-a90989",
-      "title": "Lukoil Accepts Oil Trader Gunvor’s Offer to Buy International Assets After U.S. Sanctions",
-      "content_html": "“The key terms of the transaction have been earlier agreed by the parties,” Lukoil said in a statement.",
-      "date_published": "2025-10-30T09:43:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ff758da0b27cf2c2ed1b9e19aacd195fded3a67823d1a90de73a674de8ecb5e1",
       "url": "https://www.dw.com/en/betting-scandal-involving-referees-rocks-turkish-football/a-74545614?maca=en-rss-en-all-1573-rdf",
       "title": "Betting scandal involving referees rocks Turkish football",
@@ -8670,7 +8246,7 @@
       "id": "b41c0567aee1ec105cf1986a39c6fda75402623c5eee3c0a6da5146936a1947a",
       "url": "https://elpais.com/internacional/2025-10-29/un-alto-el-fuego-de-quita-y-pon.html",
       "title": "Un cessez-le-feu amovible",
-      "content_html": "Des bâtiments détruits par les bombardements de l'armée israélienne près de la mosquée Al Susi dans le camp de réfugiés d'Al Shati dans la ville de Gaza mercredi.",
+      "content_html": "Des bâtiments détruits mercredi par les bombardements de l'armée israélienne près de la mosquée Al Susi dans le camp de réfugiés d'Al Shati, dans la ville de Gaza.",
       "date_published": "2025-10-29T17:21:48+00:00",
       "authors": [
         {
