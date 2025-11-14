@@ -5,36 +5,165 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "8464839785309872685654162343e74ab6d6129b01a3944170af5b26fa065d84",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-kyiv-cible-par-une-vaste-attaque-russe-20251114_RF3VRLRCGFEB7KGNIRGW2SOGNU/",
-      "title": "Guerre en Ukraine : Kyiv ciblé par une vaste attaque russe",
-      "content_html": "Un immeuble résidentiel touché par une vaste attaque russe à Kyiv, ce vendredi 14 novembre 2025.",
-      "date_published": "2025-11-14T06:50:30+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
+      "id": "30660dff685d7dbf28762741eb0cb829d6eda4e1700f6a7dfecf82aea052914a",
+      "url": "https://www.dw.com/en/climate-change-in-10-charts/a-59652069?maca=en-rss-en-all-1573-rdf",
+      "title": "Climate change in 10 charts",
+      "content_html": "With COP30 underway, the climate crisis is in the spotlight. Here are the key facts about how rising temperatures are disrupting our planet.",
+      "date_published": "2025-11-14T07:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "Environment"
       ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9b39ab06534abfda227d33a3825eb5fbd8113f8af93f583137bc033e7f6b396d",
+      "url": "https://ici.radio-canada.ca/nouvelle/2207561/washington-accords-pays-amerique-latine-droits-douane",
+      "title": "Washington scelle des accords avec des pays d’Amérique latine sur les droits de douane",
+      "content_html": "<p>La Maison-Blanche se préoccupe du coût de la vie après les victoires électorales des démocrates.</p>",
+      "date_published": "2025-11-14T07:05:47+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
     {
-      "id": "e00123c59684488b7b10e3b45513eab313e3f0ae814a6b52cd46ad44a32f326b",
-      "url": "https://www.ukrinform.net/rubric-ato/4058578-russian-army-shells-36-settlements-in-kherson-region-over-past-day-three-wounded-one-killed.html",
-      "title": "Russian army shells 36 settlements in Kherson region over past day, three wounded, one killed",
-      "content_html": "Over the past day, Russian forces used drones, artillery, and aviation to strike 36 settlements in the Kherson region, killing one person and wounding three others.",
-      "date_published": "2025-11-14T06:45:00+00:00",
+      "id": "d587ffe007abfbb942f8b6ede53df6ac3fa42758bc4abcf0008d80f405bcc055",
+      "url": "https://www.lefigaro.fr/international/boualem-sansal-un-an-dans-le-piege-de-la-diplomatie-franco-algerienne-20251113",
+      "title": "Boualem Sansal, un an dans le piège de la diplomatie franco-algérienne",
+      "content_html": "Arrêté le 16 novembre 2024 puis condamné à cinq ans de prison quatre jours avant l’échange Macron-Tebboune, Boualem Sansal a vu sa peine confirmée en appel le 1er juillet.",
+      "date_published": "2025-11-14T07:05:23+00:00",
       "authors": [],
       "tags": [
-        "War"
+        "International"
       ],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5807a1b6192316fd6f75f5ae01c03e63d9e644855c1f61f05fac31fe05ec6053",
+      "url": "https://www.theguardian.com/global-development/2025/nov/14/china-and-saudi-arabia-among-nations-receiving-climate-loans-analysis-reveals",
+      "title": "China and Saudi Arabia among nations receiving climate loans, analysis reveals",
+      "content_html": "<p>Investigation by Guardian and Carbon Brief finds just a fifth of funds to fight global heating went to poorest 44 countries</p><p>China and wealthy petrostates including Saudi Arabia and UAE are among countries receiving large sums of climate finance, according to an analysis.</p><p>The Guardian and <a href=\"https://www.carbonbrief.org/analysis-seven-charts-showing-how-the-100bn-climate-finance-goal-was-met/\">Carbon Brief</a> analysed previously unreported submissions to the UN, along with data from the Organisation for Economic Cooperation and Development (OECD), that show how billions of dollars of public money is being committed to the fight against global heating.</p> <a href=\"https://www.theguardian.com/global-development/2025/nov/14/china-and-saudi-arabia-among-nations-receiving-climate-loans-analysis-reveals\">Continue reading...</a>",
+      "date_published": "2025-11-14T07:00:23+00:00",
+      "authors": [
+        {
+          "name": "Carmen Aguilar García, Ajit Niranjan, Josh Gabbatiss, Pamela Duncan and Fiona Harvey"
+        }
+      ],
+      "tags": [
+        "Climate finance",
+        "Cop30",
+        "Climate crisis",
+        "Saudi Arabia",
+        "China",
+        "Environment",
+        "World news",
+        "Global development",
+        "Middle East and north Africa",
+        "Asia Pacific",
+        "OECD"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "19ef77dd2b7f6ba315a9ab9a6e4afe509fdccc66564c0836e0c60958bb4aa10b",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/14/lake-district-sewage-pollution-dj-radio-protest-number-twos",
+      "title": "Not so Golden Brown: DJ plays 24-hours of No 2s in Lake District sewage protest",
+      "content_html": "<p>Radio host uses chart songs that didn’t quite make top spot to highlight issue of  Windermere pollution</p><p></p><p>If you <a href=\"https://www.youtube.com/watch?v=zPNw_2h0CnU&amp;list=RDzPNw_2h0CnU&amp;start_radio=1\">Sit Down</a> and wonder why Britain’s streams, rivers and lakes are so filthy, you’re probably <a href=\"https://www.youtube.com/watch?v=bWcASV2sey0\">Holding Out for a Hero</a> to halt this <a href=\"https://www.youtube.com/watch?v=S1kE0MMfr20\">Scandalous</a> discharge of sewage.</p><p>Step forward the <a href=\"https://lakedistrictradio.org/\">Lake District Radio</a> DJ Lee Durrant, who will go <a href=\"https://www.youtube.com/watch?v=azdwsXLmrHE\">Radio Ga Ga</a> with a 24-hour live broadcasting marathon on Friday, playing songs that peaked at No 2 in the charts to highlight the ongoing stench of not quite <a href=\"https://www.youtube.com/watch?v=z-GUjA67mdc\">Golden Brown</a> “number twos” floating downstream.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/14/lake-district-sewage-pollution-dj-radio-protest-number-twos\">Continue reading...</a>",
+      "date_published": "2025-11-14T07:00:23+00:00",
+      "authors": [
+        {
+          "name": "Patrick Barkham"
+        }
+      ],
+      "tags": [
+        "Lake District",
+        "Water",
+        "Rivers",
+        "Radio",
+        "Pollution",
+        "Environment",
+        "North of England",
+        "UK news",
+        "Music",
+        "Pop and rock",
+        "Utilities",
+        "Culture",
+        "Lake District holidays"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c284993a0af97e707b0e91339ac60a076a28a17829befe19fd9781067fd9e3f7",
+      "url": "https://www.theguardian.com/society/2025/nov/14/resident-doctors-begin-five-day-strike-in-latest-walkout-over-pay",
+      "title": "Resident doctors begin five-day strike in latest walkout over pay",
+      "content_html": "<p>Thirteenth action since March 2023 will put further pressure on stretched budgets, say NHS groups</p><p>Thousands of resident doctors have begun strike action across England in a dispute over pay.</p><p>The <a href=\"https://www.theguardian.com/society/2025/nov/05/resident-doctors-strike-to-go-ahead-after-wes-streetings-last-ditch-offer-is-rejected\">five-day action</a>, which began at 7am on Friday, is the 13th walkout by doctors since March 2023 and health leaders have warned that the NHS may have to cut frontline staff and offer fewer appointments and operations if the strikes continue.</p> <a href=\"https://www.theguardian.com/society/2025/nov/14/resident-doctors-begin-five-day-strike-in-latest-walkout-over-pay\">Continue reading...</a>",
+      "date_published": "2025-11-14T07:00:22+00:00",
+      "authors": [
+        {
+          "name": "Nadeem Badshah"
+        }
+      ],
+      "tags": [
+        "Doctors",
+        "Industrial action",
+        "NHS",
+        "Hospitals",
+        "UK news",
+        "Health",
+        "Society",
+        "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc87684fa78f433fb617f590d1e67c37705ace9bf7668c7861de424c22e701d3",
+      "url": "https://www.lemonde.fr/idees/article/2025/11/14/aux-pays-bas-une-victoire-incertaine-contre-le-populisme_6653381_3232.html",
+      "title": "Aux Pays-Bas, une victoire incertaine contre le populisme",
+      "content_html": "Rob Jetten, dirigeant du parti social-libéral Démocrates 66 (D66), vainqueur des élections législatives du 29 octobre 2025, avant un débat à la Deuxième Chambre, le 13 novembre 2025, à La Haye.",
+      "date_published": "2025-11-14T07:00:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4b07af2e03215328f1607c8b32c62cd11d1f4c48b6ebb3cdc555cddfd40b7f62",
+      "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed in 'massive' Russian strikes on Kyiv, officials say",
+      "content_html": "At least 26 others have been injured in drone and missile strikes across Ukraine, officials say.",
+      "date_published": "2025-11-14T06:58:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -43,7 +172,7 @@
       "url": "https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb",
       "title": "Australia news live: severe weekend storms forecast for east coast; Bondi Sands recalls two sunscreens due to formulation concerns",
       "content_html": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Some ACT schools partially closed, with preschools also affected over asbestos warning for play sand</strong></p><p>The list of schools closed in the ACT also includes partial closures affecting multiple classes and preschool closures.</p><p>What we’ve done is been very clear and said we’re going back to an approach where the market will determine the types of technologies and the pathways. And that is the traditional Liberal approach to addressing these types of issues. And that’s how business gets certainty because it enables the market to dictate.</p><p>I think people will understand that they don’t want us racing ahead of the rest of the world, costing us manufacturing jobs, costing us industry jobs and putting unrealistic and unreasonable pressure on households because of their electricity bills.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-11-14T06:38:10+00:00",
+      "date_published": "2025-11-14T06:57:02+00:00",
       "authors": [
         {
           "name": "Josh Taylor (now) and Nick Visser (earlier)"
@@ -62,6 +191,170 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6525378f60cd575b0414dbffea150263abdefe52a15cd27dd5ebe5d1d0695cd9",
+      "url": "https://www.ukrinform.net/rubric-ato/4058583-massive-russian-attack-on-kyiv-death-toll-rises-to-three-26-injured.html",
+      "title": "Massive Russian attack on Kyiv: death toll rises to three, 26 injured",
+      "content_html": "As a result of the Russian attack on Kyiv, three people were killed and 26 others were injured.",
+      "date_published": "2025-11-14T06:56:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5b54bd8702dedffb02dc3e6428f2f98b7058c5db7e6aa44f4ecdca3175b5a792",
+      "url": "https://www.timesofisrael.com/friday-focus-with-john-spencer-hamas-can-be-demilitarized-heres-how/",
+      "title": "Friday Focus with John Spencer: Hamas can be demilitarized. Here’s how",
+      "content_html": "<p>Urban warfare expert Spencer illuminates Gaza's tunnel network and answers questions from ToI's diplomatic correspondent Lazar Berman on the ceasefire's next steps</p>\n<p>The post <a href=\"https://www.timesofisrael.com/friday-focus-with-john-spencer-hamas-can-be-demilitarized-heres-how/\">Friday Focus with John Spencer: Hamas can be demilitarized. Here&#8217;s how</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/1-5-1024x640.jpg\" title=\"Friday Focus with John Spencer: Hamas can be demilitarized. Here&#8217;s how\" width=\"160\" /></figure>",
+      "date_published": "2025-11-14T06:55:21+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Friday Focus",
+        "podcasts",
+        "Times of Israel podcasts",
+        "2023-2025 Israel-Hamas war",
+        "Hamas tunnels",
+        "Trump peace plan"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dfa494246d3bf757e08308d3a7583b395032cb8ddfa8071a41dca8646b1eef5e",
+      "url": "https://www.lemonde.fr/afrique/article/2025/11/14/boualem-sansal-espere-arriver-en-france-dans-les-prochaines-heures-selon-kamel-daoud_6653380_3212.html",
+      "title": "Boualem Sansal espère arriver en France dans les prochaines heures, selon Kamel Daoud",
+      "content_html": "L’écrivain Kamel Daoud, lors d’un événement en soutien à l’écrivain franco-algérien Boualem Sansal à l’Institut du Monde Arabe (IMA) à Paris, le 18 février 2025.",
+      "date_published": "2025-11-14T06:55:01+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0a78d11cb795f75e6af37b4b9ccd0c271aa23367a4f072442d96a60652d63fae",
+      "url": "https://www.elmundo.es/internacional/2025/11/14/69166308e9cf4a14628b45a1.html",
+      "title": "Washington redouble de pression dans les Caraïbes en lançant l'opération Southern Spear",
+      "content_html": "\"Cette mission défend notre patrie, expulse les narcoterroristes de notre hémisphère et protège notre patrie des drogues qui tuent notre peuple...\"",
+      "date_published": "2025-11-14T06:54:10+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [
+        "internacional",
+        "Venezuela",
+        "Especial Trump",
+        "Donald Trump"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8464839785309872685654162343e74ab6d6129b01a3944170af5b26fa065d84",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-kyiv-cible-par-une-vaste-attaque-russe-20251114_RF3VRLRCGFEB7KGNIRGW2SOGNU/",
+      "title": "Guerre en Ukraine : Kyiv ciblé par une vaste attaque russe",
+      "content_html": "Un immeuble résidentiel touché par une vaste attaque russe à Kyiv, ce vendredi 14 novembre 2025.",
+      "date_published": "2025-11-14T06:50:30+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "47e8104f5b0ac06e044b1d9d792d0c7b413f1ac038a8172cf1e32b3a6aa7df8a",
+      "url": "https://www.timesofisrael.com/bbc-apologizes-to-trump-over-deceptive-jan-6-speech-edit-but-denies-defaming-him/",
+      "title": "BBC apologizes to Trump over deceptive Jan. 6 speech edit, but denies defaming him",
+      "content_html": "<p>Trump's lawyer threatened to sue outlet for $1 billion over 2024 program that spliced together bits of president's speech to sound like he overtly urged violence against Congress</p>\n<p>The post <a href=\"https://www.timesofisrael.com/bbc-apologizes-to-trump-over-deceptive-jan-6-speech-edit-but-denies-defaming-him/\">BBC apologizes to Trump over deceptive Jan. 6 speech edit, but denies defaming him</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2022/08/AP21334791881132-e1763098541879-1024x640.jpg\" title=\"BBC apologizes to Trump over deceptive Jan. 6 speech edit, but denies defaming him\" width=\"160\" /></figure>",
+      "date_published": "2025-11-14T06:45:30+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Donald Trump",
+        "BBC",
+        "January 6"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e00123c59684488b7b10e3b45513eab313e3f0ae814a6b52cd46ad44a32f326b",
+      "url": "https://www.ukrinform.net/rubric-ato/4058578-russian-army-shells-36-settlements-in-kherson-region-over-past-day-three-wounded-one-killed.html",
+      "title": "Russian army shells 36 settlements in Kherson region over past day, three wounded, one killed",
+      "content_html": "Over the past day, Russian forces used drones, artillery, and aviation to strike 36 settlements in the Kherson region, killing one person and wounding three others.",
+      "date_published": "2025-11-14T06:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "55d73105b067910a4c1aa52023f648fba3629645c3ccdd623e6a00d43ad11838",
+      "url": "https://www.france24.com/en/tv-shows/sports/20251114-france-clinch-2026-world-cup-spot-on-anniversary-of-paris-attacks",
+      "title": "France clinch 2026 World Cup spot on anniversary of Paris attacks",
+      "content_html": "America, here we come! France secured their place in the 2026 World Cup by beating Ukraine 4-0 at the Parc des Princes. Kylian Mbappé led the team with a brace, reaching a new milestone of 400 career goals. The match featured a tribute before kickoff to the victims of the November 13, 2015 attacks.",
+      "date_published": "2025-11-14T06:42:27+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "330543d03899c0bc9f0833fdcdc9bdaef117317566aca4c059147db287150a0f",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss",
+      "title": "LIVE: Ukraine’s capital Kyiv comes under deadly Russian attack",
+      "content_html": "At least one death and more than 24 injuries have been reported in the city by the country&#039;s emergency services.",
+      "date_published": "2025-11-14T06:37:26+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -87,11 +380,17 @@
     {
       "id": "22afd89c2a0c1dfdc8070815ff97c81bfe7a7412e2af80a5620d56a8911d981a",
       "url": "https://www.france24.com/fr/info-en-continu/20251114-apr%C3%A8s-l-amende-g%C3%A9ante-de-l-ue-google-propose-des-engagements-pour-%C3%A9viter-une-scission",
-      "title": "Après l'amende géante de l'UE, Google propose des engagements pour éviter une scission",
-      "content_html": "Google a proposé à l'UE des mesures visant à éviter une scission de ses activités dans la publicité en ligne, après la lourde amende qui lui avait été infligée par Bruxelles en septembre pour abus de position dominante, a annoncé vendredi le groupe américain.",
+      "title": "Visée par une amende géante de l'UE, Google propose des engagements pour éviter une scission",
+      "content_html": "Le géant américain de la tech Google a proposé à l'UE plusieurs mesures pour tenter d'échapper à une scission de ses activités dans la publicité en ligne, après la lourde amende infligée en septembre dernier par Bruxelles pour abus de position dominante.",
       "date_published": "2025-11-14T06:35:19+00:00",
-      "authors": [],
-      "tags": [],
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Éco/Tech"
+      ],
       "source": {
         "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
         "url": "https://www.france24.com/fr/"
@@ -378,7 +677,7 @@
       "id": "6ddb4ca0796488f9b9e111e6bb98d4981ca1c0d12ccf59b6e82d82e3eaf3bf99",
       "url": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss",
       "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing one",
-      "content_html": "The Ukrainian capital&#039;s Mayor Vitaly Klitschko says a pregnant woman is among several injured and hospitalised.",
+      "content_html": "Ukrainian authorities say an elderly woman died in the overnight bombardment, which injured at least 24 others.",
       "date_published": "2025-11-14T05:32:46+00:00",
       "authors": [],
       "tags": [
@@ -856,8 +1155,8 @@
     {
       "id": "9fd82a34c5c4ff5b5524e81cee50d983a01e161dc7faf65673ac910b1dbbdbb3",
       "url": "https://www.timesofisrael.com/liveblog-november-14-2025/",
-      "title": "Coastal cities brace for flooding amid winter storm",
-      "content_html": "<p>Police make several arrests after murders in central Israel * UN agency for Palestinian refugees asks countries for more funding</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-november-14-2025/\">Coastal cities brace for flooding amid winter storm</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F251113AMA19-1024x640.jpg\" title=\"Coastal cities brace for flooding amid winter storm\" width=\"160\" /></figure>",
+      "title": "4 Palestinians face charges over ISIS ties, plans for ‘great war of the end of days’",
+      "content_html": "<p>Police make several arrests after murders in central Israel * UN agency for Palestinian refugees asks countries for more funding * Coastal cities brace for flooding amid winter storm</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-november-14-2025/\">4 Palestinians face charges over ISIS ties, plans for &#8216;great war of the end of days&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/12/IMG-20241207-WA0000-e1733563055328-1024x640.jpg\" title=\"4 Palestinians face charges over ISIS ties, plans for &#8216;great war of the end of days&#8217;\" width=\"160\" /></figure>",
       "date_published": "2025-11-14T04:19:22+00:00",
       "authors": [],
       "tags": [
@@ -919,23 +1218,9 @@
     {
       "id": "ded5bc051bf71078017a149ed8608a5b7f2debb823f37e0906b4f02fa07ef649",
       "url": "https://www.lemonde.fr/international/article/2025/11/14/andrew-le-mouton-noir-des-windsor_6653357_3210.html",
-      "title": "Andrew, le mouton noir des Windsor",
+      "title": "Andrew, la déchéance princière du mouton noir des Windsor",
       "content_html": "Le prince Andrew, lors des funérailles de la duchesse de Kent, à la cathédrale de Westminster, à Londres, le 16 septembre 2025.",
-      "date_published": "2025-11-14T04:00:32+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d25a7e10428f7a8b307bde8c6b81ceb536f22cdae4ed1d259e0cb0d08e58710b",
-      "url": "https://www.lemonde.fr/international/article/2025/11/14/aux-etats-unis-les-democrates-s-inspirent-des-methodes-du-monde-maga-pour-mieux-contrer-donald-trump_6653356_3210.html",
-      "title": "Aux Etats-Unis, les démocrates s’inspirent des méthodes du monde MAGA pour mieux contrer Donald Trump",
-      "content_html": "L’élue démocrate de l’Arizona, Yassamin Ansari, manifeste devant le bureau du président de la Chambre des représentants, le républicain Mike Johnson, au Capitole, à Washington, le 6 novembre 2025.",
-      "date_published": "2025-11-14T04:00:31+00:00",
+      "date_published": "2025-11-14T04:00:28+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -950,6 +1235,20 @@
       "title": "En Albanie, la jeunesse de Kukës cherche à se bâtir un avenir au Royaume-Uni",
       "content_html": "Glegeis Lleshaj, 24 ans, dans l’hôtel tenu par son père.",
       "date_published": "2025-11-14T04:00:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d25a7e10428f7a8b307bde8c6b81ceb536f22cdae4ed1d259e0cb0d08e58710b",
+      "url": "https://www.lemonde.fr/international/article/2025/11/14/aux-etats-unis-les-democrates-s-inspirent-des-methodes-du-monde-maga-pour-mieux-contrer-donald-trump_6653356_3210.html",
+      "title": "Aux Etats-Unis, les démocrates s’inspirent des méthodes du monde MAGA pour mieux contrer Donald Trump",
+      "content_html": "L’élue démocrate de l’Arizona, Yassamin Ansari, manifeste devant le bureau du président de la Chambre des représentants, le républicain Mike Johnson, au Capitole, à Washington, le 6 novembre 2025.",
+      "date_published": "2025-11-14T04:00:17+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1308,14 +1607,14 @@
       "lang": "en"
     },
     {
-      "id": "d0bb9c116d49c869c54b780af1e1c07d24d10b08011b7ec15151bab335c89e43",
-      "url": "https://www.ukrinform.net/rubric-other_news/4058504-moldovan-parliament-terminates-agreement-with-russia-on-cultural-centers.html",
+      "id": "f8ffc7010b8cbeae1a75f00deccb9717f6b7358beb4cda904a601df8c80b2792",
+      "url": "https://www.ukrinform.net/rubric-polytics/4058504-moldovan-parliament-terminates-agreement-with-russia-on-cultural-centers.html",
       "title": "Moldovan parliament terminates agreement with Russia on cultural centers",
       "content_html": "On Thursday, November 13, the Moldovan parliament voted to denounce the agreement between the governments of Moldova and Russia regarding the establishment and operation of cultural centers.",
       "date_published": "2025-11-14T02:20:00+00:00",
       "authors": [],
       "tags": [
-        "Other news"
+        "Politics"
       ],
       "source": {
         "name": "Latest news",
@@ -1998,53 +2297,6 @@
       "lang": "fr"
     },
     {
-      "id": "0a78d11cb795f75e6af37b4b9ccd0c271aa23367a4f072442d96a60652d63fae",
-      "url": "https://www.elmundo.es/internacional/2025/11/14/69166308e9cf4a14628b45a1.html",
-      "title": "Washington redouble de pression dans les Caraïbes en lançant l'opération Southern Lance",
-      "content_html": "\"Cette mission défend notre patrie, expulse les narcoterroristes de notre hémisphère et protège notre patrie des drogues qui tuent notre peuple...\"",
-      "date_published": "2025-11-13T23:00:26+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "internacional",
-        "Venezuela"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "154978d8ee4fd65d43d463e3914fd30c882926c91be00e7d6a224879b9e0f2bd",
-      "url": "https://www.theguardian.com/media/2025/nov/13/bbc-apologises-to-donald-trump-over-edit-of-speech-for-panorama",
-      "title": "BBC apologises to Trump over edited speech but rejects compensation claim",
-      "content_html": "<p>‘We strongly disagree there is a basis for a defamation claim’, reads statement expressing ‘sincere regrets’ over Panorama episode</p><p>The BBC has apologised to Donald Trump over the editing of a Panorama documentary that led to the resignation of its director general, Tim Davie, and the BBC News chief, Deborah Turness.</p><p>However, the corporation has rejected his demands for compensation, after lawyers for Trump threatened to sue for $1bn (£760m) in damages unless the BBC issued a retraction, apologised and settled with him.</p> <a href=\"https://www.theguardian.com/media/2025/nov/13/bbc-apologises-to-donald-trump-over-edit-of-speech-for-panorama\">Continue reading...</a>",
-      "date_published": "2025-11-13T22:57:52+00:00",
-      "authors": [
-        {
-          "name": "Tara Conlan and Michael Savage"
-        }
-      ],
-      "tags": [
-        "BBC",
-        "Donald Trump",
-        "UK news",
-        "Media",
-        "US news",
-        "World news",
-        "Tim Davie"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "283f0436f59ba77a76483096e4fd828db48421ac8318937edb09e80a89195dab",
       "url": "https://www.france24.com/en/europe/20251113-bbc-trump-defamation-claim",
       "title": "BBC apologises to Trump over film edit but rejects defamation claim",
@@ -2143,30 +2395,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d5f49bcf9d73a92ee8f6701dc4301a90372aaa872f117eebd4052befbd059f52",
-      "url": "https://www.theguardian.com/us-news/2025/nov/13/trump-to-pardon-british-billionaire-and-former-tottenham-owner-joe-lewis",
-      "title": "Donald Trump pardons UK billionaire and former Tottenham owner Joe Lewis",
-      "content_html": "<p>Lewis was fined $5m and given three years probation by New York judge over ‘brazen’ insider trading scheme</p><p>Joe Lewis, the British billionaire and former owner of Tottenham Hotspur FC, has been pardoned by Donald Trump over a 2024 conviction for his part in a <a href=\"https://www.theguardian.com/uk-news/2023/jul/26/what-is-tottenham-hotspur-billionaire-joe-lewis-accused-of\">“brazen” insider trading scheme</a>.</p><p>Lewis, 88, was fined $5m (£3.8m) and given three years probation by a <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a> judge last year but was <a href=\"https://www.theguardian.com/us-news/2024/apr/04/joe-lewis-insider-trading-conspiracy\">spared jail time</a> after pleading guilty to involvement in a plan that prosecutors said was designed to enrich his friends, lovers and employees.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/13/trump-to-pardon-british-billionaire-and-former-tottenham-owner-joe-lewis\">Continue reading...</a>",
-      "date_published": "2025-11-13T22:39:21+00:00",
-      "authors": [
-        {
-          "name": "Rob Davies"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "US news",
-        "UK news",
-        "World news",
-        "Tottenham Hotspur"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "404607f76976dc12a90e2b0d3ff0c3e348cad88e2541f2e95b25040c90a40ebf",
@@ -2354,8 +2582,8 @@
     {
       "id": "e888a6c48bccfa1bdac30b715e223f9c8196b6625c73c7a00cbbf279b5853f4a",
       "url": "https://elpais.com/internacional/2025-11-13/la-bbc-pide-disculpas-a-trump-pero-rechaza-compensarle-economicamente-por-su-error.html",
-      "title": "La BBC pide disculpas a Trump pero rechaza compensarle económicamente por su error",
-      "content_html": "La sede de la BBC, en Londres, este miércoles.",
+      "title": "La BBC présente ses excuses à Trump mais refuse de le dédommager financièrement pour son erreur",
+      "content_html": "Au siège de la BBC, à Londres, ce mercredi.",
       "date_published": "2025-11-13T21:55:13+00:00",
       "authors": [
         {
@@ -2879,20 +3107,6 @@
       "lang": "fr"
     },
     {
-      "id": "1a254ae9e3f78409207122a2022496be33fd4d487d925f0958266c2dc2840765",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/13/michael-burry-avait-anticipe-la-crise-des-subprimes-denonce-la-bulle-de-l-ia-mais-il-cesse-ses-activites_6653338_3234.html",
-      "title": "Michael Burry avait anticipé la crise des subprimes, dénoncé la bulle de l’IA, mais il cesse ses activités",
-      "content_html": "Michael Burry prêt à assister à la projection de « The Big Short » au Ziegfeld Theater de New York, le 23 novembre 2015.",
-      "date_published": "2025-11-13T20:58:41+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e03dd3d2b76857f7383a3d190363734c5c5ec9c603ddcc19029a1dd792d45546",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/west-bank-mosque-torched-amid-surge-in-israeli-settler-violence?traffic_source=rss",
       "title": "West Bank mosque torched amid surge in Israeli settler violence",
@@ -3077,26 +3291,6 @@
       "lang": "en"
     },
     {
-      "id": "f0453ec765caaf1247127d24f8149805a9a475eca453286dda796ad68b58985d",
-      "url": "https://www.timesofisrael.com/first-rains-storms-roll-into-israel-ending-record-breaking-hot-start-to-november/",
-      "title": "First rains, storms roll into Israel, ending record-breaking hot start to November",
-      "content_html": "<p>Roads flood in north, hail falls in Acre and Beersheba, rare waterspout spotted off Palmachim beach; IMS warns of flooding along coast for Friday, thunderstorms across country</p>\n<p>The post <a href=\"https://www.timesofisrael.com/first-rains-storms-roll-into-israel-ending-record-breaking-hot-start-to-november/\">First rains, storms roll into Israel, ending record-breaking hot start to November</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F251113AMA18-e1763061778401-1024x640.jpg\" title=\"First rains, storms roll into Israel, ending record-breaking hot start to November\" width=\"160\" /></figure>",
-      "date_published": "2025-11-13T20:22:45+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "weather in Israel",
-        "climate change",
-        "Israel Meteorological Service",
-        "rains"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "553c8fcbeab4be86aa4e7b97f3d2247f439d577f03a8774483255a93ada0e93e",
       "url": "https://www.theguardian.com/world/2025/nov/13/canada-arctic-spy-threats-russia-china",
       "title": "Canada says Russia and China are ramping up spy efforts in Arctic region",
@@ -3136,20 +3330,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "7100481da63f757c4ce118c0f72682acf2b658367a3c785c942d0fe8ad1675f8",
-      "url": "https://www.lemonde.fr/economie/article/2025/11/13/devoir-de-vigilance-le-parlement-europeen-sabre-la-directive_6653337_3234.html",
-      "title": "Devoir de vigilance des entreprises : au Parlement européen, droite et extrême droite s’unissent pour vider la directive de sa substance",
-      "content_html": "Le président du Parti populaire européen (PPE), Manfred Weber, lors de la session plénière du Parlement européen, à Bruxelles, le 13 novembre 2025.",
-      "date_published": "2025-11-13T20:20:48+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "18ab2609808b7635fce42462bc4659f8e1f1cc6b46efc74e031414dde7e56d0c",
@@ -3550,44 +3730,6 @@
       "lang": "fr"
     },
     {
-      "id": "d47e9459e837d84ff4287020c90ca038bfdd4d8978753264f29667e322460295",
-      "url": "https://www.france24.com/en/video/20251113-president-emmanuel-macron-gives-speech-at-ceremony-commemorating-2015-paris-terror-attacks",
-      "title": "President Emmanuel Macron gives speech at ceremony commemorating 2015 Paris terror attacks",
-      "content_html": "On Thursday, during the ceremony commemorating the attacks of November 13, 2015, Emmanuel Macron described the “senseless, unjust, unbearable” pain of the victims. Ten years ago to the day,  Islamic State gunmen and suicide bombers targeted cafes, restaurants and the Bataclan concert hall, killing 132 people.",
-      "date_published": "2025-11-13T19:05:43+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6fb4d535c7a103cc84eaa5451f3c48de2f479b8d3ca8c28e42881e5ad61c8c79",
-      "url": "https://www.timesofisrael.com/reporter-who-published-sde-teiman-video-hounded-by-right-wing-activists-in-tel-aviv/",
-      "title": "Reporter who published leaked Sde Teiman video hounded by right-wing activists in Tel Aviv",
-      "content_html": "<p>Channel 12 news says 'red line' crossed after nationalist religious group hangs sign over highway calling to 'arrest Guy Peleg' and activist embraced by ministers accosts him</p>\n<p>The post <a href=\"https://www.timesofisrael.com/reporter-who-published-sde-teiman-video-hounded-by-right-wing-activists-in-tel-aviv/\">Reporter who published leaked Sde Teiman video hounded by right-wing activists in Tel Aviv</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F250522CG03-e1763055480102-1024x640.jpg\" title=\"Reporter who published leaked Sde Teiman video hounded by right-wing activists in Tel Aviv\" width=\"160\" /></figure>",
-      "date_published": "2025-11-13T18:59:46+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "Channel 12",
-        "Yariv Levin",
-        "Itamar Ben Gvir",
-        "Sde Teiman abuse leak"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "115a540d10581920ef95e4fd5676e27026bc6fead3668da0b126017b3d292f6a",
       "url": "https://elpais.com/internacional/2025-11-13/paris-recuerda-10-anos-despues-a-las-victimas-de-los-atentados-del-13-de-noviembre.html",
       "title": "La France invoque l’unité 10 ans après le traumatisme du Bataclan",
@@ -3959,22 +4101,6 @@
       "lang": "fr"
     },
     {
-      "id": "879058e65fa6d05adb73249c1dc903c8837fbdc9fcd4059cac22c9103c1643c5",
-      "url": "https://www.aljazeera.com/economy/2025/11/13/unionised-starbucks-workers-begin-open-ended-us-strike?traffic_source=rss",
-      "title": "Unionised Starbucks workers begin ‘open-ended’ US strike",
-      "content_html": "The strike comes as the company&#039;s workers push for better wages and benefits.",
-      "date_published": "2025-11-13T17:51:51+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d457c122cf8d7cd8cf0de703ed12cb8f67cbac5825ef4a4eadfd98c1aa867d3d",
       "url": "https://www.liberation.fr/international/trois-petits-pas-et-patatras-un-robot-humanoide-russe-sort-de-scene-aussi-vite-quil-y-etait-monte-20251113_Y6QPWJ3CXRACVOHTSJUTAOX2Z4/",
       "title": "Trois petits pas et patatras : un robot humanoïde russe sort de scène aussi vite qu’il y était monté",
@@ -4101,22 +4227,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "957e4ae75a22e48d0f0dbfb4ca8afaa63d70539e8631ae02683b4bbf06bbce70",
-      "url": "https://www.ukrinform.net/rubric-ato/4058467-eu-asks-partners-to-help-support-ukraine-in-q1-of-2026-european-commissioner.html",
-      "title": "EU asks partners to help support Ukraine in Q1 2026 - European Commissioner",
-      "content_html": "The European Union is calling on third countries to accelerate their financial assistance to Ukraine by providing it in the first quarter of 2026, when Ukraine will already face a funding shortfall and the EU may need more time to determine and implement its own support mechanism.",
-      "date_published": "2025-11-13T16:55:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "4e1a6d4e6ed69ce4f3c37261dc0f53fd5f87fb777e3469de73612f69b4577084",
@@ -5007,22 +5117,6 @@
       "lang": "en"
     },
     {
-      "id": "d587ffe007abfbb942f8b6ede53df6ac3fa42758bc4abcf0008d80f405bcc055",
-      "url": "https://www.lefigaro.fr/international/boualem-sansal-un-an-dans-le-piege-de-la-diplomatie-franco-algerienne-20251113",
-      "title": "Boualem Sansal, un an dans le piège de la diplomatie franco-algérienne",
-      "content_html": "Arrêté le 16 novembre 2024 puis condamné à cinq ans de prison quatre jours avant l’échange Macron-Tebboune, Boualem Sansal a vu sa peine confirmée en appel le 1er juillet.",
-      "date_published": "2025-11-13T05:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "35dbfb1c1bbcef3b9995030a7d1a047d56298004df6babae76de8e7ce031a487",
       "url": "https://elpais.com/internacional/2025-11-13/sahara-occidental-el-tiempo-arma-letal.html",
       "title": "Sahara occidental : le temps, une arme meurtrière",
@@ -5208,20 +5302,6 @@
       "lang": "fr"
     },
     {
-      "id": "9bae528d9750a3a830d31c6ba8219369a44e928825aad02f1206dddb9ad463ba",
-      "url": "https://www.bbc.com/news/articles/c620q30w0q0o?at_medium=RSS&at_campaign=rss",
-      "title": "Fossil fuel emissions rise again - but renewables boom offers hope for climate",
-      "content_html": "Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak.",
-      "date_published": "2025-11-13T03:16:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "be2cda833dc0ebe16f4672a8bd80ac16abfa6e9a8de1d9961b1f01bacf6c8ecd",
       "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-la-plus-longue-paralysie-budgetaire-se-termine-dans-la-douleur-pour-les-democrates-20251113_F5RPDD2MRRCWPKASUNUXXQXTRY/",
       "title": "Aux Etats-Unis, la plus longue paralysie budgétaire se termine dans la douleur pour les démocrates",
@@ -5238,29 +5318,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "c48eb337b444c6b132e56b32e2c2d0e6ad33fd86d7e52bfe7ada32bc0fd3e75f",
-      "url": "https://www.theguardian.com/world/2025/nov/13/alleged-gambling-kingpin-she-zhijiang-extradited-thailand-china",
-      "title": "Alleged gambling kingpin linked to scam centres extradited from Thailand to China",
-      "content_html": "<p>She Zhijiang’s empire includes gambling complex Shwe Kokko that US has tied to regional scam and trafficking networks</p><p>She Zhijiang, an alleged transnational crime kingpin accused by Beijing of having run more than 200 illegal online gambling operations, is being extradited to China from Bangkok on Wednesday, Thai police have said.</p><p>The Chinese national is perhaps the most prominent figure among Asia’s alleged cybercrime operators to be arrested, and has been linked to regional scam networks by the US.</p> <a href=\"https://www.theguardian.com/world/2025/nov/13/alleged-gambling-kingpin-she-zhijiang-extradited-thailand-china\">Continue reading...</a>",
-      "date_published": "2025-11-13T02:07:39+00:00",
-      "authors": [
-        {
-          "name": "Guardian staff and agencies"
-        }
-      ],
-      "tags": [
-        "Thailand",
-        "China",
-        "Asia Pacific",
-        "Scams"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "863e22bbc9bafb8aae4301630e587e2366b219296fc147c4663f42411a68647d",
@@ -5320,20 +5377,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "e13802aa7a5d9f2e66ea8664de45c96a174001bf076678c5b66738890858c94b",
-      "url": "https://www.bbc.com/news/articles/c1d0ydl7dypo?at_medium=RSS&at_campaign=rss",
-      "title": "The fallout from Nigeria's spectacular $25m museum and the Benin Bronzes",
-      "content_html": "Nigeria’s stunning new Museum of West African Art (Mowaa) finds itself in the crosshairs of local power politics.",
-      "date_published": "2025-11-13T00:21:55+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "018f0d50ac566edde8408ff5110dad0f6565d9afacbcd72654a8c4bcef4a74d7",
@@ -5973,7 +6016,7 @@
       "id": "f53d5dc45dda74179f1889ff9b5af68154b1762f6f9bbb12329b060ed3f745bc",
       "url": "https://www.elmundo.es/internacional/2025/11/12/69138878e9cf4a7c3b8b45b0.html",
       "title": "Le long crépuscule du ministre Sergueï Lavrov, le « Monsieur Niet » qui a été trop dur avec les États-Unis",
-      "content_html": "L'échec du sommet entre Poutine et Trump à Budapest affaiblit la position de l'\"éternel\" chancelier russe",
+      "content_html": "L'échec du sommet entre Poutine et Trump à Budapest affaiblit la position de l'«éternel» chancelier russe",
       "date_published": "2025-11-12T16:48:35+00:00",
       "authors": [
         {
@@ -6630,7 +6673,7 @@
       "id": "23ca4e808ccdda32ddb1df088f45d6cd27a59212c94b6119a5cfe06558e29ca1",
       "url": "https://www.elmundo.es/internacional/2025/11/12/69143851fdddff28278b4588.html",
       "title": "20 soldats turcs meurent dans le crash d'un avion militaire en Géorgie",
-      "content_html": "Le contrôle aérien de Géorgie a indiqué que l'avion avait disparu de son radar peu après être entré dans son espace \"sans émettre de signal de détresse\".",
+      "content_html": "Le contrôle aérien de Géorgie a déclaré que l'avion avait disparu de son radar peu après être entré dans son espace \"sans émettre de signal de détresse\".",
       "date_published": "2025-11-12T07:43:15+00:00",
       "authors": [
         {
@@ -7616,7 +7659,7 @@
     {
       "id": "d4428c6884d92fa93c02ba6331d0f450b1da82400c523ac7f84be65262241565",
       "url": "https://www.elmundo.es/internacional/2025/11/11/69120de2e85ece625c8b4575.html",
-      "title": "L'odyssée d'Ahmed al Sharaa : du djihadiste en quête et capture à l'invité de Trump",
+      "title": "L'odyssée d'Ahmed al Sharaa : du jihadiste en quête et capture à l'invité de Trump",
       "content_html": "La participation de Damas à la coalition internationale contre l'État islamique pourrait ouvrir la voie à la levée par Washington des dernières sanctions qui pèsent sur le pays arabe.",
       "date_published": "2025-11-11T08:02:25+00:00",
       "authors": [
@@ -8203,22 +8246,6 @@
       "title": "France's 'yellow vest' activists find a new voice on stage",
       "content_html": "France's anti-government \"yellow vest\" protests are no longer in the spotlight. But a theater group in northern France is bringing back the politics, the anger and, above all, the unity of previous protests.",
       "date_published": "2025-11-09T07:54:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "44fc4c8aae5bdb0f07ebe6c1b05d7a5798805551d63c4b8c06385f37d33f8b61",
-      "url": "https://www.dw.com/en/defense-brings-turkey-and-germany-closer/a-74626914?maca=en-rss-en-all-1573-rdf",
-      "title": "Defense brings Turkey and Germany closer",
-      "content_html": "Turkey is increasingly important for security in Europe. Germany is counting on cooperation with Turkey's government to bolster defense.",
-      "date_published": "2025-11-09T06:45:00+00:00",
       "authors": [],
       "tags": [
         "World"
