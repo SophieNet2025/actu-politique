@@ -5,6 +5,100 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "23f6f942b31e36e2bf0d074c731cbee448099646586819ecde1b58a4cc0d7ec3",
+      "url": "https://ici.radio-canada.ca/nouvelle/2207930/manifestation-pediatres-loi-2-christian-dube-sante-enfants",
+      "title": "Les pédiatres signalent que la loi 2 ne priorise pas la santé des enfants",
+      "content_html": "<p>Quatre manifestations simultanées ont lieu dimanche à Montréal, à Québec et à Sherbrooke.</p>",
+      "date_published": "2025-11-16T20:22:54+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1e19c122f228fca626c906264b6a1029b39b9fd0e95601c8ce160d35b5b02bcc",
+      "url": "https://www.ukrinform.net/rubric-ato/4059416-ukraines-forces-halt-russian-attempt-to-break-through-to-novopavlivka.html",
+      "title": "Ukraine’s forces halt Russian attempt to break through to Novopavlivka",
+      "content_html": "Ukrainian forces have stopped an attempt by Russian troops to break through to Novopavlivka in Donetsk region.",
+      "date_published": "2025-11-16T20:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c8553153c29358dbe6677327a4afa8e18a35ffca6930ce9f986b7f0d05778d4c",
+      "url": "https://www.theguardian.com/us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown",
+      "title": "Dozens reportedly arrested in Charlotte, North Carolina, amid immigration crackdown",
+      "content_html": "<p>Trump administration has made the Democratic-led city its latest target despite fierce objections from local leaders</p><p>A top border patrol commander touted dozens of arrests in North Carolina’s largest city on Sunday as Charlotte residents reported a surge of encounters with federal immigration agents near churches and apartment complexes.</p><p>The Trump administration has made the Democratic-led city of about 950,000 people its latest target for an immigration enforcement crackdown it says will combat crime, despite fierce objections from local leaders and the fact that crime rates in the city are steadily declining.</p><p><em>The Associated Press contributed reporting</em></p> <a href=\"https://www.theguardian.com/us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown\">Continue reading...</a>",
+      "date_published": "2025-11-16T20:13:17+00:00",
+      "authors": [
+        {
+          "name": "Guardian staff and agency"
+        }
+      ],
+      "tags": [
+        "US immigration",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Trump administration",
+        "US news",
+        "US politics",
+        "North Carolina"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e473894d9c735819342ce82a275a7eed214d906fb5631a2339bcc858b85d5e5",
+      "url": "https://www.elmundo.es/internacional/2025/11/16/691a2d4fe85ecefb628b45a9.html",
+      "title": "Maduro appelle à une \"veille permanente\" face aux manœuvres militaires de Washington, à seulement 10 kilomètres du Venezuela",
+      "content_html": "Le leader chaviste revêt l'habit de « guerrier de la paix » et appelle le peuple à hisser le drapeau vénézuélien en pleine escalade dans les Caraïbes",
+      "date_published": "2025-11-16T20:13:06+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [
+        "Chavismo",
+        "Nicolás Maduro",
+        "Venezuela",
+        "Estados Unidos",
+        "América",
+        "Latinoamérica"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cbb96c2977176b23ca9c7ef51c2a6efca4cebe221321eb73d1ec41352782e4c9",
+      "url": "https://www.lemonde.fr/international/live/2025/11/16/en-direct-gaza-avant-un-vote-a-l-onu-benyamin-netanyahou-reitere-son-opposition-a-tout-etat-palestinien_6652963_3210.html",
+      "title": "EN DIRECT, Gaza : Avant un vote à l’ONU, Benyamin Nétanyahou réitère son opposition à tout Etat palestinien",
+      "content_html": "Le premier ministre israélien, Benyamin Nétanyahou, assiste à la séance plénière de la Knesset, le Parlement israélien, à Jérusalem, le 10 novembre 2025.",
+      "date_published": "2025-11-16T20:08:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "fc1fa7541e59e522686660c5f31ec419769d2708038565ad72f098027743816b",
       "url": "https://www.timesofisrael.com/border-police-accused-of-detaining-entire-bedouin-hamlet-for-hours-in-blanket-sweep/",
       "title": "Border Police accused of detaining entire Bedouin hamlet for hours in blanket sweep",
@@ -56,6 +150,22 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "63c1951734f5a9f23dd6b80a131302826221dc81f1e620bc762137a74a2775b2",
+      "url": "https://www.aljazeera.com/news/2025/11/16/syria-detains-members-of-security-forces-over-suwayda-violence?traffic_source=rss",
+      "title": "Syria detains members of security forces over Suwayda violence",
+      "content_html": "Chief investigator declines to say how many arrested; some were identified by videos on social media.",
+      "date_published": "2025-11-16T19:53:03+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1540,20 +1650,6 @@
       "lang": "en"
     },
     {
-      "id": "0d615c58d0ade6cb7158c6568e3fb1fb5c366de8dea990cb3e6dab0e6303cf02",
-      "url": "https://www.lemonde.fr/international/live/2025/11/16/en-direct-gaza-le-gouvernement-israelien-va-former-une-commission-d-enquete-sur-le-7-octobre-selon-la-presse_6652963_3210.html",
-      "title": "EN DIRECT, Gaza : le gouvernement israélien va former une commission d’enquête sur le 7-Octobre, selon la presse",
-      "content_html": "Un soldat israélien se tient près des corps d’Israéliens tués par des militants armés du Hamas, à Sdérot, dans le sud d’Israël, le 7 octobre 2023.",
-      "date_published": "2025-11-16T15:27:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "237b484f774bcedb68c0f47fc67f049d7a56d53a522e73c0ed31410aa3685a58",
       "url": "https://www.timesofisrael.com/warming-trump-sharaa-ties-put-israels-feet-to-fire-on-emerging-syria-security-deal/",
       "title": "Warming Trump-Sharaa ties put Israel’s feet to fire on emerging Syria security deal",
@@ -1962,7 +2058,7 @@
       "id": "35d8f8d72645167d8b1f48497cd4b3e72e4efa0774a6d06c2af3baf7115144ba",
       "url": "https://www.theguardian.com/australia-news/2025/nov/16/hannah-clarke-children-murder-qld-queensland-police",
       "title": "Hannah Clarke murders: Queensland police made potentially critical mistakes, new evidence reveals",
-      "content_html": "<p><strong>Exclusive:</strong> Detectives investigated ‘veracity and motive’ of Brisbane woman’s allegations of domestic violence and coercive control – even after the horrifying attack that killed her and her children</p><ul><li><p>Read more from <a href=\"https://www.theguardian.com/australia-news/series/broken-trust\">Guardian Australia’s two-year investigation here</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New evidence uncovered by Guardian Australia reveals serious police failings in the lead-up to the murders of Hannah Clarke and her three children that were overlooked by the coronial inquest and never investigated by homicide detectives.</p><p>The previously unreported material includes evidence that Clarke made repeated disclosures to a Queensland police officer about her estranged husband, Rowan Baxter, that were not logged in police systems.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/16/hannah-clarke-children-murder-qld-queensland-police\">Continue reading...</a>",
+      "content_html": "<p><strong>Exclusive:</strong> Detectives investigated ‘veracity and motive’ of Brisbane woman’s allegations of domestic violence and coercive control – even after the horrifying attack that killed her and her children</p><ul><li><p><a href=\"https://www.theguardian.com/society/video/2025/nov/17/broken-trust-how-police-failed-hannah-clarke-and-other-women-they-were-supposed-to-protect-video\">Broken trust: how police failed Hannah Clarke and other women they were supposed to protect – video</a></p></li><li><p>Read more from <a href=\"https://www.theguardian.com/australia-news/series/broken-trust\">Guardian Australia’s two-year investigation here</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New evidence uncovered by Guardian Australia reveals serious police failings in the lead-up to the murders of Hannah Clarke and her three children that were overlooked by the coronial inquest and never investigated by homicide detectives.</p><p>The previously unreported material includes evidence that Clarke made repeated disclosures to a Queensland police officer about her estranged husband, Rowan Baxter, that were not logged in police systems.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/16/hannah-clarke-children-murder-qld-queensland-police\">Continue reading...</a>",
       "date_published": "2025-11-16T14:00:39+00:00",
       "authors": [
         {
@@ -2502,29 +2598,6 @@
       "lang": "fr"
     },
     {
-      "id": "00d20d3cb2642d5af985285e4ceb0ef9edc167e9532ab05a51ac74c743c65a96",
-      "url": "https://www.theguardian.com/us-news/2025/nov/16/thanksgiving-air-travel-us-government-reopen",
-      "title": "It’s all gravy: Thanksgiving air traffic to be normal after US government reopens",
-      "content_html": "<p>Experts say air traffic controllers quickly returning to work, with promise of full back pay, and even $10,000 bonus</p><p>Fears that it would take weeks or even months for flight schedules in the US to return to normal in the wake of the US federal government shutdown do not appear to be coming true and the busy upcoming holiday season should be normal for travel, experts say.</p><p>That is at least in part because air traffic controllers are quickly returning to work, according to the Department of Transportation.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/16/thanksgiving-air-travel-us-government-reopen\">Continue reading...</a>",
-      "date_published": "2025-11-16T12:00:33+00:00",
-      "authors": [
-        {
-          "name": "Eric Berger"
-        }
-      ],
-      "tags": [
-        "US news",
-        "Airline industry",
-        "US politics",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "acaa647169c7adc5b341dc2481b3c85f6011e786875614d52ebc07baac4fbfc2",
       "url": "https://www.theguardian.com/world/2025/nov/16/chile-election-president-crime-migration-fears",
       "title": "Chile votes for next president in contest dominated by crime and migration fears",
@@ -2805,22 +2878,6 @@
       "lang": "en"
     },
     {
-      "id": "951d73004b7c263ee0435bee241bbe881faa375a2784f9b29fb0aa28bb6226e0",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-mahathirmohamad_quotable-161125?traffic_source=rss",
-      "title": "Israel not to be “trusted” on Gaza ceasefire",
-      "content_html": "“The Israelis find reasons to kill Palestinians … they continue to kill.”",
-      "date_published": "2025-11-16T10:45:50+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1d46e0af20d0e921a3ef26f3ac7d4d08a54d6ec332acb90c3645cb2da72563e8",
       "url": "https://www.liberation.fr/environnement/climat/cop30-grande-marche-a-belem-pour-le-climat-les-negociations-au-point-mort-20251116_ZFDEKXONRBA4DLSH4TLNUEBPQU/",
       "title": "COP30 : grande marche à Belém pour le climat, les négociations au point mort",
@@ -3039,9 +3096,9 @@
       "lang": "fr"
     },
     {
-      "id": "5bca9fe456df67c67c706ca094ab0c95b2cb026d62575cc4a94b62b4205e4689",
-      "url": "https://www.dw.com/en/operation-southern-spear-what-is-the-us-doing-off-venezuela-s-coast/a-74760152?maca=en-rss-en-all-1573-rdf",
-      "title": "Operation Southern Spear: What is the US doing off Venezuela’s coast?",
+      "id": "a6ec1cda9d3c81db849d6169077e94884e6640e576345cef0be51c67133d136a",
+      "url": "https://www.dw.com/en/what-s-the-us-doing-off-venezuela-s-coast-operation-southern-spear-is-setting-off-alarm-bells-worldwide/a-74760152?maca=en-rss-en-all-1573-rdf",
+      "title": "What's the US doing off Venezuela’s coast? Operation Southern Spear is setting off alarm bells worldwide",
       "content_html": "The US has sunk 20 suspected \"drug boats\" in the Caribbean since September. The massive naval deployment, now called Operation Southern Spear, is setting off alarm bells worldwide.",
       "date_published": "2025-11-16T09:07:00+00:00",
       "authors": [],
@@ -3166,22 +3223,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "382ceeafe231cd9d9195d0da69cf5ec0997b47aed1d92c94cae3c7460bab5926",
-      "url": "https://www.ukrinform.net/rubric-ato/4059248-enemies-shell-31-settlements-in-kherson-region-two-dead-eight-injured.html",
-      "title": "Enemies shell 31 settlements in Kherson region, two dead, eight injured",
-      "content_html": "In the Kherson region, Russian invaders struck private, transport, and social infrastructure over the course of 24 hours. Two people were killed and eight more were injured.",
-      "date_published": "2025-11-16T08:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "424249d54e82a888be9931f366323270e8a65d09806972463c9ff54d77bf5d94",
@@ -7764,31 +7805,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "2bd0043a401a1fcf9d9815d06a79a675d274d9df2ae2231f0e6e9e8dc1586431",
-      "url": "https://www.elmundo.es/internacional/2025/11/12/691431cfe85ececa6f8b456d.html",
-      "title": "Les ministres de la Justice et de l'Énergie démissionnent suite à un scandale de corruption dans le secteur énergétique",
-      "content_html": "German Galushchenko a été impliqué dans une affaire de corruption de 100 millions de dollars orchestrée par Timur Mindich, un allié du président, qui a personnellement bénéficié de ce stratagème.",
-      "date_published": "2025-11-12T17:26:23+00:00",
-      "authors": [
-        {
-          "name": "Xavier Colás"
-        }
-      ],
-      "tags": [
-        "Ucrania",
-        "internacional",
-        "Europa",
-        "Volodímir Zelenski",
-        "Guerra Ucrania Rusia",
-        "Especial Guerra de Ucrania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "4adfd7e7924548f2a621d67ad0c80ee85858eb7b9997c65c906bbc7d7d1695de",
