@@ -5,43 +5,27 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "0ad293f49f1048da587fab0e7c880bc276f6dbf659391fd9d866565e83ed44da",
-      "url": "https://www.elmundo.es/internacional/2025/11/18/691b5973e85ecece748b458b.html",
-      "title": "Felipe González Mac-Conell, biographe : « Kast n'est pas un danger pour la démocratie au Chili »",
-      "content_html": "Le journaliste et co-auteur de \"Kast, l'extrême droite chilienne\" prévient que le probable futur président du Chili \"ne viendra pas tout casser\"",
-      "date_published": "2025-11-17T23:06:05+00:00",
-      "authors": [
-        {
-          "name": "Sebastián Fest"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "661e7cb27f6fd1b6f4316aa236b1d51cbdf57871615b5e3a5cfda160b9d9c74a",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208166/conseil-securite-force-internationale-gaza",
-      "title": "Le Conseil de sécurité de l’ONU vote pour une force internationale à Gaza",
-      "content_html": "<p>Treize membres du Conseil se sont prononcés en faveur du texte, la Russie et la Chine se sont abstenues.</p>",
-      "date_published": "2025-11-17T23:05:06+00:00",
+      "id": "7439af307e02b7208d7c9656f634a46d736a532299cd3e7806851cbe84cc2deb",
+      "url": "https://www.ukrinform.net/rubric-ato/4059477-partisans-gather-intelligence-on-russian-military-facilities-on-gulf-of-finland.html",
+      "title": "Partisans gather intelligence on Russian military facilities on Gulf of Finland",
+      "content_html": "Agents of the ATESH partisan movement conducted reconnaissance of three key Russian military facilities south of St. Petersburg that supply weapons to the Russian Black Sea Fleet and carry out repressive actions in the temporarily occupied territories of Ukraine.",
+      "date_published": "2025-11-17T23:30:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "War"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "8dead678c77f21df96de0af9a4f133203e62456b0dbd40eac21302dc7cf773f6",
       "url": "https://www.lefigaro.fr/international/a-l-onu-le-plan-trump-pour-gaza-devoile-les-fractures-du-jour-d-apres-20251117",
       "title": "À l’ONU, le plan Trump pour Gaza dévoile les fractures du «jour d’après»",
       "content_html": "Les soldats israéliens inspectent la « ligne jaune » depuis un fort surplombant le quartier rasé de Chajaya à Gaza Ville, qui comptait autrefois. 120 000 habitants",
-      "date_published": "2025-11-17T22:58:51+00:00",
+      "date_published": "2025-11-17T23:25:40+00:00",
       "authors": [],
       "tags": [
         "International"
@@ -53,11 +37,45 @@
       "lang": "fr"
     },
     {
+      "id": "661e7cb27f6fd1b6f4316aa236b1d51cbdf57871615b5e3a5cfda160b9d9c74a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208166/conseil-securite-force-internationale-gaza",
+      "title": "Le Conseil de sécurité de l’ONU vote pour une force internationale à Gaza",
+      "content_html": "<p>Treize membres du Conseil se sont prononcés en faveur du texte, la Russie et la Chine se sont abstenues.</p>",
+      "date_published": "2025-11-17T23:22:34+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5d8732f37e9c719c35e85998c88c6b9c5ece4f8abd79169a296159d026e12162",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20251117-rafale-le-fleuron-fran%C3%A7ais-au-service-de-l-ukraine",
+      "title": "Rafale : LE fleuron français au service de l'Ukraine",
+      "content_html": "L'Ukraine et la France ont signé une lettre d'intention concernant notamment l'acquisition future de jusqu'à 100 Rafale. C’est un symbole fort qui montre à quel point Paris est un soutien militaire de Kiev.",
+      "date_published": "2025-11-17T23:21:59+00:00",
+      "authors": [
+        {
+          "name": "Cécile GALLUCCIO"
+        }
+      ],
+      "tags": [
+        "LES CLÉS DE L'INFO"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "c7e7dc1e554e1b66219ecd7009aa1f41839c7482fb42ad8804a95dba0faa6ca6",
       "url": "https://www.theguardian.com/australia-news/live/2025/nov/18/australia-news-live-victorian-liberal-leader-spill-libspill-coalition-nsw-brad-battin-mark-speakman-sussan-ley-killing-season-ntwnfb",
-      "title": "Australia news live: Jess Wilson ousts Brad Battin to become Victorian Liberals’ first female leader; Gurmesh Singh elected to lead NSW nationals",
+      "title": "Australia news live: Jess Wilson ousts Brad Battin to become Victorian Liberals’ first female leader; TPG confirms customer died after triple-zero connection failure",
       "content_html": "<p>Majority of party room rallies behind 35-year-old shadow treasurer. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The NSW premier, <strong>Chris Minns</strong>, says a $60 toll cap for Sydney’s roads will be extended beyond its expiry date at the end of this year, and the government is considering two-way tolling on the Harbour Bridge to fund the cap permanently.</p><p>The cap, under which drivers claim up to $340 a week back from the government after spending $60 for each registered vehicle, was put in place at the start of 2024, and was due to expire on New Year’s Day, 2026.</p><p>We’re going to keep it. We can’t get rid of it. It’s a massive cost-of-living relief measure for literally hundreds of thousands of people who live in western Sydney, and without a $60 a week toll cap, they’ll be paying full market rates to use toll roads in Sydney. It’s hugely, hugely onerous for them.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/nov/18/australia-news-live-victorian-liberal-leader-spill-libspill-coalition-nsw-brad-battin-mark-speakman-sussan-ley-killing-season-ntwnfb\">Continue reading...</a>",
-      "date_published": "2025-11-17T22:48:07+00:00",
+      "date_published": "2025-11-17T23:19:02+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -80,6 +98,285 @@
       "lang": "en"
     },
     {
+      "id": "240c8fa234946db6feb80f515624b6fd735c84ae19fa49d718a4665530f3e491",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20251117-etats-unis-venezuela-donald-trump-va-parler-avec-nicolas-maduro-deploiement-militaire-caraibes-traic-drogues-cartels",
+      "title": "États-Unis vs Venezuela : Donald Trump va parler \"à un moment donné\" avec Nicolas Maduro",
+      "content_html": "Donald Trump a déclaré lundi qu'il \"va parler\" avec le président vénézuélien Nicolas Maduro, tout en ajoutant que ce dernier \"n'a pas été bon pour les États-Unis\". Dans sa campagne contre le trafic de drogue, le président américain a affirmé qu'il n'aurait \"aucun problème\" avec d'éventuelles frappes américaines au Mexique.",
+      "date_published": "2025-11-17T23:18:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "32fa6fef1f20188dd2114eaa1d9ed8a80882eba6a63e1654cd438dc1c4b87993",
+      "url": "https://www.timesofisrael.com/jewish-extremists-burn-palestinian-homes-and-cars-in-west-bank-idf-searching-for-perps/",
+      "title": "Jewish extremists burn Palestinian homes and cars in West Bank; IDF searching for perps",
+      "content_html": "<p>Without specifying victims, PM offers support to military, blames violence on 'small extremist group' that he says disgraces Israel and Judaism, doesn't represent settler public</p>\n<p>The post <a href=\"https://www.timesofisrael.com/jewish-extremists-burn-palestinian-homes-and-cars-in-west-bank-idf-searching-for-perps/\">Jewish extremists burn Palestinian homes and cars in West Bank; IDF searching for perps</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F251117WH0005-e1763414297758-1024x640.jpg\" title=\"Jewish extremists burn Palestinian homes and cars in West Bank; IDF searching for perps\" width=\"160\" /></figure>",
+      "date_published": "2025-11-17T23:15:48+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "settler violence",
+        "Gideon Sa'ar",
+        "Israel Katz",
+        "Benjamin Netanyahu",
+        "IDF Central Command",
+        "Border Police"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "78726ae5a51a219f2b6fd891cd293cc05ee8cf98d4477900f2ced1bb3e9fb224",
+      "url": "https://www.france24.com/en/europe/20251117-pope-leo-xiv-climate-change-cop30",
+      "title": "Pope Leo XIV urges ‘concrete actions’ on climate change at COP30",
+      "content_html": "Pope Leo XIV on Monday warned that climate change is accelerating faster than political will, urging world leaders at COP30 to take “concrete actions” before the window to keep warming below 1.5C closes. He called for unwavering global solidarity behind the Paris Agreement.",
+      "date_published": "2025-11-17T23:14:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "29bac049a3c23dc64466a2f33e0cc3bed895e6f4b7f118fb902336b546a9551f",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/17/donald-trump-jeffrey-epstein-files-republicans-democrats-world-cup-us-politics-live-news-updates",
+      "title": "Trump says ‘we’ll give them everything’ on Epstein as top Democrat says president’s sudden U-turn shows he’s ‘panicking’ – live",
+      "content_html": "<p>President announces he would sign bill to release complete tranche of Epstein files if it ends up on his desk</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/17/trump-tells-republicans-to-vote-to-release-epstein-files-saying-we-have-nothing-to-hide\">Trump urges Republicans to vote for release of Epstein files in surprise U-turn</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/17/former-prince-andrew-us-house-epstein-inquiry\">Former prince Andrew accused of ‘hiding’ from US Epstein inquiry</a></p></li></ul><p>US Border Patrol officials said they had arrested 81 people over five hours in Charlotte, North Carolina, on Saturday, the first day of the targeted operation.<br /><br />\n The crackdown involving federal agents was only announced last week.</p><p>Mass deportation and strict enforcement of immigration laws have been a key part of Trump’s agenda since returning to office this year.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/17/donald-trump-jeffrey-epstein-files-republicans-democrats-world-cup-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2025-11-17T23:13:46+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey (now); Shrai Popat, Lucy Campbell, Frances Mao and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US news",
+        "Donald Trump",
+        "World news",
+        "Jeffrey Epstein",
+        "Republicans",
+        "Democrats",
+        "Marjorie Taylor Greene"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0ad293f49f1048da587fab0e7c880bc276f6dbf659391fd9d866565e83ed44da",
+      "url": "https://www.elmundo.es/internacional/2025/11/18/691b5973e85ecece748b458b.html",
+      "title": "Felipe González Mac-Conell, biographe : « Kast n'est pas un danger pour la démocratie au Chili »",
+      "content_html": "Le journaliste et co-auteur de \"Kast, l'extrême droite chilienne\" prévient que le probable futur président du Chili \"ne viendra pas tout casser\"",
+      "date_published": "2025-11-17T23:06:05+00:00",
+      "authors": [
+        {
+          "name": "Sebastián Fest"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "20f65fcb48faedf419541d950002010abf93e2b4e3d59c898cf076dae9be923b",
+      "url": "https://www.theguardian.com/politics/2025/nov/17/reform-would-cut-benefits-and-hike-nhs-surcharge-for-eu-nationals",
+      "title": "Reform would ‘cut benefits for EU nationals and hike NHS immigration surcharge’",
+      "content_html": "<p>Party claims its policies would eliminate ‘black hole’ Rachel Reeves faces in the budget – but Labour says the ‘fantasy numbers don’t add up’</p><p>A Reform UK government would block EU nationals from receiving universal credit, a move that would rip up the post-Brexit trade deal with Europe and risk potential retaliation from Brussels.</p><p>It is among several proposals that will be announced by Nigel Farage at a press conference on Tuesday. The party claims its measures would save £25bn a year in total – enough to cover the supposed shortfall faced by Rachel Reeves in next week’s budget.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/17/reform-would-cut-benefits-and-hike-nhs-surcharge-for-eu-nationals\">Continue reading...</a>",
+      "date_published": "2025-11-17T23:06:02+00:00",
+      "authors": [
+        {
+          "name": "Peter Walker Senior political correspondent"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Reform UK",
+        "Nigel Farage",
+        "Labour",
+        "Universal credit"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fd5e00df22e8876bf79fa49e8b985caffb7f3c266d1cce56a22165c64a18c05e",
+      "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss",
+      "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+      "content_html": "Cook&#039;s lawyer says the criminal referrals against her &#039;fail on even the most cursory look at the facts&#039;.",
+      "date_published": "2025-11-17T23:05:41+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "10dfa0faa40d54882c7f3f5bdda9a91efa03b4b80c2b76f26a28bee7b0e6f414",
+      "url": "https://www.theguardian.com/world/live/2025/nov/17/un-security-council-donald-trump-gaza-israel-palestine-middle-east-latest-news-updates",
+      "title": "Trump Gaza plan: Hamas rejects resolution for international stabilisation force approved by UN security council",
+      "content_html": "<p>UN body quickly passes resolution that also includes reference to a future Palestinian state; Hamas says the plan favours Israeli occupation</p><p>The US is planning for the long-term division of Gaza into a “green zone” under Israeli and international military control, where reconstruction would start, and a “red zone” to be left in ruins.</p><p>Foreign forces will initially deploy alongside Israeli soldiers in the east of <a href=\"https://www.theguardian.com/world/gaza\">Gaza</a>, leaving the devastated strip divided by the current Israeli-controlled “yellow line”, according to US military planning documents seen by the Guardian and sources briefed on American plans.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/17/un-security-council-donald-trump-gaza-israel-palestine-middle-east-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-11-17T23:04:40+00:00",
+      "authors": [
+        {
+          "name": "Lucy Campbell (now) and Frances Mao (earlier)"
+        }
+      ],
+      "tags": [
+        "United Nations",
+        "Gaza",
+        "Middle East and north Africa",
+        "Palestine",
+        "World news",
+        "Israel"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ef2fd990edd79d02b874a593219010cdf48b58a6a40ade0ef012d739e64c5763",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251117-le-plan-de-paix-de-trump-adopt%C3%A9-par-le-conseil-de-s%C3%A9curit%C3%A9-de-l-onu",
+      "title": "Le plan de paix de Trump adopté par le Conseil de sécurité de l'ONU",
+      "content_html": "C'est un texte d'une grande importance qui a été adoptée par treize voix au Conseil de sécurité de l'ONU. La résolution offre un cadre juridique international à l'action américaine, permettant de maintenir le cessez-le-feu et facilitant la distribution d'aide humanitaire. \"Une suite logique\", selon l'ambassadeur américain, l'autorité palestinienne ayant notamment donné son accord, rapporte la correspondante à New York, Émilie Musset, qui estime que \"des zones d'ombre\" persistent dans le texte.",
+      "date_published": "2025-11-17T23:04:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "140cfd1e9943fc6e2ec60e87d2fbb0c22be495dc2a0cb0c0ba6b35895c611082",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208043/vote-chambre-dossier-epstein-trump",
+      "title": "Trump dit qu’il signerait un projet de loi exigeant la publication du dossier Epstein",
+      "content_html": "<p>Le président américain a opéré un virage radical sur une controverse qui ne s&#x27;affaiblissait pas.</p>",
+      "date_published": "2025-11-17T23:02:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6cb6d650b52792aed23efda87aeef214c2ae2807ce3bfe48a0d1a9a14d7177d8",
+      "url": "https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's plan for Gaza backed by UN Security Council",
+      "content_html": "Included in the 20-point peace plan is the establishment of an International Stabilisation Force (ISF), which would work to demilitarise the territory.",
+      "date_published": "2025-11-17T23:01:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "119bb4e6261fe918be7ff364beb3be7a73f70909efdd51fcc276ff5df4769626",
+      "url": "https://www.theguardian.com/global-development/2025/nov/17/nestle-accused-of-risking-health-of-babies-for-profit-over-added-sugar-in-cereals-sold-in-african-countries",
+      "title": "Nestlé accused of ’risking health of babies for profit’ over added sugar in cereals sold in African countries",
+      "content_html": "<p>Campaigners say the company is contributing to rising rates of childhood obesity, while the firm says it is helping to combat malnutrition</p><p>Nestlé is still adding sugar to most baby cereals sold across Africa, according to an investigation by campaigners who have accused the company of “putting the health of African babies at risk for profit”.</p><p>The food firm was accused of “double standards” over the researchers’ findings, which come at a time when rates of childhood obesity <a href=\"https://www.afro.who.int/news/number-overweight-children-aged-under-5-africa-has-nearly-doubled-1990\">are rising</a> on the continent, prompting calls for Nestlé to remove all added sugar from baby-food products.</p> <a href=\"https://www.theguardian.com/global-development/2025/nov/17/nestle-accused-of-risking-health-of-babies-for-profit-over-added-sugar-in-cereals-sold-in-african-countries\">Continue reading...</a>",
+      "date_published": "2025-11-17T23:00:17+00:00",
+      "authors": [
+        {
+          "name": "Kat Lay global health correspondent"
+        }
+      ],
+      "tags": [
+        "Global development",
+        "Global health",
+        "Nestlé",
+        "Children",
+        "Society",
+        "Food & drink industry",
+        "Obesity",
+        "Africa",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cc91611f14eddf838b0d2a990a5e4c58605aa4282a45cddcb97a156fc1ea67f7",
+      "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss",
+      "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+      "content_html": "Ministry of public safety says it is seeking more details about questioning of scholar Richard Falk at Toronto airport.",
+      "date_published": "2025-11-17T22:53:22+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e4b237d57dcea7e0e11d701635ac488c9694a382ee74046e7db6b73178f4e6a",
+      "url": "https://www.aljazeera.com/news/2025/11/17/unsc-approves-us-resolution-mandating-intl-stabilisation-force-in-gaza?traffic_source=rss",
+      "title": "UN Security Council passes US resolution backing Gaza international force",
+      "content_html": "The measure mandates transitional administration for Gaza and floats &#039;credible pathway&#039; for Palestinian statehood.",
+      "date_published": "2025-11-17T22:42:20+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "a8acba3218bc948df246cf1cbc548d3a4f2108dc2470a9f239968860f5be29ea",
       "url": "https://www.theguardian.com/world/2025/nov/18/sydneys-60-road-toll-cap-to-be-made-permanent-with-plans-for-two-way-tolling-on-harbour-bridge-to-fund-it",
       "title": "Sydney’s $60 road toll cap to be made permanent with plan for two-way fee on Harbour Bridge to fund it",
@@ -94,31 +391,6 @@
         "Road transport",
         "New South Wales",
         "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "10dfa0faa40d54882c7f3f5bdda9a91efa03b4b80c2b76f26a28bee7b0e6f414",
-      "url": "https://www.theguardian.com/world/live/2025/nov/17/un-security-council-donald-trump-gaza-israel-palestine-middle-east-latest-news-updates",
-      "title": "Trump Gaza plan: UN security council approves US-drafted resolution for international stabilisation force – live",
-      "content_html": "<p>UN body quickly passes resolution that also includes reference to a future Palestinian state </p><p>The US is planning for the long-term division of Gaza into a “green zone” under Israeli and international military control, where reconstruction would start, and a “red zone” to be left in ruins.</p><p>Foreign forces will initially deploy alongside Israeli soldiers in the east of <a href=\"https://www.theguardian.com/world/gaza\">Gaza</a>, leaving the devastated strip divided by the current Israeli-controlled “yellow line”, according to US military planning documents seen by the Guardian and sources briefed on American plans.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/17/un-security-council-donald-trump-gaza-israel-palestine-middle-east-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-11-17T22:42:11+00:00",
-      "authors": [
-        {
-          "name": "Lucy Campbell (now) and Frances Mao (earlier)"
-        }
-      ],
-      "tags": [
-        "United Nations",
-        "Gaza",
-        "Middle East and north Africa",
-        "Palestine",
-        "World news",
-        "Israel"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -149,6 +421,22 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4482159c91b9c34a200ab021b2667be7f31eea412693317f825144ec0e5369e7",
+      "url": "https://www.ukrinform.net/rubric-economy/4059459-russians-begin-cutting-food-expenses-switching-to-fast-food-ccd.html",
+      "title": "Russians begin cutting food expenses, switching to fast food – CCD",
+      "content_html": "In Russia, restaurant patronage continues to fall steadily, with Russians increasingly opting for fast food.",
+      "date_published": "2025-11-17T22:34:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -222,31 +510,33 @@
       "lang": "en"
     },
     {
-      "id": "29bac049a3c23dc64466a2f33e0cc3bed895e6f4b7f118fb902336b546a9551f",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/17/donald-trump-jeffrey-epstein-files-republicans-democrats-world-cup-us-politics-live-news-updates",
-      "title": "Trump says ‘we’ll give them everything’ on Epstein as top Democrat says president’s sudden U-turn shows he’s ‘panicking’ – live",
-      "content_html": "<p>President announces he would sign bill to release complete tranche of Epstein files if it ends up on his desk</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/17/trump-tells-republicans-to-vote-to-release-epstein-files-saying-we-have-nothing-to-hide\">Trump urges Republicans to vote for release of Epstein files in surprise U-turn</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/17/former-prince-andrew-us-house-epstein-inquiry\">Former prince Andrew accused of ‘hiding’ from US Epstein inquiry</a></p></li></ul><p>US Border Patrol officials said they had arrested 81 people over five hours in Charlotte, North Carolina, on Saturday, the first day of the targeted operation.<br /><br />\n The crackdown involving federal agents was only announced last week.</p><p>Mass deportation and strict enforcement of immigration laws have been a key part of Trump’s agenda since returning to office this year.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/17/donald-trump-jeffrey-epstein-files-republicans-democrats-world-cup-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2025-11-17T22:27:49+00:00",
+      "id": "f13e5ad68c283c2569da31782011373672e2dcf7d55233a0746db75b4420f379",
+      "url": "https://elpais.com/internacional/2025-11-17/el-consejo-de-seguridad-de-la-onu-aprueba-la-resolucion-sobre-el-plan-de-trump-para-gaza.html",
+      "title": "Le Conseil de sécurité de l'ONU approuve une résolution sur le plan de Trump pour Gaza",
+      "content_html": "L'ambassadeur des États-Unis auprès de l'ONU, Michael Waltz, vote en faveur de la résolution approuvée ce lundi sur le plan de paix pour Gaza",
+      "date_published": "2025-11-17T22:22:57+00:00",
       "authors": [
         {
-          "name": "Robert Mackey (now); Shrai Popat, Lucy Campbell, Frances Mao and Tom Ambrose (earlier)"
+          "name": "Macarena  Vidal Liy"
         }
       ],
       "tags": [
-        "Trump administration",
-        "US news",
-        "Donald Trump",
-        "World news",
-        "Jeffrey Epstein",
-        "Republicans",
-        "Democrats",
-        "Marjorie Taylor Greene"
+        "Guerra",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "bf4e6c3ae8769fc9a2e04568742be985050647791b56136cd6bc35ae3570b0e6",
@@ -314,7 +604,7 @@
       "id": "cfddcaf9cb27c1b474b99ddbcea1ff6a4dfbd00a2ad997888bfed0ee99daf94b",
       "url": "https://www.theguardian.com/australia-news/2025/nov/18/victorian-liberal-party-ousts-brad-battin-to-install-jess-wilson-as-first-female-leader",
       "title": "Victorian Liberal party ousts Brad Battin to install Jess Wilson as first female leader",
-      "content_html": "<p>First term Kew MP elected leader after Battin lasted less than a year in role</p><p>First-term Liberal MP Jess Wilson has defeated Brad Battin to become leader of the troubled Victorian Liberal Party.</p><p>Wilson is the Victorian party’s first ever female leader.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/18/victorian-liberal-party-ousts-brad-battin-to-install-jess-wilson-as-first-female-leader\">Continue reading...</a>",
+      "content_html": "<p>First-term Kew MP elected leader after Battin lasted less than a year in role</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/nov/18/australia-news-live-victorian-liberal-leader-spill-libspill-coalition-nsw-brad-battin-mark-speakman-sussan-ley-killing-season-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>First-term MP Jess Wilson has become the first woman to lead the Victorian Liberal party after defeating Brad Battin in a leadership challenge on Tuesday morning.</p><p>The majority of the party room rallied behind the 35-year-old shadow treasurer after a group of senior MPs told Brattin he had lost their support on Monday afternoon.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/18/victorian-liberal-party-ousts-brad-battin-to-install-jess-wilson-as-first-female-leader\">Continue reading...</a>",
       "date_published": "2025-11-17T22:13:34+00:00",
       "authors": [
         {
@@ -324,7 +614,8 @@
       "tags": [
         "Victorian politics",
         "Victoria",
-        "Australia news"
+        "Australia news",
+        "Liberal party"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -718,7 +1009,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "9b13ff02b0dde2873b08a9cdde60c2e3764df128442246c1b227d07d91ba6dbc",
@@ -882,7 +1173,7 @@
     {
       "id": "1f6119b4d2b1afc5cc8856b58231e4bd8c09eb49c954c9a37aac7ea286d6e746",
       "url": "https://www.aljazeera.com/news/2025/11/17/trump-says-he-will-approve-sale-of-f-35-fighter-jet-to-saudi-arabia?traffic_source=rss",
-      "title": "Trump says he will approve sale of F-35 fighter jet to Saudi Arabia",
+      "title": "Trump says he will approve sale of F-35 fighter jets to Saudi Arabia",
       "content_html": "US president signals major arms deal before Saudi Crown Prince Mohammed bin Salman&#039;s visit to the White House.",
       "date_published": "2025-11-17T20:59:07+00:00",
       "authors": [],
@@ -1116,7 +1407,7 @@
     {
       "id": "c62e9f139c26866b031bcbdefb111c0725e02e2cc951c4e35f811bd0109fe6ce",
       "url": "https://www.theguardian.com/world/2025/nov/17/uk-asylum-rules-could-affect-relations-with-ireland-jim-ocallaghan",
-      "title": "Tougher asylum rules could cause migration concerns in Ireland, says Irish justice minister",
+      "title": "Ireland to act if tougher asylum rules create Belfast back door for migration",
       "content_html": "<p>Jim O’Callaghan says he will closely monitor changes proposed by Britain amid concerns over impact</p><p>Attempts to toughen up asylum rules in the UK could have significant implications for relations with Ireland, Dublin’s justice minister has said, amid concerns that this could increase migration flows to Ireland.</p><p>More than 80% of people who use irregular routes to Ireland originate from Great Britain, travelling to Belfast by plane or boat and then by road to Dublin to make asylum claims, the justice department has said.</p> <a href=\"https://www.theguardian.com/world/2025/nov/17/uk-asylum-rules-could-affect-relations-with-ireland-jim-ocallaghan\">Continue reading...</a>",
       "date_published": "2025-11-17T20:25:56+00:00",
       "authors": [
@@ -1574,30 +1865,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "a4a64326a682730b092ac3cc83710b9a5d6ed7bb4685e3a8f916f9fe05840dac",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/17/agency-staff-join-birmingham-bin-strike-bullying-harassment-claims",
-      "title": "Agency staff to join Birmingham bin strike over bullying and harassment claims",
-      "content_html": "<p>Workers hired to cover long-running dispute will take part in industrial action after alleging unsafe workloads</p><p>Agency staff brought in as cover during the long-running bin strikes in Birmingham will join the picket line for the first time over claims of bullying and harassment.</p><p>Hundreds of refuse workers have taken part in <a href=\"https://www.theguardian.com/uk-news/2025/jun/05/birmingham-bin-dispute-could-run-until-december-after-vote-for-more-strikes\">an all-out strike in the city</a> since March in a dispute over pay and jobs, prompting the council to declare a “major incident”.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/17/agency-staff-join-birmingham-bin-strike-bullying-harassment-claims\">Continue reading...</a>",
-      "date_published": "2025-11-17T19:21:49+00:00",
-      "authors": [
-        {
-          "name": "Neha Gohil Midlands correspondent"
-        }
-      ],
-      "tags": [
-        "Birmingham",
-        "Industrial action",
-        "Unite",
-        "Trade unions",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "ee053280e09e3e9a89ec51bccedfac80a86c1896a9c9b6bf6877f536d713a95f",
@@ -3298,24 +3565,6 @@
       "lang": "en"
     },
     {
-      "id": "8ded89beef8ba9ca9f61ce7832a9fc0b9e184537069015efdd734506ef76840f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251117-accord-paris-kiev-macron-salue-une-nouvelle-%C3%A9tape",
-      "title": "Accord Paris-Kiev : Macron salue \"une nouvelle étape\"",
-      "content_html": "L'Ukraine va acheter jusqu'à 100 Rafale à la France, a annoncé lundi 17 novembre l'Élysée en ouverture d'une visite de Volodymyr Zelensky à Paris destinée à renforcer les capacités militaires de Kiev face à la progression de l'armée russe.",
-      "date_published": "2025-11-17T15:53:16+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0f62c458ec69033c1c20654beb65eb7a1b0eb7c5e00ca024bf44b1d5e2b6541f",
       "url": "https://www.timesofisrael.com/south-africa-suspicious-after-israeli-national-is-linked-to-gazans-fleeing-strip/",
       "title": "South Africa ‘suspicious’ after Israeli national is linked to Gazans fleeing Strip",
@@ -3353,24 +3602,6 @@
       "lang": "en"
     },
     {
-      "id": "c8891b6517dbaae7f0a057f54e169d34f00fb814353439167d111fc32389368b",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251117-affaire-epstein-la-volte-face-inattendue-de-donald-trump",
-      "title": "Affaire Epstein : la volte-face inattendue de Donald Trump",
-      "content_html": "Dans une volte-face, Donald Trump a déclaré dimanche qu'il soutenait un vote à la Chambre des représentants américaine pour la publication du dossier du délinquant sexuel Jeffrey Epstein. Nous en parlons avec notre correspondant Matthieu Mabin.",
-      "date_published": "2025-11-17T15:51:39+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b0cbbec45dfd1af5f851b21451a01bee997c6a76b907d62af351fa94c6efcd6d",
       "url": "https://ici.radio-canada.ca/nouvelle/2208018/onu-david-lametti-bob-rae-ambassadeur-canada",
       "title": "Bob Rae passe le flambeau onusien à David Lametti",
@@ -3381,24 +3612,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e04241b78d32a58ff4b98e0177bcd90401a29a68b22e8abe299a009caeb1e8dd",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251117-pr%C3%A9sidentielle-au-chili-la-communiste-jara-et-l-ultraconservateur-kast-au-deuxi%C3%A8me-tour",
-      "title": "Présidentielle au Chili : la communiste Jara et l'ultraconservateur Kast au deuxième tour",
-      "content_html": "La communiste Jeannette Jara et l'ultraconservateur José Antonio Kast s'affronteront au second tour de la présidentielle chilienne, finalistes d'un premier tour marqué par la crainte croissante de la criminalité, un thème qui joue en faveur du candidat d'extrême droite.",
-      "date_published": "2025-11-17T15:50:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3772,50 +3985,6 @@
       "lang": "fr"
     },
     {
-      "id": "56f1a85799d23796812254f686017e9136d95f1d125a5f050cbe3b39830c956f",
-      "url": "https://www.timesofisrael.com/in-world-first-israeli-scientists-use-rna-based-gene-therapy-to-stop-als-deterioration/",
-      "title": "In world first, Israeli scientists use RNA-based gene therapy to stop ALS deterioration",
-      "content_html": "<p>By adding a microRNA molecule to ALS models, Tel Aviv University, Ben-Gurion University and Weizmann Institute researchers say the damaged nerve cells 'even regenerated'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/in-world-first-israeli-scientists-use-rna-based-gene-therapy-to-stop-als-deterioration/\">In world first, Israeli scientists use RNA-based gene therapy to stop ALS deterioration</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/1.-The-research-team-1024x640.jpeg\" title=\"In world first, Israeli scientists use RNA-based gene therapy to stop ALS deterioration\" width=\"160\" /></figure>",
-      "date_published": "2025-11-17T15:03:14+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "ALS",
-        "ALS amyotrophic lateral sclerosis",
-        "ALS treatments",
-        "medical research",
-        "Israeli research",
-        "medicine",
-        "Tel Aviv University",
-        "science",
-        "scientific research",
-        "Ben-Gurion University of the Negev (BGU)",
-        "Sheba Medical Center",
-        "Weizmann Institute"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c0f74909e59a3f241bcd8c5c77130973271b650d1ca2c76e0977c010e72017ce",
-      "url": "https://www.aljazeera.com/news/2025/11/17/south-korea-proposes-talks-with-north-korea-on-military-demarcation-line?traffic_source=rss",
-      "title": "South Korea proposes talks with North Korea on military demarcation line",
-      "content_html": "Seoul calls for inter-Korean military negotiations to prevent accidental clashes and ease tensions with Pyongyang.",
-      "date_published": "2025-11-17T15:02:35+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d259b96ce5a546dae0d4fc691756da91c5f6a954dd4f08bf28a835573e492c58",
       "url": "https://www.ukrinform.net/rubric-polytics/4059701-macron-believes-peace-in-ukraine-could-be-achieved-by-2027.html",
       "title": "Macron believes peace in Ukraine could be achieved by 2027",
@@ -3852,22 +4021,6 @@
       "lang": "en"
     },
     {
-      "id": "d3d369c53ffcc2ed0ee9e26df1e4d60d5140ef0e9dd2736ca4e36fff2399a8ff",
-      "url": "https://www.aljazeera.com/opinions/2025/11/17/why-many-bosnian-genocide-scholars-remain-silent-on-gaza?traffic_source=rss",
-      "title": "Why many Bosnian genocide scholars remain silent on Gaza",
-      "content_html": "Their refusal to speak out undermines scholarly integrity and the field of genocide studies.",
-      "date_published": "2025-11-17T14:56:25+00:00",
-      "authors": [],
-      "tags": [
-        "Opinions"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e85c32cece71aef3a6df1fc305464a04d25a3e3983a359b88969164529ca55ef",
       "url": "https://www.ukrinform.net/rubric-polytics/4059696-zelensky-macron-discuss-use-of-frozen-russian-assets-to-boost-ukraines-defense.html",
       "title": "Zelensky, Macron discuss use of frozen Russian assets to boost Ukraine’s defense",
@@ -3880,22 +4033,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0de92450d0b1d48bf0cf386147a6591c60eaceedadf0cb08fe0f4a182ab99c8d",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/concerns-over-death-sentence-for-former-bangladesh-pm-sheikh-hasina?traffic_source=rss",
-      "title": "Concerns over death sentence for former Bangladesh PM Sheikh Hasina",
-      "content_html": "A court in Bangladesh has sentenced former Prime Minister Sheikh Hasina to death, over a violent crackdown on protests.",
-      "date_published": "2025-11-17T14:54:46+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3950,24 +4087,6 @@
       "title": "'As we rely more on space, any attack on space will fundamentally impact what we do'",
       "content_html": "The accelerating militarisation of space is no longer the realm of science fiction. As space becomes a central pillar of modern warfare, Alison Sargent welcomes Dr Mark Hilborne, Senior Lecturer in the School of Security Studies at King's College London. Dr. Hilborn argues that as our reliance on space deepens, so too does our exposure. Europe’s fragmented approach, despite France’s ambitions, risks leaving it trailing the major space powers who already treat space as an operational warfighting domain.",
       "date_published": "2025-11-17T14:50:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "76e3392cc8c0f0d5efad53388635e8dd42b4523e19c5c0c718b60f60907ec752",
-      "url": "https://www.france24.com/en/video/20251117-south-africa-investigates-mystery-plane-carrying-more-than-150-palestinians-from-gaza",
-      "title": "South Africa investigates mystery plane carrying more than 150 Palestinians from Gaza",
-      "content_html": "South Africa’s intelligence services are investigating the origins of a chartered plane that arrived in Johannesburg carrying over 153 Palestinians from war-torn Gaza without proper travel documents. The passengers were reportedly held on the tarmac for about 12 hours, the country’s president said Friday. France24 correspondent Noga Tarnopolsky tells us the latest.",
-      "date_published": "2025-11-17T14:50:44+00:00",
       "authors": [
         {
           "name": "FRANCE24"
@@ -4342,38 +4461,6 @@
       "lang": "fr"
     },
     {
-      "id": "41c23e54a2b5eb1971bd748353738371192ed18cf1ce99dc0bc63a1003f238c9",
-      "url": "https://www.ukrinform.net/rubric-polytics/4059678-parliament-committee-backs-minister-halushchenkos-resignation.html",
-      "title": "Parliament Committee backs minister Halushchenko’s resignation",
-      "content_html": "The Verkhovna Rada Committee on Legal Policy has supported the resignation of Herman Halushchenko from the post of Minister of Justice.",
-      "date_published": "2025-11-17T13:51:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "02d98cb1da59373ddae54cf3e28c40b443f236d214cd556147da285d419756a5",
-      "url": "https://www.ukrinform.net/rubric-polytics/4059672-france-preparing-another-defense-package-for-ukraine-this-year.html",
-      "title": "France preparing another defense package for Ukraine this year",
-      "content_html": "Ukrainian President Volodymyr Zelensky has said that France is preparing another defense package for Ukraine by the end of the year.",
-      "date_published": "2025-11-17T13:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2cb3eb19d2b9e6f4d922a0643f60703af26f6eec0016cda5c5e837418b49f436",
       "url": "https://www.dw.com/en/german-farmers-venture-into-risky-wetlands-to-cut-emissions/a-74633188?maca=en-rss-en-all-1573-rdf",
       "title": "German farmers venture into risky wetlands to cut emissions",
@@ -4459,7 +4546,7 @@
     {
       "id": "7bffbba8fd02a71e8bc448fd8a6d3fd9d6bf0838e87f16038291ac1de9a55758",
       "url": "https://elpais.com/internacional/2025-11-17/la-presion-de-polonia-logra-la-cancelacion-en-alemania-de-una-subasta-de-documentos-nazis.html",
-      "title": "La pression exercée par la Pologne entraîne l'annulation d'une vente aux enchères de documents nazis en Allemagne",
+      "title": "La pression exercée par la Pologne permet d'obtenir l'annulation en Allemagne d'une vente aux enchères de documents nazis",
       "content_html": "Le quai d'arrivée de Birkenau, qui faisait partie du complexe d'Auschwitz, sur une photo prise depuis le toit du train par deux gardes SS en mai 1944.",
       "date_published": "2025-11-17T12:49:45+00:00",
       "authors": [
@@ -6179,7 +6266,7 @@
       "id": "416daefe2bc02f2dc8bdf55d273ce497914c73388daa0abd0dd8c2285c163178",
       "url": "https://www.elmundo.es/internacional/2025/11/14/69162db7fdddffa0618b45a2.html",
       "title": "Lyudmyla Kozlovska, militante ukrainienne : \"Je suis favorable aux élections en Ukraine, la question est de savoir comment les protéger de la Russie\"",
-      "content_html": "Le président de la Fondation Open Dialogue, originaire de Sébastopol, estime que \"personne en Ukraine ne peut être blâmé de parler russe\".Et que même si « l’Ukraine gagnera, le traumatisme de cette guerre fera partie de notre histoire »",
+      "content_html": "Le président de la Fondation Open Dialogue, originaire de Sébastopol, estime que \"personne en Ukraine ne peut être blâmé de parler russe\".Et que même si « l’Ukraine va gagner, le traumatisme de cette guerre fera partie de notre histoire »",
       "date_published": "2025-11-16T19:25:07+00:00",
       "authors": [
         {
@@ -6906,31 +6993,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a1205ed55dc59aaa1e8b833de18ea6361a66f97e004b6b1c66e745f48be3e5a2",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/16/australia-dubai-international-airshow-defence-weapons-arms-fair-sudan-uae",
-      "title": "Australia is selling arms at a weapons fair in Dubai. Are they destined to be used in Sudan atrocities?",
-      "content_html": "<p>Australian companies have exported nearly $300m weapons over five years to the UAE, which has denied shipping weapons to a paramilitary group in Sudan</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/nov/16/australia-news-live-liberal-coalition-net-zero-sussan-ley-penny-wong-labor-cop30-chris-bowen-albanese-storms-queensland-nsw-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>In a cavernous conference hall at the edge of the Dubai desert, a retired military officer fronting the Australia pavilion will offer “the key credibility of being in uniform” for defence companies spruiking their wares.</p><p>“A unique advantage in attracting and engaging with visiting military delegations,” is how briefing notes, shared by the head of Team Defence Australia, describes it.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/16/australia-dubai-international-airshow-defence-weapons-arms-fair-sudan-uae\">Continue reading...</a>",
-      "date_published": "2025-11-15T19:00:11+00:00",
-      "authors": [
-        {
-          "name": "Henry Belot and Ben Doherty"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Arms trade",
-        "United Arab Emirates",
-        "Sudan",
-        "Human rights",
-        "Africa"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -7687,7 +7749,7 @@
       "id": "90a2f10cc400b9797cca3d2c9986849ae1690211f1ff95f4defc00eefc879108",
       "url": "https://www.elmundo.es/internacional/2025/11/14/6917505ae85eceb82a8b4584.html",
       "title": "Au moins trois personnes sont mortes et trois autres ont été blessées après avoir été heurtées par un bus dans le centre de Stockholm.",
-      "content_html": "Le bus a heurté un groupe qui attendait à un arrêt du centre-ville, sans que la raison soit encore connue.",
+      "content_html": "Le bus a percuté un groupe qui attendait à un arrêt du centre-ville, sans que la raison soit encore connue.",
       "date_published": "2025-11-14T20:03:15+00:00",
       "authors": [
         {
@@ -8154,7 +8216,7 @@
     {
       "id": "0a78d11cb795f75e6af37b4b9ccd0c271aa23367a4f072442d96a60652d63fae",
       "url": "https://www.elmundo.es/internacional/2025/11/14/69166308e9cf4a14628b45a1.html",
-      "title": "Washington redouble de pression dans les Caraïbes en lançant l'opération Southern Spear",
+      "title": "Washington redouble de pression dans les Caraïbes en lançant l'opération Southern Lance",
       "content_html": "\"Cette mission défend notre patrie, expulse les narcoterroristes de notre hémisphère et protège notre patrie des drogues qui tuent notre peuple\", détaille le secrétaire américain à la Guerre.",
       "date_published": "2025-11-14T06:54:10+00:00",
       "authors": [
