@@ -5,40 +5,142 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "6510b1d39b0165ee43cb0d85123be0ea15dc44ba77f4dffaabf76d7e84864270",
-      "url": "https://www.liberation.fr/international/afrique/liberation-de-boualem-sansal-lecrivain-est-de-retour-en-france-20251118_HE7SPRHRCFH5VBIP5QND3SIKQA/",
-      "title": "Libération de Boualem Sansal : l’écrivain est de retour en France, Macron «disponible» pour échanger avec le président algérien",
-      "content_html": "Rassemblement devant l'Assemblée nationale en soutien à l'écrivain franco-algérien Boualem Sansal, à Paris, le 25 mars 2025.",
-      "date_published": "2025-11-18T18:12:00+00:00",
+      "id": "1aa4e97f75e4ec905a0bd5b94fc0d9b7fe51639f4f232ba4cc0ba202a585b0a6",
+      "url": "https://www.elmundo.es/internacional/2025/11/18/691c61c921efa09f218b45d4.html",
+      "title": "La Pologne désigne la Russie comme l'auteur du sabotage ferroviaire : deux auteurs ukrainiens présumés identifiés",
+      "content_html": "Varsovie espère que cette affaire alimentera la coordination européenne contre les opérations hostiles",
+      "date_published": "2025-11-18T18:46:07+00:00",
       "authors": [
         {
-          "name": "LIBERATION,  AFP"
+          "name": "Xavier Colás"
         }
       ],
-      "tags": [],
+      "tags": [
+        "Rusia",
+        "Polonia",
+        "Guerra Ucrania Rusia"
+      ],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
     {
-      "id": "04d8ec3b6f8172d85efd61f02a4a8541a41ce5ee3af8d71912df13a9b3a8550d",
-      "url": "https://www.france24.com/fr/france/20251118-les-ventes-de-perrier-sous-l-appellation-eau-min%C3%A9rale-naturelle-autoris%C3%A9es-par-la-justice",
-      "title": "Les ventes de Perrier sous l'appellation \"eau minérale naturelle\" autorisées par la justice",
-      "content_html": "Alors que l'association de consommateurs UFC-Que Choisir avait demandé le retrait temporaire des bouteilles Perrier, estimant trompeuse leur vente en tant qu'eau \"minérale naturelle\", le tribunal judiciaire de Nanterre a autorisé, mardi, la marque de Nestlé Waters à poursuivre leur commercialisation.",
-      "date_published": "2025-11-18T18:07:22+00:00",
+      "id": "1d815611ef778a00e0d32afb1b6a680236a36c9460372ab8a61de6b983ff8d91",
+      "url": "https://www.elmundo.es/internacional/2025/11/18/691cbcc8e4d4d81a5e8b458e.html",
+      "title": "L'Ukraine attaque des cibles militaires en Russie avec des missiles ATACMS",
+      "content_html": "L’attaque de Voronej s’inscrirait dans la logique ukrainienne d’affaiblissement de la menace russe sur ses villes.",
+      "date_published": "2025-11-18T18:41:34+00:00",
       "authors": [
         {
-          "name": "FRANCE 24"
+          "name": "Xavier Colás"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "35bc7eb6f4e0cbd188cb53311a64b2d3ee568dc07d356086ae884e7e70010099",
+      "url": "https://ici.radio-canada.ca/espaces-autochtones/2208315/scrs-surveillance-autochtones-terrorisme-crise-oka",
+      "title": "Comment les enquêtes sur les militants autochtones sont devenues une priorité du SCRS",
+      "content_html": "<p>Des documents détaillent le programme de surveillance de l&#x27;«&nbsp;extrémisme autochtone&nbsp;», de 1988 à 1999.</p>",
+      "date_published": "2025-11-18T18:35:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "91fb9818a401d65abb977d64600c25d530b38412da0293a4e1b9e66547a0b887",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208296/sean-diddy-combs-agression-sexuelle",
+      "title": "Sean « Diddy » Combs visé par une nouvelle plainte pour agression sexuelle",
+      "content_html": "<p>Le département du shérif du comté de Los Angeles enquête sur cette plainte émanant d&#x27;un producteur de musique.</p>",
+      "date_published": "2025-11-18T18:35:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1c006cfa68c2e4219b1ea430f3c5206a26c9bccde0a795cfc7ccda7cb8efc19d",
+      "url": "https://www.ukrinform.net/rubric-ato/4060172-european-commission-reacts-to-russias-attack-on-izmail-port.html",
+      "title": "European Commission reacts to Russia's attack on Izmail port",
+      "content_html": "European Commission spokesperson Anitta Hipper spoke about the need to stop \"indiscriminate attacks\" by Russia on shipping routes following Moscow's attack on the port of Izmail.",
+      "date_published": "2025-11-18T18:35:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0b7632230cec8857fc7caa73e462b478ec9758be632fa1c210c33b155ccf3371",
+      "url": "https://www.timesofisrael.com/two-men-arrested-over-assault-of-arab-bus-driver-in-the-west-bank/",
+      "title": "Two men arrested over assault of Arab bus driver in the West Bank",
+      "content_html": "<p>Pair were detained shortly after incident in which they allegedly beat driver for Israeli company as he drove route in West Bank settlement of Modi'in Illit</p>\n<p>The post <a href=\"https://www.timesofisrael.com/two-men-arrested-over-assault-of-arab-bus-driver-in-the-west-bank/\">Two men arrested over assault of Arab bus driver in the West Bank</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2018/08/Untitled-1-3-1024x640.jpg\" title=\"Two men arrested over assault of Arab bus driver in the West Bank\" width=\"160\" /></figure>",
+      "date_published": "2025-11-18T18:32:35+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "bus drivers",
+        "assault",
+        "Modiin Illit",
+        "violent crime in Israel"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fe8dcfd7b754f0a559674d70f159e1123979d844e2a0ebd7570b2c7ab89aa509",
+      "url": "https://www.theguardian.com/us-news/2025/nov/18/texas-governor-abbott-cair-muslim-brotherhood-terror-groups",
+      "title": "Texas governor Abbott designates Cair and Muslim Brotherhood terrorist groups",
+      "content_html": "<p>Greg Abbott’s move heightens the clash with Muslim groups and defies federal authority</p><p>Texas governor <a href=\"https://www.theguardian.com/us-news/greg-abbott\">Greg Abbott</a> declared the Council on American-Islamic Relations and the Muslim Brotherhood to be “foreign terrorist organizations” on Tuesday, prohibiting them from acquiring property in the state and authorizing legal action to shut down affiliated entities.</p><p>The <a href=\"https://gov.texas.gov/uploads/files/press/PROC_declaring_Muslim_Brotherhood_and_CAIR_Transnational_Criminal_Organizations_IMAGE_11-18-2025.pdf\">move</a> marks a massive escalation in Abbott’s confrontation with Muslim organizations and communities in Texas, though states have no authority to designate foreign terrorist organizations on behalf of the US – a power reserved exclusively for the US secretary of state under federal law.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/18/texas-governor-abbott-cair-muslim-brotherhood-terror-groups\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:32:04+00:00",
+      "authors": [
+        {
+          "name": "Joseph Gedeon in Washington"
         }
       ],
       "tags": [
-        "France"
+        "Greg Abbott",
+        "Muslim Brotherhood",
+        "US news"
       ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5657097e6e7f5541513e09733631229dcc94e3094a240954b3e2878c79a61760",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208251/chambre-vote-projet-loi-publication-dossiers-epstein",
+      "title": "La Chambre vote aujourd’hui sur la publication des dossiers Epstein",
+      "content_html": "<p>Le texte devra toutefois être approuvé par le Sénat, puis par le président.</p>",
+      "date_published": "2025-11-18T18:30:41+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -47,7 +149,7 @@
       "url": "https://www.lefigaro.fr/international/le-cas-du-francais-christophe-gleizes-et-le-sort-de-dizaines-de-prisonniers-d-opinion-algeriens-20251118",
       "title": "Le cas du Français Christophe Gleizes encore en suspens à Alger",
       "content_html": "Cette photo non datée, diffusée le 30 juin 2025, montre Christophe Gleizes, journaliste sportif français de renom, dans un lieu inconnu.",
-      "date_published": "2025-11-18T18:06:22+00:00",
+      "date_published": "2025-11-18T18:30:41+00:00",
       "authors": [],
       "tags": [
         "International"
@@ -59,11 +161,59 @@
       "lang": "fr"
     },
     {
-      "id": "60fea42fe95e9fbff1a58b18df6c5ae4444f7e266ebd040203139401471656b3",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208245/genevieve-hinse-plq-congediement-marwah-rizqy",
-      "title": "Le PLQ en crise : Marwah Rizqy perd son poste de cheffe parlementaire",
-      "content_html": "<p>La députée de Saint-Laurent est aussi suspendue du caucus libéral. Un «&nbsp;bris de confiance&nbsp;» est en cause.</p>",
-      "date_published": "2025-11-18T18:06:05+00:00",
+      "id": "625427ddd2cfd8d693a8cfae1d923763eafdf7f5d43a488d0d34fbcd41c94417",
+      "url": "https://www.lefigaro.fr/international/ne-pas-faire-entrer-un-cheval-de-troie-le-casse-tete-de-l-elargissement-de-l-union-europeenne-20251118",
+      "title": "«Ne pas faire entrer un cheval de Troie» : le casse-tête de l’élargissement de l’Union européenne",
+      "content_html": "Milojko Spajić, premier ministre du Monténégro et Kaja Kallas, chef de la diplomatie de l’Union européenne.",
+      "date_published": "2025-11-18T18:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b2149d2eb32444d7e9f34bea260c69dbba4827f184d393a96ab8454f599441ee",
+      "url": "https://elpais.com/internacional/2025-11-18/palizas-falta-de-atencion-medica-y-hambre-una-ong-denuncia-la-muerte-de-98-palestinos-bajo-custodia-israeli-desde-la-invasion-de-gaza.html",
+      "title": "Coups, manque de soins médicaux et faim : une ONG dénonce la mort de 98 Palestiniens détenus par Israël depuis l'invasion de Gaza",
+      "content_html": "Les Gazaouis célèbrent la libération d'un prisonnier palestinien libéré par Israël, à Deir al Balah (Gaza), mercredi dernier.",
+      "date_published": "2025-11-18T18:28:05+00:00",
+      "authors": [
+        {
+          "name": "Trinidad Deiros"
+        }
+      ],
+      "tags": [
+        "Conflicto árabe-israelí",
+        "Guerra",
+        "Conflictos",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo",
+        "Cárceles secretas",
+        "Prisiones",
+        "ONG"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b60a40426912e1fd405777c2c1fbbc0b171acd2d2b08eaaecdd52c1b35bcdc59",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208313/vote-budget-carney-elizabeth-may-ne-regrette-rien",
+      "title": "Vote sur le budget Carney : Elizabeth May ne regrette rien",
+      "content_html": "<p>Le Parti vert du Canada est le seul parti de l&#x27;opposition à avoir voté en faveur du budget libéral.</p>",
+      "date_published": "2025-11-18T18:27:27+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -73,34 +223,45 @@
       "lang": "fr"
     },
     {
-      "id": "2449e5b7bbcd26f1bfbb508aabe0f76748b542e82328fd506c0d5bf22c5a37a0",
-      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
-      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – Europe live",
-      "content_html": "<p>Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’</p><p>Poland’s prime minister <strong>Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.</strong></p><p>He says <strong>the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.</strong></p> <a href=\"https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news\">Continue reading...</a>",
-      "date_published": "2025-11-18T18:04:56+00:00",
+      "id": "5f59571bd636a5548b338ff1919d4e18ba86edb8faf40f1bd46b80f8fb2f4946",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20251118-armed-groups-contesting-hamas-authority-gaza",
+      "title": "Who are the armed groups contesting Hamas's authority in Gaza?",
+      "content_html": "The October 10 ceasefire between Hamas and Israel halted open war but not the violence in Gaza. At least seven armed factions and clans are now challenging Hamas's authority while gunfights and public executions persist in the enclave. Some groups are even suspected of ties to Israel.",
+      "date_published": "2025-11-18T18:27:26+00:00",
       "authors": [
         {
-          "name": "Jakub Krupa"
+          "name": "The FRANCE 24 Observers"
         }
       ],
       "tags": [
-        "Poland",
-        "Ukraine",
-        "Russia",
-        "Europe"
+        "The Observers"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
     {
+      "id": "60fea42fe95e9fbff1a58b18df6c5ae4444f7e266ebd040203139401471656b3",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208245/genevieve-hinse-plq-congediement-marwah-rizqy",
+      "title": "Le PLQ en crise : Marwah Rizqy perd son poste de cheffe parlementaire",
+      "content_html": "<p>La députée de Saint-Laurent est aussi suspendue du caucus libéral. Un «&nbsp;bris de confiance&nbsp;» est en cause.</p>",
+      "date_published": "2025-11-18T18:26:16+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "741acc5c9f0239f398d247d509a64960c541aed19063240eeaeb846885fe3149",
       "url": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
-      "title": "Saudi crown prince Mohammed bin Salman pledges almost $1tn in US investments during meeting with Trump - live updates",
-      "content_html": "<p>President set to sell F-35 stealth jets to the kingdom in crown prince’s first US visit since 2018 killing of regime critic Jamal Khashoggi</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/18/trump-says-us-will-sell-f-35-stealth-jets-to-saudis-as-prince-mohammed-visits\">Trump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits</a></p></li></ul><p></p><p>A reminder that <strong>Donald Trump</strong>’s family has a strong personal interest in <strong>Saudi Arabia</strong>. In September, London real estate developer Dar Global announced that <a href=\"https://apnews.com/article/saudi-arabia-trump-organization-jeddah-dar-global-539989a563d8f7eb949be2e10ee18d0a\">it plans to launch Trump Plaza</a> in the Red Sea city of Jeddah.</p><p>It’s Dar Global’s second collaboration with the Trump Organization, the collection of companies controlled by the US president’s children, in the kingdom. Last year, the two companies announced the launch of <strong>Trump Tower Jeddah</strong>.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest\">Continue reading...</a>",
-      "date_published": "2025-11-18T18:04:11+00:00",
+      "title": "Trump defends Mohammed bin Salman over killing of Jamal Khashoggi, claiming Saudi crown prince ‘knew nothing about it’ and ‘things happen’ - live",
+      "content_html": "<p>President<strong> </strong>blasts ABC News as fake news during Oval Office meeting with Saudi crown prince</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/18/trump-says-us-will-sell-f-35-stealth-jets-to-saudis-as-prince-mohammed-visits\">Trump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits</a></p></li></ul><p></p><p>A reminder that <strong>Donald Trump</strong>’s family has a strong personal interest in <strong>Saudi Arabia</strong>. In September, London real estate developer Dar Global announced that <a href=\"https://apnews.com/article/saudi-arabia-trump-organization-jeddah-dar-global-539989a563d8f7eb949be2e10ee18d0a\">it plans to launch Trump Plaza</a> in the Red Sea city of Jeddah.</p><p>It’s Dar Global’s second collaboration with the Trump Organization, the collection of companies controlled by the US president’s children, in the kingdom. Last year, the two companies announced the launch of <strong>Trump Tower Jeddah</strong>.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:25:54+00:00",
       "authors": [
         {
           "name": "Lucy Campbell (now) and Tom Ambrose (earlier)"
@@ -125,25 +286,11 @@
       "lang": "en"
     },
     {
-      "id": "8904981ae2d8d900bde33c5a2a295dc31d61926caa0383f094cbecf2c07f7b97",
-      "url": "https://www.themoscowtimes.com/2025/11/18/voronezh-deputy-mayor-slams-toxic-and-ungrateful-residents-amid-city-waste-crisis-a91166",
-      "title": "Voronezh Deputy Mayor Slams ‘Toxic and Ungrateful’ Residents Amid City Waste Crisis",
-      "content_html": "Deputy Mayor Lyudmila Borodina's comments came amid reports of a waste management crisis in the neighboring town of Semiluki.",
-      "date_published": "2025-11-18T18:03:50+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e097ba978e0344e73037ad744ff0f7e6124882935028e6ef2413e3bd4db03228",
       "url": "https://www.theguardian.com/us-news/live/2025/nov/18/house-vote-jeffrey-epstein-files-donald-trump-republicans-democrats-us-politics-live-news",
-      "title": "Mike Johnson says he’ll back release of Epstein files while calling House vote a ‘desperate attempt’ by Democrats – US politics live",
+      "title": "House begins debate on release of Epstein files; Mike Johnson says he’ll back release – US politics live",
       "content_html": "<p>Move comes after Donald Trump dropped his opposition to a vote on releasing files on the late convicted sex offender Jeffrey Epstein</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/18/house-vote-epstein-documents\">Full report: House set to vote on release of Epstein documents</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/nov/18/epstein-files-release-vote\">Explainer: What to know about the US House vote</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/jul/24/what-are-jeffrey-epstein-documents-trump\">Explainer: What are the Epstein files?</a></p></li></ul><p><strong>The Harvard professor and economist Larry Summers said he would be stepping back from public life after documents released by the House oversight committee revealed email exchanges between Summers and the convicted sex offender <a href=\"https://www.theguardian.com/us-news/jeffrey-epstein\">Jeffrey Epstein</a>, who called himself Summers’ “wing man”.</strong></p><p>Politico <a href=\"https://www.politico.com/news/2025/11/17/larry-summers-steps-back-from-public-commitments-deeply-ashamed-by-epstein-revelations-00655712\">reported</a> on Monday that Summers, a former treasury secretary, expressed deep regret for past messages with Epstein.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/18/house-vote-jeffrey-epstein-files-donald-trump-republicans-democrats-us-politics-live-news\">Continue reading...</a>",
-      "date_published": "2025-11-18T18:01:17+00:00",
+      "date_published": "2025-11-18T18:23:12+00:00",
       "authors": [
         {
           "name": "Shrai Popat(now) and Frances Mao (earlier)"
@@ -162,6 +309,259 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "44c2c613be48d552b8d43597ff4c10a80f901bf411e7708afc57119b4fa3c61b",
+      "url": "https://www.elmundo.es/internacional/2025/11/18/691cb7ade85ecea6188b45c2.html",
+      "title": "Trump défend Mohamed Bin Salman en assurant qu'il \"ne savait rien\" du meurtre du journaliste Jamal Khassogi : \"Ce sont des choses qui arrivent\"",
+      "content_html": "Le président américain confirme qu'il autorisera la vente d'avions de combat F-35 à l'Arabie saoudite, une mesure plus que controversée",
+      "date_published": "2025-11-18T18:22:16+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Artículos Pablo R. Suanzes"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6c34efb8921061558803123df38d149b28a2420692ca2cc8cbd955a51f3436f3",
+      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20251118-sandrine-rousseau-les-%C3%A9cologistes-pour-lutter-contre-le-narcotrafic-il-faut-chercher-la-cause",
+      "title": "Sandrine Rousseau (Les Écologistes) : \"Pour lutter contre le narcotrafic, il faut chercher la cause\"",
+      "content_html": "Sandrine Rousseau, députée Les Écologistes est l’invitée de Mardi politique. Dans cette émission, il sera question de la libération de Boualem Sansal, de la lutte contre le narcotrafic après l’assassinat à Marseille de Mehdi Kessaci, frère d’un militant écologiste, figure locale de la lutte contre le narcobanditisme et du budget, toujours en débat à l’Assemblée nationale.",
+      "date_published": "2025-11-18T18:18:57+00:00",
+      "authors": [
+        {
+          "name": "Roselyne FEBVRE"
+        }
+      ],
+      "tags": [
+        "Mardi politique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "07628a6c722b8181e22b5708775f2269caac4af6be3e6e19b18301bb5a6f3152",
+      "url": "https://www.ukrinform.net/rubric-society/4060167-zelensky-awards-director-of-santa-clara-monastery-foundation-with-order-of-princess-olga.html",
+      "title": "Zelensky awards director of Santa Clara Monastery Foundation with Order of Princess Olga",
+      "content_html": "During his visit to Madrid, President Volodymyr Zelensky awarded the director of the Santa Clara Monastery Foundation, Sister Maria Lucia Caram Padilla, the Order of Princess Olga, 3rd class.",
+      "date_published": "2025-11-18T18:18:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "69f3e9e9c9229af2dbb4ba11280e0b6ce40e2927b1beda6dc45bbe5cfa7dfbe4",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/18/families-split-by-labour-asylum-crackdown",
+      "title": "‘I’m missing so much of my son’s life’: the families split by Labour’s asylum crackdown",
+      "content_html": "<p>As the government imposes stricter rules for families of asylum seekers coming to the UK, one mother tells how her son is growing up without her</p><p>“My son says ‘I miss you, when am I seeing you?’ Sometimes I lie to give him false hope. There’s a growing detachment there, because he knows I have lied to him.”</p><p>Kim is an asylum seeker based in Yorkshire, England. The 35-year-old, who has asked to use only a first name out of fears for her safety, is among those in the UK who don’t know when – or if – they will be able to see their children again, as the <a href=\"https://www.theguardian.com/uk/immigration\">Labour government cracks down on the asylum system</a>.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/18/families-split-by-labour-asylum-crackdown\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:17:39+00:00",
+      "authors": [
+        {
+          "name": "Chris Osuh"
+        }
+      ],
+      "tags": [
+        "Immigration and asylum",
+        "UK news",
+        "Labour",
+        "Politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d45155f95ca20661e3e15971c4db08c1e82fa6fa64d011f4147186a0f7f1c93c",
+      "url": "https://www.theguardian.com/world/2025/nov/18/eu-uk-pay-into-budget-closer-ties",
+      "title": "EU confirms it wants UK to pay into its budget in exchange for closer ties",
+      "content_html": "<p>‘Politically realistic’ for UK to make financial contribution so it can access European single market, Irish minister says</p><p>The UK must pay into the EU budget for future participation in the European single market, it has been confirmed, in what could become a major test for the <a href=\"https://www.theguardian.com/politics/eu-referendum\">post-Brexit reset</a>.</p><p>Ireland’s Europe minister, Thomas Byrne, said EU member states had decided the UK should make a financial contribution for closer ties: “Ireland wants to see Britain getting the benefit of closer engagement with the European Union.</p> <a href=\"https://www.theguardian.com/world/2025/nov/18/eu-uk-pay-into-budget-closer-ties\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:17:22+00:00",
+      "authors": [
+        {
+          "name": "Jennifer Rankin in Brussels and Lisa O’Carroll"
+        }
+      ],
+      "tags": [
+        "European Union",
+        "Brexit",
+        "Ursula von der Leyen",
+        "Keir Starmer",
+        "Europe",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2af863a6d89e3e5aae486b506bec3db9172bbcafbb0767c70f3b3476e61e9105",
+      "url": "https://www.aljazeera.com/news/longform/2025/11/18/conservationists-want-to-protect-brazilwood-so-why-are-musicians-alarmed?traffic_source=rss",
+      "title": "Conservationists want to protect brazilwood. So why are musicians alarmed?",
+      "content_html": "Brazil hopes to raise trade restrictions to protect an endangered tree. But musicians fear for their instruments.",
+      "date_published": "2025-11-18T18:17:18+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d253bf00450bed0f1c1c61d46637a170dddab86558b96827fe477ee689c60560",
+      "url": "https://www.theguardian.com/politics/2025/nov/18/out-of-touch-peers-criticised-for-voting-against-workers-rights",
+      "title": "‘Out of touch’ peers criticised for voting against workers’ rights",
+      "content_html": "<p>Trade union leaders and senior Labour figures say the Lords looks ‘undemocratic and firmly against the interest of working people’</p><p>Dozens of hereditary peers - including the Duke of Wellington, landed aristocrats and millionaire business chiefs – have been criticised for battling to unpick Labour’s plans to boost workers’ rights.</p><p>In a fresh setback for the government, the Lords voted to support a string of Conservative-backed amendments to the employment rights bill late on Monday for the third time running.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/18/out-of-touch-peers-criticised-for-voting-against-workers-rights\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:15:07+00:00",
+      "authors": [
+        {
+          "name": "Richard Partington Senior economics correspondent"
+        }
+      ],
+      "tags": [
+        "House of Lords",
+        "Business",
+        "Workers' rights",
+        "Politics",
+        "Labour",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "32daf5ff28645e3244ded2f08e63b901adf854eab91e086371e22133950e286b",
+      "url": "https://www.lefigaro.fr/international/qui-se-cache-derriere-l-organisation-al-majd-europe-accusee-de-deplacer-des-gazaouis-en-afrique-du-sud-20251118",
+      "title": "Qui se cache derrière l’organisation Al-Majd Europe, accusée de «déplacer» des Gazaouis en Afrique du Sud ?",
+      "content_html": "La bande de Gaza détruite après deux ans de guerre.",
+      "date_published": "2025-11-18T18:14:49+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6510b1d39b0165ee43cb0d85123be0ea15dc44ba77f4dffaabf76d7e84864270",
+      "url": "https://www.liberation.fr/international/afrique/liberation-de-boualem-sansal-lecrivain-est-de-retour-en-france-20251118_HE7SPRHRCFH5VBIP5QND3SIKQA/",
+      "title": "Libération de Boualem Sansal : l’écrivain est de retour en France, Macron «disponible» pour échanger avec le président algérien",
+      "content_html": "Rassemblement devant l'Assemblée nationale en soutien à l'écrivain franco-algérien Boualem Sansal, à Paris, le 25 mars 2025.",
+      "date_published": "2025-11-18T18:12:00+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f5616ef0be053fb7cfb161deb958ab039374239690537e9515d2af1064d077dd",
+      "url": "https://www.aljazeera.com/news/2025/11/18/nigeria-intensifies-search-for-25-abducted-schoolgirls?traffic_source=rss",
+      "title": "Nigeria intensifies search for 25 abducted schoolgirls",
+      "content_html": "More than 11 years ago, Boko Haram fighters abducted 276 girls from their school in the town of Chibok.",
+      "date_published": "2025-11-18T18:10:57+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "04d8ec3b6f8172d85efd61f02a4a8541a41ce5ee3af8d71912df13a9b3a8550d",
+      "url": "https://www.france24.com/fr/france/20251118-les-ventes-de-perrier-sous-l-appellation-eau-min%C3%A9rale-naturelle-autoris%C3%A9es-par-la-justice",
+      "title": "Les ventes de Perrier sous l'appellation \"eau minérale naturelle\" autorisées par la justice",
+      "content_html": "Alors que l'association de consommateurs UFC-Que Choisir avait demandé le retrait temporaire des bouteilles Perrier, estimant trompeuse leur vente en tant qu'eau \"minérale naturelle\", le tribunal judiciaire de Nanterre a autorisé, mardi, la marque de Nestlé Waters à poursuivre leur commercialisation.",
+      "date_published": "2025-11-18T18:07:22+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2449e5b7bbcd26f1bfbb508aabe0f76748b542e82328fd506c0d5bf22c5a37a0",
+      "url": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
+      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – as it happened",
+      "content_html": "<p>Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’. This live blog is closed</p><p>Poland’s prime minister <strong>Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.</strong></p><p>He says <strong>the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services.</strong></p> <a href=\"https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news\">Continue reading...</a>",
+      "date_published": "2025-11-18T18:04:56+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Poland",
+        "Ukraine",
+        "Russia",
+        "Europe"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8904981ae2d8d900bde33c5a2a295dc31d61926caa0383f094cbecf2c07f7b97",
+      "url": "https://www.themoscowtimes.com/2025/11/18/voronezh-deputy-mayor-slams-toxic-and-ungrateful-residents-amid-city-waste-crisis-a91166",
+      "title": "Voronezh Deputy Mayor Slams ‘Toxic and Ungrateful’ Residents Amid City Waste Crisis",
+      "content_html": "Deputy Mayor Lyudmila Borodina's comments came amid reports of a waste management crisis in the neighboring town of Semiluki.",
+      "date_published": "2025-11-18T18:03:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
@@ -278,6 +678,26 @@
       "lang": "en"
     },
     {
+      "id": "197cbe4e043db7ab460bfd9a5707243ef236ba6305b5c038724c845fc2af9893",
+      "url": "https://www.france24.com/en/europe/20251118-france-jails-eight-men-over-deadly-2023-channel-migrant-crossing",
+      "title": "France jails eight men over deadly 2023 Channel migrant crossing",
+      "content_html": "A French court on Tuesday sentenced eight men to between three and 15 years in prison for running a smuggling network linked to a 2023 Channel shipwreck that killed seven Afghans. The case exposed an organised Europe-wide trafficking system.",
+      "date_published": "2025-11-18T17:54:05+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "e0cab0f183a043d2abefa57edf4288f6dbbced16f72ce7e33fc3077051cc1ed7",
       "url": "https://www.theguardian.com/world/2025/nov/18/pension-reform-row-threatens-germanys-coalition-government",
       "title": "Pension reform row threatens Germany’s coalition government",
@@ -313,11 +733,12 @@
       "tags": [
         "Donald Trump",
         "Bloomberg",
-        "Media",
-        "US press and publishing",
         "Women",
-        "US news",
-        "Media business"
+        "US press and publishing",
+        "Newspapers & magazines",
+        "Media business",
+        "Media",
+        "US news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -403,6 +824,22 @@
       "lang": "en"
     },
     {
+      "id": "e539616d592375bb81fc370fa19280b405018b4fa96e2c9edf82ddc14d09bd0a",
+      "url": "https://www.dw.com/en/germany-news-merz-urges-innovation-at-berlin-digital-summit/live-74785840?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Merz urges innovation at Berlin digital summit",
+      "content_html": "Chancellor Friedrich Merz and France's Emmanuel Macron told a European \"digital sovereignty\" summit in Berlin that the continent cannot cede the crucial new tech fields to US and Chinese dominance. DW has more.",
+      "date_published": "2025-11-18T17:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
       "id": "e17fc7d283a205536d88af57fc8ea884662c4e6affaf29fc19210a803227c970",
       "url": "https://www.ukrinform.net/rubric-ato/4060156-ukrainian-special-operations-forces-clear-forested-area-of-russian-troops-in-northern-slobozhanshchyna-sector.html",
       "title": "Ukrainian Special Operations Forces clear forested area of Russian troops in Northern Slobozhanshchyna sector",
@@ -437,50 +874,6 @@
         "Pets",
         "UK news",
         "Politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ab6e562290c59bc26ba554b548860a44d1665b409a20d4e0bb211c55bc598444",
-      "url": "https://www.theguardian.com/politics/live/2025/nov/18/labour-asylum-seekers-keir-starmer-reform-nigel-farage-uk-politics-latest-news",
-      "title": "Chinese spying amounts to interference in UK democracy, minister says, after MI5 warns MPs – politics live",
-      "content_html": "<p>Dan Jarvis, the security minister, says China is trying to contact MPs and peers to get sensitive information about parliament</p><p>Back at the Reform UK press conference, <strong>Zia Yusuf</strong>, the party’s head of policy, has just finished outlining his plan to cut spending on foreigners</p><p>As he finished, Yusuf claimed this was “treachery”.</p><p>Labour is making the conscious and deliberate decision to continue funding extortionate amounts to foreign nationals, to the detriment of British citizens.</p><p>And I don’t know what to call that. Frankly, in my view, it’s treachery. I think it’s appalling. British people are sick and tired of it.</p><p>Just a few months ago, Rachel Reeves was saying she couldn’t afford to scrap the two-child benefit cap. Now it looks like becoming her latest U-turn.</p><p>This isn’t because the economic circumstances have improved. Quite the opposite.</p> <a href=\"https://www.theguardian.com/politics/live/2025/nov/18/labour-asylum-seekers-keir-starmer-reform-nigel-farage-uk-politics-latest-news\">Continue reading...</a>",
-      "date_published": "2025-11-18T17:40:34+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "Reform UK",
-        "Nigel Farage",
-        "Kemi Badenoch",
-        "Brexit",
-        "Immigration and asylum",
-        "Migration",
-        "European Union",
-        "Aid",
-        "China",
-        "Espionage",
-        "House of Commons",
-        "Green party",
-        "Religion",
-        "Christianity",
-        "Welfare",
-        "Benefits",
-        "Global development",
-        "Sudan",
-        "Israel",
-        "West Bank",
-        "Yvette Cooper"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -607,6 +1000,44 @@
       "lang": "en"
     },
     {
+      "id": "de47fd8a4d4032bb1ae89ef4423335c8dc5212096edf7689fbe1ec36551c4144",
+      "url": "https://www.france24.com/en/video/20251118-new-coin-honours-queen-front-man-freddie-mercury",
+      "title": "New coin honours Queen front man Freddie Mercury",
+      "content_html": "Forty years after his iconic performance at the Live Aid concert, the Royal Mint has decided to honor British music legend Freddie Mercury and now his image is forever engraved in metal. Charlotte Lam has this story.",
+      "date_published": "2025-11-18T17:24:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9d01e0f29bef95b31ab6fb95c2e0c92bdfae1d9dcb46a00bc2be8d865c0d5351",
+      "url": "https://www.france24.com/en/france/20251118-macron-calls-for-action-on-drugs-after-turning-point-murder-in-marseille",
+      "title": "Macron calls for action on drug crime after 'turning point' murder in Marseille",
+      "content_html": "French President Emmanuel Macron has called for tougher action against drug trafficking on Tuesday after the 20-year-old brother of anti-drug activist Amine Kessaci, Mehdi Kessaci, was shot dead in Marseille last week, in what authorities say was an intimidation killing linked to local gangs.",
+      "date_published": "2025-11-18T17:22:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "db30537515aec3ebec4c7e70314b0fd3eff1091298695106ed36e80cc070c161",
       "url": "https://www.aljazeera.com/economy/2025/11/18/bitcoin-ticks-up-after-erasing-all-of-2025-gains?traffic_source=rss",
       "title": "Bitcoin ticks up after erasing all of 2025 gains",
@@ -637,6 +1068,42 @@
       "lang": "fr"
     },
     {
+      "id": "340de7770df5d9e8e308235f6d0110a61d32fbca78f814cbd2251b8ba21a03cb",
+      "url": "https://www.france24.com/en/video/20251118-what-does-the-un-backed-gaza-plan-entail",
+      "title": "What does the UN-backed Gaza plan entail?",
+      "content_html": "🇺🇳 🇵🇸 With 13 votes in favour and two abstentions, the #UN Security Council on Monday adopted a US-backed resolution on the future of #Gaza, based largely on President Donald #Trump's 20-point peace plan for the #Palestinian enclave.\n \nWhat does this proposal entail? FRANCE 24 takes a closer look.",
+      "date_published": "2025-11-18T17:16:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d9c8259b4857b4b4c111f5d7c207be723160b0d5d6976320ba4028cab2b45a07",
+      "url": "https://www.france24.com/en/video/20251118-macron-welcomes-freed-writer-boualem-sansal-after-release-from-algerian-jail",
+      "title": "Macron welcomes freed writer Boualem Sansal after release from Algerian jail",
+      "content_html": "Freed French-Algerian writer Boualem Sansal is \"back in France\", six days after his transfer via Germany, according to his support committee. Sansal was arrested in November 2024 in Algiers during a diplomatic crisis between France and Algeria. Upon his arrival, Sansal was welcomed by President Emmanuel Macron at the Elysee. Solange Mougin has this story.",
+      "date_published": "2025-11-18T17:14:36+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "5ca8c73784a34e33dfb51249dec58de271938428c5d9436ea7dc7e3bf5daa9c1",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/trump-greets-saudis-mbs-with-lavish-ceremony-military-flyover?traffic_source=rss",
       "title": "Trump greets Saudi’s MBS with lavish ceremony, military flyover",
@@ -656,7 +1123,7 @@
       "id": "30a0ddf1af40b7e0c664e3fe24634266341eabd42d7f5e9f11bc25ec9fefff60",
       "url": "https://ici.radio-canada.ca/nouvelle/2208242/sqdc-vente-vapoteuses-novembre",
       "title": "Des vapoteuses de cannabis sur les tablettes de la SQDC dès le 26 novembre",
-      "content_html": "<p>Les consommateurs de cannabis par vapoteuse se font de plus en plus nombreux, selon la SQDC.</p>",
+      "content_html": "<p>Les consommateurs de cannabis par vapoteuse se font de plus en plus nombreux, selon la SQDC. </p>",
       "date_published": "2025-11-18T17:12:24+00:00",
       "authors": [],
       "tags": [],
@@ -683,6 +1150,24 @@
       "lang": "en"
     },
     {
+      "id": "c14a5e46e351894ad1a6f288447962ca84ae4252529672ebcedf6bced6f7d04c",
+      "url": "https://www.france24.com/en/video/20251118-in-paris-a-giant-iud-highlights-global-threats-to-contraception",
+      "title": "In Paris, a giant IUD highlights global threats to contraception",
+      "content_html": "A giant #IUD installed at #Paris’s Place de la République highlights rising anti-contraception movements and contraceptive shipments blocked in Belgium, which activists link to Trump-era aid cuts. This travelling sculpture raises awareness of ongoing barriers to #contraception for women worldwide.",
+      "date_published": "2025-11-18T17:11:19+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "53a603f609a8a2cce134313cf47d9338dbd943e46c54526db7a0d830ec8e1fdd",
       "url": "https://www.dw.com/en/eu-plans-to-ease-gdpr-laws-and-ai-constraints-in-major-shift/a-74792773?maca=en-rss-en-all-1573-rdf",
       "title": "EU plans to ease GDPR laws and AI constraints in major shift",
@@ -699,6 +1184,24 @@
       "lang": "en"
     },
     {
+      "id": "d36fcbdcb3fe55be240b7e1faa0b9958e1c269a082b77175269d2f80fa8a2ba8",
+      "url": "https://www.france24.com/en/video/20251118-trump-hosts-saudi-crown-prince-for-pomp-filled-visit-security-deals-expected",
+      "title": "Trump hosts Saudi Crown Prince for pomp-filled visit, security deals expected",
+      "content_html": "President Donald Trump hosted Crown Prince Mohammed bin Salman to the White House on Tuesday, with the Saudi de facto ruler seeking to further rehabilitate his global image after the 2018 killing of US-based journalist Jamal Khashoggi and deepen ties with Washington.\n\nMaking his first White House visit in more than seven years, the crown prince was greeted with a lavish display of pomp and ceremony presided over by Trump on the South Lawn, complete with a military honor guard, a cannon salute and a flyover by U.S. warplanes. France24 correspondent Fraser Jackson reports from the White House, in Washington D.C.",
+      "date_published": "2025-11-18T17:09:21+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "cbae8e2379aed9783d036c3820693786442166e6b4c38e68eed4862cda456932",
       "url": "https://www.ukrinform.net/rubric-polytics/4060141-zelensky-meets-with-king-of-spain.html",
       "title": "Zelensky meets with King of Spain",
@@ -711,6 +1214,44 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f53fd3099e42abc8e82ae30dc85ed980e6d80cc8b98305b1947646b64cbc01a1",
+      "url": "https://www.france24.com/en/video/20251118-marseille-shooting-highlights-rising-threat-of-narcotrafficking-in-france",
+      "title": "Marseille shooting highlights rising threat of narcotrafficking in France",
+      "content_html": "France’s Justice Minister described last week’s killing of Mehdi Kessaci in Marseille as a terrifying tipping point, one that should raise public awareness about the dangers of narcotrafficking. Kessaci, 20 years old, was shot dead in Marseille, as he was sitting in his car in the city’s 4th district when a series of gunshots targeted him. He was the younger brother of Marseille activist and environmentalist Amine Kessaci. Eliza Herbert has this story.",
+      "date_published": "2025-11-18T17:07:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cc1594c40ed529f80affeea2a0e84a93ed003901c20829eb082208ea8c126e0c",
+      "url": "https://www.france24.com/en/middle-east/20251118-one-dead-three-wounded-in-west-bank-stabbing-and-ramming-attack",
+      "title": "One dead, three wounded in West Bank stabbing and ramming attack",
+      "content_html": "At least one person was killed and three others wounded in a stabbing and ramming attack in the occupied West Bank on Tuesday, Israeli officials said. The assault came a day after the UN Security Council endorsed US President Donald Trump’s plan for Gaza, a move that has deepened political tensions across the region.",
+      "date_published": "2025-11-18T17:04:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -819,28 +1360,20 @@
       "lang": "fr"
     },
     {
-      "id": "c89e598485d24c61875097607b14a856301fbaa77d01e261a1fc5631ca1df635",
-      "url": "https://www.theguardian.com/world/2025/nov/18/mi5-issues-alert-to-mps-and-peers-over-chinese-espionage",
-      "title": "MI5 names two people in alert to MPs and peers about Chinese espionage",
-      "content_html": "<p>Spy agency says Amanda Qui and Shirly Shen have been using LinkedIn to ‘obtain non-public and insider insights’</p><p>MI5 has issued an espionage alert to MPs and peers warning that two people linked to the Chinese intelligence service are actively seeking to recruit parliamentarians.</p><p>The two people operated as headhunters on the LinkedIn professional networking website aiming to obtain “non-public and insider insights”, MI5 said. They are also said to be targeting economists, thinktank staff and others with access to politicians.</p> <a href=\"https://www.theguardian.com/world/2025/nov/18/mi5-issues-alert-to-mps-and-peers-over-chinese-espionage\">Continue reading...</a>",
-      "date_published": "2025-11-18T16:55:12+00:00",
+      "id": "3e94b9550fbefeb8bc26185f7f80a9a482a63dd52ddf50db670d01a508cb0d8f",
+      "url": "https://www.france24.com/en/video/20251118-we-have-to-work-together-to-build-trust-achieve-peace-for-two-states",
+      "title": "'We have to work together to build trust, achieve peace for two states'",
+      "content_html": "Prime Minister Benjamin Netanyahu has long ruled out Palestinian independence, and a two-state solution. But as the US attempts to push forward with its Gaza ceasefire proposal, that leaves the door open to Palestinian independence, the Israeli leader faces heavy international pressure. Longterm peace has always remained elusive, Gavin Lee welcomes Itamar Avneri, Founding Member of Standing Together Israeli grassroots peace movement.",
+      "date_published": "2025-11-18T16:53:58+00:00",
       "authors": [
         {
-          "name": "Dan Sabbagh, Amy Hawkins and Eleni Courea"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Espionage",
-        "MI5",
-        "China",
-        "House of Commons",
-        "House of Lords",
-        "UK news",
-        "Politics"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -881,6 +1414,24 @@
       "lang": "fr"
     },
     {
+      "id": "8fda09c12aacc34732618ac437a6927206244be922d6d0221898d8d48ff24ac6",
+      "url": "https://www.france24.com/en/video/20251118-us-will-sell-f-35-jets-to-ally-according-to-a-statement-by-trump",
+      "title": "US will sell F-35 jets to ally according to a statement by Trump",
+      "content_html": "President Donald Trump said on Monday that he plans to approve the sale of US-made F-35 fighter jets to Saudi Arabia, speaking a day before hosting Saudi Crown Prince Mohammed bin Salman for a day of diplomacy, telling reporters in the Oval Office, “I will say that we will be doing that… We’ll be selling the F-35s.” The Reuters Gulf Currents newsletter brings the latest on geopolitics, energy and finance in the region. A sale would represent a major policy shift, potentially reshaping the military balance in the Middle East and challenging Washington’s longstanding commitment to maintaining Israel’s “qualitative military edge.” Senior Resident Scholar at Arab Gulf States Institute in Washington DC, Hussein Ibish, joins us for more.",
+      "date_published": "2025-11-18T16:52:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "39bfe144108fc4213bae0c150040d02bd0e7c309fdf13c128307a16158a1beee",
       "url": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&at_campaign=rss",
       "title": "Brazil creates new Indigenous territories during protest-hit COP30",
@@ -891,6 +1442,24 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5fe5153fd476db0ba547aa7760231fbbbb7ae62fb597a6461f3cb3044fd3f496",
+      "url": "https://www.france24.com/en/video/20251118-saudi-crown-prince-mohammed-bin-salman-s-drive-to-reshape-saudi-arabia",
+      "title": "Saudi Crown Prince Mohammed bin Salman’s drive to reshape Saudi Arabia",
+      "content_html": "Mohammed bin Salman is widely seen as driving Saudi Arabia into the modern era, overhauling its economy, society and global image while keeping a tight hold on power. Soon after becoming Crown Prince, he launched a sweeping anti-corruption purge that many viewed as a bid to sideline rivals. A key goal of his agenda is reducing the kingdom’s reliance on oil by expanding the private sector and building a tourism industry. Camille Knight has this story.",
+      "date_published": "2025-11-18T16:50:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -993,6 +1562,24 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "85fc4a004f089b3936ef54bb86c2f750f0045b73aff545ed998304f83cc81c7e",
+      "url": "https://www.france24.com/en/video/20251118-right-will-win-election-chile-to-see-relatively-conservative-pro-market-reforms-in-near-term",
+      "title": "'Right will win election': Chile to see 'relatively conservative, pro-market' reforms in near-term",
+      "content_html": "Chileans face perhaps the starkest choice in the history of their country’s young democracy when they vote next month in a presidential runoff that pits hard-right José Antonio Kast against communist Jeannette Jara. Neither candidate cleared the 50% threshold to win, but Kast heads into the second round of voting best positioned to succeed after an unprecedented 70% of voters backed an array of right-wing parties in Sunday’s poll. An ultraconservative lawyer who vows to deport Chile’s estimated 300,000 immigrants without legal status and speaks nostalgically of Chile’s brutal dictatorship. For in-depth analysis and a deeper perspective, François Picard welcomes Daniel Lansberg-Rodriguez, Adjunct Lecturer in the Global Initiatives in Management Program at  Northwestern University’s Kellogg School of Management.",
+      "date_published": "2025-11-18T16:41:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "96977e5c32adf4fe1d4397431cbe0f9e26c41c2aeda182ff50a25a51f2684e89",
@@ -1151,23 +1738,22 @@
       "lang": "fr"
     },
     {
-      "id": "2c6ddf821ce1da4358ccd6d3130622b2b7a12ae0383cc45b2bb29630a244eae6",
-      "url": "https://www.theguardian.com/us-news/2025/nov/18/purdue-pharma-opioid-settlement-oxycontin",
-      "title": "Federal judge approves opioid settlement for Purdue Pharma",
-      "content_html": "<p>Deal requires Sackler family members who own company to contribute up to $7bn over 15 years</p><p>A federal bankruptcy court judge on Tuesday formally approved OxyContin maker Purdue Pharma’s plan to settle thousands of lawsuits over the harms of opioids.</p><p>The deal approved by US bankruptcy Judge Sean Lane requires members of the Sackler family who own the company to contribute up to $7bn over 15 years. Most of the money is to go to government entities to fight the opioid crisis that has been linked to 900,000 deaths in the US since 1999.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/18/purdue-pharma-opioid-settlement-oxycontin\">Continue reading...</a>",
-      "date_published": "2025-11-18T16:31:30+00:00",
+      "id": "418ccc53e254f2bc3e9c3e96b4b66f0cb7e327f786e78ff01af020708208fb27",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20251118-sudan-is-the-epicentre-of-global-suffering-un-humanitarian-chief-tom-fletcher",
+      "title": "Sudan is the 'epicentre of global suffering': UN humanitarian chief Tom Fletcher",
+      "content_html": "In an interview with FRANCE 24, UN Under-Secretary-General for Humanitarian Affairs Tom Fletcher described Sudan as the \"epicentre of global suffering\" after visiting survivors who fled El-Fasher, the capital of the North Darfur region that was recently seized by the paramilitary Rapid Support Forces. He said that those who fled told him \"stories of mass executions, of sexual violence as a weapon of war, of torture.\"",
+      "date_published": "2025-11-18T16:32:23+00:00",
       "authors": [
         {
-          "name": "Associated Press"
+          "name": "Marc PERELMAN"
         }
       ],
       "tags": [
-        "Opioids crisis",
-        "US news"
+        "Tête à tête"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1247,10 +1833,10 @@
       "lang": "fr"
     },
     {
-      "id": "55093b1ac8023d33c4397650c03a5eec7f10366785b68e4eac7397d257d2099f",
-      "url": "https://www.dw.com/en/us-trump-rolls-out-red-carpet-for-saudi-prince/a-74794067?maca=en-rss-en-all-1573-rdf",
-      "title": "US: Trump rolls out red carpet for Saudi prince",
-      "content_html": "Donald Trump is welcoming Crown Prince Mohammed bin Salman to the White House with defense sales, AI investments, and energy deals on the table.",
+      "id": "a68e92970316d9d660220257cb734b06aa4d5e20ef75d0d69f7e6f83d2220567",
+      "url": "https://www.dw.com/en/saudi-prince-pledges-big-us-investments-during-trump-visit/a-74794067?maca=en-rss-en-all-1573-rdf",
+      "title": "Saudi prince pledges big US investments during Trump visit",
+      "content_html": "At a White House meeting, the Saudi crown prince promised to increase new investments in the US to $1 trillion. Trump also defended the crown prince over the 2018 murder of a journalist",
       "date_published": "2025-11-18T16:29:00+00:00",
       "authors": [],
       "tags": [
@@ -1279,6 +1865,24 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "d14f1e6464a5de28278c6e0eb917d9d60f6bd2a32d5a423650f108be4aaa631e",
+      "url": "https://www.france24.com/en/video/20251118-us-representatives-hold-press-conference-with-survivors-of-epstein-s-abuses",
+      "title": "US Representatives hold press conference with survivors of Epstein's abuses",
+      "content_html": "Donald Trump dropped his long-standing opposition on Epstein files: after After months of trying to block the release of the documents relating to financier and late sex offender Jeffrey Epstein, calling the whole thing a \"Democratic hoax\", he now says he’ll sign a Congressional bill forcing disclosure. \n\nFor a president who has faced almost no resistance from his own party, this rare reversal raises questions, including whether political gravity may be finally catching up. France24 International Affairs commentator Douglas Herbert shares his insights.",
+      "date_published": "2025-11-18T16:27:33+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "1d7fdb0054db229e8f0d03955907752586d182de50b20293474252fe8049dcd2",
@@ -1443,20 +2047,6 @@
       "lang": "en"
     },
     {
-      "id": "5657097e6e7f5541513e09733631229dcc94e3094a240954b3e2878c79a61760",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208251/chambre-vote-projet-loi-publication-dossiers-epstein",
-      "title": "La Chambre vote aujourd’hui sur la publication des dossiers Epstein",
-      "content_html": "<p>Le texte devra toutefois être approuvé par le Sénat, puis par le président.</p>",
-      "date_published": "2025-11-18T16:15:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "82500915ba6780b50a55ba50db6a4bc10deb0a797592fda36186375a015e2b06",
       "url": "https://www.ukrinform.net/rubric-economy/4060122-ukrainian-czech-companies-to-jointly-develop-interceptor-drones.html",
       "title": "Ukrainian, Czech companies to jointly develop interceptor drones",
@@ -1533,33 +2123,6 @@
       "lang": "fr"
     },
     {
-      "id": "e4b15a0322a9241933c5206c4eb89a89b018a627d4df28edeeafca8cf164a0d3",
-      "url": "https://www.theguardian.com/film/2025/nov/18/stellan-skarsgard-sentimental-value-leads-nominations-european-film-awards-joachim-trier-sirat",
-      "title": "Stellan Skarsgård starrer Sentimental Value leads nominations for European film awards",
-      "content_html": "<p>Director Joachim Trier’s family drama has five nominations, including best actor for Skarsgård, while Oliver Laxe’s techno thriller Sirāt has four nominations</p><p>Norwegian director Joachim Trier is leading the race for a triumph at the European film awards, with five nominations in key categories <a href=\"https://www.theguardian.com/film/2025/may/21/sentimental-value-review-cannes\">for his family drama Sentimental Value</a>.</p><p>The Cannes Grand Prix winner is nominated for best European film, best screenplay and best director, with further best actor and best actress nominations for Stellan Skarsgård and Renate Reinsve.</p> <a href=\"https://www.theguardian.com/film/2025/nov/18/stellan-skarsgard-sentimental-value-leads-nominations-european-film-awards-joachim-trier-sirat\">Continue reading...</a>",
-      "date_published": "2025-11-18T16:04:59+00:00",
-      "authors": [
-        {
-          "name": "Philip Oltermann European culture editor"
-        }
-      ],
-      "tags": [
-        "Film",
-        "Stellan Skarsgård",
-        "Denmark",
-        "Spain",
-        "Culture",
-        "Europe",
-        "World news",
-        "Awards and prizes"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "77e0fdef5ea71fc0a15e59c6edb4fee436d66ad3cf2d09a91f8d032c76fc0d84",
       "url": "https://www.ukrinform.net/rubric-economy/4060090-ukraine-and-greece-to-jointly-produce-marine-drones-media.html",
       "title": "Ukraine and Greece to jointly produce marine drones - media",
@@ -1606,6 +2169,24 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a13ff556ceefdb738038fbf50d4d161d81bc448b6f69f09aab885eae95ac6727",
+      "url": "https://www.france24.com/en/video/20251118-drug-trafficking-donald-trump-says-he-is-okay-with-striking-mexico",
+      "title": "Drug trafficking: Donald Trump says he is 'okay' with striking Mexico",
+      "content_html": "US President #Trump says he’s open to launching strikes in #Mexico to stop cartels, vowing to take ‘whatever we have to do’ to halt drug trafficking, amid rising regional tensions.",
+      "date_published": "2025-11-18T15:52:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1751,22 +2332,6 @@
       "lang": "en"
     },
     {
-      "id": "ed5b6c68f4665a4e18cdeb83226df68502e962dcce3b24dfacf1b98277938808",
-      "url": "https://www.dw.com/en/munich-student-launches-startup-to-tackle-space-debris-crisis/a-74779937?maca=en-rss-en-all-1573-rdf",
-      "title": "Munich student launches startup to tackle space debris crisis",
-      "content_html": "A young student has taken on one of spaceflight's most urgent challenges: clearing Earth's orbit of debris. With his startup he aims to detect and remove the fragments before they threaten satellites and astronauts.",
-      "date_published": "2025-11-18T15:41:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b16d8c20ef160786957dd6d54be036af5bb57b08aa674ad25df86bb32455726a",
       "url": "https://www.dw.com/en/uk-plans-ban-on-ticket-resale-touts-in-bot-buying-era/a-74791364?maca=en-rss-en-all-1573-rdf",
       "title": "UK plans ban on ticket resale touts in bot-buying era",
@@ -1775,6 +2340,22 @@
       "authors": [],
       "tags": [
         "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ed5b6c68f4665a4e18cdeb83226df68502e962dcce3b24dfacf1b98277938808",
+      "url": "https://www.dw.com/en/munich-student-launches-startup-to-tackle-space-debris-crisis/a-74779937?maca=en-rss-en-all-1573-rdf",
+      "title": "Munich student launches startup to tackle space debris crisis",
+      "content_html": "A young student has taken on one of spaceflight's most urgent challenges: clearing Earth's orbit of debris. With his startup he aims to detect and remove the fragments before they threaten satellites and astronauts.",
+      "date_published": "2025-11-18T15:41:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
@@ -1941,6 +2522,26 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "f12717dba20569bf853fa0596cd80c947e6c697a4684a2417da4f1e3cb7046f9",
+      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20251118-wardrobe-crisis-resisting-ultra-fast-fashion-in-france",
+      "title": "Wardrobe crisis: Resisting ultra-fast fashion in France",
+      "content_html": "Could Shein be suspended in France? The Chinese giant is under growing scrutiny for selling controversial products, including childlike sex dolls and bladed weapons. The ultra-fast fashion brand has just opened its first physical store in the BHV, one of Paris's iconic department stores. French fashion brands denounce what they call unfair competition in an already weakened sector: one in two fashion retailers is facing serious financial difficulties, with 37,000 jobs lost in the last decade. We take a closer look.",
+      "date_published": "2025-11-18T15:14:04+00:00",
+      "authors": [
+        {
+          "name": "Aurore Cloé DUPUIS"
+        }
+      ],
+      "tags": [
+        "France in focus"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "23f0ee1ff953dd237658d0917160e763dcfca1fbdd8038a502809114e7267ff1",
@@ -2220,24 +2821,22 @@
       "lang": "en"
     },
     {
-      "id": "c00cabb4c64b8c6e652785bb28b5f422e20384d5479f12f59d3b481a5021b1e4",
-      "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20251118-ultra-fast-fashion-la-r%C3%A9sistance-s-organise",
-      "title": "Ultra fast-fashion : la résistance s'organise",
-      "content_html": "Sous le feu des critiques pour la vente de produits controversés comme des poupées pédophiles et des armes blanches, Shein risque d'être suspendu en France. Le roi de l'ultra fast-fashion vient d'ouvrir sa première boutique permanente au BHV à Paris, magasin ancestral de la mode française. Pour les marques de prêt-à-porter, c’est le coup de grâce : une concurrence jugée déloyale, dans un secteur déjà fragilisé. La moitié des commerces de mode sont en grande difficulté financière, selon les derniers chiffres de la chambre de commerce. En à peine 10 ans, 37,000 emplois ont disparu.",
-      "date_published": "2025-11-18T14:33:57+00:00",
+      "id": "fb94adb750e242d3319fea9c1025cf4cbfccdadb589faac95ac1cb3ca1f7b8e4",
+      "url": "https://www.france24.com/en/video/20251118-after-trump-reversal-us-house-pushes-forward-on-epstein-vote",
+      "title": "After Trump reversal, US House pushes forward on Epstein vote",
+      "content_html": "The Republican-controlled US House of Representatives will vote on Tuesday on forcing the release of investigative files on the late sex offender Jeffrey Epstein, with passage seen as all but guaranteed after President Donald Trump dropped his long-standing opposition. Trump's reversal late on Sunday came days after a House petition gathered enough support to force a vote, a rare instance of House Republicans defying the president's wishes. Charlotte Lam explains.",
+      "date_published": "2025-11-18T14:44:13+00:00",
       "authors": [
         {
-          "name": "Aurore Cloé DUPUIS"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "C'est en France"
-      ],
+      "tags": [],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "f58f69b768eb461ed93fc3a310dab6ba3d2eb33412b9bf624fe5b1985342f345",
@@ -2331,6 +2930,44 @@
       "lang": "fr"
     },
     {
+      "id": "7dd9e186f09986b30a22be986545dd85ca96a453f67e457c87e069a313e238d0",
+      "url": "https://www.france24.com/en/tv-shows/focus/20251118-electric-vehicles-in-china-beijing-expands-battery-recycling",
+      "title": "Electric vehicles in China: Beijing expands battery recycling",
+      "content_html": "China has some 36 million EVs (electric vehicles) on its roads. But their batteries don’t last forever. With the first generation of EVs coming to the end of their lifespans, Beijing now faces a new problem: how to recycle and reuse the thousands of EV batteries that are spread across the country? Our correspondents Jan Camenzind Broomby and Eudeline Boishult report.",
+      "date_published": "2025-11-18T14:21:04+00:00",
+      "authors": [
+        {
+          "name": "Jan CAMENZIND BROOMBY"
+        }
+      ],
+      "tags": [
+        "Focus"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e0f57a94dc3ea79aa9ea2214a08856e5903247d8efd80707f52cc44327ec6664",
+      "url": "https://www.france24.com/en/video/20251118-french-court-mulls-perrier-verdict-consumer-group-challenges-bottled-water-s-natural-label",
+      "title": "French court mulls Perrier verdict: Consumer group challenges bottled water’s “natural” label",
+      "content_html": "A French court will rule on Tuesday on whether Perrier must withdraw its bottled water from shelves, after consumer group UFC-Que Choisir sought an emergency intervention over what it alleges is deceptive marketing of the brand as \"natural\" mineral water.The move is the latest development in an ongoing scandal surrounding the Nestle owned brand since French media reported last year that Perrier and many other mineral water producers had been illegally treating their water to prevent contamination. France24 Environmental editor Valérie Dekimpe explains.",
+      "date_published": "2025-11-18T14:15:08+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "fb60b816cfb1af606a5855bd1ec35f8ad0a454111546aca1446a6f84650789ef",
       "url": "https://ici.radio-canada.ca/nouvelle/2208235/tensions-chine-japon-taiwan",
       "title": "Tokyo appelle ses ressortissants en Chine à la prudence",
@@ -2392,6 +3029,26 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "aac202ac3fee96bc951367e5f1834c1eed1e716856cf3b967a9f413f8568336b",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20251118-advent-calendars-what-to-expect-this-year-from-french-pastry-chefs",
+      "title": "Advent calendars: What to expect this year from French pastry chefs?",
+      "content_html": "Christmas is just around the corner, and what's Christmas without chocolate? In this edition of Entre Nous we're looking at the advent calendar – where does the tradition come from and what kind of chocolatey countdowns can we find on the shelves in France this year? Eugenie Pont from Fou de Pâtisserie magazine tells us everything we should be looking out for.",
+      "date_published": "2025-11-18T13:59:43+00:00",
+      "authors": [
+        {
+          "name": "Carys GARLAND"
+        }
+      ],
+      "tags": [
+        "Entre Nous"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2556,6 +3213,26 @@
       "lang": "en"
     },
     {
+      "id": "9de17b053d27c92beb14a381a6e6ab20191b1081cc287bc46b39880245fbb6b0",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20251118-irish-photographer-daragh-soden-on-being-drawn-to-the-world-of-drag-queens",
+      "title": "Irish photographer Daragh Soden on being drawn to the world of drag queens",
+      "content_html": "An Irish photographer has spoken to FRANCE 24 about his new exhibition here in Paris that raises questions about gender roles, identity and the relationships between those in the photographs and the photographer himself. Daragh Soden delves into the world of drag queens in photographs in which he often appears himself either as an admirer, a collaborator, a narcissist or a voyeur. He told us he was drawn to the world of drag queens both aesthetically and also conceptually. His exhibition is on display at the Irish Cultural Centre in Paris until Christmas. He spoke to us in Perspective.",
+      "date_published": "2025-11-18T13:33:43+00:00",
+      "authors": [
+        {
+          "name": "Stuart NORVAL"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "5369773ad0bda7d8508009f89710f589022399d020feccca4d0ec6da312ade9f",
       "url": "https://ici.radio-canada.ca/nouvelle/2208234/argent-wolinak-redistribution-cheque-federal",
       "title": "Les Abénakis de Wôlinak vont se séparer 130 millions de dollars entre eux",
@@ -2710,27 +3387,6 @@
       "lang": "en"
     },
     {
-      "id": "1aa4e97f75e4ec905a0bd5b94fc0d9b7fe51639f4f232ba4cc0ba202a585b0a6",
-      "url": "https://www.elmundo.es/internacional/2025/11/18/691c61c921efa09f218b45d4.html",
-      "title": "La Pologne désigne la Russie comme l'auteur du sabotage ferroviaire : deux auteurs ukrainiens présumés identifiés",
-      "content_html": "Varsovie espère que cette affaire alimentera la coordination européenne contre les opérations hostiles",
-      "date_published": "2025-11-18T13:07:29+00:00",
-      "authors": [
-        {
-          "name": "Xavier Colás"
-        }
-      ],
-      "tags": [
-        "Rusia",
-        "Polonia"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cacdfc3e9f611d18bccbc80fa3b84761c39a68acfb169300e0b8a8627234c88a",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/what-is-the-un-backed-plan-for-a-gaza-stabilisation-force?traffic_source=rss",
       "title": "What is the UN-backed plan for a Gaza stabilisation force?",
@@ -2759,6 +3415,26 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2309384446e235b79350f7a38ef6eea906b9c454adfd29c0e3cf601200dbba02",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20251118-parasocial-cambridge-dictionary-s-word-of-the-year",
+      "title": "'Parasocial': Cambridge Dictionary's word of the year",
+      "content_html": "PRESS REVIEW – Tuesday, November 18: Tensions escalate between the US and Venezuela, as Donald Trump refuses to rule out military intervention. The press are conflicted about which is the better option: war or diplomacy. In Britain, PM Keir Starmer's Labour government unveils what it calls the most sweeping asylum policy overhaul in modern times, which gets a seal of approval from one right-wing paper. Plus: we explain what Cambridge's word of the year, \"parasocial\", means!",
+      "date_published": "2025-11-18T13:03:05+00:00",
+      "authors": [
+        {
+          "name": "Dheepthika LAURENT"
+        }
+      ],
+      "tags": [
+        "Press Review"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3296,22 +3972,6 @@
       "lang": "en"
     },
     {
-      "id": "72e88798cc26636b93070e733058010f6e7a04989b61644f09febc9c56bfdac5",
-      "url": "https://www.aljazeera.com/gallery/2025/11/18/race-to-reopen-gaza-schools?traffic_source=rss",
-      "title": "Race to reopen Gaza schools",
-      "content_html": "The ceasefire has led to an urgent push to reopen classes for 600,000 Gaza children who have missed two years of school.",
-      "date_published": "2025-11-18T12:04:58+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "742e78b47b999d518c5016cba26c72c923a6175c0d1ed0ad3e4756d944447c3e",
       "url": "https://www.ukrinform.net/rubric-ato/4059999-russia-mobilizes-more-than-46000-ukrainians-from-occupied-territories-coordination-headquarters.html",
       "title": "Russia mobilizes more than 46,000 Ukrainians from occupied territories – Coordination Headquarters",
@@ -3413,22 +4073,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d751edfd8259e10f1f72a9f414b01e9c2bf216fa9f1e56a76360973df81dcb60",
-      "url": "https://www.aljazeera.com/news/2025/11/18/how-donald-trump-shifted-on-releasing-the-jeffrey-epstein-files?traffic_source=rss",
-      "title": "How Donald Trump shifted on releasing the Jeffrey Epstein files",
-      "content_html": "Trump called Epstein file demands a hoax but now urges Republicans to release them, saying he has nothing to hide.",
-      "date_published": "2025-11-18T11:38:58+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3637,61 +4281,6 @@
       "lang": "en"
     },
     {
-      "id": "552479842bda483413d05d70231dc78b3d18928d0d251e89a788c4fbbd5f63e9",
-      "url": "https://www.ukrinform.net/rubric-ato/4059984-explosions-heard-in-sumy-two-russian-drone-strikes-recorded.html",
-      "title": "Explosions heard in Sumy, two Russian drone strikes recorded",
-      "content_html": "As a result of a Russian drone attack on Sumy, two strikes on a non-residential area have been confirmed.",
-      "date_published": "2025-11-18T10:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "55923d79af744c74ecd5d2f19a60e7c2672201db7231190aa541c2abea8f6972",
-      "url": "https://www.ukrinform.net/rubric-ato/4059966-russian-forces-shell-kostiantynivka-with-artillery-one-person-wounded.html",
-      "title": "Russian forces shell Kostiantynivka with artillery, one person wounded",
-      "content_html": "In the Donetsk region, the Russian army shelled Kostiantynivka with tube artillery, resulting in a civilian being wounded.",
-      "date_published": "2025-11-18T10:48:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bf1ed1b47cc9034645c9744aa92fc25534e5fc27339340624eaa7fd0b4e20b98",
-      "url": "https://www.timesofisrael.com/us-lawmakers-set-for-vote-on-release-of-epstein-files/",
-      "title": "US lawmakers set for vote on release of Epstein files",
-      "content_html": "<p>House of Representatives all but certain to compel publication of unclassified documents detailing probe, after Trump reverses position amid revolt from Republican allies</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-lawmakers-set-for-vote-on-release-of-epstein-files/\">US lawmakers set for vote on release of Epstein files</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AFP__20251112__83UX29U__v2__HighRes__TopshotUsPoliticsTrumpEpstein-e1763457907293-1024x640.jpg\" title=\"US lawmakers set for vote on release of Epstein files\" width=\"160\" /></figure>",
-      "date_published": "2025-11-18T10:47:52+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Jeffrey Epstein",
-        "Donald Trump",
-        "Marjorie Taylor Greene",
-        "Mike Johnson",
-        "Bill Clinton",
-        "Ghislaine Maxwell",
-        "Republican Party"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4546e88d504a9331e5e56b95fdb23d259c3b6902106363b6d56a0e6923344fec",
       "url": "https://www.lemonde.fr/international/article/2025/11/18/l-administration-trump-entretient-le-doute-sur-ses-intentions-envers-le-venezuela_6653854_3210.html",
       "title": "L’administration Trump entretient le doute sur ses intentions envers le Venezuela",
@@ -3840,10 +4429,10 @@
       "lang": "fr"
     },
     {
-      "id": "5e3323964b302981ddaa4a2c03ccacce5f06dec1c51e6e24bbce9919fbb26f46",
-      "url": "https://ici.radio-canada.ca/nouvelle/2207450/industrie-forestiere-emplois-menaces-quebec",
-      "title": "Industrie forestière : les propos de Legault ont l’effet d’une « bombe »",
-      "content_html": "<p>Le premier ministre a évoqué la disparition possible de la moitié des emplois du secteur.</p>",
+      "id": "8f0ac48c2e7d5a9d774802c69d58b0182e33b2e4ee2419ed88eedad6cf21d2e5",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208133/avion-chasseur-lettre-commandant",
+      "title": "Avions de chasse : les défenseurs du F-35 lancent une riposte",
+      "content_html": "<p>Le Canada est au cœur d’une bataille entre des fabricants de chasseurs américains et suédois.</p>",
       "date_published": "2025-11-18T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3854,10 +4443,10 @@
       "lang": "fr"
     },
     {
-      "id": "8f0ac48c2e7d5a9d774802c69d58b0182e33b2e4ee2419ed88eedad6cf21d2e5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208133/avion-chasseur-lettre-commandant",
-      "title": "Avions de chasse : les défenseurs du F-35 lancent une riposte",
-      "content_html": "<p>Le Canada est au cœur d’une bataille entre des fabricants de chasseurs américains et suédois.</p>",
+      "id": "5e3323964b302981ddaa4a2c03ccacce5f06dec1c51e6e24bbce9919fbb26f46",
+      "url": "https://ici.radio-canada.ca/nouvelle/2207450/industrie-forestiere-emplois-menaces-quebec",
+      "title": "Industrie forestière : les propos de Legault ont l’effet d’une « bombe »",
+      "content_html": "<p>Le premier ministre a évoqué la disparition possible de la moitié des emplois du secteur.</p>",
       "date_published": "2025-11-18T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3948,22 +4537,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "e539616d592375bb81fc370fa19280b405018b4fa96e2c9edf82ddc14d09bd0a",
-      "url": "https://www.dw.com/en/germany-news-merz-urges-innovation-at-berlin-digital-summit/live-74785840?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany news: Merz urges innovation at Berlin digital summit",
-      "content_html": "Chancellor Friedrich Merz and France's Emmanuel Macron told a European \"digital sovereignty\" summit in Berlin that the continent cannot cede the crucial new tech fields to US and Chinese dominance. DW has more.",
-      "date_published": "2025-11-18T08:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "85c04a117522fcc4713a5d745d64ff853e53a01dbe3dfc2862fc4c39c1f8d271",
@@ -4635,7 +5208,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "49b71c2ef6a42d7842aa11380db0f373cb95451d5225374be7cb0184c847ab45",
@@ -4864,6 +5437,33 @@
       "lang": "en"
     },
     {
+      "id": "fa9fc2be288838bb992d19b4321a6808f2b0254db6982a82423bcc229cb467e1",
+      "url": "https://elpais.com/internacional/2025-11-17/trump-asegura-que-autorizara-la-publicacion-de-los-papeles-de-epstein-si-el-congreso-se-lo-pide.html",
+      "title": "Trump assure qu'il autorisera la publication des articles d'Epstein si le Congrès le lui demande",
+      "content_html": "Marjorie Taylor Greene prend la parole lors d'une conférence de presse pour exiger la publication des « Epstein Papers », encore inédits.À droite, Thomas Massie.",
+      "date_published": "2025-11-17T21:32:04+00:00",
+      "authors": [
+        {
+          "name": "Iker Seisdedos García"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Estados Unidos",
+        "Norteamérica",
+        "América",
+        "Casa Blanca",
+        "Washington D.C.",
+        "Partido Republicano EE UU",
+        "Política"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "e69da51efb59ab9c8740aa2af4f3cf5139da50176753dd3697b4c6e2961c8b97",
       "url": "https://ici.radio-canada.ca/nouvelle/2208128/abolition-peq-manifestations-quebec-montreal-immigration",
       "title": "Des centaines de personnes immigrantes dénoncent l’abolition du PEQ",
@@ -4891,7 +5491,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "1f6df1b29a4f5462df66b5ada0f20ede3ce9f2391b8b2a12409d64515c2b3121",
@@ -6111,22 +6711,6 @@
       "lang": "fr"
     },
     {
-      "id": "80f79f991bcc9267b0bcd2a074fd555058881712ac300fdbfca0f423f8165db7",
-      "url": "https://www.lefigaro.fr/international/en-roumanie-l-armee-francaise-hausse-la-garde-face-a-la-russie-le-recit-de-l-envoye-special-du-figaro-20251115",
-      "title": "En Roumanie, l’armée française hausse la garde face à la Russie : le récit de l’envoyé spécial du Figaro",
-      "content_html": "Le 29 octobre 2025, sur le camp militaire de Cincu, en Roumanie, les militaires du 68e régiment d’artillerie d’Afrique (68e RAA) et du 93e régiment d’artillerie de montagne (93e RAM) ont participé à l’exercice Eagle Fury.",
-      "date_published": "2025-11-17T08:02:33+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0adb43f7571f979ece16b4bb9273b03ac6b517ee1407ded78ee6fb1b299d6b8a",
       "url": "https://www.liberation.fr/international/moyen-orient/plan-de-paix-americain-a-gaza-le-conseil-de-securite-de-lonu-doit-se-prononcer-ce-lundi-20251117_XZZN7CXP4JGSLPUJ4KECAZM5Q4/",
       "title": "Plan de paix américain à Gaza : le Conseil de sécurité de l’ONU doit se prononcer ce lundi",
@@ -6340,6 +6924,43 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bc7cfe7f385d6fec39ba312536bc86b68cefe1594fad5fd80bc2c4b1bb871840",
+      "url": "https://elpais.com/internacional/2025-11-17/el-aumento-del-coste-de-la-vida-zarandea-la-politica-comercial-de-trump.html",
+      "title": "La hausse du coût de la vie ébranle le programme économique de Trump",
+      "content_html": "Un client se tient devant une glacière de dindes congelées dans un Walmart de Valley Stream, New York, le 6 novembre.",
+      "date_published": "2025-11-17T04:45:01+00:00",
+      "authors": [
+        {
+          "name": "Jesús-Sérvulo González Moreno"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Estados Unidos",
+        "Norteamérica",
+        "América",
+        "Casa Blanca",
+        "Washington D.C.",
+        "Partido Republicano EE UU",
+        "Política",
+        "Inflación",
+        "IPC",
+        "Vivienda",
+        "Mercado inmobiliario",
+        "Precio vivienda",
+        "Precio gasolina",
+        "Precios",
+        "Supermercados",
+        "Zohran Mamdani",
+        "Partido Demócrata EE UU"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -7385,22 +8006,6 @@
       "lang": "en"
     },
     {
-      "id": "a5c87e92d27979dbee7585ead19cbb269af48749f3e4df419df8d5b66307ea93",
-      "url": "https://www.lefigaro.fr/international/en-ukraine-la-mise-a-l-abri-de-statues-centenaires-temoins-de-l-histoire-ancestrale-20251115",
-      "title": "En Ukraine, la mise à l’abri de statues centenaires, témoins de l’héritage ancestral",
-      "content_html": "Les babas de pierre, représentant aussi bien des hommes que des femmes, prouvent que les Slaves ne furent pas les seuls habitants de ces terres.",
-      "date_published": "2025-11-15T10:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1f60e643402591f44abb159e9184c873d3b6bf4eb1526ada54cbf93b2e41068a",
       "url": "https://www.elmundo.es/internacional/2025/11/15/69183f95e9cf4a0a598b4578.html",
       "title": "La police suédoise déclare que l'accident de bus qui a tué trois personnes à Stockholm était un accident",
@@ -7576,51 +8181,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "584c026dde0f0cff1f1239a0a5c16a91780e50d09908594fa966b426045d3fd7",
-      "url": "https://www.elmundo.es/internacional/2025/11/15/691702c1e9cf4a8b6c8b458d.html",
-      "title": "Tropisme hémisphérique",
-      "content_html": "Les États-Unis se replient entre les deux mers qui les embrassent",
-      "date_published": "2025-11-14T23:00:35+00:00",
-      "authors": [
-        {
-          "name": "Ana Palacio"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Latinoamérica"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "1a201e4ad2debef7c3d419952f7902bbdb9fa2b738f49f3102b3f7a6421dc41e",
-      "url": "https://www.elmundo.es/internacional/2025/11/15/6917750e21efa087618b4589.html",
-      "title": "La violence perpétrée par de jeunes radicaux israéliens augmente en Cisjordanie",
-      "content_html": "Au moins 264 attaques contre des Palestiniens ont été enregistrées en octobre, selon les Nations Unies, mais la semaine dernière, il y a également eu des victimes israéliennes.",
-      "date_published": "2025-11-14T23:00:34+00:00",
-      "authors": [
-        {
-          "name": "Sal Emergui"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Cisjordania",
-        "Palestina",
-        "Guerra en Israel"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "d57a9985a2931f05e6accbb7390231fb8c1e444c219a0825888c9a4c7b39ee26",
