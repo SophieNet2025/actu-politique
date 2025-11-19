@@ -5,41 +5,81 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "77a5d152edfe25623bd49c96a3bf4c5c5635ac5ebdd2ef48d4ee4566f33e4fd1",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208474/ukraine-frappe-russie-turquie-negociations",
-      "title": "Ukraine : 25 morts dans une frappe russe et vains efforts diplomatiques en Turquie",
-      "content_html": "<p>Le président ukrainien est en Turquie pour tenter de relancer les négociations dans l&#x27;impasse avec la Russie. </p>",
-      "date_published": "2025-11-19T18:13:11+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a53a9d1d0a8ad2243a07250e51adc3f20bf21439923058716ee6a725d4b0c37b",
-      "url": "https://www.dw.com/en/china-reclaims-spot-as-top-german-trade-partner-from-us/a-74810237?maca=en-rss-en-all-1573-rdf",
-      "title": "China reclaims spot as top German trade partner from US",
-      "content_html": "China has edged back ahead as Germany's highest-volume trade partner, just a year after the US claimed the position. Exports, particularly of cars, to both core markets have dipped sharply amid tariff tussles.",
-      "date_published": "2025-11-19T18:12:00+00:00",
-      "authors": [],
+      "id": "5e2f2da4188941a0591b4e39f8955b9ecd4637de1c6da91bedd8836bab8c7a3d",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/19/shabana-mahmood-accused-ethnic-stereotyping-albania-pm",
+      "title": "Wes Streeting says he is not comfortable with forcibly deporting families",
+      "content_html": "<p>Health secretary defends asylum system shake-up as the right thing to do for the country despite his unease</p><p>Wes Streeting has admitted he is not comfortable with forcibly deporting families under the home secretary’s migration plans, while maintaining it is still the right thing to do.</p><p>The health secretary said he thought the number of forced removals would be low under the proposed model, which is similar to Denmark’s, because there would be an increased financial incentive for people entering the UK illegally to return to their country of origin.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/19/shabana-mahmood-accused-ethnic-stereotyping-albania-pm\">Continue reading...</a>",
+      "date_published": "2025-11-19T18:33:37+00:00",
+      "authors": [
+        {
+          "name": "Rajeev Syal and Rowena Mason"
+        }
+      ],
       "tags": [
-        "News"
+        "Immigration and asylum",
+        "Shabana Mahmood",
+        "Albania",
+        "Europe",
+        "Politics",
+        "UK news",
+        "World news",
+        "Labour",
+        "Refugees",
+        "Migration",
+        "Race"
       ],
       "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "20a37a93b64cdbd1a3bfa5e0c33475a75e366aad19f5ca3e180552af218a3cb3",
+      "url": "https://www.timesofisrael.com/wave-of-idf-strikes-hit-hezbollah-weapons-depots-in-south-lebanon-after-warnings/",
+      "title": "Wave of IDF strikes hit Hezbollah weapons depots in south Lebanon after warnings",
+      "content_html": "<p>Military accuses Hezbollah of 'blatant' ceasefire violation by restoring infrastructure in village of Beit Lif, says deal oversight mechanism did not address concerns</p>\n<p>The post <a href=\"https://www.timesofisrael.com/wave-of-idf-strikes-hit-hezbollah-weapons-depots-in-south-lebanon-after-warnings/\">Wave of IDF strikes hit Hezbollah weapons depots in south Lebanon after warnings</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/Dual-new-1-1-1024x640.jpeg\" title=\"Wave of IDF strikes hit Hezbollah weapons depots in south Lebanon after warnings\" width=\"160\" /></figure>",
+      "date_published": "2025-11-19T18:30:27+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2023-2024 Israel-Hezbollah conflict",
+        "southern Lebanon",
+        "Hezbollah",
+        "IDF Israel Defense Forces"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ee23ee7ab5c6e95d4ff736f96d4f0f7879843cf650454dcd0b66aa84380167b1",
+      "url": "https://www.france24.com/fr/afrique/20251119-portrait-momie-envo%C3%BBtant-intelligence-artificielle-pas-egypte-romaine",
+      "title": "Ce portrait “envoûtant” de momie ne date pas de l’Égypte romaine, il est généré par IA",
+      "content_html": "Une image présentée comme un \"portrait du Fayoum\", une effigie funéraire placée sur les momies de l'époque de l'Égypte romaine, est massivement partagée sur les réseaux sociaux. Il s'agit en réalité d'un faux généré par intelligence artificielle dont le style diffère sur plusieurs points de celui des véritables portraits.",
+      "date_published": "2025-11-19T18:26:36+00:00",
+      "authors": [
+        {
+          "name": "Les Observateurs"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "f10e74a8b2d52f84738e006062321f107fae970093a4f8b017fcfcad6d23bfe6",
       "url": "https://www.theguardian.com/environment/live/2025/nov/19/cop30-live-brazilian-president-lula-climate-summit-belem-latest-news-updates",
       "title": "Cop30 live: Brazil aims for early agreement on ‘big four’ issues",
       "content_html": "<p>In an unorthodox move, the Brazilian organisers have hatched a plan to wrap up the trickiest topics at the climate summit by this evening, two days earlier than normal</p><p>Mother Earth is watching over Cop30. “I am taking care to watch over all the decisions taken here about me,” she told the Guardian. The blessing card she presented said: “Knowing the powerful impact my thoughts can have on others and the environment, I choose to create a positive mindset.”</p><p>This beautiful vision is in everyday life Nazaré Oliveira, an indigenous woman from Belém, and a descendant of the Potyguar people. She is part of the international spiritual organisation <a href=\"https://www.brahmakumaris.com/\">Brahma Kumaris</a>, led by women and which uses meditation to emphasise the concept of identity as souls rather than bodies and the idea that humanity and nature are one.</p><p>This is my fifth COP. I’ve been around since COP26 in Glasgow and this has been the most militarised COP I’ve attended. We had really high expectations because I’m from Latin America, and this is also the Latin American COP – apart from the Amazonian and the Brazilian Cop.</p><p>So we had really high expectations of also being able to demonstrate, protest and exercise our right to the civic space. But we have encountered heavy militarisation and a heavy crackdown on civil society protesting outside the venue.</p><p>I think it’s very disconcerting. Like it was definitely a very racist letter where the UN seems to want to inflict power over the autonomous territory of Brazilian authorities.</p><p>I think this is a confrontation that is needed. What’s happening in between civil society, the military and the UN, it’s a reflection of the tension that exists within this space. So I hope for this COP that the United Nations authorities and the Brazilian authorities open their eyes and they realise that what they are doing, what they are inflicting with the militarisation of COP is completely opposite of what they have been preaching in the last three years.</p><p>Brazil knew that they wanted to host this COP since three years ago, probably even earlier. So the way that they are responding to it does not show that they were ready to receive all this flow of international civil society. So my hope is that they can release, relax the heavy militarization that they’re putting in the space and allow us to use the civic space to demonstrate.</p> <a href=\"https://www.theguardian.com/environment/live/2025/nov/19/cop30-live-brazilian-president-lula-climate-summit-belem-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-11-19T18:08:10+00:00",
+      "date_published": "2025-11-19T18:26:28+00:00",
       "authors": [
         {
           "name": "Dharna Noor (now) and Matthew Taylor (earlier)"
@@ -61,11 +101,210 @@
       "lang": "en"
     },
     {
+      "id": "f92b1af80a95570b513173e054d03ec66e56c2e40b282cdb962d256ab7e6bcba",
+      "url": "https://www.lefigaro.fr/international/il-y-a-du-positif-et-du-negatif-en-espagne-l-indulgence-des-jeunes-a-l-egard-du-franquisme-20251119",
+      "title": "«Il y a du positif et du négatif» : en Espagne, l’indulgence des jeunes à l’égard du franquisme",
+      "content_html": "Un nombre non négligeable d’Espagnols semblent voir au moins partiellement d’un bon œil le franquisme.",
+      "date_published": "2025-11-19T18:25:59+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8484e0238bdd96a58bd00eda068be17c35c16c78b5208544c4d76c40d6e23df6",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208496/victime-jacob-hoggard-jessica-baker",
+      "title": "La victime de Jacob Hoggard révèle son identité 3 ans après la condamnation du chanteur",
+      "content_html": "<p>«&nbsp;Je veux simplement que les gens sachent que je suis une personne réelle avec des sentiments&nbsp;», dit-elle.</p>",
+      "date_published": "2025-11-19T18:22:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e00550b882e0645f4d18429aa42bc2aa27d7bd320d0e1d1a69631153a87f69a7",
+      "url": "https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates",
+      "title": "Death toll from Russian attack rises to 25 as Ukraine says it will raise issue at UN – as it happened",
+      "content_html": "<p>Ukraine to raise the overnight attack on Ternopil, in which more than 70 people were injured, at the security council tomorrow</p><p><strong>The Dutch economy minister said he had moved to take effective control of Nexperia to ensure Europe was not locked out of chip production “in an emergency”.</strong></p><p>He said <strong>the decision to lift the legal move to prevent Nexperia from moving intellectual property and physical assets from its European factory in Hamburg and its corporate headquarters in Nijmegen was the “right step”</strong> after consultation with the European Commission and others.</p><p><em>“The Netherlands has considered it <strong>the right moment to take a constructive step</strong> by suspending the order under the Goods Availability Act, in close consultation with European and international partners. The Netherlands will continue to engage in constructive dialogue with the Chinese authorities in the period ahead.”</em></p> <a href=\"https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-11-19T18:22:13+00:00",
+      "authors": [
+        {
+          "name": "Vivian Ho (now); Jakub Krupa(earlier)"
+        }
+      ],
+      "tags": [
+        "Europe",
+        "Ukraine",
+        "Poland",
+        "Germany",
+        "Donald Tusk",
+        "Friedrich Merz",
+        "Sweden",
+        "Turkey",
+        "Volodymyr Zelenskyy",
+        "Recep Tayyip Erdoğan",
+        "Russia",
+        "Vladimir Putin",
+        "Yvette Cooper",
+        "European Union"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "95b6fd01c98f63eb129a12871245f477b78c9dc895bf34b594935b3333ef408e",
+      "url": "https://www.dw.com/en/at-least-10-killed-in-israeli-strikes-on-gaza-reports/a-74812251?maca=en-rss-en-all-1573-rdf",
+      "title": "At least 10 killed in Israeli strikes on Gaza — reports",
+      "content_html": "Israel and the Hamas militant group have traded accusations of violating a US-brokered truce that came into effect on October 10.",
+      "date_published": "2025-11-19T18:18:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "77a5d152edfe25623bd49c96a3bf4c5c5635ac5ebdd2ef48d4ee4566f33e4fd1",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208474/ukraine-frappe-russie-turquie-negociations",
+      "title": "Ukraine : 25 morts dans une frappe russe et vains efforts diplomatiques en Turquie",
+      "content_html": "<p>Le président ukrainien est en Turquie pour tenter de relancer les négociations dans l&#x27;impasse avec la Russie. </p>",
+      "date_published": "2025-11-19T18:13:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "97f996dc9fa8f432f81960170492f27af7dbf096b547d985eea96c7b81a11304",
+      "url": "https://www.france24.com/fr/sports/20251119-meilleur-joueur-meilleure-selection-palmares-caf-awards-2025",
+      "title": "Le Maroc en force : découvrez le palmarès complet des CAF Awards 2025",
+      "content_html": "La cérémonie des CAF Awards 2025 bat son plein à Rabat, au Maroc. Comme chaque année, la prestigieuse cérémonie du football africain récompense les plus grands talents du continent africain. Retrouvez ici tous les lauréats de la cuvée 2025.",
+      "date_published": "2025-11-19T18:12:07+00:00",
+      "authors": [
+        {
+          "name": "Romain HOUEIX"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a53a9d1d0a8ad2243a07250e51adc3f20bf21439923058716ee6a725d4b0c37b",
+      "url": "https://www.dw.com/en/china-reclaims-spot-as-top-german-trade-partner-from-us/a-74810237?maca=en-rss-en-all-1573-rdf",
+      "title": "China reclaims spot as top German trade partner from US",
+      "content_html": "China has edged back ahead as Germany's highest-volume trade partner, just a year after the US claimed the position. Exports, particularly of cars, to both core markets have dipped sharply amid tariff tussles.",
+      "date_published": "2025-11-19T18:12:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d8ff8b26486252782d094d24109113f340c273edf7453209f80e708e4a51d63e",
+      "url": "https://www.ukrinform.net/rubric-ato/4060599-cinc-syrskyi-visits-pokrovsk-front-ukrainian-forces-strike-russian-logistics-inflict-heavy-losses.html",
+      "title": "CinC Syrskyi visits Pokrovsk front: Ukrainian forces strike Russian logistics, inflict heavy losses",
+      "content_html": "Units of the Armed Forces of Ukraine and other components of the Defense Forces continue to carry out missions in the Pokrovsk-Myronhrad agglomeration area.",
+      "date_published": "2025-11-19T18:12:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f40a97c274d573960201140348355152694c44c3d91d187393481f666f1f611d",
+      "url": "https://www.theguardian.com/media/2025/nov/19/peers-independent-body-control-telegraph-sale",
+      "title": "Peers call for independent body to take control of Telegraph sale",
+      "content_html": "<p>Lords say culture department has mishandled process and suggest Cabinet Office or CMA oversee new auction</p><p>The government has been urged to take control of the sale of the Telegraph through an auction run by a body such as the UK competition regulator or the Cabinet Office.</p><p>Peers called on the culture secretary, Lisa Nandy, to wrest the sale process from RedBird IMI, which is majority funded by the United Arab Emirates, in questions put to Labour minister Fiona Twycross in the House of Lords on Wednesday.</p> <a href=\"https://www.theguardian.com/media/2025/nov/19/peers-independent-body-control-telegraph-sale\">Continue reading...</a>",
+      "date_published": "2025-11-19T18:10:59+00:00",
+      "authors": [
+        {
+          "name": "Mark Sweney"
+        }
+      ],
+      "tags": [
+        "Telegraph Media Group",
+        "Media",
+        "National newspapers",
+        "Newspapers",
+        "Newspapers & magazines",
+        "Business",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dcb873c7743461df6f6dcc22728e5526732c0838a42b0478a348221f3946e463",
+      "url": "https://www.theguardian.com/world/2025/nov/19/ryan-wedding-olympics-murder-drug-trafficking",
+      "title": "US charges ex-Olympic snowboarder turned drug kingpin with murder of witness",
+      "content_html": "<p>Unsealed indictment says Ryan Wedding tracked down witness who was then murdered before he could testify</p><p>US authorities have charged a fugitive former Canadian Olympic snowboarder turned drug kingpin with the murder of a witness who was prepared to testify against him.</p><p>The attorney general, <a href=\"https://www.theguardian.com/us-news/pam-bondi\">Pam Bondi</a>, said on Wednesday that Ryan Wedding was accused in a newly unsealed indictment of tracking down a witness in Colombia who was then murdered before he could give evidence.</p> <a href=\"https://www.theguardian.com/world/2025/nov/19/ryan-wedding-olympics-murder-drug-trafficking\">Continue reading...</a>",
+      "date_published": "2025-11-19T18:08:18+00:00",
+      "authors": [
+        {
+          "name": "Leyland Cecco in Toronto"
+        }
+      ],
+      "tags": [
+        "Canada",
+        "Mexico",
+        "Drugs",
+        "Drugs trade",
+        "Snowboarding",
+        "Olympic Games",
+        "Americas",
+        "US news",
+        "Pam Bondi"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "deb5f1c6f612a1bce778a08a3941ad37312ebcebf5accd89ad45bfd19756fd4b",
       "url": "https://www.lemonde.fr/international/article/2025/11/19/au-danemark-revers-electoral-pour-les-sociaux-democrates-de-mette-frederiksen_6654060_3210.html",
       "title": "Au Danemark, revers électoral pour les sociaux-démocrates de Mette Frederiksen",
       "content_html": "Mette Frederiksen, première ministre danoise, à Copenhague, le 18 novembre 2025.",
-      "date_published": "2025-11-19T18:08:05+00:00",
+      "date_published": "2025-11-19T18:08:00+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -75,10 +314,26 @@
       "lang": "fr"
     },
     {
+      "id": "bf0ecd6a8f65ee93a7a10c57f73701ec999a47ee547103fe7f191258d4c3040c",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/nigerian-military-intensifies-search-for-kidnapped-schoolgirls?traffic_source=rss",
+      "title": "Nigerian military intensifies search for kidnapped schoolgirls",
+      "content_html": "Two days after they were abducted from their beds by armed attackers, 24 Nigerian schoolgirls are still missing.",
+      "date_published": "2025-11-19T18:05:32+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "b2a5bbd9725b25aaea899fcaa2c2a9f46bcdb239042721be9c372fee9fb83f7f",
       "url": "https://www.theguardian.com/politics/2025/nov/19/nigel-farage-allegations-racist-behaviour-school",
       "title": "‘He used to say things like “Hitler was right”’: Farage faces more allegations of racist behaviour at school",
-      "content_html": "<p>A former friend and others who were at Dulwich college with the now Reform UK leader speak of his behaviour</p><ul><li><p><a href=\"https://www.theguardian.com/politics/ng-interactive/2025/nov/18/deeply-shocking-nigel-farage-faces-fresh-claims-of-racism-and-antisemitism-at-school\"><strong>‘Deeply shocking’: Nigel Farage faces fresh claims of racism and antisemitism at school</strong></a></p></li></ul><p>It had been a fun sleep-over at Nigel Farage’s house and Jean-Pierre Lihou, a teenager with an appetite, was delighted with his schoolfriend’s mother’s hospitality. “I remember the fantastic cooked English breakfast, as opposed to what you get at a boarding house on a morning,” Lihou recalled. “I was a boarder and he was a day boy,” he said of their education at Dulwich college in south-east London.</p><p>Farage was a great mimic, and funny with it, Lihou said. But, over time, he found that there was a darker side to his 14-year-old friend.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/19/nigel-farage-allegations-racist-behaviour-school\">Continue reading...</a>",
+      "content_html": "<p>A former friend and others who were at Dulwich college with the now Reform UK leader speak of his behaviour</p><ul><li><p><a href=\"https://www.theguardian.com/politics/ng-interactive/2025/nov/18/deeply-shocking-nigel-farage-faces-fresh-claims-of-racism-and-antisemitism-at-school\"><strong>‘Deeply shocking’: Nigel Farage faces fresh claims of racism and antisemitism at school</strong></a></p></li></ul><p>It had been a fun sleepover at Nigel Farage’s house and Jean-Pierre Lihou, a teenager with an appetite, was delighted with his schoolfriend’s mother’s hospitality. “I remember the fantastic cooked English breakfast, as opposed to what you get at a boarding house on a morning,” Lihou recalled. “I was a boarder and he was a day boy,” he said of their education at Dulwich college in south-east London.</p><p>Farage was a great mimic, and funny with it, Lihou said. But over time he found there was a darker side to his 14-year-old friend.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/19/nigel-farage-allegations-racist-behaviour-school\">Continue reading...</a>",
       "date_published": "2025-11-19T18:04:21+00:00",
       "authors": [
         {
@@ -88,11 +343,10 @@
       "tags": [
         "Nigel Farage",
         "Reform UK",
-        "London",
         "Antisemitism",
         "Race",
-        "UK news",
-        "Politics"
+        "Politics",
+        "UK news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -162,42 +416,9 @@
       "lang": "en"
     },
     {
-      "id": "e00550b882e0645f4d18429aa42bc2aa27d7bd320d0e1d1a69631153a87f69a7",
-      "url": "https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates",
-      "title": "Death toll from Russian attack rises to 25 as Ukraine says it will raise issue at UN – Europe live",
-      "content_html": "<p>Ukraine to raise the overnight attack on Ternopil, in which more than 70 people were injured, at the security council tomorrow</p><p><strong>The Dutch economy minister said he had moved to take effective control of Nexperia to ensure Europe was not locked out of chip production “in an emergency”.</strong></p><p>He said <strong>the decision to lift the legal move to prevent Nexperia from moving intellectual property and physical assets from its European factory in Hamburg and its corporate headquarters in Nijmegen was the “right step”</strong> after consultation with the European Commission and others.</p><p><em>“The Netherlands has considered it <strong>the right moment to take a constructive step</strong> by suspending the order under the Goods Availability Act, in close consultation with European and international partners. The Netherlands will continue to engage in constructive dialogue with the Chinese authorities in the period ahead.”</em></p> <a href=\"https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-11-19T17:59:36+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa (now); Vivian Ho (earlier)"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "Ukraine",
-        "Poland",
-        "Germany",
-        "Donald Tusk",
-        "Friedrich Merz",
-        "Sweden",
-        "Turkey",
-        "Volodymyr Zelenskyy",
-        "Recep Tayyip Erdoğan",
-        "Russia",
-        "Vladimir Putin",
-        "Yvette Cooper",
-        "European Union"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "be0653d47dedf821622b6f111a6361c068c59d0d960e4dd82531edcffbf3b26c",
       "url": "https://ici.radio-canada.ca/nouvelle/2208521/ryan-wedding-tueurs-gage-temoins",
-      "title": "Le « Pablo Escobar » canadien à la tête d’un réseau international de tueurs à gage",
+      "title": "Le « Pablo Escobar » canadien à la tête d’un réseau international de tueurs à gages",
       "content_html": "<p>Selon les autorités américaines, Ryan Wedding emploie des tueurs pour faire taire des délateurs.</p>",
       "date_published": "2025-11-19T17:59:09+00:00",
       "authors": [],
@@ -232,8 +453,8 @@
     {
       "id": "3e9ce05aeb8b31432f702e1ab2689687926a5328a3f0b49b2ef6acf59caae0db",
       "url": "https://www.theguardian.com/world/2025/nov/19/rome-decries-italian-sounding-pasta-sauces-on-sale-in-eu-parliament-store",
-      "title": "Rome decries ‘Italian sounding’ pasta sauces on sale in EU parliament store",
-      "content_html": "<p>Agriculture minister calls for immediate investigation over carbonara sauce containing the wrong type of cured meat</p><p>Italy’s agriculture minister, Francesco Lollobrigida, has called for an immediate investigation after coming across what he claimed were jars of “Italian sounding” pasta sauce on the shelves of the European parliament’s supermarket.</p><p>Lollobrigida, of Giorgia Meloni’s Brothers of Italy party, was particularly vexed by a carbonara sauce made with “<em>Italiaanse pancetta</em>” – the classic Roman pasta dish is made with a different cured meat, guanciale – and a tomato sauce containing “<em>oignons de Calabria</em>”, or onions from Calabria.</p> <a href=\"https://www.theguardian.com/world/2025/nov/19/rome-decries-italian-sounding-pasta-sauces-on-sale-in-eu-parliament-store\">Continue reading...</a>",
+      "title": "Rome decries ‘Italian-sounding’ pasta sauces on sale in EU parliament store",
+      "content_html": "<p>Agriculture minister calls for investigation over marketing of carbonara sauce containing wrong type of cured meat</p><p>Italy’s agriculture minister, Francesco Lollobrigida, has called for an immediate investigation after coming across what he claimed were jars of “Italian-sounding” pasta sauce on the shelves of the European parliament’s supermarket.</p><p>Lollobrigida, of Giorgia Meloni’s Brothers of Italy party, was particularly vexed by a carbonara sauce made with “<em>Italiaanse pancetta</em>” – the classic Roman pasta dish is made with a different cured meat, guanciale – and a tomato sauce containing “<em>oignons de Calabria</em>”, or onions from Calabria.</p> <a href=\"https://www.theguardian.com/world/2025/nov/19/rome-decries-italian-sounding-pasta-sauces-on-sale-in-eu-parliament-store\">Continue reading...</a>",
       "date_published": "2025-11-19T17:57:08+00:00",
       "authors": [
         {
@@ -255,6 +476,22 @@
       "lang": "en"
     },
     {
+      "id": "9adaafe6d6be6df22380e89feb7bb292ae811c0549acdf89e782fcf10961a151",
+      "url": "https://www.aljazeera.com/news/2025/11/19/in-colombia-petro-fends-off-criticism-over-killing-of-child-rebel-recruits?traffic_source=rss",
+      "title": "In Colombia, Petro fends off criticism over killing of child rebel recruits",
+      "content_html": "Armed groups have increased their recruitment of minors under 18. Should the government be responsible for their deaths?",
+      "date_published": "2025-11-19T17:56:36+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "f075ed8f6046aaa8b72e158edcef6cc6f682aef5d8bdb1abe1e2e5e17f185610",
       "url": "https://www.theguardian.com/us-news/2025/nov/19/three-mile-island-nuclear-loan-microsoft-datacenter",
       "title": "Trump officials announce $1bn loan to restart Three Mile Island nuclear plant",
@@ -266,12 +503,13 @@
         }
       ],
       "tags": [
-        "US news",
         "Pennsylvania",
         "Trump administration",
-        "Nuclear power",
         "Microsoft",
-        "Technology"
+        "Nuclear power",
+        "Energy",
+        "Technology",
+        "US news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -452,20 +690,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "8484e0238bdd96a58bd00eda068be17c35c16c78b5208544c4d76c40d6e23df6",
-      "url": "https://ici.radio-canada.ca/nouvelle/2208496/victime-jacob-hoggard-jessica-baker",
-      "title": "La victime de Jacob Hoggard révèle son identité 3 ans après la condamnation du chanteur",
-      "content_html": "<p>«&nbsp;Je veux simplement que les gens sachent que je suis une personne réelle avec des sentiments&nbsp;», dit-elle.</p>",
-      "date_published": "2025-11-19T17:32:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "f26e627cf62ee0de21af84f7cfcdbb71d0fc40fcb7f66bad3549b678825ceeb3",
@@ -874,7 +1098,7 @@
       "url": "https://www.lemonde.fr/planete/article/2025/11/19/les-pays-de-l-ue-approuvent-un-report-d-un-an-de-l-application-de-la-loi-contre-la-deforestation_6654049_3244.html",
       "title": "Les pays de l’UE approuvent un report d’un an de l’application de la loi contre la déforestation",
       "content_html": "Une parcelle de terrain où des résineux ont été abattus par des bûcherons, dans le parc naturel régional du Morvan, à Brassy (Nièvre), le 3 septembre 2021.",
-      "date_published": "2025-11-19T17:06:40+00:00",
+      "date_published": "2025-11-19T17:06:39+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -983,32 +1207,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "4e806ff40142549d3651ac77c9cf69e2795f314b3e842747cf2a03edbc6c5998",
-      "url": "https://www.theguardian.com/politics/2025/nov/19/reform-uk-councillor-suspended-over-whatsapp-group-featuring-extremist-posts",
-      "title": "Reform UK councillor suspended over WhatsApp group featuring extremist posts",
-      "content_html": "<p>Tom Pickup confirms he was member of group in which one participant allegedly called for ‘mass Islam genocide’ </p><p>A Reform UK councillor has been suspended for participating in a WhatsApp group where members allegedly called for a “mass Islam genocide”.</p><p>Tom Pickup, who was elected to Lancashire county council in May, confirmed to the Guardian he was a member of the group set up by a rightwing activist.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/19/reform-uk-councillor-suspended-over-whatsapp-group-featuring-extremist-posts\">Continue reading...</a>",
-      "date_published": "2025-11-19T16:58:14+00:00",
-      "authors": [
-        {
-          "name": "Josh Halliday North of England editor"
-        }
-      ],
-      "tags": [
-        "Reform UK",
-        "Politics",
-        "Lancashire",
-        "North of England",
-        "England",
-        "Local government",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "9adaec9a93b80e0c5f308e0eb4bde88a6fd00e9b17e7361bc043805a84615600",
@@ -2047,29 +2245,6 @@
       "lang": "fr"
     },
     {
-      "id": "956306559ebf031fad817e4355f0a9e44691ae204acbc320bf85ef6b6a110395",
-      "url": "https://www.theguardian.com/world/2025/nov/19/eu-european-commission-plan-armed-forces-mobility-security",
-      "title": "Plan to speed tanks and armies across Europe in case of war with Russia",
-      "content_html": "<p>European Commission seeks to ease rules on cross-border movements to create ‘military Schengen’ zone</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>The EU executive has pledged to ease red tape to speed up the movement of European armies and tanks across the continent, describing it as “a critical insurance policy for European security”.</p><p>A military mobility plan announced by the European Commission on Wednesday is part of an effort to ensure Europe is <a href=\"https://www.theguardian.com/world/2025/mar/19/eu-loans-scheme-europe-defence-invasion-russia-ukraine\">ready to defend itself by 2030</a>, in line with warnings from security services that Russia could be able to attack an EU member state <a href=\"https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence\">within five years</a>.</p> <a href=\"https://www.theguardian.com/world/2025/nov/19/eu-european-commission-plan-armed-forces-mobility-security\">Continue reading...</a>",
-      "date_published": "2025-11-19T15:46:39+00:00",
-      "authors": [
-        {
-          "name": "Jennifer Rankin in Brussels"
-        }
-      ],
-      "tags": [
-        "European Union",
-        "European Commission",
-        "Europe",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fabd5e8daa0d83ad032b4912caa3a4a4ee3abd13e5d77519de96b5a2130c3db7",
       "url": "https://www.france24.com/en/video/20251119-lula-returns-in-belem-to-un-cop30-talks-unlock-negociations",
       "title": "Lula returns in Belem to UN COP30 talks unlock negociations",
@@ -2181,24 +2356,6 @@
       "lang": "en"
     },
     {
-      "id": "01e6841a85fcd45f6b30a5873c8f5914558334796154cc9a981183e4371d9dc3",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251119-153-palestiniens-arrivent-%C3%A0-johannesburg-personne-ne-sait-qui-a-affr%C3%A9t%C3%A9-l-avion",
-      "title": "153 Palestiniens arrivent à Johannesburg, personne ne sait qui a affrété l'avion",
-      "content_html": "En Afrique du Sud, une enquête a été ouverte sur l’arrivée d’un avion, le 13 novembre dernier, avec à son bord plus de 153 Palestiniens. Personne ne sait qui a affrété cet appareil, mais plusieurs investigations sont en cours dans le pays. Les détails avec notre correspondante Caroline Dumay.",
-      "date_published": "2025-11-19T15:35:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "79128d1f6f8a572eb84dbf7ea71a219a182c4316844e9634881b34bd07cc716b",
       "url": "https://www.lemonde.fr/international/article/2025/11/19/pres-d-une-femme-sur-trois-a-subi-des-violences-conjugales-ou-sexuelles-dans-sa-vie-soit-environ-840-millions-dans-le-monde-selon-l-oms_6654035_3210.html",
       "title": "Près d’une femme sur trois a subi des violences conjugales ou sexuelles dans sa vie, soit environ 840 millions dans le monde, selon l’OMS",
@@ -2259,26 +2416,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "cd763409ce1f5def580e7cd6daf6d8183c853b51fbaf5ddb45bcd07dc0bf2d84",
-      "url": "https://www.france24.com/fr/france/20251119-la-directrice-du-louvre-annonce-l-installation-d-un-poste-de-police-mobile",
-      "title": "La directrice du Louvre annonce l'installation d'un poste de police \"mobile\"",
-      "content_html": "Un poste de police \"mobile\" va être installé au sein \"du domaine\" du Louvre, a annoncé mercredi sa présidente-directrice, Laurence des Cars, parmi \"plus d’une vingtaine\" de mesures d'urgence, qui seront déployées \"dans les prochains jours, dès ce mois de décembre\".",
-      "date_published": "2025-11-19T15:29:01+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "f36ed7e164672ac00bf06f786b90e8f3c68ae9c8a870c9c28322243b11c7f69d",
@@ -2930,29 +3067,6 @@
       "lang": "fr"
     },
     {
-      "id": "ff7e4ffa1cdc5f1b1fd5c70138585f3331d4daa40f9bbe8980cc9718ef474b41",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/19/diagnosed-breast-cancer-months-after-clear-mammogram-new-australian-guidelines-density",
-      "title": "Krysty was diagnosed with breast cancer months after getting the all-clear. New Australian guidelines aim to help women like her",
-      "content_html": "<p><strong>Exclusive: </strong>New federal guidelines advise GPs to provide additional care to patients with higher breast density, which can make cancers harder to detect in mammograms</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>When Krysty Sullivan had a routine mammogram in 2019, she was given the all-clear.</p><p>Eleven months later, she felt a lump.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/19/diagnosed-breast-cancer-months-after-clear-mammogram-new-australian-guidelines-density\">Continue reading...</a>",
-      "date_published": "2025-11-19T14:00:42+00:00",
-      "authors": [
-        {
-          "name": "Melissa Davey Medical editor"
-        }
-      ],
-      "tags": [
-        "Health",
-        "Breast cancer",
-        "Cancer",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d5ba6aa8430a259adab3bde90327aede6deca9bd4409fbec87f664fc8c257716",
       "url": "https://www.theguardian.com/environment/2025/nov/19/australia-deforestation-hidden-official-figures-conservationists-report",
       "title": "Researchers say real impact of deforestation being hidden in Australia’s official figures by ‘sleight of hand’",
@@ -2971,6 +3085,29 @@
         "Conservation",
         "Trees and forests",
         "Australian politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ff7e4ffa1cdc5f1b1fd5c70138585f3331d4daa40f9bbe8980cc9718ef474b41",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/19/diagnosed-breast-cancer-months-after-clear-mammogram-new-australian-guidelines-density",
+      "title": "Krysty was diagnosed with breast cancer months after getting the all-clear. New Australian guidelines aim to help women like her",
+      "content_html": "<p><strong>Exclusive: </strong>New federal guidelines advise GPs to provide additional care to patients with higher breast density, which can make cancers harder to detect in mammograms</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>When Krysty Sullivan had a routine mammogram in 2019, she was given the all-clear.</p><p>Eleven months later, she felt a lump.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/19/diagnosed-breast-cancer-months-after-clear-mammogram-new-australian-guidelines-density\">Continue reading...</a>",
+      "date_published": "2025-11-19T14:00:42+00:00",
+      "authors": [
+        {
+          "name": "Melissa Davey Medical editor"
+        }
+      ],
+      "tags": [
+        "Health",
+        "Breast cancer",
+        "Cancer",
+        "Australia news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -3259,22 +3396,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "f92b1af80a95570b513173e054d03ec66e56c2e40b282cdb962d256ab7e6bcba",
-      "url": "https://www.lefigaro.fr/international/il-y-a-du-positif-et-du-negatif-en-espagne-l-indulgence-des-jeunes-a-l-egard-du-franquisme-20251119",
-      "title": "«Il y a du positif et du négatif» : en Espagne, l’indulgence des jeunes à l’égard du franquisme",
-      "content_html": "Un nombre non négligeable d’Espagnols semblent voir au moins partiellement d’un bon œil le franquisme.",
-      "date_published": "2025-11-19T13:34:38+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "e4614accc138d6e04b81324cb5581863aae87b6205b894ff29589bbeee5fa8a9",
@@ -3829,30 +3950,6 @@
       "lang": "fr"
     },
     {
-      "id": "8a1d325233bfa762a9f0e93c8a14e51cc4ed2811d14c673cfaa183c2c533938b",
-      "url": "https://www.timesofisrael.com/daily-briefing-nov-19-day-775-mbs-meeting-with-trump-elevates-saudi-arabias-ally-status/",
-      "title": "Daily Briefing Nov. 19: Day 775 – MBS meeting with Trump elevates Saudi Arabia’s ally status",
-      "content_html": "<p>US bureau chief Jacob Magid discusses Saudi crown prince's White House visit, the UN Security Council vote on Gaza, and his interview with Marwan Barghouti's wife, a first for Israeli media</p>\n<p>The post <a href=\"https://www.timesofisrael.com/daily-briefing-nov-19-day-775-mbs-meeting-with-trump-elevates-saudi-arabias-ally-status/\">Daily Briefing Nov. 19: Day 775 &#8211; MBS meeting with Trump elevates Saudi Arabia&#8217;s ally status</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AP25322664163475-1024x640.jpg\" title=\"Daily Briefing Nov. 19: Day 775 &#8211; MBS meeting with Trump elevates Saudi Arabia&#8217;s ally status\" width=\"160\" /></figure>",
-      "date_published": "2025-11-19T11:53:46+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "The Daily Briefing",
-        "podcasts",
-        "Times of Israel podcasts",
-        "2023-2025 Israel-Hamas war",
-        "US Central Command CENTCOM",
-        "ceasefires",
-        "Donald Trump",
-        "Jared Kushner"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8c7a2cd425dfc6671ce2934fa1358b8ddd89613b5efa00aac7b4728c3846638e",
       "url": "https://www.lemonde.fr/international/article/2025/11/19/nicolas-guillou-juge-francais-de-la-cpi-sanctionne-par-les-etats-unis-face-aux-attaques-les-magistrats-de-la-cour-tiendront_6654016_3210.html",
       "title": "La vie de Nicolas Guillou, juge français de la CPI sous sanctions des Etats-Unis : « Vous êtes interdit bancaire sur une bonne partie de la planète »",
@@ -4021,22 +4118,6 @@
       "lang": "fr"
     },
     {
-      "id": "f7cdda90d5608486793af7fee242aa06548c43c7105bce21287e61d584110716",
-      "url": "https://www.aljazeera.com/news/2025/11/19/poland-to-close-last-russian-consulate-over-unprecedented-act-of-sabotage?traffic_source=rss",
-      "title": "Poland to close last Russian consulate over ‘unprecedented act of sabotage’",
-      "content_html": "Moscow accuses Poland of Russophobia, pledges to respond by reducing Polish diplomatic and consular presence in Russia.",
-      "date_published": "2025-11-19T11:05:34+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "35f745497f63f2bec6b566dc1cce354dea51dcee84a9c349c8471a3803f2d35a",
       "url": "https://www.dw.com/en/what-did-germany-s-chancellor-say-to-make-brazil-so-upset/a-74803781?maca=en-rss-en-all-1573-rdf",
       "title": "What did Germany's chancellor say to make Brazil so upset?",
@@ -4127,22 +4208,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "50cec0f07a5ab9734d5bcc9269f6cdc74524e4df250b313488d6224e63f89f9c",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/israeli-air-strike-on-lebanon-refugee-camp-kills-13-people?traffic_source=rss",
-      "title": "Israeli air strike on Lebanon refugee camp kills 13 people",
-      "content_html": "An Israeli airstrike on the Ein el-Hilweh Palestinian refugee camp in southern Lebanon killed at least 13 people.",
-      "date_published": "2025-11-19T10:39:23+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4500,22 +4565,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "1eadbfeb7ae909a33b4ff1719e6df8b4cbd642b1d55d7a1db003b7e7c95803dc",
-      "url": "https://www.ukrinform.net/rubric-ato/4060354-russian-attack-on-ternopil-death-toll-climbs-to-10-37-wounded-including-12-children.html",
-      "title": "Russian attack on Ternopil: Death toll climbs to 10, 37 wounded, including 12 children",
-      "content_html": "In Ternopil, the death toll from the Russian strike has increased to 10 people, with 37 people wounded, including 12 children.",
-      "date_published": "2025-11-19T09:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "754ccec41172801475d583fc2fb6f2d0706c58c4aa5306f1461119b2068ee676",
@@ -4918,22 +4967,6 @@
       "lang": "fr"
     },
     {
-      "id": "3b921bc474d88cf79614a89e2b971a5392ef6d6ca27224dd49998a2d78de05b5",
-      "url": "https://www.dw.com/en/japan-fire-forces-170-buildings-to-evacuate-one-missing/a-74798967?maca=en-rss-en-all-1573-rdf",
-      "title": "Japan: Fire forces 170 buildings to evacuate, one missing",
-      "content_html": "Scores of residents were forced to evacuate as the blaze neared Oita on the southern island of Kyushu. The cause of the fire is not yet known.",
-      "date_published": "2025-11-19T04:14:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a5371aed62ee3f9d01fc71bb668aef0c72ed8a323256ccd6b541356763b8ca28",
       "url": "https://www.bbc.com/news/articles/cx2p8dpw1rwo?at_medium=RSS&at_campaign=rss",
       "title": "'It would have been better if they'd killed me': A forgotten war destroying women's lives",
@@ -5069,7 +5102,7 @@
     {
       "id": "068a7b7dabbc68783e81aa1ee97b2b354e2fd675eaa385a466cc3cee60a6bad3",
       "url": "https://www.elmundo.es/internacional/2025/11/19/691b3ee621efa0a8758b459a.html",
-      "title": "En Iran, une victime d'un mariage d'enfants risque d'être exécutée si elle ne parvient pas à réunir 100 000 euros",
+      "title": "Une victime d'un mariage d'enfants risque d'être exécutée en Iran si elle ne parvient pas à réunir 100 000 euros",
       "content_html": "Le « prix du sang », protégé par la législation iranienne, est une tradition qui perdure encore dans certains pays musulmans ou arabes, dans laquelle la famille de la victime d'un meurtre peut établir une somme d'argent qui rend justice au crime.",
       "date_published": "2025-11-18T23:06:05+00:00",
       "authors": [
@@ -5383,7 +5416,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "b9e8f3a69a9c06066ddbe9fe181f197f50df50ee3b1400771dc0606e4b9be80a",
@@ -5606,37 +5639,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "5ef23ab72b3c35bde7ccd1383f6072172072ff8e520d704b65c9e28c932ff495",
-      "url": "https://www.theguardian.com/world/2025/nov/18/claudia-sheinbaum-us-military-mexico-trump",
-      "title": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
-      "content_html": "<p>Mexico’s president responds to Trump’s latest warning that he could authorize strikes against drug cartels in country</p><p>Mexico’s president, <a href=\"https://www.theguardian.com/world/claudia-sheinbaum\">Claudia Sheinbaum</a>, has again dismissed <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s threat of military action against drug cartels inside her country, telling reporters: “It’s not going to happen.”</p><p>Sheinbaum made the comments on Tuesday morning in response to the US president’s latest warning that he could authorise strikes in Mexico.</p> <a href=\"https://www.theguardian.com/world/2025/nov/18/claudia-sheinbaum-us-military-mexico-trump\">Continue reading...</a>",
-      "date_published": "2025-11-18T17:46:23+00:00",
-      "authors": [
-        {
-          "name": "Thomas Graham in Mexico City"
-        }
-      ],
-      "tags": [
-        "Claudia Sheinbaum",
-        "Mexico",
-        "Donald Trump",
-        "Trump administration",
-        "Drugs trade",
-        "Drugs",
-        "US military",
-        "US foreign policy",
-        "US politics",
-        "US news",
-        "Americas",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "e539616d592375bb81fc370fa19280b405018b4fa96e2c9edf82ddc14d09bd0a",
@@ -7434,7 +7436,7 @@
       "id": "8e04bab14768f7291827af345283f354e252befe38abef34400ccd49373b625e",
       "url": "https://www.elmundo.es/internacional/2025/11/17/691b08a5e9cf4a5b3c8b4591.html",
       "title": "La Pologne dénonce le \"sabotage\" du chemin de fer qui transporte l'aide militaire à l'Ukraine",
-      "content_html": "L'Agence de sécurité intérieure enquête sur l'action subversive présumée ainsi que sur un incident survenu dimanche soir avec un train circulant dans la région de Lublin",
+      "content_html": "L'Agence de sécurité intérieure enquête sur l'action subversive présumée ainsi que sur un incident survenu dimanche soir avec un train circulant dans la région de Lublin.",
       "date_published": "2025-11-17T11:55:40+00:00",
       "authors": [
         {
