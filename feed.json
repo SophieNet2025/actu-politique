@@ -5,16 +5,504 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "bdb8ddedb453360f02ae061d3501810d4635ffb445337df4a2d1a7b907fdddbe",
-      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa declares gender violence a national disaster after protests",
-      "content_html": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world.",
-      "date_published": "2025-11-21T14:35:46+00:00",
+      "id": "6f436bcd6de0d963aa043038f6af4072a192086afe96d8d8328f0c3007ae08f2",
+      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+      "title": "UN climate summit drops mention of fossil fuels from draft deal",
+      "content_html": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
+      "date_published": "2025-11-21T15:08:40+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5e4fc942259ffb503bf7090ee8fe971a7d62c4aca6fb161e299489d925de8bdb",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20251121-stranger-things-ultime-saison-de-la-s%C3%A9rie-ph%C3%A9nom%C3%A8ne",
+      "title": "\"Stranger Things\" : l’ultime saison de la série phénomène",
+      "content_html": "Dans ce numéro 100 % séries de À l’Affiche, Louise Dupont et Nina Masson décryptent le grand final de \"Stranger Things\", la série phénomène de Netflix. Une fin sous haute tension, entourée d’un secret absolu : même les acteurs ne découvriront l’épisode final qu’au moment de sa sortie. L’émission reçoit également la réalisatrice Jessica Palud pour évoquer \"Merteuil\", nouvelle relecture féministe des \"Liaisons dangereuses\" sur HBO Max. Enfin, coup d’œil sur la saison 3 très attendue de \"Validé\", la série culte consacrée au rap français qui revient après quatre ans d’absence.",
+      "date_published": "2025-11-21T15:04:17+00:00",
+      "authors": [
+        {
+          "name": "Louise DUPONT"
+        }
+      ],
+      "tags": [
+        "À l'Affiche !"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cb18bd08d24d8cd73ef4e48956398ef9124bad93d83c28d3763c32e84195b186",
+      "url": "https://www.france24.com/en/africa/20251121-france-to-reduce-diplomatic-staff-in-mali-amid-jihadist-fuel-blockade",
+      "title": "France to reduce diplomatic staff in Mali amid jihadist fuel blockade",
+      "content_html": "France is pulling back diplomatic staff from Mali as the security situation in the country deteriorates under a jihadist-imposed fuel blockade. The move comes amid deepening concerns over the junta-led country's shift toward Russian military support, which has done little to improve the security situation, according to French officials.",
+      "date_published": "2025-11-21T15:02:19+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Africa"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "eb1521eace01ac6a34f4e84392b7bb57b0df07234dcc3f721c2e56b1c8bc2748",
+      "url": "https://www.dw.com/en/india-why-is-supreme-court-dominated-by-upper-caste-hindus/a-74838035?maca=en-rss-en-all-1573-rdf",
+      "title": "India: Why is Supreme Court dominated by upper-caste Hindus?",
+      "content_html": "With Dalit Chief Justice Bhushan Ramakrishna Gavai retiring, India's top court will be down to one Dalit and one woman — with most of the judges being upper caste Hindu men. Is the court ready for more diversity?",
+      "date_published": "2025-11-21T15:02:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "10f7df24315817b11189efe3414eb38b97fbc13a5f06b6e326c998d0645979f0",
+      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-donald-trump-met-de-nouveau-kiev-sous-pression-20251120",
+      "title": "Guerre en Ukraine : Donald Trump met de nouveau Kiev sous pression",
+      "content_html": "Donald Trump à la Maison-Blanche, à Washington, le 17 novembre.",
+      "date_published": "2025-11-21T15:00:21+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b4766fc5fd4d6c80778a3ebcc04a9cc9be241352a63658df83075481324ee6ad",
+      "url": "https://www.theguardian.com/society/2025/nov/21/nhs-gps-cutting-hours-stress-childcare",
+      "title": "Thousands of NHS GPs are cutting their hours despite plan to increase access to doctors",
+      "content_html": "<p>Just one in 13 early career GPs work full-time, NHS figures show, with job stress and childcare significant factors</p><p>Much of the health secretary’s plans to reinvent the NHS hinge on moving services from <a href=\"https://www.dailymail.co.uk/health/article-14240007/NHS-bed-blocking-costing-millions.html\">bed-blocked, overstretched hospitals</a> to “neighbourhood health centres” where possible, and to general practice.</p><p>However, while Wes Streeting hopes to make it easier for patients to see their doctor, thousands of GPs have been dramatically cutting back their surgery hours in recent years.</p> <a href=\"https://www.theguardian.com/society/2025/nov/21/nhs-gps-cutting-hours-stress-childcare\">Continue reading...</a>",
+      "date_published": "2025-11-21T15:00:13+00:00",
+      "authors": [
+        {
+          "name": "Jedidajah Otte and Michael Goodier"
+        }
+      ],
+      "tags": [
+        "GPs",
+        "Doctors",
+        "Health",
+        "Society",
+        "NHS",
+        "UK news",
+        "Work-life balance",
+        "Work & careers",
+        "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b3365e002687b83e75e9c1e301aedd27d9683e5638d502e5b75c693e5c3f4f82",
+      "url": "https://www.theguardian.com/us-news/2025/nov/21/georgia-ice-rodney-taylor",
+      "title": "Health of double amputee detained in Georgia ICE jail worsens",
+      "content_html": "<p>Rodney Taylor, 46, says detention ‘draining on my body’ as Democratic senator Raphael Warnock lends support to case</p><p>The health of Rodney Taylor, a <a href=\"https://www.theguardian.com/world/liberia\">Liberian</a>-born man who is a double amputee and is missing three fingers on one hand, has continued to worsen after being picked up by ICE and detained at Georgia’s Stewart immigration detention center and his case has now garnered support from a US senator.</p><p>Taylor, who has been detained for almost a year, told the Guardian he has now been diagnosed with bone spurs in his back, causing severe pain, while the silicone lining of one of his prosthetic legs has deteriorated, causing chafing and boils.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/georgia-ice-rodney-taylor\">Continue reading...</a>",
+      "date_published": "2025-11-21T15:00:13+00:00",
+      "authors": [
+        {
+          "name": "Timothy Pratt in Atlanta"
+        }
+      ],
+      "tags": [
+        "US immigration",
+        "US news",
+        "World news",
+        "Georgia",
+        "Liberia"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "34dcc21ff6642b16202cec5eb9af50475b88a806ba708b1a3d2b38562269f23e",
+      "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
+      "title": "Trump’s DoJ investigating unfounded claims Venezuela helped steal 2020 election",
+      "content_html": "<p>Exclusive: Discredited election-rigging conspiracy theory could strengthen Trump’s military action against Maduro</p><p>Federal investigators have been interviewing multiple people who are pushing unfounded claims that <a href=\"https://www.theguardian.com/world/venezuela\">Venezuela</a> helped steal the 2020 election from <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, the Guardian has learned.</p><p>Two promoters of the conspiracy theory have repeatedly briefed the US attorney for the district of <a href=\"https://www.theguardian.com/us-news/puerto-rico\">Puerto Rico</a>, W Stephen Muldrow, and have shared witnesses and documents with officials, according to four sources. Muldrow declined to comment.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election\">Continue reading...</a>",
+      "date_published": "2025-11-21T15:00:12+00:00",
+      "authors": [
+        {
+          "name": "Aram Roston in Washington"
+        }
+      ],
+      "tags": [
+        "US elections 2000",
+        "Donald Trump",
+        "US news",
+        "US politics",
+        "Venezuela",
+        "Americas",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b32ef9ae000b834c681b6b5d06ad290979042d6c2ec41fff84c6344e7b05785b",
+      "url": "https://www.dw.com/en/will-pakistan-and-indonesia-join-gaza-stabilization-force/a-74838150?maca=en-rss-en-all-1573-rdf",
+      "title": "Will Pakistan and Indonesia join Gaza stabilization force?",
+      "content_html": "Pakistan and Indonesia, the world's two most populous Muslim nations, are weighing their options on deploying troops to Gaza as part of a UN-backed peace mission. DW looks at what's at stake for both countries.",
+      "date_published": "2025-11-21T15:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7eaafe7bc86f556c121bd8396c8c930647014fa13cf0913eb417c7bba6e8538b",
+      "url": "https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20",
+      "title": "Reeves ‘not even sure what the popular path is’ on the budget – UK politics live",
+      "content_html": "<p>Chancellor says ‘We can’t just carry on like this and muddle through. We have to make some decisions to get on a different path’</p><p>Prime minister <strong>Keir Starmer</strong> had a bilateral meeting with <strong>South African</strong> president <strong>Cyril Ramaphosa</strong> on the sidelines of the <strong>G20 summit</strong> on Friday.</p><p>The two leaders discussed the 11-hour flight from <strong>London</strong> to <strong>Johannesburg</strong> in brief remarks in front of reporters, according to the PA news agency.</p><p>Energy bills are still far higher than five years ago, on top of sky-high mortgages and rents and prices in the shops.<br /><br />\n The government has pledged time and time again to bring down energy bills – it is time for them to live up to their word and stop tinkering, committing to a real long term plan.<br /><br />\n Liberal Democrats have a plan: we would slash energy bills in half by removing the renewables levy from bills, creating new energy loans for homeowners to insulate their homes and boosting renewables – the cheapest, cleanest and most popular form of energy.</p> <a href=\"https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:59:44+00:00",
+      "authors": [
+        {
+          "name": "Amy Sedghi (now) and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Conservatives",
+        "Budget 2025"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "96c1ef03aa5d2e35d6f562fbadcde32cadabf4e336a7bd02e10abd336746d726",
+      "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
+      "title": "Trump’s threats amount to calls for ‘execution of elected officials’, says Chuck Schumer – US politics live",
+      "content_html": "<p>Democrat Senate minority leader says president’s remarks are ‘outright threat’ as other leading Democrats warn ‘political violence has no place in America’</p><p><strong>Robert Garcia</strong>, the ranking member on the House oversight committee has <a href=\"https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2025-11-21.garcia-to-doj-re-epstein-subpoena-vs-act.pdf\">sent a letter</a> to attorney general <strong>Pam Bondi</strong>, urging the justice department to release the complete trove of files related to Jeffrey Epstein, despite the newly launched investigation into several Democrats’ ties to the late sex offender.</p><p><strong>“There is already a concern President Trump will attempt, on dubious legal grounds, to exploit a provision which allows DoJ to withhold information relevant to ongoing investigations,”</strong> Garcia wrote.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:59:35+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now) and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "US news",
+        "Donald Trump",
+        "Trump administration",
+        "Democrats",
+        "Republicans",
+        "Zohran Mamdani"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7052551897f0dd205ac23710253f9fae3b3e39c9be7cf7b6a7250b201ae70b5b",
+      "url": "https://www.ukrinform.net/rubric-ato/4061352-up-to-threequarters-of-european-parliament-unambiguously-support-ukraine-german-mep.html",
+      "title": "Up to three-quarters of European Parliament unambiguously support Ukraine – German MEP",
+      "content_html": "German Member of the European Parliament Michael Gahler expressed hope that, despite the strengthening of populists in some EU countries and their increased presence in the European Parliament itself, political support for Ukraine, including on its path toward European integration, will not diminish.",
+      "date_published": "2025-11-21T14:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "538368f0511461735b0356829dc00d5613979a3949ebbca44158a9fecb20da55",
+      "url": "https://www.theguardian.com/politics/2025/nov/21/starmer-calls-farage-spineless-racism-reform-uk",
+      "title": "Starmer calls Farage ‘spineless’ over failure to tackle racism in Reform party",
+      "content_html": "<p>PM says Reform UK leader also has ‘questions to answer’ about alleged racist comments and chants when at school </p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20\">UK politics live – latest updates</a></p></li></ul><p>Nigel Farage has been accused of being “spineless” by the prime minister and a “coward” by Dulwich college contemporaries over his response to allegations of racism.</p><p>Keir Starmer said the Reform UK leader had “questions to answer” about <a href=\"https://www.theguardian.com/politics/ng-interactive/2025/nov/18/deeply-shocking-nigel-farage-faces-fresh-claims-of-racism-and-antisemitism-at-school\">alleged comments and chants as a teenager</a> which include songs about the Holocaust and accusations of bullying towards minority ethnic schoolboys.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/21/starmer-calls-farage-spineless-racism-reform-uk\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:58:28+00:00",
+      "authors": [
+        {
+          "name": "Daniel Boffey, Kiran Stacey in Johannesburg and Mark Blacklock"
+        }
+      ],
+      "tags": [
+        "Nigel Farage",
+        "Keir Starmer",
+        "Politics",
+        "Reform UK",
+        "Race",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "137a6b6d7abaa3f9dbb40e5e6a48f95cb98cbcabcb9ce897871fedde6fcbb9e4",
+      "url": "https://www.lefigaro.fr/international/face-a-l-hypothese-d-un-affrontement-avec-la-russie-le-general-mandon-prepare-les-esprits-20251120",
+      "title": "Face à l’hypothèse d’un affrontement avec la Russie, le général Mandon prépare les esprits",
+      "content_html": "Le général Mandon, chef d’état-major de l’armée française.",
+      "date_published": "2025-11-21T14:56:05+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "40b6d0f6382158ab81eed1f22eec89f186d6aab3f5664e3282a30dd3b974586b",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20251121-the-woman-who-invented-the-rape-kit-so-why-did-a-man-get-credit-for-it",
+      "title": "The woman who invented the rape kit; so why did a man get credit for it?",
+      "content_html": "Annette Young talks to Pagan Kennedy, the journalist who uncovered that a woman originally invented the rape kit, even though a man had long been credited with the idea. Also, as we mark the International Day for the Elimination of Violence against Women and Girls, a victory of sorts for the survivors of the late convicted pedophile, Jeffrey Epstein. After months of mounting pressure, US President Donald Trump has now signed a bill allowing for the release of files on the sexual assault and rape of hundreds of women and girls. Plus, the NGO in Zanzibar which is teaching local women to become solar power technicians.",
+      "date_published": "2025-11-21T14:54:22+00:00",
+      "authors": [
+        {
+          "name": "Annette YOUNG"
+        }
+      ],
+      "tags": [
+        "The 51%"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bdb8ddedb453360f02ae061d3501810d4635ffb445337df4a2d1a7b907fdddbe",
+      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
+      "title": "South Africa declares gender violence a national disaster after protests",
+      "content_html": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world.",
+      "date_published": "2025-11-21T14:54:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "baa7a9fb9d6bfd88a44a24bd8832655ce61f58d49153387485b54b0f3dfba352",
+      "url": "https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss",
+      "title": "Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief",
+      "content_html": "Conditions that led to genocide in Gaza remain precarious given lack of accountability, says rights advocate Yuli Novak.",
+      "date_published": "2025-11-21T14:53:41+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "205dbccf7298f678e105e9f9636b72b2011d4b5354b5885619ccbd85926348b6",
+      "url": "https://www.theguardian.com/world/2025/nov/21/europe-tnt-supply-us-export-israel-gaza-polish-mp-claims",
+      "title": "TNT Europe needs to defend itself ends up being used on Gaza, Polish MP claims",
+      "content_html": "<p>Maciej Konieczny claims sole European supplier sends much of its production to the US which then exports it for use by Israel </p><p>Europe cannot supply enough TNT to defend either itself or Ukraine largely because its monopoly supplier of the explosive is contracted to send much of its production to the US which then exports it for use by Israel in Gaza, a Polish MP has claimed.</p><p>Maciej Konieczny, a member of the leftwing Razem party said the Polish company Nitro-Chem, owned by the Polish Armaments Group, cannot keep up with demand partly because it has signed successive contracts to supply TNT to the US where it is used in bombs supplied to Israel.</p> <a href=\"https://www.theguardian.com/world/2025/nov/21/europe-tnt-supply-us-export-israel-gaza-polish-mp-claims\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:50:44+00:00",
+      "authors": [
+        {
+          "name": "Patrick Wintour, diplomatic editor"
+        }
+      ],
+      "tags": [
+        "Poland",
+        "US news",
+        "Europe",
+        "Gaza",
+        "Israel",
+        "Palestine",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9a9929cb3cc731b402ab3165168f251a0d0f65dc390f3ff982b32e69af0cbef4",
+      "url": "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors",
+      "title": "Germany to classify date rape drugs as weapons in attempt to ensure justice for survivors",
+      "content_html": "<p>Classification will create basis for ‘significantly stricter’ prosecutions, minister says</p><p>Germany plans to treat the use of date rape drugs like the use of a weapon in prosecutions as part of measures to ensure justice for survivors of domestic violence and sexual assault.</p><p>“We classify date rape drugs, which are increasingly used as a widespread tool in crimes, as weapons. This creates the basis for significantly stricter prosecutions,” , Alexander Dobrindt, the interior minister, said on Friday.</p> <a href=\"https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:50:03+00:00",
+      "authors": [
+        {
+          "name": "Reuters in Berlin"
+        }
+      ],
+      "tags": [
+        "Rape and sexual assault",
+        "Femicide",
+        "Violence against women and girls",
+        "Germany",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc3d424c05073467ec30951fbce393f8ca44d5ac87d762714d7df7860c2aa350",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251121-gaza-plus-de-130-gazaouis-attendent-leur-visa-pour-le-canada",
+      "title": "Gaza : plus de 130 Gazaouis attendent leur visa pour le Canada",
+      "content_html": "À Gaza, la question de la reprise d'une vie normale et de l'envisagement de l'avenir se pose avec une acuité particulière. Ce territoire, aujourd'hui réduit en ruines, fait face à des défis immenses. Pourtant, au milieu des décombres, des personnes comme Sondos tentent de garder espoir. Cette étudiante, malgré les difficultés, rêve de devenir avocate pour un jour représenter son pays sur la scène internationale. Reportage.",
+      "date_published": "2025-11-21T14:49:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4c109e7be10a9de32f7233ee35eb8610d45e0e4a86bace5d32a95c95c052cb35",
+      "url": "https://www.dw.com/en/cop30-summit-struggles-to-reach-fossil-fuel-phase-out-deal/live-74838966?maca=en-rss-en-all-1573-rdf",
+      "title": "COP30: Summit struggles to reach fossil fuel phase out deal",
+      "content_html": "As the climate summit comes to its planned end, delegates are less than hopeful that a deal on phasing out fossil fuels can be reached. DW has the latest.",
+      "date_published": "2025-11-21T14:49:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "077a9c2cd2da5380e2bd61cdd733e260868e6267ba8c72f0a0a35eae214e55cf",
+      "url": "https://ici.radio-canada.ca/nouvelle/2208937/nations-opposes-energies-fossiles-cop30-amazonie",
+      "title": "Les nations s’opposent sur les énergies fossiles à la COP30 en Amazonie",
+      "content_html": "<p>Un projet de texte a été mis sur la table sans mentionner le mot «&nbsp;fossiles&nbsp;».</p>",
+      "date_published": "2025-11-21T14:48:42+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c82939e3c1bd33b7a01a56fe77c375be5dcc4eeb78e8d81de48ccf0c647761f0",
+      "url": "https://www.ukrinform.net/rubric-ato/4061344-three-civilians-injured-in-kherson-due-to-enemy-drone-attacks.html",
+      "title": "Three civilians injured in Kherson due to enemy drone attacks",
+      "content_html": "Russians attacked civilians in Kherson with drones, injuring three people.",
+      "date_published": "2025-11-21T14:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ffef4f850bec3ab67dc30e6039d9f1d75a23de1241ad64cd91214135c715713b",
+      "url": "https://www.theguardian.com/us-news/2025/nov/21/eric-swalwell-california-governor",
+      "title": "US Representative Eric Swalwell announces run for California governor",
+      "content_html": "<p>The seven-term Democrat is known for his pugnacious and persistent opposition to Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>Eric Swalwell, a seven-term Democratic US representative known for his pugnacious and persistent opposition to <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, announced on Thursday night he will run for governor of California.</p><p>His announcement comes shortly after the billionaire environmental activist <a href=\"https://www.theguardian.com/us-news/2025/nov/19/tom-steyer-california-governor\">Tom Steyer entered</a> the already crowded field vying to succeed <a href=\"https://www.theguardian.com/us-news/gavin-newsom\">Gavin Newsom</a>, who is coming to the end of his term limit.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/eric-swalwell-california-governor\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:44:25+00:00",
+      "authors": [
+        {
+          "name": "Lauren Gambino"
+        }
+      ],
+      "tags": [
+        "California",
+        "US politics",
+        "West Coast",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e31bba7982b640e70068b62b0549ad2052469c7469af8b9c88caca95a3dd8ca7",
+      "url": "https://www.theguardian.com/us-news/2025/nov/21/jimmy-kimmel-donald-trump",
+      "title": "Jimmy Kimmel accuses Trump of trying to get him fired and tells him: ‘Quiet, piggy’",
+      "content_html": "<p>‘You’ve done this before,’ comedian told president, who ranted about Kimmel online and demanded his firing</p><p>Early on Thursday morning, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> made another plea for ABC to fire the late-night comedian <a href=\"https://www.theguardian.com/tv-and-radio/jimmy-kimmel\">Jimmy Kimmel</a>, writing on his Truth Social platform that he has “NO TALENT” and “VERY POOR TELEVISION RATINGS”.</p><p>On his show later that night, Kimmel was defiant, poking at the president for his previous attempt this fall to get him fired and suggesting that Trump has clearly been watching his show.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/jimmy-kimmel-donald-trump\">Continue reading...</a>",
+      "date_published": "2025-11-21T14:44:07+00:00",
+      "authors": [
+        {
+          "name": "Jeremy Barr, US media correspondent"
+        }
+      ],
+      "tags": [
+        "US news",
+        "Jimmy Kimmel",
+        "Donald Trump",
+        "ABC",
+        "Television",
+        "US television industry",
+        "Television & radio",
+        "Media",
+        "Culture"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -82,7 +570,7 @@
       "id": "385b4a7423a963b1c2f6e2d09b4393e2bea9ceacf6c94059c29b43b2da32199f",
       "url": "https://www.timesofisrael.com/trump-democrats-who-urged-us-troops-to-refuse-illegal-orders-punishable-by-death/",
       "title": "Trump: Democrats who urged US troops to refuse illegal orders ‘punishable by DEATH’",
-      "content_html": "<p>Video by Democratic lawmakers who are veterans and skeptical of Caribbean campaign is 'seditious behavior from traitors,' says US president; White House later clarifies he doesn't want them executed</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-democrats-who-urged-us-troops-to-refuse-illegal-orders-punishable-by-death/\">Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AFP__20251119__84JG4HC__v1__HighRes__PresidentDonaldTrumpDeliversRemarksAtTheUsSaudi-1024x640.jpg\" title=\"Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#8217;\" width=\"160\" /></figure>",
+      "content_html": "<p>Video by Democratic lawmakers who are veterans and skeptical of Caribbean campaign is 'seditious behavior from traitors,' says US president; White House clarifies he doesn't want them executed</p>\n<p>The post <a href=\"https://www.timesofisrael.com/trump-democrats-who-urged-us-troops-to-refuse-illegal-orders-punishable-by-death/\">Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AFP__20251119__84JG4HC__v1__HighRes__PresidentDonaldTrumpDeliversRemarksAtTheUsSaudi-1024x640.jpg\" title=\"Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#8217;\" width=\"160\" /></figure>",
       "date_published": "2025-11-21T14:22:47+00:00",
       "authors": [],
       "tags": [
@@ -99,36 +587,11 @@
       "lang": "en"
     },
     {
-      "id": "96c1ef03aa5d2e35d6f562fbadcde32cadabf4e336a7bd02e10abd336746d726",
-      "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
-      "title": "Trump’s threats amount to calls for ‘execution of elected officials’, says Chuck Schumer – US politics live",
-      "content_html": "<p>Democrat Senate minority leader says president’s remarks are ‘outright threat’ as other leading Democrats warn ‘political violence has no place in America’</p><p>Donald Trump has assembled the least diverse US government of the 21st century, filling the corridors of power with white men at the expense of women and people of colour, <a href=\"https://www.brookings.edu/articles/tracking-president-trumps-second-term-cabinet-and-appointees/\">research shows</a>.</p><p><strong>Nine in 10 individuals confirmed by the Senate in the first 300 days of the second Trump administration were white</strong>, according to the <a href=\"https://www.brookings.edu/\">Brookings Institution</a> thinktank in Washington.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-11-21T14:22:22+00:00",
-      "authors": [
-        {
-          "name": "Shrai Popat (now) and Tom Ambrose (earlier)"
-        }
-      ],
-      "tags": [
-        "US news",
-        "Donald Trump",
-        "Trump administration",
-        "Democrats",
-        "Republicans",
-        "Zohran Mamdani"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d4a509e60bf17cc19dde1a052fcc8f34906dbdae31b9a81f8bb7c493b28567fe",
       "url": "https://www.lemonde.fr/international/article/2025/11/21/en-turquie-le-chp-et-son-candidat-ekrem-imamoglu-en-attente-de-leur-sort_6654318_3210.html",
       "title": "En Turquie, le CHP et son candidat Ekrem Imamoglu en attente de leur sort",
-      "content_html": "La police turque sécurise les abords du tribunal d’Istanbul lors d’un rassemblement organisé par le principal parti d’opposition, le Parti républicain du peuple (CHP), pour protester contre la suspension et l’emprisonnement du maire d’Istanbul, Ekrem İmamoglu, le 26 octobre 2025.",
-      "date_published": "2025-11-21T14:21:23+00:00",
+      "content_html": "La police turque sécurise les abords du tribunal d’Istanbul, lors d’un rassemblement organisé par le principal parti d’opposition, le Parti républicain du peuple (CHP), pour protester contre la suspension et l’emprisonnement du maire d’Istanbul, Ekrem Imamoglu, le 26 octobre 2025.",
+      "date_published": "2025-11-21T14:21:22+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -154,26 +617,22 @@
       "lang": "en"
     },
     {
-      "id": "7eaafe7bc86f556c121bd8396c8c930647014fa13cf0913eb417c7bba6e8538b",
-      "url": "https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20",
-      "title": "Reeves ‘not even sure what the popular path is’ on the budget – UK politics live",
-      "content_html": "<p>Chancellor says ‘We can’t just carry on like this and muddle through. We have to make some decisions to get on a different path’</p><p>Prime minister <strong>Keir Starmer</strong> had a bilateral meeting with <strong>South African</strong> president <strong>Cyril Ramaphosa</strong> on the sidelines of the <strong>G20 summit</strong> on Friday.</p><p>The two leaders discussed the 11-hour flight from <strong>London</strong> to <strong>Johannesburg</strong> in brief remarks in front of reporters, according to the PA news agency.</p><p>Energy bills are still far higher than five years ago, on top of sky-high mortgages and rents and prices in the shops.<br /><br />\n The government has pledged time and time again to bring down energy bills – it is time for them to live up to their word and stop tinkering, committing to a real long term plan.<br /><br />\n Liberal Democrats have a plan: we would slash energy bills in half by removing the renewables levy from bills, creating new energy loans for homeowners to insulate their homes and boosting renewables – the cheapest, cleanest and most popular form of energy.</p> <a href=\"https://www.theguardian.com/politics/live/2025/nov/21/uk-politics-latest-news-labour-conservatives-keir-starmer-g20\">Continue reading...</a>",
-      "date_published": "2025-11-21T14:19:08+00:00",
+      "id": "7e7a0141889952ba3cba523bf994faec46eddd40828dba17f3b82eb7f2fe2b0c",
+      "url": "https://www.france24.com/en/tv-shows/scoop/20251121-quiet-piggy-why-press-idential-decorum-matters",
+      "title": "‘Quiet, piggy!’: Why press-idential decorum matters",
+      "content_html": "A day after referring to a Bloomberg reporter as \"piggy\", US President Donald Trump unleashed a new round of insults at another female reporter, this time ABC's White House correspondent Mary Bruce. This week's guest on FRANCE 24's media show Scoop is Steven Herman, the former White House bureau chief for Voice of America and author of \"Behind the White House Curtain: A Senior Journalist’s Story of Covering the President—and Why It Matters\".",
+      "date_published": "2025-11-21T14:17:55+00:00",
       "authors": [
         {
-          "name": "Amy Sedghi (now) and Tom Ambrose (earlier)"
+          "name": "William HILDERBRANDT"
         }
       ],
       "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Conservatives",
-        "Budget 2025"
+        "Scoop"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -508,7 +967,7 @@
       "id": "6563ef238827cd9301ce60c3bb915c2c96bf593826736ce1cda06c7b9a3a66af",
       "url": "https://www.theguardian.com/uk-news/2025/nov/21/covid-inquiry-bereaved-families-boris-johnson-ex-pm-benefits",
       "title": "Covid bereaved call for Boris Johnson to lose ex-PM benefits over inquiry report",
-      "content_html": "<p>Campaign group says it will pursue all legal means to ensure personal accountability for ‘grave betrayal’</p><p>Covid-bereaved families have called for Boris Johnson to lose access to public funds and said they will pursue all legal options for personal accountability after a damning report <a href=\"https://www.theguardian.com/uk-news/2025/nov/20/too-little-too-late-damning-report-condemns-uk-covid-response\">into his handling of the pandemic</a>.</p><p>The families said they want all privileges Johnson receives as a former prime minister, including his ministerial pension, his place on the privy council and access to the public duty costs allowance, to be withdrawn.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/21/covid-inquiry-bereaved-families-boris-johnson-ex-pm-benefits\">Continue reading...</a>",
+      "content_html": "<p>Campaign group says it will pursue all legal means to ensure personal accountability for ‘grave betrayal’</p><p>Covid-bereaved families have called for Boris Johnson to lose access to public funds and said they will pursue all legal options for personal accountability after a damning report <a href=\"https://www.theguardian.com/uk-news/2025/nov/20/too-little-too-late-damning-report-condemns-uk-covid-response\">into his handling of the pandemic</a>.</p><p>The families said they wanted all privileges Johnson received as a former prime minister – including his ministerial pension, his place on the privy council and access to the public duty costs allowance – to be withdrawn.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/21/covid-inquiry-bereaved-families-boris-johnson-ex-pm-benefits\">Continue reading...</a>",
       "date_published": "2025-11-21T13:57:41+00:00",
       "authors": [
         {
@@ -519,6 +978,8 @@
         "Covid inquiry",
         "Boris Johnson",
         "Politics",
+        "Coronavirus",
+        "Conservatives",
         "UK news"
       ],
       "source": {
@@ -550,7 +1011,7 @@
     {
       "id": "56f305fa42db53db42015c380fad243a52f1fcf498028406a14d0ca1228d9c93",
       "url": "https://elpais.com/internacional/2025-11-21/la-disputa-con-china-causa-el-primer-incendio-geopolitico-de-la-nueva-primera-ministra-japonesa.html",
-      "title": "Le différend avec la Chine provoque le premier incendie géopolitique du nouveau Premier ministre japonais",
+      "title": "Le différend avec la Chine provoque le premier incendie géopolitique du nouveau premier ministre japonais",
       "content_html": "Sanae Takaichi lors de la réunion du PLD au cours de laquelle elle a été élue candidate de son parti pour gouverner le Japon, le 4 octobre.",
       "date_published": "2025-11-21T13:55:54+00:00",
       "authors": [
@@ -619,8 +1080,8 @@
     {
       "id": "63249280657e5b580a5b65f6794640d5bf8fb7f86e0401f9be02fa3fbdb84c88",
       "url": "https://www.theguardian.com/uk-news/2025/nov/21/man-pleads-guilty-rape-12-year-old-girl-nuneaton-anti-asylum-protests",
-      "title": "Man pleads guilty to rape of 12-year-old girl that sparked anti-asylum protests",
-      "content_html": "<p>Ahmad Mulakhil changed his plea at Warwick crown court, admitting to the single charge of rape of a child under 13</p><p>A man has pleaded guilty to the rape of a 12-year-old girl in Warwickshire, in a case that prompted anti-asylum protests in Nuneaton.</p><p>Ahmad Mulakhil, 23, of no fixed abode, changed his plea at Warwick crown court on Friday, admitting to the single charge of rape of a child under 13 on 22 July.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/21/man-pleads-guilty-rape-12-year-old-girl-nuneaton-anti-asylum-protests\">Continue reading...</a>",
+      "title": "Man pleads guilty to rape of girl, 12, in case that sparked anti-asylum protests",
+      "content_html": "<p>Ahmad Mulakhil changes his plea at Warwick crown court, admitting single charge of rape of a child under 13</p><p>A man has pleaded guilty to the rape of a 12-year-old girl in Warwickshire, in a case that prompted anti-asylum protests in Nuneaton.</p><p>Ahmad Mulakhil, 23, of no fixed abode, changed his plea at Warwick crown court on Friday, admitting the single charge of rape of a child under 13 on 22 July.</p> <a href=\"https://www.theguardian.com/uk-news/2025/nov/21/man-pleads-guilty-rape-12-year-old-girl-nuneaton-anti-asylum-protests\">Continue reading...</a>",
       "date_published": "2025-11-21T13:51:19+00:00",
       "authors": [
         {
@@ -628,7 +1089,8 @@
         }
       ],
       "tags": [
-        "UK news"
+        "UK news",
+        "England"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -734,7 +1196,7 @@
       "id": "fcaced79257613a7858391a474adf9fe83ac53638c2b83e18d83433e64e8b571",
       "url": "https://www.dw.com/en/should-the-sale-of-nazi-era-relics-be-banned/a-74830299?maca=en-rss-en-all-1573-rdf",
       "title": "Should the sale of Nazi-era relics be banned?",
-      "content_html": "Public outcry forces German auction house to pull sale of Nazi memorabilia, including a Yellow Star with \"signs of wear.\" How is the sale of Nazi-era artifacts regulated and who's buying it?",
+      "content_html": "Public outcry has forced a German auction house to cancel the sale of Nazi memorabilia, including a Yellow Star with \"signs of wear.\" How is the sale of Nazi-era artifacts regulated and who's buying them?",
       "date_published": "2025-11-21T13:41:00+00:00",
       "authors": [],
       "tags": [
@@ -754,7 +1216,7 @@
       "date_published": "2025-11-21T13:39:58+00:00",
       "authors": [
         {
-          "name": "LIBERATION,  AFP"
+          "name": "LIBERATION, Reuters ."
         }
       ],
       "tags": [],
@@ -781,10 +1243,10 @@
       "lang": "en"
     },
     {
-      "id": "2e1eb4cd6004415f267411b01aaf34d379ac2747c6908d0643d76bb98a30ed7a",
-      "url": "https://www.dw.com/en/divisive-fossil-fuel-roadmap-scrapped-from-latest-cop30-text/a-74836102?maca=en-rss-en-all-1573-rdf",
-      "title": "Divisive fossil fuel roadmap scrapped from latest COP30 text",
-      "content_html": "In final hours of UN climate summit talks in Brazil, negotiators push to bridge divides on key issues including finance and moving away from coal, oil and gas",
+      "id": "b393a4b584c25fb3b688fdeda7349dbff13ef402899637588cfb5c75eeb51cd5",
+      "url": "https://www.dw.com/en/divisive-fossil-fuel-road-map-scrapped-in-latest-cop30-text/a-74836102?maca=en-rss-en-all-1573-rdf",
+      "title": "Divisive fossil fuel road map scrapped in latest COP30 text",
+      "content_html": "In the final hours of UN climate talks in Brazil, negotiators are pushing to bridge divides on key issues including finance and moving away from coal, oil and gas.",
       "date_published": "2025-11-21T13:33:00+00:00",
       "authors": [],
       "tags": [
@@ -989,7 +1451,7 @@
       "id": "24973677c3a0aea9efb5df01314c215bf2180bae7b9dc1a19add9b3329e5e55c",
       "url": "https://www.france24.com/fr/moyen-orient/20251121-cisjordanie-occup%C3%A9e-30-000-d%C3%A9plac%C3%A9s-palestiniens-crise-sante-mentale-psychologique",
       "title": "En Cisjordanie occupée, 30 000 déplacés palestiniens face à une \"crise de santé mentale\"",
-      "content_html": "Dix mois après l'opération \"Mur de fer\" menée par Israël en Cisjordanie occupée, plus de 30 000 personnes restent déplacées dans trois camps et multiplient les appels à l’aide. Ce déplacement prolongé a dégénéré en une grave \"crise sanitaire\" avec notamment des conséquences psychologiques estime un coordinateur de l'ONG Médecins sans frontières.",
+      "content_html": "Dix mois après l'opération \"Mur de fer\" menée par Israël en Cisjordanie occupée, plus de 30 000 personnes de trois camps de réfugiés restent déplacées et multiplient les appels à l’aide. Ce déplacement prolongé a dégénéré en une grave \"crise sanitaire\" avec notamment des conséquences psychologiques estime un coordinateur de l'ONG Médecins sans frontières.",
       "date_published": "2025-11-21T13:12:52+00:00",
       "authors": [
         {
@@ -1132,78 +1594,6 @@
       "lang": "en"
     },
     {
-      "id": "365231b91c8962ea182dea739dc59a81905aae68d1abdda08f5cfd74f1a0a2e6",
-      "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-government-diversity",
-      "title": "Trump has assembled least diverse US government this century, study shows",
-      "content_html": "<p>President has chosen white men for key posts at expense of women and people of colour, Brookings Institution finds</p><p>Donald Trump has assembled the least diverse US government of the 21st century, filling the corridors of power with white men at the expense of women and people of colour, <a href=\"https://www.brookings.edu/articles/tracking-president-trumps-second-term-cabinet-and-appointees/\">research shows</a>.</p><p>Nine in 10 individuals confirmed by the Senate in the first 300 days of the second Trump administration were white, according to the <a href=\"https://www.brookings.edu/\">Brookings Institution</a> thinktank in Washington.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/trump-government-diversity\">Continue reading...</a>",
-      "date_published": "2025-11-21T13:00:11+00:00",
-      "authors": [
-        {
-          "name": "David Smith in Washington"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US politics",
-        "US news",
-        "Donald Trump",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d25bd441b1e9152631798c5a70cccbfdeb589f76c76efc3405b76d13d8fd59f5",
-      "url": "https://www.theguardian.com/politics/2025/nov/21/starmer-rebuffs-renewed-talk-of-andy-burnham-leadership-challenge",
-      "title": "Starmer rebuffs renewed talk of Andy Burnham leadership challenge",
-      "content_html": "<p>PM says Burnham doing ‘really good job’ as Manchester mayor and urges colleagues not to brief against each other</p><p>Keir Starmer has attempted to dampen the latest round of speculation about his leadership, insisting that one of his potential rivals, Andy Burnham, is doing a “really good job as mayor of Manchester” and warning colleagues not to waste their time briefing against each other.</p><p>The prime minister gave his backing to Burnham on Thursday night as he travelled to the G20 summit in Johannesburg, after the Manchester mayor repeatedly failed to rule out challenging Starmer for his party’s leadership during interviews on Thursday.</p> <a href=\"https://www.theguardian.com/politics/2025/nov/21/starmer-rebuffs-renewed-talk-of-andy-burnham-leadership-challenge\">Continue reading...</a>",
-      "date_published": "2025-11-21T13:00:10+00:00",
-      "authors": [
-        {
-          "name": "Kiran Stacey in Johannesburg"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "Labour party leadership",
-        "Andy Burnham",
-        "Keir Starmer",
-        "Manchester",
-        "Greater Manchester",
-        "Labour",
-        "UK news",
-        "G20"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "795713f999aa70aefc8a962502acf1ed1c533b8d491c90aba091cf1facf0749e",
-      "url": "https://www.theguardian.com/us-news/2025/nov/21/first-thing-outrage-after-trump-accuses-democrats-of-seditious-behavior-punishable-by-death",
-      "title": "First Thing: Outrage after Trump accuses Democrats of ‘seditious behavior, punishable by death’",
-      "content_html": "<p>US president roundly decried for Truth Social post after lawmakers told military personnel to refuse illegal orders.<strong> </strong>Plus, Superman comic found in attic becomes most expensive ever sold</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\"><strong>Don’t already get First Thing in your inbox? Sign up here</strong></a></p></li></ul><p>Good morning.</p><p>Democrats <a href=\"https://www.theguardian.com/us-news/2025/nov/20/democrats-condemn-trump-military-video-post\">expressed outrage</a> after Donald Trump accused a group of Democratic lawmakers of engaging in “SEDITIOUS BEHAVIOR, punishable by DEATH” and that they should be arrested after they posted a video in which they told active service members they should refuse illegal orders.</p><p><strong>What did the lawmakers say in the video?</strong> “Our laws are clear: you can refuse illegal orders, you must refuse illegal orders. No one has to carry out orders that violate the law or our constitution.”</p><p><strong>What did the report say?</strong> A “joint situational information report” from the FBI and the New York police department (NYPD), dated 28 August 2025, quoted from a chat on Signal, the encrypted messaging app, and also characterized the court watchers as “anarchist violent extremist actors”.</p><p><strong>Where did it come from?</strong> The two-page report was distributed to other law enforcement agencies across the US. The records were obtained by <a href=\"https://propertyofthepeople.org/\">Property of the People</a>, a government transparency non-profit, through public records requests.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/21/first-thing-outrage-after-trump-accuses-democrats-of-seditious-behavior-punishable-by-death\">Continue reading...</a>",
-      "date_published": "2025-11-21T12:57:27+00:00",
-      "authors": [
-        {
-          "name": "Nicola Slawson"
-        }
-      ],
-      "tags": [
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5fab8abf39f9f014518d18372c667693c4b9db463a95712b6cdd007ebfc1bd0f",
       "url": "https://www.theguardian.com/politics/2025/nov/21/nathan-gill-former-reform-uk-wales-leader-jailed-bribes-pro-russia-statements-mep",
       "title": "Reform UK’s former Wales leader jailed for taking bribes for pro-Russia speeches",
@@ -1252,20 +1642,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "6f436bcd6de0d963aa043038f6af4072a192086afe96d8d8328f0c3007ae08f2",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-      "title": "UN climate summit drops mention of fossil fuels from draft deal",
-      "content_html": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
-      "date_published": "2025-11-21T12:54:21+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "77e4935798ef32bbf26e9fa0f11a87b9887973e1f6e03de80f27134a546014d8",
@@ -1330,36 +1706,6 @@
       "lang": "en"
     },
     {
-      "id": "72d216dfee30adefdab48861939647c20cce1e8b71eba7f8ae788e39a8ca7270",
-      "url": "https://www.theguardian.com/business/2025/nov/21/uk-government-borrowing-october-rachel-reeves",
-      "title": "UK government borrows more than expected in setback before budget",
-      "content_html": "<p>October figures represent final snapshot of public finances before Rachel Reeves’s tax and spending statement</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/nov/21/uk-public-finances-retail-sales-budget-energy-price-cap-stock-markets-ai-bubble-fears-business-live\">Business live – latest updates</a></p></li></ul><p>Rachel Reeves was urged to use next week’s budget to create significantly more headroom against her fiscal rules, after official figures showed the UK government borrowed almost £10bn more than forecast in the year to October.</p><p>In the final snapshot of the public finances before the chancellor’s crunch budget, the Office for National Statistics (ONS) said borrowing – the difference between public spending and income – was £17.4bn last month.</p> <a href=\"https://www.theguardian.com/business/2025/nov/21/uk-government-borrowing-october-rachel-reeves\">Continue reading...</a>",
-      "date_published": "2025-11-21T12:40:04+00:00",
-      "authors": [
-        {
-          "name": "Heather Stewart Economics editor"
-        }
-      ],
-      "tags": [
-        "Government borrowing",
-        "Budget deficit",
-        "Business",
-        "Economics",
-        "UK news",
-        "Public finance",
-        "Economic growth (GDP)",
-        "Office for National Statistics",
-        "Office for Budget Responsibility",
-        "Politics",
-        "Economic policy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "98dead5bd9fce51aea1c2590b9d0f2d82b47603298a4f0b49321c0e364eb3722",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20251121-kenya-les-m%C3%A8res-porteuses-peu-prot%C3%A9g%C3%A9es",
       "title": "Kenya : les mères porteuses peu protégées",
@@ -1394,33 +1740,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "49e70ba9a0a291ac7119fdbf905fef3d9547f2c21bbed419d75581243c5227ac",
-      "url": "https://www.theguardian.com/business/2025/nov/21/wetherspoons-opens-first-pub-spain-alicante-airport-eu",
-      "title": "Wetherspoon’s to open first pub in Spain – offering garlic prawns and beer from 6am",
-      "content_html": "<p>Opening in Alicante airport is the chain’s first move into mainland Europe, and will offer outdoor drinking</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/nov/21/uk-public-finances-retail-sales-budget-energy-price-cap-stock-markets-ai-bubble-fears-business-live\">Business live – latest updates</a></p></li></ul><p>Wetherspoon’s is to open its first pub outside the UK and Ireland, serving alcohol from 6am every day to sun-seeking Britons waiting for their plane in the departure lounge at Alicante airport.</p><p>The opening in Spain, scheduled for January, will be the first foray on to continental European soil for the pub chain, which said it expects to pursue more footholds on the continent in the coming years.</p> <a href=\"https://www.theguardian.com/business/2025/nov/21/wetherspoons-opens-first-pub-spain-alicante-airport-eu\">Continue reading...</a>",
-      "date_published": "2025-11-21T12:38:16+00:00",
-      "authors": [
-        {
-          "name": "Rob Davies"
-        }
-      ],
-      "tags": [
-        "JD Wetherspoon",
-        "Hospitality industry",
-        "Food & drink industry",
-        "UK news",
-        "Spain",
-        "Europe",
-        "Business",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "a2b3bf54bc2b60a2801a5032c98479704eeade4274c16312361880082de31949",
@@ -1541,7 +1860,7 @@
     {
       "id": "bbcb15bca3354c632b2300923a4d5b01f98e0e3ebb751d9c6209b11f86a0c274",
       "url": "https://www.lemonde.fr/international/article/2025/11/21/l-union-europeenne-lance-une-procedure-d-infraction-contre-la-slovaquie-pour-des-changements-constitutionnels_6654306_3210.html",
-      "title": "L’Union européenne lance une procédure d’infraction contre la Slovaquie pour des changements constitutionnels",
+      "title": "L’UE lance une procédure d’infraction contre la Slovaquie pour des changements constitutionnels",
       "content_html": "Le premier ministre slovaque, Robert Fico (au centre), lors d’une réunion du Conseil européen, à Bruxelles, le 23 octobre 2025.",
       "date_published": "2025-11-21T12:29:40+00:00",
       "authors": [],
@@ -1753,32 +2072,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d2f2f7e7ca4d84b6d23c391af3d34cc7e2ddd40dba874faf4dba790a36ca3907",
-      "url": "https://www.theguardian.com/education/2025/nov/21/workers-department-education-trump",
-      "title": "Workers inside Department of Education say Trump’s latest bid to dismantle agency ‘makes no sense’",
-      "content_html": "<p>‘Morale is completely lost,’ say workers as Trump administration strips some programs and transfers others</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s bid to gut the US Department of Education “makes no sense”, according to workers inside the federal agency, who accuse the administration of trying to make their lives “as difficult and traumatic as possible”.</p><p>Three employees inside the department spoke to the Guardian, with one warning that morale has been “completely lost”, 10 months after Trump returned to the White House. All requested to remain anonymous for fear of retaliation.</p> <a href=\"https://www.theguardian.com/education/2025/nov/21/workers-department-education-trump\">Continue reading...</a>",
-      "date_published": "2025-11-21T12:00:10+00:00",
-      "authors": [
-        {
-          "name": "Michael Sainato"
-        }
-      ],
-      "tags": [
-        "US education",
-        "Trump administration",
-        "Project 2025",
-        "Donald Trump",
-        "Republicans",
-        "US politics",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "063567ec7d6a3cc8f93248bddafce77c271c155fe4eea2af27f58c2209e53226",
@@ -2819,27 +3112,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
-    },
-    {
-      "id": "cc87e721c2af055a1002a45c837442145250bb669ec77291487cdcea6e5c4c10",
-      "url": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20251121-de-la-d%C3%A9linquance-au-pouvoir-des-mots",
-      "title": "De la délinquance au pouvoir des mots",
-      "content_html": "Après une adolescence turbulente dans le quartier des Glacis du Château à Belfort, Seraphin Ahoutin a décidé de consacrer sa vie aux mots en sortant son premier livre \"Parti d’en bas !\". Il parcourt désormais l’est de la France, à la rencontre d’une jeunesse en laquelle il se reconnaît. De Belfort à Vesoul, l’équipe de Pas 2 Quartier est allée à sa rencontre.",
-      "date_published": "2025-11-21T10:15:06+00:00",
-      "authors": [
-        {
-          "name": "Ségolène MALTERRE"
-        }
-      ],
-      "tags": [
-        "Pas 2 Quartier"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "5449200bb15b57a75fb7250c594c4ef0dc35949a7e0b4a86f9cd6089837b495c",
@@ -3021,26 +3294,6 @@
       "lang": "en"
     },
     {
-      "id": "16806e53eeb5c97dd7871d2f87028009d9024ac5bc997fb503505c2c474eb91e",
-      "url": "https://www.france24.com/en/africa/20251121-nigeria-hit-by-second-school-abduction-in-less-than-a-week",
-      "title": "Nigeria hit by second school abduction in less than a week",
-      "content_html": "Armed men attacked a Catholic school in Nigeria's north-central Niger state and abducted an unspecified number of schoolchildren, authorities said Friday, just days after 25 schoolgirls were kidnapped in neighbouring Kebbi state.",
-      "date_published": "2025-11-21T09:34:25+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Africa"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "15773b38752f9b02100e5dbee955474d0ca1e3ff8505869ea88a789b30f95e45",
       "url": "https://www.ukrinform.net/rubric-ato/4061150-russians-attack-medical-facility-in-kherson-at-night.html",
       "title": "Russians attack medical facility in Kherson at night",
@@ -3147,22 +3400,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "10f7df24315817b11189efe3414eb38b97fbc13a5f06b6e326c998d0645979f0",
-      "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-donald-trump-met-de-nouveau-kiev-sous-pression-20251120",
-      "title": "Guerre en Ukraine : Donald Trump met de nouveau Kiev sous pression",
-      "content_html": "Donald Trump à la Maison-Blanche, à Washington, le 17 novembre.",
-      "date_published": "2025-11-21T09:08:32+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "4120c314b979bbb953d34c015fc9c66bcdf6559d0592b41d1b7d5a7973cde413",
@@ -3546,26 +3783,6 @@
       "lang": "en"
     },
     {
-      "id": "eb29760789efe306752189134406cfdfbb741e960a264b85b5f094da86b930f6",
-      "url": "https://www.france24.com/en/asia-pacific/20251121-mexico-s-fatima-bosch-wins-chaotic-miss-universe-pageant-marred-by-insults-falls-and-protests",
-      "title": "Mexico's Fatima Bosch wins chaotic Miss Universe pageant marred by insults, falls and protests",
-      "content_html": "Fatima Bosch of Mexico was crowned Miss Universe 2025 on Friday, capping a turbulent 74th edition of the popular beauty pageant in Thailand that saw one judge allege vote-rigging, a contestant rushed to hospital after a fall and the 25-year-old Miss Mexico stand up to public bullying from one of the hosts.",
-      "date_published": "2025-11-21T07:44:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asia / Pacific"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ef130c74e1dde47de5c794275023f7a20a06db052764fdd355faa78cf3296e1d",
       "url": "https://www.timesofisrael.com/new-study-finds-ai-can-weaken-antisemitism-not-just-amplify-it/",
       "title": "New study finds AI can weaken antisemitism, not just amplify it",
@@ -3840,26 +4057,6 @@
       "lang": "fr"
     },
     {
-      "id": "4feab00b6f71c55490c5edd05d5976cb0c7ac85d9eba06e4aafc38ab4ec2cdbf",
-      "url": "https://www.france24.com/en/france/20251121-french-minister-darmanin-drug-crime-threat-at-least-equivalent-to-terrorism-marseille",
-      "title": "French minister says drug crime threat 'equivalent to terrorism' after Marseille murder",
-      "content_html": "French ministers vowed Thursday to use methods \"similar\" to counter-terrorism to stamp out drug crime on a visit to Marseille, where the brother of a prominent anti-drug activist was shot dead last week. Justice Minister Gérald Darmanin pledged more resources for the port city, speaking of a threat \"at least equivalent to terrorism\".",
-      "date_published": "2025-11-21T06:46:54+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9029b4e06c832104a0410fede3ea5cc1a71838fecee2cd5b5760a44c80c3fab8",
       "url": "https://www.aljazeera.com/news/2025/11/21/how-trumps-absence-marks-leadership-opportunity-for-china-at-g20?traffic_source=rss",
       "title": "How Trump’s absence marks leadership opportunity for China at G20",
@@ -3926,22 +4123,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7713b4b597842b53745d4d18604ee8517d3f903c6f3ccd35b115ff93eff19842",
-      "url": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss",
-      "title": "White House unaware that US ambassador to Israel met with convicted spy",
-      "content_html": "CIA reportedly &#039;alarmed&#039; by the meeting, which broke a longstanding policy of not speaking with convicted spies.",
-      "date_published": "2025-11-21T06:25:33+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4092,22 +4273,6 @@
       "lang": "en"
     },
     {
-      "id": "ba0b912d1dfcea0d6b9b257a181de2b94bc92302683b81be1447ed1a92152689",
-      "url": "https://www.ukrinform.net/rubric-polytics/4061099-us-offers-ukraine-security-guarantees-similar-to-natos-axios.html",
-      "title": "US offers Ukraine security guarantees similar to NATO's – Axios",
-      "content_html": "New American proposals for resolving the Russian-Ukrainian war include providing Ukraine with security guarantees from the United States and its European allies similar to those that exist within NATO.",
-      "date_published": "2025-11-21T05:32:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "626c0314ce1efcebaa2e089c181d2bd41fb6a29b51e2882f3717b365c974f8de",
       "url": "https://www.bbc.com/news/articles/cx24200d7y9o?at_medium=RSS&at_campaign=rss",
       "title": "New US rules say countries with diversity policies are infringing human rights",
@@ -4118,46 +4283,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "edd0367435db2e017905123dccfd4a005e6bd97e03db7145ae233c87bf39a8a1",
-      "url": "https://www.ukrinform.net/rubric-ato/4061097-specialists-defuse-explosive-warhead-of-a-russian-uav-in-ternopil.html",
-      "title": "Specialists defuse explosive warhead of a Russian UAV in Ternopil",
-      "content_html": "Police explosive technicians have defused the explosive warhead of a Russian UAV that fell during the massive attack on November 19 near the epicenters of explosions in Ternopil.",
-      "date_published": "2025-11-21T05:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "90bee85f4673a9b2f4b25d18f623b1de30cdd5de223c2c1f037d7191b6fc383a",
-      "url": "https://www.theguardian.com/world/2025/nov/21/serbian-president-aleksander-vucic-legal-complaint-sarajevo-sniper-tourism-case-milan",
-      "title": "Serbian president faces legal complaint in Sarajevo ‘sniper-tourism’ case",
-      "content_html": "<p>Milan allegations link Aleksandar Vučić to 1990s shootings of civilians in Bosnian capital by Italians and others</p><ul><li><p><a href=\"https://www.theguardian.com/world/gallery/2025/nov/21/sarajevo-siege-sniper-alley-in-pictures\">In the snipers’ sights: life under fire during siege of Sarajevo – in pictures</a></p></li></ul><p>A Croatian investigative reporter has filed a complaint with Milan prosecutors against the Serbian president, Aleksandar Vučić, for his alleged involvement in the “Sarajevo safari” affair, in which snipers from Italy and other countries allegedly travelled to the Bosnian capital to kill civilians during the four-year siege of the city in the 1990s.</p><p>Last week, Milan prosecutors <a href=\"https://www.theguardian.com/world/2025/nov/11/milan-prosecutors-investigate-alleged-sniper-tourism-during-bosnian-war\">launched an investigation</a> aimed at identifying the Italians allegedly involved on charges of voluntary murder aggravated by cruelty and abject motives.</p> <a href=\"https://www.theguardian.com/world/2025/nov/21/serbian-president-aleksander-vucic-legal-complaint-sarajevo-sniper-tourism-case-milan\">Continue reading...</a>",
-      "date_published": "2025-11-21T05:00:02+00:00",
-      "authors": [
-        {
-          "name": "Lorenzo Tondo in Trieste and Angela Giuffrida in Rome"
-        }
-      ],
-      "tags": [
-        "Italy",
-        "Serbia",
-        "Bosnia and Herzegovina",
-        "Europe",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -4431,28 +4556,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "029eae0e617153452660a4dd1425e5e7a486ea383083b225b9dcd3bbca3c7dcd",
-      "url": "https://www.theguardian.com/world/2025/nov/21/woman-jailed-for-20-years-over-death-of-australian-surfer-brothers-and-american-man-in-mexico",
-      "title": "Woman jailed for 20 years over death of Australian surfer brothers and American man in Mexico",
-      "content_html": "<p>Mexican woman Ary Gisell Silva, 23, admitted she instigated robbery of Jake and Callum Robinson, as well as American Jack Carter Rhoad</p><p>A Mexican court sentenced a woman to 20 years in prison for her involvement in the April 2024 killings of two Australian surfers and an American at a surfing hotspot in Baja California, judicial authorities said Thursday.</p><p>The victims were Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and Jack Carter Rhoad, a 30-year-old US citizen.</p> <a href=\"https://www.theguardian.com/world/2025/nov/21/woman-jailed-for-20-years-over-death-of-australian-surfer-brothers-and-american-man-in-mexico\">Continue reading...</a>",
-      "date_published": "2025-11-21T03:29:46+00:00",
-      "authors": [
-        {
-          "name": "Agence France-Presse"
-        }
-      ],
-      "tags": [
-        "Mexico",
-        "Australia news",
-        "Americas"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "5e5c6e4f77b4cf31cc3a36f729dd8ded9fc0f940590745041a9e038377f4f0b0",
@@ -4986,7 +5089,7 @@
       "id": "bd30c19009965a29d90a7c1e327f4d691aa382c13768f2ffc28834e39eac6051",
       "url": "https://www.elmundo.es/internacional/2025/11/20/691f7505e4d4d8801e8b4596.html",
       "title": "Trump évoque la peine de mort pour les démocrates qui ont exhorté les militaires à désobéir aux ordres",
-      "content_html": "Il a lancé cette menace après qu'un groupe de sénateurs et de représentants démocrates, tous ayant une expérience militaire ou dans le renseignement, ait déclaré dans une vidéo publiée mardi que les soldats \"peuvent refuser de suivre des ordres illégaux\".",
+      "content_html": "Il a lancé cette menace après qu'un groupe de sénateurs et de représentants démocrates, tous dotés d'une expérience militaire ou du renseignement, ait déclaré dans une vidéo publiée mardi que les soldats \"peuvent refuser de suivre des ordres illégaux\".",
       "date_published": "2025-11-20T20:09:19+00:00",
       "authors": [
         {
@@ -5258,22 +5361,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "137a6b6d7abaa3f9dbb40e5e6a48f95cb98cbcabcb9ce897871fedde6fcbb9e4",
-      "url": "https://www.lefigaro.fr/international/face-a-l-hypothese-d-un-affrontement-avec-la-russie-le-general-mandon-prepare-les-esprits-20251120",
-      "title": "Face à l’hypothèse d’un affrontement avec la Russie, le général Mandon prépare les esprits",
-      "content_html": "Le général Mandon, chef d’état-major de l’armée française.",
-      "date_published": "2025-11-20T18:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -6731,7 +6818,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "8ba884a6a05cc405906e3545ed54952f7c37b66ab0e254cd95831a1d618a00aa",
@@ -8764,22 +8851,6 @@
       "lang": "en"
     },
     {
-      "id": "39d5d2f4c8df3965041197d0328a9919893a7ce46bc31bdc0ff79ed4a43ff6f4",
-      "url": "https://www.dw.com/en/ukraine-announces-energy-shake-up-after-corruption-scandal/a-74761195?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine announces energy shake-up after corruption scandal",
-      "content_html": "Volodymyr Zelenskyy called for a new board at state nuclear operator Energoatom after the company was found at the center of a major corruption scandal. More than $100 million was embezzled, according to investigators.",
-      "date_published": "2025-11-15T19:17:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "37e689d1ed87bb42954f892a1a83c2caf9a9c90790d7e516156478c6438de668",
       "url": "https://www.dw.com/en/germany-tackles-housing-crisis-for-refugees/a-74750351?maca=en-rss-en-all-1573-rdf",
       "title": "Germany tackles housing crisis for refugees",
@@ -9449,22 +9520,6 @@
       "authors": [],
       "tags": [
         "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f67ba178eab7d8a61a1d64bdd493c56b011f3addbdcc246127843bcbc2ac6b61",
-      "url": "https://www.dw.com/en/cop30-climate-conference-of-truth-in-brazil/a-74573589?maca=en-rss-en-all-1573-rdf",
-      "title": "COP30: 'Climate conference of truth' in Brazil?",
-      "content_html": "At the COP30 climate summit, nations will again try to agree on targets to limit catastrophic global temperature rise. But many barriers remain before steep greenhouse gas cuts are realized.",
-      "date_published": "2025-11-10T07:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "Environment"
       ],
       "source": {
         "name": "Deutsche Welle",
