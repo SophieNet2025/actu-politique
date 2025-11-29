@@ -5,10 +5,116 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "0bab1b77508e4e65302b902f463b3c73277ef07e165aa0d87771e7f26757e108",
+      "url": "https://www.bbc.com/news/articles/ce865kpdzz8o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian prime minister becomes first to wed in office",
+      "content_html": "Anthony Albanese weds Jodie Haydon, after the couple became engaged on Valentine's Day last year.",
+      "date_published": "2025-11-29T11:02:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8e411febc47ae2b0cecb97409e85b72224d99ca3cd0022868a8f5f968c106858",
+      "url": "https://www.dw.com/en/germany-news-rallies-against-new-far-right-afd-youth-group/live-74950108?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Rallies against new far-right AfD youth group",
+      "content_html": "Police say protesters have used buses to block streets in central Giessen as 50,000 are expected to voice opposition to the founding of a new far-right Alternative for Germany (AfD) youth wing. DW has the latest.",
+      "date_published": "2025-11-29T11:02:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1d4d5a2d6bdb192117b0212a7ca1cdf8f8979e79a3d82c2dd0ddcc61666d4299",
+      "url": "https://ici.radio-canada.ca/nouvelle/2210584/attaque-russe-drones-kiev-mort-blesses",
+      "title": "Ukraine : une attaque de drones russes sur Kiev fait un mort et 11 blessés",
+      "content_html": "<p>Plus de 600 000 foyers ont été plongés dans le noir, selon le ministère de l&#x27;Énergie.</p>",
+      "date_published": "2025-11-29T11:01:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fd0eda9fe14c2af34a01da1c488a2871c5217511948672a7d48c1fa9dcf62697",
+      "url": "https://www.lemonde.fr/international/article/2025/11/29/defense-europeenne-londres-et-bruxelles-echouent-a-trouver-un-accord-sur-la-participation-britannique-a-un-instrument-de-financement_6655361_3210.html",
+      "title": "Défense européenne : Londres et Bruxelles échouent à trouver un accord sur la participation britannique à un instrument de financement",
+      "content_html": "La présidente de la Commission européenne, Ursula von der Leyen, le premier ministre britannique, Keir Starmer, et le président du Conseil européen, Antonio Costa, avant le sommet Royaume-Uni-UE, à Lancaster House, à Londres, le 19 mai 2025.",
+      "date_published": "2025-11-29T11:00:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "59e9738dbf2ad41eab7f911d09eaf2672f2c9808bf1880ba0fa674232915e1a2",
+      "url": "https://www.ukrinform.net/rubric-ato/4064221-cinc-syrskyi-holds-phone-conversation-with-canadian-chief-of-defence-staff-gen-jennie-carignan.html",
+      "title": "CinC Syrskyi holds phone conversation with Canadian Chief of Defence Staff Gen. Jennie Carignan",
+      "content_html": "Commander-in-Chief of the Armed Forces of Ukraine General Oleksandr Syrskyi, in a conversation with Chief of the Defence Staff of the Canadian Armed Forces General Jennie Carignan, emphasized the critical importance for Ukraine of strengthening its air shield.",
+      "date_published": "2025-11-29T10:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d54de8c2aeaa2e8aba1e75364e6f1d12fa8d20210be99f2707fa1b4d9cd87be6",
+      "url": "https://www.themoscowtimes.com/2025/11/29/naval-drones-halt-operations-at-russian-oil-terminal-a91282",
+      "title": "Naval Drones Halt Operations at Russian Oil Terminal",
+      "content_html": "The Caspian Pipeline Consortium said it would resume operations when the drone threat was lifted.",
+      "date_published": "2025-11-29T10:57:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "988c50f5dd2e8c8b4300074be0423697f81d59600ad475c34e1d11e7625e0d46",
+      "url": "https://www.liberation.fr/international/europe/russie-deux-navires-de-la-flotte-fantome-et-un-terminal-petrolier-attaques-par-des-drones-navals-20251129_6P5TUDYEKZB3NHXC7LVEJD64DM/",
+      "title": "Russie : deux navires de la flotte fantôme et un terminal pétrolier attaqués par des drones navals",
+      "content_html": "Le port russe de Féodossia ciblé par une attaque dans la nuit du 12 au 13 octobre 2025.",
+      "date_published": "2025-11-29T10:52:08+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "dfe8661f7a8efcbedd2435c64a17af31bf4f95047a4bf5962be69522286c248e",
       "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
       "title": "More than 600,000 without power in Kyiv after Russian strikes",
-      "content_html": "The overnight attack kills at least three and leaves many in the Ukrainian capital.",
+      "content_html": "The overnight attack kills at least three and leaves many in the Ukrainian capital in the dark.",
       "date_published": "2025-11-29T10:34:24+00:00",
       "authors": [],
       "tags": [],
@@ -49,24 +155,6 @@
       "lang": "fr"
     },
     {
-      "id": "a6b343cc99bf8d9d70bbdc8718511dba6720b5e45111c803a7ddb99cbdde17c5",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-pleine-r%C3%A9int%C3%A9gration-des-russes-en-judo-premier-titre-avec-hymne-et-drapeau",
-      "title": "Pleine réintégration des Russes en judo : premier titre avec hymne et drapeau",
-      "content_html": "Le judoka russe Ayub Bliev est devenu vendredi au Grand Slam d'Abou Dhabi le premier athlète de son pays à remporter un titre sous les couleurs de la Russie depuis la pleine réintégration du pays dans ce sport, annoncée la veille par la Fédération internationale. Quelques instants plus tard, son compatriote Murad Chopanov a décroché la médaille d'argent des -66 kg et a également vu son drapeau national hissé lors de la remise des médailles. Récit d'Antoine Fenaux.",
-      "date_published": "2025-11-29T10:29:29+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d243c23865c99d685b17b9b7282721c5dcb0b7488885b3cd9058a2371e5bf8b0",
       "url": "https://www.dw.com/en/hong-kong-fire-three-days-of-mourning-as-china-begins-probe/a-74949227?maca=en-rss-en-all-1573-rdf",
       "title": "Hong Kong fire: Three days of mourning as China begins probe",
@@ -99,42 +187,6 @@
       "lang": "en"
     },
     {
-      "id": "2863ddaecf1fdfd99290dd1f680ba3137b8fdadc4793773706eccda3078d52a4",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-ukraine-nouvelles-frappes-sur-kiev-apr%C3%A8s-le-limogeage-du-bras-droit-de-zelensky",
-      "title": "Ukraine : nouvelles frappes sur Kiev, après le limogeage du bras droit de Zelensky",
-      "content_html": "Kiev a été la cible dans la nuit de vendredi à samedi d'une nouvelle attaque de drones russes, quelques heures après que le président ukrainien Volodymyr Zelensky eut limogé son chef de cabinet, Andriï Iermak, bras droit extrêmement influent, à la suite d'une enquête anticorruption. Précisions de Gulliver Cragg, correspondant de FRANCE 24 à Kiev.",
-      "date_published": "2025-11-29T10:16:16+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c15aff021140b4481e4a881a0043d86af66ec64c5c88de561c243c121e98e2e9",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-les-bilan-des-inondations-s-alourdi-%C3%A0-plus-de-350-morts-en-asie-du-sud-est",
-      "title": "Les bilan des inondations s'alourdi à plus de 350 morts en Asie du Sud-Est",
-      "content_html": "Le bilan des inondations provoquées par des pluies torrentielles en Indonésie, Thaïlande et Malaisie s'élève à plus de 350 morts samedi, selon les derniers chiffres des autorités locales. Dans les trois pays, les mêmes images de villes inondées, de populations piégées par les eaux, et de glissements de terrain entraînés par le déluge qui s'abat depuis plusieurs jours. Sujet France 2.",
-      "date_published": "2025-11-29T10:14:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ac96db2040b63380aa98eb6ebc0e80662caa2e5fb5c77d855336d71ed11e88d9",
       "url": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss",
       "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
@@ -154,7 +206,7 @@
       "id": "53caa9ed1ebf0498d1d38753ffc7664b95d9217e72048dba738f3c43b8333a0f",
       "url": "https://elpais.com/internacional/2025-11-29/un-superviviente-del-incendio-de-los-rascacielos-de-hong-kong-abri-la-puerta-y-el-humo-me-trago.html",
       "title": "Un survivant de l’incendie d’un gratte-ciel de Hong Kong : « J’ai ouvert la porte et la fumée m’a englouti »",
-      "content_html": "Des policiers en combinaison de protection déambulent ce samedi autour de Wang Fuk Court, le lotissement de Hong Kong détruit par l'incendie.",
+      "content_html": "Des policiers en tenue de protection déambulent ce samedi autour de Wang Fuk Court, le lotissement de Hong Kong détruit par l'incendie.",
       "date_published": "2025-11-29T10:10:15+00:00",
       "authors": [
         {
@@ -194,42 +246,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "2c078aa77ba8e2198af0bd0a1c27ef2c8902e07488471a5fae17f61dc765c9b8",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-incendie-de-hong-kong-trois-minutes-de-silence-pour-les-victimes",
-      "title": "Incendie de Hong Kong : trois minutes de silence pour les victimes",
-      "content_html": "La morosité régnait samedi sur Hong Kong où les premiers hommages et veillées funéraires ont débuté à la suite de l'immense incendie d'un complexe immobilier qui a fait au moins 128 morts et des dizaines de disparus. Le gouvernement de Hong Kong a notamment observé trois minutes de silence samedi matin pour les victimes. Récit de Sérine Bey.",
-      "date_published": "2025-11-29T10:06:06+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "06944c7a9d5e5e24d84023139a849ae25284c463a3d969df4018ce89bdced45c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-6000-airbus-clou%C3%A9s-au-sol-apr%C3%A8s-un-incident-de-logiciel-dans-les-a320",
-      "title": "6000 airbus cloués au sol après un incident de logiciel dans les A320",
-      "content_html": "Airbus a fait savoir aux compagnies aériennes que les réparations d'urgence des logiciels sur les avions A320 concernés par l'immobilisation en cours pourraient être moins lourdes que prévu initialement, a-t-on appris samedi auprès de sources du secteur. Récit de Thibault Franceschet.",
-      "date_published": "2025-11-29T10:04:33+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "5d3dfba810a8b53064b503a56659a5fc7a6a9db6f11f50468a3e537efd859d23",
@@ -443,24 +459,6 @@
       "lang": "en"
     },
     {
-      "id": "547aee820e8c8a8dfea61f6b17f22dfde2af39e5d2ace4336db2f77e524247bb",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251129-titre-armes-chimiques-au-soudan-comment-mener-l-enqu%C3%AAte",
-      "title": "Titre : Armes chimiques au Soudan : comment mener l’enquête ?",
-      "content_html": "🇸🇩 Des armes chimiques commandées par une entreprise soudanaise liée à l’armée : c’est ce que révèle la dernière enquête des Observateurs de France 24.\n \n🛢️En septembre 2024, du gaz de chlore a été utilisé comme arme chimique autour de la raffinerie al-Jaili, au nord de Khartoum. À l'époque, l’armée soudanaise cherche à la reprendre aux Forces de soutien rapide, la milice qu’elle affronte dans la guerre civile en cours.\n \nQuentin Peschard vous raconte les dessous de cette enquête exceptionnelle.",
-      "date_published": "2025-11-29T09:49:34+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d65653de11bcdb4feeede9b332948fc97ddbc24a73e79edbec60d8146c56f311",
       "url": "https://www.ukrinform.net/rubric-ato/4064199-ukrainian-air-defenses-neutralize-558-russian-drones-19-missiles.html",
       "title": "Ukrainian air defenses neutralize 558 Russian drones, 19 missiles",
@@ -475,26 +473,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "e68e9ed7d347158b332aa20d5479f7bdb675547956e84881413ed8abcd3e6147",
-      "url": "https://www.france24.com/fr/europe/20251129-turquie-pape-leon-xiv-visite-mosquee-bleue-istanbul-islam-erdogan-liban",
-      "title": "Turquie : le pape Léon XIV visite la Mosquée bleue d'Istanbul",
-      "content_html": "Le pape Léon XIV a visité, samedi, la Mosquée bleue d'Istanbul, joyau emblématique de la ville et célèbre monument ottoman, dont il s'est fait expliquer l'histoire. Le souverain pontife ne s'y est pas recueilli, contrairement à son prédécesseur François.",
-      "date_published": "2025-11-29T09:37:08+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "dccfdf0fc15b000f9be0184a2b939c134dd6a286d6235e21f661efb466a244e7",
@@ -561,8 +539,8 @@
     {
       "id": "dc05d96a6ddc739befb34e4d374d5216c6da1a6a253ccf762e9751a43812f0c9",
       "url": "https://www.france24.com/en/live-news/20251129-ultra-orthodox-military-conscription-row-reignites-in-israel",
-      "title": "Ultra-Orthodox military conscription row reignites in Israel",
-      "content_html": "",
+      "title": "Ultra-Orthodox military conscription debate reignites in Israel",
+      "content_html": "A new Israeli draft law which would concript ultra-Orthodox Jews has reignited fierce political battles, as the long-standing exemption for full-time yeshiva students faces renewed scrutiny amid national security pressures and fragile coalition politics.",
       "date_published": "2025-11-29T09:27:20+00:00",
       "authors": [
         {
@@ -786,26 +764,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "74dd137b83579b71fe108469a9bb82f0332487d9e5c8ef15aa50759f19a9f1f6",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20251129-trump-va-gracier-l-ex-pr%C3%A9sident-du-honduras-condamn%C3%A9-aux-%C3%A9tats-unis-pour-trafic-de-drogue",
-      "title": "Trump va gracier l'ex-président du Honduras condamné aux États-Unis pour trafic de drogue",
-      "content_html": "L'ex-président du Honduras Juan Orlando Hernandez va être gracié par Donald Trump. Juan Orlando Hernandez avait été condamné en 2024 à quarante-cinq ans de prison aux États-Unis pour trafic de drogue. L'annonce intervient à deux jours de la présidentielle au Honduras sur laquelle Donald Trump compte peser.",
-      "date_published": "2025-11-29T08:55:06+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1049,26 +1007,6 @@
       "lang": "en"
     },
     {
-      "id": "aef5d3522df8437148a6e677b82634a33bef22b8227a98a4f90ae3ecce0732fa",
-      "url": "https://www.france24.com/fr/france/20251129-en-guadeloupe-de-nouvelles-plaintes-pour-d%C3%A9noncer-la-crise-de-la-gestion-de-l-eau",
-      "title": "En Guadeloupe, de nouvelles plaintes pour dénoncer la crise de la gestion de l'eau",
-      "content_html": "Les membres du collectif \"L'eau, c'est la vie\" ont déposé, vendredi, auprès du parquet de Pointe-à-Pitre 255 nouvelles plaintes pour \"mises en danger de la vie d'autrui\", a constaté une journaliste de l'AFP. La Guadeloupe est confrontée depuis plusieurs années à une crise de la gestion de l'eau.",
-      "date_published": "2025-11-29T08:00:54+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2651bea3b62811ac5b8114190202599172b98d77f0589cec50e4db410ec02911",
       "url": "https://www.lefigaro.fr/international/les-malgre-nous-du-donbass-comment-la-russie-enrole-de-force-des-ukrainiens-dans-son-armee-20251129",
       "title": "Les «Malgré nous» du Donbass : comment la Russie enrôle de force des Ukrainiens dans son armée",
@@ -1195,26 +1133,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "32a5e8485362958c44995ccda3e9c4980145f97fd938e4a978ef401d92a4950b",
-      "url": "https://www.france24.com/fr/asie-pacifique/20251129-hong-kong-%C3%A0-l-heure-du-recueillement-apr%C3%A8s-l-incendie-g%C3%A9ant-qui-a-fait-au-moins-128-morts",
-      "title": "Hong Kong se recueille après l'incendie le plus meurtrier de son histoire",
-      "content_html": "Des anonymes affligés sont allés en flux régulier et silencieux, samedi, déposer des fleurs au pied des tours calcinées de Hong Kong. Au moins 128 personnes y ont perdu la vie et des dizaines de personnes sont encore portées disparues. C'est le pire incendie du territoire, qui a entamé trois jours de deuil.",
-      "date_published": "2025-11-29T07:30:29+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asie-Pacifique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1351,26 +1269,6 @@
       "lang": "en"
     },
     {
-      "id": "73947a84e345f75d0a4ed226be7918bc45d2055260834b014ebd83497ccec1fa",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20251129-soudan-armes-chimiques-enqu%C3%AAte-chlore",
-      "title": "Guerre au Soudan : enquête sur l'utilisation d'armes chimiques par l'armée soudanaise",
-      "content_html": "Des barils écrasés au sol, un nuage jaune, des travailleurs sous oxygène : dans cette enquête, la rédaction des Observateurs révèle l'usage d'un gaz toxique comme arme chimique dans la guerre civile au Soudan. Tout pointe vers l'armée soudanaise, qui aurait utilisé le chlore pour reprendre une raffinerie stratégique à la milice des Forces de soutien rapide.",
-      "date_published": "2025-11-29T07:10:07+00:00",
-      "authors": [
-        {
-          "name": "Quentin PESCHARD"
-        }
-      ],
-      "tags": [
-        "Les Observateurs"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b4d38515bb5a65e3639d8816e46d20112bda5e5de9f78ff8c07eaf0eb9de8d2f",
       "url": "https://www.aljazeera.com/news/2025/11/29/hong-kong-mourns-victims-of-blaze-as-search-for-remains-continues?traffic_source=rss",
       "title": "Hong Kong mourns victims of blaze as search for remains continues",
@@ -1497,26 +1395,6 @@
       "lang": "fr"
     },
     {
-      "id": "b3849c1d234d540231a2f30ee048f012ecdab28af562f7aa8406c86530070d8b",
-      "url": "https://www.france24.com/fr/afrique/20251129-soudan-chlore-importation-enqu%C3%AAte",
-      "title": "Chlore au Soudan 2/2 : comment un gaz destiné à produire de l’eau potable a été utilisé comme arme",
-      "content_html": "Des barils de gaz de chlore ont été largués en septembre 2024 près d'une raffinerie au Soudan, comme le révèle le premier volet d'une enquête de la rédaction des Observateurs de France 24. Dans ce second volet, nous montrons qu'ils ont été importés par une entreprise soudanaise liée à l’armée, Ports Engineering Company, au prétexte de produire de l’eau potable.",
-      "date_published": "2025-11-29T06:59:05+00:00",
-      "authors": [
-        {
-          "name": "Quentin PESCHARD"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ade95cefd897c5fd47fa16970c572df77fd104e323d03cd612d781caa95d7770",
       "url": "https://www.aljazeera.com/news/2025/11/29/russia-outlaws-human-rights-watch-crackdown-critics-ukraine-war?traffic_source=rss",
       "title": "Russia bans Human Rights Watch in widening crackdown on critics",
@@ -1552,7 +1430,7 @@
       "id": "789064b13e69a23d5186016141bcd01c78c30948f8839da5a9ccf24608529639",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks?traffic_source=rss",
       "title": "Russia-Ukraine war live: Kyiv comes under deadly drone, missile attacks",
-      "content_html": "At least three people have been killed and 29 injured in the attacks that left Kyiv&#039;s west without electricity.",
+      "content_html": "At least three people have been killed and 37 injured in the attacks that left Kyiv&#039;s west without electricity.",
       "date_published": "2025-11-29T06:48:39+00:00",
       "authors": [],
       "tags": [
@@ -1563,26 +1441,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "bbc0f0cddc742149a17da3d0ceb01bae325df949183d4ebf77702bc6221be5a9",
-      "url": "https://www.france24.com/fr/asie-pacifique/20251129-inondations-en-asie-du-sud-est-le-bilan-humain-grimpe-%C3%A0-350-morts",
-      "title": "Inondations en Asie du Sud-Est : le bilan humain grimpe à plus de 350 morts",
-      "content_html": "Le bilan des inondations provoquées par des pluies torrentielles en Indonésie, Thaïlande et Malaisie s'élève à plus de 350 morts samedi, selon les derniers bilans des autorités locales.",
-      "date_published": "2025-11-29T06:40:40+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asie-Pacifique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "b05f098df991f0a7f643d50e6302e4b0ce0db95c5d74a47dca6d8bb26bc0fcb7",
@@ -1859,26 +1717,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "a81d640736e9f2ccf58e45fedbdfd2265f601ec94980973923f6441c3406c91c",
-      "url": "https://www.france24.com/fr/europe/20251129-guerre-en-ukraine-en-direct-un-mort-et-onze-bless%C3%A9s-apr%C3%A8s-une-attaque-de-drones-russes-%C3%A0-kiev",
-      "title": "Guerre en Ukraine en direct : la série d'attaques russes a fait au moins trois morts",
-      "content_html": "La Russie a lancé, samedi matin, une série d'attaques de drones et de missiles contre plusieurs régions d'Ukraine, faisant au moins trois morts et près de 30 blessés. Par ailleurs, un navire considéré comme appartenant à la flotte fantôme russe a été attaqué par un drone naval en mer Noire au large de la Turquie. Suivez notre direct.",
-      "date_published": "2025-11-29T05:59:19+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "f854012ed58832f4dbcbba69a55973b6ac09538900a2419a325bb1c52619f1da",
@@ -2158,7 +1996,7 @@
       "id": "e461630ddd06524dbf5d3a2af7e6fadc98b290bd7528a24b1639e30eaf177f12",
       "url": "https://elpais.com/internacional/2025-11-29/la-corrupcion-tumba-al-polemico-yermak-el-aliado-mas-fiel-de-zelenski.html",
       "title": "La corruption renverse le controversé Yermak, l'allié le plus fidèle de Zelensky",
-      "content_html": "Zelensky et Yermak discutaient le 2 décembre 2024 à Kiev.",
+      "content_html": "Zelensky et Yermak se sont entretenus le 2 décembre 2024 à Kiev.",
       "date_published": "2025-11-29T04:30:01+00:00",
       "authors": [
         {
@@ -2346,8 +2184,8 @@
     {
       "id": "469aba7d59bac79697fbf39a5dc46c85797dff9f29a66b07ba72b5dab340cb48",
       "url": "https://www.timesofisrael.com/liveblog-november-29-2025/",
-      "title": "US halts asylum decisions as shooting of National Guard members sparks migrant crackdown",
-      "content_html": "<p>Suspect in deadly shooting faces murder charge * Hong Kong mourns victims of apartment blaze that killed 128 and counting</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-november-29-2025/\">US halts asylum decisions as shooting of National Guard members sparks migrant crackdown</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AP25333068848491-1024x640.jpg\" title=\"US halts asylum decisions as shooting of National Guard members sparks migrant crackdown\" width=\"160\" /></figure>",
+      "title": "Palestinians say 10 wounded in settler attack near Bethlehem, including one by gunfire",
+      "content_html": "<p>US envoy to Lebanon: Israel doesn’t need permission to defend itself, Washington urging Beirut to disarm Hezbollah * Two said killed by IDF in Israeli-held area near Khan Younis</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-november-29-2025/\">Palestinians say 10 wounded in settler attack near Bethlehem, including one by gunfire</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AFP__20251117__84AP39R__v2__HighRes__PalestinianIsraelConflictSettlers-1024x640.jpg\" title=\"Palestinians say 10 wounded in settler attack near Bethlehem, including one by gunfire\" width=\"160\" /></figure>",
       "date_published": "2025-11-29T04:18:22+00:00",
       "authors": [],
       "tags": [
@@ -2516,20 +2354,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "1d4d5a2d6bdb192117b0212a7ca1cdf8f8979e79a3d82c2dd0ddcc61666d4299",
-      "url": "https://ici.radio-canada.ca/nouvelle/2210584/attaque-russe-drones-kiev-mort-blesses",
-      "title": "Une attaque « terroriste » russe de drones sur Kiev fait un mort et sept blessés",
-      "content_html": "<p>De fortes explosions ont d&#x27;abord été entendues vers minuit par des journalistes de l&#x27;AFP au centre de Kiev.</p>",
-      "date_published": "2025-11-29T02:28:44+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "f9e1783e2a3266d10c2bd31f9dcab243bd8f98bfcd9fe8ca7ed368c2241105af",
@@ -3029,22 +2853,6 @@
       "lang": "en"
     },
     {
-      "id": "0b65d02eed39168106476b68437f9ee7ef898927d385e138dcf8dd76f8821b9c",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20251128-la-france-cancre-de-l-europe",
-      "title": "La France : cancre de l'Europe ?",
-      "content_html": "Les parlementaires français sont-ils les seuls à ne pas réussir s'entendre pour construire un budget solide? Nos voisins européens s’en sortent-ils mieux, y aurait-il une exception française? On en parle avec l'économiste et et conseillère économique chez PwC France, Stéphanie Villers.",
-      "date_published": "2025-11-28T22:44:43+00:00",
-      "authors": [],
-      "tags": [
-        "La question qui fâche"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d6598ba5710cb2f9b78abc578fb0457716904adced822c3989a8072154290a8c",
       "url": "https://ici.radio-canada.ca/nouvelle/2210525/dialogue-autochtones-ottawa-alberta-energie",
       "title": "Entente Ottawa-Alberta sur l’énergie : l’exclusion autochtone dénoncée",
@@ -3101,26 +2909,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "785187a2c45c18b32f0a582cffe812f32bf660177803ca810f8592bd764dc630",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251128-ilidio-vieira-t%C3%A9-nomm%C3%A9-premier-ministre-la-vie-reprend-son-cours-%C3%A0-bissau",
-      "title": "Ilidio Vieira Té nommé premier ministre, la vie reprend son cours à Bissau",
-      "content_html": "La Guinée Bissau a désormais un Premier ministre de transition. Ilidio Vieira Té a été nommé ce vendredi, deux jours après le coup d’Etat qui a démis Umuru Sissoko Embalo et porté à la tête du pays le Général Horta N’Tam. L’ex-président lui a atterri à Dakar jeudi soir. A Bissau, la vie reprend lentement son cours ce vendredi, alors que les militaires au pouvoir ont levé les mesures de restrictions prises au moment du putsch.",
-      "date_published": "2025-11-28T22:19:03+00:00",
-      "authors": [
-        {
-          "name": "Fatimata WANE"
-        }
-      ],
-      "tags": [
-        "Journal de l'Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "cc066d35750953eecbec2fc65687fd2ca1b2ac9875979ba98e52b166c3e65ecb",
@@ -3329,40 +3117,6 @@
       "lang": "en"
     },
     {
-      "id": "fcd4deb6f65bc542ff4d6de2ee85c459c42925e9ad35570a335994422fd8e8ee",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251128-port-au-prince-cotonou-%E2%80%93-un-roman-sur-les-liens-oubli%C3%A9s-entre-ha%C3%AFti-et-l-afrique",
-      "title": "Port-au-Prince Cotonou – Un roman sur les liens oubliés entre Haïti et l’Afrique",
-      "content_html": "Dans Port-au-Prince Cotonou – Un écho sans retour, le journaliste et écrivain Philomé Robert raconte la trajectoire de deux Haïtiens partis servir l’Afrique après les indépendances. Un roman politique, intime et mémoriel, qui fait dialoguer Haïti et le continent africain à travers les liens invisibles de la diaspora et de la solidarité postcoloniale. Un récit profondément humain, entre lucidité et espoir, à découvrir dans le Journal de l’Afrique.",
-      "date_published": "2025-11-28T21:23:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "231c47604d54093679e555dbceae102f4e38228120a7116d22816ce923c7392c",
-      "url": "https://www.ukrinform.net/rubric-ato/4064095-battery-warehouse-catches-fire-in-russias-alabuga-sez.html",
-      "title": "Battery warehouse catches fire in Russia's Alabuga SEZ",
-      "content_html": "A battery storage warehouse is on fire in the Alabuga Special Economic Zone (SEZ) in Tatarstan, Russia, where Shahed drones are among the equipment manufactured.",
-      "date_published": "2025-11-28T21:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8454f9ecafea43e8f33874983b8c323ae8de325bd55d67d1c079f6e1e4110abf",
       "url": "https://www.timesofisrael.com/hezbollah-leader-terror-group-has-right-to-respond-to-israels-killing-of-military-chief/",
       "title": "Hezbollah leader says group has ‘right to respond’ to Israel’s killing of military chief",
@@ -3435,26 +3189,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "c57abe0c6cc6808c8da64ea07ce2ab9eaee99ab00540b370bc8cdbae9e8455f7",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20251128-attention-aux-vid%C3%A9os-ia-hyperr%C3%A9alistes-montrant-de-fausses-victimes-du-conflit-au-soudan",
-      "title": "Attention aux vidéos IA hyperréalistes montrant de fausses victimes du conflit au Soudan",
-      "content_html": "Des milliers de vidéos prétendent montrer sur les réseaux sociaux les victimes de la guerre civile qui ravage le Soudan. Générées par l'Intelligence Artificielle, elles deviennent de plus en plus difficiles à détecter, grâce à leur hyperréalisme. Avec pour conséquence d'invisibiliser les vraies victimes. Décryptage dans Info Intox de Jules Boiteau.",
-      "date_published": "2025-11-28T20:56:48+00:00",
-      "authors": [
-        {
-          "name": "Jules BOITEAU"
-        }
-      ],
-      "tags": [
-        "Info ou intox"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "a1b81d100ade93520e21b94ec83c05961a41d591bc3b228b5e1ce6059bd06d70",
@@ -3630,26 +3364,6 @@
       "lang": "en"
     },
     {
-      "id": "87721913fef2ddcd83b1f826eee02fecad6660376881bc97137dfb01d52e56bd",
-      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20251128-alfred-de-montesquiou-nuremberg-a-%C3%A9t%C3%A9-le-triomphe-du-droit-sur-la-violence-et-l-arbitraire",
-      "title": "Alfred de Montesquiou: Nuremberg a été \"le triomphe du droit sur la violence et l'arbitraire\"",
-      "content_html": "Le procès de Nuremberg s'ouvrait il y a 80 ans. Vingt-et-un dignitaires nazis jugés pour leurs crimes par un tribunal mis sur pied par les vainqueurs de la Seconde Guerre mondiale, dans cette ville où les grands congrès du parti du Reich se sont tenus dans les années 1930. Ce procès s'est tenu pendant dix mois et est entré dans l'Histoire comme un moment fondateur du droit pénal international, où la notion de \"crime contre l'Humanité\" est apparue pour la première fois. Alfred de Montesquiou, grand reporter, écrivain et prix Renaudot de l'essai 2025 pour son ouvrage \"Le crépuscule des hommes\" (éd. Robert Laffont), était l'invité d'Au cœur de l'info.",
-      "date_published": "2025-11-28T20:34:15+00:00",
-      "authors": [
-        {
-          "name": "Achren VERDIAN"
-        }
-      ],
-      "tags": [
-        "Au cœur de l’info, l’invité"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1838e56075be16999a6d53f67e636f7aef9fefc5db7dc17d608fe4d359d61a79",
       "url": "https://www.france24.com/en/americas/20251128-airbus-warns-travel-disruption-thousands-planes-require-urgent-software-fix-a320",
       "title": "Airbus warns of travel disruption as thousands of planes require urgent software fix",
@@ -3728,26 +3442,6 @@
       "lang": "fr"
     },
     {
-      "id": "80b61e5272d3701a3c5c353745ef7b041f7efb3927d2ddfab9b4955681581932",
-      "url": "https://www.france24.com/fr/france/20251128-airbus-appelle-remplacer-urgence-logiciel-vuln%C3%A9rable-6-000-a320-avions",
-      "title": "Airbus appelle à remplacer d'urgence un logiciel vulnérable sur 6 000 avions A320",
-      "content_html": "Quelque 6 000 avions A320 d'Airbus doivent remplacer en urgence un logiciel de commande vulnérable aux radiations solaires après un \"événement\" aux États-Unis sur un appareil de la compagnie JetBlue, fin octobre.",
-      "date_published": "2025-11-28T20:12:52+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7226dafb901436f361353279c314b0c2c027f002ddcaeebf116ba36fe0cfd177",
       "url": "https://www.bbc.com/news/articles/c058lny3pdqo?at_medium=RSS&at_campaign=rss",
       "title": "Hungary's Orban defies EU partners and meets Putin again in Moscow",
@@ -3760,26 +3454,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "2739dff35b3cf03bc0c77e1226538db971d671781f2907cb3b039b0f95f98eca",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20251128-maxime-pr%C3%A9vot-saisir-les-avoirs-gel%C3%A9s-russes-implique-un-risque-juridique-pour-la-belgique",
-      "title": "Maxime Prévot : \"Saisir les avoirs gelés russes implique un risque juridique pour la Belgique\"",
-      "content_html": "Face au plan de paix de Donald Trump pour l'Ukraine qui laisse encore l’Union Européenne à la traine, Maxime Prévot, ministre belge des Affaires étrangères, s’exprime sur ce conflit au cœur de l’Europe. Il évoque les enjeux de défense : réarmement, service national et la question sensible des avoirs russes gelés. Il commente aussi les questions de politique intérieure.",
-      "date_published": "2025-11-28T20:03:46+00:00",
-      "authors": [
-        {
-          "name": "Caroline DE CAMARET"
-        }
-      ],
-      "tags": [
-        "Ici l'Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "7bf2a79c06484550bf94f91a8cef935400616fed3e0f77d65cdd5e7e8c309a5d",
@@ -3814,46 +3488,6 @@
       "lang": "en"
     },
     {
-      "id": "4a2de8a70255bc725c519d81229d5215694e72c157485ad530942f7b77a04283",
-      "url": "https://www.france24.com/fr/france/20251128-migrants-dans-la-manche-comment-la-france-veut-intercepter-les-taxi-boats",
-      "title": "Migrants dans la Manche : comment la France veut intercepter les taxi-boats",
-      "content_html": "Alors que plus de 39 000 migrants ont traversé la Manche en direction du Royaume-Uni depuis le début de l'année, la France s'apprête à expérimenter une nouvelle doctrine d'interceptions maritimes pour bloquer les passeurs, jusqu'à présent écartée en raison de sa dangerosité.",
-      "date_published": "2025-11-28T19:30:57+00:00",
-      "authors": [
-        {
-          "name": "Louis CHAHUNEAU"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "724afdf0425caee66aee07c87704aa1663f73bae5770232b5a1c042d13216c75",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20251128-forum-%C3%A9conomique-des-banlieues-un-potentiel-%C3%A9conomique-peu-exploit%C3%A9",
-      "title": "Forum économique des banlieues : un potentiel économique peu exploité ?",
-      "content_html": "La seconde édition du Forum économique des banlieues, qui s'est tenu cette semaine, a mis en avant les atouts de ces territoires qui souffrent encore d'une image peu attractive. Pour les fondateurs de ce \"Davos des banlieues\", les quartiers prioritaires de la ville, marqués par des taux de chômage et de pauvreté plus élevés que la moyenne nationale, pourraient être les leviers de la croissance de demain. Comment y attirer les entreprises ? Comment lever les freins à leur développement économique ?",
-      "date_published": "2025-11-28T19:30:51+00:00",
-      "authors": [
-        {
-          "name": "David DELOS"
-        }
-      ],
-      "tags": [
-        "La semaine de l’éco"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c4826dba8d2c1199c5da53acae24fd206d97591ea467846b338fb78f3510048d",
       "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20251128-ukraine-the-shape-shifting-dim-wit-plan-venezuela-europe-s-call-of-duty",
       "title": "Ukraine & the shape shifting 'Dim-Wit' plan, Venezuela, Europe's call of duty",
@@ -3872,26 +3506,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "9a368ccf3caf1d7c5c8d11b4d530561ca7ea73a0075fa5fd8350fbf4c7ea31f7",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20251128-plan-de-paix-pour-l-ukraine-nouveau-service-militaire-en-france-coup-d-%C3%A9tat-en-guin%C3%A9e-bissau-et-vagues-d-enl%C3%A8vements-au-nigeria",
-      "title": "Plan de paix pour l'Ukraine, service militaire en France, crises en Guinée-Bissau et au Nigeria",
-      "content_html": "Une nouvelle mouture du plan de paix américain pour l'Ukraine a été transmise à Moscou, Kiev et les Européens ayant réussi à imposer des modifications. Face à la menace russe, le président français Emmanuel Macron a justement annoncé la création d'un service militaire national de dix mois pour les jeunes majeurs volontaires. En Guinée-Bissau, le processus électoral a été interrompu par un coup d'État et le général Horta N'Tam a été investi président de la transition pour diriger le pays pendant un an. Enfin au Nigeria, une vague d'enlèvements secoue le pays avec encore dix personnes kidnappées lundi dernier dans un village de l'État de Kwara.",
-      "date_published": "2025-11-28T19:20:44+00:00",
-      "authors": [
-        {
-          "name": "Achren VERDIAN"
-        }
-      ],
-      "tags": [
-        "Une semaine dans le monde"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "6559c78136a88decc0dde47995d2d322da9bd0eb257b10989f0c091bc440f19a",
@@ -4798,20 +4412,6 @@
       "lang": "fr"
     },
     {
-      "id": "59d88cfe20c07a1f01ba9b8cf42f437ffaa653c4e2456940d492dd7ab67116f8",
-      "url": "https://www.lemonde.fr/planete/article/2025/11/28/l-argentine-confrontee-a-une-chute-historique-de-sa-couverture-vaccinale_6655267_3244.html",
-      "title": "L’Argentine confrontée à une chute historique de sa couverture vaccinale",
-      "content_html": "Des citoyens et des professionnels de la santé lors d’un rassemblement de soutien à l’hôpital public et contre la politique de santé du gouvernement du président Javier Milei, Buenos Aires, le 31 juillet 2025.",
-      "date_published": "2025-11-28T16:00:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "eb80ccf265b99e8d8d0907b40e0e3099446b6d43ff3b2be390bb19f011ef27ac",
       "url": "https://www.theguardian.com/world/2025/nov/28/talks-for-uk-to-join-eu-defence-fund-collapse-in-blow-to-starmers-bid-to-reset-relations",
       "title": "Talks for UK to join EU defence fund collapse in blow to Starmer’s bid to reset relations",
@@ -5163,29 +4763,6 @@
       "lang": "fr"
     },
     {
-      "id": "36bd6c4f16d650846651a0c674f679acb0945b4eed0e6c5c5e16bebe2a54331c",
-      "url": "https://www.theguardian.com/australia-news/2025/nov/29/mineral-sunscreens-australia-identical-to-others",
-      "title": "‘Mineral’ sunscreens marketed to Australians contain almost identical chemicals as others, testing shows",
-      "content_html": "<p><strong>Exclusive: </strong>UNSW researchers found protection in products usually marketed as ‘natural’ is also contained in cheaper alternatives</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian consumers are paying a premium for “mineral” sunscreens that contain almost identical chemicals to cheaper varieties, new testing has revealed.</p><p>The University of New South Wales’ school of chemistry tested 10 sunscreens, including Invisible Zinc children’s sunscreen and a Naked Sundays skin tint that retails for $58 – both marketed as mineral sunscreens.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/29/mineral-sunscreens-australia-identical-to-others\">Continue reading...</a>",
-      "date_published": "2025-11-28T14:00:11+00:00",
-      "authors": [
-        {
-          "name": "Catie McLeod Consumer affairs reporter"
-        }
-      ],
-      "tags": [
-        "Consumer affairs",
-        "Australia news",
-        "Health",
-        "Skincare"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7fe378d88b4e736f3fb0bc4f257fc095c4f08f4233f1d180268b907b25c84926",
       "url": "https://www.theguardian.com/australia-news/2025/nov/29/exclusive-gun-club-linked-to-andrew-hastie-awarded-almost-20000-in-government-grants",
       "title": "Exclusive gun club linked to Andrew Hastie awarded almost $20,000 in government grants",
@@ -5201,6 +4778,29 @@
         "Australian politics",
         "Western Australia",
         "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "36bd6c4f16d650846651a0c674f679acb0945b4eed0e6c5c5e16bebe2a54331c",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/29/mineral-sunscreens-australia-identical-to-others",
+      "title": "‘Mineral’ sunscreens marketed to Australians contain almost identical chemicals as others, testing shows",
+      "content_html": "<p><strong>Exclusive: </strong>UNSW researchers found protection in products usually marketed as ‘natural’ is also contained in cheaper alternatives</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian consumers are paying a premium for “mineral” sunscreens that contain almost identical chemicals to cheaper varieties, new testing has revealed.</p><p>The University of New South Wales’ school of chemistry tested 10 sunscreens, including Invisible Zinc children’s sunscreen and a Naked Sundays skin tint that retails for $58 – both marketed as mineral sunscreens.</p> <a href=\"https://www.theguardian.com/australia-news/2025/nov/29/mineral-sunscreens-australia-identical-to-others\">Continue reading...</a>",
+      "date_published": "2025-11-28T14:00:11+00:00",
+      "authors": [
+        {
+          "name": "Catie McLeod Consumer affairs reporter"
+        }
+      ],
+      "tags": [
+        "Consumer affairs",
+        "Australia news",
+        "Health",
+        "Skincare"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -5317,22 +4917,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "eb84a739876e80d1263c749f1e498ee7d3ca47643286504813532cde4159a99a",
-      "url": "https://www.dw.com/en/north-korea-claims-victory-in-war-on-religion/a-74937436?maca=en-rss-en-all-1573-rdf",
-      "title": "North Korea claims victory in 'war on religion'",
-      "content_html": "Pyongyang boasts of crushing underground churches, but defectors and rights groups say secret worship persists despite harsh crackdowns and severe punishments.",
-      "date_published": "2025-11-28T13:07:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -5756,7 +5340,7 @@
     {
       "id": "ba45175ae81c45b84941dbffa7008ea666964db23c0d3381b9efe9e72fa799c5",
       "url": "https://www.elmundo.es/internacional/2025/11/28/6929727fe9cf4ae82a8b45b9.html",
-      "title": "De Wever se retourne contre Von der Leyen par lettre : le projet d'utiliser des actifs russes est \"fondamentalement mauvais\", une \"expropriation illégale\" et pourrait \"empêcher\" un accord de paix",
+      "title": "De Wever s'en prend à Von der Leyen par lettre : le projet d'utiliser des actifs russes est \"fondamentalement mauvais\", une \"expropriation illégale\" et pourrait \"empêcher\" un accord de paix",
       "content_html": "Le Premier Ministre belge vous envoie une longue lettre dans laquelle il explique toutes ses exigences pour accepter que l'UE ait accès aux 185 milliards de dollars accumulés dans Euroclear.",
       "date_published": "2025-11-28T09:59:32+00:00",
       "authors": [
@@ -6478,7 +6062,7 @@
       "id": "5ab29348d1cff58929c5200da914ffbc3f12bbee948704566c5b30848178074c",
       "url": "https://www.elmundo.es/internacional/2025/11/26/6927569fe9cf4a46518b4599.html",
       "title": "José Manuel Durão Barroso, ancien président de la Commission européenne : « L'UE a besoin de dirigeants qui comprennent qu'il est temps de prendre des décisions audacieuses »",
-      "content_html": "Il a traité de la crise de l'euro depuis Bruxelles, mais l'ancien Premier ministre portugais avoue dans une conversation avec EL MUNDO que la situation actuelle en Europe \"est plus difficile\".",
+      "content_html": "Il a traité de la crise de l'euro depuis Bruxelles, mais l'ancien premier ministre portugais avoue dans une conversation avec EL MUNDO que la situation actuelle en Europe \"est plus difficile\".",
       "date_published": "2025-11-27T19:34:29+00:00",
       "authors": [
         {
@@ -7319,7 +6903,7 @@
     {
       "id": "e380f57e40d65ad61c2f046693316f8615a6289fe86274e0cf89778af8fd6e0a",
       "url": "https://www.elmundo.es/internacional/2025/11/27/69278c96fc6c83ca678b45b3.html",
-      "title": "Le combat entre Trump et Maduro atteint les élections honduriennes",
+      "title": "La lutte entre Trump et Maduro atteint les élections honduriennes",
       "content_html": "\"La démocratie est en question lors des prochaines élections dans le beau pays du Honduras, le 30 novembre\", a déclaré Trump.",
       "date_published": "2025-11-27T06:34:44+00:00",
       "authors": [
@@ -7344,7 +6928,7 @@
       "id": "0b099d9f01e9e43f95e597d37a25ebcce0fd89d3d936e675584404ef1e09dafa",
       "url": "https://www.elmundo.es/internacional/2025/11/26/69275e4821efa089478b4591.html",
       "title": "Deux membres de la Garde nationale grièvement blessés dans une fusillade près de la Maison Blanche",
-      "content_html": "Trump promet que le tireur, un Afghan de 29 ans, « paiera un prix très élevé », tandis que son administration suspend les procédures d'immigration des citoyens de ce pays.",
+      "content_html": "Trump promet que le tireur, un Afghan de 29 ans, « paiera un prix très élevé », tandis que son administration suspend les procédures d'immigration pour les citoyens de ce pays.",
       "date_published": "2025-11-27T06:33:32+00:00",
       "authors": [
         {
@@ -7527,24 +7111,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5a5f2c1d6932c08fb9f9b602f83a921de56b27279455f25585c07c34bf774732",
-      "url": "https://www.liberation.fr/international/asie-pacifique/a-hongkong-un-impressionnant-incendie-fait-au-moins-quatre-morts-dans-plusieurs-gratte-ciels-20251126_5ZQFCVTCOBC6JOJJABHRUPVNLY/",
-      "title": "A Hongkong, un impressionnant incendie fait au moins 65 morts dans plusieurs gratte-ciel",
-      "content_html": "District de Tai Po à Hong Kong, le 25 novembre.",
-      "date_published": "2025-11-26T22:21:41+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
@@ -8790,20 +8356,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "eaf1e9d2531c06edef360c1ade9c27d322764cdb75a7e5f5f92a964fef6da9f5",
-      "url": "https://www.themoscowtimes.com/2025/11/22/ukraine-us-to-start-talks-in-switzerland-on-trumps-plan-to-end-war-a91212",
-      "title": "Ukraine, U.S. to Start Talks in Switzerland on Trump's Plan to End War",
-      "content_html": "Zelensky was also holding phone calls with European counterparts, as he promised to work around the clock to ensure the final peace agreement protects Ukraine's future.",
-      "date_published": "2025-11-22T16:25:43+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
