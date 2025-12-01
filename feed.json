@@ -5,11 +5,41 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "9d4abf591b7efbecf49dca89b9e8b410c37f0c8452a4d996d6404adf21f1e039",
+      "url": "https://elpais.com/internacional/2025-12-01/mas-de-un-millar-de-muertos-por-las-inundaciones-y-corrimientos-de-tierra-en-el-sudeste-asiatico.html",
+      "title": "Plus d'un millier de morts suite à des inondations et des glissements de terrain en Asie du Sud-Est",
+      "content_html": "Les secouristes utilisent des cordes pour évacuer le corps d'une victime des inondations à Tanah Datar, province de Sumatra occidental, en Indonésie, ce lundi 1er décembre.",
+      "date_published": "2025-12-01T10:11:46+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [
+        "Inundaciones",
+        "Asia",
+        "Sudeste asiático",
+        "Indonesia",
+        "Tailandia",
+        "Malasia",
+        "Sri Lanka",
+        "Víctimas",
+        "Catástrofes",
+        "Desastres",
+        "Desastres naturales"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "e73c055a141511b2bf034084683d741fbf24170b98f08897a71d1c460c055cec",
       "url": "https://www.liberation.fr/international/europe/en-direct-guerre-en-ukraine-suivez-la-visite-de-volodymyr-zelensky-a-paris-20251201_VJPOOBOIKVGSJAMNW7S6EPLAIQ/",
-      "title": "EN DIRECT - Guerre en Ukraine : Volodymyr Zelensky sur le point d’arriver à l’Elysée",
+      "title": "EN DIRECT - Guerre en Ukraine : Volodymyr Zelensky et Emmanuel Macron entament leur réunion à l’Elysée",
       "content_html": "Volodymyr Zelensky et Emmanuel Macron lors d'une précédente rencontre à l'Elysée, en juin 2024.",
-      "date_published": "2025-12-01T09:43:11+00:00",
+      "date_published": "2025-12-01T10:10:33+00:00",
       "authors": [
         {
           "name": "Jérôme Balazard, Eléonore Disdero, Miren Garaicoechea, Service Photo,  AFP, Reuters ."
@@ -23,11 +53,186 @@
       "lang": "fr"
     },
     {
+      "id": "6cc08d4f8d0a68933e5263751d80a77f57d24eb10fa23bb721842853344c743c",
+      "url": "https://www.liberation.fr/international/asie-pacifique/bangladesh-lex-premiere-ministre-sheikh-hasina-et-sa-niece-condamnees-pour-corruption-20251201_QOQP7KBISZD67J4DNC5N2ZPDTU/",
+      "title": "Bangladesh : l’ex-Première ministre Sheikh Hasina et sa nièce condamnées pour corruption",
+      "content_html": "Sheikh Hasina, Première ministre du Bangladesh d'alors, pendant le Girl Summit 2014, à Londres.",
+      "date_published": "2025-12-01T10:08:49+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cae393d4ce0e03b6809951f0dab4850d39a13d30dcaab04cbf1ba42328cfa47a",
+      "url": "https://www.lemonde.fr/international/live/2025/12/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-accueilli-a-l-elysee-par-emmanuel-macron_6655415_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accueilli à l’Elysée par Emmanuel Macron",
+      "content_html": "Volodymyr Zelenskyy lors d’une réunion avec son homologue grec Constantine Tassoulas au palais présidentiel d’Athènes, en Grèce, le 16 novembre 2025.",
+      "date_published": "2025-12-01T10:06:33+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e47bfa822b8b3039d48f2d0f078f2727e5b232202c19ef01b4b1ecd8d7f604ee",
+      "url": "https://ici.radio-canada.ca/sports/2208948/waterpolo-canada-allegations-poursuite",
+      "title": "Water Polo Canada aurait été informé dès 2001 d’allégations visant ses entraîneurs",
+      "content_html": "<p>Certains d&#x27;entre eux ont continué à travailler pendant des années dans ses équipes nationales.</p>",
+      "date_published": "2025-12-01T10:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4e9935c3ca29f5af75f5249ef182612ffabe24b7bc055e0962709ebf12001e9f",
+      "url": "https://www.france24.com/en/video/20251201-us-congress-investigates-reported-follow-up-attack-on-venezuelan-ship",
+      "title": "US Congress investigates reported follow-up attack on Venezuelan ship",
+      "content_html": "US lawmakers are investigating a reported second strike on a suspected drug boat in the Caribbean after a Washington Post report claimed Defense Secretary Pete Hegseth ordered the killing of all survivors. Trump denies knowing about the alleged follow-up attack. UN experts and Venezuela call the strikes extrajudicial killings, as tensions between Washington and Caracas continue to rise.",
+      "date_published": "2025-12-01T09:59:50+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f7aec2ed5d4a7d111c96994c4170703432bf2359a182addc48dfd4113e4f0fe0",
+      "url": "https://www.dw.com/en/ukraine-updates-pivotal-week-for-diplomacy-say-eu-nato/live-74964267?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine updates: 'Pivotal week for diplomacy' say EU, NATO",
+      "content_html": "Ukraine's President Voldymyr Zelenskyy will travel to Paris Monday for talks with French counterpart Emmanuel Macron. The meeting kicks off what EU top diplomat Kaja Kallas called a \"pivotal\" week. DW has the latest.",
+      "date_published": "2025-12-01T09:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3ca1d27b38d018bd7d1bd51d8c391067166d665bb17f1deddd265498554c14b2",
+      "url": "https://www.ukrinform.net/rubric-crime/4064736-poland-initiates-european-arrest-warrant-for-two-ukrainians-involved-in-railway-sabotage.html",
+      "title": "Poland initiates European arrest warrant for two Ukrainians involved in railway sabotage",
+      "content_html": "Warsaw is initiating the issuance of a European arrest warrant for two Ukrainian citizens suspected of involvement in sabotage on the Polish railway.",
+      "date_published": "2025-12-01T09:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "Crime"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cfba2f971a9b270bc2b17a5432b9d85354d9980c3e4ad97a51e6e3cb6e9cfe8e",
+      "url": "https://www.timesofisrael.com/idf-to-receive-iron-beam-laser-interceptors-at-the-end-of-the-month/",
+      "title": "IDF to receive ‘Iron Beam’ laser interceptors at the end of the month",
+      "content_html": "<p>The system, which has been in development since 2014, will 'fundamentally change' rules of engagement, Defense Ministry official says; next-gen versions already in the works</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-to-receive-iron-beam-laser-interceptors-at-the-end-of-the-month/\">IDF to receive ‘Iron Beam’ laser interceptors at the end of the month</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/10/Untitled-15577-1024x640.jpg\" title=\"IDF to receive ‘Iron Beam’ laser interceptors at the end of the month\" width=\"160\" /></figure>",
+      "date_published": "2025-12-01T09:58:49+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Iron Beam",
+        "IDF Israel Defense Forces",
+        "Defense Ministry",
+        "Rafael Advanced Defense Systems"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ccf0f3b89d8a1d439880daf85f6f843eeec7f7848d2d3b342f7e7cfe0d7cc2a8",
+      "url": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Death toll in Indonesia floods passes 500",
+      "content_html": "Another 500 people are missing, while thousands more have been injured, after a cyclone hit the region.",
+      "date_published": "2025-12-01T09:57:33+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fddfd4c1bcdb1a6c1f36ab0c0e17c5f8da5c71b10754657fac6aba5d9fa5173d",
+      "url": "https://www.elmundo.es/internacional/2025/12/01/692d6204e4d4d8032c8b4599.html",
+      "title": "Volodymyr Zelensky s'appuie sur Emmanuel Macron dans la semaine critique pour le plan de paix en Ukraine",
+      "content_html": "Les deux dirigeants discuteront du projet de Trump et feront le point sur le « travail réalisé sur les garanties de sécurité dans le cadre de la Coalition des Volontaires » qui rassemble 35 pays.",
+      "date_published": "2025-12-01T09:57:07+00:00",
+      "authors": [
+        {
+          "name": "Carlos Fresneda"
+        }
+      ],
+      "tags": [
+        "Ucrania",
+        "Rusia",
+        "Artículos Carlos Fresneda"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d86518bf253d8ad6a294561d47a66d446c149b115c6cc8a5e0fe29cf533ddcbe",
+      "url": "https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates",
+      "title": "Zelenskyy to meet Macron, as US negotiators Steve Witkoff and Jared Kushner head to Moscow – Europe live",
+      "content_html": "<p>Ukrainian president embarks on busy week of diplomacy as US ups pressure to end war</p><p><em>Russian affairs reporter</em></p><p><strong>Vladimir Putin is set to meet US special envoy Steve Witkoff on Tuesday afternoon, the Kremlin announced on Monday morning.</strong></p> <a href=\"https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2025-12-01T09:53:59+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "45fd5c49fbe30dad5a9d9f14fae660528b44f274a21418f758e418c1916b65f6",
       "url": "https://www.theguardian.com/politics/live/2025/dec/01/keir-starmer-rachel-reeves-budget-labour-uk-politics-live-news-latest-updates",
       "title": "Starmer to defend Reeves after claims that some ministers feel she misled them ahead of budget – UK politics live",
-      "content_html": "<p>Prime minister to give speech after report that some ministers are unhappy over handling of the budget</p><p>Good morning. At Westminster there used to be a theory about budgets that, if they were well received on the day, they tended to go wrong later, but the ones that were widely criticised at the time turned out to be the good ones. This does not help with Rachel Reeves’s budget though, because its reception has been very mixed. On the day it was popular with Labour MPs and with the bond markets, two important audiences for the Treasury. But the public at large believe<a href=\"https://www.theguardian.com/politics/live/2025/nov/28/workers-rights-bill-unfair-dismissal-uk-politics-latest-news-updates-labour-budget-keir-starmer?page=with%3Ablock-6929afb58f085c6c5a874c28#block-6929afb58f085c6c5a874c28\"> it was unfair</a>, and it has result in Reeves’s approval ratings with voters, which were already very low,<a href=\"https://www.theguardian.com/politics/live/2025/nov/28/workers-rights-bill-unfair-dismissal-uk-politics-latest-news-updates-labour-budget-keir-starmer?page=with%3Ablock-6929bf2e8f087062a547cbca#block-6929bf2e8f087062a547cbca\"> sinking further</a>.</p><p>And that was before <a href=\"https://www.theguardian.com/politics/2025/nov/30/rachel-reeves-denies-lying-public-budget-tax-rises\">a huge row erupted</a> over whether or not Reeves misled voters about the extent of the “black hole” in the national finances.</p><p><em>We have to confront the reality that our welfare state is trapping people, not just in poverty, but out of work. Young people especially. And that is a poverty of ambition. And so while we will invest in apprenticeships and make sure every young person without a job has a guaranteed offer of training or work.</em></p><p><em>We must also reform the welfare state itself – that is what renewal demands. Now – this is not about propping up a broken status quo.</em></p><p><strong>One cabinet minister</strong> said: “Why did Keir and Rachel allow the country to believe for so long that we would break our manifesto by putting up income tax by 2p when they would have known that wasn’t true?</p><p>“At no point were the cabinet told about the reality of the OBR forecasts. Had we been told, we might have been in a position to advise against setting hares running on income tax and giving the public the impression we are casual about our manifesto commitments. The handling of this budget has been a disaster from start to finish.”</p> <a href=\"https://www.theguardian.com/politics/live/2025/dec/01/keir-starmer-rachel-reeves-budget-labour-uk-politics-live-news-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-12-01T09:39:17+00:00",
+      "content_html": "<p>Prime minister to give speech after report that some ministers are unhappy over handling of the budget</p><p>Many of the papers have gone to down this morning on the claims that Rachel Reeves misled the public abouit the state of the public finances ahead of the budget.</p><p>Here is the Times’s splash, as referred to earlier. (See<a href=\"https://www.theguardian.com/politics/live/2025/dec/01/keir-starmer-rachel-reeves-budget-labour-uk-politics-live-news-latest-updates?page=with%3Ablock-692d49e78f08e31f751fbb95#block-692d49e78f08e31f751fbb95\"> 9.28am</a>.)</p> <a href=\"https://www.theguardian.com/politics/live/2025/dec/01/keir-starmer-rachel-reeves-budget-labour-uk-politics-live-news-latest-updates\">Continue reading...</a>",
+      "date_published": "2025-12-01T09:53:58+00:00",
       "authors": [
         {
           "name": "Andrew Sparrow"
@@ -51,6 +256,185 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "08a19ec437233f896137fef5b01cfc9bc3d49b328540d56322c3e1928f9543c2",
+      "url": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss",
+      "title": "Israel’s genocidal war forces Gaza children into work as breadwinners",
+      "content_html": "Children as young as eight have been pushed to work for their families’ survival, losing their education and childhood.",
+      "date_published": "2025-12-01T09:52:52+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "127d031967efeb1873dafdc5bde6044b29baa71a1bb851238efce671975e4135",
+      "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
+      "title": "Accenture dubs 800,000 staff ‘reinventors’ amid shift to AI",
+      "content_html": "<p>Consultancy’s move to embrace artificial intelligence follows Disney’s use of the term ‘imagineers’ </p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/dec/01/uk-economic-growth-2026-unemployment-rises-budget-sterling-bonds-stock-market-business-live\">Business live –latest updates</a></p></li></ul><p>Accenture has reportedly begun calling its 800,000 employees “reinventors”, as the consultancy tries to position itself as a leader in artificial intelligence.</p><p>The consultancy’s chief executive, Julie Sweet, has already started referring to staff by the new label and the business is now pushing for the term to be used more widely, the Financial Times reported, citing people at the company.</p> <a href=\"https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence\">Continue reading...</a>",
+      "date_published": "2025-12-01T09:52:09+00:00",
+      "authors": [
+        {
+          "name": "Lauren Almeida"
+        }
+      ],
+      "tags": [
+        "Business",
+        "Technology sector",
+        "Artificial intelligence (AI)",
+        "Technology",
+        "UK news",
+        "US news",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cb157e4e3d4edd93cb8c5709e9c22dcf8104ae5b5b913a72afcfaacc168004a5",
+      "url": "https://www.elmundo.es/internacional/2025/12/01/692d59ece85ece06548b4587.html",
+      "title": "Treize personnes arrêtées pour l'incendie qui a tué 151 personnes à Hong Kong",
+      "content_html": "Selon les autorités, le treillis de protection qui recouvrait l'échafaudage ne répondait pas aux normes de résistance au feu.",
+      "date_published": "2025-12-01T09:52:04+00:00",
+      "authors": [
+        {
+          "name": "Afp | Ap"
+        }
+      ],
+      "tags": [
+        "Hong Kong"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c4b4c6f8ab35d4c1a181370bc8eefeb5c6e842902a78c1f540fe85b1a603d0e2",
+      "url": "https://www.france24.com/en/video/20251201-france-s-macron-to-host-ukraine-s-zelensky-to-show-support",
+      "title": "France's Macron to host Ukraine's Zelensky 'to show support'",
+      "content_html": "Ukrainian President Volodymyr Zelensky meets French counterpart Emmanuel Macron in Paris on Monday, seeking to shore up European support as US President Donald Trump expressed optimism of a deal to end Russia's war in Ukraine. 'This is very much a show of support from Emmanuel Macron', FRANCE 24's senior reporter Catherine Norris-Trent says from Paris.",
+      "date_published": "2025-12-01T09:50:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "27620f4ec1788fcfee13a113a297e93eba2180c746e6352238f5091d590b2e64",
+      "url": "https://www.elmundo.es/internacional/2025/12/01/692d03cce4d4d85b4f8b459a.html",
+      "title": "Lutte serrée entre le trumpiste Asfura et le libéral Nasralla après le naufrage de la gauche aux élections au Honduras",
+      "content_html": "Avec 44% comptés, le candidat soutenu par Trump ajouterait 40,4% des voix contre 39,2% pour le journaliste.",
+      "date_published": "2025-12-01T09:49:20+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [
+        "internacional",
+        "Honduras"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "24f76e89edf16fa94e8b26df4f4c6ca7dba586a1347b2b4f33bde1a89a4727aa",
+      "url": "https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live",
+      "title": "Death toll passes 1,000 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – latest updates",
+      "content_html": "<p>Hundreds remain missing in Indonesia and Sri Lanka as rescue efforts continue after Cyclone Ditwah</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/dec/01/asia-floods-visual-guide-flooding-extreme-weather-cyclones-monsoon\">How cyclones and monsoon rains combined to devastate parts of Asia – visual guide</a></p></li></ul><p>Emergency workers in Indonesia have found it difficult reaching many residents, especially those in areas cut off by landslides and collapsed bridges.</p><p>Authorities have particularly struggled to reach two cities hit hard by the flooding in North Sumatra: <strong>Central Tapanuli</strong> and <strong>Sibolga</strong>.</p> <a href=\"https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live\">Continue reading...</a>",
+      "date_published": "2025-12-01T09:48:01+00:00",
+      "authors": [
+        {
+          "name": "Yohannes Lowe"
+        }
+      ],
+      "tags": [
+        "South and central Asia",
+        "Extreme weather",
+        "Indonesia",
+        "Sri Lanka",
+        "Thailand",
+        "Malaysia",
+        "Flooding",
+        "Asia Pacific",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a6774bba3f7f74305f951f73c3e91e04433cfb02ded6d7c497a2d6588585565",
+      "url": "https://www.themoscowtimes.com/2025/12/01/fsb-agents-shoot-and-kill-ukrainian-accused-of-trying-to-assassinate-russian-military-officer-a91286",
+      "title": "FSB Agents Shoot and Kill Ukrainian Accused of Trying to Assassinate Russian Military Officer",
+      "content_html": "Authorities said the man, allegedly recruited by Ukraine’s GUR military intelligence, was “neutralized” after placing an explosive device under the officer’s car in annexed Crimea and “offering armed resistance.”",
+      "date_published": "2025-12-01T09:41:28+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a99983bf7434f77ac905a15b3900918dbb575a1ef1cfc0802372e04c7bde3402",
+      "url": "https://www.ukrinform.net/rubric-economy/4064719-russian-attacks-leave-users-in-several-regions-without-power-ukrenergo.html",
+      "title": "Russian attacks leave users in several regions without power — Ukrenergo",
+      "content_html": "As of the morning of December 1, new Russian attacks have left users in the Kharkiv, Dnipropetrovsk, and Kherson regions without power.",
+      "date_published": "2025-12-01T09:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0ab669643c48902c2f398d5f1dc744dd5914c0f1b265e7eb6a559f1ad679e5e9",
+      "url": "https://www.france24.com/fr/sports/20251201-etoo-ogier-lens-infos-sport-du-week-end",
+      "title": "Eto'o réélu, Ogier neuf fois champion, Lens leader : les infos sport du week-end",
+      "content_html": "En Formule 1, la victoire de Max Verstappen au Qatar promet un final complètement fou à la saison 2025. En Ligue 1, le RC Lens est passé en tête au nez et à la barbe du PSG et de l'OM tandis que Samuel Eto'o a été réélu à la tête de la Fédération camerounaise de football (Fecafoot).",
+      "date_published": "2025-12-01T09:38:19+00:00",
+      "authors": [
+        {
+          "name": "Romain HOUEIX"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "ac5052bdf6c52ae60d9c6f9eea8fb078af38a2b0b831aaa591cc256f6d702c14",
@@ -121,6 +505,42 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c0e84f1bcbbcffb6baa985bfbb6be55eb478478132deedd6f8644b09d1695572",
+      "url": "https://www.france24.com/en/asia-pacific/20251201-bangladesh-court-hands-jail-sentence-to-ouster-leader-hasina-niece-british-mp-tulip-siddiq",
+      "title": "Bangladesh court hands jail sentence to ousted leader's niece, British MP Tulip Siddiq",
+      "content_html": "A Bangladesh court on Monday handed prison sentences to British lawmaker Tulip Siddiq and her mother Sheikh Rehana, the sister of former Prime Minister Sheikh Hasina, for corruption related to land grabs in the capital. Siddiq, who was tried in absentia, has called the trial a \"persecution and a farce\".",
+      "date_published": "2025-12-01T09:26:25+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asia / Pacific"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6d40dba71252f09cac3a7d02b5750c6a82623f945d6850a87cbacc07dd0c685c",
+      "url": "https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show?traffic_source=rss",
+      "title": "Trump-backed candidate Nasry Asfura leads Honduras race, early trends show",
+      "content_html": "Nasry Asfura holds a narrow lead over his rival Salvador Nasralla, with about 40 percent of the votes counted.",
+      "date_published": "2025-12-01T09:25:17+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -202,32 +622,6 @@
       "lang": "fr"
     },
     {
-      "id": "24f76e89edf16fa94e8b26df4f4c6ca7dba586a1347b2b4f33bde1a89a4727aa",
-      "url": "https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live",
-      "title": "Death toll passes 1,000 in devastating floods across Indonesia, Sri Lanka, Malaysia and Thailand – latest updates",
-      "content_html": "<p>Hundreds remain missing in Indonesia and Sri Lanka as rescue efforts continue after Cyclone Ditwah</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/dec/01/asia-floods-visual-guide-flooding-extreme-weather-cyclones-monsoon\">How cyclones and monsoon rains combined to devastate parts of Asia – visual guide</a></p></li></ul><p>Now turning to <strong>Indonesia</strong>, where public anger is mounting over what many say was an ill-prepared governmental response to the deadly floods.</p><p><strong>Cyclone Senyar</strong>, which formed over the Malacca Strait, a stretch of water connecting the Indian Ocean and the South China Sea, made landfall last Wednesday, unleashing heavy rainfall that triggered flash floods and landslides in North Sumatra before continuing its devastating path in <strong>Aceh</strong> and <strong>West Sumatra</strong>.</p> <a href=\"https://www.theguardian.com/world/live/2025/dec/01/death-toll-floods-indonesia-sri-lanka-malaysia-thailand-latest-updates-news-live\">Continue reading...</a>",
-      "date_published": "2025-12-01T09:21:03+00:00",
-      "authors": [
-        {
-          "name": "Yohannes Lowe"
-        }
-      ],
-      "tags": [
-        "South and central Asia",
-        "Indonesia",
-        "Sri Lanka",
-        "Thailand",
-        "Malaysia",
-        "Asia Pacific",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f18d798b3438bad1783c279238f0ffb2a042dcc6951ea2bb5be2fed261e92a74",
       "url": "https://www.ukrinform.net/rubric-ato/4064711-russians-attack-dnipro-with-missiles.html",
       "title": "Russians attack Dnipro with missiles",
@@ -279,45 +673,42 @@
       "lang": "fr"
     },
     {
-      "id": "d86518bf253d8ad6a294561d47a66d446c149b115c6cc8a5e0fe29cf533ddcbe",
-      "url": "https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates",
-      "title": "Zelenskyy to meet Macron, as US negotiators Steve Witkoff and Jared Kushner head to Moscow – Europe live",
-      "content_html": "<p>Ukrainian president embarks on busy week of diplomacy as US ups pressure to end war</p><p>Arriving at the ministerial meeting in Brussels, <strong>EU foreign policy chief Kaja Kallas said this week could be “pivotal” for diplomacy on Ukraine.</strong></p><p>“It is clear that Russia does not want peace, and therefore w<strong>e need to make Ukraine as strong as possible in order to them to be ready to stand up for themselves</strong> in this very, very difficult time,” she said.</p> <a href=\"https://www.theguardian.com/world/live/2025/dec/01/zelenskyy-macron-us-ukraine-russia-steve-witkoff-jared-kushner-moscow-europe-live-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2025-12-01T09:12:52+00:00",
+      "id": "02ad71b1412ee694ad877dc3b812be0587ece7d82d37b0a1ebccc405c1cc3631",
+      "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20251201-retour-sur-la-cinqui%C3%A8me-journ%C3%A9e-de-la-ligue-des-champions",
+      "title": "Retour sur la cinquième journée de la Ligue des champions",
+      "content_html": "Les clubs RFI fêtent leurs 30 ans ! L'occasion d'en dire un mot en plateau, avec le parrain du tournoi de foot Benjamin Moukandjo. Nous reviendrons aussi sur la Ligue des champions, avec des Gunners au top de leur forme, tandis que le FC Barcelone traverse une période compliquée.",
+      "date_published": "2025-12-01T09:16:36+00:00",
       "authors": [
         {
-          "name": "Jakub Krupa"
+          "name": "Annie GASNIER"
         }
       ],
       "tags": [
-        "Ukraine",
-        "Russia",
-        "Europe",
-        "World news"
+        "Café des sports"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
-      "id": "cb157e4e3d4edd93cb8c5709e9c22dcf8104ae5b5b913a72afcfaacc168004a5",
-      "url": "https://www.elmundo.es/internacional/2025/12/01/692d59ece85ece06548b4587.html",
-      "title": "Treize personnes arrêtées pour l'incendie qui a tué 146 personnes à Hong Kong",
-      "content_html": "Selon les autorités, le treillis de protection qui recouvrait l'échafaudage ne répondait pas aux normes de résistance au feu.",
-      "date_published": "2025-12-01T09:10:54+00:00",
+      "id": "fdf3483d4083fd42b78f2aff557b8178412333b3efed252e32d696f471c19c03",
+      "url": "https://www.france24.com/fr/afrique/20251201-le-c%C3%A9l%C3%A8bre-chanteur-marocain-saad-lamjarred-jug%C3%A9-pour-viol-dans-le-sud-de-la-france",
+      "title": "Le célèbre chanteur marocain Saad Lamjarred jugé pour viol dans le sud de la France",
+      "content_html": "Le chanteur marocain Saad Lamjarred est jugé à partir de lundi devant la cour d'assises de Draguignan (Var) pour le viol, qu'il conteste, d'une barmaid en 2018 près de Saint-Tropez. L'artiste, très populaire au Maroc et dans le monde arabe, a déjà été mis en cause dans plusieurs affaires similaires.",
+      "date_published": "2025-12-01T09:14:29+00:00",
       "authors": [
         {
-          "name": "Afp | Ap"
+          "name": "FRANCE 24"
         }
       ],
       "tags": [
-        "Hong Kong"
+        "Afrique"
       ],
       "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -368,10 +759,10 @@
       "lang": "fr"
     },
     {
-      "id": "500e8bdd5c3ec61d458f7f6d9cf0308deb6090deacb684c36012a382f30770d3",
-      "url": "https://ici.radio-canada.ca/nouvelle/2210456/vih-sida-journee-mondiale-epidemie-prep",
-      "title": "Éliminer l’épidémie de VIH d’ici 2030, un objectif de plus en plus difficile",
-      "content_html": "<p>Malgré les progrès en matière de traitement et de prévention, la lutte contre le VIH est loin d’être terminée.</p>",
+      "id": "91ccc9cd1d46f7576f5a72467c5a3f6f1788806ecd1074fb0b44f5254bce7f2d",
+      "url": "https://ici.radio-canada.ca/info/long-format/2210749/cisjordanie-violence-record-colons-israel",
+      "title": "La violence en Cisjordanie atteint des sommets",
+      "content_html": "<p>Plus de 260&nbsp;attaques de colons y ont fait des victimes ou des dégâts matériels en&nbsp;octobre, selon&nbsp;l&#x27;ONU.</p>",
       "date_published": "2025-12-01T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -382,10 +773,10 @@
       "lang": "fr"
     },
     {
-      "id": "91ccc9cd1d46f7576f5a72467c5a3f6f1788806ecd1074fb0b44f5254bce7f2d",
-      "url": "https://ici.radio-canada.ca/info/long-format/2210749/cisjordanie-violence-record-colons-israel",
-      "title": "La violence en Cisjordanie atteint des sommets",
-      "content_html": "<p>Plus de 260&nbsp;attaques de colons y ont fait des victimes ou des dégâts matériels en&nbsp;octobre, selon&nbsp;l&#x27;ONU.</p>",
+      "id": "500e8bdd5c3ec61d458f7f6d9cf0308deb6090deacb684c36012a382f30770d3",
+      "url": "https://ici.radio-canada.ca/nouvelle/2210456/vih-sida-journee-mondiale-epidemie-prep",
+      "title": "Éliminer l’épidémie de VIH d’ici 2030, un objectif de plus en plus difficile",
+      "content_html": "<p>Malgré les progrès en matière de traitement et de prévention, la lutte contre le VIH est loin d’être terminée.</p>",
       "date_published": "2025-12-01T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -490,6 +881,26 @@
       "lang": "en"
     },
     {
+      "id": "4f2516b9da4aa91c397da06b4daeedb994929b5e6232cd91cdf2d11c0cae5944",
+      "url": "https://www.france24.com/en/tv-shows/sports/20251201-ligue-1-lens-defeat-angers-and-take-lead-for-1st-time-in-21-years",
+      "title": "Ligue 1: Lens defeat Angers and take lead for first time in 21 years",
+      "content_html": "Lens defeated Angers (2-1) in Ligue 1 matchday 14. The French northerners are now in first place for the first time in 21 years.",
+      "date_published": "2025-12-01T08:41:56+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "48ebe09ad2bfbb8ddfe41a22d505a734fc75ef35ad8b45587eac32bae27f571e",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss",
       "title": "Israelis protest against Netanyahu’s pardon request",
@@ -516,6 +927,42 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fdda0c2c4992c404d9743ef63fc2a5fb64e12567bfab0829fdd81d51b0328620",
+      "url": "https://www.france24.com/en/video/20251201-conservative-candidate-backed-by-trump-leads-honduras-presidential-vote",
+      "title": "Conservative candidate backed by Trump leads Honduras' presidential vote",
+      "content_html": "Nasry Asfura, the Conservative National Party candidate backed by US President Donald Trump, leads Honduras' presidential election with just over 40 percent of votes counted, preliminary results showed on Monday.",
+      "date_published": "2025-12-01T08:37:20+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1d5bf50d4fc97906958bbe09c0e57bbccea2205d4075cc982ecb659ae0d678de",
+      "url": "https://www.france24.com/en/video/20251201-us-hold-productive-talks-with-ukrainian-negotiators",
+      "title": "US held 'productive' talks with Ukrainian negotiators",
+      "content_html": "US President Donald Trump said Sunday there was a \"good chance\" of a deal to end the war in Ukraine after the latest US negotiations with Kyiv, as his envoy prepares to travel to Russia for follow-up talks. However, no details regarding the revised peace plan for Ukraine have yet been made public, FRANCE 24's Gulliver Cragg reported, highlighting the two main sticking points in the original proposition: security guarantees and territorial concessions. 'The feeling in Ukraine is that the positions are not reconcilable and that the Russians don’t really want peace,' Cragg added, reporting from Kyiv.",
+      "date_published": "2025-12-01T08:33:26+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -773,6 +1220,44 @@
       "lang": "en"
     },
     {
+      "id": "781cbea595e78d58ac6def4cd1b37fe62e5b444d39647b33ea4b114f6130f5f4",
+      "url": "https://www.france24.com/en/americas/20251201-trump-backed-conservative-asfura-takes-narrow-lead-in-honduras-presidential-poll",
+      "title": "Trump-backed conservative Asfura takes narrow lead in Honduras presidential poll",
+      "content_html": "Nasry Asfura, the conservative candidate endorsed by US President Donald Trump, has taken a slim lead in Honduras's presidential race, according to preliminary results. The campaign has been overshadowed by Trump's threats to cut financial aid to the Central American nation if his preferred candidate does not win.",
+      "date_published": "2025-12-01T07:54:48+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d642d63c9e063f0f14be21fe0243dc843b77588ff06fe1c28973870a0751237a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251201-zelensky-re%C3%A7u-par-macron-%C3%A0-l-elys%C3%A9e-au-d%C3%A9but-d-une-semaine-cruciale-pour-l-ukraine",
+      "title": "Zelensky reçu par Macron à l'Elysée au début d'une semaine cruciale pour l'Ukraine",
+      "content_html": "Le président ukrainien rencontre lundi Emmanuel Macron à l'Elysée, à l'ouverture d'une semaine cruciale pour l'Ukraine, alors que les Etats-Unis négocient un accord de paix avec la Russie.",
+      "date_published": "2025-12-01T07:44:04+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "4f4f1cbe68bb956f33add08237bdd8791f31e6c117be156d83e8b6cd38882f29",
       "url": "https://www.ukrinform.net/rubric-ato/4064671-air-defense-forces-destroy-63-of-89-russian-drones.html",
       "title": "Air Defense Forces destroy 63 of 89 Russian drones",
@@ -787,27 +1272,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "27620f4ec1788fcfee13a113a297e93eba2180c746e6352238f5091d590b2e64",
-      "url": "https://www.elmundo.es/internacional/2025/12/01/692d03cce4d4d85b4f8b459a.html",
-      "title": "Lutte serrée entre le trumpiste Asfura et le libéral Nasralla après le naufrage de la gauche aux élections au Honduras",
-      "content_html": "Avec 43% dépouillés, le candidat soutenu par Trump totaliserait 40,5% des voix contre près de 39% pour le journaliste.",
-      "date_published": "2025-12-01T07:34:39+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "internacional",
-        "Honduras"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "c91a9c4df498d59ca3b89a5a1b1fb9549b93b53123e9fe5d8f4b8e3117c6e8da",
@@ -847,6 +1311,26 @@
       "lang": "en"
     },
     {
+      "id": "db46373ef09863e09847dd7f411c4df4f305be54fc08bb1fbadbf43231cda1fe",
+      "url": "https://www.france24.com/fr/afrique/20251201-le-niger-annonce-la-mise-sur-le-march%C3%A9-international-de-son-uranium",
+      "title": "Le Niger annonce la mise sur le marché international de son uranium",
+      "content_html": "Le régime militaire du Niger a annoncé dimanche soir mettre sur le marché international l'uranium produit par la Somaïr, ancienne filiale du groupe français Orano nationalisée par Niamey en juin.",
+      "date_published": "2025-12-01T07:24:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "ff3a33c3ad650140ae29ef40debbdc181ee3adcf0fb74a6023aaf6153c41ffc8",
       "url": "https://www.ukrinform.net/rubric-ato/4064667-two-people-injured-in-enemy-drone-attack-in-chernihiv-region.html",
       "title": "Two people injured in enemy drone attack in Chernihiv region",
@@ -877,6 +1361,26 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "322a24cc14c88e47b95c4cfc72eac8a85257b209ffeb33500b851c5e3882a648",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20251201-ligue1-rclens-bat-angers-et-prend-la-t%C3%AAte-du-classement",
+      "title": "Ligue 1 : le RC Lens bat Angers et prend la tête du classement",
+      "content_html": "Lens a battu (Angers) pour la 14ᵉ journée de Ligue 1. Les Sang-et-Or sont 1ᵉʳˢ pour la première fois depuis 21 ans.",
+      "date_published": "2025-12-01T07:14:05+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "7d6d96977c47be536689a0dbf197ca4f50d34f18e18890abcaeda2e7a72b30b5",
@@ -1006,30 +1510,6 @@
       "lang": "en"
     },
     {
-      "id": "b9d735e474d0bc05b1cdee4d1d64e691bd6fe32c6487ed24f2d2c69e4480b7ce",
-      "url": "https://www.theguardian.com/world/2025/dec/01/monday-briefing-what-did-we-learn-at-your-partys-first-conference",
-      "title": "Monday briefing: What did we learn at Your Party’s first conference?",
-      "content_html": "<p>In today’s newsletter: No new name, but a decision to embark on collective leadership means that the factionalism in Your Party is here to stay</p><p>Good morning. Over the weekend the new left-wing party being built by Jeremy Corbyn, Zarah Sultana and their supporters held its first conference. It came after months of public in-fighting and factional disputes, and in the wake of two independent MPs quitting the project before it even had a name.</p><p>In the end, the main announcement <a href=\"https://www.theguardian.com/politics/2025/nov/30/your-party-members-vote-to-make-name-permanent-at-tense-first-conference\">proved somewhat underwhelming</a> – with the party sticking with the bound-to-get-confusing moniker Your Party. But the decision to have <a href=\"https://www.theguardian.com/politics/2025/nov/30/your-party-to-have-collective-leadership-zarah-sultana-jeremy-corbyn\">a form of collective leadership</a>, rather than face what threatened to be a bitter contest between Corbyn and Sultana for the top job, may prove ultimately more consequential. <a href=\"https://www.theguardian.com/politics/2025/nov/29/corbyn-and-sultana-at-odds-over-your-party-leadership-as-conference-opens\">Sultana’s refusal to attend on Saturday</a>, in solidarity with delegates expelled over links to other parties, suggested the in-fighting isn’t over.</p><p><em><strong>Politics </strong></em>| Labour’s economic plan will take years to deliver in full, <a href=\"https://www.theguardian.com/politics/2025/nov/30/labours-economic-plan-will-take-years-to-deliver-keir-starmer-says\">Keir Starmer has said</a> as he tries to regain the narrative after a turbulent response to last week’s budget. In an <a href=\"https://www.theguardian.com/commentisfree/2025/nov/30/labour-economic-renewal-budget-left-right-economy\">article for the Guardian</a>, the prime minister hit back at his political opponents, insisting the chancellor, Rachel Reeves, was right to impose £26bn worth of tax rises.</p><p><em><strong>Bangladesh</strong></em> | A Bangladesh court has sentenced MP and former minister <a href=\"https://www.theguardian.com/world/2025/dec/01/bangladesh-court-sentences-uk-mp-tulip-siddiq-to-two-years-prison-in-absentia\">Tulip Siddiq to two years in jail</a>, in a corruption case involving the alleged illegal allocation of a plot of land. Siddiq has denied the allegations and the trial was conducted in her absence.</p><p><em><strong>Ukraine </strong></em>| Ukrainian negotiators have <a href=\"https://www.theguardian.com/world/2025/nov/30/ukrainian-and-us-officials-talks-florida-russia-war\">met US officials in Florida</a> to thrash out details of Washington’s proposed framework to end Russia’s war in Ukraine, as Kyiv faces pressure on military and political fronts.</p><p><em><strong>Israel </strong></em>| Benjamin Netanyahu has <a href=\"https://www.theguardian.com/world/2025/nov/30/benjamin-netanyahu-asks-israel-president-isaac-herzog-for-pardon-corruption-case\">asked Israel’s president for a pardon</a> for bribery and fraud charges and an end to a five-year corruption trial, arguing that it would be in the “national interest”.</p><p><em><strong>Extreme weather </strong></em>| Sri Lanka and Indonesia have deployed military personnel to help victims of devastating flooding that has killed nearly 1,000 people <a href=\"https://www.theguardian.com/world/2025/dec/01/asia-flood-sri-lanka-indonesia-deploy-military\">across four countries in Asia</a> in recent days.</p> <a href=\"https://www.theguardian.com/world/2025/dec/01/monday-briefing-what-did-we-learn-at-your-partys-first-conference\">Continue reading...</a>",
-      "date_published": "2025-12-01T06:52:00+00:00",
-      "authors": [
-        {
-          "name": "Martin Belam"
-        }
-      ],
-      "tags": [
-        "Jeremy Corbyn",
-        "Zarah Sultana",
-        "Zack Polanski",
-        "Politics",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7abf5dbd68f96bf15d92b16a3341b3a37de3bd871434fd47d907552da05d1c37",
       "url": "https://www.liberation.fr/international/europe/ouvrir-la-voie-a-une-ukraine-souveraine-des-negociations-pour-un-accord-de-paix-debutent-aux-etats-unis-20251130_BWKICDRNYNHATAGQTHIC63WRL4/",
       "title": "A l’issue de négociations en Floride «pas faciles» pour l’Ukraine, il «reste encore du travail» selon les Américains",
@@ -1118,7 +1598,7 @@
     {
       "id": "b32708a7ec0e12e14bc1b4266c1e21afa8d4e2e2cc895420890606cb2bf66565",
       "url": "https://www.elmundo.es/internacional/2025/11/30/692c7a7321efa098368b4574.html",
-      "title": "Les signaux de Trump qui annoncent le jour J pour le régime chaviste",
+      "title": "Les signes de Trump qui annoncent le jour J pour le régime chaviste",
       "content_html": "Les États-Unis finalisent les préparatifs de leur action militaire et préviennent Maduro que le temps presse",
       "date_published": "2025-12-01T06:20:54+00:00",
       "authors": [
@@ -1201,11 +1681,65 @@
       "lang": "en"
     },
     {
+      "id": "13d45b7633070b5244c3f84730acec8d488f60f41f0333e1b81f2cfbe44cd8b2",
+      "url": "https://www.france24.com/fr/sant%C3%A9/20251201-sida-vih-journee-lutte-prep-sexe-risque-coupes-budgetaires-mythes-et-realites",
+      "title": "PrEP, sexe à risque, coupes budgétaires... Mythes et réalités sur le VIH",
+      "content_html": "À l'occasion de la Journée mondiale de lutte contre le Sida, l'Onusida décrit un monde \"en recul\" face au VIH. Les jeunes sont de plus en plus touchés, le dépistage recule et plusieurs pays coupent dans les financements. Dans ce contexte, de nombreux mythes persistent et brouillent la prévention.",
+      "date_published": "2025-12-01T06:05:32+00:00",
+      "authors": [
+        {
+          "name": "Pauline ROUQUETTE"
+        }
+      ],
+      "tags": [
+        "Santé"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "947b34fb94b3aaef920a01a117e739ee3f38dc3a3af52e7dfea97103b4bac411",
       "url": "https://www.bbc.com/news/articles/cj01q6p7ndlo?at_medium=RSS&at_campaign=rss",
-      "title": "Over 120,000 home cameras hacked for 'sexploitation' footage",
+      "title": "More than 120,000 home cameras hacked for 'sexploitation' footage",
       "content_html": "The cameras were located in private homes, karaoke rooms, a Pilates studio and a gynaecologist's clinic.",
       "date_published": "2025-12-01T06:04:53+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "21195c2e96529ad815e6f4954d316c930f5ef0f8fb63842c0f20983caab054d5",
+      "url": "https://www.france24.com/en/europe/20251201-live-zelensky-meets-macron-in-paris-to-boost-european-support-amid-peace-talks",
+      "title": "Live: Zelensky meets Macron in Paris to boost European support amid peace talks",
+      "content_html": "Ukrainian President Volodymyr Zelensky meets French President Emmanuel Macron in Paris on Monday, seeking to bolster European support as US President Donald Trump expressed optimism about a potential peace deal to end Russia's war in Ukraine. The meeting follows talks in Florida between US and Ukrainian negotiators that both sides described as \"productive\". Follow our liveblog for the latest updates.",
+      "date_published": "2025-12-01T06:03:40+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "072ad197d509818b6b66b730db69c1b0d6025fcabfc03e182b2d1b2d4b38fdcb",
+      "url": "https://www.bbc.com/news/articles/ckg989gnen5o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian President Zelensky set for visit to Republic of Ireland",
+      "content_html": "It will be the first official visit to Ireland by a Ukrainian president and first lady.",
+      "date_published": "2025-12-01T06:02:57+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1283,6 +1817,26 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e8c36cdf519b17d04003a0fe6fc731ca3dcffed873eb67f81d235be4bc0a2f35",
+      "url": "https://www.france24.com/fr/europe/20251201-en-direct-macron-re%C3%A7oit-zelensky-trump-optimiste-sur-un-accord-ukraine-russie",
+      "title": "Guerre en Ukraine en direct : Zelensky est arrivé à l'Elysée pour rencontrer Macron",
+      "content_html": "Le président français Emmanuel Macron reçoit lundi son homologue ukrainien Volodymyr Zelensky, sous fortes pressions militaire et politique, alors que les États-Unis tentent de mettre fin à la guerre avec la Russie. Donald Trump a estimé dimanche qu'il y avait \"de bonnes chances\" pour un accord, à l'issue de pourparlers entre Washington et Kiev. Suivez la situation en direct.",
+      "date_published": "2025-12-01T05:56:56+00:00",
+      "authors": [
+        {
+          "name": "David RICH"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1388,16 +1942,22 @@
       "lang": "en"
     },
     {
-      "id": "bb89ae0465d30136061a44f0ae3d4aa5115e6efb5df07a8fc1aedd31ca552830",
-      "url": "https://www.lemonde.fr/international/live/2025/12/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-attendu-lundi-a-paris_6655415_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky attendu lundi à Paris",
-      "content_html": "Volodymyr Zelenskyy lors d’une réunion avec son homologue grec Constantine Tassoulas au palais présidentiel d’Athènes, en Grèce, le 16 novembre 2025.",
-      "date_published": "2025-12-01T05:12:06+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "b4c2ee0c7491f25c481ea219fe2630ecefff1543b11fad5b45e7c6df7706d75b",
+      "url": "https://www.france24.com/fr/moyen-orient/20251201-gaza-israel-affirme-avoir-tue-40-combattants-palestiniens-dans-tunnels-rafah-hamas-armee-desarmer",
+      "title": "Gaza : Israël affirme avoir tué plus de 40 combattants palestiniens dans des tunnels à Rafah",
+      "content_html": "L'armée israélienne a affirmé, dimanche, avoir tué plus de 40 combattants palestiniens au cours de la semaine écoulée lors de ses opérations visant les tunnels près de Rafah, dans le sud de la bande de Gaza.",
+      "date_published": "2025-12-01T05:14:03+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
       "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1416,6 +1976,26 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "5d1c862be6165a1376a599c40b257e68f362e7de09fcc393ceeffa55f6d55c49",
+      "url": "https://www.france24.com/fr/info-en-continu/20251201-des-militaires-mobilis%C3%A9s-apr%C3%A8s-des-inondations-qui-ont-fait-pr%C3%A8s-de-1-000-morts-en-asie",
+      "title": "Inondations en Asie : plus de 1 000 morts, des militaires mobilisés au Sri Lanka et en Indonésie",
+      "content_html": "Alors que le bilan des inondations en Asie dépasse désormais les 1 000 morts, le Sri Lanka et l'Indonésie ont déployé lundi des militaires pour venir en aide aux victimes. Plusieurs centaines de personnes sont toujours portées disparues.",
+      "date_published": "2025-12-01T05:03:17+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "19ba602a66c4b4d792a3172886d3d1397351baaa8bb8dc4c737331f7426cc7b7",
@@ -1701,7 +2281,7 @@
     {
       "id": "7c7c2f5ed273fc471c41f8fec850c2b68ca83fd8f13f01977f90ecf1129b2fd2",
       "url": "https://www.lemonde.fr/international/article/2025/12/01/l-ebauche-incertaine-d-un-plan-de-paix-met-l-ukraine-face-a-une-equation-compliquee_6655504_3210.html",
-      "title": "L’ébauche incertaine d’un « plan de paix » met l’Ukraine face à une équation compliquée",
+      "title": "Guerre en Ukraine : l’ébauche incertaine d’un « plan de paix » met Kiev face à une équation compliquée",
       "content_html": "Au premier plan à gauche, l’envoyé spécial de Donald Trump, Steve Witkoff, le secrétaire d’Etat américain Marco Rubio, Jared Kushner, le gendre de Donald Trump, lors de la rencontre avec la délégation ukrainienne menée par Rustem Umerov (au centre à droite), secrétaire du Conseil national de sécurité et de défense de l’Ukraine, à ​​Hallandale Beach (Floride), le 30 novembre 2025.",
       "date_published": "2025-12-01T04:21:55+00:00",
       "authors": [],
@@ -1741,6 +2321,26 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a66090be328148b55902ae0f4a7efd7656fb91ff9870bf48402398caca2162b8",
+      "url": "https://www.france24.com/en/asia-pacific/20251201-sri-lanka-indonesia-military-regional-floods-dead",
+      "title": "Sri Lanka, Indonesia deploy military as regional floods leave more than 1,000 dead",
+      "content_html": "Sri Lanka and Indonesia deployed troops on Monday to assist survivors of severe flooding that has killed more than 1,000 people across four Asian countries. Torrential rains swept Sri Lanka, Indonesia’s Sumatra, southern Thailand and northern Malaysia last week, with separate weather systems unleashing days of intense, widespread downpours.",
+      "date_published": "2025-12-01T04:03:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asia / Pacific"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1897,20 +2497,6 @@
       "lang": "fr"
     },
     {
-      "id": "094000582b889247857f62073315684c40e7c3ee7d2f9b1ac8ff68f0ee08fa6c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2210769/cisjordanie-canadienne-attaque-colons",
-      "title": "Cisjordanie : quatre étrangers, dont une Canadienne, sont blessés dans une attaque",
-      "content_html": "<p>Ils auraient été agressés par des colons en Cisjordanie occupée.</p>",
-      "date_published": "2025-12-01T02:31:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d3282dc0244c5855a782580f04a61ca1d6de25d450b7292f21e8860e548d03a1",
       "url": "https://www.ukrinform.net/rubric-society/4064559-cusap-conducts-52-surgeries-in-ukraine-this-fall.html",
       "title": "CUSAP conducts 52 surgeries in Ukraine this fall",
@@ -1941,6 +2527,26 @@
       "lang": "fr"
     },
     {
+      "id": "dc01168bef3975b6532f207e5e6d0127e373de9d597174cf31fc8522e6ae7a33",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20251201-donald-trump-confirme-echange-nicolas-maduro-venezuela-alerte-agression-pr%C3%A9paration-deploiement-militaire-petrole-narcotrafic",
+      "title": "Trump confirme un échange avec Maduro, le Venezuela alerte sur \"une agression en préparation\"",
+      "content_html": "Alors que les relations entre Washington et Caracas sont tendues, Donald Trump a confirmé dimanche avoir récemment eu un appel avec Nicolas Maduro, sans préciser son contenu. En parallèle, le président vénézuélien a dénoncé \"l'agression en préparation\" face au déploiement militaire des États-Unis.",
+      "date_published": "2025-12-01T02:18:03+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "40a72dc4ea537688e834b646e533728ed5d8fcf85d960e3d4cd632e88fde3974",
       "url": "https://ici.radio-canada.ca/nouvelle/2210706/loi-limite-droit-greve-boulet-syndicat-csn-ftq",
       "title": "La loi qui limite le droit de grève est en vigueur au Québec",
@@ -1967,6 +2573,26 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
+    },
+    {
+      "id": "7e11c11fcca7cb85bda19e643348d0f9862b2ab4b765b602717ba0967e77a5bb",
+      "url": "https://www.france24.com/en/americas/20251201-trump-maduro-venezuela-us-attack",
+      "title": "Trump confirms call with Maduro, Venezuela slams US attack preparations",
+      "content_html": "US President Donald Trump said Sunday he had recently spoken with Venezuelan leader Nicolas Maduro as tensions surged, while Caracas accused Washington of preparing an attack. The United States has tightened pressure with a military buildup in the Caribbean, branding an alleged Maduro-run drug cartel a terrorist group, and warning that Venezuelan airspace is \"closed\".",
+      "date_published": "2025-12-01T01:56:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "07ffd1f8c20df1396587b88a135040420bb074a82749dffd5dc111952320c908",
@@ -2125,6 +2751,24 @@
       "lang": "en"
     },
     {
+      "id": "2bf85b16c1326d9775411ec75fed16804295e6e05d29762c2b2de1d74acc9a02",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251201-guerre-en-ukraine-des-n%C3%A9gociations-productives-entre-une-d%C3%A9l%C3%A9gation-am%C3%A9ricaine-et-ukrainienne",
+      "title": "Guerre en Ukraine : des négociations \"productives\" entre une délégation américaine et ukrainienne",
+      "content_html": "Durant près de quatre heures de discussions en Floride, les émissaires ukrainiens ont négocié le plan de paix américain pour tenter de le rendre plus favorable. Le chef de la diplomatie américaine, Marco Rubio, a affirmé que les discussions avaient été \"productives\" bien qu'il \"rest(ait) encore du travail\" pour mettre fin à la guerre avec la Russie. Dans la foulée, Donald Trump a estimé qu'il y avait \"de bonnes chances\" pour un accord.",
+      "date_published": "2025-12-01T00:51:22+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "bdc424a88503971d620e1544f75d2f03507894d342fa046e8d8deffb46fcd9a6",
       "url": "https://elpais.com/internacional/2025-12-01/trump-reconoce-que-converso-con-maduro-no-diria-que-salio-bien-ni-mal-fue-una-llamada-telefonica.html",
       "title": "Trump reconnaît avoir parlé avec Maduro : \"Je ne dirais pas que ça s'est bien ou mal passé. C'était un appel téléphonique\"",
@@ -2153,6 +2797,42 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1316079b170bf3098c0080ea824d3bd868ff9de427c7b0ecdaded5295840df2f",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251201-corruption-benjamin-netanyahu-va-t-il-%C3%AAtre-graci%C3%A9",
+      "title": "Corruption : Benjamin Netanyahu va-t-il être gracié ?",
+      "content_html": "C'est dans l'intérêt public, affirme-t-il, que le Premier ministre israélien, Benjamin Netanyahu, a officiellement demandé une grâce présidentielle dans son procès pour corruption. \"Après réception de tous les avis\", le président israélien Isaac Herzog \"examinera la requête avec responsabilité et sérieux\". Mais pour l'opposition, une amnistie n'est pas envisageable sans plusieurs conditions.",
+      "date_published": "2025-12-01T00:48:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ffa2dbe848e6a21f1117cb03c235782c3d93a7d1535d01bf709f79cc70089fa0",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251201-pr%C3%A9sidentielle-au-honduras-le-d%C3%A9pouillement-des-votes-en-cours",
+      "title": "Présidentielle au Honduras : le dépouillement des votes en cours",
+      "content_html": "Les électeurs du Honduras ont voté dimanche pour choisir entre la continuité d'un gouvernement de gauche ou le retour de la droite. \"Récemment, le président américain s'est mêlé du scrutin en appelant à soutenir le candidat du parti national, Tito [Nasry Asfura] , affirmant qu'ensemble \"ils peuvent travailler pour lutter contre les narco-communistes\", rappelle Quentin Duval, correspondant pour France 24. \"Donald Trump refuse d'avoir des pays à gauche dans le giron des États-Unis.\"",
+      "date_published": "2025-12-01T00:46:49+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2253,6 +2933,26 @@
       "lang": "en"
     },
     {
+      "id": "f8ebe73199946033490608348663fc10f1aacdd918e37d719436c98af01b73da",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20251201-revenus-fabricants-armes-alimentes-tensions-atteignent-records-guerre-ukraine-gaza-armement-defense-vente",
+      "title": "Les revenus des fabricants d'armes, alimentés par les conflits, atteignent des records",
+      "content_html": "Les ventes d'armes des 100 plus grandes entreprises mondiales du secteur ont augmenté de 5,9 % en 2024, selon le rapport de l'Institut international de recherche sur la paix de Stockholm (Sipri), publié lundi. Un record malgré des problèmes de production qui entravent les livraisons.",
+      "date_published": "2025-12-01T00:13:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Éco/Tech"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "2b1926eede62292cb4484f78ecd01295de5b753ab04b145cde40540f8589460a",
       "url": "https://ici.radio-canada.ca/nouvelle/2210756/venezuela-denonciation-operations-armee-etats-unis-maduro",
       "title": "Le Venezuela dénonce « l’agression en préparation » des États-Unis",
@@ -2313,6 +3013,26 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "65a147b91b5d795893038ff896924bcc1a7c1e793a975ab9a3c048f5972b926c",
+      "url": "https://www.france24.com/en/europe/20251130-world-arms-makers-679-billion-sales",
+      "title": "World's arms makers post record $679 billion in sales as wars fuel demand, output lags",
+      "content_html": "Sales by the world’s top 100 arms makers hit a record $679 billion last year, up 5.9% as wars in Ukraine and Gaza drove demand, researchers said on Monday, though production bottlenecks slowed deliveries. Arms revenues have climbed 26% over the 2015–2024 period, according to a report by the Stockholm International Peace Research Institute (SIPRI).",
+      "date_published": "2025-11-30T23:56:44+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2547,6 +3267,26 @@
       "lang": "en"
     },
     {
+      "id": "a5fed289b41751c1c09b3427547d8d19ff79091ccfe118b1957e9392dea8937d",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20251130-bissau-raid-contre-le-si%C3%A8ge-du-parti-d-opposition-paigc-le-pr%C3%A9sident-renvers%C3%A9-%C3%A0-brazzaville",
+      "title": "Bissau: raid contre le siège du parti d'opposition PAIGC, le président renversé à Brazzaville",
+      "content_html": "En Guinée-Bissau, la situation politique reste incertaine après le coup d’État qui a ébranlé le pays mercredi. Le processus électoral est suspendu et le président déchu, Umaro Sissoco Embaló exfiltré du pays par la CEDEAO. Ce samedi, le PAIGC, le grand parti d'opposition du pays a été envahi par des hommes armés. Le parti dénonce une atteinte grave à l’Etat de droit.",
+      "date_published": "2025-11-30T22:13:01+00:00",
+      "authors": [
+        {
+          "name": "Fatimata WANE"
+        }
+      ],
+      "tags": [
+        "Journal de l'Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "60b0467a76083a171f3e49df68cb243dcc8b2b0be59245c68d31143934b56fcd",
       "url": "https://www.elmundo.es/internacional/2025/11/30/692cc151fdddff12728b456e.html",
       "title": "Le pape défend la création d'un Etat palestinien comme \"seule solution\" au conflit avec Israël",
@@ -2637,6 +3377,26 @@
       "lang": "en"
     },
     {
+      "id": "6e53c922321e91fba8774e695b03a1f57f027794a0ed212ebe2595c3ec6f9810",
+      "url": "https://www.france24.com/fr/europe/20251130-en-croatie-des-milliers-de-manifestants-marchent-contre-la-mont%C3%A9e-de-l-extr%C3%AAme-droite",
+      "title": "En Croatie, des milliers de manifestants marchent contre la montée de l'extrême droite",
+      "content_html": "Des milliers de personnes ont participé dimanche à une manifestation anti-fasciste à Zagreb, pour protester contre le révisionnisme sur le rôle de la Croatie pendant la Seconde Guerre mondiale et la montée des idées d'extrême droite.",
+      "date_published": "2025-11-30T21:48:50+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "c3a23b8e58476f5145f47ba997384434f677f39290d762b6cb7c35da69baebcd",
       "url": "https://ici.radio-canada.ca/nouvelle/2210741/copies-numeriques-chefs-oeuvre-italiens-cinello-obnl-musees",
       "title": "Des copies numériques de chefs-d’œuvre italiens vendues pour une bonne cause",
@@ -2677,6 +3437,26 @@
       "lang": "en"
     },
     {
+      "id": "45a7bb99f61eb1c01735776dc6a3e8fd15637934bb37bbaa88e7d9ca92383fed",
+      "url": "https://www.france24.com/en/europe/20251130-thousands-march-in-croatia-against-far-right-revival-and-wwii-revisionism",
+      "title": "Thousands march in Croatia against far-right surge and WWII revisionism",
+      "content_html": "Several thousand people rallied in Croatia’s capital on Sunday, denouncing the rise of far-right nationalism and attempts to glorify the Nazi-allied Ustasha regime established during World War II. Similar marches took place in Rijeka, Pula and Zadar.",
+      "date_published": "2025-11-30T21:39:16+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "6917391387be445bdf94c7feffb5dadf437cacc1b6dbbb18a1086ea8d087aa67",
       "url": "https://www.ukrinform.net/rubric-ato/4064616-russian-fpv-drones-target-kharkiv-region-residential-areas-suffer-damage.html",
       "title": "Russian FPV drones target Kharkiv region, residential areas suffer damage",
@@ -2703,6 +3483,24 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ebbf073a1a16171bdd23043662a412292e9b5d1585fd16b28a37743a0fa308b6",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251130-afrique-pourquoi-les-billets-d-avion-co%C3%BBtent-aussi-cher",
+      "title": "Afrique : pourquoi les billets d’avion coûtent aussi cher ?",
+      "content_html": "Voyager en avion d’une capitale africaine à une autre coûte souvent plus cher que de traverser un continent entier. Taxes, carburant, faible concurrence : les raisons sont multiples. Paul Chiambaretto, spécialiste de l’économie du transport aérien, décrypte pour nous les causes structurelles de ces prix élevés, les blocages institutionnels et les pistes de réformes.",
+      "date_published": "2025-11-30T21:22:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2754,6 +3552,26 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
+    },
+    {
+      "id": "5b64cb1577243a4d78de7eb77970910268f7ee9a5c9eef55c199a0f2d95abc9f",
+      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20251130-baptiste-beaulieu-la-litt%C3%A9rature-jeunesse-c-est-un-moyen-de-pacifier-la-soci%C3%A9t%C3%A9-de-demain",
+      "title": "Baptiste Beaulieu: \"la littérature jeunesse, c'est un moyen de pacifier la société de demain\"",
+      "content_html": "A l'occasion de la 41ème édition du salon du livre et de la presse jeunesse qui se tient à Montreuil en Seine-Saint-Denis, Au Cœur de l'Info reçoit l'écrivain Baptiste Beaulieu, auteur de livres jeunesse à succès, par ailleurs médecin généraliste à Toulouse, et phénomène des réseaux sociaux. Son dernier livre, \"Les pansements invisibles\" (éditions les Arènes, illustrations de Qin Leng) évoque avec délicatesse la notion du consentement chez les enfants.",
+      "date_published": "2025-11-30T20:57:33+00:00",
+      "authors": [
+        {
+          "name": "Achren VERDIAN"
+        }
+      ],
+      "tags": [
+        "Au cœur de l’info, l’invité"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "27436333165d7eb75b9e2afe4dcf9a0cf40b41142c02024cee82841db2f2e194",
@@ -2833,6 +3651,26 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6c81870f9745d62fd8fd18ca8da86965ca48aed9365dbe06fe427e76b9be3bfa",
+      "url": "https://www.france24.com/en/asia-pacific/20251130-looting-reported-as-indonesia-and-sri-lanka-battle-deadly-floods",
+      "title": "Looting reported as Indonesia and Sri Lanka battle deadly floods",
+      "content_html": "Indonesian authorities said residents in flood-stricken Sumatra have looted shops for food and water as the death toll climbs to 442 and hundreds remain missing, while Sri Lanka reported at least 193 dead after days of torrential rains and mudslides.",
+      "date_published": "2025-11-30T20:43:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asia / Pacific"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2947,28 +3785,6 @@
       "lang": "fr"
     },
     {
-      "id": "bae57c1311b42da25efef6aaddea74a5d4997b806874a1075ebe9ad13af6f94e",
-      "url": "https://www.timesofisrael.com/four-foreign-activists-said-wounded-by-settlers-near-jericho-one-seriously/",
-      "title": "Four foreign activists said wounded by settlers near Jericho, one seriously",
-      "content_html": "<p>Three Italians and one Canadian reportedly accosted in Ein al-Duyuk by masked gang, who beat them and steal their passports, wallets and phones</p>\n<p>The post <a href=\"https://www.timesofisrael.com/four-foreign-activists-said-wounded-by-settlers-near-jericho-one-seriously/\">Four foreign activists said wounded by settlers near Jericho, one seriously</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/F251108NI10-1024x640.jpg\" title=\"Four foreign activists said wounded by settlers near Jericho, one seriously\" width=\"160\" /></figure>",
-      "date_published": "2025-11-30T20:11:01+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Ein al-Duyuk",
-        "Jericho",
-        "settler violence",
-        "Antonio Tajani",
-        "Duyuk",
-        "West Bank"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8d7b769f2714caced9e6dd37636d9e67f82df4cc06cf0a76c1c91a717b3c5a79",
       "url": "https://ici.radio-canada.ca/nouvelle/2210725/egypte-formation-palestiniens-future-police-gaza",
       "title": "L’Égypte forme des centaines de Palestiniens pour une future police de Gaza",
@@ -3035,22 +3851,6 @@
       "lang": "en"
     },
     {
-      "id": "bec1d8fe32b1ccf3c42b9faaf4be54df136c7604a9c3d703b9229d2fb25e7a4b",
-      "url": "https://www.ukrinform.net/rubric-polytics/4064596-zelensky-after-talk-with-rutte-many-things-may-change-in-coming-days.html",
-      "title": "Zelensky after talk with Rutte: many things may change in coming days",
-      "content_html": "President Volodymyr Zelensky emphasized that many things may change in the coming days.",
-      "date_published": "2025-11-30T19:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e02fb7c3f2b2d156f2eec1944a7a594f36999ebcd817aa3bf0346055d119a5c4",
       "url": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
       "title": "Three children among four killed in shooting at 'birthday party' in California",
@@ -3067,7 +3867,7 @@
     {
       "id": "ae1094575ba799bfa8a83e0edbe6699710f461554000ceb09120b094b8d23117",
       "url": "https://www.lemonde.fr/international/article/2025/11/30/au-liban-comme-en-turquie-leon-xiv-s-illustre-par-sa-retenue-et-sa-prudence_6655491_3210.html",
-      "title": "Au Liban comme en Turquie, Léon XIV s’illustre par sa retenue et sa prudence",
+      "title": "Léon XIV, en visite en Turquie et au Liban, s’illustre par sa retenue et sa prudence",
       "content_html": "Le pape Léon XIV rencontre le président libanais, Joseph Aoun, au palais présidentiel de Baabda, à Beyrouth, le 30 novembre 2025.",
       "date_published": "2025-11-30T19:08:59+00:00",
       "authors": [],
@@ -3137,22 +3937,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "8cdb6fb4b3cce47e05ada147a9d78ea59969bcaadeb3c1671f8eb8c7f1a82875",
-      "url": "https://www.ukrinform.net/rubric-ato/4064590-man-wounded-and-buildings-damaged-in-shelling-of-dnipropetrovsk-region.html",
-      "title": "Man wounded and buildings damaged in shelling of Dnipropetrovsk region",
-      "content_html": "In the Nikopol district, a 32-year-old man was wounded as a result of Russian shelling, and an agricultural enterprise, private houses, infrastructure, and transport were damaged.",
-      "date_published": "2025-11-30T18:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "73c6ac531bebf9cec4bf6f74bde57e4d97d843a6dffcb3882e61e9bb6a822076",
@@ -3282,6 +4066,26 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "67ac95c9f9730b2c02b400a7d8826ca5f91756b2138f77d754b1572a4cb30632",
+      "url": "https://www.france24.com/fr/afrique/20251130-samuel-eto-o-r%C3%A9%C3%A9lu-%C3%A0-la-t%C3%AAte-de-la-f%C3%A9d%C3%A9ration-camerounaise-de-football",
+      "title": "Samuel Eto’o réélu à la tête de la Fédération camerounaise de football",
+      "content_html": "Samuel Eto'o a été réélu, sans concurrent, samedi à la tête de la Fecafoot. Un vote symbolique alors que le ministère des Sports s’était opposé à ce vote et avait même demandé l’annulation de l’assemblée générale.",
+      "date_published": "2025-11-30T18:26:10+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3598,6 +4402,24 @@
       "lang": "fr"
     },
     {
+      "id": "53410fb84b3f2d0cf7dd18272213167e255465631a664f3a6e34c6d1665fd64b",
+      "url": "https://www.france24.com/en/video/20251130-israel-s-netanyahu-seeks-pardon-to-end-corruption-trial-1",
+      "title": "Israel’s Netanyahu seeks pardon to end corruption trial",
+      "content_html": "Israeli Prime Minister Benjamin Netanyahu asked the country’s president on Sunday for a pardon in his long-running corruption trial, arguing that the criminal proceedings were hindering his ability to govern and that a pardon would be good for Israel. Under Israeli law, however, the president does not have the power to pardon someone who is not a convicted criminal, FRANCE 24’s Noga Tarnopolsky said, noting that no verdict has yet been rendered on Netanyahu, who is actively seeking to prevent his trial from reaching its conclusion.",
+      "date_published": "2025-11-30T16:43:28+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "491bc2334e1b8460a4ceec65f5397547a39d84302247da14e001f72731bd141c",
       "url": "https://www.theguardian.com/us-news/2025/nov/30/kristi-noem-national-guard-shooting-deportation-flights",
       "title": "Kristi Noem claims suspect in national guard shooting was ‘radicalized’ in US",
@@ -3623,6 +4445,42 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "7adbc5ff75eaef1e7126f0b1e4ae951c0d3f3b1caa355cbc8cd1a398a8a4e33a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251130-isra%C3%ABl-netanyahu-demande-une-gr%C3%A2ce-pr%C3%A9sidentielle-dans-son-proc%C3%A8s-pour-corruption",
+      "title": "Israël : Netanyahu demande une grâce présidentielle dans son procès pour corruption",
+      "content_html": "Le Premier ministre israélien, Benjamin Netanyahu, a officiellement demandé une grâce présidentielle dans son procès pour corruption, pour mettre fin, selon lui, aux divisions suscitées dans le pays par ses démêlés judiciaires, fort du soutien de Donald Trump qui avait demandé un tel geste à son homologue israélien. Récit d'Ethan Hajji.",
+      "date_published": "2025-11-30T16:27:28+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0a997440248b48aff425e42cdd919c7f5b62c0fe5818eb0621d72fe4cd82b242",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251130-ukraine-n%C3%A9gociations-sous-pression-en-floride-aux-%C3%A9tats-unis",
+      "title": "Ukraine : négociations sous pression en Floride, aux États-Unis",
+      "content_html": "Des pourparlers entre négociateurs ukrainien et américain ont commencé dimanche en Floride, aux Etats-Unis, en vue de trouver un accord visant à mettre fin à la guerre entre Kyiv et Moscou, qui dure depuis près de quatre ans. Le secrétaire d'État américain, Marco Rubio, a dit s'attendre à ce que les négociations aboutissent à « davantage de progrès ». Analyse de David Delos, chroniqueur international France 24.",
+      "date_published": "2025-11-30T16:26:26+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "b74822059bc5bf3d21622c00dc135f103742cdec7498ce21283abddbc9bc3c6d",
@@ -3667,38 +4525,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a37a8fae9249627675a0e1fe346bac2f51aa13b0180c93bd33a54342623b46ed",
-      "url": "https://elpais.com/internacional/2025-11-30/el-papa-recuerda-a-israel-a-su-llegada-a-libano-que-la-solucion-de-los-dos-estados-es-la-unica.html",
-      "title": "Le pape rappelle à Israël, dès son arrivée au Liban, que « la solution à deux États est la seule »",
-      "content_html": "Léon XIV parcourt les rues de Beyrouth en papamobile ce dimanche.",
-      "date_published": "2025-11-30T16:17:40+00:00",
-      "authors": [
-        {
-          "name": "Íñigo Domínguez"
-        }
-      ],
-      "tags": [
-        "Papa",
-        "Papa León XIV",
-        "Ciudad del Vaticano",
-        "Turquía",
-        "Líbano",
-        "Conflicto árabe-israelí",
-        "Israel",
-        "Recep Tayyip Erdogan",
-        "Benjamin Netanyahu",
-        "Iglesia católica",
-        "Cristianismo",
-        "Islam",
-        "Hezbolá"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -3760,6 +4586,24 @@
       "lang": "en"
     },
     {
+      "id": "4c705e12a907520b61e2c14d40b081bb4a4a06b7e3cc2817b854f15c0fa97be2",
+      "url": "https://www.france24.com/en/video/20251130-history-buffs-flock-to-czech-republic-to-re-enact-napoleon-s-austerlitz-triumph",
+      "title": "History buffs flock to Czech Republic to re-enact Napoleon’s Austerlitz triumph",
+      "content_html": "Thousands of history buffs from across Europe gather each year in the Czech Republic to commemorate the Battle of Austerlitz, Napoleon’s victory over Russian and Austrian forces. Cannons and guns blazing, enthusiasts re-enact battle scenes from a campaign first fought more than 200 years ago.",
+      "date_published": "2025-11-30T16:01:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "15b9c6a17084bc323a522e22ac6a6bd4e9ac919c9fd31315bc7f7f26f4b19fbf",
       "url": "https://www.lemonde.fr/intimites/article/2025/11/30/en-australie-les-groupes-de-parents-espaces-de-socialisation-pour-les-familles-de-nouveau-nes_6655474_6190330.html",
       "title": "En Australie, les groupes de parents, espaces de socialisation pour les familles de nouveau-nés",
@@ -3812,6 +4656,24 @@
       "lang": "fr"
     },
     {
+      "id": "0dc340e32e92932fb42b8202db7314908a99b5ad39429cbdde7c0acaefa84010",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251130-quand-les-march%C3%A9s-de-no%C3%ABl-alsaciens-deviennent-victimes-de-leur-succ%C3%A8s",
+      "title": "Quand les marchés de Noël alsaciens deviennent victimes de leur succès",
+      "content_html": "La saison des marchés de Noël est lancée et les villages alsaciens sont comme chaque année particulièrement prisés des Français. Riquewihr, dans l'est de la France, est un village de quelque 1 000 habitants. Mais la période de Noël venue, le marché attire 450 000 visiteurs. Face à cet afflux de touristes en quête de féérie, le village alsacien aux façades colorées s'organise afin de rester accueillant tout en ménageant ses habitants. Récit d'Ethan Hajji.",
+      "date_published": "2025-11-30T15:26:27+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "6cea94efdf6e133206896983ad9e850fd4da5106fab0fd0facabc3f2b54b04f0",
       "url": "https://www.liberation.fr/international/moyen-orient/israel-benyamin-netanyahou-demande-une-grace-presidentielle-dans-son-proces-pour-corruption-20251130_I3CT4GVHH5DQLKALPUQQR6MGFQ/",
       "title": "Israël : Benyamin Nétanyahou demande une grâce présidentielle dans son procès pour corruption",
@@ -3826,6 +4688,24 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "486e71ec9d91b91ea9195cd4b0b8c2ccf707f2076bef5acb57de92bb50495b60",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20251130-inondations-en-indon%C3%A9sie-tha%C3%AFlande-et-au-sri-lanka-le-bilan-d%C3%A9passe-les-800-morts",
+      "title": "Inondations en Indonésie, Thaïlande et au Sri Lanka : le bilan dépasse les 800 morts",
+      "content_html": "Le bilan des inondations catastrophiques qui ont frappé ces derniers jours de vastes territoires d'Indonésie, de Thaïlande, de Malaisie et du Sri Lanka s'est encore alourdi dimanche, avec un total d'au moins 818 morts et plusieurs centaines de disparus. Les autorités de ces pays asiatiques s'activaient pour dégager les routes et les débris et tenter de retrouver des personnes portées disparues après des pluies diluviennes, des crues subites et des glissements de terrain. Récit de Nina Masson.",
+      "date_published": "2025-11-30T15:24:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3846,6 +4726,26 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "8df361f422587f27982c310fd4e36683123ef1845e053cde1097e1655f13680a",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20251130-3-years-of-chatgpt-china-surges-europe-retreats-and-we-all-drown-in-ai-slop",
+      "title": "3 years of ChatGPT: China surges, Europe retreats, and we all drown in AI slop",
+      "content_html": "With the launch of ChatGPT three years ago to the day, it looked like America had won the next major technology race before it had even started. But the landscape has shifted dramatically. China is overtaking the United States in open-source models, Europe is walking back its regulatory ambitions, and the internet is drowning in AI-generated rubbish.",
+      "date_published": "2025-11-30T15:19:12+00:00",
+      "authors": [
+        {
+          "name": "Peter O'BRIEN"
+        }
+      ],
+      "tags": [
+        "Tech 24"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "7047b3c00fe0e09bb4b7f9e50c58fe69c7db23630c409e16655774283302b823",
@@ -3990,6 +4890,44 @@
       "lang": "en"
     },
     {
+      "id": "330e223bae6aef77f7ed985332dabd26745fd9450e4990a3eb72079abccfd553",
+      "url": "https://www.france24.com/en/middle-east/20251130-pkk-urges-turkey-to-free-ocalan-warns-peace-process-will-halt",
+      "title": "PKK urges Turkey to free Ocalan, warns peace process will halt",
+      "content_html": "The Kurdistan Workers’ Party (PKK) will take no further steps in indirect talks with Turkey as long as its founder Abdullah Ocalan remains imprisoned, said a senior commander. Since talks began last year, the PKK has complied with several peace process steps as Turkey prepares a legal framework for the group’s political integration.",
+      "date_published": "2025-11-30T14:21:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c12721821be131d95205d94c5741ad2ccde106e9b85bf26d98f48273cf68e83e",
+      "url": "https://www.france24.com/en/video/20251130-us-stops-processing-visas-for-afghan-allies-tens-of-thousands-likely-to-be-affected",
+      "title": "US stops processing visas for Afghan allies: Tens of thousands likely to be affected",
+      "content_html": "The Trump administration has halted all asylum decisions and paused issuing visas for people traveling on Afghan passports, seizing on the National Guard shooting in the nation's capital to intensify efforts to rein in legal immigration. The move may impact the around 190,000 Afghans who were evacuated by Washington during Operation Allies Welcome and Operation Enduring Welcome, Beth Bailey, host of The Afghanistan Project Podcast. Bailey added that those most likely to be affected by the decision are the \"125,000 Afghans who are still attempting to get an SIV, Special Immigrant Visas, or the 85,000 individuals who are in the US refugee admissions programme and are overseas waiting for help.\"",
+      "date_published": "2025-11-30T14:05:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "63ad6e4a8714ba92d92b387fc0dc86e5524e0c103fd32b3f7b4df4449b04d740",
       "url": "https://ici.radio-canada.ca/nouvelle/2210697/incendie-hong-kong-activiste-arrestation",
       "title": "Incendie de Hong Kong : un activiste réclamant justice arrêté, selon des médias locaux",
@@ -4002,38 +4940,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "384a10d296e60b1b7d66d5b88bac45ea5a76df28032408e58eb12f663edea0e0",
-      "url": "https://www.aljazeera.com/news/2025/11/30/indonesia-floods-death-toll-rises-to-442-as-people-hunt-for-food-and-water?traffic_source=rss",
-      "title": "Indonesia floods death toll rises to 442 as people hunt for food and water",
-      "content_html": "At least two areas of the worst-affected Sumatra island still unreachable, as authorities struggle to deliver aid.",
-      "date_published": "2025-11-30T13:51:13+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fb8fc5c9c6e16c6c6c32d59f5f111692be21f78f7f1ebf5cdcb60eb4e899ab51",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/30/netanyahu-requests-israels-president-grant-a-pardon-in-corruption-cases?traffic_source=rss",
-      "title": "Netanyahu requests Israel’s president grant a pardon in corruption cases",
-      "content_html": "Benjamin Netanyahu has requested a formal pardon from President Isaac Herzog in his long-running corruption cases.",
-      "date_published": "2025-11-30T13:49:00+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "3711e5a8f9c5fb33e118a3f513b1c560b8077312a6bd4f1424ffe12d2cb1ce19",
@@ -4164,6 +5070,24 @@
       "lang": "en"
     },
     {
+      "id": "274e2bb9471cd3380ec9ff87a766ac88b0b21ecf9ac1999f09fb6987ecf7f977",
+      "url": "https://www.france24.com/en/video/20251130-palestinians-battle-harsh-weather-as-winter-arrives-in-gaza",
+      "title": "Palestinians battle harsh weather as winter arrives in Gaza",
+      "content_html": "Palestinians in Gaza are again fighting for survival as a harsh winter cold sweeps the enclave. With many families confined to tents, residents are struggling to stay warm while essential supplies remain critically scarce.",
+      "date_published": "2025-11-30T11:33:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "60c3230ce9566f37c9b93c376bac61e2180523d83d6d1ba01f57d8529d308cfb",
       "url": "https://ici.radio-canada.ca/nouvelle/2209680/consultation-gestion-dechets-organiques",
       "title": "Le N.-B. veut limiter la quantité de déchets organiques dans ses sites d’enfouissement",
@@ -4176,6 +5100,24 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "1566cdbf1e728e91d1df3e58cafa8a8a7bd76f3beaf7081ebefaa9510b2acdaf",
+      "url": "https://www.france24.com/en/video/20251130-israeli-pm-netanyahu-turns-to-president-for-pardon-in-ongoing-trial",
+      "title": "Israeli PM Netanyahu turns to president for pardon in ongoing trial",
+      "content_html": "Israeli Prime Minister Benjamin Netanyahu has asked Israel’s president to grant him a pardon amid his long-running corruption trial, which has bitterly divided the country. After requesting multiple delays in the proceedings, Netanyahu has put himself in what FRANCE 24’s Noga Tarnopolsky described as a “paradoxical situation.” He previously persuaded the Supreme Court to allow him to run for office, yet now argues it is impossible for him to testify while leading the country, Tarnopolsky said, reporting from Jerusalem.",
+      "date_published": "2025-11-30T11:31:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "424f06bf7e5de20fed439f18945c7a3dc5cae4f9dd36c9cff2a4c3608b610581",
@@ -4194,6 +5136,64 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "5d6641743864624bcedc9b6bea86c2aee1e94951efbb5f670f8591918540b9e2",
+      "url": "https://www.france24.com/en/asia-pacific/20251130-death-toll-in-hong-kong-housing-estate-fire-rises-to-146-as-the-city-grieves",
+      "title": "Death toll in Hong Kong housing estate fire rises to 146 as the city grieves",
+      "content_html": "The death toll from a devastating fire at a Hong Kong apartment complex blaze rose to at least 146 on Sunday as more bodies were recovered from the charred remains of the Wang Fuk Court buildings. More than a thousand people queued near the housing complex on Sunday to pay tribute to the victims.",
+      "date_published": "2025-11-30T11:00:14+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asia / Pacific"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "84e579a784b401ae0d42e7ee9e3f1e4699550ad3d1b90a7149322191df8160a8",
+      "url": "https://www.france24.com/en/live-news/20251130-netanyahu-asks-israeli-president-to-grant-him-pardon-from-corruption-charges",
+      "title": "Netanyahu seeks pardon from Israeli president in corruption case",
+      "content_html": "Israeli Prime Minister Benjamin Netanyahu on Sunday submitted a formal pardon request in his long-running corruption cases to the Israeli presidential office. The extraordinary appeal is now under review by President Isaac Herzog, whose office said the decision carries “significant implications”. Dozens of protesters demonstrated outside Herzog's private home in Tel Aviv, urging him to reject Netanyahu's request.",
+      "date_published": "2025-11-30T10:52:06+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ea6610123211a4216fb08b95d67049816d592d67e40d7fcfdc6b650732374820",
+      "url": "https://www.france24.com/en/video/20251130-trump-officials-to-sit-down-with-ukrainian-negotiators-in-florida",
+      "title": "Trump officials to sit down with Ukrainian negotiators in Florida",
+      "content_html": "Top Trump administration officials including Secretary of State Marco Rubio, Special Envoy Steve Witkoff are meeting Ukrainian negotiators in Florida this weekend. The meeting comes after the resignation of Ukraine's top negotiator and chief of staff, Andrii Yermak, due to an anti-graft probe. FRANCE 24's Gulliver Cragg brings you the latest.",
+      "date_published": "2025-11-30T10:45:32+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "0da682f10f3c38bcbd83d62ee96d6a8fe719d7919d03d2b593415ce8d176699d",
@@ -4597,22 +5597,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2554320923793bf6472351a5ce63a90c2dc00d8021a4bb338ce7b6250c554fac",
-      "url": "https://www.dw.com/en/us-4-killed-10-injured-in-birthday-party-shooting/a-74955605?maca=en-rss-en-all-1573-rdf",
-      "title": "US: 4 killed, 10 injured in birthday party shooting",
-      "content_html": "Police in California have said four people were killed in a possible targeted shooting Saturday evening. The incident took place during a children's birthday party.",
-      "date_published": "2025-11-30T06:21:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -5290,7 +6274,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "dfd934c032d88b739884788b96dd35abfa24a726dabec8d80993203cd5c2c175",
@@ -5693,7 +6677,7 @@
       "id": "f8acce60d22e1a3ecf9c928d6c22bd03a9f9ef3be77dcae478e359a547d8b2ae",
       "url": "https://www.elmundo.es/internacional/2025/11/29/692adb15e85ece78098b4594.html",
       "title": "Les services secrets arrêtent un Russe qui avait l'intention de faire sauter un gazoduc dans la région de Moscou sur ordre de l'Ukraine",
-      "content_html": "\"Il a été recruté en 2024 par les services de renseignement ukrainiens alors qu'il se trouvait dans un centre de détention provisoire pour étrangers\"",
+      "content_html": "\"Il a été recruté en 2024 par les services de renseignement ukrainiens alors qu'il se trouvait dans un centre de détention temporaire pour étrangers\"",
       "date_published": "2025-11-29T11:37:59+00:00",
       "authors": [
         {
@@ -7227,24 +8211,6 @@
       "lang": "fr"
     },
     {
-      "id": "b79ed98425ef23118dd76bbaa9f62be9ab9f20979b7fe48347045a7408d206dd",
-      "url": "https://www.liberation.fr/international/coupes-dans-laide-publique-au-developpement-les-parlementaires-et-le-gouvernement-sont-en-total-dephasage-20251128_7IQC5DAVW5DK5EL74O7SQPYEIU/",
-      "title": "Coupes dans l’aide publique au développement : «Les parlementaires et le gouvernement sont en total déphasage»",
-      "content_html": "Un enfant soudanais, réfugiés au Tchad, lors d'une consultation par un soignant travaillant pour Médecins sans frontières, en avril.",
-      "date_published": "2025-11-28T05:02:00+00:00",
-      "authors": [
-        {
-          "name": "Luc Mathieu, Christian Losson"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d3d1bab3d8e4a5a07c24f4a5bda071b7a2bd576f873eedc6d1cf091ee2068e2e",
       "url": "https://www.dw.com/en/russian-cosmodrome-damaged-after-soyuz-launch-to-international-space-station/a-74932834?maca=en-rss-en-all-1573-rdf",
       "title": "Russian cosmodrome damaged after Soyuz launch to International Space Station",
@@ -8268,20 +9234,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ce4c840fd8c3e352befd6e3caee502d8e4bd2da0b41250f9e8383c7ead393f37",
-      "url": "https://www.themoscowtimes.com/2025/11/23/ukraine-says-new-draft-of-us-plan-reflects-its-key-priorities-a91217",
-      "title": "Ukraine Says New Draft of U.S. Plan Reflects Its ‘Key Priorities’",
-      "content_html": "President Volodymyr Zelensky also indicated that some Ukrainian talking points may be included in the proposal agreement.",
-      "date_published": "2025-11-23T16:35:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
