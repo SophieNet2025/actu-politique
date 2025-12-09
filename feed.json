@@ -5,20 +5,133 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "d50fb632c2a6b1f90eddd9c86eeba6e387cb47c412a91651c8938eaa8c38c7b7",
-      "url": "https://www.france24.com/en/europe/20251209-french-prime-minister-lecornu-faces-high-stakes-social-security-vote",
-      "title": "France’s National Assembly approves social security budget in victory for Prime Minister Lecornu",
-      "content_html": "",
-      "date_published": "2025-12-09T18:47:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
+      "id": "56cae64f411dff5fa2022c1429e111709cc83b7b2ecf9a5be0f31228ba85c4a4",
+      "url": "https://www.ukrinform.net/rubric-crime/4067860-shooting-in-sumy-police-detained-man-who-wounded-four-teenagers.html",
+      "title": "Shooting in Sumy: police detained man who wounded four teenagers",
+      "content_html": "In Sumy, police detained a man who shot at four teenagers from the window of a high-rise building.",
+      "date_published": "2025-12-09T19:03:00+00:00",
+      "authors": [],
+      "tags": [
+        "Crime"
       ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "271ea3b7810424255cc06268f4b95cbcd6407a718ee30f748591afa48b475ff9",
+      "url": "https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss",
+      "title": "These young Australians grew up with social media - what do they think of the ban?",
+      "content_html": "The BBC took to the streets of Sydney to find out what young people aged between 18 and 20 think of Australia’s under-16s social media ban.",
+      "date_published": "2025-12-09T19:00:08+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6c8e85f889c23a6a8e8f29ebfcb53cccd61cd3a49314f7e4d6101015688de223",
+      "url": "https://elpais.com/internacional/2025-12-09/lecornu-supera-la-primera-votacion-del-presupuesto-de-francia-y-mantiene-con-vida-a-su-ejecutivo.html",
+      "title": "Lecornu passe le premier vote sur le budget français et maintient son exécutif en vie",
+      "content_html": "Le Premier ministre français, Sébastien Lecornu, ce mardi à l'Assemblée nationale.",
+      "date_published": "2025-12-09T18:58:58+00:00",
+      "authors": [
+        {
+          "name": "Daniel Verdú"
+        }
+      ],
+      "tags": [
+        "Francia",
+        "Política",
+        "Sébastien Lecornu",
+        "Emmanuel Macron",
+        "Crisis gobierno",
+        "Presupuestos ministerios"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9fcb40c845ca5b979d536f6ed4f4f0633d9fbf5da04a6a19382e8c79e2af38fd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2212629/famille-nooran-rezayi-poursuite-civile-police-longueuil",
+      "title": "La famille de Nooran Rezayi poursuit des policiers et la Ville de Longueuil au civil",
+      "content_html": "<p>Les plaignants réclament environ 2,2&nbsp;millions de dollars pour la mort du jeune homme abattu par la police.</p>",
+      "date_published": "2025-12-09T18:49:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fc8d4e1850ad01833933e6210912ccaab5785edab18cf1260ab6a3e56672d43a",
+      "url": "https://www.dw.com/en/new-strain-of-mpox-virus-what-you-need-to-know/a-75077995?maca=en-rss-en-all-1573-rdf",
+      "title": "New strain of mpox virus: What you need to know",
+      "content_html": "A hybrid form of mpox has been identified in the UK. Health professionals are not surprised that the sexually transmitted virus has evolved but say it's a reminder of the need for precaution.",
+      "date_published": "2025-12-09T18:49:00+00:00",
+      "authors": [],
+      "tags": [
+        "Science"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0119471f8b8442b27e924abdd9aed342647169a41d3aacdadc108d37751ba042",
+      "url": "https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
+      "title": "Trump clears way for Nvidia to sell powerful AI chips to China",
+      "content_html": "<p>Commerce department finalising deal to allow H200 chips to be sold to China as strict Biden-era restrictions relaxed</p><p>Donald Trump has cleared the way for Nvidia to begin selling its powerful AI computer chips to China, marking<strong> </strong>a win for the chip maker and its CEO, Jensen Huang, who has spent months lobbying the White House to open up sales in the country.</p><p>Before Monday’s announcement, the US had prohibited sales of Nvidia’s most advanced chips to China over national security concerns.</p> <a href=\"https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china\">Continue reading...</a>",
+      "date_published": "2025-12-09T18:45:24+00:00",
+      "authors": [
+        {
+          "name": "Dara Kerr and Helen Davidson in Taipei"
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Technology sector",
+        "Trump administration",
+        "Donald Trump",
+        "US politics",
+        "US news",
+        "World news",
+        "Technology",
+        "China",
+        "Asia Pacific",
+        "Business"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "511c9dfe7d8a3ed7954fe9bdfa652dc55877b53407a6783d392dc6e10da52d8f",
+      "url": "https://www.aljazeera.com/news/2025/12/9/us-judge-approves-bid-to-unseal-epstein-grand-jury-documents?traffic_source=rss",
+      "title": "US judge approves bid to unseal Epstein grand jury documents",
+      "content_html": "While Judge Paul Engelmayer approved the Justice Department&#039;s request, he warned there are few new details in the files.",
+      "date_published": "2025-12-09T18:42:21+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -143,60 +256,6 @@
       "lang": "en"
     },
     {
-      "id": "5131600f50bb3d4d532cab681f23c9e92de260fa79739303222997df76c65169",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-tentative-de-coup-d-%C3%A9tat-au-b%C3%A9nin-l-intervention-du-nigeria-salu%C3%A9e",
-      "title": "Tentative de coup d'État au Bénin : l'intervention du Nigeria saluée",
-      "content_html": "La tentative de coup d'État au Bénin de dimanche 7 décembre a finalement été déjouée, et le Nigeria a joué un rôle dans l'opération. Notre correspondant Moïse Gomis nous en dit plus.",
-      "date_published": "2025-12-09T18:34:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9889953fcf375d3ed2b9268741a00bf045d23690f390cfefed9db243a2852d25",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-tha%C3%AFlande-cambodge-la-reprise-des-combats-un-revers-pour-trump",
-      "title": "Thaïlande-Cambodge : la reprise des combats, un revers pour Trump",
-      "content_html": "Malgré les appels internationaux à la désescalade, les affrontements se sont étendus mardi 9 décembre le long de la frontière contestée entre la Thaïlande et le Cambodge, où le bilan total s'élève à dix morts et près de 150.000 déplacés.",
-      "date_published": "2025-12-09T18:32:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "35b3fe6472576ed2bccd4338c2e2cae3d181d61037c6d6078909757b0002afe1",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-lynx-et-flamants-roses-vont-mieux-en-france-d-autres-esp%C3%A8ces-moins-bien-dit-le-wwf",
-      "title": "Lynx et flamants roses vont mieux en France, d'autres espèces moins bien, dit le WWF",
-      "content_html": "Le lynx ou le flamant rose sont parmi les espèces animales protégées qui se \"portent mieux\" qu'au siècle dernier en France, tandis que d'autres espèces restent très menacées, indique l'organisation WWF dans un rapport mardi 9 décembre.",
-      "date_published": "2025-12-09T18:30:53+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "fe9ce75658225d51db0fabf460ca59df5fcca469a16a9c7656524d5c994c4efb",
       "url": "https://www.theguardian.com/world/2025/dec/09/member-uk-armed-forces-killed-accident-ukraine-mod",
       "title": "Member of UK armed forces killed in ‘tragic accident’ in Ukraine, says MoD",
@@ -234,24 +293,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "90dced53f6b32ef6b1a582cd7f4a2da59377a0d717acf6a7c9035a696305ef62",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-tentative-de-coup-d-%C3%A9tat-au-b%C3%A9nin-des-victimes-des-deux-c%C3%B4t%C3%A9s-selon-le-gouvernement",
-      "title": "Tentative de coup d'État au Bénin : \"des victimes des deux côtés\" selon le gouvernement",
-      "content_html": "Ce dimanche matin, un groupe de militaires béninois a annoncé à la télévision nationale la destitution du président Patrice Talon, la suspension de la Constitution et la fermeture des frontières. Toutefois, quelques heures après cette déclaration, les forces loyalistes ont repris le contrôle de la situation, mettant fin à la tentative de coup d’État. La Communauté économique des États de l’Afrique de l’Ouest (CEDEAO) a fermement condamné cet acte. En fin de journée, le président Talon a pris la parole pour rassurer la population, affirmant que la situation était désormais sous contrôle. Il a néanmoins précisé que les auteurs de la mutinerie étaient toujours en fuite et que plusieurs personnes avaient été enlevées pendant les affrontements. Les autorités poursuivent leurs investigations pour retrouver les responsables de cette tentative de déstabilisation.",
-      "date_published": "2025-12-09T18:29:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -298,24 +339,6 @@
       "lang": "en"
     },
     {
-      "id": "836f7c7f562a85d5d532d3786126620d7f5e5db07ceddff83268df6f23551345",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-netflix-paramount-warner-bros-sous-le-feu-des-ench%C3%A8res",
-      "title": "Netflix-Paramount : Warner Bros sous le feu des enchères",
-      "content_html": "Le rôle de Jared Kushner dans le financement de l'offre de 108 milliards de dollars de Paramount pour Warner Bros Discovery fait s'immiscer les intérêts de la famille Trump dans l'une des plus âpres batailles médiatiques depuis des années, soulevant plusieurs questions sur l'influence potentielle du président.",
-      "date_published": "2025-12-09T18:24:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "dba8804d89963e97c8e3c4fb87c043003bab4ceabe7cd82f532da9604e536773",
       "url": "https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions",
       "title": "US puts sanctions on network said to funnel Colombian mercenaries to Sudan",
@@ -340,24 +363,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "5b6ffa2c4dd0368032a0d5b0d7dae0ce869c02e6e418dcb2792ba69a84fe23b0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-rd-congo-une-maison-d-artistes-ouvre-au-quartier-upn",
-      "title": "RD Congo : une maison d'artistes ouvre au quartier UPN",
-      "content_html": "L’artiste Géraldine Tobe a inauguré sa maison des artistes dans le quartier UPN, un secteur populaire et très éloigné du centre-ville. Son objectif : rendre l’art et la culture accessibles à tous. Pour cette ouverture, une exposition d’un collectif de femmes designers plonge les visiteurs entre cabinet de curiosités et salon de coiffure au design affirmé.",
-      "date_published": "2025-12-09T18:18:13+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "ed5a3e382185b6ea49836807f9f9c774ccfaf5370fd543f2fe258722af21a036",
@@ -455,42 +460,6 @@
       "lang": "en"
     },
     {
-      "id": "bd6cc5f04eabe0995a996ee6f36f268f0d240497e7cd097545ef7ac5de39cbf5",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-australie-l-interdiction-des-r%C3%A9seaux-sociaux-aux-moins-de-16-ans-entre-en-vigueur",
-      "title": "Australie : l'interdiction des réseaux sociaux aux moins de 16 ans entre en vigueur",
-      "content_html": "Les moins de 16 ans n'ont plus le droit d'utiliser Instagram, Snapchat ou encore TikTok en Australie, une première mondiale.",
-      "date_published": "2025-12-09T18:03:51+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d652cf8be8dccedda3d4678e8bc7616554cdfc43bf4d89158178e40ffd25472c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-france-il-y-a-120-ans-naissait-la-loi-de-1905-sur-la-s%C3%A9paration-de-l-%C3%A9glise-et-de-l-%C3%A9tat",
-      "title": "France : il y a 120 ans naissait la loi de 1905 sur la séparation de l'Église et de l'État",
-      "content_html": "Il y a 120 ans, les députés français prenaient la décision de séparer l'Église et l'État. Retour sur l'histoire de la laïcité française, avec Adel Gastel.",
-      "date_published": "2025-12-09T18:02:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ae09de207184326e4946708808d88f96b45aad449237bbd853646caff6a2079f",
       "url": "https://www.theguardian.com/us-news/2025/dec/09/missouri-map-gerrymandering",
       "title": "Organizers submit enough signatures to block gerrymandered Missouri map",
@@ -550,24 +519,6 @@
       "lang": "fr"
     },
     {
-      "id": "14dec5fe53b3c15f0fa12947299fd46d711575a15a182eb5a7d10bde9595cefe",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-derri%C3%A8re-l-image-focus-sur-le-hpv-un-virus-qui-touche-80-des-fran%C3%A7ais",
-      "title": "Derrière l’image : focus sur le HPV, un virus qui touche 80% des Français",
-      "content_html": "Chaque semaine, dans Derrière l’image, nous décryptons l’actualité à partir d’une photographie. Ce mardi 9 décembre, le cliché retenu montre un bateau : celui d’un skipper atteint du HPV, le papillomavirus. Élise Gallé-Tessonneau, journaliste chez ENTR, nous en dit plus.",
-      "date_published": "2025-12-09T17:55:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "5900d9f0911b4d77909f5d8d8fc972208b8e8224c7ecd8389fa129ce9d84a430",
       "url": "https://www.lemonde.fr/international/live/2025/12/09/en-direct-guerre-en-ukraine-la-moitie-de-la-ville-de-kiev-toujours-sans-electricite-apres-les-dernieres-attaques-russes-selon-le-gouvernement_6656313_3210.html",
       "title": "EN DIRECT, guerre en Ukraine : la moitié de la ville de Kiev toujours sans électricité après les dernières attaques russes, selon le gouvernement",
@@ -578,42 +529,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "dd32bd4c0d4ac2376c8d3e0a943b655bffe94157752ab28b84985c72ee24652f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-chine-%C3%A0-hanghzou-un-ours-noir-attaque-un-gardien-de-zoo",
-      "title": "Chine : à Hangzhou, un ours noir attaque un gardien de zoo",
-      "content_html": "Un ours noir a attaqué un gardien de zoo lors d’un spectacle à Hangzhou, en Chine.",
-      "date_published": "2025-12-09T17:45:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8de59428b601ea7f6a458c46688586b6c69afed0bcbeb1b90d5da7ff7aaacdbc",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-warner-bros-les-ench%C3%A8res-pour-l-acqu%C3%A9rir-s-envolent",
-      "title": "Warner Bros : les enchères pour l'acquérir s'envolent",
-      "content_html": "Le groupe de télévision et de cinéma Paramount Skydance a présenté lundi une contre-offre pour son concurrent Warner Bros Discovery (WBD), valorisé 108,4 milliards de dollars, trois jours après l'annonce d'un accord de rachat entre WBD et Netflix, dont le patron s'est dit serein face à cette contre-attaque.Notre correspondant Matthieu Mabin nous en dit plus.",
-      "date_published": "2025-12-09T17:44:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -657,24 +572,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "4162535fb214f38543f56dabc855e54007136cfc2101d85b7a30ba538226c198",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-pakistan-des-milliers-d-afghans-bloqu%C3%A9s-apr%C3%A8s-la-suspension-des-visas-am%C3%A9ricains",
-      "title": "Pakistan : des milliers d’Afghans bloqués après la suspension des visas américains",
-      "content_html": "C’est un coup d’arrêt brutal qui plonge des milliers de vies dans l’incertitude. Après l’attaque du 26 novembre à Washington contre des soldats de la Garde nationale, menée par un suspect afghan ayant travaillé avec la CIA en Afghanistan, l’administration Trump a suspendu toutes les décisions d’asile et cessé d’émettre des visas pour les détenteurs de passeports afghans.\n \nConséquence immédiate : les 265 000 Afghans en cours de procédure pour rejoindre les États-Unis — anciens employés d’agences américaines, collaborateurs du gouvernement américain, personnels d’ONG, de médias ou de projets financés par Washington — se retrouvent dans l’incertitude.\n \nEt pour les milliers d’entre eux installés au Pakistan, la situation vire au piège. Depuis plusieurs mois, les autorités pakistanaises, qui ont accueilli des millions d’Afghans au cours des quarante dernières années, accélèrent les expulsions, jugeant la situation en Afghanistan stabilisée. Beaucoup voient leurs droits de séjour expirer et peinent à obtenir des visas.\n \nRésultat : des familles entières vivent désormais dans la peur, se cachent pour échapper à la police et voient s’effondrer l’unique voie de sortie qu’elles pensaient avoir, celle promise par les États-Unis.\n \nUn reportage réalisé par Shahzaib Wahlah et Ondine de Gaulle.",
-      "date_published": "2025-12-09T17:38:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "0e3db0a2518f3813234e8955e5e536b016eca02af5d6ee5f0f976f47a37132f6",
@@ -750,24 +647,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "89bd3ecc989c6fcc28fed4b36717caac65981b32d057ed993efbd592fc092f5d",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-sales-connes-des-d%C3%A9put%C3%A9s-r%C3%A9agissent-aux-propos-de-brigitte-macron",
-      "title": "\"Sales connes\" : des députés réagissent aux propos de Brigitte Macron",
-      "content_html": "Des députés réagissent au lendemain de la divulgation d'une vidéo dans laquelle Brigitte Macron qualifie de \"sales connes\" des militantes féministes qui ont interrompu samedi un spectacle de l'humoriste Ary Abittan. Fin 2021, l'humoriste a été accusé de viol par une jeune femme qu'il fréquentait depuis quelques semaines. Après trois ans d'enquête, l'instruction a abouti à un non-lieu confirmé en appel en janvier, mais son retour sur scène est depuis contesté par des féministes.",
-      "date_published": "2025-12-09T17:32:36+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "2749f83aafeb97fbac3a634b45afb7df217d5ec7cd51028c7ed05815d1c4f39f",
@@ -853,38 +732,6 @@
       "lang": "en"
     },
     {
-      "id": "9fcb40c845ca5b979d536f6ed4f4f0633d9fbf5da04a6a19382e8c79e2af38fd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2212629/famille-nooran-rezayi-poursuite-civile-police-longueuil",
-      "title": "La famille de Nooran Rezayi poursuit des policiers et la Ville de Longueuil au civil",
-      "content_html": "<p>Les plaignants réclament environ 2,2&nbsp;millions de dollars pour la mort du jeune homme abattu par la police.</p>",
-      "date_published": "2025-12-09T17:26:16+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4b23f6af15dda63999eab775347017abcd36534c7d2c1bdf48f978aee34dba91",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-affaire-ary-abittan-brigitte-macron-qualifie-de-sale-connes-des-militantes",
-      "title": "Affaire Ary Abittan : Brigitte Macron qualifie de \"sales connes\" des militantes",
-      "content_html": "Brigitte Macron a qualifié de \"sales connes\" des militantes féministes qui ont interrompu samedi 6 décembre un spectacle de l'humoriste Ary Abittan, selon une vidéo publiée lundi, l'entourage de l'épouse du chef de l'Etat évoquant \"une critique de la méthode radicale employée\" par ce collectif.",
-      "date_published": "2025-12-09T17:25:38+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cbc4bf612bb43cb72c1b0ef3b142748aa01ab40f2b66d4fa362476698e610fd1",
       "url": "https://www.theguardian.com/uk-news/2025/dec/09/storm-bram-uk-weather-strong-winds-heavy-rain-hits-britain",
       "title": "Storm Bram batters Britain and Ireland with strong winds and heavy rain",
@@ -909,24 +756,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "2ccd77ce5bb71b0af9cd5fa39f3e20476b62a9b6ff679c7b344afb09d37edb2e",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-sud-africains-en-russie-un-r%C3%A9seau-de-recrutement-devant-la-justice",
-      "title": "Sud-Africains en Russie : un réseau de recrutement devant la justice",
-      "content_html": "Près de Johannesburg, en Afrique du Sud, focus sur un procès : les prévenus sont accusés d’appartenir à un réseau chargé de recruter des Sud-Africains pour aller se battre en Ukraine. Notre correspondante Caroline Dumay nous en dit plus.",
-      "date_published": "2025-12-09T17:22:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "4cc314beb2545f04015fc6be8c4405754cf61def7395c6e20d4fce058298e335",
@@ -970,24 +799,6 @@
       "lang": "fr"
     },
     {
-      "id": "0cb9b09766503eca627ad0c2c580d4209da0900e2a3834e77098dab3a0aedfc7",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-rdc-le-pr%C3%A9sident-congolais-accuse-le-rwanda-de-violer-l-accord-de-washington",
-      "title": "RDC : le président congolais accuse le Rwanda de \"violer\" l'accord de Washington",
-      "content_html": "Quelques jours jours seulement après la cérémonie entérinant un accord censé apporter la paix dans l'est de la République démocratique du Congo (RDC), le président congolais Félix Tshisekedi a accusé lundi le Rwanda de \"violer ses engagements\". Notre correspondante Aurélie Bazzara-Kibangula nous en dit plus.",
-      "date_published": "2025-12-09T17:17:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1023034034659b7ecd30858c3c6a6984abfbef3526dfb444f2f6209093846f6e",
       "url": "https://www.theguardian.com/us-news/2025/dec/09/rumeysa-ozturk-tufts-student-resume-teaching-visa",
       "title": "Tufts student can resume research after Trump officials revoked her visa, judge rules",
@@ -1015,44 +826,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "48e06fd07c8c5499a55d472b129bbbb1e38d9cf2e374d764ddccdbc31411fa88",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-c%C3%B4te-d-ivoire-pour-son-investiture-alassane-ouattara-%C3%A9voque-le-b%C3%A9nin",
-      "title": "Côte d'Ivoire : pour son investiture, Alassane Ouattara évoque le Bénin",
-      "content_html": "La situation au Bénin s’est invitée dans la cérémonie d’ouverture du mandat d’Alassane Ouattara en Côte d’Ivoire. Le président a prêté serment, promettant d’être le président de \"tous les Ivoiriens\", avant d’évoquer les défis qui l’attendent dans les prochaines années, \"surtout l’environnement sous-régional fragile\", a-t-il déclaré. Julia Guggenheim nous en dit plus.",
-      "date_published": "2025-12-09T17:12:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "152284647279e5ee6871532d9a6ec27171d590c16d973daef1a51b3dae97a018",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20251209-histoire-raton-laveur-ivre-detournee-video-ia",
-      "title": "Comment la vraie histoire d'un raton-laveur ivre a été détournée pour créer une vidéo par IA",
-      "content_html": "Les images d’une prétendue vidéo de caméra de surveillance diffusée sur les réseaux sociaux seraient censées illustrer un fait divers insolite : le \"cambriolage\" d'un magasin d'alcool par un raton-laveur, à la suite duquel l'animal aurait été retrouvé ivre. Si le fait divers est réel, la vidéo est en revanche une création par intelligence artificielle.",
-      "date_published": "2025-12-09T17:09:56+00:00",
-      "authors": [
-        {
-          "name": "Les Observateurs"
-        }
-      ],
-      "tags": [
-        "Éco/Tech"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "b60fe23314194cb74edfbe6ae8bf6e4974530d0b62fe7643329e5aa8546d9e80",
@@ -1083,44 +856,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "17ed62241bf813ea863a4a180fc32795bf9c9a658ccc9dc87e1db88b240d56d8",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-ukraine-zelensky-rencontre-le-pape-et-pr%C3%A9pare-ses-propositions",
-      "title": "Ukraine : Zelensky rencontre le pape et prépare ses propositions",
-      "content_html": "Le président ukrainien Volodymyr Zelensky, qui poursuit en Italie sa tournée auprès de ses alliés européens, doit envoyer mardi 9 décembre au soir à Washington sa proposition révisée du plan Trump visant à mettre fin à la guerre en Ukraine.",
-      "date_published": "2025-12-09T17:04:17+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "936c857423440b9543d5df813449f9dedeef9ea45d48628f1a912da0bc2a92d7",
-      "url": "https://www.france24.com/fr/afrique/20251209-coup-d-%C3%A9tat-d%C3%A9jou%C3%A9-au-b%C3%A9nin-pourquoi-le-nigeria-a-vol%C3%A9-au-secours-de-patrice-talon",
-      "title": "Coup d’État déjoué au Bénin : pourquoi le Nigeria a volé au secours de Patrice Talon ?",
-      "content_html": "Le Nigeria a mené des frappes et déployé des troupes au sol dimanche au Bénin, en soutien à l’armée loyaliste, pour mettre en échec une tentative de coup d’État contre le président Patrice Talon. Une manière pour Abuja de se poser en rempart contre la vague de putschs en Afrique de l'Ouest et réaffirmer sa position de puissance régionale.",
-      "date_published": "2025-12-09T17:02:10+00:00",
-      "authors": [
-        {
-          "name": "David RICH"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -1208,44 +943,6 @@
       "lang": "en"
     },
     {
-      "id": "f2b37dbc36df1ac9ad899578d78e21cf7d786250634e1b28b4eca8c7dc207b13",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20251209-gaza-farmers-cut-off-land-israel-yellow-line",
-      "title": "‘Planting to preserve our dignity’: Gaza farmers remain cut off from their land",
-      "content_html": "Despite the ceasefire signed in October 2025, many Gazans are still unable to return to their homes and land. Among them is our Observer, farmer Amro Abu Rabee, who remains displaced in Deir al-Balah. His farm lies beyond the “yellow line” in territory still occupied by the Israeli army, and so to feed his family and preserve a sense of dignity, he is planting food crops in whatever space he can find in their camp.",
-      "date_published": "2025-12-09T16:57:39+00:00",
-      "authors": [
-        {
-          "name": "The FRANCE 24 Observers"
-        }
-      ],
-      "tags": [
-        "The Observers"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1355968e0ec57cc7a3b1dee714c609d2b23514e279acb09e66f12076f994b82b",
-      "url": "https://www.france24.com/en/video/20251209-france-faces-pivotal-budget-vote-amid-deep-political-divisions",
-      "title": "France faces pivotal budget vote amid deep political divisions",
-      "content_html": "France’s divided parliament faces a pivotal vote on Tuesday that could spark a new political crisis and create a €30 billion shortfall in funding for healthcare, pensions and welfare. Lawmakers are deciding whether to approve next year’s social security budget - an especially critical test for Prime Minister Sebastien Lecornu, who lacks a majority in the National Assembly. He is banking on concessions, including suspending Emmanuel Macron’s landmark pension reform until the next presidential election, to win support from other blocs, but the vote is shaping up to be extremely tight. France24 Senior reporter James Andre tells us the latest.",
-      "date_published": "2025-12-09T16:57:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f48362f50ac7fc9a56a34d352b9ab50593272420229a6999c0612a893e809cfd",
       "url": "https://www.theguardian.com/us-news/2025/dec/09/new-york-archdiocese-fundraising-abuse-claims",
       "title": "New York archdiocese seeks $300m to settle claims by clergy abuse survivors",
@@ -1273,62 +970,6 @@
       "lang": "en"
     },
     {
-      "id": "92c0b50fc34440bcd642e47a82ae2f5e962adb8b02471f67d7e0cc643a4ff5c3",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-ligue-des-champions-marseille-dos-au-mur-en-belgique",
-      "title": "Ligue des champions : Marseille dos au mur en Belgique",
-      "content_html": "Dernière soirée de Ligue des champions de l'année, ce mardi 9 décembre. Pour passer les fêtes, certaines équipes n'ont pas d'autre choix que de s'imposer ce soir... Notre chroniqueur Benoît Perrochais nous en dit plus.",
-      "date_published": "2025-12-09T16:56:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9fb10c4cd4108817fa5d536b6323badd2ab26de0e35a5bc6c6b9aed1dfe497d6",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20251209-immigration-net-durcissement-de-la-politique-migratoire-europ%C3%A9enne",
-      "title": "Immigration : net durcissement de la politique migratoire européenne",
-      "content_html": "Sous pression de la droite et de l'extrême-droite, les 27 pays de l'Union européenne ont validé un net durcissement de la politique migratoire du continent. Amara Makhoul, rédactrice en chef d'InfoMigrants, nous en dit plus.",
-      "date_published": "2025-12-09T16:53:08+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "17015e2ee25e18ac7fee16eb085e34e49c51128023993e2a517566ef505c6354",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20251209-des-dirigeants-stupides-donald-trump-cible-%C3%A0-nouveau-la-politique-migratoire-des-europ%C3%A9ens",
-      "title": "Des dirigeants \"stupides\", Donald Trump cible à nouveau la politique migratoire des Européens",
-      "content_html": "Moins d'une semaine après la publication d'un rapport émanant de Washington reprenant à son compte la thèse d'extrême droite du grand remplacement, Donald Trump a dénoncé mardi la politique migratoire de l'UE, qualifiée de \"désastre\" et mise en œuvre par des leaders européens \"stupides\".",
-      "date_published": "2025-12-09T16:49:55+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7ba02ceca4bab0f27bd1842e339fd0e7db426cb88a67efc0d4b08ebfcef7a749",
       "url": "https://www.aljazeera.com/news/2025/12/9/uks-mi5-protected-ira-agent-who-committed-murders-police-report-finds?traffic_source=rss",
       "title": "UK’s MI5 protected IRA agent who committed murders, police report finds",
@@ -1341,26 +982,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "16f1f36cab20389f1cbb5e68916f654d6d2a6c109080fe009ed49ae31c4a5aa6",
-      "url": "https://www.france24.com/en/europe/20251209-decaying-trump-recycles-far-right-tropes-about-decline-of-europe-immigration",
-      "title": "'They're decaying': Trump recycles far-right tropes about European decline",
-      "content_html": "US President Donald Trump doubled down on his criticism of European countries in a Politico interview published Tuesday, echoing far-right talking points as he branded the continent \"weak\" and \"decaying\" due to its policies on immigration.",
-      "date_published": "2025-12-09T16:44:43+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -1469,26 +1090,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "8f34eead1efde2187b4ec9fe298934ac697b6348f5a1ab768c64faaa6dcdc5ea",
-      "url": "https://www.france24.com/fr/moyen-orient/20251209-raqqa-kurdes-interdisent-c%C3%A9l%C3%A9brer-anniversaire-chute-r%C3%A9gime-al-assad",
-      "title": "À Raqqa, les Kurdes interdisent de célébrer l’anniversaire de la chute du régime al-Assad",
-      "content_html": "Alors que la plupart des villes syriennes célébraient le premier anniversaire de la chute du régime de Bachar al-Assad, le 8 décembre, Raqqa offrait un tout autre visage. Dans cette ville du nord-est de la Syrie gérée par les forces kurdes, tout rassemblement a été interdit. Pour nos Observateurs, les autorités ont peur d’être contestées dans les rues.",
-      "date_published": "2025-12-09T16:35:48+00:00",
-      "authors": [
-        {
-          "name": "Ahmed ALMASSALMAH"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "6d548c119408d9d1ce31b4cfcab53a8d000890544e50d2a76f3824a7bf47209b",
@@ -1643,24 +1244,6 @@
       "lang": "en"
     },
     {
-      "id": "e48e23e8c79612ad370b68ea672e84b330c7c177f71ca12e72eb36bfe084022c",
-      "url": "https://www.france24.com/en/video/20251209-europe-already-formidable-enough-to-deter-any-aggression-even-without-the-united-states",
-      "title": "Europe 'already formidable enough to deter any aggression even without the United States'",
-      "content_html": "A top European Union official warned the United States against interfering in Europe’s affairs and said only European citizens can decide which parties should govern them. European Council President António Costa’s remarks came in reaction to the Trump administration’s new national security strategy, which was published on Friday, praised by Russia, and paints European allies as weak, while offering tacit support to far-right political parties. For nin-depth analysis and a deeper perspective, Jean-Émile Jammine, is pleased to welcome Ambassador Claude-France Arnould is a former senior French diplomat, and Senior Fellow for European Defence at the Brussels Institute for Geopolitics.",
-      "date_published": "2025-12-09T16:14:56+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8c398e754e016324b29cb6d4c89dda8689ee776b5a4d25bdec81e56e35439683",
       "url": "https://www.timesofisrael.com/allenby-crossing-to-open-for-gaza-aid-from-jordan-for-1st-time-since-september-attack/",
       "title": "Allenby Crossing to open for Gaza aid from Jordan for 1st time since September attack",
@@ -1757,24 +1340,6 @@
       "lang": "en"
     },
     {
-      "id": "0868ca0026d8134a0b566ef618659f6e51431e904fc42d7645e5fe42761afc6a",
-      "url": "https://www.france24.com/en/video/20251209-un-refugee-chief-visits-sudan-to-highlight-deepening-humanitarian-crisis",
-      "title": "UN refugee chief visits Sudan to highlight deepening humanitarian crisis",
-      "content_html": "The UN High Commissioner for refugees travelled to Sudan on Monday to draw attention to a worsening humanitarian situation, 2 years into a bloody civil war. Antonia Kerrigan reports.",
-      "date_published": "2025-12-09T16:05:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f1ed2cf266f3b32d8e9aaf3bc32f689d8ee8868efb3f3036a5cbb86944521805",
       "url": "https://www.themoscowtimes.com/2025/12/09/india-explores-deepening-defense-co-production-with-russia-reuters-a91387",
       "title": "India Explores Deepening Defense Co-Production With Russia – Reuters",
@@ -1823,24 +1388,6 @@
       "lang": "en"
     },
     {
-      "id": "1b1338b8900db1207a86eeb13f410bb58c12b377aeed6c764b4001c77c37ba08",
-      "url": "https://www.france24.com/en/video/20251209-warner-bros-fight-heats-up-with-108-billion-hostile-bid-from-paramount",
-      "title": "Warner Bros fight heats up with $108 billion hostile bid from Paramount",
-      "content_html": "Jared Kushner’s role in helping finance Paramount’s $108 billion bid for Warner Bros. Discovery is injecting Trump-family interests into one of the most significant media battles in years. Donald Trump has said he will take part in the decision on the proposed Warner Bros. acquisition involving Paramount and Netflix, though he told reporters he has not discussed the matter with Kushner. Higdon Professor of Management at Florida State University, David King, shares his insights.",
-      "date_published": "2025-12-09T16:01:33+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8938ea84bc3a1d6ab8ec6bf3f45057e457ee25714d195a04cd1d5d1dd3b5bf4f",
       "url": "https://www.theguardian.com/world/2025/dec/09/nobel-peace-prize-maria-corina-machado-venezuela-oslo",
       "title": "Oslo appearance by Nobel peace prize winner María Corina Machado cancelled",
@@ -1865,24 +1412,6 @@
       "lang": "en"
     },
     {
-      "id": "eb68e3fc9c0f9046531fee2a4386acb8181a6112be877bcda054aed7cf1360bf",
-      "url": "https://www.france24.com/en/video/20251209-warner-bros-fight-heats-up-trump-s-son-in-law-is-key-player-in-takeover-battle",
-      "title": "Warner Bros fight heats up: Trump's son-in-law is key player in takeover battle",
-      "content_html": "Jared Kushner’s role in helping finance Paramount’s $108 billion bid for Warner Bros. Discovery is injecting Trump-family interests into one of the most significant media battles in years. Donald Trump has said he will take part in the decision on the proposed Warner Bros. acquisition involving Paramount and Netflix, though he told reporters he has not discussed the matter with Kushner. Emerald Maxwell reports.",
-      "date_published": "2025-12-09T15:58:56+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "87f730170312f064acec368b785c11acd26bc78ae643ef8fbc173cd6a905fa80",
       "url": "https://www.dw.com/en/tanzania-s-muted-independence-day-raises-more-questions/a-75078232?maca=en-rss-en-all-1573-rdf",
       "title": "Tanzania's muted independence day raises more questions",
@@ -1895,26 +1424,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "db3dc64da8c2ea03cd5e7f42c15b4e02151f4a5f79b25028b7cbeff04def4395",
-      "url": "https://www.france24.com/en/asia-pacific/20251209-australia-social-media-ban-under-16s-takes-effect-in-world-first",
-      "title": "Australia's social media ban for under-16s takes effect in world first",
-      "content_html": "Australia banned under-16s from the likes of Facebook and TikTok on Wednesday, in a world-first move that will be closely monitored by other countries considering similar measures to offset the harms of social media on children.",
-      "date_published": "2025-12-09T15:52:56+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asia / Pacific"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2069,6 +1578,20 @@
       "lang": "en"
     },
     {
+      "id": "9f833ec04c328bb0aa75ff833c2167461e5a776157a42582b15cbd377a10ae8a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2212636/fonderie-rouyn-arsenic-bois-peq",
+      "title": "Qualité de l’air : François Legault prêt à négocier un délai avec Glencore",
+      "content_html": "<p>Le premier ministre François Legault rencontre les dirigeants de la Fonderie Horne mardi.</p>",
+      "date_published": "2025-12-09T15:38:35+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "d608f3f09cca07c04f1b2d2e06ece56c2f96f76833223ff56f1c34df1dd76c04",
       "url": "https://www.ukrinform.net/rubric-economy/4067769-ukraine-seizes-68-vessels-of-russias-shadow-fleet-over-past-five-years.html",
       "title": "Ukraine seizes 68 vessels of Russia's shadow fleet over past five years",
@@ -2138,26 +1661,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "3fc7b069339e11ba0080fd9e8494de58bc13e02b99da06115a17bf0fc4ec2999",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20251209-taffy-brodesser-akner-s-take-on-the-jewish-american-family-saga",
-      "title": "Taffy Brodesser-Akner's take on the Jewish American family saga",
-      "content_html": "The author and journalist Taffy Brodesser-Akner has been awarded the Grand Prix de Littérature Américaine for her novel \"Long Island Compromise\" and its translation by Diniz Galhos. Brodesser-Akner tells us about the kidnapping that kicks off this sprawling family saga, and its repercussions through younger generations. We also discuss the pivotal role of wealth and privilege in American society, and why the aspirational lifestyles peddled by the rich and famous prompt such heated debate, after Brodesser-Akner's profile of Gwyneth Paltrow in the New York Times Magazine went viral.",
-      "date_published": "2025-12-09T15:26:23+00:00",
-      "authors": [
-        {
-          "name": "Olivia SALAZAR-WINSPEAR"
-        }
-      ],
-      "tags": [
-        "arts24"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "a72af4553fa78bd9d136a26daea868fd572a6e4dc24dfe9035ed03e23e12e50b",
@@ -2353,24 +1856,6 @@
       "lang": "fr"
     },
     {
-      "id": "579ef58a1fb2065b13a8d72e55c1c0dcd473a9d88f957b39b89843e0e1a9e9b0",
-      "url": "https://www.france24.com/en/video/20251209-icc-sentences-sudan-militia-chief-to-20-years-for-2003%E2%80%932004-darfur-war-crimes",
-      "title": "ICC sentences Sudan militia chief to 20 years for 2003–2004 Darfur war crimes",
-      "content_html": "The International Criminal Court Tuesday handed down a sentence of 20 years to a Sudanese militia leader for war crimes and crimes against humanity committed during the country's civil war two decades ago. France24 correspondent Fernande Van Tets reports the latest from The Hague.",
-      "date_published": "2025-12-09T14:41:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "da9dd34c5daf111e8234b52bb764a9483dca608425964094e4a9b5b4b3f8a97f",
       "url": "https://www.themoscowtimes.com/2025/12/09/russia-downs-3-drones-on-approach-to-moscow-2-a91388",
       "title": "Russia Downs 3 Drones on Approach to Moscow",
@@ -2415,24 +1900,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "9d0df9030a72e5f7b78105685888aa7571f60993029c71fdb426e97f56257be2",
-      "url": "https://www.france24.com/en/video/20251209-france-make-or-break-vote-for-2026-budget",
-      "title": "France: Make-or-break vote for 2026 budget",
-      "content_html": "France’s social security budget heads into a knife-edge vote on Tuesday that could plunge Prime Minister Sébastien Lecornu's government into a new political crisis and open a €30-billion gap in funding for welfare, pensions and healthcare. France24 Senior Reporter James Andre tells us the latest.",
-      "date_published": "2025-12-09T14:35:17+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2509,24 +1976,6 @@
       "lang": "en"
     },
     {
-      "id": "624f00a71b49ff54e5b6e09d3413f67e31526aebc207dda1c92c823623ae567b",
-      "url": "https://www.france24.com/en/video/20251209-un-agency-reports-rise-in-violence-against-women-journalists-and-activists-linked-to-online-abuse",
-      "title": "UN agency reports rise in violence against women journalists and activists linked to online abuse",
-      "content_html": "UN Women and partners published a study Tuesday that found more than two-thirds of women journalists, rights defenders and activists have reported violence online, with over 40% saying they have faced real-world attacks linked to digital abuse. Julie Posetti, Chair of the Centre for Journalism and Democracy of Geneva, shares the details of the research.",
-      "date_published": "2025-12-09T14:20:32+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5be2269b7b967cfe54b0f52d67eba9a6680d442e1856341e95400b769d3395e2",
       "url": "https://www.ukrinform.net/rubric-ato/4067750-we-have-no-reason-to-ease-pressure-on-russia-estonian-pm.html",
       "title": "We have no reason to ease pressure on Russia – Estonian PM",
@@ -2585,44 +2034,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "324daff399458b8619ec922c0459ec41cba9a21bd83f19b47a4f8f96c3021fb0",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20251209-lessons-in-joyful-mathematics-with-french-mathematician-c%C3%A9dric-villani",
-      "title": "'Lessons in joyful mathematics' with French mathematician Cédric Villani",
-      "content_html": "Cédric Villani is one of France's top mathematicians, working across several fields of the discipline. He's won a number of titles and awards for his work. A professor at Claude Bernard Lyon 1 University and member of France's Académie des sciences, Villani is also the author of the new book \"Leçons de mathématique joyeuse\" – literally \"Lessons in joyful mathematics\". He spoke to us in Perspective.",
-      "date_published": "2025-12-09T14:15:35+00:00",
-      "authors": [
-        {
-          "name": "Rochelle FERGUSON-BOUYAHI"
-        }
-      ],
-      "tags": [
-        "Perspective"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ad2a7c08ba488bca7c7e51149b10bf198d118ccaf71c2ddebd91014d0908f75b",
-      "url": "https://www.france24.com/en/video/20251209-french-pm-and-socialists-raise-the-stakes-ahead-of-key-social-security-budget-vote",
-      "title": "French PM and Socialists raise the stakes ahead of key social security budget vote",
-      "content_html": "The Assemblée Nationale is set to vote on a key social security budget bill on December 9. Socialist leader Olivier Faure has called for backing the bill. If rejected, there would be major consequences for the country and the prime minister. Solange Mougin tells us more.",
-      "date_published": "2025-12-09T14:13:09+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2735,6 +2146,30 @@
       "lang": "fr"
     },
     {
+      "id": "39f94eb21c7badf694869c0a49fea061c6a6a3bf9c44d5454312c966b104a964",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/09/mp-family-travel-allowance-rules-entitlements-anthony-albanese-anika-wells-melissa-mcintosh",
+      "title": "Albanese says his use of family travel allowance ‘in accordance with the rules’ as MPs call for fresh look at entitlements",
+      "content_html": "<p>The prime minister claimed $2,800 in family travel entitlements coinciding with three major sporting events between 2023 and 2025</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Federal politicians are calling for public spending rules to be tightened as it is revealed Anthony Albanese also used the family reunion travel allowance after being invited to major sporting events around Australia.</p><p>The prime minister charged taxpayers about $2,800 for three instances of family travel costs on weekends when he also declared being given tickets to the AFL grand final, the rugby league State of Origin and the Australian Open tennis, Guardian Australia can reveal.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/09/mp-family-travel-allowance-rules-entitlements-anthony-albanese-anika-wells-melissa-mcintosh\">Continue reading...</a>",
+      "date_published": "2025-12-09T14:00:08+00:00",
+      "authors": [
+        {
+          "name": "Josh Butler and Krishani Dhanji"
+        }
+      ],
+      "tags": [
+        "Anthony Albanese",
+        "Labor party",
+        "Coalition",
+        "Australian politics",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "94c50963e2ce8a5becd26800e75e8e8983d983cca1d49db4643f7ffe0826e855",
       "url": "https://www.theguardian.com/australia-news/2025/dec/10/guardian-essential-poll-one-nation-records-highest-ever-primary-vote",
       "title": "Guardian Essential poll: One Nation records highest-ever primary vote after burqa stunt and Joyce defection speculation",
@@ -2755,30 +2190,6 @@
         "Anthony Albanese",
         "Cost of living crisis",
         "Sussan Ley"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "39f94eb21c7badf694869c0a49fea061c6a6a3bf9c44d5454312c966b104a964",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/09/mp-family-travel-allowance-rules-entitlements-anthony-albanese-anika-wells-melissa-mcintosh",
-      "title": "Albanese says his use of family travel allowance ‘in accordance with the rules’ as MPs call for fresh look at entitlements",
-      "content_html": "<p>The prime minister claimed $2,800 in family travel entitlements coinciding with three major sporting events between 2023 and 2025</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Federal politicians are calling for public spending rules to be tightened as it is revealed Anthony Albanese also used the family reunion travel allowance after being invited to major sporting events around Australia.</p><p>The prime minister charged taxpayers about $2,800 for three instances of family travel costs on weekends when he also declared being given tickets to the AFL grand final, the rugby league State of Origin and the Australian Open tennis, Guardian Australia can reveal.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/09/mp-family-travel-allowance-rules-entitlements-anthony-albanese-anika-wells-melissa-mcintosh\">Continue reading...</a>",
-      "date_published": "2025-12-09T14:00:08+00:00",
-      "authors": [
-        {
-          "name": "Josh Butler and Krishani Dhanji"
-        }
-      ],
-      "tags": [
-        "Anthony Albanese",
-        "Labor party",
-        "Coalition",
-        "Australian politics",
-        "Australia news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -2847,46 +2258,6 @@
       "lang": "fr"
     },
     {
-      "id": "8c7402af53f6cd7748148395823c8275d6ee17f06ba3de10c3e765fe606c7ff5",
-      "url": "https://www.france24.com/en/africa/20251209-france-provided-logistical-support-help-thwart-benin-coup-attempt-macron",
-      "title": "France provided 'logistical' support to help thwart Benin coup attempt, Macron aide says",
-      "content_html": "Former colonial power France provided logistical support to Benin's authorities as they moved to thwart a coup attempt at the weekend, an aide to French President Emmanuel Macron said Tuesday as the West African nation battling jihadist insurgents continued to hunt for fugitive soldiers behind the botched coup.",
-      "date_published": "2025-12-09T13:53:38+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Africa"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "88e44aa313962399f6230a9a978f0a5f8a8dac56f3023b9cc2fd07b022df11e5",
-      "url": "https://www.france24.com/en/live-news/20251209-hamas-says-no-gaza-truce-second-phase-while-israel-continues-violations-1",
-      "title": "Hamas says no second phase for Gaza ceasefire until Israel ceases 'violations'",
-      "content_html": "Palestinian militant group Hamas on Tuesday threatened to delay the start of phase two of the Gaza ceasefire agreement until more pressure is put on Israel to cease deadly strikes, open the key Allenby border crossing and allow more aid into the beleaguered territory.",
-      "date_published": "2025-12-09T13:51:19+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5dec352040a60129af5a7204ef1e89ab400bdfb636e3f640a78d03bb77c490f6",
       "url": "https://elpais.com/internacional/2025-12-09/la-agencia-britanica-de-espionaje-mi5-encubrio-durante-anos-los-crimenes-de-su-topo-dentro-del-ira.html",
       "title": "L'agence d'espionnage britannique MI5 a dissimulé pendant des années les crimes de sa taupe au sein de l'IRA.",
@@ -2929,24 +2300,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e0ee6b1017a0f1750663bc854332a1340b45f8bffa2338448449095b11d2c2d4",
-      "url": "https://www.france24.com/en/video/20251209-benin-has-been-considered-a-stable-democratic-country-in-an-unstable-undemocratic-region",
-      "title": "'Benin has been considered a stable democratic country in an unstable, undemocratic region'",
-      "content_html": "The short-lived coup in Benin, attempting to overthrow President Patrice Talon, was the latest in a series of recent coups across Africa. And they are following a similar pattern of disputed elections, constitutional upheaval, security crises and youth discontent. For in-depth analysis and a deeper perspective, Gavin Lee welcomes Nina Wilén, Associate Professor in Political Science at Lund University and Director for the Africa Programme at Egmont Institute for International Relations.",
-      "date_published": "2025-12-09T13:43:25+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3136,24 +2489,6 @@
       "lang": "fr"
     },
     {
-      "id": "72c92897a03ac047984e6701ba3392fccbef837a68c62e0c6ccf32e1df365ed4",
-      "url": "https://www.france24.com/en/video/20251209-french-pm-gambles-on-crucial-social-security-vote",
-      "title": "One of the challenges with French politics: There is no 'whipping system, it's not very disciplined'",
-      "content_html": "France's social security is set to go to a vote in parliament in a key hurdle for Prime Minister Sebastien Lecornu after he pledged to deliver a 2026 budget by year-end. The outcome of the vote is uncertain. Lawmakers failing to back the plan, which includes the suspension of an unpopular retirement reform, could plunge the country into further political crisis and call into question Lecornu's ability to lead. For in-depth analysis and a deeper perspective, Genie Godula welcomes Paul Smith, Associate Professor in French History and Politics at the University of Nottingham.",
-      "date_published": "2025-12-09T13:21:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5eb502716c4d68f698be29026753fe7dcae9c363b566c13306df1719781c1d2d",
       "url": "https://www.lefigaro.fr/international/olivier-zajec-ceux-qui-ont-commis-les-33-pages-de-la-nouvelle-strategie-de-securite-americaine-ont-parfaitement-calcule-leur-effet-20251209",
       "title": "Olivier Zajec : « Ceux qui ont commis les 33 pages de la nouvelle stratégie de sécurité américaine ont parfaitement calculé leur effet »",
@@ -3170,24 +2505,6 @@
       "lang": "fr"
     },
     {
-      "id": "694c8ac88dff24055f2ddd9ecfa2deea8fa878e61e448e637bedae7b95dbc42f",
-      "url": "https://www.france24.com/en/video/20251209-100-nigerian-students-rescued-no-comment-on-negotiations-or-ransom",
-      "title": "100 Nigerian students rescued: No comment on negotiations or ransom",
-      "content_html": "Nigeria's government on Monday rescued 100 schoolchildren abducted last month from a Catholic school in Niger state, in one of the country's biggest mass kidnappings in recent years. The students arrived at the government house in Niger's capital Minna and were handed over to the state governor. Daniel Quinlan reports.",
-      "date_published": "2025-12-09T13:19:18+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1d0e00d15fd2d992abdac96fd45faf3f0a61c1e3ae15b3be4df1f62db993063e",
       "url": "https://www.ukrinform.net/rubric-ato/4067711-authorities-in-ternopil-begin-dismantling-building-struck-by-russian-missile.html",
       "title": "Authorities in Ternopil begin dismantling building struck by Russian missile",
@@ -3200,24 +2517,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "072ca6738a1fc3d17868e838d1d5a30751f4a07cc30e73c10d16f6452119798a",
-      "url": "https://www.france24.com/en/video/20251209-dozens-hurt-in-japan-7-5-strong-earthquake",
-      "title": "Dozens hurt in Japan 7.5-strong earthquake",
-      "content_html": "A powerful 7.5-magnitude earthquake struck northeastern Japan late Monday, triggering evacuation orders for roughly 90,000 people and prompting tsunami warnings that were later reduced to advisories. The Japan Meteorological Agency had initially cautioned that waves up to 3 metres could reach the region’s coast after the quake hit offshore at 11:15 PM. Oliver Farry tells us more.",
-      "date_published": "2025-12-09T13:15:36+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3238,42 +2537,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ca3ed81bb9b2907dec746643c92e17fba425800cc7a89b2b700cce3a075485ac",
-      "url": "https://www.france24.com/en/video/20251209-icc-sentences-sudan-militia-chief-to-20-years-for-crimes-against-humanity",
-      "title": "ICC sentences Sudan militia chief to 20 years for crimes against humanity",
-      "content_html": "The International Criminal Court Tuesday handed down a sentence of 20 years to a Sudanese militia leader for war crimes and crimes against humanity committed during the country's civil war two decades ago. Charlotte Hughes reports.",
-      "date_published": "2025-12-09T13:13:32+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fa65e1f7041baab2e1f1bf722843c0decf60e7ac0550555ba6fdbb84aab72a88",
-      "url": "https://www.france24.com/en/video/20251209-thailand-cambodia-fighting-spreads-along-border-as-death-toll-rises",
-      "title": "Thailand-Cambodia fighting spreads along border as death toll rises",
-      "content_html": "Renewed fighting between Thailand and Cambodia over their long-disputed border has intensified, resulting in more casualties and forcing thousands to flee. Cambodia reports two additional civilian deaths from overnight Thai shelling, raising its toll to seven, while Thailand says at least three of its soldiers have been killed. Each side accuses the other of reigniting the conflict, undermining a fragile ceasefire brokered by US President Donald Trump in July, a deal he had hailed as a historic breakthrough, even prompting Cambodia to nominate him for a Nobel Peace Prize. The two countries have contested sovereignty along their 800-kilometre border for more than a century. France24 International Affairs commentator Douglas Herbert shares his insights.",
-      "date_published": "2025-12-09T13:11:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "92a8e70345d520a0c01278a1d43580e1af66b7a5c00706281a4eb1bcc382f97f",
@@ -3374,26 +2637,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "40a6a2f106eb83b346ce6bcd9f2944183bd3b4baa531a12a5339c39c69d43ce4",
-      "url": "https://www.france24.com/en/europe/20251209-icc-sentences-sudanese-axe-murderer-militia-leader-to-20-years-in-prison-over-darfur-war-crimes",
-      "title": "ICC sentences Sudanese ‘axe murderer’ militia leader to 20 years in prison over Darfur war crimes",
-      "content_html": "The International Criminal Court on Tuesday sentenced Ali Muhammad Ali Abd-Al-Rahman, a leader of the feared Sudanese Janjaweed militia, to 20 years in prison for war crimes and crimes against humanity committed in Darfur more than 20 years ago.",
-      "date_published": "2025-12-09T12:52:07+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3724,22 +2967,6 @@
       "lang": "en"
     },
     {
-      "id": "4945be0979b652f8893b6d1fd7dde9f274946de64bd8f7bf52bc0054c632f58f",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/why-is-indigo-airline-cancelling-thousands-of-flights?traffic_source=rss",
-      "title": "Thousands of travellers stranded in India as IndiGo airline cancels flights",
-      "content_html": "India’s largest airline, IndiGo, has cancelled thousands of flights leaving travellers stranded across the country.",
-      "date_published": "2025-12-09T12:02:57+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "10fa75ec87e05d9bff48c3957f6ebcb3b092c986167e98a453c4ecba6241998c",
       "url": "https://ici.radio-canada.ca/nouvelle/2212588/travailleurs-fonderie-horne-rouyn-conseil",
       "title": "Travailleurs réunis pour la Fonderie Horne : « On est à la croisée des chemins »",
@@ -3782,9 +3009,9 @@
       "lang": "fr"
     },
     {
-      "id": "7369b670355821a732143d050893cf2d500c39bf271cedc41fc8fd859fe7f79a",
-      "url": "https://www.dw.com/en/ukraine-updates-zelenskyy-meets-pope-leo-to-discuss-peace-plan/live-75074027?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine updates: Zelenskyy meets Pope Leo to discuss peace plan",
+      "id": "9f1d341b65c8ce528c9892e4083f6e213b3350d63a50fbc0bcd23766accbd4c4",
+      "url": "https://www.dw.com/en/ukraine-updates-zelenskyy-meets-pope-discusses-peace-plan/live-75074027?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine updates: Zelenskyy meets pope, discusses peace plan",
       "content_html": "The Ukrainian president met the pope to discuss peace efforts and said \"deeply appreciates,\" the help from the pontiff. DW has the latest.",
       "date_published": "2025-12-09T11:56:00+00:00",
       "authors": [],
@@ -4160,7 +3387,7 @@
       "id": "16ef94be96ed288a7116fa55309fcf16d5ed23bbf0063ca3ae0d55a225fbff99",
       "url": "https://www.elmundo.es/internacional/2025/12/09/6937f309fc6c8330028b4582.html",
       "title": "Au moins 20 morts dans l'incendie d'un immeuble de bureaux à Jakarta",
-      "content_html": "L'incendie s'est déclaré lorsqu'une batterie située au premier étage de l'immeuble de bureaux a explosé et les flammes se sont ensuite propagées aux étages supérieurs.",
+      "content_html": "L'incendie s'est déclaré lorsqu'une batterie située au premier étage de l'immeuble de bureaux a explosé, et les flammes se sont ensuite propagées aux étages supérieurs.",
       "date_published": "2025-12-09T09:59:49+00:00",
       "authors": [
         {
@@ -4596,36 +3823,6 @@
       "lang": "en"
     },
     {
-      "id": "0119471f8b8442b27e924abdd9aed342647169a41d3aacdadc108d37751ba042",
-      "url": "https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china",
-      "title": "Trump clears way for Nvidia to sell powerful AI chips to China",
-      "content_html": "<p>Commerce department finalising deal to allow H200 chips to be sold to China as strict Biden-era restrictions relaxed</p><p>Donald Trump has cleared the way for Nvidia to begin selling its powerful AI computer chips to China, marking<strong> </strong>a win for the chip maker and its CEO, Jensen Huang, who has spent months lobbying the White House to open up sales in the country.</p><p>Before Monday’s announcement, the US had prohibited sales of Nvidia’s most advanced chips to China over national security concerns.</p> <a href=\"https://www.theguardian.com/technology/2025/dec/08/trump-nvidia-ai-chips-china\">Continue reading...</a>",
-      "date_published": "2025-12-09T08:29:08+00:00",
-      "authors": [
-        {
-          "name": "Dara Kerr and Helen Davidson in Taipei"
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Technology sector",
-        "Trump administration",
-        "Donald Trump",
-        "US politics",
-        "US news",
-        "World news",
-        "Technology",
-        "China",
-        "Asia Pacific",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "95f1eb3eca7f0b815906434822837265c97274a1e3007d2a56e60826de6f8850",
       "url": "https://www.ukrinform.net/rubric-ato/4067552-russian-army-attacks-three-districts-of-dnipropetrovsk-region.html",
       "title": "Russian army attacks three districts of Dnipropetrovsk region",
@@ -4726,22 +3923,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "05b1649eb25e6700442256dbf5a7608d467ab27cfa2e1390d8c831b007694701",
-      "url": "https://www.ukrinform.net/rubric-ato/4067537-russians-kill-three-and-wound-16-residents-of-donetsk-region-in-past-day.html",
-      "title": "Russians kill three and wound 16 residents of Donetsk region in past day",
-      "content_html": "Russian invaders killed three residents of Donetsk region and wounded 16 others on December 8.",
-      "date_published": "2025-12-09T07:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5042,36 +4223,6 @@
         "Nicolás Maduro",
         "Donald Trump",
         "Latinoamérica"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "34083cdcae5c593a0e02a8c4020917aa2ce6f4c841ab4cae44a4d094a45b802e",
-      "url": "https://elpais.com/america/2025-12-09/de-la-clandestinidad-al-nobel-el-ano-oculto-de-maria-corina-machado.html",
-      "title": "De la clandestinité au prix Nobel : l'année cachée de María Corina Machado",
-      "content_html": "María Corina Machado, lors d'un événement à Guanare, Venezuela, en 2024.",
-      "date_published": "2025-12-09T04:45:00+00:00",
-      "authors": [
-        {
-          "name": "Alonso  Moleiro"
-        }
-      ],
-      "tags": [
-        "Latinoamérica",
-        "Donald Trump",
-        "Nicolás Maduro",
-        "Venezuela",
-        "Estados Unidos",
-        "Conflictos diplomáticos",
-        "Chavismo",
-        "Conflictos internacionales",
-        "Política",
-        "María Corina Machado",
-        "Oposición política"
       ],
       "source": {
         "name": "Internacional en EL PAÍS",
@@ -5744,7 +4895,7 @@
       "id": "b32a1d96edf342e83f0a9fb8c96576142131e1ecac7d56138b72701b461501fc",
       "url": "https://www.liberation.fr/international/amerique/leur-valeur-culturelle-et-artistique-est-inestimable-huit-gravures-de-matisse-volees-dans-une-bibliotheque-du-bresil-20251208_VOXJ7XC2JBDJXJRVCIOCGJ7PEA/",
       "title": "«Leur valeur culturelle et artistique est inestimable» : un suspect interpellé après le vol de huit gravures de Matisse au Brésil",
-      "content_html": "La Bibliothèque Mario d'Andrade à Sao Paulo, dimanche 7 décembre",
+      "content_html": "La bibliothèque Mario de Andrade à São Paulo, dimanche 7 décembre 2025.",
       "date_published": "2025-12-08T19:35:07+00:00",
       "authors": [
         {
@@ -6621,7 +5772,7 @@
       "id": "180310f4b1edcc36213a13ac85b5ac926c729e516aebae523c957f58f9787dbc",
       "url": "https://www.elmundo.es/internacional/2025/12/08/6936b165e4d4d844748b4570.html",
       "title": "Costa répond aux attaques de Trump contre l'UE : \"Nous ne pouvons pas accepter la menace d'ingérence dans la vie politique européenne\"",
-      "content_html": "Trois jours après l'annonce de la nouvelle stratégie de sécurité, l'UE répond enfin avec une certaine vigueur aux États-Unis : « Les alliés ne menacent pas d'interférer dans la vie démocratique ».",
+      "content_html": "Trois jours après l'annonce de la nouvelle stratégie de sécurité, l'UE répond enfin avec une certaine vigueur aux États-Unis : « Les alliés ne menacent pas d'intervenir dans la vie démocratique ».",
       "date_published": "2025-12-08T11:12:39+00:00",
       "authors": [
         {
@@ -6656,7 +5807,7 @@
     {
       "id": "35bb5674617c31ef309e9e1438913d08cea27d1e1b63888689c38332df70d51b",
       "url": "https://elpais.com/internacional/2025-12-08/el-presidente-del-consejo-europeo-responde-a-la-estrategia-de-trump-de-impulsar-a-los-ultras-la-amenaza-de-interferencia-politica-es-inaceptable.html",
-      "title": "L'UE répond à la stratégie de promotion des ultras de Trump : « La menace d'ingérence politique est inacceptable »",
+      "title": "L'UE réagit à la stratégie de promotion des ultras de Trump : « La menace d'ingérence politique est inacceptable »",
       "content_html": "Le président du Conseil européen, António Costa, à Bruxelles le 26 juin.",
       "date_published": "2025-12-08T11:02:41+00:00",
       "authors": [
@@ -6706,7 +5857,7 @@
     {
       "id": "b7e6b2411c79ad894566a5bd37c0d0b5659309e751084a6e1f2092d2e35d6a92",
       "url": "https://www.elmundo.es/internacional/2025/12/08/69369d70fdddffbb068b4571.html",
-      "title": "Le pouls aérien et militaire qui aggrave la crise diplomatique entre le Japon et la Chine",
+      "title": "Le pouls aéromilitaire qui aggrave la crise diplomatique entre le Japon et la Chine",
       "content_html": "Tokyo accuse les chasseurs chinois d'avoir pointé leurs radars de conduite de tir sur ses avions",
       "date_published": "2025-12-08T10:50:09+00:00",
       "authors": [
@@ -7115,7 +6266,7 @@
       "id": "b87287b81b588b1a288b2e475b35a903bd5469c66f15da5a1adf04a554ec82df",
       "url": "https://www.elmundo.es/internacional/2025/12/08/6935b65721efa093138b456f.html",
       "title": "\"El Pollo\" Carvajal, la \"boîte noire\" avec tous les secrets du chavisme",
-      "content_html": "Ce que l'ancien général a révélé dans une lettre à Donald Trump est \"la mémoire opérationnelle d'un narco-État\"",
+      "content_html": "Ce que l'ancien général a révélé dans une lettre à Donald Trump est \"la mémoire opérationnelle d'un narco-État\".",
       "date_published": "2025-12-08T01:28:26+00:00",
       "authors": [
         {
@@ -7269,7 +6420,7 @@
     {
       "id": "14ec699b7fa8ddc5691c98f35bb357160d1ce52bd1d217476a36ccd1ff59f6e3",
       "url": "https://www.elmundo.es/internacional/2025/12/07/6934682ae4d4d898038b456e.html",
-      "title": "L'Europe attend entre \"étonnement\" et peur face à la nouvelle stratégie de Trump : \"Soit nous nous défendons, soit nous devrons accepter ce que les grands acteurs nous envoient\"",
+      "title": "L'Europe attend entre \"étonnement\" et peur face à la nouvelle stratégie de Trump : \"Soit nous nous défendons, soit nous devrons accepter ce que nous envoient les grands acteurs\"",
       "content_html": "Kallas reconnaît que certaines critiques sont « vraies » et, dans le domaine diplomatique, l'attaque de l'administration américaine suscite des inquiétudes : « Il est dangereux qu'elle atteigne les citoyens »",
       "date_published": "2025-12-07T19:12:45+00:00",
       "authors": [
@@ -7742,20 +6893,6 @@
       "lang": "fr"
     },
     {
-      "id": "1db508d882815facfb4782bc6dc20f8fc712f952522b15c3ab6360f5c1e9153a",
-      "url": "https://www.bbc.com/news/videos/ckgm4yjl214o?at_medium=RSS&at_campaign=rss",
-      "title": "Moment Hawaii volcano eruption engulfs camera",
-      "content_html": "Kilauea, one of the world's most active volcanoes, has been erupting intermittently since December last year.",
-      "date_published": "2025-12-07T09:44:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7d37f4ad2302081f6161b2096189c637eaaf5eb949cf6cbe2e5ffc922393ee5f",
       "url": "https://www.liberation.fr/international/europe/au-moins-17-morts-en-crete-apres-le-naufrage-dune-embarcation-de-migrants-20251207_UNWSK42FFFC3JFX5JFI5ORWH3U/",
       "title": "Au moins 17 morts en Crète après le naufrage d’une embarcation de migrants",
@@ -7802,20 +6939,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cf6c070156b997197dd778dde7500d33f8244195bf25f11759b2e14b298c19fe",
-      "url": "https://www.bbc.com/news/videos/cx2pqq15x85o?at_medium=RSS&at_campaign=rss",
-      "title": "BBC reports from scene of deadly Goa nightclub fire",
-      "content_html": "India Editor Vikas Pandey visits the Indian nightclub where 25 people were killed in a blaze.",
-      "date_published": "2025-12-07T08:03:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -7870,20 +6993,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ebdd915790762874a23d0c6f999777cee273c9632856f0be066420eae836bed1",
-      "url": "https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss",
-      "title": "Bethlehem Christmas tree illuminated for first time since Gaza war began",
-      "content_html": "Hundreds gathered in Manger Square to bask in the festivities that included music, dancing and Santas bearing sweet treats.",
-      "date_published": "2025-12-07T07:13:42+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "f6b0ecd38a2fb356f0ab51aebcf70789817839a93a2bbee219a094803e13c18c",
@@ -8149,7 +7258,7 @@
       "id": "7d6725dd43304c2fc14e32fdcca840d25e26bcecf873e76fbb4c019114c592a1",
       "url": "https://www.elmundo.es/internacional/2025/12/06/6934526ce9cf4afa108b4570.html",
       "title": "Les Etats-Unis redoublent d'attaques contre l'Europe : \"Ils ne peuvent pas compter sur nous pour leur propre sécurité tout en sapant la nôtre à travers l'UE\"",
-      "content_html": "L’administration Trump insiste : « Nous ne pouvons pas prétendre être des partenaires tout en permettant à une bureaucratie non élue et non démocratique de mettre en œuvre des politiques de suicide civilisationnel ».",
+      "content_html": "L’administration Trump insiste : « Nous ne pouvons pas prétendre être des partenaires tout en permettant à une bureaucratie non élue et antidémocratique de mettre en œuvre des politiques de suicide civilisationnel ».",
       "date_published": "2025-12-06T19:44:49+00:00",
       "authors": [
         {
@@ -8258,20 +7367,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c314ed60ff9615007322cc463f2bc33f5965a627107f1446c96af2da017a80ec",
-      "url": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
-      "title": "'We've lost everything': Australia wildfire rips through homes",
-      "content_html": "Multiple homes were left damaged after a wildfire swept through a coastal area north of Sydney.",
-      "date_published": "2025-12-06T15:43:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -10580,22 +9675,6 @@
       "authors": [],
       "tags": [
         "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c11e405caaa22711c461a60492c74ff4fa714faa0a70f98c78f1df60b529741b",
-      "url": "https://www.dw.com/en/brazil-what-cop30-means-for-the-people-of-belem/a-74706250?maca=en-rss-en-all-1573-rdf",
-      "title": "Brazil: What COP30 means for the people of Belem",
-      "content_html": "Hundreds of millions of dollars have been poured into local construction and infrastructure projects in Belem — but not everyone is profiting from the investment.",
-      "date_published": "2025-11-14T11:54:00+00:00",
-      "authors": [],
-      "tags": [
-        "Environment"
       ],
       "source": {
         "name": "Deutsche Welle",
