@@ -5,11 +5,25 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "cb68cc4b7db4d9752d43752631ebad7efb87d065d064954bb8ea48e9a8c93a90",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013251/fusillade-sydney-plage-bondi-communaute-juive-hanoukka",
+      "title": "Fusillade à Sydney : les forces de sécurité aux aguets",
+      "content_html": "<p>L&#x27;attaque, qui a eu lieu à la plage de Bondi, a fait 11&nbsp;morts, et l&#x27;un des deux assaillants a été abattu. </p>",
+      "date_published": "2025-12-14T19:33:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "4044173a4e5d86039973e9bee33c456dbe14a5c3aab32075d1d75fab28db1722",
       "url": "https://www.liberation.fr/international/asie-pacifique/au-moins-10-morts-apres-une-fusillade-sur-une-plage-de-sydney-20251214_7X6KSQP47FF7FGLLWU4YASZSKY/",
-      "title": "EN DIRECT – Fusillade en Australie : un Français parmi les victimes",
+      "title": "EN DIRECT – Fusillade en Australie : la communauté internationale condamne une «effroyable attaque antisémite»",
       "content_html": "Des policiers en intervention à Sydney, en Australie, le dimanche 14 décembre 2025, après l'attaque qui a coûté la vie à 12 personnes sur la plage de Bondi.",
-      "date_published": "2025-12-14T19:06:27+00:00",
+      "date_published": "2025-12-14T19:30:25+00:00",
       "authors": [
         {
           "name": "Sascha Garcia, Jérôme Balazard,  AFP, Reuters ."
@@ -23,25 +37,43 @@
       "lang": "fr"
     },
     {
-      "id": "cb68cc4b7db4d9752d43752631ebad7efb87d065d064954bb8ea48e9a8c93a90",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013251/fusillade-sydney-plage-bondi-communaute-juive-hanoukka",
-      "title": "Fusillade à Sydney : les forces de sécurité aux aguets",
-      "content_html": "<p>L&#x27;attaque, qui a eu lieu à la plage de Bondi, a fait 11&nbsp;morts, et l&#x27;un des deux assaillants a été abattu. </p>",
-      "date_published": "2025-12-14T18:58:37+00:00",
+      "id": "8017ea9086e9a65507faf733361a9c66557b425478d3f08344145437c36d879c",
+      "url": "https://www.lemonde.fr/international/live/2025/12/14/en-direct-guerre-en-ukraine-faute-d-adhesion-a-l-otan-volodymyr-zelensky-reclame-aux-partenaires-occidentaux-des-garanties-de-securite-contraignantes_6657241_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : faute d’adhésion à l’OTAN, Volodymyr Zelensky réclame aux partenaires occidentaux des garanties de sécurité contraignantes",
+      "content_html": "Le chancelier allemand, Friedrich Merz, avec l’émissaire américain Steve Witkoff et le président ukrainien, Volodymyr Zelensky, à Berlin, le 14 décembre 2025.",
+      "date_published": "2025-12-14T19:26:51+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
     {
-      "id": "bc00c3e78d87f27aa410a2514b9f87694dca48d723a348a5153ebe806196e8b8",
-      "url": "https://www.ukrinform.net/rubric-polytics/4069624-yugoslavia-experience-shows-international-justice-is-inevitable-le-monde-journalist.html",
-      "title": "Yugoslavia experience shows international justice is inevitable – Le Monde journalist",
-      "content_html": "Skepticism toward international justice during wartime is common, but the experience of Yugoslavia shows that the sense of impunity eventually fades. All the more so in Ukraine, where the idea of justice and accountability for war crimes is already seen as a necessary condition for future peace.",
-      "date_published": "2025-12-14T18:56:00+00:00",
+      "id": "0a2ffd0bada2fc540a6be9c4166f41706a6a039cd8de96fa983515912ac67871",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/attentat-en-australie-un-massacre-qui-illustre-la-montee-de-lantisemitisme-20251214_SPJS5BXXZZFMZPWQJPPTKUNJ7A/",
+      "title": "Attentat en Australie : un massacre qui illustre la montée de l’antisémitisme",
+      "content_html": "Après la fusillade survenue à Bondi Beach, à Sydney, le 14 décembre 2025.",
+      "date_published": "2025-12-14T19:25:23+00:00",
+      "authors": [
+        {
+          "name": "Paul Quinio"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d17c013b202a58d0b49d38aed5a96144d179d59c89793fe380d9ff393434be57",
+      "url": "https://www.ukrinform.net/rubric-polytics/4069632-meloni-calls-trumps-new-strategy-wakeup-call-for-europe.html",
+      "title": "Meloni calls Trump’s new strategy “wake-up call” for Europe",
+      "content_html": "Italian Prime Minister Giorgia Meloni has described U.S. President Donald Trump’s new national security strategy as a “wake-up call” for Europe.",
+      "date_published": "2025-12-14T19:20:00+00:00",
       "authors": [],
       "tags": [
         "Politics"
@@ -55,9 +87,9 @@
     {
       "id": "cbd1567206a97719332db50eb277322b81302bc34755acbc454ec364eb109324",
       "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
-      "title": "Bondi beach shooting live updates: details of victims emerge after terror attack at Jewish festival kills 11 people and injures 29",
-      "content_html": "<p>One gunman was also killed and another wounded; two police officers among the injured taken to hospital</p><p>Amid the horror of the shooting, one video has emerged showing incredible bravery – a bystander rushing one of the gunmen from behind to wrestle the firearm off him.</p><p>Praised a hero, he is being identified by some media as a 43-year-old fruit shop owner from the Sutherland Shire.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah\">Continue reading...</a>",
-      "date_published": "2025-12-14T18:55:43+00:00",
+      "title": "Bondi beach shooting live updates: details of victims emerge after terror attack at Jewish festival leaves at least 16 people dead",
+      "content_html": "<p>One gunman was killed and another wounded; two police officers among the injured taken to hospital</p><p>Amid the horror of the shooting, one video has emerged showing incredible bravery – a bystander rushing one of the gunmen from behind to wrestle the firearm off him.</p><p>Praised a hero, he is being identified by some media as a 43-year-old fruit shop owner from the Sutherland Shire.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah\">Continue reading...</a>",
+      "date_published": "2025-12-14T19:16:26+00:00",
       "authors": [
         {
           "name": "Frances Mao"
@@ -76,11 +108,29 @@
       "lang": "en"
     },
     {
+      "id": "6fa923d689994631c92ae3c0521efe9d1027af9921a3a7e68fa9fa9389515cfa",
+      "url": "https://www.liberation.fr/international/afrique/condamne-a-sept-ans-de-prison-en-algerie-le-journaliste-christophe-gleizes-se-pourvoit-en-cassation-20251214_63XYOEF3GBED5E24QVJS6OWVCA/",
+      "title": "Condamné à sept ans de prison en Algérie, le journaliste Christophe Gleizes se pourvoit en cassation",
+      "content_html": "A Marseille, sur la façade du conseil départemental des Bouches-du-Rhône, le 12 décembre.",
+      "date_published": "2025-12-14T19:14:28+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "1cd275ba972a1067e86658cd77d24cc76020b876fa761f63622f7ab36f69aa2b",
       "url": "https://www.theguardian.com/us-news/live/2025/dec/14/brown-university-shooting-suspect-latest-updates",
       "title": "Brown University shooting: person of interest in custody is in his 20s, police chief confirms – latest updates",
       "content_html": "<p>Officials refuse to share name of person or details of arrest; Donald Trump says ‘Things can happen’ in comments shared by White House</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-latest\">Person of interest detained in Brown University shooting that left two dead</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-what-we-know-so-far-about-the-attack-in-providence-rhode-island\">What we know so far</a></p></li></ul><p>Brown University students were told that all remaining classes and exams for the semester would be delayed after the shooting that killed two people and left several others injured.</p><p>In a note to students, the university’s provost, <strong>Francis J Doyle III</strong>, said the decision was made “out of our profound concern for all students, faculty and staff on our campus”. He encouraged students and staff to focus on their safety and wellbeing.</p><p>In the immediate aftermath of these devastating events, we recognize that learning and assessment are significantly hindered in the short term and that many students and others will wish to depart campus. Students are free to leave if they are able. Students who remain will have access to on-campus services and support.</p><p>At this time, it is essential that we focus our efforts on providing care and support to the members of our community as we grapple with the sorrow, fear and anxiety that is impacting all of us right now. University leaders are committed to providing care and mobilizing resources to assist our community members through this difficult time.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/dec/14/brown-university-shooting-suspect-latest-updates\">Continue reading...</a>",
-      "date_published": "2025-12-14T18:51:22+00:00",
+      "date_published": "2025-12-14T19:06:37+00:00",
       "authors": [
         {
           "name": "Fran Lawther"
@@ -94,6 +144,22 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc00c3e78d87f27aa410a2514b9f87694dca48d723a348a5153ebe806196e8b8",
+      "url": "https://www.ukrinform.net/rubric-polytics/4069624-yugoslavia-experience-shows-international-justice-is-inevitable-le-monde-journalist.html",
+      "title": "Yugoslavia experience shows international justice is inevitable – Le Monde journalist",
+      "content_html": "Skepticism toward international justice during wartime is common, but the experience of Yugoslavia shows that the sense of impunity eventually fades. All the more so in Ukraine, where the idea of justice and accountability for war crimes is already seen as a necessary condition for future peace.",
+      "date_published": "2025-12-14T18:56:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -413,7 +479,7 @@
     {
       "id": "b96619893b8b16460c5a767af534cabdca29b0446661ee8a1e9e7f6ffaa0e449",
       "url": "https://ici.radio-canada.ca/nouvelle/2213763/elections-chili-president-extreme-droite",
-      "title": "Le Chili élit dimanche son président, et l’extrême droite est donnée favorite",
+      "title": "Le Chili élit son président dimanche et l’extrême droite est donnée favorite",
       "content_html": "<p>Les sondages créditent l&#x27;ultraconservateur José Antonio Kast d&#x27;une large avance.</p>",
       "date_published": "2025-12-14T17:47:09+00:00",
       "authors": [],
@@ -1502,20 +1568,6 @@
       "lang": "en"
     },
     {
-      "id": "628d59f3a3182253a78e5de2d63a7f42515819e662ae706844467f7495cc372b",
-      "url": "https://www.lemonde.fr/international/live/2025/12/14/en-direct-guerre-en-ukraine-les-delegations-ukrainienne-et-americaine-sont-recues-a-la-chancellerie-allemande_6657241_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : les délégations ukrainienne et américaine sont reçues à la chancellerie allemande",
-      "content_html": "Le chancelier allemand, Friedrich Merz, avec l’émissaire américain Steve Witkoff et le président ukrainien, Volodymyr Zelensky, à Berlin, le 14 décembre 2025.",
-      "date_published": "2025-12-14T15:11:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "fda11cd325b3ec3349fc2669579601b8a9bdf7e14b5a8fe70a471983dcb51360",
       "url": "https://www.lefigaro.fr/international/face-a-la-montee-des-menaces-londres-cree-le-mis-un-service-de-renseignement-militaire-unifie-20251214",
       "title": "Face à la montée des menaces, Londres crée le MIS, un service de renseignement militaire unifié",
@@ -1862,8 +1914,8 @@
     {
       "id": "01ea22fbb5ed21dd8cedd6db7f9007ab3308f58b72174833984eba798a692970",
       "url": "https://www.timesofisrael.com/at-least-11-killed-as-gunmen-open-fire-on-hanukkah-celebration-at-sydneys-bondi-beach/",
-      "title": "At least 11 killed as gunmen open fire on Hanukkah celebration at Sydney’s Bondi Beach",
-      "content_html": "<p>Dozens more wounded in terror attack on Chabad event, one of deadliest attacks on Jews outside Israel in decades; Australian authorities accused of failing to combat antisemitism; Chabad emissary among victims</p>\n<p>The post <a href=\"https://www.timesofisrael.com/at-least-11-killed-as-gunmen-open-fire-on-hanukkah-celebration-at-sydneys-bondi-beach/\">At least 11 killed as gunmen open fire on Hanukkah celebration at Sydney&#8217;s Bondi Beach</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25348331370589-1024x640.jpg\" title=\"At least 11 killed as gunmen open fire on Hanukkah celebration at Sydney&#8217;s Bondi Beach\" width=\"160\" /></figure>",
+      "title": "At least 16 killed as gunmen open fire on Hanukkah celebration at Sydney’s Bondi Beach",
+      "content_html": "<p>Dozens more wounded in terror attack on Chabad event, one of deadliest attacks on Jews outside Israel in decades; Australian authorities accused of failing to combat antisemitism; Chabad emissary among victims</p>\n<p>The post <a href=\"https://www.timesofisrael.com/at-least-11-killed-as-gunmen-open-fire-on-hanukkah-celebration-at-sydneys-bondi-beach/\">At least 16 killed as gunmen open fire on Hanukkah celebration at Sydney&#8217;s Bondi Beach</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25348331370589-1024x640.jpg\" title=\"At least 16 killed as gunmen open fire on Hanukkah celebration at Sydney&#8217;s Bondi Beach\" width=\"160\" /></figure>",
       "date_published": "2025-12-14T14:24:50+00:00",
       "authors": [],
       "tags": [
@@ -3579,22 +3631,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a305d15b259f02eba9f0875adb1967a0bd6953e1d0ea94ca4ed839a21204511c",
-      "url": "https://www.ukrinform.net/rubric-ato/4069457-russians-shell-settlements-in-the-sumy-region-more-than-70-times-in-24-hours-woman-killed.html",
-      "title": "Russians shell settlements in the Sumy region more than 70 times in 24 hours, woman killed",
-      "content_html": "The Russian army carried out more than 70 attacks on 25 settlements in the Sumy region, killing a woman.",
-      "date_published": "2025-12-14T08:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5961,7 +5997,7 @@
       "id": "4f32daf0777eac448108638ca3fb629f1dc3d330e13217c3e5184ff85d371079",
       "url": "https://www.elmundo.es/internacional/2025/12/11/693ae9fbfc6c8361068b4589.html",
       "title": "Les enfants de Zaporizhia se préparent à la guerre dans des « écoles-bunkers » contre les Russes à 15 kilomètres de là.",
-      "content_html": "L'avancée de Moscou rapproche la ville ukrainienne de 800 000 habitants, qui décide d'\"enterrer\" ses écoles pour préserver les milliers d'enfants qui continuent de vivre dans la région.",
+      "content_html": "L'avancée de Moscou rapproche le front de la ville ukrainienne de 800 000 habitants, qui décide d'« enterrer » ses écoles pour préserver les milliers d'enfants qui continuent de vivre dans la région.",
       "date_published": "2025-12-12T18:46:01+00:00",
       "authors": [
         {
@@ -7281,7 +7317,7 @@
       "id": "03f517d6a00207a35e93c5c318768fcbdaf21075bdeee427b1ea05b252445a3a",
       "url": "https://www.elmundo.es/internacional/2025/12/11/693b1c6ffc6c837b068b45c1.html",
       "title": "La feuille de route de Machado se termine à Caracas",
-      "content_html": "La lauréate du prix Nobel de la paix souhaite rentrer dans son pays \"le plus tôt possible\", mais il lui faudra d'abord quelques jours pour se rétablir et pour des consultations médicales.",
+      "content_html": "La lauréate du prix Nobel de la paix souhaite rentrer dans son pays « le plus tôt possible », mais il lui faudra d'abord quelques jours pour se rétablir et pour des consultations médicales.",
       "date_published": "2025-12-11T22:13:20+00:00",
       "authors": [
         {
@@ -7615,24 +7651,6 @@
       "lang": "en"
     },
     {
-      "id": "71716bc45c139406adc434427ecf5e4a6e8e7c783690deff4fcc967b3f48a80e",
-      "url": "https://www.liberation.fr/international/europe/bulgarie-le-gouvernement-demissionne-apres-de-vastes-manifestations-anti-corruption-20251211_HR7WOTRZ3JEI3DO6QEQZRTJDOA/",
-      "title": "Bulgarie : à deux semaines de l’arrivée de l’euro, le gouvernement démissionne après de vastes manifestations anti-corruption",
-      "content_html": "Le Premier ministre bulgare Rossen Jeliazkov, au Parlement à Sofia le 11 décembre 2025.",
-      "date_published": "2025-12-11T14:29:07+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6dc71ef39db57ef23183e7bb0f0d5fa17a96c5425346c0d808b7709ddb1f6792",
       "url": "https://www.themoscowtimes.com/2025/12/11/cyberattack-paralyzes-russias-military-registration-database-a91410",
       "title": "Cyberattack Reportedly Paralyzes Russia’s Military Registration Database",
@@ -7645,24 +7663,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "4add4e2aae2b32fc8f2557ac13112a17d820f8a8a1f3f6b3f7f4abc2b3bb92e0",
-      "url": "https://www.liberation.fr/international/amerique/deficience-mentale-et-peine-de-mort-la-cour-supreme-americaine-veut-harmoniser-les-regles-20251211_755SFDOGI5H7XILDDUQN7EJECM/",
-      "title": "Déficience mentale et peine de mort : la Cour suprême américaine veut harmoniser les règles entre Etats",
-      "content_html": "La décision de la Cour suprême américaine est attendue d’ici le terme de sa session annuelle, fin juin.",
-      "date_published": "2025-12-11T13:52:50+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "ff597603e60815ecaf0838e3e34f0de4f5ad02e36eee6ded96fbbf79a60d4d1f",
