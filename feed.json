@@ -5,11 +5,95 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "0683b5aa95ca0fa974a79dd63ebe88e68cbb97f38ba4d3358def890dc45dd826",
+      "url": "https://ici.radio-canada.ca/nouvelle/2213772/fusillade-universite-brown-rodhe-island",
+      "title": "Fusillade à l’université américaine Brown : la police appréhende une personne d’intérêt",
+      "content_html": "<p>La fusillade a fait deux morts et neuf blessés.</p>",
+      "date_published": "2025-12-14T13:03:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cb68cc4b7db4d9752d43752631ebad7efb87d065d064954bb8ea48e9a8c93a90",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013251/fusillade-sydney-plage-bondi-communaute-juive-hanoukka",
+      "title": "Attaque « terroriste » lors de la Hanoukka juive à Sydney",
+      "content_html": "<p>L&#x27;attaque, qui a eu lieu à la plage de Bondi, a fait 12 morts, dont un des deux assaillants.</p>",
+      "date_published": "2025-12-14T13:00:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "407d13f2f6cf10a095a7d6a2e0a9b35afeac89071a45c66777a9b2f0d9dc6291",
+      "url": "https://elpais.com/internacional/2025-12-14/china-rememora-la-masacre-de-nanjing-en-medio-de-crecientes-tensiones-con-japon.html",
+      "title": "La Chine se souvient du massacre de Nanjing sur fond de tensions croissantes avec le Japon",
+      "content_html": "Les participants à la cérémonie commémorative du 88ème anniversaire du massacre de Nanjing en 1937 qui s'est tenue ce samedi au musée dédié au massacre de cette ville.",
+      "date_published": "2025-12-14T13:00:02+00:00",
+      "authors": [
+        {
+          "name": "Guillermo Abril"
+        }
+      ],
+      "tags": [
+        "China",
+        "Japón",
+        "Holocausto judío",
+        "Segunda Guerra Mundial",
+        "Guerra",
+        "Historia",
+        "Relaciones internacionales"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dfdf12d11c30bc14bba68ca7b9d9eff068bae2001ea48c00f2e7b32631b5564d",
+      "url": "https://www.ukrinform.net/rubric-polytics/4069537-ukraine-supports-transfer-of-belarusian-political-prisoners-through-its-territory-zelensky.html",
+      "title": "Ukraine supports transfer of Belarusian political prisoners through its territory — Zelensky",
+      "content_html": "President Volodymyr Zelensky stated that Ukraine supported the transfer of Belarusian political prisoners through its territory.",
+      "date_published": "2025-12-14T12:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e1bb637ca4494c8d895e1e80e5494156b2842a6fa65d719d877615947b672ebe",
+      "url": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
+      "title": "'Person of interest' detained over Brown University shooting, police say",
+      "content_html": "Two people died and nine others were injured in the incident in Rhode Island on Saturday.",
+      "date_published": "2025-12-14T12:58:49+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "4044173a4e5d86039973e9bee33c456dbe14a5c3aab32075d1d75fab28db1722",
       "url": "https://www.liberation.fr/international/asie-pacifique/au-moins-10-morts-apres-une-fusillade-sur-une-plage-de-sydney-20251214_7X6KSQP47FF7FGLLWU4YASZSKY/",
       "title": "EN DIRECT – Fusillade en Australie : l’attaque qui a fait au moins 12 morts «visait la communauté juive»",
       "content_html": "Sur la plage de Bondi, à Sydney, ce dimanche.",
-      "date_published": "2025-12-14T12:18:03+00:00",
+      "date_published": "2025-12-14T12:57:36+00:00",
       "authors": [
         {
           "name": "Sascha Garcia, Jérôme Balazard,  AFP, Reuters ."
@@ -23,18 +107,207 @@
       "lang": "fr"
     },
     {
-      "id": "90d1729be38e388a5401700d10e2c95a498a375d3184d75de2161e547152a019",
-      "url": "https://ici.radio-canada.ca/nouvelle/2213773/fusillade-attaque-plage-bondi-sydney-hanouka-juif",
-      "title": "Au moins douze morts dans une fusillade à Sydney en marge de la fête juive Hanoukka",
-      "content_html": "<p>L&#x27;attaque survenue sur la célèbre plage de Bondi est considérée comme terroriste par les autorités.</p>",
-      "date_published": "2025-12-14T12:14:57+00:00",
+      "id": "e33e8dadbb94c19eaaae661cc1b06fb3d31ef758e2a6032f154fec263ed6ae2a",
+      "url": "https://www.lemonde.fr/international/article/2025/12/14/le-hamas-exige-de-pouvoir-garder-ses-armes-comme-condition-prealable-aux-negociations-avec-israel-sur-la-poursuite-du-cessez-le-feu-a-gaza_6657268_3210.html",
+      "title": "Le Hamas exige de pouvoir garder ses armes comme condition préalable aux négociations avec Israël sur la poursuite du cessez-le-feu à Gaza",
+      "content_html": "Des militants du Hamas montent la garde tandis que des véhicules de la Croix-Rouge transportent les corps d’otages remis à Israël dans le cadre de l’accord de cessez-le-feu, le 15 octobre 2025.",
+      "date_published": "2025-12-14T12:53:12+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
+    },
+    {
+      "id": "bef53f1d30861a29c1faaa7cbda86e269fbd9a518bd48c8d432a0a8af7829bf4",
+      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest",
+      "title": "Bondi beach shooting live updates: Australia's PM condemns act of ‘evil antisemitism’ as death toll from attack at Jewish festival rises to 12; event declared terror incident",
+      "content_html": "<p>Further 29 people are in hospital in Australia, with paramedics treating more at the scene near where a Hanukah event was taking place in Sydney</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Bondi beach terror attack: 12 people killed after gunshots fired at park in Australia</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the Bondi beach attack</a></p></li></ul><p>The prime minister, <strong>Anthony Albanese,</strong> just released a statement. He said:</p><p>The scenes in Bondi are shocking and distressing. Police and emergency responders are on the ground working to save lives. My thoughts are with every person affected.<br /><br />\n I just have spoken to the AFP Commissioner and the NSW Premier. We are working with NSW Police and will provide further updates as more information is confirmed.<br /><br />\n I urge people in the vicinity to follow information from the NSW Police.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Continue reading...</a>",
+      "date_published": "2025-12-14T12:49:14+00:00",
+      "authors": [
+        {
+          "name": "Charlie Moloney (now), Nick Visser andGraham Readfearn (earlier)"
+        }
+      ],
+      "tags": [
+        "Bondi beach terror attack",
+        "Bondi beach",
+        "New South Wales",
+        "Australia news",
+        "Bondi",
+        "Sydney",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "23e861f671110734733e7589eaf07b781d1d5e3c316575442af8f9b22482238e",
+      "url": "https://www.timesofisrael.com/hamas-rejects-disarmament-confirms-senior-commander-saad-killed-in-israeli-strike/",
+      "title": "Hamas rejects disarmament, confirms senior commander Saad killed in Israeli strike",
+      "content_html": "<p>In speech, top official Khalil al-Hayya also says international force shouldn't take over Gaza; Hamas accuses 'agents of the occupation' of assassinating interior security officer</p>\n<p>The post <a href=\"https://www.timesofisrael.com/hamas-rejects-disarmament-confirms-senior-commander-saad-killed-in-israeli-strike/\">Hamas rejects disarmament, confirms senior commander Saad killed in Israeli strike</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251213__87ZY9ME__v1__HighRes__PalestinianIsraelConflict-1024x640.jpg\" title=\"Hamas rejects disarmament, confirms senior commander Saad killed in Israeli strike\" width=\"160\" /></figure>",
+      "date_published": "2025-12-14T12:44:45+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Khalil al-Hayya",
+        "Hamas",
+        "2023-2025 Israel-Hamas war",
+        "International Stabilization Force ISF",
+        "postwar Gaza"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a812264f4db47e8d76a40698bcb87f9fa94ed8652cc39e53ddfb79d8efb52530",
+      "url": "https://www.ukrinform.net/rubric-polytics/4069534-zelensky-parliament-should-soon-develop-options-for-holding-elections.html",
+      "title": "Zelensky: Parliament should soon develop options for holding elections",
+      "content_html": "President Volodymyr Zelensky has stated that Ukraine must be prepared for any possible developments regarding elections, adding that the Parliament should soon develop options for how they could be conducted.",
+      "date_published": "2025-12-14T12:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6c993218baa9acfc9c5d32e8fbca76acbe677827db0feea0329cab3e7fcdd48b",
+      "url": "https://www.dw.com/en/what-russia-s-undesirable-designation-means-for-dw/a-75150857?maca=en-rss-en-all-1573-rdf",
+      "title": "What Russia's 'undesirable' designation means for DW",
+      "content_html": "Russia has designated Deutsche Welle an \"undesirable organization.\" How can users stay in touch with DW without risking prosecution by Russian authorities?",
+      "date_published": "2025-12-14T12:34:00+00:00",
+      "authors": [],
+      "tags": [
+        "Germany"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6d8cd2bd38d167bdd0ab9c66d5e3d4c21f411bf8926d25f67b3ab3f6a6a3b715",
+      "url": "https://www.dw.com/en/russia-labels-dw-as-an-undesirable-organization/a-75150923?maca=en-rss-en-all-1573-rdf",
+      "title": "Russia labels DW as an 'undesirable organization'",
+      "content_html": "DW had already been labeled a \"foreign agent\" as the Kremlin cracks down on critical media voices.",
+      "date_published": "2025-12-14T12:32:00+00:00",
+      "authors": [],
+      "tags": [
+        "NRS-Import"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3b605255c7258b61fc5e6823cde63cbc22ffd1744cc28e66e7e72bd29284651a",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-une-fusillade-fait-au-moins-deux-morts-sur-le-campus-de-luniversite-brown-20251214_6MZRXOYYVVFYHL6B4ZVVSDV4C4/",
+      "title": "Etats-Unis : une fusillade fait au moins deux morts sur le campus de l’université Brown",
+      "content_html": "Sur le campus de l'université Brown, dans le Rhode Island, samedi soir.",
+      "date_published": "2025-12-14T12:26:02+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6f70157f8281002cc31715d5301970f65dfbd3be4827f8206bec3f2419bd9d58",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/australia-reels-from-mass-shooting-at-bondi-beach-in-sydney?traffic_source=rss",
+      "title": "Australia reels from mass shooting at Bondi Beach in Sydney",
+      "content_html": "A mass shooting at Australia’s Bondi Beach has killed at least 12 people and injured dozens more.",
+      "date_published": "2025-12-14T12:25:07+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f6b320abb52c564a73148e7ae14b662acdfb1585157bb1b4c825a4902b7cb193",
+      "url": "https://elpais.com/internacional/2025-12-14/al-menos-dos-detenidos-en-un-tiroteo-en-la-playa-australiana-de-bondi-en-sidney.html",
+      "title": "Au moins neuf morts dans une attaque contre une fête juive sur la plage de Bondi à Sydney",
+      "content_html": "Une équipe d'urgence a transporté ce dimanche un homme blessé depuis la plage australienne de Bondi.",
+      "date_published": "2025-12-14T12:24:19+00:00",
+      "authors": [
+        {
+          "name": "EL PAÍS ,Agencias  ."
+        }
+      ],
+      "tags": [
+        "Australia",
+        "Tiroteos",
+        "Asesinatos",
+        "Asesinatos múltiples",
+        "Playas",
+        "Turismo",
+        "Oceanía"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9666445a2d581216fdb353805cbd496e0cd55084c0b82a7da14ad8216a22c4c0",
+      "url": "https://www.france24.com/en/video/20251214-bondi-beach-shooting-one-suspect-in-custody-in-critical-condition",
+      "title": "Bondi Beach shooting: One suspect in custody in critical condition",
+      "content_html": "At least 12 people were killed and almost 30 wounded when gunmen fired on a Jewish holiday event at Sydney's Bondi Beach on Sunday in what Australian police and officials described as a terrorist attack. One suspected gunman was killed and another was in a critical condition, New South Wales Police Commissioner Mal Lanyon told a press conference. At least 29 people injured, including two police officers, were taken to hospital, he said. FRANCE 24's Richelle Harrison reports from Sydney.",
+      "date_published": "2025-12-14T12:21:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f37f065aa8d25ef5f05ccbb2e35e728d7c3bf841bc87cf94f30e0fec78a3bb7",
+      "url": "https://www.aljazeera.com/news/2025/12/14/kast-vs-jara-chile-votes-in-polarising-presidential-run-off?traffic_source=rss",
+      "title": "Kast vs Jara: Chile votes in polarising presidential run-off",
+      "content_html": "Chileans gear up to cast their ballots in run-off election, with far-right candidate Jose Kast gaining ground in polls.",
+      "date_published": "2025-12-14T12:18:24+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
     },
     {
       "id": "fc6b45be894a4a512d014fce00a0af158aba48db63f35590a8068c37abb0ac99",
@@ -73,24 +346,22 @@
       "lang": "en"
     },
     {
-      "id": "bef53f1d30861a29c1faaa7cbda86e269fbd9a518bd48c8d432a0a8af7829bf4",
-      "url": "https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest",
-      "title": "Bondi beach shooting live updates: Australia's PM condemns act of ‘evil antisemitism’ as death toll from attack at Jewish festival rises to 12; event declared terror incident",
-      "content_html": "<p>A further 29 people are in hospital in Australia, with paramedics treating more at the scene near where a Hanukah event was taking place in Sydney. Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Bondi beach terror attack: 12 people killed after gunshots fired at park in Australia</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the Bondi beach attack</a></p></li></ul><p>The prime minister, <strong>Anthony Albanese,</strong> just released a statement. He said:</p><p>The scenes in Bondi are shocking and distressing. Police and emergency responders are on the ground working to save lives. My thoughts are with every person affected.<br /><br />\n I just have spoken to the AFP Commissioner and the NSW Premier. We are working with NSW Police and will provide further updates as more information is confirmed.<br /><br />\n I urge people in the vicinity to follow information from the NSW Police.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Continue reading...</a>",
-      "date_published": "2025-12-14T12:04:25+00:00",
+      "id": "38cb8a50ad6ac454ae02c85164a567f6f6d7d29ad5afe63e736f5978b2b46cfe",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/14/bystander-tackles-and-wrestles-gun-from-alleged-gunmen-during-bondi-beach-mass-shooting",
+      "title": "Bystander tackles and wrestles gun from alleged gunman during Bondi beach mass shooting",
+      "content_html": "<p>Video shows the man rushing one of the alleged gunmen who shot dozens of people on Sunday evening in Australia</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Bondi beach shooting live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Bondi terror attack: full report</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the shooting in Australia</a></p></li></ul><p>A bystander tackled and wrestled a gun from one of the two alleged gunman during the <a href=\"https://www.theguardian.com/australia-news/bondi-beach-shooting-sydney-australia\">Bondi beach mass shooting</a> in which at least 12 people were killed, footage shows.</p><p>Video of the scene shows the alleged gunman standing on a footpath between a grassy area and parking lot holding a shotgun and firing into the distance.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bystander-tackles-and-wrestles-gun-from-alleged-gunmen-during-bondi-beach-mass-shooting\">Continue reading...</a>",
+      "date_published": "2025-12-14T12:07:40+00:00",
       "authors": [
         {
-          "name": "Charlie Moloney (now); Nick Visserand Graham Readfearn (earlier)"
+          "name": "Guardian staff"
         }
       ],
       "tags": [
-        "Bondi beach shooting",
-        "Bondi beach",
-        "New South Wales",
+        "Bondi beach terror attack",
         "Australia news",
         "Bondi",
-        "Sydney",
-        "World news"
+        "Bondi beach",
+        "Sydney"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -110,11 +381,12 @@
         }
       ],
       "tags": [
-        "Politics",
         "Shabana Mahmood",
+        "Immigration and asylum",
+        "Politics",
         "UK news",
         "Donald Trump",
-        "Immigration and asylum"
+        "US foreign policy"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -206,7 +478,7 @@
       "id": "8cfc014a7047912af91092c629b55526d16092a5127480fd9725b08ea8c5f528",
       "url": "https://www.france24.com/fr/asie-pacifique/20251214-en-direct-australie-attaque-plage-bondi-juifs-terroriste",
       "title": "Australie en direct : l'attaque de la plage de Bondi considérée comme un acte \"terroriste\"",
-      "content_html": "L'attaque meurtrière par balles perpétrée dimanche par deux individus sur la célèbre plage de Bondi à Sydney visait la communauté juive, a déclaré le Premier ministre de l'État australien de Nouvelle-Galles-du-Sud. La fusillade, qui a fait au moins 11 morts, est considérée comme un acte \"terroriste\".",
+      "content_html": "L'attaque meurtrière par balles perpétrée dimanche par deux individus sur la célèbre plage de Bondi à Sydney visait la communauté juive, a déclaré le Premier ministre de l'État australien de Nouvelle-Galles-du-Sud. La fusillade, qui a fait au moins 12 morts, est considérée comme un acte \"terroriste\".",
       "date_published": "2025-12-14T11:56:41+00:00",
       "authors": [
         {
@@ -226,7 +498,7 @@
       "id": "756f17001e1cc271efac4b92f46c29fd12ee3d2e80a4c647db117eb3de065dd4",
       "url": "https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach",
       "title": "Bondi beach terror attack: 12 people killed after gunshots fired at park in Australia hosting Jewish festival",
-      "content_html": "<p>Police say one alleged shooter among the dead, with second arrested and in a critical condition. Eighteen others taken to multiple hospitals across Sydney</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Bondi beach shooting live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the Bondi beach attack</a></p></li></ul><p>At least 12 people have died, including one alleged gunman, following a mass shooting at Bondi beach, during which dozens of gunshots were fired at a park hosting a Jewish festival.</p><p>The NSW police commissioner, Mal Lanyon, said late on Sunday night that police were investigating a possible third gunman, confirming the shooting had been declared a terrorist incident. He said police believed they had located several improvised explosive devices in a vehicle near the shooting shortly after the incident.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Continue reading...</a>",
+      "content_html": "<p>Police say one alleged shooter among the dead, with second arrested and in a critical condition. Eighteen others taken to multiple hospitals across Sydney</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Bondi beach shooting live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the Bondi beach attack</a></p></li></ul><p>At least 12 people have died, including one alleged gunman, following a terrorist attack at Bondi beach, with dozens of gunshots fired at a park hosting a Jewish festival.</p><p>The Australian prime minister, Anthony Albanese, said the “targeted attack on Jewish Australians on the first day of Hanukah, which should be a day of joy … [was] an act of evil antisemitism”.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Continue reading...</a>",
       "date_published": "2025-12-14T11:54:38+00:00",
       "authors": [
         {
@@ -234,7 +506,7 @@
         }
       ],
       "tags": [
-        "Bondi beach shooting",
+        "Bondi beach terror attack",
         "Bondi",
         "New South Wales",
         "Australia news",
@@ -266,8 +538,8 @@
     {
       "id": "ea1a286b38e1034b5b38255fd550587ca665fdb12337616bf0ed2f5fd1440c1a",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20251214-australie-fusillade-%C3%A0-sidney-au-moins-12-morts-dont-l-un-des-deux-suspects",
-      "title": "Australie : fusillade à Sidney, au moins 12 morts dont l'un des deux suspects",
-      "content_html": "Stéphane Amar, correspondant de France 24 à Jérusalem, fait le point sur l'attaque qui a eu lieu dimanche en Australie, sur la plage de Bondi, à Sydney. L'attaque visait la communauté juive, a déclaré le Premier ministre de l'État australien de Nouvelle-Galles-du-Sud, Chris Minns. Il s'agit d'un \"acte terroriste\", a ajouté le chef de la police de l'État, Mal Lanyon.",
+      "title": "Australie : la communauté juive en deuil après la fusillade à Sydney",
+      "content_html": "Stéphane Amar, correspondant de France 24 à Jérusalem, fait le point sur les réactions à l'attaque qui a eu lieu sur la plage de Bondi, à Sydney. L'attaque visait la communauté juive, a déclaré le Premier ministre de l'État australien de Nouvelle-Galles-du-Sud, Chris Minns. Il s'agit d'un \"acte terroriste\", a ajouté le chef de la police de l'État, Mal Lanyon.",
       "date_published": "2025-12-14T11:49:25+00:00",
       "authors": [
         {
@@ -296,32 +568,6 @@
       "lang": "fr"
     },
     {
-      "id": "f6b320abb52c564a73148e7ae14b662acdfb1585157bb1b4c825a4902b7cb193",
-      "url": "https://elpais.com/internacional/2025-12-14/al-menos-dos-detenidos-en-un-tiroteo-en-la-playa-australiana-de-bondi-en-sidney.html",
-      "title": "Au moins neuf morts dans une attaque contre une fête juive sur la plage de Bondi à Sydney",
-      "content_html": "Une équipe d'urgence a transporté ce dimanche un homme blessé depuis la plage australienne de Bondi.",
-      "date_published": "2025-12-14T11:43:59+00:00",
-      "authors": [
-        {
-          "name": "EL PAÍS ,Agencias  ."
-        }
-      ],
-      "tags": [
-        "Australia",
-        "Tiroteos",
-        "Asesinatos",
-        "Asesinatos múltiples",
-        "Playas",
-        "Turismo",
-        "Oceanía"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "818e9e33a2dc74650a5e7fbcbb9417f7297ffe8524bcae3e9e97e2cea9496578",
       "url": "https://www.france24.com/en/video/20251214-israel-blames-australia-for-ignoring-antisemitism-over-bondi-beach-shooting",
       "title": "Israel blames Australia for ignoring antisemitism over Bondi Beach shooting",
@@ -336,30 +582,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "38cb8a50ad6ac454ae02c85164a567f6f6d7d29ad5afe63e736f5978b2b46cfe",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/14/bystander-tackles-and-wrestles-gun-from-alleged-gunmen-during-bondi-beach-mass-shooting",
-      "title": "Bystander tackles and wrestles gun from alleged gunman during Bondi beach mass shooting",
-      "content_html": "<p>Video shows the man rushing one of the alleged gunmen who shot dozens of people on Sunday evening</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/dec/14/nsw-police-responding-to-reports-of-shooting-at-sydneys-bondi-beach-follow-latest\">Bondi beach shooting live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/police-advise-people-to-take-shelter-following-reports-of-active-shooter-at-bondi-beach\">Bondi mass shooting: full report</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bondi-beach-attack-mass-shooting-what-we-know-so-far-sydney-nsw-australia\">What we know so far about the attack</a></p></li></ul><p>A bystander tackled and wrestled a gun from one of the two alleged gunman during the Bondi beach mass shooting in which at least 12 people were killed, footage shows.</p><p>Video of the scene shows the alleged gunman standing on a footpath between a grassy area and parking lot holding a shotgun and firing into the distance.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/14/bystander-tackles-and-wrestles-gun-from-alleged-gunmen-during-bondi-beach-mass-shooting\">Continue reading...</a>",
-      "date_published": "2025-12-14T11:42:19+00:00",
-      "authors": [
-        {
-          "name": "Guardian staff"
-        }
-      ],
-      "tags": [
-        "Bondi beach shooting",
-        "Australia news",
-        "Bondi",
-        "Bondi beach",
-        "Sydney"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -422,7 +644,7 @@
     {
       "id": "6086d5d697cde520aad8d5b312c39edfff0fe550b6679dd2fba7ad077d599d74",
       "url": "https://www.lemonde.fr/international/live/2025/12/14/fusillade-en-australie-un-acte-d-antisemitisme-terrifique-selon-le-premier-ministre-anthony-albanese-onze-morts-et-une-trentaine-de-blesses-selon-un-nouveau-bilan_6657263_3210.html",
-      "title": "EN DIRECT, fusillade en Australie : Anthony Albanese, premier ministre, dénonce un « acte d’antisémitisme maléfique » ; 11 morts, selon un nouveau bilan",
+      "title": "EN DIRECT, fusillade en Australie : Anthony Albanese, premier ministre, dénonce un « acte d’antisémitisme maléfique » ; 12 morts, selon un nouveau bilan",
       "content_html": "A la suite de la fusillade à la plage de Bondi, à Sydney, le 14 décembre 2025.",
       "date_published": "2025-12-14T11:34:59+00:00",
       "authors": [],
@@ -452,7 +674,7 @@
     {
       "id": "885b0ee0fc8467ed41f1c1c9224d8c8563bdac25f17e204007ea1e998ee41f3b",
       "url": "https://www.lemonde.fr/international/article/2025/12/14/fusillade-en-australie-anthony-albanese-denonce-un-acte-d-antisemitisme-terrifique-onze-morts-et-une-trentaine-de-blesses-selon-un-nouveau-bilan_6657252_3211.html",
-      "title": "Fusillade en Australie : Anthony Albanese dénonce un « acte d’antisémitisme maléfique » ; 1 morts et une trentaine de blessés, selon un nouveau bilan",
+      "title": "Fusillade en Australie : Anthony Albanese dénonce un « acte d’antisémitisme maléfique » ; 11 morts et une trentaine de blessés, selon un nouveau bilan",
       "content_html": "Une équipe de secours transporte une femme blessée, à Sydney (Australie), dimanche 14 décembre 2025.",
       "date_published": "2025-12-14T11:29:30+00:00",
       "authors": [],
@@ -476,6 +698,20 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "87b1d83b5b753de1c3c16e4f28edf905f12ab62155b6a31fedf37d391a55b054",
+      "url": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
+      "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
+      "content_html": "New South Wales Police say that 12 people were killed in a shooting at Bondi Beach targeting the Jewish community.",
+      "date_published": "2025-12-14T11:24:21+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -629,20 +865,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "0683b5aa95ca0fa974a79dd63ebe88e68cbb97f38ba4d3358def890dc45dd826",
-      "url": "https://ici.radio-canada.ca/nouvelle/2213772/fusillade-universite-brown-rodhe-island",
-      "title": "Fusillade à l’université américaine Brown : la police appréhende un suspect",
-      "content_html": "<p>Les événements ont fait deux morts et neuf blessés.</p>",
-      "date_published": "2025-12-14T10:59:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "12629fc3d2e696be13ad3fd3a202356e50115a40ece9e333bc719279a31b9637",
@@ -873,9 +1095,9 @@
       "lang": "en"
     },
     {
-      "id": "c2157b0ee297e56c373240745529f28cb70cfd301fa7fa9fcb9f1a174c31ab77",
-      "url": "https://www.dw.com/en/australia-11-killed-in-shooting-at-syndey-s-bondi-beach/live-75150353?maca=en-rss-en-all-1573-rdf",
-      "title": "Australia: 11 killed in shooting at Syndey's Bondi Beach",
+      "id": "6742fae5f45e43a936532e4a797e5696356d2c45ca2b801815a19dc0d2460102",
+      "url": "https://www.dw.com/en/australia-11-killed-in-shooting-at-sydney-s-bondi-beach/live-75150353?maca=en-rss-en-all-1573-rdf",
+      "title": "Australia: 11 killed in shooting at Sydney's Bondi Beach",
       "content_html": "One suspect was among those killed in a shooting targeting a Jewish Hanukkah event at Sydney's most popular beach. Police have declared the attack a terrorist incident. DW has more.",
       "date_published": "2025-12-14T10:06:00+00:00",
       "authors": [],
@@ -1065,7 +1287,7 @@
       "id": "72e55b9112ba1f351824f30b395884436bcdd700e53a3b48457b30ac127c7a89",
       "url": "https://www.timesofisrael.com/former-hostages-bereaved-families-demand-netanyahu-open-october-7-state-probe/",
       "title": "Former hostages, bereaved families demand Netanyahu open October 7 state probe",
-      "content_html": "<p>22 survivors of captivity and dozens of hostages' relatives sign letter urging commission to 'investigate all aspects' of security debacle and subsequent decision-making</p>\n<p>The post <a href=\"https://www.timesofisrael.com/former-hostages-bereaved-families-demand-netanyahu-open-october-7-state-probe/\">Former hostages, bereaved families demand Netanyahu open October 7 state probe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251108__83GV7R4__v2__HighRes__IsraelPalestinianPoliticsDemo-e1765700058800-1024x640.jpg\" title=\"Former hostages, bereaved families demand Netanyahu open October 7 state probe\" width=\"160\" /></figure>",
+      "content_html": "<p>22 survivors of captivity and dozens of hostages' relatives sign letter urging commission of inquiry to 'investigate all aspects' of security debacle and subsequent decision-making</p>\n<p>The post <a href=\"https://www.timesofisrael.com/former-hostages-bereaved-families-demand-netanyahu-open-october-7-state-probe/\">Former hostages, bereaved families demand Netanyahu open October 7 state probe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251108__83GV7R4__v2__HighRes__IsraelPalestinianPoliticsDemo-e1765700058800-1024x640.jpg\" title=\"Former hostages, bereaved families demand Netanyahu open October 7 state probe\" width=\"160\" /></figure>",
       "date_published": "2025-12-14T09:55:41+00:00",
       "authors": [],
       "tags": [
@@ -1318,8 +1540,8 @@
     {
       "id": "3240ef532a7c89e119481e1b82fd4282f7d86f6f58c1a783882bdcd3a2057dfd",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/14/bondi-beach-shooting-live-two-in-custody-sydney-police-operation-ongoing?traffic_source=rss",
-      "title": "Bondi Beach shooting live: At least 12 people, one alleged shooter killed",
-      "content_html": "Multiple casualties reported after a mass shooting at the Bondi Beach area in the Australian city of Sydney.",
+      "title": "Bondi Beach shooting live: At least 11 people, one alleged shooter killed",
+      "content_html": "Gunmen fired on Jewish holiday event at Sydney&#039;s famous Bondi Beach, Australian authorities say.",
       "date_published": "2025-12-14T09:15:20+00:00",
       "authors": [],
       "tags": [
@@ -1520,8 +1742,8 @@
     {
       "id": "b51a8a6ab0c43a944f8c95a1cc20f1080c3f19d59edb94322cf9a9b95661deaf",
       "url": "https://www.aljazeera.com/news/2025/12/14/australia-police-responding-after-gunshots-reported-at-sydneys-bondi-beach?traffic_source=rss",
-      "title": "‘Shocking’: At least 12 killed in mass shooting at Australia’s Bondi Beach",
-      "content_html": "One of suspected gunmen in custody and critical condition and second killed in Sydney.",
+      "title": "Australia: At least 11 killed in shooting at Jewish festival at Bondi Beach",
+      "content_html": "One of suspected gunmen in custody in critical condition and second killed in Sydney.",
       "date_published": "2025-12-14T08:37:25+00:00",
       "authors": [],
       "tags": [
@@ -1550,10 +1772,10 @@
       "lang": "en"
     },
     {
-      "id": "a976a6d266a9c6aa723174dc554cc70ad94caa9b069939214730cbd86361ac34",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-to-meet-us-european-officials-in-berlin/live-75149706?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine: Zelenskyy to meet US, European officials in Berlin",
-      "content_html": "The Ukrainian president is to come to Germany for the latest talks on ending the invasion of his country. US special envoy Witkoff is expected to join the negotiations, but Russia will not be represented. DW has more.",
+      "id": "bf1b973d2d50505d291772789847e887b0b22f6d6e1bac106dd578bbde4b087f",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-meets-us-european-officials-in-berlin/live-75149706?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine: Zelenskyy meets US, European officials in Berlin",
+      "content_html": "The Ukrainian president is in Germany for the latest talks on ending the invasion of his country. US special envoy Witkoff is expected to join the negotiations, but Russia will not be represented. DW has more.",
       "date_published": "2025-12-14T08:26:00+00:00",
       "authors": [],
       "tags": [
@@ -1712,24 +1934,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "3b605255c7258b61fc5e6823cde63cbc22ffd1744cc28e66e7e72bd29284651a",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-une-fusillade-fait-au-moins-deux-morts-sur-le-campus-de-luniversite-brown-20251214_6MZRXOYYVVFYHL6B4ZVVSDV4C4/",
-      "title": "Etats-Unis : une fusillade fait au moins deux morts sur le campus de l’université Brown",
-      "content_html": "Sur le campus de l'université Brown, dans le Rhode Island, samedi soir.",
-      "date_published": "2025-12-14T07:26:50+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "83b2f5b456aaa5027f1221b63b74968516fc345dc8b3f2f9096e8edab383f943",
@@ -1955,8 +2159,8 @@
     {
       "id": "1fc77b98df347258549a1459c2500fe70989f28ae0d167b6b3fdfde9d25ee4e5",
       "url": "https://www.france24.com/en/europe/20251214-live-us-envoy-to-meet-ukraine-s-zelensky-europe-allies-in-berlin",
-      "title": "Live: US envoy to meet Ukraine's Zelensky, European allies in Berlin",
-      "content_html": "US President Donald Trump's special envoy Steve Witkoff will meet with Ukrainian President Volodymyr Zelensky and other European leaders in Berlin this weekend, to discuss the status of peace negotiations. The Ukrainian leader confirmed on Saturday that his team was \"currently preparing for meetings with the American side and our European friends in the coming days\". Follow our liveblog for the latest updates.",
+      "title": "Live: Ukraine's Zelensky says ready for 'dialogue' ahead of Berlin talks with US, Europeans",
+      "content_html": "Ukrainian President Volodymyr Zelensky said on Sunday he was ready for \"dialogue\" as he headed for critical talks with US President Donald Trump's envoy Steve Witkoff and European leaders in Berlin on ending the war with Russia. Follow our liveblog for the latest updates.",
       "date_published": "2025-12-14T06:34:36+00:00",
       "authors": [
         {
@@ -2028,7 +2232,7 @@
     {
       "id": "cf23d99788fc0956b225ab6bfaeea4b53192774ac6af18cb42b82f1355873fe1",
       "url": "https://www.france24.com/fr/europe/20251214-guerre-en-ukraine-en-direct-volodymyr-zelensky-attendu-%C3%A0-berlin-pour-rencontre-avec-steve-witkoff-donald-trump-vladimir-poutine-russie-paix",
-      "title": "Guerre en Ukraine en direct : Zelensky attendu à Berlin pour une rencontre avec l'Américain Witkoff",
+      "title": "Guerre en Ukraine en direct : Zelensky se dit prêt au \"dialogue\" avant de rencontrer Witkoff",
       "content_html": "Le président ukrainien Volodymyr Zelensky est attendu à Berlin dimanche, en présence de dirigeants européens, pour échanger avec l'émissaire américain Steve Witkoff. Une rencontre clé, au moment où les États-Unis incitent l'Ukraine à des concessions majeures pour mettre fin au conflit avec la Russie.",
       "date_published": "2025-12-14T06:08:05+00:00",
       "authors": [
@@ -2166,20 +2370,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0ebe14336cf411a81aa73ea28cb66214de8f6d3a00d62248c88905b16452c8ce",
-      "url": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
-      "title": "Manhunt continues after two killed in shooting at Brown University",
-      "content_html": "The gunman is at large after opening fire in a building where exams were taking place at the campus in Providence, Rhode Island.",
-      "date_published": "2025-12-14T05:34:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -3023,20 +3213,6 @@
       "lang": "en"
     },
     {
-      "id": "ad1eb23da636894a448b86bbaa1f042402db09804a3e727f340ccef85a186703",
-      "url": "https://www.lemonde.fr/international/article/2025/12/14/fusillade-aux-etats-unis-plusieurs-personnes-touchees-sur-le-campus-de-l-universite-brown_6657219_3210.html",
-      "title": "Fusillade aux Etats-Unis : deux morts et plusieurs blessés sur le campus de l’université Brown, le suspect recherché",
-      "content_html": "Les secours près de l’université Brown, à la suite d’une fusillade, à Providence (Rhode Island), le 13 décembre 2025.",
-      "date_published": "2025-12-13T23:13:16+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e8a122eae0f833d551705c02e7fec9ac06e51eed18ec997324d0901c37481b45",
       "url": "https://www.elmundo.es/internacional/2025/12/14/693d9a4afdddff7e4d8b4579.html",
       "title": "Juan Guaidó : « Pedro Sánchez ne m'a pas reçu à Madrid à cause de sa collaboration avec la dictature »",
@@ -3075,7 +3251,7 @@
     {
       "id": "5f0e5cd67589a67fe344949b5b1cd79d47e4bb9936cdd3f637e486c43c095b29",
       "url": "https://www.elmundo.es/internacional/2025/12/13/693de95be85ecee64b8b456e.html",
-      "title": "Plusieurs victimes dans une fusillade sur le campus de l'Université Brown (USA)",
+      "title": "Plusieurs victimes dans une fusillade sur le campus de l'université Brown (USA)",
       "content_html": "L'incident s'est produit près du bâtiment Barus & Holley, une structure de sept étages qui abrite l'École d'ingénierie et le Département de physique.",
       "date_published": "2025-12-13T23:00:21+00:00",
       "authors": [
@@ -3098,7 +3274,7 @@
       "id": "a028a0b06b1dec78c30b0247e29d4b03454393173218ec1ff23f420f32f25029",
       "url": "https://elpais.com/internacional/2025-12-13/un-tiroteo-en-la-universidad-de-brown-causa-varias-victimas.html",
       "title": "Au moins deux morts et neuf blessés dans une fusillade à l'université Brown aux États-Unis",
-      "content_html": "Personnel et matériel d'urgence à proximité du lieu de la fusillade à l'Université Brown, Rhode Island (États-Unis)",
+      "content_html": "Des policiers, à côté de douilles de balles, dans un des bâtiments de l'université Brown de Rhode Island (États-Unis).",
       "date_published": "2025-12-13T22:59:18+00:00",
       "authors": [
         {
@@ -3140,22 +3316,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fcf71a568fea24ee69ba346804ac5ccd8ea803c832ac083962cd2d4d8840a5c7",
-      "url": "https://www.ukrinform.net/rubric-society/4069204-border-guards-say-ukrainian-attempted-to-smuggle-ancient-greek-coins-to-bulgaria.html",
-      "title": "Border guards say Ukrainian attempted to smuggle ancient Greek coins to Bulgaria",
-      "content_html": "A Ukrainian citizen attempted to take ancient Greek coins, minted approximately in the 4th-2nd centuries BC, out of Ukraine to Bulgaria.",
-      "date_published": "2025-12-13T22:34:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3237,22 +3397,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8d9355b40536fece9a3d0af7db9fccee84d8b3f024632bbbdfd8d71b8f95edb7",
-      "url": "https://www.ukrinform.net/rubric-polytics/4069396-zelensky-upcoming-days-to-see-multiple-meetings-with-partners-to-lay-foundation-for-peace.html",
-      "title": "Zelensky: upcoming days to see multiple meetings with partners to lay foundation for peace",
-      "content_html": "In the coming days, meetings are planned with the United States and European partners to discuss the foundation for peace – a political agreement aimed at ending the war.",
-      "date_published": "2025-12-13T21:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3641,57 +3785,6 @@
       "lang": "en"
     },
     {
-      "id": "05045c523bc722694500528c8496c917924562313f0697f16f1461f64e8b375d",
-      "url": "https://toi.li/HfevxF",
-      "title": "Building the Future of Medicine: JOWMA × MinDset mission to Israel - Sponsored Content",
-      "content_html": "<p>Join American and Israeli medical students in June 2026 for an immersive mission of innovation, clinical collaboration, and solidarity—strengthening healthcare ties with Israel.</p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/building-the-future-of-medicine-jowma-x-mindset-mission-to-israel/\">Building the Future of Medicine: JOWMA × MinDset mission to Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/8e253372-6b2d-4fa8-8b8e-190deaddcdd1-1-1024x640.jpeg\" title=\"Building the Future of Medicine: JOWMA × MinDset mission to Israel\" width=\"160\" /></figure>",
-      "date_published": "2025-12-13T19:19:13+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f3689bbe7bc696a0fbe01812d2994abdadb481784b9c0880688477c458c3d655",
-      "url": "https://www.aljazeera.com/news/2025/12/13/hungary-protesters-demand-pm-viktor-orban-quits-over-child-abuse-cases?traffic_source=rss",
-      "title": "Hungarian protesters demand PM Viktor Orban quit over child abuse scandals",
-      "content_html": "Orban&#039;s government has been rocked by several child-abuse scandals in recent years.",
-      "date_published": "2025-12-13T19:19:06+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d6a277e752033392c3bd9c275d3827c4fdb25bc7199df9f25decfba93408ac8a",
-      "url": "https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/",
-      "title": "Israel joins US-led ‘Pax Silica’ initiative to cooperate on securing AI supply chains",
-      "content_html": "<p>PM's economic adviser touts 'mark of distinction for Israel,' as US, seven allies launch effort to 'shape a new, sustainable economic order for the age of artificial intelligence'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israel-joins-us-led-pax-silica-initiative-to-cooperate-on-securing-ai-supply-chains/\">Israel joins US-led &#8216;Pax Silica&#8217; initiative to cooperate on securing AI supply chains</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/Image-from-iOS-18-e1765648063987-1024x640.jpg\" title=\"Israel joins US-led &#8216;Pax Silica&#8217; initiative to cooperate on securing AI supply chains\" width=\"160\" /></figure>",
-      "date_published": "2025-12-13T19:06:24+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Nvidia",
-        "Israel-US relations",
-        "AI artificial intelligence",
-        "Benjamin Netanyahu",
-        "Avi Simhon"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aa024fe9cbe10f9ec35caba775c3623917a86fd894b6c82a802b07064019c344",
       "url": "https://elpais.com/internacional/2025-12-13/dos-militares-y-un-interprete-de-estados-unidos-mueren-en-un-atentado-en-siria.html",
       "title": "Deux soldats et un interprète américain meurent dans une attaque en Syrie",
@@ -3765,22 +3858,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "3f51cb0338eec244d7d95c2a49096a1ef7b32b33464b0601e12e0f1d498c02ae",
-      "url": "https://www.aljazeera.com/news/2025/12/13/bangladesh-peacekeepers-killed-attack-un-base-abyei-sudan?traffic_source=rss",
-      "title": "UN chief condemns ‘horrific’ drone attack in Sudan as 6 peacekeepers killed",
-      "content_html": "Bangladeshi peacekeepers were killed in the attack on Kadugli, which the Sudanese army has blamed on the RSF.",
-      "date_published": "2025-12-13T18:38:09+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "52780d19754ef604ddb740e81f3294e2d4b74c7b6a7179778f4db9ec1ecccf0c",
@@ -4058,24 +4135,6 @@
       "lang": "en"
     },
     {
-      "id": "79fcfcd4c8b0da3851c1e81f7ee783af9d858aa2ed688219acfc6197ce9a8bb0",
-      "url": "https://www.france24.com/en/video/20251213-belarus-frees-123-prisoners-in-exchange-for-lifting-of-us-sanctions",
-      "title": "Belarus frees 123 prisoners in exchange for lifting of US sanctions",
-      "content_html": "In exchange for the lifting of US sanctions on certain exports, Belarusian President Alexander Lukashenko freed 123 prisoners on Saturday including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava after two days of talks with an envoy for President Donald Trump. FRANCE 24's Philip Turle brings you the details.",
-      "date_published": "2025-12-13T16:48:29+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "37804c1a9beec706685b95aecaf03c8e1e600c9e5884594bb80039e3636854c9",
       "url": "https://www.france24.com/fr/moyen-orient/20251213-gaza-arm%C3%A9e-isra%C3%A9lienne-affirme-avoir-tu%C3%A9-haut-commandant-hamas",
       "title": "L'armée israélienne affirme avoir tué un haut commandant du Hamas à Gaza",
@@ -4301,36 +4360,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "5802449cac3552e8692335f1f0c5dd8507d0075814aeeef23b9fc541faea09a3",
-      "url": "https://elpais.com/internacional/2025-12-13/bielorrusia-libera-a-123-presos-politicos-entre-ellos-el-premio-nobel-de-la-paz-ales-bialiatski.html",
-      "title": "La Biélorussie libère 123 prisonniers politiques, dont le prix Nobel de la paix Ales Bialiatski",
-      "content_html": "Ales Bialiatski, avec Svetlana Tijanóvskaya, ce samedi à Vilnius (Lituanie).",
-      "date_published": "2025-12-13T14:21:37+00:00",
-      "authors": [
-        {
-          "name": "Javier  González Cuesta"
-        }
-      ],
-      "tags": [
-        "Guerra de Rusia en Ucrania",
-        "Ucrania",
-        "Rusia",
-        "Guerra",
-        "Conflictos",
-        "Unión Europea",
-        "OTAN",
-        "Ataques militares",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Europa"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "97c831c75f8ea2c94c52b0312a7ce4f4ac0d58f9a15fcd51be95ac8984a58db0",
@@ -5693,7 +5722,7 @@
       "id": "4f32daf0777eac448108638ca3fb629f1dc3d330e13217c3e5184ff85d371079",
       "url": "https://www.elmundo.es/internacional/2025/12/11/693ae9fbfc6c8361068b4589.html",
       "title": "Les enfants de Zaporizhia se préparent à la guerre dans des « écoles-bunkers » contre les Russes à 15 kilomètres de là.",
-      "content_html": "L'avancée de Moscou rapproche la ville ukrainienne de 800 000 habitants, qui décide d'\"enterrer\" ses écoles pour préserver les milliers d'enfants qui continuent de vivre dans la région.",
+      "content_html": "L'avancée de Moscou rapproche le front de la ville ukrainienne de 800 000 habitants, qui décide d'« enterrer » ses écoles pour préserver les milliers d'enfants qui continuent de vivre dans la région.",
       "date_published": "2025-12-12T18:46:01+00:00",
       "authors": [
         {
@@ -6961,7 +6990,7 @@
       "id": "03f517d6a00207a35e93c5c318768fcbdaf21075bdeee427b1ea05b252445a3a",
       "url": "https://www.elmundo.es/internacional/2025/12/11/693b1c6ffc6c837b068b45c1.html",
       "title": "La feuille de route de Machado se termine à Caracas",
-      "content_html": "La lauréate du prix Nobel de la paix souhaite rentrer dans son pays \"le plus tôt possible\", mais il lui faudra d'abord quelques jours pour se rétablir et pour des consultations médicales.",
+      "content_html": "La lauréate du prix Nobel de la paix souhaite rentrer dans son pays « le plus tôt possible », mais il lui faudra d'abord quelques jours pour se rétablir et pour des consultations médicales.",
       "date_published": "2025-12-11T22:13:20+00:00",
       "authors": [
         {
@@ -7098,7 +7127,7 @@
       "id": "87b322a20555638b23d5b6a1be078b39f7f99a1b737b47a5c0350ed5dccebe6c",
       "url": "https://www.elmundo.es/internacional/2025/12/09/6937ef56e85eceaa438b457b.html",
       "title": "Botox, drones et bombes de 250 kilos dans le Donbass que Trump veut donner à Poutine",
-      "content_html": "Le pessimisme s'empare de la population et des soldats combattant à Donetsk, tandis que des personnalités publiques bien connues avertissent que la situation sur le front est \"critique\".",
+      "content_html": "Le pessimisme s'empare de la population et des soldats combattant à Donetsk, tandis que des personnalités publiques avertissent que la situation sur le front est \"critique\".",
       "date_published": "2025-12-11T18:58:48+00:00",
       "authors": [
         {
@@ -9998,22 +10027,6 @@
       "authors": [],
       "tags": [
         "Environment"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0ec234310878ef0211964857f0ac91d090dac0c40959132c4d83b15d401ea5db",
-      "url": "https://www.dw.com/en/europe-considers-cutting-out-huawei-and-china-for-good/a-74798073?maca=en-rss-en-all-1573-rdf",
-      "title": "Europe considers cutting out Huawei and China for good",
-      "content_html": "Europe wants to achieve tech sovereignty from China and the US. One of the most pressing issues is the use of Chinese technology in its internet systems. The EU is mulling a ban, but will member states comply?",
-      "date_published": "2025-11-19T10:03:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
