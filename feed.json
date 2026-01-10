@@ -5,11 +5,48 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "6628e96dd25d1ecf4d1a2cfdcde86fc13d5fcf35309ba45a132dfd2bae223744",
-      "url": "https://www.lemonde.fr/international/article/2026/01/10/en-iran-une-repression-sanglante-et-a-huis-clos_6661266_3210.html",
-      "title": "En Iran, une répression sanglante et à huis clos",
-      "content_html": "Lors d’une manifestation à Téhéran, le 9 janvier 2026. Capture d’écran extraite d’une vidéo filmée par une source indépendante.",
-      "date_published": "2026-01-10T08:06:04+00:00",
+      "id": "466d05c5bb62e93845db38d0415823c6e974d3bab794c03ee4c61015cf1fd61c",
+      "url": "https://www.elmundo.es/internacional/2026/01/10/69620f1621efa0f43d8b45b2.html",
+      "title": "Un homme est arrêté aux États-Unis après avoir découvert qu'il gardait plus d'une centaine de restes humains volés chez lui",
+      "content_html": "Jonatha Gerlach, de Pennsylvanie, a été inculpé de plus de 500 chefs d'accusation et a été condamné à une caution d'un million d'euros pour sortir de prison.",
+      "date_published": "2026-01-10T08:47:20+00:00",
+      "authors": [
+        {
+          "name": "EFE"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Sucesos"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9777831d2ea164aedc8e9e1349f346a5936fc005ca05af74413fc0815fd2373b",
+      "url": "https://www.ukrinform.net/rubric-ato/4078820-enemy-attacks-six-settlements-in-kharkiv-region-injuring-woman.html",
+      "title": "Enemy attacks six settlements in Kharkiv region, injuring woman",
+      "content_html": "In the Kharkiv region, the regional center and five other settlements were under attack by the Russian Federation during the day, injuring a civilian woman.",
+      "date_published": "2026-01-10T08:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b5c7b5f7fe9692f4367f24b84f1a9d2be29bdeb34b53de17026ceccedc121ec9",
+      "url": "https://www.lemonde.fr/international/article/2026/01/10/en-iran-reza-pahlavi-fils-du-chah-dechu-exhorte-les-manifestants-a-se-preparer-a-conquerir-les-centres-villes_6661268_3210.html",
+      "title": "En Iran, Reza Pahlavi, fils du chah déchu, exhorte les manifestants à « se préparer à conquérir » les centres-villes",
+      "content_html": "Reza Pahlavi, fils du dernier chah d’Iran, Mohammad Reza Pahlavi, lors d’une conférence de presse, à Paris, le 23 juin 2025.",
+      "date_published": "2026-01-10T08:34:38+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,10 +56,126 @@
       "lang": "fr"
     },
     {
+      "id": "fc2e5b4c661391a4749e0d21ff3536a61008ef2406bc8830a43ca5950fb9dea3",
+      "url": "https://www.dw.com/en/syrian-army-renews-strikes-on-kurdish-forces-in-aleppo/a-75457783?maca=en-rss-en-all-1573-rdf",
+      "title": "Syrian army renews strikes on Kurdish forces in Aleppo",
+      "content_html": "The military launched strikes after Kurdish forces rejected what they called demands to \"surrender.\" The Syrian government has been struggling to unite disparate groups since taking power a year ago.",
+      "date_published": "2026-01-10T08:32:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8804259c75b0feafb6b895758a918fc76e7bf7be3cf665a698f1a7048c82f6bc",
+      "url": "https://www.liberation.fr/international/les-venezueliens-entre-espoir-et-inquietude-je-ne-suis-pas-sortie-de-chez-moi-depuis-une-semaine-20260110_CEEDIO2V7JCGPKQMQO4WQ4ENA4/",
+      "title": "Les Vénézuéliens entre espoir et inquiétude : «Je ne suis pas sortie de chez moi depuis une semaine»",
+      "content_html": "A Caracas, mercredi.",
+      "date_published": "2026-01-10T08:23:00+00:00",
+      "authors": [
+        {
+          "name": "Carol Isoux"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "373b0c3be04c05689e8aa7fad85b76776355d03366252fc0ad36f41b145bae4b",
+      "url": "https://www.aljazeera.com/news/2026/1/10/new-video-on-minnesota-ice-shooting-emerges-as-public-anger-grows-across-us?traffic_source=rss",
+      "title": "New video on Minnesota ICE shooting emerges as public anger grows across US",
+      "content_html": "The 47-second video shows the shooting from the perspective of ICE officer Jonathan Ross, who fired the shots.",
+      "date_published": "2026-01-10T08:22:47+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0290c47bb7bfb9200cc403ace28045effc0c5352c80d31ed7346938e0765931c",
+      "url": "https://www.ukrinform.net/rubric-ato/4078813-three-people-injured-in-nighttime-drone-attack-in-dnipropetrovsk-region.html",
+      "title": "Three people injured in nighttime drone attack in Dnipropetrovsk region",
+      "content_html": "The Dnipropetrovsk region was hit by a massive drone attack overnight, leaving three people injured in Dnipro and Kryvyi Rih.",
+      "date_published": "2026-01-10T08:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cd75993ec9ce853d1b3b6f3d1e6846dcfac64bba1ef7f9174209c36b04cdb6e4",
+      "url": "https://www.france24.com/en/europe/20260110-we-don-t-want-to-be-americans-greenland-s-parties-respond-to-new-trump-threat",
+      "title": "‘We don’t want to be Americans’: Greenland’s parties respond to new Trump threat",
+      "content_html": "In a response to US President Donald Trump's latest threat to seize control of Greenland, the leaders of the Danish autonomous region's five main political parties issued a joint statement late Friday declaring the future of the island should be decided by Greenlanders.",
+      "date_published": "2026-01-10T08:17:13+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6628e96dd25d1ecf4d1a2cfdcde86fc13d5fcf35309ba45a132dfd2bae223744",
+      "url": "https://www.lemonde.fr/international/article/2026/01/10/en-iran-une-repression-sanglante-et-a-huis-clos_6661266_3210.html",
+      "title": "En Iran, une répression sanglante et à huis clos",
+      "content_html": "Lors d’une manifestation à Téhéran, le 9 janvier 2026. Capture d’écran extraite d’une vidéo filmée par une source indépendante.",
+      "date_published": "2026-01-10T08:06:03+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5da343ce309ddaa23904c8d90c72e0c5bf222bbb28f411f9ba4ba839bcd2653f",
+      "url": "https://www.lefigaro.fr/international/viktor-orban-menace-peter-magyar-en-tete-en-hongrie-ce-que-disent-les-sondages-a-trois-mois-des-legislatives-20260110",
+      "title": "Viktor Orban menacé, Peter Magyar en tête: en Hongrie, ce que disent les sondages à trois mois des législatives",
+      "content_html": "Le jeune Peter Magyar, 44 ans, s’est imposé comme cheffe de file d’une opposition jusqu’ici fragmentée pour concurrencer Viktor Orban.",
+      "date_published": "2026-01-10T08:06:00+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "de4fc52bc403be05f1ae320c82984c21ffe6a938032ca6661b0ce12cf652093d",
       "url": "https://www.liberation.fr/international/en-iran-la-fracture-est-toujours-plus-grande-entre-la-population-et-le-regime-20260110_O25VDDR2SZEGZPUPCXXSYSJQPE/",
       "title": "«En Iran, le désespoir et le ressentiment sont très présents et la fracture toujours plus grande entre la population et le régime»",
-      "content_html": "Tehran, Iran, 06/01/2026 – A billboard bearing an image of Iran’s Supreme Leader Ayatollah Ali Khamenei burns during protests in Tehran in this image obtained from the Iranian opposition group, People’s Mojahedin Organization of Iran (PMOI/MEK), as unrest continued across the country, according to opposition-linked reports. MEK/ The Media Express//TME_13110008/Credit:MEK/ The Media Express/SIPA/2601091312",
+      "content_html": "A Téhéran, le 6 janvier 2026.",
       "date_published": "2026-01-10T08:03:00+00:00",
       "authors": [
         {
@@ -34,7 +187,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "6c2f402005a3f79b14b7cdd4d6cddacb600cbb7b6927d34034bd14d52c0b7e8f",
@@ -301,7 +454,7 @@
       "id": "558881200259a0d0eb127189194b47651c57487b4dc0dbf55a411962a9bea053",
       "url": "https://www.elmundo.es/internacional/2026/01/10/6961fa4ee4d4d892448b45a2.html",
       "title": "La Corée du Nord accuse la Corée du Sud de survoler sa frontière avec des drones et menace de représailles pour son « hystérie impardonnable »",
-      "content_html": "Séoul a nié cette accusation, mais cet incident risque d'assombrir davantage les perspectives des efforts de son gouvernement pour rétablir les relations avec Pyongyang.",
+      "content_html": "Séoul a nié cette accusation, mais cet incident risque d'assombrir encore davantage les perspectives des efforts de son gouvernement pour rétablir les relations avec Pyongyang.",
       "date_published": "2026-01-10T07:05:56+00:00",
       "authors": [
         {
@@ -363,6 +516,35 @@
       "lang": "en"
     },
     {
+      "id": "0fd5cf12a7d7302efe7ab3e27df8927e0b6f40fbe468e98b62b9fe4db9b9e869",
+      "url": "https://www.theguardian.com/money/2026/jan/10/cancelling-zombie-subscriptions-save-uk-netflix-apple-tv-amazon-prime",
+      "title": "Cancelling ‘zombie’ subscriptions could save Britons up to £400 a year, survey finds",
+      "content_html": "<p>Consumers advised to review paying for services such as Netflix, Apple TV and Amazon Prime if they are unused</p><p>Britons are spending up to £1,200 a year on subscription services but could save as much as £400 by killing off “zombie” memberships, according to research.</p><p>Millions of households have unused or duplicate subscriptions – whether for a neglected exercise app or an unwatched Netflix account – with recurring charges quietly draining spare cash from bank accounts.</p> <a href=\"https://www.theguardian.com/money/2026/jan/10/cancelling-zombie-subscriptions-save-uk-netflix-apple-tv-amazon-prime\">Continue reading...</a>",
+      "date_published": "2026-01-10T07:00:51+00:00",
+      "authors": [
+        {
+          "name": "Shane Hickey"
+        }
+      ],
+      "tags": [
+        "Saving money",
+        "Consumer affairs",
+        "Money",
+        "Nationwide",
+        "Netflix",
+        "Amazon Prime Video",
+        "UK news",
+        "Apple TV",
+        "TV streaming",
+        "Business"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "53a949ab727390e043d025b58e049c06bc10439a8f85bd994102fd3a6b140098",
       "url": "https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions",
       "title": "AI bubble: five things you need to know to shield your finances from a crash",
@@ -385,35 +567,6 @@
         "Technology",
         "UK news",
         "Investment funds"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0fd5cf12a7d7302efe7ab3e27df8927e0b6f40fbe468e98b62b9fe4db9b9e869",
-      "url": "https://www.theguardian.com/money/2026/jan/10/cancelling-zombie-subscriptions-save-uk-netflix-apple-tv-amazon-prime",
-      "title": "Cancelling ‘zombie’ subscriptions could save Britons up to £400 a year, survey finds",
-      "content_html": "<p>Consumers advised to review paying for services such as Netflix, Apple TV and Amazon Prime if they are unused</p><p>Britons are spending up to £1,200 a year on subscription services but could save as much as £400 by killing off “zombie” memberships, according to research.</p><p>Millions of households have unused or duplicate subscriptions – whether for a neglected exercise app or an unwatched Netflix account – with recurring charges quietly draining spare cash from bank accounts.</p> <a href=\"https://www.theguardian.com/money/2026/jan/10/cancelling-zombie-subscriptions-save-uk-netflix-apple-tv-amazon-prime\">Continue reading...</a>",
-      "date_published": "2026-01-10T07:00:51+00:00",
-      "authors": [
-        {
-          "name": "Shane Hickey"
-        }
-      ],
-      "tags": [
-        "Saving money",
-        "Consumer affairs",
-        "Money",
-        "Nationwide",
-        "Netflix",
-        "Amazon Prime Video",
-        "UK news",
-        "Apple TV",
-        "TV streaming",
-        "Business"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -1844,14 +1997,14 @@
       "lang": "fr"
     },
     {
-      "id": "651bc17aa282162457c8850a8293c116bcaa6179c290e1ce82b167dfe4804bd7",
-      "url": "https://www.ukrinform.net/rubric-ato/4078556-sweden-delivers-26-archer-selfpropelled-howitzers-to-ukraine.html",
+      "id": "196356a5b5b01e356ab1766a70919c9e81317ab501a16271463841ee0c017f50",
+      "url": "https://www.ukrinform.net/rubric-defense/4078556-sweden-delivers-26-archer-selfpropelled-howitzers-to-ukraine.html",
       "title": "Sweden delivers 26 Archer self-propelled howitzers to Ukraine",
       "content_html": "Sweden has already supplied Ukraine with 26 Archer self-propelled artillery systems.",
       "date_published": "2026-01-10T00:32:00+00:00",
       "authors": [],
       "tags": [
-        "War"
+        "Defense"
       ],
       "source": {
         "name": "Latest news",
@@ -2052,22 +2205,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "fc2e5b4c661391a4749e0d21ff3536a61008ef2406bc8830a43ca5950fb9dea3",
-      "url": "https://www.dw.com/en/syrian-army-renews-strikes-on-kurdish-forces-in-aleppo/a-75457783?maca=en-rss-en-all-1573-rdf",
-      "title": "Syrian army renews strikes on Kurdish forces in Aleppo",
-      "content_html": "The military launched strikes after Kurdish forces rejected what they called demands to \"surrender.\" The Syrian government has been struggling to unite disparate groups since taking power a year ago.",
-      "date_published": "2026-01-09T23:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "e8b03da0fc49d6061408d9342f7ca29e761a2d64dc2398fbe5c58961888e9a84",
@@ -3339,7 +3476,7 @@
     {
       "id": "99c779924d2aa006abdc9c54e701631b015824a446e3c5462774b22f59651bb5",
       "url": "https://www.elmundo.es/internacional/2026/01/09/6960a98be4d4d8f3548b456d.html",
-      "title": "Poutine se \"venge\" de l'attaque présumée contre son palais en lançant son missile supersonique Oreshnik sur Lviv",
+      "title": "Poutine se \"venge\" de l'attaque présumée de son palais en lançant son missile supersonique Oreshnik sur Lviv",
       "content_html": "Kiev a qualifié de « mensonge » l'affirmation russe selon laquelle elle aurait tenté d'attaquer la résidence située dans la région russe de Novgorod.",
       "date_published": "2026-01-09T19:19:49+00:00",
       "authors": [
@@ -3739,20 +3876,6 @@
       "lang": "en"
     },
     {
-      "id": "bd2687e08c7ea5a095f83afe1b788aed23b8b65f3631ced4b281b3f886e1881d",
-      "url": "https://www.lemonde.fr/international/article/2026/01/09/au-liban-l-armee-a-acheve-la-premiere-phase-de-desarmement-du-hezbollah_6661207_3210.html",
-      "title": "Au Liban, l’armée a achevé la première phase de désarmement du Hezbollah",
-      "content_html": "Un soldat libanais traverse un tunnel utilisé par le Hezbollah comme clinique et entrepôt, dans la vallée de Zibqin (Liban), le 28 novembre 2025.",
-      "date_published": "2026-01-09T18:00:16+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "70c2b727912ef6aeb7b3aac7ae659fd86426190832d041073179dcf03dc97078",
       "url": "https://www.elmundo.es/internacional/2026/01/09/696050c9fdddff2f388b4571.html",
       "title": "L'Iran menace de réprimer violemment les manifestants alors que les manifestations se poursuivent et que le bilan s'élève à 62 morts.",
@@ -3863,7 +3986,7 @@
     {
       "id": "07f03b68a0b66fe47eb060b825be2ab574af0a809fa46a1b7727a524151b22fe",
       "url": "https://www.france24.com/en/europe/20260109-eu-countries-greenlight-mercosur-trade-deal-overriding-france",
-      "title": "L'UE donne son feu vert à l'accord commercial avec le Mercosur, von der Leyen \"attend avec impatience\" de le signer \"bientôt\"",
+      "title": "EU greenlights Mercosur trade deal, von der Leyen 'looks forward' to signing 'soon'",
       "content_html": "",
       "date_published": "2026-01-09T17:46:06+00:00",
       "authors": [
@@ -3876,7 +3999,7 @@
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "d7d33f4e2eeaf8ce839a32f03b588390f2cb3eb7c19c96a9abdf19f35276f049",
@@ -4006,22 +4129,6 @@
       "lang": "en"
     },
     {
-      "id": "c816d5a3240f95bce3cb262804a7f82ce7ca8285e531c325b6bdfd0dbb1fe53b",
-      "url": "https://www.ukrinform.net/rubric-economy/4078723-one-killed-several-injured-as-russia-strikes-two-foreign-vessels-in-black-sea.html",
-      "title": "One killed, several injured as Russia strikes two foreign vessels in Black Sea",
-      "content_html": "Russian attack drones hit two civilian vessels near ports in the Odesa region, killing one person and injuring several others.",
-      "date_published": "2026-01-09T17:27:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f3b68829532433ce52a1393219f034098725e37ef8eefa8e45b2441351e7b9ee",
       "url": "https://www.liberation.fr/international/amerique/indignation-a-minneapolis-lice-tire-sur-deux-personnes-a-portland-debats-sur-lenquete-la-suite-de-la-fusillade-mortelle-de-lice-20260109_HBGNTIRKIBGFXFXXGNRCXW7D24/",
       "title": "Indignation à Minneapolis, l’ICE tire sur deux personnes à Portland, débats sur l’enquête… La suite de la fusillade mortelle de l’ICE",
@@ -4117,7 +4224,7 @@
       "id": "b92809712ca697f60e7451b1553349cd729a595eeb37309da000fa3e50170218",
       "url": "https://www.liberation.fr/international/amerique/trump-promet-des-investissements-petroliers-massifs-une-deuxieme-vague-dattaques-aurait-ete-annulee-la-situation-au-venezuela-ce-vendredi-9-janvier-20260109_HMO6QGPYDREWPMEKIANQAI6L2M/",
       "title": "L’opposant Urrutia réclame la reconnaissance de sa victoire de 2024, Trump promet des investissements massifs… la situation au Venezuela ce vendredi 9 janvier",
-      "content_html": "Edmundo González Urrutia lors de la campagne présidentielle de 2024, à Caracas.",
+      "content_html": "Edmundo Gonzalez Urrutia lors de la campagne présidentielle de 2024, à Caracas.",
       "date_published": "2026-01-09T17:08:52+00:00",
       "authors": [
         {
@@ -4148,22 +4255,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1e9326800b254a5e43ca39414d0be5a5da2749d942d332be2b961058588d3b5e",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss",
-      "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
-      "content_html": "President Donald Trump aims to control and revive Venezuela&#039;s oil industry. Critics call it modern-day colonialism.",
-      "date_published": "2026-01-09T17:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4265,22 +4356,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5fd9fcee4043e6dbbcf2ea6de2e9342802074f3bc5a7646252d126f629c5919b",
-      "url": "https://www.ukrinform.net/rubric-polytics/4078711-zelensky-updates-composition-of-supreme-commanderinchiefs-staff.html",
-      "title": "Zelensky updates composition of Supreme Commander-in-Chief's Staff",
-      "content_html": "Ukrainian President Volodymyr Zelensky has signed a decree introducing changes to the composition of the Supreme Commander-in-Chief's Staff.",
-      "date_published": "2026-01-09T16:50:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4577,7 +4652,7 @@
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "3bcc447403502427ff3a3803cfafd44faf3e996d3883d30fc557bfe35acdaff0",
@@ -5037,24 +5112,6 @@
       "lang": "fr"
     },
     {
-      "id": "30ae9451aa6c91d011fb81539cf14899966fd896692a996579a5c171c5d00894",
-      "url": "https://www.france24.com/en/switzerland-holds-minute-of-silence-for-crans-montana-fire-disaster-victims",
-      "title": "Switzerland holds minute of silence for Crans-Montana fire disaster victims",
-      "content_html": "Olivia Bizot, France 24 journalist, is live from Switzerland.",
-      "date_published": "2026-01-09T14:05:26+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "04b356f79fa79db6f8c5c6ec0390f674771c137e12a6ed75abb0ad3773dac1a1",
       "url": "https://www.dw.com/en/epiphany-blackface-in-spain-highlights-racism-in-europe/a-75450704?maca=en-rss-en-all-1573-rdf",
       "title": "Epiphany blackface in Spain highlights racism in Europe",
@@ -5121,22 +5178,6 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4f560731fa702153ed420fbd59ca69f0bd23562699e8ccd0ac7cec7a8e743d63",
-      "url": "https://www.lefigaro.fr/international/la-future-guerre-est-la-francois-mitterrand-prophete-de-la-guerre-en-ukraine-20260109",
-      "title": "«La future guerre est là» : François Mitterrand, prophète de la guerre en Ukraine ?",
-      "content_html": "François Mitterrand en juin 1969.",
-      "date_published": "2026-01-09T13:36:52+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -5893,6 +5934,32 @@
       "lang": "fr"
     },
     {
+      "id": "5725b70bb451fcfe8c1e32fdd3012942bc57d6d303e6a12c201bff37c0c867e6",
+      "url": "https://elpais.com/internacional/2026-01-09/las-palabras-son-las-armas-de-trump.html",
+      "title": "Les mots sont les armes de Trump",
+      "content_html": "Manifestation contre les attaques américaines contre le Venezuela, en Indonésie, le 6 juin.",
+      "date_published": "2026-01-09T04:40:00+00:00",
+      "authors": [
+        {
+          "name": "Antoni Gutiérrez-Rubí"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Pete Hegseth",
+        "Estados Unidos",
+        "Departamento Defensa EEUU",
+        "Defensa",
+        "Política",
+        "Guerra"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "a640bfdea7876896ba5a222e491039d5273d5ea8257671ac60741ff5daa1a3ba",
       "url": "https://elpais.com/internacional/2026-01-09/que-pena-de-europa.html",
       "title": "Quel dommage pour l'Europe !!",
@@ -5912,32 +5979,6 @@
         "Europa",
         "Pedro Sánchez",
         "Emmanuel Macron"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5725b70bb451fcfe8c1e32fdd3012942bc57d6d303e6a12c201bff37c0c867e6",
-      "url": "https://elpais.com/internacional/2026-01-09/las-palabras-son-las-armas-de-trump.html",
-      "title": "Les mots sont les armes de Trump",
-      "content_html": "Manifestation contre les attaques américaines contre le Venezuela, en Indonésie, le 6 juin.",
-      "date_published": "2026-01-09T04:40:00+00:00",
-      "authors": [
-        {
-          "name": "Antoni Gutiérrez-Rubí"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Pete Hegseth",
-        "Estados Unidos",
-        "Departamento Defensa EEUU",
-        "Defensa",
-        "Política",
-        "Guerra"
       ],
       "source": {
         "name": "Internacional en EL PAÍS",
@@ -6205,7 +6246,7 @@
       "id": "49fbd226a8a7842e208dda74f8faa4ebb9fe8bc76d4d384d076c68d7de37b092",
       "url": "https://www.elmundo.es/internacional/2026/01/08/695fe8c121efa045028b45a2.html",
       "title": "L'Europe craint le \"mode guerrier\" de Trump au Groenland : \"Pour lui, le Venezuela a été une grande victoire et il est obsédé par la poursuite de son expansion\"",
-      "content_html": "L'inquiétude dans les capitales européennes concernant les désirs impérialistes des États-Unis est montée en flèche, mais Bruxelles semble paralysée tandis que Washington met déjà fin aux réunions avec le Danemark et lance des options pour conserver l'île.",
+      "content_html": "L'inquiétude dans les capitales européennes concernant les désirs impérialistes des États-Unis est montée en flèche, mais Bruxelles semble paralysée alors que Washington met déjà fin aux réunions avec le Danemark et lance des options pour conserver l'île.",
       "date_published": "2026-01-08T21:45:31+00:00",
       "authors": [
         {
@@ -7146,24 +7187,6 @@
       "lang": "en"
     },
     {
-      "id": "f11516e69d2cfd9ed1c94c29641ad8592c30059d77efe6dbff69faef6695dd93",
-      "url": "https://www.liberation.fr/international/amerique/venezuela-pour-trump-la-tutelle-americaine-sur-caracas-durera-beaucoup-plus-longtemps-quun-an-20260108_K2UPZLT7SRD65JL6SRU2GEBZKM/",
-      "title": "Venezuela : pour Trump, la tutelle américaine sur Caracas durera «beaucoup plus longtemps» qu’un an",
-      "content_html": "Donald Trump gesticule face aux républicains de la Chambre des représentants lors de leur retraite annuelle consacrée aux questions d'actualité, au Kennedy Center, à Washington, Etats-Unis, le 6 janvier 2026.",
-      "date_published": "2026-01-08T11:27:06+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "43968088a914766781f659ed0bed0a14a9ed331fbed7135ed43f902c50185725",
       "url": "https://www.theguardian.com/world/2026/jan/07/indian-police-raid-home-of-environmental-activists-over-anti-fossil-fuel-campaign",
       "title": "Indian police raid home of environmental activists over anti-fossil fuel campaign",
@@ -7316,31 +7339,6 @@
         "Donald Trump",
         "NLPremium",
         "Artículos Alberto Hernández",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "45a660bc8a67281c32e565b66733c5e688133dc91e0c15bb1d4fcee478b6be37",
-      "url": "https://www.elmundo.es/internacional/2026/01/08/695ef24b21efa0140a8b4586.html",
-      "title": "Trump ordonne le retrait des États-Unis de 66 organisations internationales",
-      "content_html": "La Maison Blanche a détaillé que parmi eux se trouvent <strong>31 organisations liées à l'ONU</strong>",
-      "date_published": "2026-01-08T06:20:26+00:00",
-      "authors": [
-        {
-          "name": "AFP"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "Donald Trump",
-        "OMS",
-        "ONU",
-        "internacional",
         "Especial Trump"
       ],
       "source": {
