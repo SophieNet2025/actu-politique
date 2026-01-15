@@ -5,16 +5,120 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "38b8c400659606cae45ef95343fbb28aca390999604c5d1f5f1d8b50dfaae517",
-      "url": "https://ici.radio-canada.ca/nouvelle/2220869/trump-vision-iran-ukraine-politique-americaine",
-      "title": "Trump offre sa vision de l’Iran, de l’Ukraine et de la politique américaine",
-      "content_html": "<p>Donald Trump accuse Zelensky d’être «&nbsp;un blocage&nbsp;» à un accord.</p>",
-      "date_published": "2026-01-15T03:45:54+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "be61b051d445caa689388626da613ec611c9eb2a95e75ec0532090b8376f3c39",
+      "url": "https://elpais.com/internacional/2026-01-15/iran-atrapado-entre-jamenei-y-trump.html",
+      "title": "L’Iran, pris entre Khamenei et Trump",
+      "content_html": "Plusieurs personnes assistent ce mercredi aux funérailles des forces de sécurité tuées lors des manifestations en Iran, à Téhéran.",
+      "date_published": "2026-01-15T04:30:01+00:00",
+      "authors": [
+        {
+          "name": "Ángeles Espinosa"
+        }
+      ],
+      "tags": [
+        "Protestas Irán",
+        "Irán",
+        "Estados Unidos",
+        "Donald Trump",
+        "Alí Jamenei",
+        "Manifestaciones",
+        "Protestas sociales",
+        "Crisis económica",
+        "Economía",
+        "Oriente Próximo",
+        "Represión política"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "384b84596af8ec26a22a4630e03a290edfacb12f362c91a67917572a15eeda1f",
+      "url": "https://elpais.com/internacional/2026-01-15/reza-pahlevi-el-principe-destronado-aupado-por-la-desesperacion-de-los-iranies.html",
+      "title": "Reza Pahlevi, le prince détrôné encouragé par le désespoir des Iraniens",
+      "content_html": "Reza Pahlavi, le fils du dernier Shah d'Iran, à Paris le 23 juin.",
+      "date_published": "2026-01-15T04:30:01+00:00",
+      "authors": [
+        {
+          "name": "Trinidad Deiros"
+        }
+      ],
+      "tags": [
+        "Protestas Irán",
+        "Irán",
+        "Oriente Próximo",
+        "Israel",
+        "Protestas sociales",
+        "Crisis económica",
+        "Monarquía",
+        "Alí Jamenei"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "116c1799a9fa655a23a365d27700673a5738ed4b5a4ea3cc62a258c190ac66ca",
+      "url": "https://elpais.com/internacional/2026-01-15/alexander-butiaguin-el-arqueologo-estrella-ruso-que-puede-acabar-entre-rejas-en-ucrania.html",
+      "title": "Alexandre Boutiaguine, l'archéologue russe vedette qui pourrait finir derrière les barreaux en Ukraine",
+      "content_html": "Alexander Butiaguin, dans une image des réseaux sociaux.",
+      "date_published": "2026-01-15T04:30:01+00:00",
+      "authors": [
+        {
+          "name": "Cristian Segura"
+        }
+      ],
+      "tags": [
+        "Guerra de Rusia en Ucrania",
+        "Ucrania",
+        "Rusia",
+        "Guerra",
+        "Conflictos",
+        "Unión Europea",
+        "OTAN",
+        "Ataques militares",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Europa",
+        "Arqueología",
+        "Detenciones"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d9733ba8ae81f6e2eeeb1f7625e60fcff55354ef0e4da940fa21d213a5edd762",
+      "url": "https://elpais.com/internacional/2026-01-15/las-victimas-del-incendio-en-crans-montana-piden-que-la-investigacion-se-amplie-al-gobierno-local.html",
+      "title": "Les victimes de l'incendie de Crans-Montana demandent que l'enquête soit élargie au gouvernement local",
+      "content_html": "Fleurs et bougies lors d'un mémorial en mémoire des victimes de l'incendie du Nouvel An dans un bar de Crans-Montana hier.",
+      "date_published": "2026-01-15T04:30:01+00:00",
+      "authors": [
+        {
+          "name": "Raquel Villaécija"
+        }
+      ],
+      "tags": [
+        "Suiza",
+        "Incendio Estación Crans-Montana-Suiza",
+        "Incendios",
+        "Sucesos",
+        "Víctimas",
+        "Fuegos artificiales",
+        "Pirotecnia",
+        "Accidentes fiestas",
+        "Quemaduras",
+        "Investigación policial"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -23,10 +127,10 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb",
       "title": "Australia news live: Labor’s hate speech bill on path to defeat after Greens say they will not back it in current form",
       "content_html": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/15/sussan-ley-coalition-criticises-labor-hate-speech-reforms-ntwnfb\">Stunned Albanese says Coalition ‘playing politics’ as Ley calls hate speech reforms ‘pretty unsalvageable’</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Iranian Australians left distraught with no confirmation their family is safe</strong></p><p>Almost a week into Iran’s communication blackout, Iranian Australian activist <strong>Mohammad Hashemi</strong> received a call from his home country.</p><p>When I heard the stories, what happened to people, I was crying about the situation and what’s going on in our country.</p><p>We continue to advise do not travel to Iran. If you choose to remain in Iran, you’re responsible for your own safety. Be prepared to shelter in place for an extended period. Make sure you have supplies of water, food and medication.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jan/15/victoria-bushfires-school-data-hack-adelaide-writers-week-peter-malinauskas-labor-hate-speech-laws-political-reaction-anthony-albanese-sussan-ley-coalition-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-01-15T03:38:54+00:00",
+      "date_published": "2026-01-15T04:26:41+00:00",
       "authors": [
         {
-          "name": "Nick Visser"
+          "name": "Jordyn Beazley (now) and Nick Visser (earlier)"
         }
       ],
       "tags": [
@@ -46,11 +150,124 @@
       "lang": "en"
     },
     {
+      "id": "4ea76d13d509497ad59931a81ba0a290baac0a8a35f33e071406a66d6177cd00",
+      "url": "https://www.ukrinform.net/rubric-ato/4080476-ukrainian-f16-pilots-successfully-adapted-tactics-to-realities-of-war-with-russia-turkish-media.html",
+      "title": "Ukrainian F-16 pilots successfully adapted tactics to realities of war with Russia - Turkish media",
+      "content_html": "Ukrainian pilots, who, despite the complexity of the process, mastered the F-16 fighters, not only integrated these aircraft into combat operations, but were also able to adapt the tactics of their use to the specifics of a full-scale war with Russia.",
+      "date_published": "2026-01-15T04:23:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bdd867747fed5c8c359801791fcea265abf7d54f0f93436efc65c72799d9c763",
+      "url": "https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates",
+      "title": "Trump says he’s been assured Tehran has stopped killing protesters as Iran reopens its airspace – live",
+      "content_html": "<p>US president says ‘important sources’ also told him executions not going ahead as Iranian airspace reopens to flights after near-five-hour closure</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jan/14/iran-protests-erfan-soltani-donald-trump-warning-executions-hangings\">Full report: US and UK military to withdraw some personnel from Middle East amid Iranian threats</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jan/15/iran-protests-crisis-what-we-know-so-far\">Iran crisis explained: what we know so far</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jan/14/western-diplomats-wary-of-predicting-end-days-for-irans-regime\">Analysis: why western diplomats are wary of predicting regime’s end days</a></p></li><li><p><a href=\"https://www.theguardian.com/world/video/2026/jan/14/massacres-and-executions-what-are-we-hearing-from-inside-iran-the-latest\">Podcast: Massacres and executions: what are we hearing from inside Iran?</a></p></li></ul><p>India has become the latest country to urge its citizens to leave Iran.</p><p>The Indian embassy in Tehran said in a <a href=\"https://x.com/India_in_Iran/status/2011451773844873562\">post on X</a>:</p><p>Indian nationals who are currently in Iran (students, pilgrims, business persons and tourists) are advised to leave Iran by available means of transport, including commercial flights.</p><p><strong>Trump said Iranian opposition figure Reza Pahlavi “seems very nice” but expressed uncertainty about whether Pahlavi would be able to muster support within Iran to eventually take over</strong>. “I don’t know how he’d play within his own country,” Trump told Reuters in the Oval Office. “And we really aren’t up to that point yet. I don’t know whether or not his country would accept his leadership, and certainly if they would, that would be fine with me.”</p><p><strong>Iran has reopened its airspace after a near-five-hour closure</strong> that forced airlines to cancel, reroute or delay some flights. Tracking service Flightradar24 showed five flights from Iranian carriers Mahan Air, Yazd Airways and AVA Airlines were among the first to resume over the country.</p><p><strong>The United Nations security council is scheduled to meet on Thursday afternoon for “a briefing on the situation in Iran”</strong>, according to a spokesperson for the Somali presidency. The scheduling note said the briefing was requested by the US.</p><p><strong>Some US and UK personnel have been evacuated</strong> as a precaution from sites in the Middle East. The British embassy in Tehran has also been temporarily closed.</p><p><strong>Spain, Italy and Poland advised their citizens to leave Iran</strong>. It followed a call by the US urging its citizens to leave Iran, suggesting land routes to Turkey or Armenia.</p><p><strong>Araghchi insisted the situation was “under control</strong>” and urged the US to engage in diplomacy. “Now there’s calm,” the Iranian foreign minister said. “We have everything under control, and let’s hope that wisdom prevails and we don’t end up in a situation of high tension that would be catastrophic for everyone.”</p><p><strong>The death toll in Iran from the regime’s crackdown stands at 2,571 people</strong>, according to the US-based Human Rights Activists news agency. More than 18,100 have been arrested, it said.</p><p><strong>Foreign ministers from the G7 group said they were “prepared to impose additional restrictive measures” on Iran</strong> over its handling of the protests, and the “deliberate use of violence, the killing of protesters, arbitrary detention and intimidation tactics”.</p> <a href=\"https://www.theguardian.com/world/live/2026/jan/15/trump-iran-protests-usa-response-airspace-killings-live-updates\">Continue reading...</a>",
+      "date_published": "2026-01-15T04:21:45+00:00",
+      "authors": [
+        {
+          "name": "Adam Fulton"
+        }
+      ],
+      "tags": [
+        "Iran",
+        "Trump administration",
+        "Middle East and north Africa",
+        "Donald Trump",
+        "World news",
+        "US foreign policy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b547039b778e6c78a2be213cdb9b93238efe6c75ccd43a68f3788c305f994510",
+      "url": "https://www.lemonde.fr/international/article/2026/01/15/a-la-maison-blanche-le-danemark-et-le-groenland-confrontes-a-l-intransigeance-de-l-administration-trump_6662246_3210.html",
+      "title": "A la Maison Blanche, le Danemark et le Groenland confrontés à l’intransigeance de l’administration Trump",
+      "content_html": "Les ministres des affaires étrangères danois et groenlandaise, Lars Lokke Rasmussen et Vivian Motzfeldt, à l’ambassade du Danemark de Washington, le 14 janvier 2026.",
+      "date_published": "2026-01-15T04:19:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a603ea6d3b03c0ba24339d955be23c0bd9b899560b9cd30ed32072f0b7619785",
+      "url": "https://www.aljazeera.com/news/2026/1/15/russian-attacks-cause-energy-emergency-in-freezing-ukraine-says-zelenskyy?traffic_source=rss",
+      "title": "Russian attacks cause energy emergency in freezing Ukraine, says Zelenskyy",
+      "content_html": "Ukraine struggles to restore heat, electricity as temperatures plummet to -19 degrees Celsius.",
+      "date_published": "2026-01-15T04:19:22+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "19c8982c3cdbc768c15611815db909c726f2ee42f514a34daaf4bac0a8f7bae9",
+      "url": "https://www.france24.com/en/middle-east/20260115-live-un-security-council-to-meet-for-a-briefing-on-the-situation-in-iran",
+      "title": "Live: UN Security Council to meet for 'a briefing on the situation in Iran'",
+      "content_html": "US President Donald Trump said Wednesday that he was told “on good authority” that the killing of Iranian protesters has “stopped”, and Tehran indicated that there was \"no plan for hanging\" protestors. The UN Security Council will meet Thursday afternoon to discuss the situation in Iran. Follow our liveblog for all the latest developments.",
+      "date_published": "2026-01-15T04:14:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d80594aeba88810fa6e3163ba70854e965b403b41dfcaf22b96f08170cd8b72e",
+      "url": "https://www.timesofisrael.com/us-bullish-as-bodies-tasked-with-replacing-hamas-take-shape-despite-disarmament-hurdle/",
+      "title": "US bullish as bodies tasked with replacing Hamas take shape, despite disarmament hurdle",
+      "content_html": "<p>Trump aides insist Hamas is indicating it's prepared to give up weapons and say they're committed to bringing back last hostage's body, but will not wait to advance Gaza peace plan</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-bullish-as-bodies-tasked-with-replacing-hamas-take-shape-despite-disarmament-hurdle/\">US bullish as bodies tasked with replacing Hamas take shape, despite disarmament hurdle</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AP26014736841681-1024x640.jpg\" title=\"US bullish as bodies tasked with replacing Hamas take shape, despite disarmament hurdle\" width=\"160\" /></figure>",
+      "date_published": "2026-01-15T04:10:06+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2023-2025 Israel-Hamas war",
+        "Trump's 20-point plan for Gaza",
+        "Gaza Strip",
+        "Steve Witkoff",
+        "PA Palestinian Authority",
+        "Jared Kushner"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "de6dee6a11f3048eb1f7deb823e1375a48eeff27235b5fa19f6daa5a6725d089",
       "url": "https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani",
-      "title": "Iran closes airspace to all flights as foreign minister denies it plans to execute protesters – live",
-      "content_html": "<p>US president says ‘important sources’ also told him executions not going ahead as Iran extends order closing its airspace to commercial flights</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jan/14/iran-protests-erfan-soltani-donald-trump-warning-executions-hangings\">US and UK military to withdraw some personnel from Middle East amid Iranian threats</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jan/14/western-diplomats-wary-of-predicting-end-days-for-irans-regime\">Analysis: why western diplomats are wary of predicting end days for Iran’s regime</a></p></li><li><p><a href=\"https://www.theguardian.com/world/video/2026/jan/14/massacres-and-executions-what-are-we-hearing-from-inside-iran-the-latest\">Massacres and executions: what are we hearing from inside Iran? – podcast</a></p></li></ul><p>For the first time in days, Iranians were able to make calls abroad from their mobiles on Tuesday, according to reporting by Associated Press. Texting services have not been restored, however, and nor has the internet.</p><p>Although Iranians were able to call abroad, they could not receive calls from outside the country, several people in the capital told Associated Press. The internet remained blocked, they said, though it is possible to access some government-approved websites.<br /><br />\n Cloudfare - an internet infrastructure provider, and one of several companies and monitors tracking the status of internet traffic in Iran – said traffic volumes have remained “at a fraction of a percent of previous levels”. Its <a href=\"https://radar.cloudflare.com/traffic/ir\">latest update</a> as of 01:00 UTC (which is about three hours and 30 minutes ago), shows a continued widespread blackout. Iran has been under an internet shutdown since Thursday night.<br /><br />\n Brief windows of connectivity were observed on Friday, but these did not last, according to Cloudfare.<br /><br /><a href=\"https://netblocks.org/\">Netblocks</a>, an independent global internet monitor, also notes that while some phone calls from Iran are connecting, there is “no secure way to communicate” and the general public remain cut off from the outside world.</p> <a href=\"https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani\">Continue reading...</a>",
-      "date_published": "2026-01-15T03:38:07+00:00",
+      "title": "Iranian airspace reopens – as it happened",
+      "content_html": "<p>US president says ‘important sources’ told him executions not going ahead. This blog is now closed</p><p>For the first time in days, Iranians were able to make calls abroad from their mobiles on Tuesday, according to reporting by Associated Press. Texting services have not been restored, however, and nor has the internet.</p><p>Although Iranians were able to call abroad, they could not receive calls from outside the country, several people in the capital told Associated Press. The internet remained blocked, they said, though it is possible to access some government-approved websites.<br /><br />\n Cloudfare - an internet infrastructure provider, and one of several companies and monitors tracking the status of internet traffic in Iran – said traffic volumes have remained “at a fraction of a percent of previous levels”. Its <a href=\"https://radar.cloudflare.com/traffic/ir\">latest update</a> as of 01:00 UTC (which is about three hours and 30 minutes ago), shows a continued widespread blackout. Iran has been under an internet shutdown since Thursday night.<br /><br />\n Brief windows of connectivity were observed on Friday, but these did not last, according to Cloudfare.<br /><br /><a href=\"https://netblocks.org/\">Netblocks</a>, an independent global internet monitor, also notes that while some phone calls from Iran are connecting, there is “no secure way to communicate” and the general public remain cut off from the outside world.</p> <a href=\"https://www.theguardian.com/world/live/2026/jan/14/iran-protests-live-updates-trump-us-action-death-toll-protester-executions-erfan-soltani\">Continue reading...</a>",
+      "date_published": "2026-01-15T04:04:35+00:00",
       "authors": [
         {
           "name": "Adam Fulton (now); Lucy Campbell, Kirsty McEwen, Frances Mao, Amy Sedghi, Rebecca Ratcliffe and Mark Saunokonoko (earlier)"
@@ -70,6 +287,34 @@
       "lang": "en"
     },
     {
+      "id": "fd4377bc6045af2bfba05cfd0d3a06da11845ab6e1796bff1d374e7213f252da",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/01/15/doctrine-donroe-l-avenir-du-monde-selon-donald-trump_6662243_5463015.html",
+      "title": "Doctrine « Donroe » : l’avenir du monde selon Donald Trump",
+      "content_html": "Le président des Etats-Unis, Donald Trump, sur la base aérienne d’Andrews, dans le Maryland, le 13 janvier 2026.",
+      "date_published": "2026-01-15T04:00:09+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "38b8c400659606cae45ef95343fbb28aca390999604c5d1f5f1d8b50dfaae517",
+      "url": "https://ici.radio-canada.ca/nouvelle/2220869/trump-vision-iran-ukraine-politique-americaine",
+      "title": "Trump offre sa vision de l’Iran, de l’Ukraine et de la politique américaine",
+      "content_html": "<p>Donald Trump accuse Zelensky d’être «&nbsp;un blocage&nbsp;» à un accord.</p>",
+      "date_published": "2026-01-15T03:45:54+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "0de67754ae8b9555cdd258f5f1b3ed455783b3356f4d9621ba3e9844d77b4c97",
       "url": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
       "title": "Zelensky declares emergency in Ukraine's energy sector as biting cold persists",
@@ -82,6 +327,42 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "614055ff5a89927bd18b71efdeaf0b3fb3958b6bf1dfd11ece5d2f017d4ed31c",
+      "url": "https://www.ukrinform.net/rubric-ato/4080303-iranian-minister-all-those-who-take-part-in-protests-and-are-arrested-after-january-8-are-criminals.html",
+      "title": "Iranian minister: All those who take part in protests and are arrested after January 8 are criminals",
+      "content_html": "Anyone who took part in protests in Iran and was arrested after the call for protest on January 8 by Prince Reza Pahlavi, who is in exile, is a criminal.",
+      "date_published": "2026-01-15T03:35:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "61f2043fe6d15596208691a89e207144a98899aa13d6baff9b517bf80ffc6c00",
+      "url": "https://www.france24.com/fr/moyen-orient/20260115-en-direct-iran-manifestations-donald-trump-reza-pahlavi-onu",
+      "title": "En direct : Donald Trump met en doute la capacité de Reza Pahlavi à obtenir un soutien en Iran",
+      "content_html": "Le président américain Donald Trump a déclaré mercredi soir que la figure de l'opposition iranienne Reza Pahlavi \"semble très sympathique\", exprimant toutefois des doutes quant sa capacité à rassembler des soutiens dans le pays pour prendre le pouvoir. Une réunion du Conseil de sécurité de l'ONU sur l'Iran doit se tenir se jeudi. Suivez notre direct.",
+      "date_published": "2026-01-15T03:33:43+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "6809acf4796e42f995ae85c9af44bbe35c9be67f9776b57550e2de600375ab27",
@@ -1172,7 +1453,7 @@
     {
       "id": "217b56a2262342f8459b5bff8e4c624a8f16cc589e99c2783f46659fc23a298a",
       "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped?traffic_source=rss",
-      "title": "Trump says he’s been assured killings in Iran ‘stopped’",
+      "title": "Iran’s FM says no executions of protesters, as Trump lowers rhetoric",
       "content_html": "Trump has threatened to attack Iran, prompting Tehran to warn of retaliation amid growing fears of conflict.",
       "date_published": "2026-01-14T23:27:44+00:00",
       "authors": [],
@@ -3147,30 +3428,6 @@
       "lang": "fr"
     },
     {
-      "id": "a7df09049500a08a0ccb775153f2411bd96881778134f32cd6e80847a663667a",
-      "url": "https://www.theguardian.com/world/2026/jan/14/western-diplomats-wary-of-predicting-end-days-for-irans-regime",
-      "title": "Why western diplomats are wary of predicting end days for Iran’s regime",
-      "content_html": "<p>Failure to foresee shah’s fall in 1979 was diplomatic disaster, but experts see little indication of mass defections now</p><p>When asked to predict whether fissures are appearing at the top of the Iranian state that may imply Ayatollah Ali Khamenei’s days as supreme leader are numbered, western diplomats adopt a haunted demeanour, perhaps recalling one of western diplomacy’s greatest collective disasters.</p><p>Before the <a href=\"https://www.theguardian.com/news/blog/2009/feb/03/iranian-revolution-archive\">fall of the Shah of Iran in January 1979</a>, insouciant diplomats based in Tehran were sending cables to their capitals offering total reassurance that Mohammad Reza Pahlavi’s hold on power was utterly secure. In September 1978, the US Defence Intelligence Agency, for instance, reported that “the shah is expected to remain actively in power over the next 10 years”. A state department report suggested “the shah would not have to stand down until 1985 at the earliest”.</p> <a href=\"https://www.theguardian.com/world/2026/jan/14/western-diplomats-wary-of-predicting-end-days-for-irans-regime\">Continue reading...</a>",
-      "date_published": "2026-01-14T18:33:58+00:00",
-      "authors": [
-        {
-          "name": "Patrick Wintour"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Middle East and north Africa",
-        "World news",
-        "Ayatollah Ali Khamenei",
-        "US foreign policy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9299ec480b651967dc166a0aac0b021513c558c6ace6d27ddba998bf6437c54b",
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20260114-un-%C3%A9quipage-de-l-iss-fait-route-la-terre-apr%C3%A8s-une-%C3%A9vacuation-m%C3%A9dicale",
       "title": "Un équipage de l'ISS fait route vers la Terre après une évacuation médicale",
@@ -3183,47 +3440,6 @@
       ],
       "tags": [
         "Éco/Tech"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bd434b0c24a8d896f323edba28a251e21e3d2b53cf8cc603b8a038c914fff5df",
-      "url": "https://www.timesofisrael.com/with-clock-ticking-israel-moves-to-resolve-passport-crisis-for-winter-olympians/",
-      "title": "With clock ticking, Israel moves to resolve passport crisis for Winter Olympians",
-      "content_html": "<p>Knesset okays cabinet decision to grant Netanyahu temporary powers of interior minister in order to issue passports to 3 athletes caught in bureaucratic and political quagmire</p>\n<p>The post <a href=\"https://www.timesofisrael.com/with-clock-ticking-israel-moves-to-resolve-passport-crisis-for-winter-olympians/\">With clock ticking, Israel moves to resolve passport crisis for Winter Olympians</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20250131__36WR8M4__v1__HighRes__FskateEurWomen-e1768407469863-1024x640.jpg\" title=\"With clock ticking, Israel moves to resolve passport crisis for Winter Olympians\" width=\"160\" /></figure>",
-      "date_published": "2026-01-14T18:31:22+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "2026 Milano Cortina Olympics",
-        "Israeli Olympic team",
-        "Interior Ministry",
-        "passport",
-        "Olympic Committee of Israel"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5a0cd32931200528e0b0b83b9fa66c6b955dac0a280308ff83afd9c5a834bbdc",
-      "url": "https://www.france24.com/fr/sports/20260114-sabri-lamouchi-nomme-s%C3%A9lectionneur-tunisie-mondial-2026",
-      "title": "Sabri Lamouchi nommé sélectionneur de la Tunisie en vue du Mondial 2026",
-      "content_html": "Sabri Lamouchi a été nommé mercredi sélectionneur des Aigles de Carthage par la Fédération tunisienne de football (FTF). Le technicien franco-tunisien aura la lourde tâche d'aider la sélection à digérer son élimination précoce de la CAN 2025, tout en préparant l'échéance majeure du Mondial 2026 en juin prochain.",
-      "date_published": "2026-01-14T18:23:02+00:00",
-      "authors": [
-        {
-          "name": "Romain HOUEIX"
-        }
-      ],
-      "tags": [
-        "Sports"
       ],
       "source": {
         "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
@@ -3326,22 +3542,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "9cda88b9d7e7896a8a448c6c7ae6e3949b6762efb216cabf3f9433dc6439c039",
-      "url": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss",
-      "title": "Mapping who controls what in Yemen in 2026",
-      "content_html": "Al Jazeera examines the groups fighting for control in Yemen and the resulting humanitarian situation on the ground.",
-      "date_published": "2026-01-14T18:14:13+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "373e03b6639a7799ecd84662932512e790af3b8f0b4f95904758eb7047aa10c1",
@@ -3560,20 +3760,6 @@
       "lang": "fr"
     },
     {
-      "id": "569c002d6c664e80cd7d59a78ada8b2503adcca0496b5c5abcb03cd329ceaa39",
-      "url": "https://ici.radio-canada.ca/nouvelle/2220655/bonnie-crombie-demission-liberal-ontario",
-      "title": "Bonnie Crombie quitte son poste de chef du Parti libéral de l’Ontario",
-      "content_html": "<p>La chef avait annoncé au mois de septembre, après un vote de confiance, qu’elle démissionnait. </p>",
-      "date_published": "2026-01-14T17:39:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "033801e49a5422f9ad5736cc4c372188129982b8d71d69e0924b1a6a1eff1b51",
       "url": "https://www.liberation.fr/international/moyen-orient/mana-neyestani-la-communaute-internationale-doit-retirer-sa-reconnaissance-a-la-republique-islamique-20260114_X6EHVKYNCRAHFNBTAF6LUVXVUI/",
       "title": "Mana Neyestani, dessinateur iranien exilé en France : «La communauté internationale doit retirer sa reconnaissance à la république islamique»",
@@ -3588,47 +3774,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "75c78261c540dc5f14e8761791a84b9633ddc220d4d208b1e0de13d5d3b1a87a",
-      "url": "https://www.lemonde.fr/international/article/2026/01/14/bande-de-gaza-steve-witkoff-annonce-le-debut-de-la-phase-2-du-plan-americain-visant-a-mettre-fin-a-la-guerre_6662184_3211.html",
-      "title": "Bande de Gaza : Steve Witkoff annonce le début de la « phase deux » du plan américain visant à mettre fin à la guerre",
-      "content_html": "L’émissaire américain Steve Witkoff, à Paris, le 6 janvier 2026.",
-      "date_published": "2026-01-14T17:35:50+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bab2e68c49320874054d54c3cff3ec22e855242f9cf5605257687798d38b98d1",
-      "url": "https://elpais.com/internacional/2026-01-14/el-gobierno-de-starmer-se-enfrenta-a-la-policia-por-el-veto-a-los-aficionados-del-maccabi-tel-aviv.html",
-      "title": "Le gouvernement Starmer confronte la police au sujet de l'interdiction des supporters du Maccabi Tel Aviv",
-      "content_html": "La ministre britannique de l'Intérieur Shabana Mahmood lors d'une réunion avec la communauté juive à Londres le 16 octobre",
-      "date_published": "2026-01-14T17:35:48+00:00",
-      "authors": [
-        {
-          "name": "Rafa De Miguel"
-        }
-      ],
-      "tags": [
-        "Reino Unido",
-        "Maccabi Tel Aviv FC",
-        "Israel",
-        "Partido Laborista",
-        "Keir Starmer",
-        "Antisemitismo",
-        "West Ham United",
-        "Aston Villa"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -3665,20 +3810,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "2618a43312ddaac1d30ce3ee86e52287659696fdcb462b019f3b0efc3ab86205",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/01/14/georges-vassiliou-ancien-president-chypriote-est-mort_6662207_3382.html",
-      "title": "Georges Vassiliou, ancien président chypriote, est mort",
-      "content_html": "Georges Vassiliou, alors président de Chypre, au Caire, le 22 novembre 1989.",
-      "date_published": "2026-01-14T17:30:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "195aa7e7426a7185d5078ea194f5d2eb74145536115886432f0eb85b18d7ce08",
@@ -4013,8 +4144,8 @@
     {
       "id": "24a8e061ee4b6541ef940563a888740cfba76fa59699a45a0e6977a37ee4a600",
       "url": "https://www.elmundo.es/internacional/2026/01/14/6967c668fc6c83c6578b458d.html",
-      "title": "Ford suspende al trabajador que gritó \"defensor de pedófilos\" a Trump durante una visita a una fábrica",
-      "content_html": "El presidente respondió con una peineta y gritándole \"que te jodan\" y su equipo lo califica de \"lunático de izquierdas\"",
+      "title": "Ford suspend un employé qui a qualifié Trump de \"défenseur pédophile\" lors d'une visite d'usine",
+      "content_html": "Le président a répondu avec un peigne en criant \"va te faire foutre\" et son équipe l'a traité de \"fou de gauche\".",
       "date_published": "2026-01-14T16:47:08+00:00",
       "authors": [
         {
@@ -4029,7 +4160,7 @@
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
       },
-      "lang": "es"
+      "lang": "fr"
     },
     {
       "id": "05f12303970f2acd7d9cf978edaf288b423668c37b1744452491e5ce86e9b293",
@@ -4166,24 +4297,6 @@
       "lang": "en"
     },
     {
-      "id": "4bc411a0a840aa7143991451cf92c56580b5e2ec62dd715962a214409de386ed",
-      "url": "https://www.france24.com/en/what-do-greenlanders-want-amid-rising-political-tensions",
-      "title": "What do Greenlanders want amid rising political tensions?",
-      "content_html": "As political tensions and diplomatic maneuvering intensify around Greenland, attention is turning to the voices of Greenlanders themselves and what they want for their future, a question explored by Eliza Herbert.",
-      "date_published": "2026-01-14T16:27:06+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "eb98319439bf6ca5c105ba49847ecc445bd69e055a5de3c57a59edd307fd1a95",
       "url": "https://www.lefigaro.fr/international/besoin-de-ca-comme-d-un-trou-dans-la-tete-en-s-attaquant-a-la-fed-trump-provoque-une-nouvelle-fronde-au-sein-de-son-propre-camp-20260114",
       "title": "«Besoin de ça comme d’un trou dans la tête» : en s’attaquant à la Fed, Trump provoque une nouvelle fronde au sein de son propre camp",
@@ -4306,32 +4419,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "c376d633003ce19d8810b63dbb4bcef7a48aa0c14c36e1af42614b7942ff539e",
-      "url": "https://elpais.com/internacional/2026-01-14/los-conflictos-geoeconomicos-y-armados-en-un-orden-multipolar-encabezan-la-lista-de-riesgos-de-davos-para-2026.html",
-      "title": "Les conflits « géoéconomiques et armés » dans un ordre multipolaire figurent en tête de la liste des risques à Davos pour 2026",
-      "content_html": "Le président américain Donald Trump mardi dans le Maryland.",
-      "date_published": "2026-01-14T15:48:22+00:00",
-      "authors": [
-        {
-          "name": "Andrea Rizzi"
-        }
-      ],
-      "tags": [
-        "Davos",
-        "Relaciones internacionales",
-        "Conflictos",
-        "Donald Trump",
-        "Geopolítica",
-        "Estados Unidos",
-        "China"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "4987dc8bb3c60d8bd6231ed67614400a5a2cc51a676891208b3954da81683284",
@@ -4479,22 +4566,6 @@
       "lang": "en"
     },
     {
-      "id": "ab3470bdcb06f4ed2692b7917d931aa213753b523207fdca5b7fc8bc345b35d3",
-      "url": "https://www.ukrinform.net/rubric-economy/4080350-no-restrictions-on-gas-supply-planned-in-ukraine-naftogaz.html",
-      "title": "No restrictions on gas supply planned in Ukraine — Naftogaz",
-      "content_html": "Gas supply in Ukraine is fully secured, and no restrictions are planned.",
-      "date_published": "2026-01-14T15:14:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "88e4be09f7a4df3d931ee6dcc04051c6f1cff8e9855ff3d2bd1013d7a82b6421",
       "url": "https://www.dw.com/en/from-the-monroe-doctrine-to-the-donroe-doctrine/a-75500817?maca=en-rss-en-all-1573-rdf",
       "title": "From the Monroe Doctrine to the Donroe Doctrine",
@@ -4552,22 +4623,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "02135564ec632ef73e3b7599f3879c13a70f6bbb4324d711ad389a8d0b7924fc",
-      "url": "https://www.ukrinform.net/rubric-polytics/4080347-czech-fm-sees-good-prospects-for-cooperation-with-ukraine-in-field-of-countering-drones.html",
-      "title": "Czech FM sees good prospects for cooperation with Ukraine in field of countering drones",
-      "content_html": "Deputy Prime Minister and Minister of Foreign Affairs of the Czech Republic Petr Macinka praised Ukrainian innovations in the defense sector and prospects for cooperation with Ukraine in the field of anti-drone protection.",
-      "date_published": "2026-01-14T14:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "dbf83b98fe2ff06b6ee72d83a5934c48d6afe07a0fcb75018aabd4d491f27811",
@@ -5648,38 +5703,6 @@
       "lang": "fr"
     },
     {
-      "id": "24e05483ea67e85707166e81bd88d910b6e4fb58cbf608b89ff46ecf3e77c07f",
-      "url": "https://elpais.com/internacional/2026-01-14/el-progresista-rob-jetten-intenta-formar-un-gobierno-en-minoria-algo-excepcional-en-la-historia-de-paises-bajos.html",
-      "title": "Le progressiste Rob Jetten tente de former un gouvernement minoritaire, quelque chose d'exceptionnel dans l'histoire des Pays-Bas",
-      "content_html": "les chefs du parti D66, Rob Jetten ;Le VVD, Dilan Yesilgöz, et le CDA, Henri Bontenbal s'exprimaient devant la presse à Hilversum, aux Pays-Bas, le 9 janvier.",
-      "date_published": "2026-01-14T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Ferrer Ferrer"
-        }
-      ],
-      "tags": [
-        "Holanda",
-        "Geert Wilders",
-        "Extrema derecha",
-        "Ultraderecha",
-        "Elecciones",
-        "Pactos políticos",
-        "Coaliciones políticas",
-        "Europa",
-        "Política",
-        "Políticos",
-        "Frans Timmermans",
-        "CDA",
-        "Partidos políticos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c90b4c89d7c223bda54ba462f3745ab5b7870ec06aed8286eb0c446bb1e08d20",
       "url": "https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol",
       "title": "South Korean prosecutors demand death penalty for former president Yoon Suk Yeol",
@@ -6150,35 +6173,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7702ad3487eea9bce1240948b3464c7dfb6e9a2c47140231d4c5629e1a5444af",
-      "url": "https://elpais.com/internacional/2026-01-13/el-relato-de-los-dos-presos-italianos-liberados-en-venezuela-era-peor-que-alcatraz-14-meses-durmiendo-en-el-suelo-con-cucarachas.html",
-      "title": "L'histoire des deux prisonniers italiens libérés au Venezuela : « C'était pire qu'Alcatraz ; 14 mois à dormir par terre avec des cafards »",
-      "content_html": "Alberto Trentini, à gauche, et Mario Burlò, à droite, embrassent leurs familles après leur arrivée à l'aéroport Ciampino de Rome en provenance de Caracas ce mardi.",
-      "date_published": "2026-01-13T18:08:40+00:00",
-      "authors": [
-        {
-          "name": "Íñigo Domínguez"
-        }
-      ],
-      "tags": [
-        "Italia",
-        "Venezuela",
-        "Giorgia Meloni",
-        "Nicolás Maduro",
-        "Presos políticos",
-        "Estados Unidos",
-        "Chavismo",
-        "Diplomacia",
-        "Ataque Estados Unidos a Venezuela",
-        "Caracas"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -7990,34 +7984,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "4f6c514cc623aca37b4466aefde06f3ba858c59f3ff88ba36414e40dbf7c548c",
-      "url": "https://elpais.com/internacional/2026-01-10/los-venezolanos-se-merecen-una-verdadera-primavera.html",
-      "title": "Les Vénézuéliens méritent un vrai printemps",
-      "content_html": "Image diffusée sur le compte @sntpvenezuela du Syndicat national des travailleurs de la presse du Venezuela de l'ancien candidat à la présidence du Venezuela Enrique Márquez (à droite) après sa libération ce jeudi, à Caracas.",
-      "date_published": "2026-01-10T04:40:00+00:00",
-      "authors": [
-        {
-          "name": "Beatriz  Lecumberri"
-        }
-      ],
-      "tags": [
-        "Venezuela",
-        "Nicolás Maduro",
-        "Estados Unidos",
-        "Caracas",
-        "Represión política",
-        "Chavismo",
-        "Donald Trump",
-        "Derechos humanos",
-        "Ataque Estados Unidos a Venezuela"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "280dd88040bcb42a24e98607420f100660ab03f0057361ccd5e4430d61591097",
