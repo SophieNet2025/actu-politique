@@ -5,11 +5,38 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "2303fbf020e9cedd332ad7b71bfedcf7ff4b3fd06200bd9c15783c15c27d23b1",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221562/carney-groenland-voyage-partenariat-qatar",
-      "title": "Le Canada envisage de dépêcher des soldats au Groenland",
-      "content_html": "<p>Le premier ministre a été questionné en marge de l&#x27;annonce d&#x27;un partenariat stratégique avec le Qatar.</p>",
-      "date_published": "2026-01-18T21:35:06+00:00",
+      "id": "40b57508838bf9eef81ea7b1edf8c0b720c7829deee7c92514464c8bb21017f9",
+      "url": "https://elpais.com/internacional/2026-01-18/los-sondeos-en-portugal-apuntan-a-una-victoria-del-candidato-socialista-en-las-elecciones-presidenciales.html",
+      "title": "Le socialiste Seguro et l'ultra Ventura s'affronteront au second tour des élections présidentielles au Portugal",
+      "content_html": "Le candidat socialiste António José Seguro, lors d'un événement à Portalegre, le 9.",
+      "date_published": "2026-01-18T22:11:46+00:00",
+      "authors": [
+        {
+          "name": "Tereixa Constenla"
+        }
+      ],
+      "tags": [
+        "Elecciones presidenciales",
+        "Elecciones Portugal",
+        "Portugal",
+        "André Ventura",
+        "PS Portugal",
+        "PSD Portugal",
+        "Chega",
+        "Populismo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8072311ee1a27cbb5013f0664c506406c37825fe9bc925ab640ebd2d5a8fb19b",
+      "url": "https://ici.radio-canada.ca/sports/2221618/senegal-maroc-coupe-afrique-nations",
+      "title": "Le Sénégal est champion de la Coupe d’Afrique des nations face au Maroc",
+      "content_html": "<p>Le Sénégal s&#x27;est imposé en prolongation au bout d&#x27;une finale tendue et controversée à Rabat, dimanche.</p>",
+      "date_published": "2026-01-18T22:06:38+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,19 +46,81 @@
       "lang": "fr"
     },
     {
+      "id": "bc1d3188f18ee074744a0813469f2a32cabf71d731c5def39646d6f0ab98bd6d",
+      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+      "title": "Five dead after high-speed trains collide in Spain",
+      "content_html": "At least five people are dead and dozens more injured after the derailment near the city of Cordoba.",
+      "date_published": "2026-01-18T22:03:41+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2303fbf020e9cedd332ad7b71bfedcf7ff4b3fd06200bd9c15783c15c27d23b1",
+      "url": "https://ici.radio-canada.ca/nouvelle/2221562/carney-groenland-voyage-partenariat-qatar",
+      "title": "Le Canada envisage de dépêcher des soldats au Groenland",
+      "content_html": "<p>Le premier ministre Mark Carney s&#x27;est dit «&nbsp;préoccupé&nbsp;» par les menaces américaines.</p>",
+      "date_published": "2026-01-18T22:00:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "49aee2b2d59a816e0a800b0c3fc4a125591f9d0dcf29291fe33783fd2df67a29",
+      "url": "https://www.dw.com/en/afcon-senegal-snatches-football-cup-from-hosts-morocco/a-75555184?maca=en-rss-en-all-1573-rdf",
+      "title": "AFCON: Senegal snatches football cup from hosts Morocco",
+      "content_html": "Senegal's Papa Gueye scored the decisive goal in the fourth minute of extra time, after a goalless game.",
+      "date_published": "2026-01-18T22:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7d7f51776e87e84e0b1defe8c51782225576e5b2ae8efef7567398aef602fb27",
+      "url": "https://www.france24.com/en/live-news/20260118-senegal-beats-morocco-1-0-in-chaotic-afcon-2025-final",
+      "title": "Senegal beats Morocco 1-0 in chaotic AFCON 2025 final",
+      "content_html": "",
+      "date_published": "2026-01-18T21:59:48+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "337879923a1060991bca4b235018cbb6ca76ca20db349fc3f6d01dc9d56f0c02",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
-      "title": "Australia news live: Marles ‘welcomes’ Trump’s invitation to join ‘board of peace’; new figures show Australians own more than 4.1m firearms",
+      "title": "Australia news live: growing One Nation support reflects ‘licence for an alternative’, Joyce says; Marles ‘welcomes’ Trump’s ‘board of peace’ invitation",
       "content_html": "<p>Deputy prime minister remains coy over whether Australia will join US-backed postwar Gaza panel. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p></p><p><strong>Marles ‘confident about the future of Nato’ despite Trump pressure</strong></p><p>Continuing his media rounds, the deputy PM, <strong>Richard Marles</strong>, is pressed on the government’s response to <strong>Donald Trump</strong>’s tariffs on some European nations, in a bid to take over Greenland.</p><p>Nato has played a very important role and continues to be very strong. I’ve been to the last two Nato meetings representing Australia, and there is a definite sense of unity when you’re at Nato meetings. So I feel confident about the future of Nato.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-01-18T21:29:34+00:00",
+      "date_published": "2026-01-18T21:58:16+00:00",
       "authors": [
         {
           "name": "Krishani Dhanji"
         }
       ],
       "tags": [
-        "Australia news",
         "Australian politics",
+        "Australia news",
         "Labor party",
         "Anthony Albanese",
         "Coalition",
@@ -39,13 +128,130 @@
         "Australian Greens",
         "Bondi beach terror attack",
         "Australian foreign policy",
-        "Australian economy"
+        "Australian economy",
+        "National party"
       ],
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "84e8f47c7b392fa1df162f34844d351f634d652dd8e13619347ba45e9ae4e1c4",
+      "url": "https://www.elmundo.es/internacional/2026/01/18/696d398e21efa036468b4589.html",
+      "title": "Les Groenlandais craignent une invasion économique des États-Unis",
+      "content_html": "Le fils de Donald Trump est l'un des investisseurs dans la première mine de « terres rares » sur l'île arctique",
+      "date_published": "2026-01-18T21:57:13+00:00",
+      "authors": [
+        {
+          "name": "Pablo Pardo, Alberto Di Lolli (Fotos)"
+        }
+      ],
+      "tags": [
+        "Dinamarca",
+        "Estados Unidos",
+        "Donald Trump",
+        "Europa",
+        "Artículos Pablo Pardo",
+        "NLPremium"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4613ac48c9ecf5b9375e6129cfdf5dd07c0151596210cd6b7a53bc021c194030",
+      "url": "https://www.france24.com/fr/sports/20260118-can-2025-envers-et-contre-tout-le-maroc-le-senegal-arrache-sa-2e-%C3%A9toile",
+      "title": "CAN 2025 : envers et contre tout le Maroc, le Sénégal arrache sa 2e étoile",
+      "content_html": "Dans un scénario qui a viré parfois au tragicomique, le Sénégal a remporté la deuxième Coupe d'Afrique de son histoire au nez et à la barbe du Maroc qui jouait à domicile. Un penalty sifflé à la toute fin du temps règlementaire a fait dégénérer la fête avant que les Lions de la Teranga s'imposent lors de la prolongation.",
+      "date_published": "2026-01-18T21:56:15+00:00",
+      "authors": [
+        {
+          "name": "Romain HOUEIX"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b131c979c471c4c8e31d081b29bdbbe5cebf8fa6e6ed6a432a38408bbe77fcae",
+      "url": "https://www.timesofisrael.com/ministerial-committee-advances-bill-to-make-ag-take-lie-detector-test-every-2-years/",
+      "title": "Ministerial committee advances bill to make AG take lie detector test every 2 years",
+      "content_html": "<p>Bill says 'trust in law enforcement is very low' due to leaks, selective enforcement, personal interests, as Otzma Yehudit MK continues coalition push against Gali Baharav-Miara</p>\n<p>The post <a href=\"https://www.timesofisrael.com/ministerial-committee-advances-bill-to-make-ag-take-lie-detector-test-every-2-years/\">Ministerial committee advances bill to make AG take lie detector test every 2 years</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/F250930OBH009-1024x640.jpg\" title=\"Ministerial committee advances bill to make AG take lie detector test every 2 years\" width=\"160\" /></figure>",
+      "date_published": "2026-01-18T21:54:11+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Gali Baharav-Miara",
+        "Attorney General's Office",
+        "Yitzhak Kroizer",
+        "Knesset"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "79a951525533329aa927f6699f3dc30a7557c3f062dd405c22102cf5f2b4c407",
+      "url": "https://ici.radio-canada.ca/nouvelle/2221606/conservateurs-projets-loi-plus-severes-justice",
+      "title": "Les conservateurs demandent des projets de loi encore plus sévères sur la justice",
+      "content_html": "<p>Les libéraux ont présenté à l&#x27;automne trois projets de loi sur la justice qui doivent encore été adoptés.</p>",
+      "date_published": "2026-01-18T21:40:51+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c6dc7036fab6ad0d0ad9ca2c2b7c9a16862d1df1657194d6ce95f8cf97c9f7ba",
+      "url": "https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain",
+      "title": "High-speed train crash in southern Spain leaves 10 reportedly dead",
+      "content_html": "<p>Two trains derail near Adamuz, Cordóba province, leaving scores injured, state-owned broadcaster reports</p><p>Two high-speed trains have derailed in southern Spain, the rail network operator Iryo has said, with police saying 10 people have died.</p><p>Reports from the country’s state-owned broadcaster said that 100 people have been injured – 25 seriously.</p> <a href=\"https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain\">Continue reading...</a>",
+      "date_published": "2026-01-18T21:38:37+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [
+        "Spain",
+        "Train crashes",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "69de5ba86d51775cf9e7b59cfd367b40f5f76f40c9041adee849296132391a6d",
+      "url": "https://www.lemonde.fr/international/live/2026/01/18/en-direct-guerre-en-ukraine-le-negociateur-en-chef-ukrainien-fait-etat-de-discussions-substantielles-avec-les-etats-unis-sur-les-garanties-de-securite-et-la-relance-economique_6663004_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : le négociateur en chef ukrainien fait état de discussions « substantielles » avec les Etats-Unis sur les garanties de sécurité et la relance économique",
+      "content_html": "Le négociateur en chef ukrainien, Rustem Umerov, et le secrétaire à la défense nationale ukrainien lors d’une réunion avec des représentants européens, canadiens et de l’OTAN, à Kiev, le 3 janvier 2026.",
+      "date_published": "2026-01-18T21:31:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
     },
     {
       "id": "093fc139d6b2d5af11f087679cc70cc7f9f37729e2c8d6dbffd9ca95d70d2903",
@@ -231,6 +437,40 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2357d284e814103cd574aff54c35946484363d718189f409f5e5a470c1979f2c",
+      "url": "https://www.bbc.com/news/articles/c87r41j4n4jo?at_medium=RSS&at_campaign=rss",
+      "title": "EU weighs response to Trump's tariff threat over Greenland",
+      "content_html": "Europe is split between hitting back at Trump's tariff threat or holding fire to avoid a damaging trade war.",
+      "date_published": "2026-01-18T21:05:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a18f83039d9cbcd0c8d47f09345d569497f2c1757d301a69cbfb7946840930e7",
+      "url": "https://www.france24.com/fr/europe/20260118-groenland-apr%C3%A8s-les-menaces-de-surtaxes-douani%C3%A8res-de-trump-l-ue-peaufine-sa-riposte",
+      "title": "Groenland : après les menaces de surtaxes douanières de Trump, l'UE peaufine sa riposte",
+      "content_html": "Les huit pays européens menacés de surtaxes douanières par Donald Trump, en raison de leur opposition à ses velléités d'annexer le Groenland, ont assuré dimanche qu'ils resteraient unis, l'Union européenne examinant les différentes ripostes possibles. Le président ​du Conseil européen, Antonio Costa, a ⁠déclaré dimanche avoir décidé de réunir un sommet extraordinaire des dirigeants de ​l'UE \"dans les jours qui viennent\".",
+      "date_published": "2026-01-18T21:05:14+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -499,33 +739,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "40b57508838bf9eef81ea7b1edf8c0b720c7829deee7c92514464c8bb21017f9",
-      "url": "https://elpais.com/internacional/2026-01-18/los-sondeos-en-portugal-apuntan-a-una-victoria-del-candidato-socialista-en-las-elecciones-presidenciales.html",
-      "title": "Le socialiste Seguro et l'ultra Ventura s'affronteront au second tour des élections présidentielles au Portugal",
-      "content_html": "Le candidat socialiste António José Seguro, lors d'un événement à Portalegre, le 9.",
-      "date_published": "2026-01-18T20:20:52+00:00",
-      "authors": [
-        {
-          "name": "Tereixa Constenla"
-        }
-      ],
-      "tags": [
-        "Elecciones presidenciales",
-        "Elecciones Portugal",
-        "Portugal",
-        "André Ventura",
-        "PS Portugal",
-        "PSD Portugal",
-        "Chega",
-        "Populismo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "12ced3aec7f6a9fe4c5add17e1266190839872d316bfb78199a4bd8f885154ea",
@@ -1270,34 +1483,6 @@
       "lang": "en"
     },
     {
-      "id": "4459be6e670d5b2b195d64288de2d8947f79111b912e3dcb53f418e5c0fac1c0",
-      "url": "https://www.theguardian.com/world/2026/jan/18/eu-weighs-tough-restrictions-in-face-of-trump-tariffs-but-appeasement-remains-most-likely-path",
-      "title": "Trump’s tariff shock suggests EU’s strategy of flattery and appeasement has failed",
-      "content_html": "<p>Next few weeks will show if Trump has finally pushed too far with Greenland levies, as calls grow for bloc to take tougher action</p><p>As the sun set over the port of Limassol in Cyprus, the head of the European Commission, Ursula von der Leyen, last Thursday used a tried and tested formula to describe the US – calling it one of “our allies, our partners”. Only 24 hours earlier, Denmark, an EU and Nato member state, had warned that Donald Trump was intent on <a href=\"https://www.theguardian.com/world/2026/jan/14/greenland-us-trump-talks-denmark\">“conquering” Greenland</a>, but the reflex at the top of the EU executive to describe the US as a friend runs deep.</p><p>Trump’s weekend announcement that eight countries that have supported Greenland would face tariffs unless there was a deal to sell the territory to the US was another hammer to the transatlantic alliance, mocking the notion that the US is Europe’s ally. The eight countries include six EU member states, as well as Norway and the UK, the latter unprotected by the much vaunted “<a href=\"https://www.theguardian.com/us-news/2025/sep/18/trump-lauds-special-relationship-between-uk-and-us-as-historic-second-state-visit-sees-thousands-protest\">special relationship</a>”. It suggests that Europe’s strategy of flattering and appeasing the US president has failed.</p> <a href=\"https://www.theguardian.com/world/2026/jan/18/eu-weighs-tough-restrictions-in-face-of-trump-tariffs-but-appeasement-remains-most-likely-path\">Continue reading...</a>",
-      "date_published": "2026-01-18T18:10:35+00:00",
-      "authors": [
-        {
-          "name": "Jennifer Rankin in Brussels"
-        }
-      ],
-      "tags": [
-        "European Union",
-        "Trump tariffs",
-        "Tariffs",
-        "Greenland",
-        "Donald Trump",
-        "US news",
-        "Business",
-        "Europe",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b894e64b1da9befc20e9f88f11367f6bd7194be13004a8b35f2fec68411d7c1e",
       "url": "https://www.ukrinform.net/rubric-polytics/4081633-rutte-discusses-situation-in-greenland-with-trump.html",
       "title": "Rutte discusses situation in Greenland with Trump",
@@ -1840,20 +2025,6 @@
       "lang": "fr"
     },
     {
-      "id": "f319b83e5f08bd90f69be5bf666e255677932877de051d1cba0964a37297a369",
-      "url": "https://www.lemonde.fr/international/live/2026/01/18/en-direct-guerre-en-ukraine-la-russie-poursuit-ses-attaques-sur-les-infrastructures-energetiques-alors-que-le-pays-fait-face-a-des-temperatures-glaciales_6663004_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : le négociateur en chef fait état de discussions « substantielles » avec les Etats-Unis sur les garanties de sécurité et la relance économique",
-      "content_html": "Le négociateur en chef ukrainien, Rustem Umerov, et le secrétaire à la défense nationale ukrainien lors d’une réunion avec des représentants européens, canadiens et de l’OTAN, à Kiev, le 3 janvier 2026.",
-      "date_published": "2026-01-18T16:48:14+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "145c88f0a1e12998966957500687a9826d71e95cf67c12254e4b6ade94bfa74b",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260118-casablanca-le-march%C3%A9-africain-au-rythme-de-la-can-1",
       "title": "Casablanca : le marché africain au rythme de la CAN",
@@ -2247,33 +2418,6 @@
         "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "bc978b2559a95a21caa3513c254c5a25fd4041a226350d2548ec6c9a68ae5fab",
-      "url": "https://www.timesofisrael.com/kurdish-commander-urges-us-to-intervene-in-syria-says-hed-welcome-israeli-help/",
-      "title": "Kurdish commander urges US to intervene in Syria, says he’d welcome Israeli help",
-      "content_html": "<p>Syrian government forces take country's largest oil field despite US call to stop advance, as Kurdish-led SDF withdraws from areas it controlled since pushing out ISIS in 2017</p>\n<p>The post <a href=\"https://www.timesofisrael.com/kurdish-commander-urges-us-to-intervene-in-syria-says-hed-welcome-israeli-help/\">Kurdish commander urges US to intervene in Syria, says he&#8217;d welcome Israeli help</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AP26018397627945-1024x640.jpg\" title=\"Kurdish commander urges US to intervene in Syria, says he&#8217;d welcome Israeli help\" width=\"160\" /></figure>",
-      "date_published": "2026-01-18T15:53:26+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Raqqa",
-        "SDF Syrian Democratic Forces",
-        "YPG Kurdish People's Protection Units",
-        "Syria",
-        "Syrian Observatory for Human Rights",
-        "Tom Barrack",
-        "Syrian Kurds",
-        "Syrian Kurdistan",
-        "Ahmed al-Sharaa",
-        "Deir Ezzor",
-        "Emmanuel Macron"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "26b6ac229b3c1bb42154f321fa23034d5639e967774f21e1eecf3f1d674801e1",
@@ -2714,8 +2858,8 @@
     {
       "id": "9c193564be43aee4abeef6ded2828be64222ffedf73a3bd90334fac3cfeb7d9f",
       "url": "https://www.france24.com/fr/sports/20260118-can-2025-finale-senegal-maroc-direct-live",
-      "title": "CAN 2025. Sénégal - Maroc en direct : après la polémique, le but du Sénégal en prolongation",
-      "content_html": "Après un mois de compétition intense, l’heure de vérité a sonné à Rabat. Le Sénégal et le Maroc s’affrontent dimanche à 20h pour le dernier acte de la CAN 2025, qui va consacrer un cador du continent. Entre des Sénégalais implacables et des Marocains portés par tout un peuple, qui, des Lions de la Teranga ou de l'Atlas, inscrira son nom au palmarès ?",
+      "title": "CAN 2025. Sénégal - Maroc : après un match chaotique, Pape Gueye offre la victoire aux Sénégalais",
+      "content_html": "Après un mois de compétition intense, l’heure de vérité a sonné à Rabat. Le Sénégal s'est imposé face au Maroc en finale après un match de haute volée, perturbé par des incidents graves (1-0 a.p.).",
       "date_published": "2026-01-18T14:30:07+00:00",
       "authors": [
         {
@@ -3405,6 +3549,26 @@
       "lang": "en"
     },
     {
+      "id": "3d0aaa6c23b6268c0ca7e32581c697aa0c50ac1476fc3c80c1dd93b8a37c3505",
+      "url": "https://www.france24.com/en/europe/20260118-europe-hits-back-at-trump-tariff-threat-over-greenland",
+      "title": "'Dangerous downward spiral': Europe hits back at Trump tariff threat over Greenland",
+      "content_html": "The eight European countries targeted by US President Donald Trump with rising tariffs for opposing his plans to annex Greenland hit back at the president, saying they \"stand united\" against Washington's threats. The European Council will call an extraordinary summit of European leaders to discuss the situation in the days to come.",
+      "date_published": "2026-01-18T11:57:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "b98e5081196882d17cd9c171249c98627a958b3de0702d7113ea693510f2fef6",
       "url": "https://www.ukrinform.net/rubric-polytics/4081553-leaders-of-finland-norway-respond-to-us-tariff-threats.html",
       "title": "Leaders of Finland, Norway respond to US tariff threats",
@@ -3749,24 +3913,6 @@
       "lang": "fr"
     },
     {
-      "id": "ba8f3c3336adc1907a0fb6aa7aa8f5680421d28e248aad8bae3e7058e1c9b7ff",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260118-iran-dans-le-grand-bazar-de-t%C3%A9h%C3%A9ran-la-vie-a-repris-son-cours-normal",
-      "title": "Iran : dans le grand bazar de Téhéran, \"la vie a repris son cours normal\"",
-      "content_html": "Le correspondant de France 24 à Téhéran, Siavosh Ghazi, fait le point sur la situation dans le grand bazar de Téhéran.",
-      "date_published": "2026-01-18T10:24:04+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "58b43fc92154746c806ed18b86738bcdd62bd2579f03c5b5a4dea000a842060b",
       "url": "https://www.ukrinform.net/rubric-ato/4081534-russians-attack-seven-settlements-in-donetsk-region-over-past-day-injuries-reported.html",
       "title": "Russians attack seven settlements in Donetsk region over past day; injuries reported",
@@ -3839,24 +3985,6 @@
       "lang": "en"
     },
     {
-      "id": "592626a2af464cf9a8154f88ec59696d94f461ec4615d553f326a735d812496d",
-      "url": "https://www.france24.com/en/eu-ambassadors-hold-emergency-meeting-to-discuss-response-to-us-tariff-threats-over-greenland",
-      "title": "EU ambassadors hold emergency meeting to discuss response to US tariff threats over Greenland",
-      "content_html": "European Union ⁠leaders on Saturday warned of a \"dangerous downward spiral\" over US President Donald Trump's vow to implement increasing tariffs ​on European allies until the US is ‍allowed to buy Greenland. Ambassadors from the European Union's 27 countries will convene on ‍Sunday for an emergency meeting to discuss their response to ‌the ​tariff threat.",
-      "date_published": "2026-01-18T10:03:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5e51309a91c1290c5e31457e481eca3ebc7170dc93aa088997c8a33849db6e06",
       "url": "https://www.lemonde.fr/afrique/article/2026/01/18/en-libye-la-reponse-d-urgence-aux-refugies-soudanais-victime-collaterale-de-la-baisse-de-l-aide-internationale_6663093_3212.html",
       "title": "En Libye, la réponse d’urgence aux réfugiés soudanais, victime collatérale de la baisse de l’aide internationale",
@@ -3911,26 +4039,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "9c506d9c7a40669e72f31e25fa31dad0f31520a3e0edb59c80327f41d4b2511b",
-      "url": "https://www.france24.com/en/asia-pacific/20260118-live-iran-nationwide-protests-official",
-      "title": "At least 5,000 people have been killed during Iran's nationwide protests, official says",
-      "content_html": "Iranian authorities have verified that at least 5,000 people have been killed during nationwide protests, an official told Reuters on Sunday, including some 500 members of the security forces. Thousands marched in cities across Europe on Saturday in solidarity with Iran's anti-government protesters. Read our liveblog to see how the day's events unfolded.",
-      "date_published": "2026-01-18T09:31:58+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asia / Pacific"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "7b67578ac75a1e04bfd05a657d273c90bc1b2496529a0749613cd18ab1d84414",
@@ -5347,7 +5455,7 @@
     {
       "id": "a98b6d32ac57e84061e0bba75f995520653eba8c97dbaf616742aeb3cfd4e7f8",
       "url": "https://elpais.com/internacional/2026-01-17/trump-anuncia-que-impondra-nuevos-aranceles-del-25-a-los-paises-que-participan-en-las-maniobras-en-groenlandia.html",
-      "title": "Trump annonce qu'il imposera de nouveaux droits de douane allant jusqu'à 25% aux pays participant aux manœuvres au Groenland",
+      "title": "Trump annonce qu'il imposera de nouveaux tarifs allant jusqu'à 25% aux pays participant aux manœuvres au Groenland",
       "content_html": "Photographie montrant des antennes de télécommunications de la société Tusass Hovedkontor ce vendredi, à Nuuk (Groenland).",
       "date_published": "2026-01-17T18:44:19+00:00",
       "authors": [
@@ -6161,8 +6269,8 @@
     {
       "id": "35902fc530bcaadad5df21de64fdea9bb3d6fee7c2af9aa29e6f50e7f9e01ba7",
       "url": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
-      "title": "Le maire japonais s'excuse après avoir traité son personnel de « racaille humaine »",
-      "content_html": "Le maire de Yokohama, Takeharu Yamanaka, admet avoir utilisé les termes « idiot » et « racaille humaine » pour dénigrer le personnel.",
+      "title": "Japanese mayor apologises after calling staff 'human scum'",
+      "content_html": "Yokohama mayor Takeharu Yamanaka admits using the terms \"idiot\" and \"human scum\" to disparage staff.",
       "date_published": "2026-01-17T08:08:26+00:00",
       "authors": [],
       "tags": [],
@@ -6170,7 +6278,7 @@
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "eb0b13dd0a3d282b2630dd418287dea4d119e8cce42b69451d0bc972df026a46",
@@ -6211,7 +6319,7 @@
     {
       "id": "5f33f9c5e717676dcbacba6703bf571f165a9ea242b9c471c91116a2681accff",
       "url": "https://www.elmundo.es/internacional/2026/01/17/696b3435fdddff4c718b45c2.html",
-      "title": "Le juge limite les pouvoirs des agents d'immigration du Minnesota et leur ordonne de réduire les « tactiques agressives »",
+      "title": "Un juge limite les pouvoirs des agents d'immigration du Minnesota et leur ordonne de réduire les « tactiques agressives »",
       "content_html": "Alors que la tension monte à Minneapolis, le ministère de la Sécurité intérieure a confirmé qu'un Mexicain de 34 ans est décédé mercredi alors qu'il était en détention par l'ICE.",
       "date_published": "2026-01-17T07:03:24+00:00",
       "authors": [
@@ -6232,7 +6340,7 @@
     {
       "id": "473b032d21664c146ba292bd8f5565c38c99381d04161b14767bdba0bc2a4f36",
       "url": "https://www.elmundo.es/internacional/2026/01/17/696b3160e85ece81358b45af.html",
-      "title": "Les États-Unis annoncent que Tony Blair, Marco Rubio, Steve Witkoff et Jared Kushner formeront le conseil exécutif de Gaza",
+      "title": "Les États-Unis annoncent que Tony Blair, Marco Rubio, Steve Witkoff et Jared Kushner formeront le conseil d'administration de Gaza",
       "content_html": "La liste est complétée par Marc Rowan, directeur d'Apollo Global Management ;Roberto Gabriel, conseiller de Trump ;et Ajay Banga, président de la Banque mondiale",
       "date_published": "2026-01-17T06:51:30+00:00",
       "authors": [
@@ -6272,7 +6380,7 @@
     {
       "id": "6e759bbdd98c02e4683c4c4233531edc0a9487a0ecb0068c0eddbc785c042e03",
       "url": "https://www.elmundo.es/internacional/2026/01/17/696b2f48e9cf4a4a4c8b45bb.html",
-      "title": "Delcy Rodríguez écarte du gouvernement vénézuélien l'homme d'affaires colombien Alex Saab, allié de Maduro et l'un de ses hommes de paille présumés.",
+      "title": "Delcy Rodríguez écarte du gouvernement vénézuélien l'homme d'affaires colombien Alex Saab, allié de Maduro et l'un de ses prétendus hommes de confiance.",
       "content_html": "Saab avait été nommé par Maduro à la tête du ministère de l'Industrie et de la Production nationale en octobre 2024. Il a été arrêté au Cap-Vert en 2020 puis extradé vers les États-Unis.",
       "date_published": "2026-01-17T06:42:48+00:00",
       "authors": [
@@ -6389,39 +6497,11 @@
       "lang": "fr"
     },
     {
-      "id": "1220ee4e529354592d093e972f8c38893101a6029ca4b63d467e2fa68e4e5213",
-      "url": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
-      "title": "Google appeals landmark antitrust verdict over search monopoly",
-      "content_html": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power.",
-      "date_published": "2026-01-17T02:44:48+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "40e2bcd2f7db7af5959f671decf7f95dd208141553831a1099f9a8ffd865e566",
       "url": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
       "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
       "content_html": "Meri-Tuuli Auer told her counsellor things about her life she didn't want her closest family to know.",
       "date_published": "2026-01-17T02:15:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1ddfe4c503c15def1268a5119cf415e106ac01d9a97efece8cd1cbd639a09300",
-      "url": "https://www.bbc.com/news/articles/cp37eerlql1o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's proposed credit card cap spotlights Americans' debt. Would it help?",
-      "content_html": "President Trump's proposal to cap credit card interest rates at 10% - an idea with bipartisan support - received swift backlash from bank executives.",
-      "date_published": "2026-01-17T00:39:26+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -8808,22 +8888,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "185f5c5dcb5a5617750e94cb8f5c4a7216ffe4ce31274de2edd4cdfbe9f3ca0c",
-      "url": "https://www.dw.com/en/croatia-reintroduces-conscription-after-almost-two-decades/a-75472193?maca=en-rss-en-all-1573-rdf",
-      "title": "Croatia reintroduces conscription after almost two decades",
-      "content_html": "Croatia is bringing back compulsory military service for young men for the first time since 2008. What’s behind the shift — and could it signal a wider return of conscription in the Balkans?",
-      "date_published": "2026-01-12T12:23:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
