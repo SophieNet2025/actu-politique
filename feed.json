@@ -5,18 +5,34 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "1eeed7783669031283afad9b5ff333ae4b13d631562c9df83f82abccc13002b1",
-      "url": "https://www.france24.com/en/americas/20260121-us-workers-students-rally-trump-immigration",
-      "title": "Thousands of US workers, students rally against Trump immigration policies",
-      "content_html": "Thousands of US workers and students marched through cities and campuses Tuesday against President Donald Trump’s immigration policies on the first anniversary of his second term, with demonstrations fueled by outrage over the fatal shooting of 37-year-old Renee Good by federal immigration agents in Minneapolis.",
-      "date_published": "2026-01-21T02:49:01+00:00",
+      "id": "aae9b8b2d4417410e8c7429d8e299832e9cbf4667429d8fa2f16f83dd748db4f",
+      "url": "https://www.dw.com/en/elon-musk-mulls-buying-ryanair-amid-spat-with-airline-boss/a-75586269?maca=en-rss-en-all-1573-rdf",
+      "title": "Elon Musk mulls buying Ryanair amid spat with airline boss",
+      "content_html": "Elon Musk has asked his followers on X if he should buy Ryanair after a spat with the European budget airline's outspoken CEO Michael O'Leary.",
+      "date_published": "2026-01-21T03:52:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "767d55554d67439aedb24588cfbf9914a6a84cabba7a7a379b3614ceacc83c48",
+      "url": "https://www.france24.com/en/asia-pacific/20260121-japan-shinzo-abe-assassination-trial",
+      "title": "Japan court to deliver verdict in ex-PM Shinzo Abe assassination trial",
+      "content_html": "The gunman charged with killing Japan’s former prime minister Shinzo Abe faces a verdict on Wednesday, more than three years after the daylight assassination stunned the country, prompting scrutiny of gun laws and alleged links between conservative lawmakers and the Unification Church.",
+      "date_published": "2026-01-21T03:50:21+00:00",
       "authors": [
         {
           "name": "FRANCE 24"
         }
       ],
       "tags": [
-        "Americas"
+        "Asia / Pacific"
       ],
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
@@ -25,11 +41,62 @@
       "lang": "en"
     },
     {
+      "id": "6d77b6115d79699c8af6a9b01ba3f2678c621cdedf4206db3bdc2457e64419c3",
+      "url": "https://www.theguardian.com/world/2026/jan/21/mark-carney-davos-old-world-order-trump-switzerland-greenland",
+      "title": "Mark Carney tells Davos the old world order is ‘not coming back’ as Trump heads to Switzerland",
+      "content_html": "<p>Carney warns US-led global system of governance is enduring ‘a rupture’ as US president flies in for showdown with European leaders over Greenland</p><p>Canadian prime minister Mark Carney has said that the US-led global system of governance is enduring “a rupture,” defined by great power competition and a “fading” rules-based order.</p><p>His speech to political and financial elites at <a href=\"https://www.theguardian.com/business/davos\">the World Economic Forum</a> comes a day before US President Donald Trump was set to address the gathering in Davos, Switzerland.</p> <a href=\"https://www.theguardian.com/world/2026/jan/21/mark-carney-davos-old-world-order-trump-switzerland-greenland\">Continue reading...</a>",
+      "date_published": "2026-01-21T03:48:03+00:00",
+      "authors": [
+        {
+          "name": "Guardian staff and agencies"
+        }
+      ],
+      "tags": [
+        "Mark Carney",
+        "Donald Trump",
+        "Davos",
+        "Greenland",
+        "World news",
+        "US news",
+        "US foreign policy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "95be83611ef7bfaaf54b28695f4ee089f466f726ded17a7113042d691146ae95",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/21/outrageous-epa-waves-through-wa-fracking-project-that-may-add-up-to-26-to-australias-emissions",
+      "title": "‘Outrageous’: EPA waves through WA fracking project that may add up to 2.6% to Australia’s emissions",
+      "content_html": "<p>State environmental regulator says Valhalla project, set to drill up to 20 gas wells in Canning basin, can proceed subject to conditions</p><p>A controversial fracking proposal in Western Australia’s Kimberley region has been recommended for approval by the state’s Environmental Protection Authority, a move criticised as “outrageous” over the project’s potential climate pollution and environmental impacts.</p><p>The EPA on Tuesday recommended that the Valhalla project, which proposes to drill up to 20 gas wells in the Canning basin, proceed subject to certain conditions.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/21/outrageous-epa-waves-through-wa-fracking-project-that-may-add-up-to-26-to-australias-emissions\">Continue reading...</a>",
+      "date_published": "2026-01-21T03:47:48+00:00",
+      "authors": [
+        {
+          "name": "Donna Lu"
+        }
+      ],
+      "tags": [
+        "Western Australia",
+        "Fracking",
+        "Australia news",
+        "Australian Greens",
+        "Energy",
+        "Fossil fuels"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "7e64e13f0497db097b0231d5ca2aceed41c81de52e4082234efc2725f426cb2c",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "title": "Australia news live: former neo-Nazi group leader banned from Sydney CBD on 26 January; Queensland rejects federal gun buyback scheme",
+      "title": "Australia news live: Watt claims rogue Nationals a test of Ley and Littleproud’s leadership; former neo-Nazi group leaders banned from Sydney CBD on Australia Day",
       "content_html": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>CEO of energy company behind Eraring coal power plant says extra two years will help with ‘smooth transition’</strong></p><p><strong>Frank Calabria</strong>, the CEO of Origin energy, spoke with RN this morning after an announcement Australia’s largest coal-fired power plant, Eraring in New South Wales, would stay open for an additional two years until 2029.</p><p>A lot of good progress has been made on the transition, a lot of new infrastructure, a lot of new energy assets behind the meter. This will just enable it [to be a] smoother transition. …</p><p>We’ve made lots of investments, as you would imagine, in large batteries. We’ve got large wind farms underway, so do many other players in the sector. So we’re all aligned about making progress here.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-01-21T02:48:59+00:00",
+      "date_published": "2026-01-21T03:46:40+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -49,6 +116,221 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4dff76d0b823b209895fa558b37b2c01fb6c6977b4974200ba7213fd86ad3273",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/21/teenage-girl-palestinian-flag-jersey-refused-entry-sydney-a-league-game-ntwnfb",
+      "title": "Teenage girl wearing jersey with Palestinian flag refused entry to Sydney A-League game",
+      "content_html": "<p>Girl had to agree to remove Club Deportivo Palestino shirt before being let into Allianz Stadium on Sunday night</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager wearing a football jersey containing the Palestinian flag was refused entry to an A-League match at Sydney’s Allianz Stadium, with a video showing security asking her to remove it if she wanted to go inside.</p><p>The 15-year-old girl was wearing the jersey of Club Deportivo Palestino – a Chilean football club <a href=\"https://www.theguardian.com/world/2014/dec/01/chile-palestine-palestino-football-santiago\">founded by Palestinian migrants</a> – which says “Palestine” on the front.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/21/teenage-girl-palestinian-flag-jersey-refused-entry-sydney-a-league-game-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-01-21T03:46:12+00:00",
+      "authors": [
+        {
+          "name": "Adeshola Ore Community affairs reporter"
+        }
+      ],
+      "tags": [
+        "Sydney",
+        "Palestine",
+        "A-League Men",
+        "Football",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8c5cbdb04a141cd59b2625ee536543ba2ad52ce76769e83af26706bf52b9faa0",
+      "url": "https://www.theguardian.com/us-news/2026/jan/20/lindsey-halligan-us-attorney-leaves-office",
+      "title": "Lindsey Halligan leaves post as US attorney after judges’ sharp criticism",
+      "content_html": "<p>Trump-appointed federal attorney with no prosecutorial experience led failed cases against president’s political foes</p><p>Lindsey Halligan, a Trump-appointed federal attorney who led the failed prosecutions of two of the president’s political opponents, has left her position at the US justice department, attorney general Pam Bondi said on Tuesday.</p><p>The departure of Halligan, who previously served as Trump’s personal attorney, comes after <a href=\"https://apnews.com/article/justice-department-halligan-bondi-blanche-comey-077e5d184351b021e8621d218a395719\">multiple judges</a> have sharply criticized her and cast doubts on her ability to lawfully remain in her position.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/20/lindsey-halligan-us-attorney-leaves-office\">Continue reading...</a>",
+      "date_published": "2026-01-21T03:23:37+00:00",
+      "authors": [
+        {
+          "name": "Sam Levin"
+        }
+      ],
+      "tags": [
+        "US politics",
+        "US justice system",
+        "Trump administration",
+        "Pam Bondi",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a952b9e2f38f5498fe3b3731b2fdae8821e6e1515fb6bce2a8a546241a8ce396",
+      "url": "https://www.aljazeera.com/news/2026/1/21/what-is-bangladeshs-jamaat-e-islami-party-could-it-lead-the-country-next?traffic_source=rss",
+      "title": "What is Bangladesh’s Jamaat-e-Islami party? Could it lead the country next?",
+      "content_html": "For first time in its chequered history, Islamist party has real chance of grabbing power as leader of ruling alliance.",
+      "date_published": "2026-01-21T03:22:14+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e507c9712f720a74d0cdc764b551b0637cfc88352d1c8d942d857c34775f97f9",
+      "url": "https://www.timesofisrael.com/report-eisenkot-proposes-merger-with-lapid-bennett-for-mega-slate-ahead-of-next-election/",
+      "title": "Report: Eisenkot proposes merger with Lapid, Bennett for mega-slate ahead of next election",
+      "content_html": "<p>Israeli TV says former IDF chief believes electoral alliance could net 40 seats in general elections, overtaking Likud as largest party; Bennett challenges Netanyahu to debate</p>\n<p>The post <a href=\"https://www.timesofisrael.com/report-eisenkot-proposes-merger-with-lapid-bennett-for-mega-slate-ahead-of-next-election/\">Report: Eisenkot proposes merger with Lapid, Bennett for mega-slate ahead of next election</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/Untitled-design-e1768965353751-1024x640.jpg\" title=\"Report: Eisenkot proposes merger with Lapid, Bennett for mega-slate ahead of next election\" width=\"160\" /></figure>",
+      "date_published": "2026-01-21T03:18:45+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2026 Israeli elections",
+        "Gadi Eisenkot",
+        "Naftali Bennett",
+        "Yair Lapid"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d394b51e05366684f3597eb12c1c823ebe47e6cfbae436a667a14b7ecb406dfa",
+      "url": "https://www.aljazeera.com/news/2026/1/21/stock-markets-plunge-as-trump-ramps-up-tensions-over-greenland?traffic_source=rss",
+      "title": "Stock markets plunge as Trump ramps up tensions over Greenland",
+      "content_html": "Wall Street has its worst day since October as Trump doubles down on threats to take Greenland.",
+      "date_published": "2026-01-21T03:05:03+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2e975d767bdd4d0fb03c4e9395d2db455a50734bbafe5043a077565ea41eae97",
+      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+      "title": "Driver killed in Spain train crash days after high-speed collision",
+      "content_html": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia.",
+      "date_published": "2026-01-21T03:00:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c4afedfe73dd3d25c1c148b4caf9138699f8a6bc7b6a641950cafd197b996b43",
+      "url": "https://www.ukrinform.net/rubric-economy/4082482-romania-moldova-ukraine-plan-to-create-trilateral-chamber-of-commerce-and-industry.html",
+      "title": "Romania, Moldova, Ukraine plan to create trilateral Chamber of Commerce and Industry",
+      "content_html": "Romania has initiated the future creation of a trilateral Chamber of Commerce and Industry together with Moldova and Ukraine. The idea was voiced at an international conference in Chisinau on January 20.",
+      "date_published": "2026-01-21T03:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2ec0621702ff3352328efe62cb58204ee4bc50fddc8b3e04315d05f5cfde65b0",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/20/donald-trump-supreme-court-tariffs-greenland-ice-immigration-us-politics-live",
+      "title": "Number of Democrats say they will vote against DHS funding bill amid alarm over ICE tactics – as it happened",
+      "content_html": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/20/minnesota-democrats-subpoenas-justice-department\">US justice department subpoenas Minnesota Democrats accused of impeding ICE efforts</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/20/trump-administration-news-latest-updates-today\">Trump news at a glance: Nato’s fate uncertain as president remains intent on seizing Greenland</a></p></li></ul><p>The supreme court did not issue a decision today on the legality of Donald Trump’s sweeping global tariffs.</p><p>It’s not immediately clear the next date the court will issue opinions.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/20/donald-trump-supreme-court-tariffs-greenland-ice-immigration-us-politics-live\">Continue reading...</a>",
+      "date_published": "2026-01-21T02:55:50+00:00",
+      "authors": [
+        {
+          "name": "Cecilia Nowell, Shrai Popat and Lucy Campbell"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US supreme court",
+        "Trump tariffs",
+        "Donald Trump",
+        "Tariffs",
+        "US news",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "596cd7d6514bfb27c6bcda39dcfeae3c07d5dc71d60ca2a4452615d75bc4b865",
+      "url": "https://www.theguardian.com/world/2026/jan/21/new-zealand-prime-minister-sets-date-for-2026-election",
+      "title": "New Zealand prime minister sets date for 2026 election",
+      "content_html": "<p>Cost of living likely to dominate the agenda ahead of 7 November poll as centre-right National party battles to retain power </p><p>The prime minister, Christopher Luxon, has announced New Zealand’s next general election will be held on 7 November, kickstarting a campaign cycle that could become one of the country’s most contested in years.</p><p>On Wednesday, Luxon told reporters the National party would continue its agenda to “fix the basics and build the future”.</p> <a href=\"https://www.theguardian.com/world/2026/jan/21/new-zealand-prime-minister-sets-date-for-2026-election\">Continue reading...</a>",
+      "date_published": "2026-01-21T02:55:35+00:00",
+      "authors": [
+        {
+          "name": "Eva Corlett in Wellington"
+        }
+      ],
+      "tags": [
+        "New Zealand",
+        "New Zealand politics",
+        "Christopher Luxon",
+        "Asia Pacific"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1e8b594e2ee70c3d66da6e83df6877b43e6d5e7eb2418952c25beb1f81433038",
+      "url": "https://www.aljazeera.com/news/2026/1/21/barcelona-rail-crash-kills-one-days-after-deadly-train-wreck-in-spains-south?traffic_source=rss",
+      "title": "Barcelona rail crash kills 1 days after deadly train wreck in Spain’s south",
+      "content_html": "Official says 37 people injured, as Spain observes three days of mourning for 42 killed in earlier train collision.",
+      "date_published": "2026-01-21T02:51:46+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1eeed7783669031283afad9b5ff333ae4b13d631562c9df83f82abccc13002b1",
+      "url": "https://www.france24.com/en/americas/20260121-us-workers-students-rally-trump-immigration",
+      "title": "Thousands rally across US against Trump policies on inauguration anniversary",
+      "content_html": "Thousands of US workers and students marched through cities and campuses Tuesday against President Donald Trump’s policies on the first anniversary of his second term, with demonstrations fueled by outrage over the fatal shooting of 37-year-old Renee Good by federal immigration agents in Minneapolis.",
+      "date_published": "2026-01-21T02:49:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -93,44 +375,38 @@
       "lang": "en"
     },
     {
-      "id": "2ec0621702ff3352328efe62cb58204ee4bc50fddc8b3e04315d05f5cfde65b0",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/20/donald-trump-supreme-court-tariffs-greenland-ice-immigration-us-politics-live",
-      "title": "Number of Democrats say they will vote against DHS funding bill amid alarm over ICE tactics – US politics live",
-      "content_html": "<p>Democrats including Chris Murphy, Ro Khanna and Ilhan Omar say they will not vote for bill amid nationwide outrage over ICE killing of Renee Good</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/20/minnesota-democrats-subpoenas-justice-department\">US justice department subpoenas Minnesota Democrats accused of impeding ICE efforts</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/20/trump-administration-news-latest-updates-today\">Trump news at a glance: Nato’s fate uncertain as president remains intent on seizing Greenland</a></p></li></ul><p>The supreme court did not issue a decision today on the legality of Donald Trump’s sweeping global tariffs.</p><p>It’s not immediately clear the next date the court will issue opinions.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/20/donald-trump-supreme-court-tariffs-greenland-ice-immigration-us-politics-live\">Continue reading...</a>",
-      "date_published": "2026-01-21T02:40:31+00:00",
-      "authors": [
-        {
-          "name": "Cecilia Nowell (now); Shrai Popat and Lucy Campbell (earlier)"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US supreme court",
-        "Trump tariffs",
-        "Donald Trump",
-        "Tariffs",
-        "US news",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2e975d767bdd4d0fb03c4e9395d2db455a50734bbafe5043a077565ea41eae97",
-      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "title": "Driver killed in Spain train crash days after high-speed collision",
-      "content_html": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia.",
-      "date_published": "2026-01-21T02:21:46+00:00",
+      "id": "0269a1bae2d4160271da1e0ea0f2f4579fcec34ffa6c1ad5def169cf5df77e9a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222115/coree-du-nord-20-armes-nucleaires",
+      "title": "Corée du Nord : de quoi fabriquer jusqu’à 20 armes nucléaires par année",
+      "content_html": "<p>La Corée du Nord produit assez de matière nucléaire chaque année pour assembler jusqu&#x27;à 20 armes atomiques.</p><p></p>",
+      "date_published": "2026-01-21T02:41:03+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
+      "lang": "fr"
+    },
+    {
+      "id": "f245cb33dfe6e16c6c932d24eb1c087edbbbae13ca552427b4777d5395672fe2",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260121-au-chili-le-pr%C3%A9sident-%C3%A9lu-kast-confie-la-d%C3%A9fense-et-les-droits-humains-%C3%A0-d-ex-avocats-de-pinochet",
+      "title": "Au Chili, le président élu Kast confie la Défense et les Droits humains à d'ex-avocats de Pinochet",
+      "content_html": "José Antonio Kast, le président élu d'extrême droite au Chili, a présenté mardi son cabinet ministériel. Deux anciens avocats du dictateur Augusto Pinochet (1973-1990) ont été nommés à la Défense et aux Droits humains. Les familles des victimes de la dictature sont écourées.",
+      "date_published": "2026-01-21T02:35:13+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "373096c52d4a68a9bcf70c828df30d558818e3fa9ba1f90f5af09803b64c783e",
@@ -403,58 +679,9 @@
       "lang": "en"
     },
     {
-      "id": "887eff18ef33bbf2d8a489b49f8db1ab4998a5a8d7d299a8d2f4622ab4502fac",
-      "url": "https://www.theguardian.com/australia-news/2026/jan/21/nationals-coalition-frontbench-sussan-ley-hate-speech-bill",
-      "title": "Nationals frontbenchers who crossed floor on hate speech vote say Sussan Ley to decide their fate",
-      "content_html": "<p>Ross Cadell, Bridget McKenzie and Susan McDonald breached shadow cabinet solidarity rules, challenging authority of Ley and Nationals leader David Littleproud</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Nationals frontbenchers Ross Cadell and Bridget McKenzie say the opposition leader, Sussan Ley, must decide their futures in shadow cabinet, after they crossed the floor to vote against <a href=\"https://www.theguardian.com/australia-news/2026/jan/20/labor-albanese-hate-speech-laws-expected-pass-parliament\">Labor’s hate speech bill</a>.</p><p>The pair, along with the shadow resources minister, Susan McDonald, voted against the Coalition’s position on the contentious legislation, a breach of shadow cabinet solidarity rules. McDonald’s position is less clear.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/21/nationals-coalition-frontbench-sussan-ley-hate-speech-bill\">Continue reading...</a>",
-      "date_published": "2026-01-21T01:21:31+00:00",
-      "authors": [
-        {
-          "name": "Tom McIlroy, Krishani Dhanji and Dan Jervis-Bardy"
-        }
-      ],
-      "tags": [
-        "Coalition",
-        "Australian politics",
-        "Sussan Ley",
-        "David Littleproud",
-        "National party",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f05e1985be44f5e6cf2dc2bf691d81597b8beab29eac2e3fffa7f2b4ceeb6182",
-      "url": "https://www.theguardian.com/environment/2026/jan/21/nielsen-park-shark-attack-victim-sydney-harbour-vaucluse-nsw",
-      "title": "Family of 12-year-old Sydney Harbour shark attack victim prepare for ‘worst possible outcome’",
-      "content_html": "<p>Close family friend says Nico Antic had ‘devastating injuries’ and was fighting for his life after more than 60 hours in hospital</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><br />\n The family of the 12-year-old who was attacked by a shark in Sydney Harbour are grieving as they contemplate “the worst possible outcome”.</p><p>The boy, named as Nico Antic in an online fundraiser, has been fighting for his life after being bitten on both legs on 18 January at a <a href=\"https://www.theguardian.com/australia-news/2026/jan/18/boy-fighting-for-life-after-being-bitten-by-shark-at-nielsen-park-in-sydneys-east\">harbour beach in Vaucluse</a>, in Sydney’s east.</p> <a href=\"https://www.theguardian.com/environment/2026/jan/21/nielsen-park-shark-attack-victim-sydney-harbour-vaucluse-nsw\">Continue reading...</a>",
-      "date_published": "2026-01-21T01:15:19+00:00",
-      "authors": [
-        {
-          "name": "Luca Ittimani and Daisy Dumas"
-        }
-      ],
-      "tags": [
-        "Sharks",
-        "Marine life",
-        "Sydney",
-        "New South Wales",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "95d26be4a8222f8a86ae92b2bc70843b6a47bca87c17e5bc03e50fc6dd8a9ae1",
       "url": "https://www.aljazeera.com/news/2026/1/21/us-seizes-a-seventh-venezuela-linked-oil-tanker?traffic_source=rss",
-      "title": "US seizes a seventh Venezuela-linked oil tanker",
+      "title": "US forces seize a seventh Venezuela-linked oil tanker",
       "content_html": "US has moved to assert strict control over production and sale of Venezuelan oil since attacking the country this month.",
       "date_published": "2026-01-21T01:10:08+00:00",
       "authors": [],
@@ -536,6 +763,20 @@
       "lang": "en"
     },
     {
+      "id": "81858a2e076d8486339d4c3887ea35b34e0bde0509446d9b6bd0f94e9167d817",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222075/plomb-usine-terrapure-sainte-catherine",
+      "title": "Contaminations à l’usine de Terrapure : Sainte-Catherine demande une rencontre d’urgence",
+      "content_html": "<p>La Ville de Sainte-Catherine veut faire le point sur la situation environnementale et sanitaire de Terrapure.</p>",
+      "date_published": "2026-01-21T00:31:36+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "92ad13f711da381d6d22a3139d4fc297378951f7da8f8fef735ce2bc34a41785",
       "url": "https://www.ukrinform.net/rubric-society/4082247-orphaned-ukrainian-children-attend-witch-of-konotop-performance-in-odz.html",
       "title": "Orphaned Ukrainian children attend “Witch of Konotop” performance in Łódź",
@@ -548,30 +789,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b93ef2d0c8498161bfb886a55cb0498559a5f8bf1ddcb3a3bd38f461e19235cb",
-      "url": "https://www.theguardian.com/us-news/2026/jan/20/trump-press-conference-nato-greenland",
-      "title": "Rambling Trump runs through his achievements as worried world watches on",
-      "content_html": "<p>The ‘very stable genius’ zigzagged wildly in a packed press room – Nato’s future lies in the hands of a modern Caligula</p><p>“I was quite the baseball player, you wouldn’t believe,” said <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, suddenly wistful as he recalled his salad days when his mother would tell him, “Son, you could be a professional baseball player,” and he would reply, “Thanks, mom.” <em>Carpe diem!</em></p><p>Not for the first time on Tuesday, the US president had veered wildly off topic. The point of this story was a “big building” that “loomed over the park” in Queens, New York, where he used to play little league baseball. When he asked why it had bars on the windows, she told him it was a mental hospital.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/20/trump-press-conference-nato-greenland\">Continue reading...</a>",
-      "date_published": "2026-01-21T00:26:06+00:00",
-      "authors": [
-        {
-          "name": "David Smith in Washington"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Trump administration",
-        "US politics",
-        "US news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -618,30 +835,6 @@
       "lang": "fr"
     },
     {
-      "id": "ff570a99cde1a350f73ace5c3be5e9e5ff6e2e90a8c146d38d03b72e846ef0cd",
-      "url": "https://www.theguardian.com/us-news/2026/jan/20/timothy-busfield-child-sex-abuse-case",
-      "title": "Judge orders release of actor Timothy Busfield pending child sex abuse case",
-      "content_html": "<p>Emmy award winner faces charges of inappropriately touching a minor while on set directing a TV series</p><p>A judge has ordered that actor Timothy Busfield be released from jail during a detention hearing on child sex abuse charges .</p><p>The order Tuesday by state district court judge David Murphy is linked to accusations that Busfield inappropriately touching a minor while working as a director on the set of the series The Cleaning Lady.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/20/timothy-busfield-child-sex-abuse-case\">Continue reading...</a>",
-      "date_published": "2026-01-21T00:13:15+00:00",
-      "authors": [
-        {
-          "name": "Associated Press"
-        }
-      ],
-      "tags": [
-        "US news",
-        "Television",
-        "Rape and sexual assault",
-        "US crime",
-        "New Mexico"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "52c10b7765ff02d237e23c9e24ac16471b1a466c05682b9efedbd59c44aaf6c8",
       "url": "https://www.dw.com/en/venezuela-receives-300m-in-proceeds-from-first-us-oil-sale/a-75585844?maca=en-rss-en-all-1573-rdf",
       "title": "Venezuela receives $300M in proceeds from first US oil sale",
@@ -680,36 +873,6 @@
         "UK news",
         "US news",
         "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a3fb6ced7aa80c0533a2cc83e4de4267b1d4f5b63c0d182e09ee137ceaf6869b",
-      "url": "https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs",
-      "title": "‘Crunch time’ on rising costs of Send provision in England, says thinktank",
-      "content_html": "<p>IFS says system failing to deliver for those who need it and ministers face stark choices with white paper imminent</p><p>The government is facing “crunch time” over the rising costs and failures of special needs education for children in England, according to a report by the Institute for Fiscal Studies.</p><p>The IFS said government spending on educating children with special needs would double between 2015 and 2028, “squeezing funding” for mainstream schools as a result.</p> <a href=\"https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs\">Continue reading...</a>",
-      "date_published": "2026-01-21T00:01:46+00:00",
-      "authors": [
-        {
-          "name": "Richard Adams Education editor"
-        }
-      ],
-      "tags": [
-        "Special educational needs",
-        "Education policy",
-        "School funding",
-        "Schools",
-        "Children",
-        "Institute for Fiscal Studies",
-        "Education",
-        "England",
-        "UK news",
-        "Politics",
-        "Society"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -759,6 +922,36 @@
         "Conservation",
         "UK news",
         "England"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a3fb6ced7aa80c0533a2cc83e4de4267b1d4f5b63c0d182e09ee137ceaf6869b",
+      "url": "https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs",
+      "title": "‘Crunch time’ on rising costs of Send provision in England, says thinktank",
+      "content_html": "<p>IFS says system failing to deliver for those who need it and ministers face stark choices with white paper imminent</p><p>The government is facing “crunch time” over the rising costs and failures of special needs education for children in England, according to a report by the Institute for Fiscal Studies.</p><p>The IFS said government spending on educating children with special needs would double between 2015 and 2028, “squeezing funding” for mainstream schools as a result.</p> <a href=\"https://www.theguardian.com/education/2026/jan/21/crunch-time-send-special-needs-education-england-ifs\">Continue reading...</a>",
+      "date_published": "2026-01-21T00:01:46+00:00",
+      "authors": [
+        {
+          "name": "Richard Adams Education editor"
+        }
+      ],
+      "tags": [
+        "Special educational needs",
+        "Education policy",
+        "School funding",
+        "Schools",
+        "Children",
+        "Institute for Fiscal Studies",
+        "Education",
+        "England",
+        "UK news",
+        "Politics",
+        "Society"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -1013,7 +1206,7 @@
       "id": "5d3ef11804ee1b41ff15efbd3450ba3c273e2e7c1a4a567ec616890e3b00861b",
       "url": "https://www.elmundo.es/internacional/2026/01/21/696fbe0de9cf4af37f8b4579.html",
       "title": "Trump arrive au Forum économique mondial avec un « Conseil de la paix » alternatif à l'ONU pour résoudre les conflits",
-      "content_html": "Il fait pression pour recruter des membres et vend aux enchères les sièges permanents d'un \"organe agile et efficace\" qu'il contrôlerait entièrement, même s'il cessait d'être président.",
+      "content_html": "Il fait pression pour recruter des membres et vend aux enchères les sièges permanents d'un \"organisme agile et efficace\" qu'il contrôlerait entièrement, même s'il cessait d'être président.",
       "date_published": "2026-01-20T23:08:48+00:00",
       "authors": [
         {
@@ -1176,8 +1369,8 @@
     {
       "id": "d2154c590c711071c840902466bfcfdba3ee90bd1486f7750b16debe19d08ce6",
       "url": "https://www.france24.com/en/sport/20260120-mbappe-vinicius-real-madrid-monaco-champions-league",
-      "title": "Champions League: Mbappe scores twice as Real Madrid thrash Monaco",
-      "content_html": "Kylian Mbappe struck twice against former club Monaco as Real Madrid cruised to a 6-1 Champions League win on Tuesday, easing pressure at the club. Vinicius Junior also scored as new coach Alvaro Arbeloa claimed a second victory and Madrid boosted hopes of a top-eight league-phase finish.",
+      "title": "Champions League: Man City humiliated as holders PSG stumble and Arsenal stay perfect",
+      "content_html": "Manchester City suffered one of the biggest shocks in Champions League history on Tuesday, losing 3-1 at Norway’s Bodo/Glimt, while holders Paris Saint-Germain were beaten late by Sporting Lisbon. Gabriel Jesus struck as Arsenal stayed perfect in the league phase.",
       "date_published": "2026-01-20T22:39:44+00:00",
       "authors": [
         {
@@ -1736,20 +1929,6 @@
       "lang": "en"
     },
     {
-      "id": "ffdc3a37452172ec9f4e9f8bb529bbb46fef17d9ccbb3f741cfc54cdf27229fe",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2221926/ski-alpin-slalom-grenier-scheib",
-      "title": "Julia Scheib remporte le slalom géant de Kronplatz, Valérie Grenier 9e",
-      "content_html": "<p>La Franco-Ontarienne Valérie Grenier termine à 2,24&nbsp;secondes de la gagnante.</p>",
-      "date_published": "2026-01-20T20:42:32+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "09b93abcab3398237da820b82f6ecaa9d464f6572648a59cd73475cf41b2aff1",
       "url": "https://www.france24.com/en/africa/20260120-fans-flood-dakar-streets-for-senegal-s-jubilant-afcon-victory-parade",
       "title": "Fans flood Dakar streets for Senegal’s jubilant AFCON victory parade",
@@ -2085,20 +2264,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "54ad8015a0c10ed8855d5924c4a4914847c1c07ea26c9bec3b66fee5be6d0ce3",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221890/immeubles-sans-chauffage-kiev-attaque-russe",
-      "title": "Près de 600 000 Ukrainiens forcés de quitter Kiev, sans chauffage ni électricité",
-      "content_html": "<p>Moscou utilise l&#x27;hiver comme une arme en détruisant les infrastructures énergétiques ukrainiennes.</p>",
-      "date_published": "2026-01-20T19:56:03+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -3325,20 +3490,6 @@
       "lang": "en"
     },
     {
-      "id": "9e8f57c0291392f3b4cf15a9a757d345f2b27eaf51fd5c3f8d1d5eba2e329bbe",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221891/confirmation-identite-corps-susana",
-      "title": "Comparution du présumé meurtrier de Susana Rocha Cruz",
-      "content_html": "<p>Son conjoint, le présumé meurtrier, a comparu au palais de justice de Québec mardi matin. </p>",
-      "date_published": "2026-01-20T17:18:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c22e50144f653d1d5a691bded43b025fea63a364a105fd9476f6e08a702426af",
       "url": "https://elpais.com/internacional/2026-01-20/la-extrema-derecha-holandesa-de-wilders-se-quiebra-tras-los-malos-resultados-electorales-de-octubre.html",
       "title": "L'extrême droite néerlandaise de Wilders se brise après les mauvais résultats des élections d'octobre",
@@ -3551,20 +3702,6 @@
       "lang": "en"
     },
     {
-      "id": "6e71a8c566415d40896c369da309aa2bd352e4d33ee4af393bdc01064efd8ede",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221762/vol-cuivre-clarendon-welsford-bell",
-      "title": "Des clients de Bell sans service depuis 15 jours en raison d’un vol de cuivre",
-      "content_html": "<p>Quelqu&#x27;un a volé plus d’un kilomètre de câble de l’entreprise dans le sud-ouest de la province.</p>",
-      "date_published": "2026-01-20T17:05:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "682df8a063df1a2ab0ec113f1224181fb3fac9f34957ab05e395ca7cd42b4882",
       "url": "https://www.liberation.fr/international/moyen-orient/syrie-les-kurdes-abandonnent-le-camp-dal-hol-et-reculent-sur-tous-les-fronts-20260120_5762ETPQMBH63B2Q26XTQS7SRA/",
       "title": "Syrie : les Kurdes abandonnent le camp d’Al-Hol et acceptent un cessez-le-feu de quatre jours",
@@ -3617,27 +3754,6 @@
       "lang": "en"
     },
     {
-      "id": "a51ec0ca7d67e34a093c976607efa22957f00c1a718a4f83948128d9a999f0ed",
-      "url": "https://www.timesofisrael.com/uae-belarus-accept-offer-to-join-trumps-board-of-peace-norway-uk-voice-concerns/",
-      "title": "UAE, Belarus accept offer to join Trump’s Board of Peace; Norway, UK voice concerns",
-      "content_html": "<p>Qatar pushes back against Israeli criticism over its involvement, joins Abu Dhabi in endorsing plan as best option for Palestinians; Hamas officials said preparing to depart Gaza</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uae-belarus-accept-offer-to-join-trumps-board-of-peace-norway-uk-voice-concerns/\">UAE, Belarus accept offer to join Trump&#8217;s Board of Peace; Norway, UK voice concerns</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/05/AFP__20250515__46TY26X__v1__HighRes__UaeUsDiplomacySummit-1024x640.jpg\" title=\"UAE, Belarus accept offer to join Trump&#8217;s Board of Peace; Norway, UK voice concerns\" width=\"160\" /></figure>",
-      "date_published": "2026-01-20T17:02:55+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Board of Peace",
-        "Trump's 20-point plan for Gaza",
-        "2023-2025 Israel-Hamas war",
-        "UAE United Arab Emirates",
-        "Qatar"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fecdaedb15b364d27d09cd778427fc99f9d48f1b87aa3219700f639448f7dc1a",
       "url": "https://www.aljazeera.com/gallery/2026/1/20/doha-hosts-maritime-defence-exhibition-amid-rising-regional-tensions?traffic_source=rss",
       "title": "Doha hosts maritime defence exhibition amid rising regional tensions",
@@ -3646,22 +3762,6 @@
       "authors": [],
       "tags": [
         "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "db2eb7960be54d02f3809985a79289eb35a8ba7038b76fa6556db70cb476b712",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/20/live-inter-milan-vs-arsenal-uefa-champions-league?traffic_source=rss",
-      "title": "Inter Milan vs Arsenal 1-3: UEFA Champions League – as it happened",
-      "content_html": "All the updates, with post-match interviews and our text commentary stream of the UCL league phase game.",
-      "date_published": "2026-01-20T17:00:47+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
       ],
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -3794,24 +3894,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "112cde4a51c369f925fe19c5b8d4a81de51bfabb275c7e4f97271099c1eef8eb",
-      "url": "https://www.france24.com/en/france-s-pm-invokes-article-49-3-to-force-through-budget-bill",
-      "title": "France's PM invokes Article 49.3 to force through budget bill",
-      "content_html": "French PM Sébastien Lecornu on Tuesday forced part of of a highly-contested budget bill through parliament without a vote by invoking Article 49.3 of the Constitution. FRANCE 24's James André said two votes of no-confidence are expected, one by the hard left France Unbowed party and the other by the far-right National Rally party.",
-      "date_published": "2026-01-20T16:40:12+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "2499d97bf0187519edd0b430684181890348e4e3de29a655a29dfe64e549341a",
@@ -3966,22 +4048,6 @@
       "lang": "en"
     },
     {
-      "id": "39bf4ce6eb49c86cf6e78bef029596d7dc17f1b0e79ae25b33307da57c209929",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss",
-      "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
-      "content_html": "EU chief Ursula von der Leyen questioned Donald Trump’s trustworthiness after his proposed tariffs over Greenland.",
-      "date_published": "2026-01-20T16:28:57+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ad5bfa38fc0b4e868211f76d516be20e611180b755eaf691acb8e7726eaf1d15",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260120-%F0%9F%87%BA%F0%9F%87%B8%F0%9F%8E%A4-pourquoi-la-musique-country-n-a-jamais-%C3%A9t%C3%A9-aussi-populaire-aux-%C3%A9tats-unis",
       "title": "🇺🇸🎤 Pourquoi la musique country n'a jamais été aussi populaire aux États-Unis ?",
@@ -3998,22 +4064,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "4019e6b23d1ad392fcfad2a1ad80ecb1f5f364726554503a1987d34d26186e9b",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss",
-      "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
-      "content_html": "Shaza Abu Jarad became the ninth child in Gaza to die from cold weather this winter amid Israeli aid restrictions.",
-      "date_published": "2026-01-20T16:22:49+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "fa196ec80bedcd1cabc701e7bbc8007f8a3c38c2c84bd0a29f02f8dbf713fd9f",
@@ -4392,24 +4442,6 @@
       "lang": "fr"
     },
     {
-      "id": "28d10018f5a2d5abd1c52f0c758dc4a41477e2d39a4adf892177ff3199d3acb7",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260120-grande-parade-dans-les-rues-de-dakar-les-s%C3%A9n%C3%A9galais-f%C3%AAtent-leur-victoire-%C3%A0-la-can",
-      "title": "Grande parade dans les rues de Dakar : les Sénégalais fêtent leur victoire à la CAN",
-      "content_html": "Les joueurs de l'équipe de football sénégalaise, sacrés champions d'Afrique des nations dimanche, entament leur grande parade populaire à travers la capitale Dakar pour fêter leur triomphe, où des milliers de Sénégalais fous de joie les célèbrent sur leur itinéraire dans une ambiance survoltée.",
-      "date_published": "2026-01-20T15:26:39+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "1f7992a87d3a1f590882836afc4b8f2c50367f6e17d63e75e89e382eabf26d44",
       "url": "https://www.ukrinform.net/rubric-polytics/4082367-babis-is-surprised-by-reaction-to-his-governments-decision-to-refuse-sale-of-aircraft-to-ukraine.html",
       "title": "Babis surprised by reaction to his government's decision to refuse sale of aircraft to Ukraine",
@@ -4560,20 +4592,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "4682df051ea5e5a413b420d8a29498888ed1b5bf7b8383ea66dfd58483b1c271",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2221921/bapteme-olympique-arbitrage-patinage-vitesse",
-      "title": "Baptême du feu aux Jeux après 32 ans d’arbitrage en patinage de vitesse",
-      "content_html": "<p>Michel Dumont a été sélectionné pour jouer le rôle d’arbitre en chef du courte piste.</p>",
-      "date_published": "2026-01-20T14:43:36+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "68b663539539add683349353a0e7e0007e89db83c9b3764b8121ad67b5e7fbb4",
@@ -4746,20 +4764,6 @@
       "lang": "fr"
     },
     {
-      "id": "8b897d284bd37001c61bcedc2383b26e1225a8ce47464a3abf8f367881ba73fb",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221897/tuerie-barrhaven-dhanushka-wickramasinghe-ottawa",
-      "title": "Tuerie de Barrhaven : résidences permanentes approuvées pour la famille du survivant",
-      "content_html": "<p>Le Canada a approuvé la demande de résidence permanente du frère et du père de Dhanushka Wickramasinghe.</p>",
-      "date_published": "2026-01-20T14:07:29+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0c218adef34985bf188cb2d01c008e21481b60aaee67535162b00cd552d1a1d6",
       "url": "https://www.lefigaro.fr/international/vladimir-poutine-a-t-il-rate-le-coche-du-partenariat-avec-donald-trump-20260119",
       "title": "Vladimir Poutine a-t-il raté le coche du partenariat avec Donald Trump?",
@@ -4826,25 +4830,9 @@
       "lang": "en"
     },
     {
-      "id": "8a782b3a4b753a1e493a8f66d6fed460e4ea43c21d8dda0b520cf228b6516e80",
-      "url": "https://www.ukrinform.net/rubric-polytics/4082337-ukraine-has-not-yet-received-invitation-to-g7-meeting-in-france-on-january-22-zelensky.html",
-      "title": "Ukraine has not yet received invitation to G7 meeting in France on January 22 – Zelensky",
-      "content_html": "Ukraine has so far not received an invitation from French President Emmanuel Macron to join the Group of Seven meeting scheduled to take place on Thursday, January 22, in Paris; however, he expects such an invitation.",
-      "date_published": "2026-01-20T13:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3444a8ec58a7017fe194bcdd04f8785eb77169ea55fb5636ce0bdeb0348621a5",
       "url": "https://elpais.com/internacional/2026-01-20/el-reino-unido-da-luz-verde-a-una-superembajada-china-en-londres-que-despierta-recelos-en-estados-unidos.html",
-      "title": "Le Royaume-Uni donne son feu vert à une « super ambassade » chinoise à Londres qui éveille des soupçons aux États-Unis",
+      "title": "Le Royaume-Uni donne son feu vert à une « super ambassade » chinoise à Londres qui éveille les soupçons aux États-Unis",
       "content_html": "Des policiers devant le Royal Post Office, siège de la future « super-ambassade » chinoise à Londres, le 17 janvier.",
       "date_published": "2026-01-20T13:42:37+00:00",
       "authors": [
@@ -4989,20 +4977,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "585bd9d5711feb675f6c25bcd4fce965c8731c6fdfe476b21464545c097d813f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221898/voiture-immeuble-collision-montreal-ouest",
-      "title": "Une voiture termine sa course dans un immeuble résidentiel à Montréal",
-      "content_html": "<p>Une femme a été blessée ainsi que le conducteur du véhicule qui s&#x27;est littéralement encastré dans le bâtiment.</p>",
-      "date_published": "2026-01-20T12:58:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5424,20 +5398,6 @@
       "lang": "en"
     },
     {
-      "id": "8f3eb8437f270dcdbc1a020ab562ab07290dfff33cd660b193b1666ee06efd81",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221043/ouragan-melissa-jamaique-electricite-acadien",
-      "title": "Des monteurs de lignes acadiens aident à rebrancher la Jamaïque",
-      "content_html": "<p>Des Acadiens participent à la reconstruction des régions dévastées par l&#x27;ouragan Melissa en Jamaïque en 2025.</p>",
-      "date_published": "2026-01-20T09:55:26+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "141a66e466034408cb3a46e7ecc103eca4455b42259168570ebcbb18c7998764",
       "url": "https://www.themoscowtimes.com/2026/01/20/denmark-threatens-to-seize-russian-embassy-in-copenhagen-ambassador-says-a91722",
       "title": "Denmark Threatens to Seize Russian Embassy in Copenhagen, Ambassador Says",
@@ -5608,20 +5568,6 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2221318/tarifs-douaniers-impacts-entreprises-exportations",
       "title": "Tarifs : des entreprises ébranlées, mais un effet global moins important que prévu",
       "content_html": "<p>Le Canada connaît une baisse générale de ses exportations, mais a évité la récession initialement redoutée.</p>",
-      "date_published": "2026-01-20T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8e815ead82f4357e4c1bcf2c6867ed2fdb7193dfc0c0e8f7ca376267fa6a8ad9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221818/temps-ecran-loisirs-etude-hausse-adultes-montreal",
-      "title": "Le temps d’écran lié aux loisirs en hausse chez les adultes montréalais",
-      "content_html": "<p>Près du quart des adultes montréalais consacrent plus de 4&nbsp;heures par jour aux loisirs sur différents écrans.</p>",
       "date_published": "2026-01-20T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -6085,48 +6031,6 @@
       "lang": "fr"
     },
     {
-      "id": "fc97a2bbec0663bd9848e843aa17f6dec78273887be0b33bf68b7a8b65576246",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221880/marine-le-pen-proces-assistants-parlementaires",
-      "title": "Procès en appel du Rassemblement national : Marine Le Pen à la barre",
-      "content_html": "<p>Des salariés du Rassemblement national auraient été payés avec de l&#x27;argent du Parlement européen.</p>",
-      "date_published": "2026-01-20T03:16:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "03b4a97b2a5fc405bcf95c7c0fe3c64908e9cb95ae582d56fe0dfa1fe0cceb76",
-      "url": "https://ici.radio-canada.ca/sports/2221878/leylah-annie-fernandez-melbourne-tjen-internationaux-australie",
-      "title": "Leylah Annie Fernandez surprise au premier tour à Melbourne",
-      "content_html": "<p>Leylah Annie Fernandez s&#x27;est inclinée en deux manches de 6-2 et 7-6 (7/1) devant Janice Tjen. </p>",
-      "date_published": "2026-01-20T02:43:40+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "300a1e480a4e8fe0a5826bff95e7b96fb0542c44492f9499b6114c275cd0ef70",
-      "url": "https://ici.radio-canada.ca/sports/2221876/match-etoiles-nba-gilgeous-alexander",
-      "title": "Match des étoiles de la NBA : SGA dans une équipe « reste du monde » très relevée",
-      "content_html": "<p>Le Canadien jouera notamment avec Giannis Antetokounmpo, Nikola Jokic, Luka Doncic et Victor Wembanyama.</p>",
-      "date_published": "2026-01-20T02:17:27+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b672566825f62cdcc5e6bea578f0ee019c54ac5f764c8ef7c8ee17485cc61f09",
       "url": "https://www.bbc.com/news/videos/cly9kdklzrlo?at_medium=RSS&at_campaign=rss",
       "title": "More than 100 vehicles pile up on US motorway after crash",
@@ -6180,20 +6084,6 @@
       "lang": "fr"
     },
     {
-      "id": "1d3bf3ff4ea38fb0b9f82c5a717c13798cb13d8d502218da7b66cd3a62cb2ac6",
-      "url": "https://ici.radio-canada.ca/nouvelle/2221812/greve-massif-charlevoix-saison",
-      "title": "Faute d’entente avec ses employés, le Massif de Charlevoix met fin à sa saison",
-      "content_html": "<p>Les syndiqués ont rejeté l&#x27;hypothèse de règlement soumise par le conciliateur et le recours à l&#x27;arbitrage. </p>",
-      "date_published": "2026-01-20T00:37:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "606147a52e6b0b1a76efe06d003b6884bb3d3d048eb704421d51f89b7f2a8f69",
       "url": "https://www.bbc.com/news/articles/cgqelez1kwwo?at_medium=RSS&at_campaign=rss",
       "title": "Nigeria's renowned master wood carver and the fertility goddess",
@@ -6211,7 +6101,7 @@
       "id": "d626fc81bc6e3c6020c7c7bbd482079c9e6f3fd4800c9da045e14deb178b0e52",
       "url": "https://www.elmundo.es/internacional/2026/01/20/696e79b5fc6c83e3608b459b.html",
       "title": "Il y a encore 11 Espagnols dans les cachots politiques du chavisme",
-      "content_html": "Des proches et des étudiants prennent le pouls du régime de Delcy Rodríguez devant ses prisons",
+      "content_html": "Parents et étudiants prennent le pouls du régime de Delcy Rodríguez devant ses prisons",
       "date_published": "2026-01-20T00:21:02+00:00",
       "authors": [
         {
@@ -6421,7 +6311,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "557ebffb84cec4ee38037fea5c76ffac822504ec6aa780520b3b197961e8195b",
@@ -7043,31 +6933,6 @@
       "lang": "en"
     },
     {
-      "id": "ce359969a2408893792abddae6400e878344a6859bc7629791a30b5ba0345bbf",
-      "url": "https://www.theguardian.com/world/2026/jan/19/china-population-falls-again-birthrate-record-low",
-      "title": "China’s population falls again as birthrate drops 17% to record low",
-      "content_html": "<p>Fourth year of decline deepens concerns over ageing, shrinking workforce and long-term economic impact</p><p>China’s population fell for a fourth consecutive year in 2025 as the birthrate plunged to another record low despite the introduction of polices aimed at encouraging people to have children.</p><p>Registered births dropped to 7.92 million in 2025 – or 5.63 for every 1,000 members of the population – down 17% from 9.54 million in 2024, and the lowest since records began in 1949.</p> <a href=\"https://www.theguardian.com/world/2026/jan/19/china-population-falls-again-birthrate-record-low\">Continue reading...</a>",
-      "date_published": "2026-01-19T12:12:38+00:00",
-      "authors": [
-        {
-          "name": "Amy Hawkins and agencies"
-        }
-      ],
-      "tags": [
-        "China",
-        "Population",
-        "Asia Pacific",
-        "World news",
-        "Chinese economy",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c5c97397d882a3c27864fd6f69e6bd7d69748392de5f4f18efd57fc5cc92ed20",
       "url": "https://www.liberation.fr/idees-et-debats/tribunes/leurope-nest-pas-morte-elle-a-impose-un-rapport-de-force-a-donald-trump-par-bernard-guetta-20260119_V77JU7MYXRETLIZCU25VFUNKQ4/",
       "title": "L’Europe n’est pas morte, elle a imposé un rapport de force à Donald Trump, par Bernard Guetta",
@@ -7360,7 +7225,7 @@
     {
       "id": "16650dc860bb6ef012e0b49955a1627d23ef1cb817fee8319e26f325d92e77a0",
       "url": "https://elpais.com/internacional/2026-01-19/trump-demuestra-la-necesidad-del-acuerdo-de-la-ue-con-mercosur.html",
-      "title": "Trump démontre la nécessité d'un accord entre l'UE et le Mercosur",
+      "title": "Trump démontre la nécessité d’un accord entre l’UE et le Mercosur",
       "content_html": "La présidente de la Commission européenne, Ursula Von der Leyen, avec les présidents du Paraguay (Santiago Peña), de l'Argentine (Javier Milei) et de l'Uruguay (Yamandú Orsi) ce samedi.",
       "date_published": "2026-01-19T04:40:00+00:00",
       "authors": [
@@ -7686,7 +7551,7 @@
       "id": "29813a94c4ef1a3f2a4ef50b6d41e92adfc7a457cf2fd82fcb2abca4727a7e6e",
       "url": "https://www.elmundo.es/internacional/2026/01/18/696d08f0e9cf4a340c8b458f.html",
       "title": "Yendri Velásquez, militant LGTBI et victime du chavisme : « Il y a une complicité explicite de Petro avec la dictature vénézuélienne »",
-      "content_html": "Dans sa première interview depuis qu'il a survécu à un attentat à Bogotá il y a trois mois, ce Vénézuélien dénonce \"le silence\" de la gauche espagnole face à la situation dans son pays et affirme qu'\"aucune alternative démocratique ne peut se construire sous le contrôle du chavisme\".",
+      "content_html": "Dans sa première interview depuis qu'il a survécu à un attentat à Bogota il y a trois mois, ce Vénézuélien dénonce \"le silence\" de la gauche espagnole face à la situation dans son pays et affirme qu'\"aucune alternative démocratique ne peut se construire sous le contrôle du chavisme\".",
       "date_published": "2026-01-18T16:53:43+00:00",
       "authors": [
         {
@@ -8498,22 +8363,6 @@
       "authors": [],
       "tags": [
         "Germany"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "758c6c99de9eef680790542c77dcff4a206eeefcd0d9c30b173f07405a2a69bb",
-      "url": "https://www.dw.com/en/serbia-student-protests-vucic-has-reason-to-fear-elections/a-75531467?maca=en-rss-en-all-1573-rdf",
-      "title": "Serbia student protests: Vucic has reason to fear elections",
-      "content_html": "After more than a year of protests, Serbia's students have shifted their focus to preparing for a parliamentary election. President Aleksander Vucic, however, is waiting for a date that will benefit him the most.",
-      "date_published": "2026-01-16T09:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
       ],
       "source": {
         "name": "Deutsche Welle",
