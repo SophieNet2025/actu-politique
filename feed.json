@@ -5,29 +5,39 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "7027908033eb1320b65b5b28329c09dd03d198e8925950038a52b1837a3e245e",
-      "url": "https://www.liberation.fr/international/europe/en-direct-davos-volodymyr-zelensky-est-arrive-en-suisse-pour-rencontrer-donald-trump-au-sujet-de-la-guerre-en-ukraine-20260122_2YHMFVYQTRCRPLUZBYMA57YCYQ/",
-      "title": "EN DIRECT - Davos : l’accord sur les garanties de sécurité en Ukraine est prêt, annonce Zelensky",
-      "content_html": "Le président ukrainien, Volodymyr Zelensky, à Davos, le 22 janvier 2026.",
-      "date_published": "2026-01-22T16:57:54+00:00",
-      "authors": [
-        {
-          "name": "Sascha Garcia,  AFP, Reuters ."
-        }
-      ],
+      "id": "2c5c7c460149aaeb4bcc0839759754019a0e618475c4fdcc34f05cf0808fa6a5",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222401/quebec-recule-objectifs-cible-ges",
+      "title": "Québec repousse de cinq ans son objectif de réduire les GES de 37,5 %",
+      "content_html": "<p>Le ministre de l&#x27;Environnement Bernard Drainville compte y parvenir en 2035.</p>",
+      "date_published": "2026-01-22T17:21:17+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "195d3c996a8b88958388928edbd5419ded0e6ea4897b2b8c7a4e2d92b696181b",
+      "url": "https://www.themoscowtimes.com/2026/01/22/zelensky-criticizes-fragmented-europes-inaction-on-defense-at-davos-a91757",
+      "title": "Zelensky Criticizes ‘Fragmented’ Europe’s Inaction on Defense at Davos",
+      "content_html": "He lamented a lack of progress to end the war, comparing Davos and other high-level meetings to the film “Groundhog Day.”",
+      "date_published": "2026-01-22T17:20:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
     },
     {
       "id": "d83821872d9038a9448c37bdaf224639822ea9033f4b56a0bd378053b8f395c8",
       "url": "https://www.elmundo.es/internacional/2026/01/22/697253bc21efa05a4c8b4592.html",
       "title": "Zelensky, frustré par l'Occident : \"Ils traduisent en justice Nicolás Maduro, mais pas Poutine\"",
-      "content_html": "Le président ukrainien prononce un discours dur dans lequel il reproche à l'Europe sa passivité envers une Russie de plus en plus agressive.",
-      "date_published": "2026-01-22T16:55:19+00:00",
+      "content_html": "Le président ukrainien prononce un discours dur dans lequel il reproche à l'Europe sa passivité face à une Russie de plus en plus agressive.",
+      "date_published": "2026-01-22T17:19:22+00:00",
       "authors": [
         {
           "name": "Alberto Rojas"
@@ -46,11 +56,47 @@
       "lang": "fr"
     },
     {
-      "id": "2c5c7c460149aaeb4bcc0839759754019a0e618475c4fdcc34f05cf0808fa6a5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222401/quebec-recule-objectifs-cible-ges",
-      "title": "Québec repousse de cinq ans son objectif de réduire les GES de 37,5 %",
-      "content_html": "<p>Le ministre de l&#x27;Environnement Bernard Drainville compte y parvenir en 2035.</p>",
-      "date_published": "2026-01-22T16:52:38+00:00",
+      "id": "4c922b32f28ce37db3c4edcdf40e64ead8434935712dcaa81f6577b6bc083c2d",
+      "url": "https://www.ukrinform.net/rubric-polytics/4083243-zelensky-calls-meeting-with-trump-positive.html",
+      "title": "Zelensky calls meeting with Trump positive",
+      "content_html": "President Volodymyr Zelensky stated that today's meeting with the U.S. President Donald Trump was positive.",
+      "date_published": "2026-01-22T17:19:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f18ec6a695bb8b891a2a9180ea0e480d1268c4fc5790673ff5d517ea25807b1c",
+      "url": "https://www.france24.com/fr/europe/20260122-espionnage-bluetooth-danemark-tensions-etats-unis-services-securite-trump-groenland",
+      "title": "Espionnage : le Bluetooth, victime collatérale des tensions autour du Groenland",
+      "content_html": "L’agence danoise de renseignement a mis en garde contre des vulnérabilités du Bluetooth qui pourraient permettre à des espions américains d’écouter les conversations téléphoniques des autorités danoises ou groenlandaises. La preuve que les services de renseignement européens considèrent dorénavant leur \"allié\" américain d'hier comme un rival ?",
+      "date_published": "2026-01-22T17:15:55+00:00",
+      "authors": [
+        {
+          "name": "Sébastian SEIBT"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ef3cb4345707e2b35e7d580ad5c19d0f0a43439fb6d6ee8f9c3594b7bd551a32",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222466/prochain-chef-coalition-avenir-quebec-premier-ministre-francois-legault",
+      "title": "Le successeur de François Legault sera connu le 12 avril",
+      "content_html": "<p>La course à la direction de la Coalition avenir Québec (CAQ) est officiellement lancée.</p>",
+      "date_published": "2026-01-22T17:14:50+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -58,6 +104,296 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "5a877afe9ee9f6df664e85f0062c06424c14b108fad8303d9ac4e3a79e3d4faf",
+      "url": "https://elpais.com/internacional/2026-01-22/el-gobierno-de-trump-vende-en-davos-una-nueva-gaza-al-estilo-de-dubai.html",
+      "title": "Le gouvernement Trump vend à Davos un « nouveau Gaza » à la manière de Dubaï",
+      "content_html": "Marco Rubio, le secrétaire d'État américain, au premier plan, lors de la présentation du nouveau projet de Gaza.",
+      "date_published": "2026-01-22T17:09:21+00:00",
+      "authors": [
+        {
+          "name": "Andrea Rizzi ,Antonio Pita"
+        }
+      ],
+      "tags": [
+        "Guerra",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d19d2b6ee47b64e480548aec88ba8843b243b8114cb079b5bf01249cf11f629c",
+      "url": "https://www.timesofisrael.com/after-protests-crushed-iranian-tells-toi-many-still-hoping-for-us-israel-savior/",
+      "title": "After protests crushed, Iranian tells ToI many still hoping for US, Israel ‘savior’",
+      "content_html": "<p>Amid severe crackdown, Tehran resident whose brother was among thousands killed by regime says many in Iran see 'strike targeting all leaders' as their last hope</p>\n<p>The post <a href=\"https://www.timesofisrael.com/after-protests-crushed-iranian-tells-toi-many-still-hoping-for-us-israel-savior/\">After protests crushed, Iranian tells ToI many still hoping for US, Israel &#8216;savior&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AP26014672933643-e1768434416137-1024x640.jpg\" title=\"After protests crushed, Iranian tells ToI many still hoping for US, Israel &#8216;savior&#8217;\" width=\"160\" /></figure>",
+      "date_published": "2026-01-22T17:08:50+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2026 Iran protests",
+        "Reza Pahlavi",
+        "Ali Khamenei",
+        "Tehran",
+        "Donald Trump",
+        "2025 Israel-Iran war",
+        "Iran executions",
+        "Iran",
+        "Islamic Republic",
+        "Basij"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1d4c4ce765d0e06755313a4abf0912d116ad6df44cae066035201b2ad5249de8",
+      "url": "https://www.timesofisrael.com/commander-of-irans-revolutionary-guards-warns-israel-and-us-of-finger-on-trigger/",
+      "title": "Commander of Iran’s Revolutionary Guards warns Israel and US of ‘finger on trigger’",
+      "content_html": "<p>Bellicose remarks come as Trump pushes talks but warns of further strikes if Tehran's nuclear program advances; Iran releases official death toll, which NGOs say is undercount</p>\n<p>The post <a href=\"https://www.timesofisrael.com/commander-of-irans-revolutionary-guards-warns-israel-and-us-of-finger-on-trigger/\">Commander of Iran&#8217;s Revolutionary Guards warns Israel and US of &#8216;finger on trigger&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20260121__93GL9YH__v1__HighRes__IranProtests-1024x640.jpg\" title=\"Commander of Iran&#8217;s Revolutionary Guards warns Israel and US of &#8216;finger on trigger&#8217;\" width=\"160\" /></figure>",
+      "date_published": "2026-01-22T17:08:22+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2026 Iran protests",
+        "Islamic Revolutionary Guard Corps IRGC",
+        "2025 Israel-Iran war",
+        "Davos",
+        "Donald Trump",
+        "Isaac Herzog"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "43bee6df80fe2341c0adadf40a3d2d87edfa20d5e9417fb7a98547709131dac9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222393/trump-davos-conseil-de-paix-diplomatie-onu",
+      "title": "Trump signe la charte fondatrice de son « Conseil de paix » à Davos",
+      "content_html": "<p>Le scepticisme quant à son mandat a dissuadé certains pays proches de Washington d&#x27;y participer.</p>",
+      "date_published": "2026-01-22T17:06:49+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1d0162c410ff3d91ea8893c3dfc56e01309e3f22a307fddbdfa85282b113d4ce",
+      "url": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
+      "title": "Greenland’s PM says he doesn’t know details of rumoured deal and calls for US to respect red lines – latest updates",
+      "content_html": "<p>Jens-Frederik Nielsen says he is willing to talk to US to find a solution but repeats key demands</p><p>Zelenskyy’s speech looks to be slightly late, as Indonesia’s president <strong>Prabowo Subianto</strong> is still speaking.</p><p>Don’t worry: I’m keeping an eye on this for you.</p><p><em>“<strong>Hardly any details are known yet about the proposed Greenland deal.</strong> But we need them in order to decide how to proceed with the implementation of the EU-US trade deal. @EP_Trade will revisit the issue on Monday and discuss the way forward.”</em></p><p><em>“However <strong>there is no room for false security.</strong> The next threat is sure to come. That’s why it is even more important that we set clear boundaries use all available legal instruments&amp;apply them as appropriate to the situation. We must continue to act with this level of confidence.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news\">Continue reading...</a>",
+      "date_published": "2026-01-22T17:05:16+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Greenland",
+        "Ukraine",
+        "Europe",
+        "Volodymyr Zelenskyy",
+        "World news",
+        "Russia",
+        "Vladimir Putin"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2861ae0a38e95e1e523d5640f0010d3bd33831d9c7908b9e52fc378e81e847e0",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates",
+      "title": "Jack Smith testifies in tense House hearing about Trump investigations – US politics live",
+      "content_html": "<p>Former special counsel gives evidence on his handling of two federal investigations into Trump; Vance to travel to Minnesota </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/22/democrats-ice-funding-bill\">House Democrats expected to overwhelmingly reject a bill to fund ICE</a></p></li></ul><p>The committee is taking a recess for members to vote on the House floor. A reminder that today we’re expecting a vote on Department of Homeland Security funding bill that dozens of Democrats have vowed to vote against.</p><p>The top Democrat on the House judiciary committee, Jamie Raskin, praised Jack Smith’s handling of his investigations into the president. Raskin also noted the persistent denigration by Donald Trump as Smith conducted the probes.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2026-01-22T17:05:09+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now) and Vivian Ho (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US immigration",
+        "US news",
+        "World news",
+        "Greenland",
+        "Donald Trump",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US politics",
+        "US Congress",
+        "Minneapolis"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "68f8f370d2c3999c32d17291b342af334c0107cc1a3eb770314a7540ba7ff044",
+      "url": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Trump's  'framework of future deal' over Greenland",
+      "content_html": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
+      "date_published": "2026-01-22T17:02:54+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b85b5fc114b9ae17ca3be4f14e89cfe783dedca48e73caa2fef4ae5eeb1e1285",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/two-arrests-minnesota-church-protest",
+      "title": "Two arrested over anti-ICE protest at Minnesota church, Bondi says",
+      "content_html": "<p>Demonstrators alleged that one of church’s pastors was acting field director of St Paul ICE office</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p>Two people were arrested on Thursday morning in connection with a controversial protest at a <a href=\"https://www.theguardian.com/us-news/minnesota\">Minnesota</a> church on Sunday, Pam Bondi posted on social media.</p><p>The two people, who the attorney general identified as Nekima Levy Armstrong and Chauntyll Louisa Allen, were taken into custody on Thursday. Charging papers were not immediately available and the justice department did not immediately return a request for comment.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/22/two-arrests-minnesota-church-protest\">Continue reading...</a>",
+      "date_published": "2026-01-22T17:01:01+00:00",
+      "authors": [
+        {
+          "name": "Sam Levine in New York"
+        }
+      ],
+      "tags": [
+        "Minnesota",
+        "US news",
+        "Trump administration",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US immigration",
+        "US politics",
+        "Protest (US)"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "49b1182124c5ee5458804497cc909d191281323b3b1a4e2fbcc30009ae24fafb",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/01/22/a-detroit-donald-trump-insulte-les-siens_6663702_4500055.html",
+      "title": "A Detroit, Donald Trump insulte les siens",
+      "content_html": "A Detroit (Michigan), des manifestants protestent contre la visite du président Donald Trump, le 13 janvier.",
+      "date_published": "2026-01-22T17:00:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b8f7fa68d595b1c292603dcc726fa16fc5bf7e030761c6853217144a849a2774",
+      "url": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20260122-d%C3%A9bat-une-jeunesse-fran%C3%A7aise-face-%C3%A0-la-drogue",
+      "title": "Débat : une jeunesse française face à la drogue",
+      "content_html": "Un jeune sur deux a déjà essayé une drogue. En 2025, les substances illicites arrivent en France plus tôt, plus vite, plus fort. En deux clics, des produits détournés, des drogues nouvelles, parfois plus toxiques, et souvent mal connues. Que consomme-t-on et pour quels risques ? Mais surtout les jeunes sont-ils tous égaux face à l’addiction ? Quelle pertinence des discours officiels sur les consommateurs ? Et finalement, nos modèles de prévention sont-ils à la page et efficaces ?",
+      "date_published": "2026-01-22T17:00:07+00:00",
+      "authors": [
+        {
+          "name": "Ségolène MALTERRE"
+        }
+      ],
+      "tags": [
+        "Pas 2 Quartier"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7027908033eb1320b65b5b28329c09dd03d198e8925950038a52b1837a3e245e",
+      "url": "https://www.liberation.fr/international/europe/en-direct-davos-volodymyr-zelensky-est-arrive-en-suisse-pour-rencontrer-donald-trump-au-sujet-de-la-guerre-en-ukraine-20260122_2YHMFVYQTRCRPLUZBYMA57YCYQ/",
+      "title": "EN DIRECT - Davos : l’accord sur les garanties de sécurité en Ukraine est prêt, annonce Zelensky",
+      "content_html": "Le président ukrainien, Volodymyr Zelensky, à Davos, le 22 janvier 2026.",
+      "date_published": "2026-01-22T16:57:54+00:00",
+      "authors": [
+        {
+          "name": "Sascha Garcia,  AFP, Reuters ."
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d887cd1d3cbd11144bd72ad4823693aa123ac98f1bc7160dd73df439a356bab2",
+      "url": "https://www.lefigaro.fr/vox/monde/donald-trump-le-revolutionnaire-narcissique-qui-pulverise-le-camp-occidental-20260122",
+      "title": "Donald Trump, le révolutionnaire narcissique qui pulvérise le camp occidental",
+      "content_html": "Donald Trump s’exprime lors d’une annonce de charte pour son initiative «Conseil de la Paix» visant à résoudre les conflits mondiaux, lors du 56e Forum économique mondial annuel, à Davos, en Suisse, le 22 janvier 2026.",
+      "date_published": "2026-01-22T16:57:29+00:00",
+      "authors": [],
+      "tags": [
+        "Vox Monde"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "150ab362d745a0f6d6455442306a3074d3d8f741b4cf6e80eb8092cceef479a3",
+      "url": "https://www.ukrinform.net/rubric-polytics/4083240-zelensky-announces-trilateral-meeting-with-russia-us-in-uae.html",
+      "title": "Zelensky announces trilateral meeting with Russia, US in UAE",
+      "content_html": "Teams from Ukraine, the United States, and Russia may hold a two-day meeting in the United Arab Emirates.",
+      "date_published": "2026-01-22T16:55:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "876aed9947df1cce394b7444495b75b4d352ce19cfde7543e5847493fb08f44a",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260122-vampire-horror-sinners-leads-oscar-nominees-followed-by-one-battle-after-another",
+      "title": "Vampire horror 'Sinners' leads Oscar nominees, followed by 'One Battle After Another'",
+      "content_html": "The Academy of Motion Picture Arts and Sciences have announced the nominees for the 98th Academy Awards, with Ryan Coogler's vampire horror \"Sinners\" leading the charge. Racking up a record 16 nominations in various categories, \"Sinners\" is followed by Paul Thomas Anderson's \"One Battle After Another\", on 13 nominations. FRANCE 24's Olivia Salazar-Winspear takes us through the movies and the movie stars who could be in line for a gold statuette on March 15.",
+      "date_published": "2026-01-22T16:53:02+00:00",
+      "authors": [
+        {
+          "name": "Olivia SALAZAR-WINSPEAR"
+        }
+      ],
+      "tags": [
+        "arts24"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "e5253a75bb7eb0ff490afc756b79e2bd1115d5028e6d4af71d25d671cc47ce37",
@@ -76,28 +412,18 @@
       "lang": "fr"
     },
     {
-      "id": "1d0162c410ff3d91ea8893c3dfc56e01309e3f22a307fddbdfa85282b113d4ce",
-      "url": "https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news",
-      "title": "Greenland’s PM says he doesn’t know details of rumoured deal and calls for US to respect red lines – latest updates",
-      "content_html": "<p>Jens-Frederik Nielsen says he is willing to talk to US to find a solution but repeats key demands</p><p>Zelenskyy’s speech looks to be slightly late, as Indonesia’s president <strong>Prabowo Subianto</strong> is still speaking.</p><p>Don’t worry: I’m keeping an eye on this for you.</p><p><em>“<strong>Hardly any details are known yet about the proposed Greenland deal.</strong> But we need them in order to decide how to proceed with the implementation of the EU-US trade deal. @EP_Trade will revisit the issue on Monday and discuss the way forward.”</em></p><p><em>“However <strong>there is no room for false security.</strong> The next threat is sure to come. That’s why it is even more important that we set clear boundaries use all available legal instruments&amp;apply them as appropriate to the situation. We must continue to act with this level of confidence.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/jan/22/zelenskyy-trump-putin-ukraine-russia-us-davos-greenland-eu-europe-live-news\">Continue reading...</a>",
-      "date_published": "2026-01-22T16:47:10+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
+      "id": "4d49d4572ec6c48f6ee0960d801abb945d84045823c22205d7c9547ca46eac5b",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/1/22/aje-onl-pal_phasetwoceasefire_av_v2-210126?traffic_source=rss",
+      "title": "Inside Trump’s plan to rebuild Gaza without Palestinians",
+      "content_html": "The US launches a &quot;Board of Peace&quot; for Gaza, but Palestinians have no seat at the table.",
+      "date_published": "2026-01-22T16:49:24+00:00",
+      "authors": [],
       "tags": [
-        "Greenland",
-        "Ukraine",
-        "Europe",
-        "Volodymyr Zelenskyy",
-        "World news",
-        "Russia",
-        "Vladimir Putin"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -121,7 +447,7 @@
       "id": "0f53dc4da1f4f1b3383693e52c5d2a1c3ec59f887f64a40a4383430931f102b3",
       "url": "https://www.theguardian.com/uk-news/2026/jan/22/barron-trump-very-close-alleged-victim-court-hears",
       "title": "Barron Trump told police he was ‘very close’ to alleged rape victim, court hears",
-      "content_html": "<p>Donald Trump’s son was on video call with woman when he saw a man repeatedly punch her, court told</p><p>Donald Trump’s youngest son said he was “very close” to an alleged rape victim after raising the alarm about a suspected assault against her, a court has heard.</p><p>Barron Trump was on a Face Time video call a year ago with the woman, who cannot be named, when he saw a man repeatedly punch her, Snaresbrook crown court was told on Wednesday.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jan/22/barron-trump-very-close-alleged-victim-court-hears\">Continue reading...</a>",
+      "content_html": "<p>Donald Trump’s son was on video call with woman when he saw a man repeatedly punch her, court told</p><p>Donald Trump’s youngest son said he was “very close” to an alleged rape victim after raising the alarm about a suspected assault against her, a court has heard.</p><p>Barron Trump was on a FaceTime video call a year ago with the woman, who cannot be named, when he saw a man repeatedly punch her, Snaresbrook crown court was told on Wednesday.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jan/22/barron-trump-very-close-alleged-victim-court-hears\">Continue reading...</a>",
       "date_published": "2026-01-22T16:44:30+00:00",
       "authors": [
         {
@@ -130,35 +456,6 @@
       ],
       "tags": [
         "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2861ae0a38e95e1e523d5640f0010d3bd33831d9c7908b9e52fc378e81e847e0",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates",
-      "title": "Jack Smith testifies in tense House hearing about Trump investigations – US politics live",
-      "content_html": "<p>Former special counsel gives evidence on his handling of two federal investigations into Trump; Vance to travel to Minnesota </p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/22/democrats-ice-funding-bill\">House Democrats expected to overwhelmingly reject a bill to fund ICE</a></p></li></ul><p>The committee is taking a recess for members to vote on the House floor. A reminder that today we’re expecting a vote on Department of Homeland Security funding bill that dozens of Democrats have vowed to vote against.</p><p>The top Democrat on the House judiciary committee, Jamie Raskin, praised Jack Smith’s handling of his investigations into the president. Raskin also noted the persistent denigration by Donald Trump as Smith conducted the probes.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-01-22T16:44:13+00:00",
-      "authors": [
-        {
-          "name": "Shrai Popat (now) and Vivian Ho (earlier)"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US immigration",
-        "US news",
-        "World news",
-        "Greenland",
-        "Donald Trump",
-        "ICE (US Immigration and Customs Enforcement)",
-        "US politics",
-        "US Congress",
-        "Minneapolis"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -184,20 +481,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "68f8f370d2c3999c32d17291b342af334c0107cc1a3eb770314a7540ba7ff044",
-      "url": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
-      "title": "What we know about Trump's  'framework of future deal' over Greenland",
-      "content_html": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
-      "date_published": "2026-01-22T16:42:30+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -241,6 +524,26 @@
       "lang": "fr"
     },
     {
+      "id": "8f4240c75baac4f37809d38f165d8920b33246f7632a1c9dddb3eec21be59d83",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260122-16-nominations-aux-oscars-pour-sinners-un-record",
+      "title": "16 nominations aux Oscars pour \"Sinners\" : un record !",
+      "content_html": "Sonia Patricelli décrypte les nominations aux Oscars. \"Sinners\", film de Ryan Coogler, part grand favori avec un record historique de 16 nominations pour la 98e cérémonie. Il est suivi par \"Une bataille après l’autre\" de Paul Thomas Anderson (13 nominations), annonçant un duel très attendu. Timothée Chalamet pourrait décrocher l’Oscar du meilleur acteur pour \"Marty Supreme\".",
+      "date_published": "2026-01-22T16:40:35+00:00",
+      "authors": [
+        {
+          "name": "Sonia PATRICELLI"
+        }
+      ],
+      "tags": [
+        "À l'Affiche !"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "ba5cba1a117d27504d76cf5343e27e45c5e08c6662399c569728b0ccc318812e",
       "url": "https://www.aljazeera.com/sports/2026/1/22/liverpool-overtake-man-utd-but-real-madrid-remain-footballs-top-earners?traffic_source=rss",
       "title": "Real Madrid remain football’s top earners but Liverpool overtake Man Utd",
@@ -255,20 +558,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "ef3cb4345707e2b35e7d580ad5c19d0f0a43439fb6d6ee8f9c3594b7bd551a32",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222466/prochain-chef-coalition-avenir-quebec-premier-ministre-francois-legault",
-      "title": "Le prochain chef de la CAQ, qui deviendra de facto premier ministre, sera élu le 12 avril",
-      "content_html": "<p>Les règles de la course à la chefferie seront dévoilée à 13&nbsp;h, aujourd&#x27;hui.</p>",
-      "date_published": "2026-01-22T16:37:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "4a33a1f7a5f106e19cad99c3dd51a6b1ed1870d2e48c3e6e64d3e041db79b3a2",
@@ -348,8 +637,8 @@
     {
       "id": "5c7d616c19231586de491e4568a335fc595f46a786f9762759341c885cf537ec",
       "url": "https://www.france24.com/en/europe/20260122-zelensky-says-us-security-guarantees-ready-after-meeting-with-trump",
-      "title": "Zelensky says US ‘security guarantees’ ready after meeting with Trump",
-      "content_html": "Ukrainian President Volodymyr Zelensky said Thursday he and US President Donald Trump had agreed on post-war US security guarantees. The deal, which awaits signatures and parliamentary approval, would be a key step in plans to end the Russian invasion.",
+      "title": "Zelensky says US 'security guarantees' for Ukraine ready after meeting with Trump",
+      "content_html": "Ukrainian President Volodymyr Zelensky said Thursday he and US President Donald Trump had agreed on post-war US security guarantees for Ukraine, without providing further details. The deal, which awaits signatures and parliamentary approval, would be a key step in plans to end the Russian invasion.",
       "date_published": "2026-01-22T16:33:15+00:00",
       "authors": [
         {
@@ -390,6 +679,24 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dadbf29889479953f02cd281b772eaf7e7536e6632f64c977444f534eff4a6ff",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-apr%C3%A8s-les-inondations-au-mozambique-l-onu-alerte-sur-une-crise-humanitaire",
+      "title": "Après les inondations au Mozambique, l'Onu alerte sur une crise humanitaire",
+      "content_html": "Les graves inondations frappant le Mozambique ont déclenché une crise humanitaire qui s'aggrave rapidement et impacte déjà plus d'un demi-million de personnes, ont alerté mardi les Nations unies. \"5 000 km de route sont endommagés, la route qui relie la capitale au reste du pays est impraticable.\" précise notre correspondante régionale, Caroline Dumay.",
+      "date_published": "2026-01-22T16:28:30+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -484,6 +791,24 @@
       "lang": "en"
     },
     {
+      "id": "28a18a76bf9ddf1fcaa398ceaea60ee4bb617691b026710bb74791b22fbbc6e5",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-nouvel-accident-de-train-en-espagne-un-train-de-banlieue-percute-une-grue-%C3%A0-carthag%C3%A8ne",
+      "title": "Nouvel accident de train en Espagne : un train de banlieue percute une grue à Carthagène",
+      "content_html": "Un train a percuté une grue de construction près de Carthagène, dans le sud-est de l'Espagne, faisant plusieurs blessés légers, ont annoncé les services ​d'urgence jeudi. Cet accident survient quatre jours après la collision entre deux trains qui a fait au moins 45 morts en Andalousie. Mardi, un autre accident en Catalogne avait fait un mort.",
+      "date_published": "2026-01-22T16:17:31+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "b40c1e25f8f37d0e28ba0246a662a5c51d6c071897f2ced8529f55d54936d237",
       "url": "https://www.liberation.fr/international/amerique/au-chili-le-futur-gouvernement-durgence-de-jose-antonio-kast-fait-la-part-belle-au-prive-et-prend-des-accents-ultra-conservateurs-20260122_ULNLFPHEKVCZ5NAUQSITJCVGXQ/",
       "title": "Au Chili, le futur «gouvernement d’urgence» de José Antonio Kast fait la part belle au privé et prend des accents ultra-conservateurs",
@@ -521,7 +846,7 @@
       "id": "9154d03de64d0be0f182113a3363824eee435b46c0bd54035c02389e2290a4d5",
       "url": "https://www.theguardian.com/world/2026/jan/22/spain-train-drivers-three-day-strike-railway-crashes",
       "title": "Spanish train drivers call three-day strike after deadly railway crashes",
-      "content_html": "<p>Union is demanding better safety standards for workers and passengers after two collisions this week killed 46</p><p>Spain’s largest train drivers’ union has called a three-day nationwide strike to demand measures to guarantee the safety of railworkers and passengers after two deadly crashes this week killed at least 46 people, including two drivers.</p><p>The death toll from <a href=\"https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain\">Sunday’s collision between two trains</a> near the Andalucían town of Adamuz rose from 43 to 45 on Thursday afternoon after two more bodies were recovered from the crash site. On Tuesday, a <a href=\"https://www.theguardian.com/world/2026/jan/20/commuter-train-near-barcelona-hits-collapsed-wall-injuring-several-people\">driver was killed</a> and 37 people were injured when a train was derailed by the collapse of a retaining wall near Gelida in Catalonia.</p> <a href=\"https://www.theguardian.com/world/2026/jan/22/spain-train-drivers-three-day-strike-railway-crashes\">Continue reading...</a>",
+      "content_html": "<p>Union is demanding better safety standards for workers and passengers after two collisions this week killed 46</p><p>Spain’s largest train drivers’ union has called a three-day nationwide strike to demand measures to guarantee the safety of railworkers and passengers after two deadly crashes this week killed at least 46 people, including two drivers.</p><p>The death toll from <a href=\"https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain\">Sunday’s collision between two trains</a> near the Andalucían town of Adamuz rose from 43 to 45 on Thursday afternoon after two more bodies were recovered from the crash site. On Tuesday, a <a href=\"https://www.theguardian.com/world/2026/jan/20/commuter-train-near-barcelona-hits-collapsed-wall-injuring-several-people\">driver was killed</a> and 37 people injured when a train was derailed by the collapse of a retaining wall near Gelida in Catalonia.</p> <a href=\"https://www.theguardian.com/world/2026/jan/22/spain-train-drivers-three-day-strike-railway-crashes\">Continue reading...</a>",
       "date_published": "2026-01-22T16:15:16+00:00",
       "authors": [
         {
@@ -576,6 +901,24 @@
       "lang": "fr"
     },
     {
+      "id": "d41ce066534c305de56d6fa833ef6c8cab051be6cdc7ec80fc6463bf6ebed6cc",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-volodymyr-zelensky-maduro-est-devant-un-tribunal-poutine-ne-l-est-pas-guerre-en-ukraine-davos",
+      "title": "Volodymyr Zelensky : \"Maduro est devant un tribunal, Poutine ne l'est pas\"",
+      "content_html": "Le président ukrainien, Volodymyr Zelensky, a comparé ce jeudi la situation de son homologue russe, Vladimir Poutine, avec celle du dirigeant vénézuélien Nicolas Maduro, capturé par les États-Unis en janvier 2026, au cours d'un discours très offensif lors du Forum de Davos. Il s'est indigné du fait que le maître du Kremlin ne soit pas encore devant un tribunal, après presque quatre ans de guerre en Ukraine.",
+      "date_published": "2026-01-22T16:08:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "4a555e3ab42af0abe30492359ee9f15f91ab4ce4072dcf2fb10f7989d35b33db",
       "url": "https://www.theguardian.com/us-news/2026/jan/22/us-winter-storm-snow",
       "title": "Powerful winter storm to bring heavy snow across much of US this weekend",
@@ -599,6 +942,24 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "fa7e55cd3eecee209b570a3671ca276b90ff5894c28c09f6b5e0f67ebe2efac1",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-incendie-au-pakistan-au-moins-55-morts-dans-un-centre-commercial-%C3%A0-karachi",
+      "title": "Incendie au Pakistan : au moins 55 morts dans un centre commercial à Karachi",
+      "content_html": "Au moins 55 personnes ont péri dans l'incendie samedi d'un des centres commerciaux les plus fréquentés de Karachi, dans le sud du Pakistan, selon un nouveau bilan annoncé jeudi par les autorités locales.",
+      "date_published": "2026-01-22T16:04:38+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "1a4c1f66daaa3558ed21a39aeaebbb4ab6cc7b9486980f6e85829e498ecfb6e2",
@@ -802,6 +1163,26 @@
       "lang": "en"
     },
     {
+      "id": "a19d477cc49426b8b900f9874363a526934e42f92f80a8048e3c4a7fe779ac82",
+      "url": "https://www.france24.com/fr/europe/20260122-que-contient-projet-accord-annonc%C3%A9-trump-groenland-r%C3%A9gion-arctique-danemark",
+      "title": "Que contient le projet d'accord annoncé par Trump pour le Groenland et la région arctique ?",
+      "content_html": "Après avoir menacé de prendre le contrôle du Groenland \"d’une manière ou d’une autre\", Donald Trump a fait volte-face mercredi, assurant renoncer à la force et aux sanctions. Il a ensuite annoncé avoir établi \"le ​cadre d'un futur accord\" sur le Groenland et toute la région de l'Arctique avec le secrétaire général de l'Otan.",
+      "date_published": "2026-01-22T15:53:01+00:00",
+      "authors": [
+        {
+          "name": "David RICH"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "3b42aad1c9be473cd22e622715153da5c38db0533b3b394d6cea404dbcf84f36",
       "url": "https://www.dw.com/en/davos-2026-zelenskyy-repeats-call-for-europe-to-act-now/live-75560683?maca=en-rss-en-all-1573-rdf",
       "title": "Davos 2026: Zelenskyy repeats call for Europe to 'act now'",
@@ -846,6 +1227,24 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "8d0b74d1de45dcb91233c2b1a1c22cbad356a1eb3bc712ca851b8a8f8a97bb3d",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-qui-compose-le-conseil-de-la-paix-lanc%C3%A9-officiellement-par-donald-trump",
+      "title": "Qui compose le \"Conseil de la paix\" lancé officiellement par Donald Trump ?",
+      "content_html": "Donald Trump a lancé son \"Conseil de la paix\", jeudi, à Davos, lors d’une cérémonie de signature avec une trentaine d’alliés. Malgré les déclarations grandiloquentes du président américain, aucune grande puissance et peu d’alliés historiques ont décidé de rejoindre d’emblée cette nouvelle organisation internationale. Mais cette nouvelle organisation est-elle légitime ? Décryptage avec notre correspondant à Washington, Matthieu Mabin.",
+      "date_published": "2026-01-22T15:47:19+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "8d2c46339ce0de46ae1603002bc0fba45f1a904f94105e94574036b95d656783",
@@ -1208,30 +1607,22 @@
       "lang": "en"
     },
     {
-      "id": "b85b5fc114b9ae17ca3be4f14e89cfe783dedca48e73caa2fef4ae5eeb1e1285",
-      "url": "https://www.theguardian.com/us-news/2026/jan/22/two-arrests-minnesota-church-protest",
-      "title": "Two arrested over anti-ICE protest at Minnesota church, Bondi says",
-      "content_html": "<p>Demonstrators alleged that one of church’s pastors was acting field director of St Paul ICE office</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/jan/22/donald-trump-greenland-tariffs-ice-democrats-funding-bill-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p>Two people were arrested on Thursday morning in connection with a controversial protest at a <a href=\"https://www.theguardian.com/us-news/minnesota\">Minnesota</a> church on Sunday, Pam Bondi posted on social media.</p><p>The two people, who the attorney general identified as Nekima Levy Armstrong and Chauntyll Louisa Allen, were taken into custody on Thursday. Charging papers were not immediately available and the justice department did not immediately return a request for comment.</p> <a href=\"https://www.theguardian.com/us-news/2026/jan/22/two-arrests-minnesota-church-protest\">Continue reading...</a>",
-      "date_published": "2026-01-22T15:20:57+00:00",
+      "id": "7f160019dbb90e134599719ade31975b45944e66da4fcedaf8654ea68c577060",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-replay-zelensky-annonce-une-r%C3%A9union-trilat%C3%A9rale-cette-semaine",
+      "title": "REPLAY - Guerre en Ukraine : Zelensky annonce une réunion trilatérale cette semaine",
+      "content_html": "Les délégations ukrainienne et russe tiendront leur première réunion trilatérale avec des responsables américains aux Émirats arabes unis, a déclaré jeudi Volodymyr Zelensky. Le président ukrainien Volodmyr Zelensky a déclaré jeudi que les documents en cours d'élaboration avec Washington pour mettre fin à l'invasion russe de l'Ukraine, étaient \"presque prêts\", lors d'un discours à l'issue de sa rencontre avec son homologue américain Donald Trump à Davos.",
+      "date_published": "2026-01-22T15:21:33+00:00",
       "authors": [
         {
-          "name": "Sam Levine in New York"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Minnesota",
-        "US news",
-        "Trump administration",
-        "ICE (US Immigration and Customs Enforcement)",
-        "US immigration",
-        "US politics",
-        "Protest (US)"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "b1996f6b42f962fce3ebe992b473f7f58caf5ba61a00d3d9ea3386dacb4bc2e9",
@@ -1620,6 +2011,26 @@
       "lang": "en"
     },
     {
+      "id": "3b22e391dceb8ef0cf03df323dfb4de4ccc1423ee79ca48cb2eda959c845b4cd",
+      "url": "https://www.france24.com/fr/europe/20260122-marine-fran%C3%A7aise-intercepte-m%C3%A9diterran%C3%A9e-p%C3%A9trolier-provenance-russie-flotte-fant%C3%B4me",
+      "title": "La Marine française intercepte en Méditerranée un \"pétrolier en provenance de Russie\"",
+      "content_html": "La Marine française a arraisonné jeudi en Méditerranée un \"pétrolier en provenance de Russie\", a annoncé sur X Emmanuel Macron. Le navire est soupçonné d'appartenir à la \"flotte fantôme\" finançant \"la guerre d’agression contre l'Ukraine\", selon le président français.",
+      "date_published": "2026-01-22T14:54:18+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "a75361cca28869ca6ecb71d6e2e136a35dc7a7819d1fae6b0bbf87903ada0ac7",
       "url": "https://www.france24.com/en/academy-unveils-2025-oscar-nominees-from-marty-supreme-to-bugonia",
       "title": "Academy unveils 2025 Oscar nominees: from Marty Supreme to Bugonia",
@@ -1652,6 +2063,24 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
+    },
+    {
+      "id": "87dff25aaa3d49d5cc3cb579d610e04c8edb4bd116c8fa4f676d2e8e65b9478a",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-ideas-of-africa-l-exposition-photo-post-coloniale-new-yorkaise",
+      "title": "\"Ideas of Africa\" : l'exposition photo post-coloniale new yorkaise",
+      "content_html": "Au Musée d’Art moderne de New York, les clichés de photographes africains comme ceux de Malick Didibe qui dépeignent un vent de liberté, au tournant de l'époque décoloniale entrent en discussion avec des œuvres retraçant le mouvement des droits civiques aux Etats-Unis. L'exposition est baptisée \"Ideas of Africa\".",
+      "date_published": "2026-01-22T14:48:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "9ba72568f67287b61f807e018a2977e06a6645ffdf77e59517c90c1da3637a11",
@@ -1764,6 +2193,44 @@
       "lang": "fr"
     },
     {
+      "id": "04f006f11297c780c22e3b604aaa1ad10688fd69e12d6ccbc410b0bc84a84161",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-groenland-ce-qu-il-faut-savoir-sur-le-volte-face-de-trump-%C3%A0-davos",
+      "title": "Groenland : ce qu'il faut savoir sur le volte-face de Trump à Davos",
+      "content_html": "Après des semaines de menaces, de convulsions boursières et de tensions diplomatiques, Donald Trump a revu mercredi sa position sur le Groenland, annonçant mercredi à Davos \"le cadre d'un futur accord\" avec l'Otan, qui l'a conduit à lever ses menaces douanières.",
+      "date_published": "2026-01-22T14:44:13+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "92845bcea9ae824ef5a6a9b2ce0cd830d3278a3f9b1c4c9a92e09c7cad9a95b8",
+      "url": "https://www.france24.com/fr/sports/20260122-can-2025-records-chiffres-maroc-buts-passes-s%C3%A9n%C3%A9gal",
+      "title": "CAN 2025 : une compétition en mode record, les 10 chiffres du tournoi",
+      "content_html": "Quelques jours après la finale de la CAN 2025 remportée par le Sénégal face au Maroc, l'heure est au bilan. Cette 35e édition de la Coupe d'Afrique des nations a été marquée par des performances individuelles et collectives.",
+      "date_published": "2026-01-22T14:43:42+00:00",
+      "authors": [
+        {
+          "name": "Stéphanie TROUILLARD"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "dca2ed4dfdfa4c5a0c946073065054e045d971e23dc7d957ff1dae19b5c99664",
       "url": "https://www.france24.com/en/video/20260122-nanterre-prison-symptom-of-france-s-overflowing-carceral-system",
       "title": "Nanterre prison: Symptom of France's overflowing carceral system",
@@ -1853,6 +2320,24 @@
       "lang": "en"
     },
     {
+      "id": "5aa825c618a1440527419798c13c3fdb23147b2e1f142cfe47c7cb046acc92f8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-nuit-de-la-solidarit%C3%A9-%C3%A0-paris-pour-mieux-conna%C3%AEtre-les-besoins-des-sans-abris",
+      "title": "\"Nuit de la solidarité\" à Paris pour mieux connaître les besoins des sans-abris",
+      "content_html": "Ce jeudi 22 janvier, c'est la 9e édition de la Nuit de la Solidarité à Paris : une opération de la Ville de Paris pour mieux connaître les besoins des sans-abris et changer le regard sur l’exclusion. Florence Gaillard revient sur son reportage réalisé avec Jonathan Walsh pour l’émission de France 24 “C’est en France”. Rencontre avec deux sans-abris : Romain, 45 ans, qui est en voie de réinsertion, et Valérie, 62 ans, qui se bat jour après jour pour survivre dans la rue.",
+      "date_published": "2026-01-22T14:32:39+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "c570f7f19ae1d8145431e8c44bc52d1aa6954ac9302ae8bab5de067cabe8dfee",
       "url": "https://www.ukrinform.net/rubric-polytics/4083149-zelensky-and-trump-meet-in-davos.html",
       "title": "Zelensky and Trump meet in Davos",
@@ -1869,20 +2354,6 @@
       "lang": "en"
     },
     {
-      "id": "91290f38f065e1a7ec2f739ed6507c8a3c42cc58ac5c1ae3044cbc6696cb3e3d",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222389/alarme-redemarrage-plus-grande-centrale-nucleaire-suspendu",
-      "title": "Japon : le redémarrage de la plus grande centrale nucléaire du monde suspendu",
-      "content_html": "<p>«&nbsp;Une alarme du système de surveillance s&#x27;est déclenchée pendant les procédures de démarrage du réacteur.&nbsp;»</p>",
-      "date_published": "2026-01-22T14:28:39+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6027ca750fb02c7161846aef0b81014f397cd44684230e1c218bbcfd8e59ec59",
       "url": "https://www.aljazeera.com/sports/2026/1/22/club-brugge-fans-jailed-for-impersonating-borat-in-kazakhstan?traffic_source=rss",
       "title": "Club Brugge fans jailed for impersonating Borat in Kazakhstan",
@@ -1897,6 +2368,62 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "1f0142f3411f84c7bcc0acf87defc0aec2180bea9e7810cd0abfadf527f14855",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-groenland-trump-ukraine-sommet-europ%C3%A9en-extraordinaire-ce-jeudi-%C3%A0-bruxelles",
+      "title": "Groenland, Trump, Ukraine... Sommet européen extraordinaire ce jeudi à Bruxelles",
+      "content_html": "Les dirigeants ‍de l'Union européenne (UE) vont ​reconsidérer jeudi leurs relations avec les États-Unis lors d'un sommet extraordinaire convoqué après les menaces de droits de douane de Donald Trump contre des pays européens s'opposant ⁠à son projet d'annexer le Groenland.",
+      "date_published": "2026-01-22T14:26:23+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a6feb3b70fd03b63fabef6b1b9a2eb4ff7d8f9e5a4ef2af663b7f29ea40351f1",
+      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260122-les-b%C3%A9b%C3%A9s-une-esp%C3%A8ce-en-voie-de-disparition-parlons-en-avec-pauline-rossi-et-gilles-pison-1",
+      "title": "Les bébés, une espèce en voie de disparition ?... Parlons-en avec Pauline Rossi et Gilles Pison",
+      "content_html": "On fait de moins en moins de bébés aujourd’hui dans le monde. A l’exception notable du continent africain, le déclin démographique semble engagé. Les récents chiffres venant de Chine ou de France le confirment. Les enfants sont-ils une espèce en voie de disparition ? Si oui, pourquoi est-ce problématique ? Est-ce inéluctable ? Parlons-en avec Pauline Rossi, professeure d’économie à l’École polytechnique et membre du Conseil d’analyse économique, autrice de \"Le déclin démographique, une urgence économique\" ? (éd. PUF, 2026), et Gilles Pison, démographe, professeur émérite au Musée national d'histoire naturelle, conseiller de la direction de l'Ined et auteur de \"L'Atlas de la population mondiale\" (2023).",
+      "date_published": "2026-01-22T14:26:16+00:00",
+      "authors": [
+        {
+          "name": "Pauline PACCARD"
+        }
+      ],
+      "tags": [
+        "Parlons-en, les invités"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a53d10d8ce99b3b0140d300d8db57eeeb31d1df78fc589208b408a92576d4020",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-groenland-donald-trump-annonce-annonce-un-futur-accord-avec-l-otan",
+      "title": "Groenland : Donald Trump annonce un \"futur accord\" avec l'Otan",
+      "content_html": "Les Etats-Unis et le Danemark vont renégocier leur accord de défense datant de 1951 sur le Groenland, a indiqué jeudi à l'AFP une source proche des discussions ayant eu lieu la veille à Davos entre Donald Trump et le chef de l'Otan Mark Rutte.",
+      "date_published": "2026-01-22T14:23:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "60c35bb08cb1e17cb13dcb6f346a9d639b66902a76b317396fc97b4d7b501eaf",
@@ -1939,22 +2466,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d887cd1d3cbd11144bd72ad4823693aa123ac98f1bc7160dd73df439a356bab2",
-      "url": "https://www.lefigaro.fr/vox/monde/donald-trump-le-revolutionnaire-narcissique-qui-pulverise-le-camp-occidental-20260122",
-      "title": "Donald Trump, le révolutionnaire narcissique qui pulvérise le camp occidental",
-      "content_html": "Donald Trump s’exprime lors d’une annonce de charte pour son initiative «Conseil de la Paix» visant à résoudre les conflits mondiaux, lors du 56e Forum économique mondial annuel, à Davos, en Suisse, le 22 janvier 2026.",
-      "date_published": "2026-01-22T14:18:05+00:00",
-      "authors": [],
-      "tags": [
-        "Vox Monde"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -2025,6 +2536,26 @@
       "lang": "en"
     },
     {
+      "id": "bd635f9ca5ce59d897eb20b09ee293c239cf512375168ad1b834ca0efe619bbf",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260122-m%C3%A9lissa-da-costa-signe-l-excellent-roman-fauves",
+      "title": "Mélissa Da Costa signe l'excellent roman \"Fauves\"",
+      "content_html": "Avec \"Fauves\" (éd. Albin Michel), la romancière Mélissa Da Costa plonge ses lecteurs dans l’arène d’un cirque pour un neuvième roman surprenant, tendu et sans concessions. Elle nous immerge avec talent dans cet univers entre suspense et roman d'apprentissage, et pose la question : qui sont les fauves et qui est réellement en cage ? Signe d'une écriture cinématographique, tous ses livres sont en voie d'adaptation pour la télévision. Autrice prolifique, Mélissa Da Costa travaille d'ailleurs déjà à l'écriture de son prochain roman.",
+      "date_published": "2026-01-22T14:06:12+00:00",
+      "authors": [
+        {
+          "name": "Sonia PATRICELLI"
+        }
+      ],
+      "tags": [
+        "À l'Affiche !"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "f04181c224f6f78fc5fcb832a19975dff1337ad257130cb00cc965c5507413ab",
       "url": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
       "title": "Ex-intelligence officer accused of betraying Austria in Russia spying trial",
@@ -2080,6 +2611,24 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "a156c524e985e136feb8d51464967d2540628391854dfd028827d1a4f52f76a7",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-soudan-l-ancien-premier-ministre-abdallah-hamdok-en-visite-en-france",
+      "title": "Soudan : l'ancien Premier ministre Abdallah Hamdok en visite en France",
+      "content_html": "L'ancien Premier ministre soudanais Abdallah Hamdok a rencontré hier à Paris des représentants du ministère français des affaires étrangères. Venu chercher du soutien en Europe, l'ex-chef du gouvernement entend aider à trouver une issue au conflit. Les précisions de notre correspondant régional, Bastien Renouil.",
+      "date_published": "2026-01-22T14:00:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "24e9730c59ca2edc618855d8c57a58a70a4a8c80ea0f576b294711f66dd98b64",
@@ -2236,6 +2785,26 @@
       "lang": "en"
     },
     {
+      "id": "26c474b61fedaa80e0c56d04116a1fc0ec478bef29fb493c53fcabcc56b8c464",
+      "url": "https://www.france24.com/fr/moyen-orient/20260122-passage-rafah-egypte-territoire-palestinien-bande-gaza-rouvrira-semaine-prochaine",
+      "title": "Le passage de Rafah rouvrira la semaine prochaine, annonce l'administrateur de Gaza",
+      "content_html": "Ali Shaath, administrateur de Gaza nommé par le Conseil de la paix de Donald Trump, a annoncé jeudi que le passage de Rafah entre le territoire palestinien et l'Égypte rouvrira \"dans les deux sens\" la semaine prochaine. La réouverture de ce poste-frontière fait partie du plan de trêve annoncé par le président américain en octobre, mais il était resté fermé jusqu'à présent.",
+      "date_published": "2026-01-22T13:42:03+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "14a86da0e5d07cb84d291adcd17d37d3a89085c297e1c579fef0d0f81c4a513f",
       "url": "https://www.lefigaro.fr/international/accord-de-1951-comment-les-etats-unis-ont-impose-leur-presence-militaire-au-groenland-des-la-seconde-guerre-mondiale-20260122",
       "title": "Groenland : comment l’accord de 1951 a permis aux États-Unis d’imposer leur présence militaire dès la fin de la Seconde Guerre mondiale",
@@ -2252,16 +2821,22 @@
       "lang": "fr"
     },
     {
-      "id": "d8d991ad837564e740fd7d517ab94d37be2cd4e062762611eea8aabebf28df4f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222221/roulottes-piscine-haltes-chaleur-montreal",
-      "title": "Des roulottes et une piscine parmi les nouvelles haltes-chaleur offertes à Montréal",
-      "content_html": "<p>La Ville dit avoir ajouté 534&nbsp;places et en offrir maintenant 3000 aux personnes itinérantes.</p>",
-      "date_published": "2026-01-22T13:34:32+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "b67d5f3d06a8333e01567d8dfb3ff206ac8d89e7118705736d3c10df9501d759",
+      "url": "https://www.france24.com/fr/france/20260122-lutte-contre-le-masculinisme-un-rapport-alerte-sur-un-retard-pr%C3%A9occupant-de-la-france",
+      "title": "Lutte contre le masculinisme : un rapport alerte sur le \"retard préoccupant\" de la France",
+      "content_html": "Le masculinisme doit être reconnu comme \"enjeu de sécurité publique\", a estimé, dans un rapport publié mercredi, le Haut Conseil à l'Égalité. L'instance appelle la France – qui \"accuse un retard préoccupant dans le traitement de ce phénomène\" – à mettre en place une stratégie nationale de prévention et de lutte contre cette forme de radicalisation.",
+      "date_published": "2026-01-22T13:34:41+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2294,6 +2869,24 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
+    },
+    {
+      "id": "03fbff547c34448d2b4d1aed6f3bb4ea307296f99942fa6e8e0e91a2d1cfee04",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260122-quels-pays-participeront-ou-non-au-conseil-de-paix-de-donald-trump-onu",
+      "title": "Quels pays participeront (ou non) au \"Conseil de la paix\" de Donald Trump ?",
+      "content_html": "Le président américain Donald Trump a officialisé ce jeudi la création de son \"Conseil de la paix\". L'organisation, initialement créée pour la résolution de la guerre à Gaza – bien que le territoire palestinien ne soit pas mentionné dans sa charte fondatrice –, vise en réalité le règlement de conflits mondiaux, en concurrence directe avec l’ONU. Selon l'administration américaine, une trentaine de pays ont accepté d'y prendre part.",
+      "date_published": "2026-01-22T13:30:07+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "291b1eb31e2ff16184537b4245cdf5bfa2ef760077e572b3bf148f7e92f42ce0",
@@ -2369,7 +2962,7 @@
       "id": "6cd90a25a93e37cc9c608e5c88aa066d418e0f595c4fee1f578a4deb8da9b57f",
       "url": "https://www.theguardian.com/world/2026/jan/22/trump-board-of-peace-launch-davos",
       "title": "Trump claims world ‘richer, safer’ than year ago at launch of his ‘board of peace’",
-      "content_html": "<p>US president holds signing ceremony at World Economic Forum amid concerns new body seeks to replace UN</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jan/22/davos-nato-ukraine-rutte-stubb-trump-greenland-deal-live-updates\">Davos live – latest updates</a></p></li></ul><p>Donald Trump has claimed the world is “richer, safer and much more peaceful than it was just one year ago” as he hosted a launch event for his “board of peace” initiative at the World Economic Forum in Davos.</p><p>At a signing ceremony for the new organisation, the US president said it would be “one of the most consequential bodies ever created in the history of the world”.</p> <a href=\"https://www.theguardian.com/world/2026/jan/22/trump-board-of-peace-launch-davos\">Continue reading...</a>",
+      "content_html": "<p>US president holds signing ceremony at World Economic Forum amid concerns new body seeks to replace UN</p><p>Donald Trump has claimed the world is “richer, safer and much more peaceful than it was just one year ago” as he hosted a launch event for his “board of peace” initiative at the World Economic Forum in Davos.</p><p>At a signing ceremony for the new organisation, the US president said it would be “one of the most consequential bodies ever created in the history of the world”.</p> <a href=\"https://www.theguardian.com/world/2026/jan/22/trump-board-of-peace-launch-davos\">Continue reading...</a>",
       "date_published": "2026-01-22T13:15:26+00:00",
       "authors": [
         {
@@ -2789,6 +3382,26 @@
       "lang": "en"
     },
     {
+      "id": "cd3a4889b0230747cedee6b6dd0294d71cdd301c9129158e34fb4e995375c9cb",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260122-trump-conseil-paix-sans-participation-des-grandes-puissances-etats-unis-davos",
+      "title": "Donald Trump lance son Conseil de la paix sans participation des grandes puissances",
+      "content_html": "Donald Trump a lancé son Conseil de la paix, jeudi, à Davos, lors d’une cérémonie de signature avec une trentaine d’alliés. Malgré les déclarations grandiloquentes du président américain, aucune grande puissance et peu d’alliés historiques ont décidé de rejoindre d’emblée cette nouvelle organisation internationale.",
+      "date_published": "2026-01-22T12:36:04+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "5ff1a87a73876709b6c73d46fa9686dc366a2a07ff71f2b59c54b95cbfaed603",
       "url": "https://www.lemonde.fr/international/article/2026/01/22/en-espagne-un-train-de-banlieue-percute-une-grue-plusieurs-blesses-legers_6663656_3210.html",
       "title": "Nouvel accident de train en Espagne, alors que la sécurité du réseau ferroviaire est plus que jamais sous surveillance",
@@ -3125,24 +3738,6 @@
       "lang": "en"
     },
     {
-      "id": "27f56a24669ba7da61a8382311638e7fa25effc247cf6264952df649ed03cf9e",
-      "url": "https://www.france24.com/en/replay-us-president-trump-speaks-at-davos-unveiling-board-of-peace-project",
-      "title": "REPLAY: US President Trump speaks at Davos unveiling 'Board of Peace' project",
-      "content_html": "This is a replay about US President Trump's speech at Davos unveiling 'Board of Peace' project.",
-      "date_published": "2026-01-22T12:04:08+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6f9f8e031fc2b5c3997230bc1366141111c7b17f67e0cf8f078941537f538129",
       "url": "https://www.lemonde.fr/idees/article/2026/01/22/robert-malley-ancien-diplomate-americain-rares-sont-ceux-qui-se-preoccupent-vraiment-de-l-avenir-de-la-population-iranienne_6663653_3232.html",
       "title": "Robert Malley, ancien diplomate américain : « Rares sont ceux qui se préoccupent vraiment de l’avenir de la population iranienne »",
@@ -3208,20 +3803,6 @@
       "lang": "fr"
     },
     {
-      "id": "43bee6df80fe2341c0adadf40a3d2d87edfa20d5e9417fb7a98547709131dac9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222393/trump-davos-conseil-de-paix-diplomatie-onu",
-      "title": "Trump signe la charte fondatrice de son « Conseil de paix » à Davos",
-      "content_html": "<p>Le scepticisme quant à son mandat a dissuadé certains pays proches de Washington d&#x27;y participer.</p>",
-      "date_published": "2026-01-22T11:50:42+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b18ed2c1b215b96758557de4171580cfe7d91ee14d5007b8f3c8f81c92f75941",
       "url": "https://www.aljazeera.com/news/2026/1/22/mapping-the-10-countries-with-the-most-overseas-territories?traffic_source=rss",
       "title": "Mapping the 10 countries with the most overseas territories",
@@ -3230,22 +3811,6 @@
       "authors": [],
       "tags": [
         "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "463bb11815c6687dfbdba90b471f432a8b0ea5b95e641346e6c2c176ca3eccf2",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/day-one-of-syrias-ceasefire-marked-by-violation-claims?traffic_source=rss",
-      "title": "Day one of Syria’s ceasefire marked by violation claims",
-      "content_html": "A four-day ceasefire between the Syrian government and the Kurdish-led SDF was meant to cool tensions.",
-      "date_published": "2026-01-22T11:38:50+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
       ],
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -3614,34 +4179,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "a4c8182e7c7e3fbce5ae835205caf8aca6e994206155cec187b8b0fbb6f8a632",
-      "url": "https://www.lemonde.fr/international/article/2026/01/22/en-syrie-la-situation-intenable-de-la-prison-d-al-hol-devenue-un-minicalifat-de-l-ei_6663644_3210.html",
-      "title": "En Syrie, la situation intenable de la prison d’Al-Hol, devenue un minicalifat de l’EI",
-      "content_html": "Des personnes derrière les grilles du camp d'Al-Hol, en Syrie, alors que le gouvernement syrien en a pris le contrôle à la suite du retrait des Forces démocratiques syriennes (FDS), le 21 janvier 2026.",
-      "date_published": "2026-01-22T10:18:40+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3d301a5f67b83ee4766bb010eb615e30070ea4ac99d4e9ba2899a3a317491c90",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222248/churchill-falls-negociateur-karl-smith",
-      "title": "Churchill Falls : un négociateur influent de T.-N.-L. dans le noir",
-      "content_html": "<p>Karl&nbsp;Smith n’a pas parlé au premier ministre Tony&nbsp;Wakeham depuis l&#x27;élection de ce dernier en octobre dernier.</p>",
-      "date_published": "2026-01-22T10:05:35+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "527e9591e6e018a5ef3788ccaf2c87303eb49dc8baafe88fe85a525055948dc2",
@@ -4052,62 +4589,6 @@
       "lang": "fr"
     },
     {
-      "id": "470083263f53d36c5abaac0254c8447e4ae962933a10c4f2576b8134ae155f55",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222280/secteur-forestier-canada-marche-international",
-      "title": "Quelle place pour le bois canadien sur le marché international?",
-      "content_html": "<p>Cela prendra du temps aux produits forestiers canadiens pour percer dans le marché chinois, dit un expert. </p>",
-      "date_published": "2026-01-22T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0d9abb1c1deb7c1ee4bb6cb0a3e0f7259e923e9f08b2ead1c4d6a7f456fa4850",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222356/permis-travail-echeance-hopitaux",
-      "title": "Le PDG du CHU de Québec craint d’avoir « trahi l’offre » faite aux recrues étrangères",
-      "content_html": "<p>Le PDG du CHU est bouleversé par l&#x27;incertitude que vivent les équipes à cause des changements en immigration.</p>",
-      "date_published": "2026-01-22T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8b9d9ac69263d45e1b559dbcba329caab7fc0085770590c9e10d8c70b6618906",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222247/parti-quebecois-investiture-yohann-stpierre",
-      "title": "Un médecin spécialiste tentera sa chance pour le PQ dans Rimouski",
-      "content_html": "<p>Yohann St-Pierre présentera sa candidature à l&#x27;investiture du Parti québécois dans la circonscription.</p>",
-      "date_published": "2026-01-22T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c6a6392084428574dac5e575d15a3c850f4eb98320ac4f086bc3cbca389db804",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222059/fin-dimanche-gratuit-musee-impact",
-      "title": "La santé financière des musées fragilisée par la fin des dimanches gratuits",
-      "content_html": "<p>L’impact de la fin de la mesure se fait sentir tant dans les finances des musées que dans l’accessibilité</p>",
-      "date_published": "2026-01-22T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c4dc97da954f43731ae7ed8a81bcd930666bb44a8c877e72dc4c98e0f2b4bbaf",
       "url": "https://www.ukrinform.net/rubric-ato/4082985-russians-strike-sumy-region-almost-20-times-over-past-day-two-people-injured.html",
       "title": "Russians strike Sumy region almost 20 times over past day, two people injured",
@@ -4258,38 +4739,6 @@
       "lang": "fr"
     },
     {
-      "id": "0f3df2c71a4db1705e7a1ca10cae32adf4e79ea872c98091768a8e8d9dddfbb4",
-      "url": "https://www.ukrinform.net/rubric-polytics/4082988-zelensky-heads-to-davos.html",
-      "title": "Zelensky heads to Davos",
-      "content_html": "President Volodymyr Zelensky is heading to the World Economic Forum in Davos.",
-      "date_published": "2026-01-22T08:18:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "405fed309f7f6af6669190563babff07ef084990d0e634236acba3ff4d430e0e",
-      "url": "https://www.ukrinform.net/rubric-ato/4082977-russian-drone-explodes-between-residential-buildings-in-chernihiv.html",
-      "title": "Russian drone explodes between residential buildings in Chernihiv",
-      "content_html": "On Thursday morning, a Russian unmanned aerial vehicle exploded in Chernihiv between residential buildings.",
-      "date_published": "2026-01-22T08:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b3bf9384040a9bf073d46482d95c096dc2c86115b578a835cee3d83b75ade110",
       "url": "https://www.liberation.fr/international/europe/moldavie-la-presidente-pro-europeenne-envoie-un-signal-a-bruxelles-en-evoquant-une-reunification-avec-la-roumanie-20260122_OQUFRINTKVG47GSWVC5GZBVCAE/",
       "title": "Moldavie : la présidente pro-européenne envoie un signal à Bruxelles en évoquant une réunification avec la Roumanie",
@@ -4338,25 +4787,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4431195cd9d7dc71e7cdffe5b8b9103a2ce3fd48ef81e93b39a905cf5dd76ce8",
-      "url": "https://www.timesofisrael.com/they-were-shooting-at-their-backs-a-glimpse-into-irans-brutal-protest-crackdown/",
-      "title": "‘They were shooting at their backs’: A glimpse into Iran’s brutal protest crackdown",
-      "content_html": "<p>Speaking from Istanbul, a protester says it was 'too dangerous' to go to a hospital after he was wounded, since police were waiting to detain and interrogate anyone with injuries</p>\n<p>The post <a href=\"https://www.timesofisrael.com/they-were-shooting-at-their-backs-a-glimpse-into-irans-brutal-protest-crackdown/\">&#8216;They were shooting at their backs&#8217;: A glimpse into Iran&#8217;s brutal protest crackdown</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20260121__93GN3UB__v1__HighRes__IranProtests-1-1024x640.jpg\" title=\"&#8216;They were shooting at their backs&#8217;: A glimpse into Iran&#8217;s brutal protest crackdown\" width=\"160\" /></figure>",
-      "date_published": "2026-01-22T07:49:17+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "2026 Iran protests",
-        "Iran",
-        "Iranian dissidents"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -4420,20 +4850,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7967ac287525249d4ffd317f38376b52e7b57a793442a92a60048eb2d4274abc",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222388/campagne-electorale-legislatives-bangladesh",
-      "title": "Coup d’envoi de la campagne des législatives au Bangladesh",
-      "content_html": "<p>Dans 20&nbsp;jours, plus de 127&nbsp;millions d&#x27;électeurs seront appelés à pourvoir les 350&nbsp;sièges du Parlement.</p>",
-      "date_published": "2026-01-22T06:43:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4516,41 +4932,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "6608a2b218269c9b1978f8aeaa316b41c10969658389a7529fea558c810c944f",
-      "url": "https://www.timesofisrael.com/san-diego-jewish-groups-decry-rabbis-disinvitation-from-martin-luther-king-day-event/",
-      "title": "San Diego Jewish groups decry rabbi’s ‘disinvitation’ from Martin Luther King Day event",
-      "content_html": "<p>Hanan Leberman asserts he was excluded due to connection to Israel; organizers say he was asked not to speak over ‘potential disruption related to Zionism’</p>\n<p>The post <a href=\"https://www.timesofisrael.com/san-diego-jewish-groups-decry-rabbis-disinvitation-from-martin-luther-king-day-event/\">San Diego Jewish groups decry rabbi&#8217;s &#8216;disinvitation&#8217; from Martin Luther King Day event</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/854120-1024x640.jpg\" title=\"San Diego Jewish groups decry rabbi&#8217;s &#8216;disinvitation&#8217; from Martin Luther King Day event\" width=\"160\" /></figure>",
-      "date_published": "2026-01-22T06:17:39+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Martin Luther King Jr.",
-        "San Diego",
-        "Alliance San Diego",
-        "anti-Zionism",
-        "Randi Weingarten"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "dd0509b144dbf8f91b90b76d02f4b893033c3ef8a85953be99f2252d45705b8b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222387/proces-militants-tiananmen-hong-kong",
-      "title": "Le procès de trois militants de Tiananmen s’ouvre à Hong Kong",
-      "content_html": "<p>Hong Kong a longtemps été le seul endroit du territoire chinois où l&#x27;on pouvait commémorer la répression.</p>",
-      "date_published": "2026-01-22T05:31:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4843,7 +5224,7 @@
     {
       "id": "628bd212a6298366e8b9d2262e39553c35114e9be9457a212a8d90e748a0a0bb",
       "url": "https://www.elmundo.es/internacional/2026/01/22/69711c96fc6c8332728b45ab.html",
-      "title": "Delcy Rodríguez reçoit 300 millions de pétrole des États-Unis pendant qu'elle démantèle la direction militaire de Nicolas Maduro",
+      "title": "Delcy Rodríguez reçoit 300 millions de pétrole des États-Unis tout en démantelant la direction militaire de Nicolas Maduro",
       "content_html": "Il s’agit du pétrole brut qui était retenu dans les ports et les raffineries après la mise en place du blocus pétrolier en décembre.",
       "date_published": "2026-01-22T01:27:46+00:00",
       "authors": [
@@ -4855,20 +5236,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "ab06cc9e77c2cef7b2d9790435c1dd51088812ac8e743c73378733558a3462de",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222292/haroun-bouazzi-depart-quebec-solidaire",
-      "title": "Le solidaire Haroun Bouazzi quittera la vie politique à la fin de son mandat",
-      "content_html": "<p>Haroun Bouazzi est député de la circonscription montréalaise de Maurice-Richard depuis 2022.</p>",
-      "date_published": "2026-01-22T01:19:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5039,68 +5406,6 @@
       "lang": "fr"
     },
     {
-      "id": "d2d5ff2ca32f83153738ad65acfbed02e4a451259593c7a176ca604c3d896df2",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222321/affaire-epstein-procedure-bill-hillary-clinton-entrave-congres",
-      "title": "Affaire Epstein : une procédure contre Bill et Hillary Clinton pour entrave au Congrès",
-      "content_html": "<p>Les Clinton ont refusé de se présenter à une audition dans le cadre d&#x27;une enquête parlementaire.</p>",
-      "date_published": "2026-01-21T22:42:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "94c95b9f092a6b29fde58afba0bd8f0dd7028f39b1bf6f33b16dfce64554424f",
-      "url": "https://ici.radio-canada.ca/sports/2222325/chronique-martin-leclerc-martin-lapointe-sam-pollock-prof-caron",
-      "title": "Martin Lapointe, comme à l’époque de Sam Pollock et du prof Caron",
-      "content_html": "<p>La renaissance du Canadien est directement liée au travail de son directeur du recrutement, Martin Lapointe. </p>",
-      "date_published": "2026-01-21T22:19:06+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "caa14d19a27319c838166f514ebb4f80f760d477d2351894756f6954b5f7b3f3",
-      "url": "https://elpais.com/internacional/2026-01-21/francia-pide-activar-a-la-otan-en-groenlandia.html",
-      "title": "La France demande l'activation de l'Otan au Groenland",
-      "content_html": "Les troupes danoises participent à des exercices militaires au Groenland le 17 janvier.",
-      "date_published": "2026-01-21T21:54:24+00:00",
-      "authors": [
-        {
-          "name": "Daniel Verdú,Silvia Ayuso"
-        }
-      ],
-      "tags": [
-        "Conflicto EE. UU. - Dinamarca por Groenlandia",
-        "OTAN",
-        "Francia",
-        "Groenlandia",
-        "Emmanuel Macron",
-        "Donald Trump",
-        "Dinamarca",
-        "Amenazas",
-        "Ataques militares",
-        "Aranceles",
-        "Unión Europea",
-        "Guerra",
-        "Europa",
-        "Relaciones internacionales",
-        "Geopolítica"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a55ced6b93af387d59aed338f8e8b9c9530467509175c5f753b91a2c108391ae",
       "url": "https://www.lefigaro.fr/international/donald-trump-renonce-a-employer-la-force-pour-s-emparer-du-groenland-20260121",
       "title": "Donald Trump annonce un futur accord sur le Groenland avec l’Otan",
@@ -5113,34 +5418,6 @@
       "source": {
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "67aee541b476bff2d6b6d9efe81304ecfa7f8527f740f0daf78ed386520faf8f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222308/cour-federale-annule-fermeture-tiktok-canada-bytedance",
-      "title": "La Cour fédérale annule l’ordonnance de fermeture de TikTok Canada",
-      "content_html": "<p>TikTok peut continuer à exploiter ses bureaux au Canada pendant qu’Ottawa procède à un nouvel examen.</p>",
-      "date_published": "2026-01-21T21:43:31+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7a684c72bd975006e082576a2c5ac3a7a22ef939fb5d0a1b0f8cedf00816525f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222159/course-chefferie-caq-jolin-barrette",
-      "title": "Chefferie de la CAQ : François Legault promet de ne pas « jouer à la belle-mère »",
-      "content_html": "<p>Cinq ministres et députés réfléchissent actuellement à l&#x27;idée de se&nbsp;porter candidats à&nbsp;sa&nbsp;succession.</p>",
-      "date_published": "2026-01-21T21:31:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5179,20 +5456,6 @@
       "lang": "fr"
     },
     {
-      "id": "81206b5c7fb706b958f897a2dd408a67c296c228fe86dc806d01eba723a5b817",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222137/incendie-fermeture-pont-jacques-cartier-direction-nord",
-      "title": "Le pont Jacques-Cartier rouvert dans les deux directions",
-      "content_html": "<p>La voie de sortie du pont Jacques-Cartier en direction de l’avenue De Lorimier sud demeure toutefois fermée.</p>",
-      "date_published": "2026-01-21T21:18:13+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "16642532accf48e25a9517f52f29a5d39467193696e24d9a3caae71670010d37",
       "url": "https://elpais.com/internacional/2026-01-21/trump-anuncia-un-principio-de-acuerdo-sobre-groenlandia-y-retira-la-amenaza-de-aranceles.html",
       "title": "Trump annonce un « cadre pour un futur accord » avec l’OTAN sur le Groenland et retire sa menace de droits de douane",
@@ -5220,20 +5483,6 @@
       "lang": "fr"
     },
     {
-      "id": "4235013897d3e848eaf0820c790ba7ac4b8aa9bc09b2a6b4403d5aab1e84f96a",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222282/iran-media-officiel-3117-morts-contestation",
-      "title": "Iran : un média officiel fait état de 3117 morts durant la vague de contestation",
-      "content_html": "<p>Le mouvement a commencé le 28&nbsp;décembre par des protestations contre le coût de la vie.</p>",
-      "date_published": "2026-01-21T21:00:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "db4e88115617cc6e29298a5ff7abdfdf0853a86fcb26e519e90e00e4ad5c28cf",
       "url": "https://www.liberation.fr/international/amerique/en-direct-menaces-de-trump-davos-attend-le-president-americain-retarde-par-air-force-one-20260121_7BNZ4QU27VCULOYXS5T32MB5CQ/",
       "title": "A Davos, Trump annonce les bases «d’un futur accord» sur le Groenland",
@@ -5248,20 +5497,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "88abb808dcf5bf405453de280e2a087861cd0f1ca31e0868500b665b487d13e2",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222156/bfm-hells-angels-arrestations-regions-quebec",
-      "title": "Groupes criminels : 12 arrestations dans plusieurs régions du Québec",
-      "content_html": "<p>Des proches d&#x27;All Boivin et une tête dirigeante d&#x27;un réseau lié aux Hells Angels ont notamment été&nbsp;arrêtés.</p>",
-      "date_published": "2026-01-21T20:54:27+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5370,20 +5605,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "e0885ba0830e651b65f5c844999ff68334a3114fea5129ef8ce744944b595d27",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222126/logement-annonce-quebec-ottawa-carney-legault",
-      "title": "Ottawa et Québec s’entendent sur le logement",
-      "content_html": "<p>Ottawa versera 1&nbsp;milliard de dollars à Québec pour des infrastructures liées au logement.</p>",
-      "date_published": "2026-01-21T20:04:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "eba05994346356ce72186f0c6f975904ad9b864343170b3fd1c648a8d72a6fb5",
@@ -5698,34 +5919,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "feba64c19a22889f05a89943f07a712fd0c0313a97a623dd8dbdbb569fb6b999",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222211/nominations-gala-olivier-2026-humour",
-      "title": "Mégan Brouillard et Pierre-Yves Roy-Desmarais en tête des nominations aux Olivier",
-      "content_html": "<p>Le 27<sup>e</sup>&nbsp;Gala Les Olivier, animé par Korine Côté, sera diffusé le 29&nbsp;mars prochain sur ICI&nbsp;Télé et ICI&nbsp;Tou.tv.</p>",
-      "date_published": "2026-01-21T17:45:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c08d2089916a39732bb4f1f756b74f9d4d09ff17d205ad116b796467b4d4f422",
-      "url": "https://ici.radio-canada.ca/espaces-autochtones/2222208/dalhousie-buffy-sainte-marie-aaron-prosper-autochtones",
-      "title": "L’Université Dalhousie retire son diplôme honorifique à Buffy Sainte-Marie",
-      "content_html": "<p>Cette décision intervient deux ans après les révélations sur les prétentions identitaires autochtones.</p>",
-      "date_published": "2026-01-21T17:37:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "1c4bf5132d7445e5dc891638d69f8b20652909ac7f85de0028460b06fd312f90",
@@ -6473,7 +6666,7 @@
       "id": "5d3ef11804ee1b41ff15efbd3450ba3c273e2e7c1a4a567ec616890e3b00861b",
       "url": "https://www.elmundo.es/internacional/2026/01/21/696fbe0de9cf4af37f8b4579.html",
       "title": "Trump arrive au Forum économique mondial avec un « Conseil de la paix » alternatif à l'ONU pour résoudre les conflits",
-      "content_html": "Il fait pression pour recruter des membres et vend aux enchères les sièges permanents d'un \"organisme agile et efficace\" qu'il contrôlerait entièrement, même s'il cessait d'être président.",
+      "content_html": "Il fait pression pour recruter des membres et vend aux enchères les sièges permanents d'un \"organe agile et efficace\" qu'il contrôlerait entièrement, même s'il cessait d'être président.",
       "date_published": "2026-01-21T07:13:23+00:00",
       "authors": [
         {
@@ -7139,9 +7332,9 @@
       "lang": "en"
     },
     {
-      "id": "38c37c3dfd873055a3e144716d50b1ec4d06b0cf0032e5c98242a4fc3a743381",
-      "url": "https://www.dw.com/en/halabja-massacre-survivors-still-haunted-by-chemical-war/a-75580145?maca=en-rss-en-all-1573-rdf",
-      "title": "Halabja Massacre: Survivors still haunted by chemical war",
+      "id": "e02e9ab83dd8b884206b87a884d21999d059684e031f012593f2171f6d68c00f",
+      "url": "https://www.dw.com/en/halabja-massacre-survivors-still-haunted-by-chemical-weapons-strike/a-75580145?maca=en-rss-en-all-1573-rdf",
+      "title": "Halabja Massacre: Survivors still haunted by chemical weapons strike",
       "content_html": "Kurdish Iraqis who survived the 1988 chemical weapons attack on Halabja and nearby communities have lasting trauma, a new report finds, highlighting the need for long-term mental health care and survivor support.",
       "date_published": "2026-01-20T18:13:00+00:00",
       "authors": [],
@@ -7445,7 +7638,7 @@
     {
       "id": "14ec41b0235609c034facf83bd1a2d1c1e1455e9ba4fe1def9cbeb0e483fd5c8",
       "url": "https://www.elmundo.es/internacional/2026/01/20/696f479fe85eceaa2d8b45b4.html",
-      "title": "Trump laisse à nouveau filtrer des messages de Rutte et aussi de Macron et accuse le Royaume-Uni d'avoir commis une \"grande bêtise\" en cédant les îles Chagos à Maurice",
+      "title": "Trump laisse à nouveau filtrer des messages de Rutte mais aussi de Macron et accuse le Royaume-Uni d'avoir commis une \"grande bêtise\" en cédant les îles Chagos à Maurice.",
       "content_html": "Le président américain publie sur son réseau social que la décision britannique \"s'ajoute à une longue liste de raisons de sécurité nationale pour lesquelles le Groenland doit être acquis\"",
       "date_published": "2026-01-20T10:10:43+00:00",
       "authors": [
@@ -7746,27 +7939,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "b8dc8f78ed98069fb4fbe21055abb97e603765fa0fba9acd0495595a03551fc3",
-      "url": "https://www.elmundo.es/internacional/2026/01/20/696ed2d9fc6c831c778b456f.html",
-      "title": "La fille d'Edmundo González dénonce avoir été extorquée « dans une ambassade » et à l'évêché pour que son père abandonne la lutte politique",
-      "content_html": "Mariana González affirme qu'en échange ils lui ont offert la liberté de son mari, Rafael Tudares, emprisonné à El Rodeo",
-      "date_published": "2026-01-20T00:57:41+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "Edmundo González",
-        "Venezuela"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "6deac525c1ce280728235f147f49c999c7f88f42548c0388a13af785ebbb9862",
@@ -8633,20 +8805,6 @@
       "title": "‘Heated Rivalry’ Catches Fire in Russia Despite Kremlin’s Anti-LGBTQ+ Repressions",
       "content_html": "For many Russian viewers, the series provides a rare portrayal of queer lives and relationships at a time when LGBTQ+ visibility has largely vanished.",
       "date_published": "2026-01-15T16:17:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "667a10f3422119c69c37f216503aa702ead395cd8d59c872c9074c18e0551f54",
-      "url": "https://www.themoscowtimes.com/2026/01/15/putin-says-russia-is-ready-to-restore-relations-with-europe-a91691",
-      "title": "Putin Says Russia Is ‘Ready to Restore’ Relations With Europe",
-      "content_html": "Putin said “respect for national interests and consideration of legitimate security concerns” were his preconditions for a return to amicable ties.",
-      "date_published": "2026-01-15T16:10:00+00:00",
       "authors": [],
       "tags": [],
       "source": {
