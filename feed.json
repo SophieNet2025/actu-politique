@@ -5,35 +5,107 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "f44d492ad8c9095da869979d31dc74500cbb3f7149f9a0ae0796745b94679c64",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
-      "title": "Minneapolis shooting: Governor Tim Walz condemns ‘sickening’ fatal shooting of man believed to be 37-year-old US citizen – live",
-      "content_html": "<p>Minnesota governor decries ‘federal occupation’ after another deadly shooting less than three weeks after ICE officer killed Renee Good in the city</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/24/minneapolis-shooting-federal-agents\">Man believed to be 37-year-old US citizen shot by federal agents</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/24/jacob-frey-full-statement\">‘How many more Americans need to die?’: mayor lambastes Trump</a></p></li></ul><p>In a statement sent to the Guardian, assistant secretary of homeland security Tricia McLaughlin said that at 9.05am local time, “as DHS law enforcement officers were conducting a targeted operation in Minneapolis” against a person they said was in the country illegally, who she said was “wanted for violent assault”, “an individual approached US Border Patrol officers with a 9 mm semi-automatic handgun.”</p><p>McLaughlin said that “the officers attempted to disarm the suspect but the armed suspect violently resisted” and that “more details on the armed struggle are forthcoming.”</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live\">Continue reading...</a>",
-      "date_published": "2026-01-24T20:08:59+00:00",
+      "id": "4911428f7cea49842aeefde3be2b1e8fae06e39f9d2c11631ff16cd9af111d57",
+      "url": "https://www.lemonde.fr/international/article/2026/01/24/en-iran-le-patron-des-telecoms-annonce-un-retour-d-internet-aujourd-hui-ou-demain_6663992_3210.html",
+      "title": "En Iran, le patron des télécoms annonce un retour d’internet « aujourd’hui ou demain »",
+      "content_html": "Dans le métro de Téhéran, le 24 janvier 2026.",
+      "date_published": "2026-01-24T20:36:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d0bc4c671f80964c094679483e7a6d66e93aaa72cca7f8bb75091b6c2f2dc0b6",
+      "url": "https://www.dw.com/en/protests-in-iran-official-casualty-figures-in-doubt/a-75642949?maca=en-rss-en-all-1573-rdf",
+      "title": "Protests in Iran: Official casualty figures in doubt",
+      "content_html": "The number of people killed in the brutal suppression of protests in Iran remains unclear, with reports that the injured are avoiding medical assistance out of fear.",
+      "date_published": "2026-01-24T20:29:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f4a86f3a5d613206fc755f9a37696fb1bff6d922d05a552862c1e584d733c02f",
+      "url": "https://elpais.com/us/migracion/2026-01-24/un-hombre-muere-en-minneapolis-tiroteado-por-la-policia-migratoria-de-trump.html",
+      "title": "La police de l'immigration de Trump tire et tue un homme à Minneapolis",
+      "content_html": "Des agents fédéraux montent la garde sur les lieux de la mort d'un homme abattu par un policier, ce samedi à Minneapolis.",
+      "date_published": "2026-01-24T20:27:41+00:00",
       "authors": [
         {
-          "name": "Joanna Walters"
+          "name": "Jesús-Sérvulo González Moreno"
         }
       ],
       "tags": [
+        "Estados Unidos",
+        "América",
+        "Migrantes",
+        "Inmigrantes",
+        "Migración",
+        "Deportación",
+        "Crisis migratoria",
+        "Inmigración",
+        "Inmigración irregular",
+        "ICE",
         "Minneapolis",
         "Minnesota",
-        "Minnesota ICE shooting",
-        "US immigration",
-        "US news"
+        "Donald Trump",
+        "Kristi Noem",
+        "Política migratoria EE. UU."
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b0b918ad52e840aa68958e8a7aad0b7ae4aa996364e3b424c3320ca63f1e6e6c",
+      "url": "https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss",
+      "title": "Ceasefire between Syrian army and Kurdish-led forces extended for 15 days",
+      "content_html": "This is a breaking news story.",
+      "date_published": "2026-01-24T20:25:55+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "88b24134e4ad3f2dad5ae5f303c319b3c06b177ad60a28872d85b2adc073c9c1",
+      "url": "https://www.ukrinform.net/rubric-ato/4083983-over-3200-highrise-buildings-in-kyiv-left-without-heating-after-massive-russian-attack.html",
+      "title": "Over 3,200 high-rise buildings in Kyiv left without heating after massive Russian attack",
+      "content_html": "As a result of a nighttime attack, more than 3,200 high-rise apartment buildings in Kyiv have been left without heating. More than 160 repair crews are working around the clock at the affected sites, including teams brought in from other regions.",
+      "date_published": "2026-01-24T20:25:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
     {
       "id": "ed800696714c465eae1c77a4e30bc426d87bc507efaf0588f25110234150a5a7",
       "url": "https://www.theguardian.com/world/live/2026/jan/24/winter-snow-ice-storm-weather-weekend-latest-updates",
-      "title": "Winter Storm Fern live updates: nearly 85,000 homes and businesses without power and more than 11,000 flights cancelled",
+      "title": "Winter Storm Fern live updates: nearly 135,000 homes and businesses without power and more than 11,000 flights cancelled",
       "content_html": "<p>Winter storm system brings emergency declarations as snow and ice create unsafe driving conditions and power shortages</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/24/winter-storm-moves-across-us\">Snow, sleet and power outages: 140m Americans under warnings for massive winter storm</a></p></li></ul><p><strong>The severe cold weather has created unsafe driving conditions on many roads throughout the midwest and southern US today.</strong> Sheets of ice are currently coating several streets and highways, causing increasing risk to drivers.</p><p>Even after the ice has been cleared away, it often quickly comes back due to precipitation and freezing temperatures. Officials are urging people to stay off the roads. Sgt Ellis from the Tennessee highway patrol <a href=\"https://x.com/THPLawrencebur/status/2015070726785843512\">posted a video</a> on social media demonstrating the dangerous conditions.</p> <a href=\"https://www.theguardian.com/world/live/2026/jan/24/winter-snow-ice-storm-weather-weekend-latest-updates\">Continue reading...</a>",
-      "date_published": "2026-01-24T20:05:50+00:00",
+      "date_published": "2026-01-24T20:23:38+00:00",
       "authors": [
         {
           "name": "Marina Dunbar"
@@ -73,7 +145,7 @@
       "url": "https://ici.radio-canada.ca/info/en-direct/1013420/des-agents-federaux-abattent-un-homme-a-minneapolis",
       "title": "Des agents fédéraux abattent un homme à Minneapolis",
       "content_html": "<p>Le gouverneur du Minnesota, Tim Walz, a dénoncé de nouveaux tirs par des agents fédéraux.  </p>",
-      "date_published": "2026-01-24T20:03:57+00:00",
+      "date_published": "2026-01-24T20:23:24+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -81,6 +153,60 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "0f3c73d7d50225dbc08bd2b49f9e28b8cc5e2421f672209baa0769d2afb7f7ea",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222985/bernard-drainville-francois-legault-premier-ministre-caq",
+      "title": "Bernard Drainville se lance dans la course à la chefferie de la CAQ",
+      "content_html": "<p>Sa candidature s’ajoute à celle de la ministre de l’Économie et de l’Énergie, Christine Fréchette.  </p>",
+      "date_published": "2026-01-24T20:23:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f44d492ad8c9095da869979d31dc74500cbb3f7149f9a0ae0796745b94679c64",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live",
+      "title": "Minneapolis shooting: Governor Tim Walz condemns ‘sickening’ fatal shooting of man believed to be 37-year-old US citizen – live",
+      "content_html": "<p>Minnesota governor decries ‘federal occupation’ after another deadly shooting less than three weeks after ICE officer killed Renee Good in the city</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/24/minneapolis-shooting-federal-agents\">Man believed to be 37-year-old US citizen shot by federal agents</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/24/jacob-frey-full-statement\">‘How many more Americans need to die?’: mayor lambastes Trump</a></p></li></ul><p>In a statement sent to the Guardian, assistant secretary of homeland security Tricia McLaughlin said that at 9.05am local time, “as DHS law enforcement officers were conducting a targeted operation in Minneapolis” against a person they said was in the country illegally, who she said was “wanted for violent assault”, “an individual approached US Border Patrol officers with a 9 mm semi-automatic handgun.”</p><p>McLaughlin said that “the officers attempted to disarm the suspect but the armed suspect violently resisted” and that “more details on the armed struggle are forthcoming.”</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/24/minneapolis-shooting-live\">Continue reading...</a>",
+      "date_published": "2026-01-24T20:11:05+00:00",
+      "authors": [
+        {
+          "name": "Joanna Walters"
+        }
+      ],
+      "tags": [
+        "Minneapolis",
+        "Minnesota",
+        "Minnesota ICE shooting",
+        "US immigration",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "deb6986a56f7a94e10f07fd859c4325fb45038c840503801a4c99fdeb8dcf7f6",
+      "url": "https://www.ukrinform.net/rubric-economy/4083982-relentless-russian-attacks-prevent-stabilization-of-ukraines-power-grid-shmyhal.html",
+      "title": "Relentless Russian attacks prevent stabilization of Ukraine’s power grid – Shmyhal",
+      "content_html": "Ongoing Russian attacks are preventing the stabilization of Ukraine’s power supply, as the energy system does not have enough time to recover.",
+      "date_published": "2026-01-24T20:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
     },
     {
       "id": "c7f8996fcef56e9fdfb9307d9a560fc791c5874a1518500c4942a80b88a82714",
@@ -153,26 +279,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "24d24024d42f0afd6920fe4c79482ce12870b383b6c58d093c19c09c1d12d236",
-      "url": "https://www.france24.com/fr/france/20260124-pr%C3%A9sidentielle-2027-la-primaire-de-la-gauche-unitaire-aura-lieu-le-11-octobre-prochain",
-      "title": "Présidentielle 2027 : la primaire de la gauche unitaire aura lieu le 11 octobre prochain",
-      "content_html": "La primaire de la gauche – non mélenchoniste – en vue de la présidentielle de 2027 a passé la vitesse supérieure, samedi, à Tours, où ses représentants ont annoncé qu'elle aurait lieu le 11 octobre prochain. Le Parti socialiste, divisé en interne, doit encore se prononcer officiellement sur sa participation à ce scrutin.",
-      "date_published": "2026-01-24T19:28:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "10a59a849bfb4381750c1a2031e007300e184533f2b0a8ccfdc871525259a0de",
@@ -557,44 +663,6 @@
       "lang": "en"
     },
     {
-      "id": "b3b9cf90780e77bf99109b5e774a33b4c3a00cf713bf694f8b12537cf0b596d9",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260124-nouveaux-tirs-atroces-des-agents-de-l-ice-%C3%A0-minneapolis-d%C3%A9nonce-le-gouverneur-du-minnesota",
-      "title": "🔴 Les autorités de Minneapolis confirment la mort d'un homme après des tirs d'agents fédéraux",
-      "content_html": "",
-      "date_published": "2026-01-24T18:02:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0593159e61c5756d43ba0daecc8f0ff33e5371711e0dffc92bbee5beaab54bad",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260124-harc%C3%A8lement-scolaire-marche-blanche-pour-cam%C3%A9lia-ce-dimanche-%C3%A0-mitry-mory",
-      "title": "Harcèlement scolaire : marche blanche pour Camélia ce dimanche à Mitry-Mory",
-      "content_html": "Dans votre magazine cette semaine, de nombreuses questions se posent depuis ce drame effroyable du 13 janvier dernier. Ce jour-là, Camélia, 17 ans met fin à ses jours, ou plutôt à ses souffrances. La jeune fille était victime de harcèlement dans son lycée. Notre invitée est Nora Tirane, présidente de l'association \"Marion La Main tendue\". Elle lutte depuis des années contre le fléau du harcèlement scolaire.",
-      "date_published": "2026-01-24T18:02:22+00:00",
-      "authors": [
-        {
-          "name": "Nabia MAKHLOUFI"
-        }
-      ],
-      "tags": [
-        "Une semaine en France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "69bbf7c1b3e20bcba989f1867f5013c392ede0b01ce6f2e3309766f1c6088302",
       "url": "https://www.lefigaro.fr/international/la-chine-purge-son-plus-haut-general-laissant-xi-jinping-seul-aux-commandes-20260124",
       "title": "La Chine purge son plus haut général, laissant Xi Jinping seul aux commandes",
@@ -706,40 +774,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f4a86f3a5d613206fc755f9a37696fb1bff6d922d05a552862c1e584d733c02f",
-      "url": "https://elpais.com/us/migracion/2026-01-24/un-hombre-muere-en-minneapolis-tiroteado-por-la-policia-migratoria-de-trump.html",
-      "title": "La police de l'immigration de Trump tire et tue un homme à Minneapolis",
-      "content_html": "Des agents fédéraux montent la garde sur les lieux de la mort d'un homme abattu par un policier, ce samedi à Minneapolis.",
-      "date_published": "2026-01-24T17:43:02+00:00",
-      "authors": [
-        {
-          "name": "Jesús-Sérvulo González Moreno"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "América",
-        "Migrantes",
-        "Inmigrantes",
-        "Migración",
-        "Deportación",
-        "Crisis migratoria",
-        "Inmigración",
-        "Inmigración irregular",
-        "ICE",
-        "Minneapolis",
-        "Minnesota",
-        "Donald Trump",
-        "Kristi Noem",
-        "Política migratoria EE. UU."
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -1213,78 +1247,6 @@
       "lang": "en"
     },
     {
-      "id": "4aa52d525d2b151d7e4c3197d009042f3acae3674a905f36ddf653a48b433af3",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-le-venezuela-ouvre-l-exploitation-du-p%C3%A9trole-au-secteur-priv%C3%A9",
-      "title": "Le Venezuela ouvre l'exploitation du pétrole au secteur privé",
-      "content_html": "La présidente par intérim du Venezuela a annoncé l'ouverture complète de l'exploitation pétrolière au secteur privé. Le résultat d'un projet de loi adopté en première lecture jeudi à l'Assemblée nationale, et sur fond de réchauffement avec les États-Unis. Dans le pays, cette annonce nourrit chez les habitants l'espoir d'améliorations de leurs conditions de vie. Récit d'Ethan Hajji.",
-      "date_published": "2026-01-24T16:22:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "48054a493f8677d5128e61be0f3d2d0362738e1e7f61bd5983df7a94148b4065",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-ukraine-zelensky-salue-des-discussions-constructives-%C3%A0-l-issu-d-un-cycle-de-pourparlers",
-      "title": "Ukraine : Zelensky salue des discussions \"constructives\" à l'issu d'un cycle de pourparlers",
-      "content_html": "Les pourparlers entre délégations ukrainienne, russe et américaine se sont achevés samedi à Abou Dhabi après des discussions \"constructives\" selon le président ukrainien Volodymyr Zelensky qui a indiqué que de nouvelles rencontres pourraient avoir lieu \"dès la semaine prochaine\". Précisions de Bruno Daroux, chroniqueur international France 24.",
-      "date_published": "2026-01-24T16:20:41+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "aa06fd285ba31eb5c0528ad1e4f4763ad7051529a8a3a295f18bb03851da3521",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-%C3%A9tats-unis-minneapolis-tente-de-r%C3%A9sister-aux-raids-de-la-police-de-l-immigration",
-      "title": "États-Unis : Minneapolis tente de résister aux raids de la police de l'immigration",
-      "content_html": "Malgré des températures glaciales, des milliers de manifestants ont défilé vendredi dans le centre de Minneapolis, au Minnesota, pour protester contre les opérations antimigrants et dénoncer la politique de la police de l’immigration américaine (ICE). Cette mobilisation massive fait suite à une nouvelle détention qui choqué la population de la ville : celle d’un petit garçon âgé de cinq ans. Analyse de Cécile Coquet-Mokoko, professeur de civilisation américaine à l'Université Versaille Saint-Quentin.",
-      "date_published": "2026-01-24T16:19:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "025cc123ce655e939f16800c030854f224f4f5ad617621a381264c4e56ea914f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-ukraine-fin-de-la-deuxi%C3%A8me-session-de-pourparlers-%C3%A0-abou-dhabi",
-      "title": "Ukraine : fin de la deuxième session de pourparlers à Abou Dhabi",
-      "content_html": "La deuxième session de pourparlers à Abou Dhabi entre négociateurs russes, ukrainiens et américains s'est achevée samedi, a annoncé la porte-parole d'un négociateur de Kiev. Précisions de Gulliver Cragg, correspondant de France 24 à Kiev.",
-      "date_published": "2026-01-24T16:18:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2f1d3f79352af335d0909a309333c6e3b27ebd76d5c9a83402b7b39fcf447248",
       "url": "https://www.france24.com/en/tehran-warn-it-will-treat-any-us-strike-as-an-all-out-war",
       "title": "Tehran warn it will treat any US strike as an \"all-out-war\"",
@@ -1371,20 +1333,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "0f3c73d7d50225dbc08bd2b49f9e28b8cc5e2421f672209baa0769d2afb7f7ea",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222985/bernard-drainville-francois-legault-premier-ministre-caq",
-      "title": "Succession de Legault : Drainville va annoncer samedi qu’il se lance dans la course",
-      "content_html": "<p>Sa candidature s’ajoute à celle de la ministre de l’Économie et de l’Énergie, Christine Fréchette.</p>",
-      "date_published": "2026-01-24T16:06:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "1b16d66b3cf90165cab5658713b3a369574dd9c23dfbbd13cff8e71d3b11db81",
@@ -1725,26 +1673,6 @@
       "lang": "en"
     },
     {
-      "id": "c91d117a0fb45c572978865f7d808a09681c99d7300cf97284fac7e367759fbe",
-      "url": "https://www.france24.com/fr/afrique/20260124-premier-ministre-s%C3%A9n%C3%A9gal-visite-maroc-sur-fond-tensions-entre-supporters-can-ousmane-sonko",
-      "title": "Le Premier ministre du Sénégal en visite au Maroc sur fond de tensions entre supporters de la CAN",
-      "content_html": "Le Premier ministre sénégalais Ousmane Sonko doit se rendre à Rabat à partir de lundi. Cette visite officielle est prévue une semaine après la finale de la CAN 2025, remportée par le Sénégal face au Maroc, le 18 janvier. Ce match a été émaillé d'incidents et des tensions ont subsisté les jours suivants entre les supporters des deux pays.",
-      "date_published": "2026-01-24T14:58:27+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ac1bad0d31bbde7f6f1a31fa7a5ac71dc95def34ef11ea726e8348346b2740fc",
       "url": "https://www.ukrinform.net/rubric-ato/4083927-zelensky-during-talks-in-uae-sides-focused-on-parameters-for-ending-war.html",
       "title": "Zelensky: During talks in UAE, sides focused on parameters for ending war",
@@ -1876,26 +1804,6 @@
       "lang": "fr"
     },
     {
-      "id": "a95dffe61da3b86d0494209fb7c74f462f77120daccacd2d3fc709934c38ddef",
-      "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20260124-racisme-c-est-une-lutte-pour-le-droit-%C3%A0-l-indiff%C3%A9rence-pour-hemley-boum",
-      "title": "Racisme : \"C'est une lutte pour le droit à l'indifférence\", pour Hemley Boum",
-      "content_html": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette semaine, c'est Hemley Boum, romancière née à Douala, au Cameroun. Elle aborde aujourd’hui son parcours d’écrivaine, ses racines, ou encore la lutte contre le racisme.",
-      "date_published": "2026-01-24T14:46:33+00:00",
-      "authors": [
-        {
-          "name": "Judith GRIMALDI"
-        }
-      ],
-      "tags": [
-        "Avec Judith"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "caf13f741b253e21949795d1a11ec83e74de6491bd3432aeea6e3dc1fd61a018",
       "url": "https://www.timesofisrael.com/iran-guards-have-finger-on-the-trigger-chief-of-force-says-as-us-fleet-heads-to-region/",
       "title": "Iran Guards have ‘finger on the trigger,’ chief of force says as US fleet heads to region",
@@ -1951,26 +1859,6 @@
       "lang": "en"
     },
     {
-      "id": "2b99b19bb43c1f81698077b04abd10bc0de8ce45cefeda5048e80cbdce0de5f3",
-      "url": "https://www.france24.com/fr/moyen-orient/20260124-syrie-parti-turc-prokurde-dem-demande-si%C3%A8ge-koban%C3%A9-lev%C3%A9-imm%C3%A9diatement",
-      "title": "Syrie : le parti turc prokurde DEM demande que le siège de Kobané soit \"levé immédiatement\"",
-      "content_html": "Le siège de la ville syrienne à majorité kurde de Kobané \"doit être levé immédiatement\", a déclaré samedi la coprésidente du Parti de l'égalité et de la démocratie des peuples (DEM), une formation turque prokurde. Elle dénonce une \"tragédie humanitaire\" dans cette localité frontalière de la Turquie et encerclée par l'armée syrienne.",
-      "date_published": "2026-01-24T14:26:20+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "5cef119a0a26dd47d2ea7bcaaec2c54354e71246c766d45726794ad9e7bd8091",
       "url": "https://www.france24.com/en/europe/20260124-europe-s-digital-reliance-on-us-big-tech-does-the-eu-have-a-plan",
       "title": "Europe’s digital reliance on US Big Tech: Does the EU have a plan?",
@@ -1989,24 +1877,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "e1d801a083dc746fe8972ebd791be6480729464af414c2371975c7595adb6321",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-minnesota-nouvelle-vague-de-col%C3%A8re-contre-l-ice-police-de-l-immigration-am%C3%A9ricaine",
-      "title": "Minnesota: nouvelle vague de colère contre l'ICE, police de l'immigration américaine",
-      "content_html": "\"Pas de travail. Pas d'école. Pas de shopping.\" C'est le mot d'ordre d'une journée de mobilisation contre la police de l'immigration (ICE) vendredi au Minnesota, après la mort d'une Américaine et l'arrestation d'un garçon de 5 ans. Une marche était prévue en début d'après-midi dans le centre-ville de Minneapolis, la plus grande ville de l'Etat du nord des Etats-Unis, avant un rassemblement dans la salle accueillant les matches de l'équipe de NBA, pouvant accueillir jusqu'à 20.000 personnes. Reportage d'Emilie Musset et Jessica Le Masurier.",
-      "date_published": "2026-01-24T14:25:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "c50b234158871a0eae0323cba429f6000c2a2db3d53a276a2af751188c9ebdcc",
@@ -2154,26 +2024,6 @@
       "lang": "en"
     },
     {
-      "id": "0099df8366f6919bbe71b5781762b33c6582f3f65f8623983e89170fccbf0ebc",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260124-face-a-r%C3%A9pression-de-t%C3%A9h%C3%A9ran-kurdes-iran-redoutent-pire-manifestations",
-      "title": "Face à la répression de Téhéran, les Kurdes d'Iran redoutent le pire",
-      "content_html": "Dans leur violente répression contre les manifestations en Iran, les forces de sécurité ont utilisé des armes semi-automatiques qui n'étaient jusque-là déployées que dans les zones kurdes du nord-ouest du pays, selon Amnesty. Cela pourrait annoncer des jours encore plus sombres pour la minorité kurde d'Iran, longtemps marginalisée, s'inquiètent des spécialistes.",
-      "date_published": "2026-01-24T13:52:04+00:00",
-      "authors": [
-        {
-          "name": "Leela JACINTO"
-        }
-      ],
-      "tags": [
-        "Asie-Pacifique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d0b9c360c42d2d99c731a251d79a080ec9fceef4c26b16e31d36a7cb3c045877",
       "url": "https://www.france24.com/en/over-8000-flights-canceled-in-the-us-due-to-winter-storm",
       "title": "Over 8000 flights canceled in the US due to winter storm",
@@ -2283,24 +2133,6 @@
       "lang": "en"
     },
     {
-      "id": "a9735c92a50b5f2d60cc80cf9de04288f410a9a94326e541689b41f02d67959c",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-quel-avenir-pour-le-cessez-le-feu-entre-arm%C3%A9e-syrienne-et-forces-kurdes",
-      "title": "Quel avenir pour le cessez-le feu entre armée syrienne et forces kurdes ?",
-      "content_html": "Quel avenir pour le cessez-le-feu conclu il y a deux semaines après d'intenses combats entre l'armée syrienne et des combattants kurdes dans le nord-est de la Syrie ? Négocié par les États-Unis, il expire aujourd'hui. Les combattants kurdes sont pour l'instant retranchés dans trois localités situées à l’extrémité nord du territoire : Kobané, Hassaké et Qamishli. Précisions de Marie-Charlotte Roupie, correspondante régionale de France 24 et envoyée spéciale en Syrie.",
-      "date_published": "2026-01-24T13:41:25+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "4046b0b185ace0c3c9fe4d376fc38af9f15e311d796131944f5e4a63d2794f8d",
       "url": "https://www.dw.com/en/germany-news-berlin-vows-aggressive-cybersecurity-stance/live-75639462?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Berlin vows aggressive cybersecurity stance",
@@ -2362,24 +2194,6 @@
       "lang": "en"
     },
     {
-      "id": "2c091d0d011941ffde8c47f9cbfe49c787c386e8cb44f59903b8741aab9a9066",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-iran-les-%C3%A9tats-unis-vont-ils-intervenir-militairement-en-iran",
-      "title": "Iran : les États-Unis vont-ils intervenir militairement en Iran ?",
-      "content_html": "Les États-Unis semblent maintenir la pression sur l'Iran. Alors que la perspective d'une intervention militaire semblait s'être éloignée, le président Donald Trump a affirmé jeudi qu'une \"armada navale américaine\" était en route pour le Golfe. Le président américain a plusieurs fois menacé de frapper l'Iran en réponse à la répression du récent mouvement de contestation dans ce pays, mais il avait semblé revenir sur cette menace la semaine dernière après avoir assuré que Téhéran avait suspendu les exécutions prévues de manifestants.",
-      "date_published": "2026-01-24T13:23:26+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b76af26a1a0b3bfb879022f33783ce5895a97c656abeb2b38930b7b0382b2a9e",
       "url": "https://www.ukrinform.net/rubric-economy/4083907-eu-to-deliver-447-generators-to-support-kyiv-and-frontline-communities.html",
       "title": "EU to deliver 447 generators to support Kyiv and frontline communities",
@@ -2394,60 +2208,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "5cf2d8fd67a5e8ffda370d8d5dca3aa70c2020ca81040a8e531721d26fb70534",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-%C3%A9tats-unis-la-police-de-l-immigration-une-force-f%C3%A9d%C3%A9rale-intouchable",
-      "title": "États-Unis : La police de l'immigration, une force fédérale intouchable?",
-      "content_html": "En dépit des températures glaciales, les opposants aux opérations antimigrants dans le Minnesota se sont massivement mobilisés vendredi en dépit des tentatives des autorités américaines de calmer l'indignation provoquée par la détention d'un garçon de cinq ans par la police de l'immigration (ICE). Analyse de Tristan Cabello, historien spécialiste des États-Unis.",
-      "date_published": "2026-01-24T13:19:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a81b311348807ea18831cf387f19e87f21b2b59f7f65533882938d9222de0c6a",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-un-%C3%A9pisode-de-froid-arctique-frappe-une-grande-partie-des-%C3%A9tats-unis",
-      "title": "Un épisode de froid arctique frappe une grande partie des États-Unis",
-      "content_html": "Des dizaines de millions d'Américains se préparent vendredi à affronter une tempête hivernale massive, qui balayera les États-Unis des Grandes plaines du centre jusqu'aux métropoles de la côte Est, accompagnée d'un cortège de conditions périlleuses. Récit d'Axelle Simon et Shirli Sitbon.",
-      "date_published": "2026-01-24T13:17:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "31580f4d5807d58641c3fa783f7dda4937a9c60d981f75a9a055af81d9e84e62",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-ukraine-kiev-d%C3%A9nonce-une-nuit-de-terreur-russe-en-plein-pourparlers",
-      "title": "Ukraine : Kiev dénonce une \"nuit de terreur russe\" en plein pourparlers",
-      "content_html": "L'Ukraine a dénoncé une \"nuit de terreur\" marquée par des frappes russes nocturnes ayant fait au moins un mort et 27 blessés, avant une deuxième journée de pourparlers samedi entre Ukrainiens, Russes et Américains à Abou Dhabi pour discuter des conditions d'un règlement du conflit. Récit de Natalia Odisharia.",
-      "date_published": "2026-01-24T13:12:38+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "30f6fa11393d21c3c8d54aef23139e9f77688f70f02fee7f57b30ec9bb1e686a",
@@ -2764,26 +2524,6 @@
       "lang": "fr"
     },
     {
-      "id": "553f1dfbf35e3edb1a2fa1af87b164643c84c2fa0c5f54aa73d90edd03de2244",
-      "url": "https://www.france24.com/fr/afrique/20260124-soudan-viol-esclavage-sexuel-trafic-femmes-premieres-victimes-guerre-ravage-pays-mariage-force",
-      "title": "Viol, esclavage sexuel, trafic : les Soudanaises, premières victimes de la guerre qui ravage le pays",
-      "content_html": "Au Soudan, la guerre entre l'armée et les paramilitaires a fait des femmes ses premières victimes. Violences sexuelles, esclavage et viols utilisés comme armes de guerre marquent un conflit que la ministre aux Affaires sociales décrit comme un \"condensé de toutes les pires choses\" vécues dans le monde. Et les auteurs \"sont très fiers de ce qu'ils font\".",
-      "date_published": "2026-01-24T11:42:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7292569a36ebbd62a73741385b12653ad8ec180c3776671b3e7a9a5f59108546",
       "url": "https://www.ukrinform.net/rubric-ato/4083886-in-kharkiv-drone-attack-victim-toll-climbs-to-27.html",
       "title": "In Kharkiv, drone attack victim toll climbs to 27",
@@ -2994,26 +2734,6 @@
       "lang": "en"
     },
     {
-      "id": "a8501b852f82fbf4c52e09c8d9755fc1b7f4156144eee857c77f6a251795b5da",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260124-iran-des-comptes-pro-r%C3%A9gime-utilisent-le-pr%C3%A9texte-de-l-ia-pour-nier-les-massacres-de-manifestants",
-      "title": "Iran :  des comptes pro-régime utilisent le prétexte de l’IA pour nier les massacres de manifestants",
-      "content_html": "La diffusion d’une image générée par intelligence artificielle dans une morgue de Téhéran — où ont été entreposés des centaines de corps de manifestants — a été manipulée par les soutiens de la république islamique : ils s’en servent pour remettre en cause l’authenticité d’une photographie bien réelle prise au même endroit.",
-      "date_published": "2026-01-24T11:00:08+00:00",
-      "authors": [
-        {
-          "name": "Les Observateurs"
-        }
-      ],
-      "tags": [
-        "Asie-Pacifique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cb5377b3a3e9967d4bb163129bbdc27e2ee9c3197748fe8a55a9ee9fdf83d407",
       "url": "https://ici.radio-canada.ca/nouvelle/2222006/cuivre-prix-scrap-metal-vol",
       "title": "La flambée des prix du cuivre cause une hausse vertigineuse des vols",
@@ -3024,20 +2744,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "51ada91d841f9f80625029b496ae38e630273e33faf168ce98eea4fb9e84c2ab",
-      "url": "https://www.lemonde.fr/international/article/2026/01/24/en-chine-le-plus-haut-grade-de-l-armee-sous-le-coup-d-une-enquete-pour-de-graves-violations-de-la-discipline_6663946_3210.html",
-      "title": "Chine : le général Zhang Youxia, plus haut gradé de l’armée, visé par une enquête pour de « graves violations de la discipline »",
-      "content_html": "Le général Zhang Youxia, vice-président de la Commission militaire centrale, le 22 avril 2024 à Qingdao, dans le province Shandong.",
-      "date_published": "2026-01-24T10:53:09+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -3142,26 +2848,6 @@
       "lang": "en"
     },
     {
-      "id": "68bf2f37ac55781c7745a77eee2fa1028b568026c58f797b892e3d0e2d6f36b1",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260124-football-bradley-barcola-replace-psg-au-sommet-ligue-1-rc-lens-auxerre",
-      "title": "Football : Bradley Barcola replace le PSG au sommet de la Ligue 1",
-      "content_html": "Service minimum pour le PSG face à Auxerre. Entre deux matchs de Ligue des champions, les Parisiens se déplaçaient à Auxerre avec l'objectif de se replacer en tête du championnat. Les tenants du titre de Ligue 1 sont au coude-à-coude avec le RC Lens, qui affronte aujourd'hui l'OM dans un duel de haute voltige.",
-      "date_published": "2026-01-24T10:31:19+00:00",
-      "authors": [
-        {
-          "name": "L'Equipe TV"
-        }
-      ],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6904fcf16f1f1b75ed3caf279e7f2522eb5ba83f94549fb0f2a966968617011e",
       "url": "https://ici.radio-canada.ca/recit-numerique/15171/belugas-saint-laurent-hiver",
       "title": "Où vont les bélugas du Saint-Laurent en hiver?",
@@ -3264,24 +2950,6 @@
       "lang": "en"
     },
     {
-      "id": "f6905a2162ab39de8539f51a962c329ae1795610e9d15cec1c99548587203a0a",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-starmer-d%C3%A9plore-les-propos-insultants-de-trump-sur-l-engagement-de-l-otan-en-afghanistan",
-      "title": "Starmer déplore les propos \"insultants\" de Trump sur l'engagement de l'Otan en Afghanistan",
-      "content_html": "Le Premier ‍ministre britannique Keir Starmer a ​dénoncé les critiques \"insultantes\" du président américain Donald Trump sur l'engagement des soldats européens en Afghanistan, faisant écho à plusieurs dirigeants et anciens combattants du Vieux Continent. Keir Starmer réagissait ⁠aux propos tenus jeudi par le président américain qui a déclaré que les Etats-Unis n'avaient \"jamais eu besoin\" de l'alliance transatlantique et accusé les alliés d'être restés \"un peu en retrait de la ligne de front\" en Afghanistan. Récit de Natalia Odisharia.",
-      "date_published": "2026-01-24T10:17:50+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "07bed479fab2ed229ec6260236958ad1ed703734b52dfdd134319c4a12eda2a6",
       "url": "https://www.france24.com/en/who-is-gregory-bovino-the-official-bbehind-trump-s-aggressive-border-enforcement",
       "title": "Who Is Gregory Bovino? The official Bbehind Trump’s aggressive border enforcement",
@@ -3298,24 +2966,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "570401d27814f9f16927ed2975f82ba249909c0aac3fcdf19036606c216d6ee9",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260124-de-garde-fronti%C3%A8re-anonyme-%C3%A0-patron-de-l-ice-qui-est-gregory-bovino",
-      "title": "De garde frontière anonyme à patron de l'ICE : qui est Gregory Bovino ?",
-      "content_html": "Il est devenu le visage de la répression contre les migrants aux États-Unis. Gregory Bovino est le chef de l'ICE, la police de l’immigration, visage de la politique mise en place par l'administration Trump. Opérations violentes, arrestations arbitraires… Il cristallise la colère des manifestants anti-ICE. Son portrait avec Valériane Gauthier.",
-      "date_published": "2026-01-24T10:16:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "d8afe0d35adbbe8b6e936879c73e42b0bd533440582deb228363f671c3d1eedd",
@@ -3416,22 +3066,6 @@
       "lang": "en"
     },
     {
-      "id": "0f1391da04cbca530be39160edddcdf48728fb860c8c916baa56f088a48e4dc0",
-      "url": "https://www.ukrinform.net/rubric-economy/4083847-emergency-power-cuts-introduced-in-several-regions-ukrenergo.html",
-      "title": "Emergency power cuts introduced in several regions — Ukrenergo",
-      "content_html": "Emergency power cuts have been introduced in several regions of Ukraine due to the difficult situation in the power system caused by Russian shelling.",
-      "date_published": "2026-01-24T09:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "87b1c98420541203be0bc59f032240d78350ee3bb421b3d16875c3db5ae5b152",
       "url": "https://www.dw.com/en/germany-weighs-boon-and-bane-of-china-s-industrial-expansion/a-75583089?maca=en-rss-en-all-1573-rdf",
       "title": "Germany weighs boon and bane of China's industrial expansion",
@@ -3450,7 +3084,7 @@
     {
       "id": "ace03ddd8388f3af4c0bd639366b9871396024fd2e7f10a0600048de0a5b95b1",
       "url": "https://www.elmundo.es/internacional/2026/01/24/697487c4e4d4d82a798b457d.html",
-      "title": "La Chine ouvre une enquête contre son général alors que les purges militaires se poursuivent",
+      "title": "China abre una investigación contra su general de mayor rango mientras continúan las purgas militares",
       "content_html": "Il est l'un des deux vice-présidents de la puissante Commission militaire centrale.Un autre « gros poisson » de l'armée, celui chargé de la planification et des opérations de combat, a également été mis de côté.",
       "date_published": "2026-01-24T09:42:36+00:00",
       "authors": [
@@ -3466,7 +3100,7 @@
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
       },
-      "lang": "fr"
+      "lang": "es"
     },
     {
       "id": "d20864c8e9d3dc04564b23f72078e29bee732eeea717b0bc9007ba53ecc35cab",
@@ -3553,22 +3187,6 @@
       "lang": "fr"
     },
     {
-      "id": "3f11bfe6b092cd2722a9c7feea16770b30ba4c30c8be250b24e9d9fb8b3bedb8",
-      "url": "https://www.ukrinform.net/rubric-society/4083839-88000-households-in-kyiv-left-without-power-after-massive-russian-attack.html",
-      "title": "88,000 households in Kyiv left without power after massive Russian attack",
-      "content_html": "88,000 households in Kyiv are temporarily without power after a massive Russian attack on January 24.",
-      "date_published": "2026-01-24T09:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b4acaa938d8fe77a70cce90fcdd5cbdbbc61eef9aecf53bcb83ad14e6ba66da2",
       "url": "https://www.lefigaro.fr/international/un-jour-on-va-perdre-un-bonhomme-au-liban-la-tension-monte-entre-les-nations-unies-et-les-forces-israeliennes-20260124",
       "title": "«Un jour, on va perdre un bonhomme» : au Liban, la tension monte entre les Nations unies et les forces israéliennes",
@@ -3603,10 +3221,10 @@
       "lang": "fr"
     },
     {
-      "id": "dbd23b804cf9b39543f6c3abfaa09c3cfac4a63a5d35726afb75484c042f2459",
-      "url": "https://ici.radio-canada.ca/nouvelle/2222914/conseil-de-paix-trump-disparition-onu",
-      "title": "Quelles conséquences aura le « Conseil de paix » de Trump?",
-      "content_html": "<p>Retour sur l&#x27;émergence de cette structure contestée et analyse par deux experts.</p>",
+      "id": "17474351672065a21404cc82895677999d32202aa42a50d3b751d784ec8649c2",
+      "url": "https://ici.radio-canada.ca/info/long-format/2222581/rougeole-retour-anti-vaccin-doute",
+      "title": "Le doute qui a permis le retour de la rougeole",
+      "content_html": "<p>Ça fait plus d’un an que la rougeole circule au Canada, particulièrement en Alberta. <em>Découverte</em> fait le point.</p>",
       "date_published": "2026-01-24T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3645,10 +3263,10 @@
       "lang": "fr"
     },
     {
-      "id": "17474351672065a21404cc82895677999d32202aa42a50d3b751d784ec8649c2",
-      "url": "https://ici.radio-canada.ca/info/long-format/2222581/rougeole-retour-anti-vaccin-doute",
-      "title": "Le doute qui a permis le retour de la rougeole",
-      "content_html": "<p>Ça fait plus d’un an que la rougeole circule au Canada, particulièrement en Alberta. <em>Découverte</em> fait le point.</p>",
+      "id": "dbd23b804cf9b39543f6c3abfaa09c3cfac4a63a5d35726afb75484c042f2459",
+      "url": "https://ici.radio-canada.ca/nouvelle/2222914/conseil-de-paix-trump-disparition-onu",
+      "title": "Quelles conséquences aura le « Conseil de paix » de Trump?",
+      "content_html": "<p>Retour sur l&#x27;émergence de cette structure contestée et analyse par deux experts.</p>",
       "date_published": "2026-01-24T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -4400,7 +4018,7 @@
     {
       "id": "e886a79d887435fb451d1b320861581254c909dda8de4662b2d168e77715f3b3",
       "url": "https://www.elmundo.es/internacional/2026/01/24/6973c392e4d4d8625b8b459f.html",
-      "title": "Le chavisme recyclé impose la réforme pétrolière ordonnée par Washington que Maduro n’aurait jamais acceptée",
+      "title": "Le chavisme recyclé impose la réforme pétrolière ordonnée par Washington que Maduro n'aurait jamais acceptée",
       "content_html": "Le modèle à suivre est celui déjà proposé par Chevron, la multinationale qui dirige l'accord de vente de pétrole brut vénézuélien.",
       "date_published": "2026-01-24T01:34:01+00:00",
       "authors": [
@@ -4503,22 +4121,6 @@
       "title": "In US ally Thailand, feelings of betrayal after Trump’s visa freeze",
       "content_html": "Thais who planned to build a life in the US express shock at inclusion on list of blacklisted countries.",
       "date_published": "2026-01-23T23:44:43+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cd15eb7f4a1f4e5efbee753b2906b7ccb3ce2dbe80039005a5db9811f1e43762",
-      "url": "https://www.aljazeera.com/news/2026/1/23/one-survivor-reported-two-killed-in-us-boat-strike-in-the-eastern-pacific?traffic_source=rss",
-      "title": "One survivor reported, two killed in US boat strike in the eastern Pacific",
-      "content_html": "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns.",
-      "date_published": "2026-01-23T23:08:46+00:00",
       "authors": [],
       "tags": [
         "News"
@@ -5526,7 +5128,7 @@
     {
       "id": "4affebc8d632d494dad2407c0db7dc6c132304180e46c056c3c06a4830b3b552",
       "url": "https://www.elmundo.es/internacional/2026/01/23/697379cdfc6c83ae1e8b4590.html",
-      "title": "L'OTAN et le Danemark conviennent que l'Alliance \"doit renforcer son engagement\" dans l'Arctique",
+      "title": "L'OTAN et le Danemark conviennent que l'Alliance « doit renforcer son engagement » dans l'Arctique",
       "content_html": "L'armée danoise poursuivra ses manœuvres au Groenland avec les alliés tout au long de 2026",
       "date_published": "2026-01-23T13:43:55+00:00",
       "authors": [
@@ -9055,22 +8657,6 @@
       "title": "Germany: Unjustly jailed man gets €1.3 million compensation",
       "content_html": "The Bavarian state is to give over €1 million to a man who spent 13 years in jail on murder charges that were overturned. Prosecutors had previously called for him to pay for board and lodgings in jail after his release.",
       "date_published": "2026-01-14T12:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "df41a0b7e0b6ef41803870b6a03cd99bc053e66224e6d6f2c7473e4df1a1a671",
-      "url": "https://www.dw.com/en/germany-gelsenkirchen-bank-thieves-used-manipulated-door/a-75489784?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany: Gelsenkirchen bank thieves used 'manipulated' door",
-      "content_html": "Police say a manipulated emergency exit, that shouldn't open from the outside, gave thieves access in last month's major bank heist in Gelsenkirchen. They warned customers that investigations would likely take months.",
-      "date_published": "2026-01-13T16:09:00+00:00",
       "authors": [],
       "tags": [
         "News"
