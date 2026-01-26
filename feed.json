@@ -5,16 +5,95 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "de48e053d566c2934c4bb6a9bc15509efceca7178dd1cd113212d524d86a8ac3",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013405/vortex-polaire-vague-froid-canada",
-      "title": "La tempête de neige balaie l’Ontario, le Québec et les Maritimes",
-      "content_html": "<p>Une accumulation totale de 15 à 25 centimètres est attendue dans le sud et l&#x27;est du Québec.</p>",
-      "date_published": "2026-01-26T22:43:30+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "14e21d1cec1651bf737af58f9fa0ada7427c466133372db5372443c6d7fd1a23",
+      "url": "https://elpais.com/us/migracion/2026-01-26/trump-envia-a-su-zar-de-la-frontera-tom-homan-a-minneapolis-tras-la-muerte-de-alex-pretti.html",
+      "title": "Trump adoucit son ton sur Minneapolis alors que les tensions s'intensifient à cause des violences policières liées à l'immigration",
+      "content_html": "Le « tsar des frontières » de la Maison Blanche, Tom Homan, devant la presse.",
+      "date_published": "2026-01-26T23:11:27+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "América",
+        "Migrantes",
+        "Inmigrantes",
+        "Migración",
+        "Deportación",
+        "Crisis migratoria",
+        "Inmigración",
+        "Inmigración irregular",
+        "Casa Blanca",
+        "Donald Trump",
+        "Tom Homan",
+        "Minneapolis",
+        "Minnesota"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1e9371f0f542442b6104fc5fa47363b7c360aaefe014b9f39a8b3f7c2cd7d1e4",
+      "url": "https://www.timesofisrael.com/pm-after-gvilis-return-next-phase-in-gaza-is-not-reconstruction-its-demilitarization/",
+      "title": "PM after Gvili’s return: Next phase in Gaza is not reconstruction, it’s demilitarization",
+      "content_html": "<p>Trump too says, 'Now we have to disarm Hamas'; despite skepticism that terror group will agree, both leaders note that all hostages have returned, a result once seen as unlikely</p>\n<p>The post <a href=\"https://www.timesofisrael.com/pm-after-gvilis-return-next-phase-in-gaza-is-not-reconstruction-its-demilitarization/\">PM after Gvili&#8217;s return: Next phase in Gaza is not reconstruction, it&#8217;s demilitarization</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/F260126YS146-e1769451655668-1024x640.jpg\" title=\"PM after Gvili&#8217;s return: Next phase in Gaza is not reconstruction, it&#8217;s demilitarization\" width=\"160\" /></figure>",
+      "date_published": "2026-01-26T23:03:35+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "demilitarization",
+        "Trump's 20-point plan for Gaza",
+        "2023-2025 Israel-Hamas war",
+        "Jared Kushner",
+        "Benjamin Netanyahu"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "57757f7666d64fb5139738a96f5d8375ba876f445564392a4e68312e08ad00cb",
+      "url": "https://www.dw.com/en/ye-aka-kanye-west-apologizes-for-antisemitic-remarks/a-75669379?maca=en-rss-en-all-1573-rdf",
+      "title": "Ye aka Kanye West apologizes for antisemitic remarks",
+      "content_html": "The artist previously known as Kanye West blamed his behavior on bipolar disorder, saying he \"lost touch with reality.\"",
+      "date_published": "2026-01-26T22:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a69c1ccd74da7fb4bcfd0931e8041d09b8b76955140db30f5e497e2aa63b1689",
+      "url": "https://www.elmundo.es/internacional/2026/01/26/6977bceee4d4d8e54d8b45a8.html",
+      "title": "L'indignation suscitée par les décès à Minneapolis oblige Trump à modifier son plan anti-immigration",
+      "content_html": "Le président des États-Unis envoie son « tsar des frontières » au Minnesota et s'engage à réduire le nombre d'agents de l'ICE dans les rues",
+      "date_published": "2026-01-26T22:57:20+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Partido republicano EEUU",
+        "América",
+        "Artículos Pablo R. Suanzes"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -23,71 +102,7 @@
       "url": "https://ici.radio-canada.ca/info/en-direct/1013420/des-agents-federaux-abattent-un-homme-a-minneapolis",
       "title": "Des agents fédéraux devraient quitter Minneapolis dès mardi",
       "content_html": "<p>Le haut responsable de la police frontalière devrait lui aussi quitter la ville, selon des médias américains.</p>",
-      "date_published": "2026-01-26T22:34:44+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4f173bf10cc03d0f9f2cc997703a3361e6d462926aaac388625f27040bcfa133",
-      "url": "https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates",
-      "title": "Trump agrees to ‘look into’ pulling some ICE agents out of Minnesota as officials face mounting questions and anger – live",
-      "content_html": "<p>US president and Minnesota governor Tim Walz hold phone call as White House faces scrutiny of its immigration surge that has led to two deaths in the state</p><p>As more and more Republicans call for an investigation of Alex Pretti’s killing, it’s worth remembering that Donald Trump’s call for heavy-handed immigration enforcement appeared to have already rankled a portion of his base.</p><p>A <a href=\"https://www.politico.com/news/2026/01/24/poll-republicans-ice-immigration-deportations-00744668\">Politico poll</a> that surveyed some 2000 adults between 16 and 19 January found that 49% of Americans believed Trump’s campaign was “too aggressive”.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-01-26T22:32:52+00:00",
-      "authors": [
-        {
-          "name": "Coral Murphy Marcos (now); Victoria Bekiempis, Lucy Campbell and Yohannes Lowe (earlier)"
-        }
-      ],
-      "tags": [
-        "Minnesota",
-        "US news",
-        "Minneapolis",
-        "World news",
-        "US immigration",
-        "US politics",
-        "Trump administration",
-        "Minnesota ICE shooting"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "abee0eac53b3d884db5cd8faeeb441e7832eabce94ada8c6551ef6fa5912ff48",
-      "url": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
-      "title": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
-      "content_html": "<p>Judicial review request made in Edinburgh says Avtandil Kalandadze of Russian-flagged Marinera is being detained unlawfully</p><p>Lawyers acting for the wife of the captain of a Venezuela-linked oil tanker captured by US forces in UK waters are calling for a judicial review of his situation, claiming he is being detained unlawfully.</p><p>The Marinera, a Russian-flagged vessel previously known as Bella 1, has been in the Moray Firth in recent days.</p> <a href=\"https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him\">Continue reading...</a>",
-      "date_published": "2026-01-26T22:32:15+00:00",
-      "authors": [
-        {
-          "name": "Morgan Ofori and PA Media"
-        }
-      ],
-      "tags": [
-        "Venezuela",
-        "Scotland",
-        "UK news",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7476fae336c7d58cabbe8a4152b5eaa5a3cbde24b9a140fb2b3fe4c226048f3f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2223625/hausse-credit-tps-finances-carney",
-      "title": "Accessibilité financière : la hausse du crédit pour la TPS, une mesure « significative »",
-      "content_html": "<p>Un couple avec deux enfants pourrait obtenir 805&nbsp;$ supplémentaires et une personne seule, 402&nbsp;$. </p>",
-      "date_published": "2026-01-26T22:29:17+00:00",
+      "date_published": "2026-01-26T22:56:56+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -101,7 +116,7 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east",
       "title": "Australia news live: out-of-control bushfire threatens Victorian towns; Adelaide swelters through its hottest ever night",
       "content_html": "<p>Extreme fire weather expected to fuel blazes and pose threat to communities near Great Ocean Road. Follow today’s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Victoria to open nation’s first offshore wind auction this year</strong></p><p>Australia’s first offshore wind auction is set to kick off this year, with the Victorian Government announcing it would invite tenders for 2 gigawatts of capacity in August.</p><p>We want to give industry the certainty it needs to invest and help us keep building the renewable energy Victoria needs to push down energy bills.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east\">Continue reading...</a>",
-      "date_published": "2026-01-26T22:27:44+00:00",
+      "date_published": "2026-01-26T22:51:28+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -131,6 +146,138 @@
       "lang": "en"
     },
     {
+      "id": "4f173bf10cc03d0f9f2cc997703a3361e6d462926aaac388625f27040bcfa133",
+      "url": "https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates",
+      "title": "Trump agrees to ‘look into’ pulling some ICE agents out of Minnesota as officials face mounting questions and anger – live",
+      "content_html": "<p>US president and Minnesota governor Tim Walz hold phone call as White House faces scrutiny of its immigration surge that has led to two deaths in the state</p><p>As more and more Republicans call for an investigation of Alex Pretti’s killing, it’s worth remembering that Donald Trump’s call for heavy-handed immigration enforcement appeared to have already rankled a portion of his base.</p><p>A <a href=\"https://www.politico.com/news/2026/01/24/poll-republicans-ice-immigration-deportations-00744668\">Politico poll</a> that surveyed some 2000 adults between 16 and 19 January found that 49% of Americans believed Trump’s campaign was “too aggressive”.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jan/26/minnesota-minneapolis-ice-protests-alex-pretti-donald-trump-us-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2026-01-26T22:51:04+00:00",
+      "authors": [
+        {
+          "name": "Coral Murphy Marcos (now); Victoria Bekiempis, Lucy Campbell and Yohannes Lowe (earlier)"
+        }
+      ],
+      "tags": [
+        "Minnesota",
+        "US news",
+        "Minneapolis",
+        "World news",
+        "US immigration",
+        "US politics",
+        "Trump administration",
+        "Minnesota ICE shooting"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "932045a2e14910fe4c98552b45f917e29f592cbe341bbc26532d2538d4e90530",
+      "url": "https://ici.radio-canada.ca/nouvelle/2223681/kirsty-duncan-mort-deces-cancer",
+      "title": "L’ex-ministre fédérale Kirsty Duncan décédée à l’âge de 59 ans",
+      "content_html": "<p>Une minute de silence a été observée à la Chambre des communes en son honneur cet après-midi.</p>",
+      "date_published": "2026-01-26T22:47:09+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "de48e053d566c2934c4bb6a9bc15509efceca7178dd1cd113212d524d86a8ac3",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013405/vortex-polaire-vague-froid-canada",
+      "title": "La tempête de neige balaie l’Ontario, le Québec et les Maritimes",
+      "content_html": "<p>Une accumulation totale de 15 à 25 centimètres est attendue dans le sud et l&#x27;est du Québec.</p>",
+      "date_published": "2026-01-26T22:43:30+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "35237a17418ed77dbbdb7c00de866a6377af0edcc4efc7aa1f0f191380d4f352",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260126-l-or-franchit-la-barre-des-5-000-dollars-l-once-une-premi%C3%A8re-historique",
+      "title": "L'or franchit la barre des 5 000 dollars l'once, une première historique",
+      "content_html": "En période d'incertitudes, les investisseurs délaissent les actions et autres placements pour se tourner vers l'or, éternelle valeur refuge. En un an, sa valeur a quasiment doublé pour dépasser, en séance, les 5 100 dollars. Les banques centrales en achètent des quantités bien supérieures à leurs acquisitions habituelles, autour de 60 tonnes par mois au lieu de 17 tonnes en moyenne avant 2022. Mais les analystes craignent une correction du cours de l'or dans les prochains mois. Reste que c'est une valeur sûre et facilement mobilisable quand, comme la Russie après l'invasion à grande échelle de l'Ukraine, un pays fait l'objet de sanctions internationales. Dans les mois qui ont précédé février 2022, Moscou avait d'ailleurs considérablement augmenté les achats d'or.",
+      "date_published": "2026-01-26T22:37:31+00:00",
+      "authors": [
+        {
+          "name": "Laure MANENT"
+        }
+      ],
+      "tags": [
+        "Info éco"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "abee0eac53b3d884db5cd8faeeb441e7832eabce94ada8c6551ef6fa5912ff48",
+      "url": "https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him",
+      "title": "Wife of captain of oil tanker captured by US forces starts legal action to free him",
+      "content_html": "<p>Judicial review request made in Edinburgh says Avtandil Kalandadze of Russian-flagged Marinera is being detained unlawfully</p><p>Lawyers acting for the wife of the captain of a Venezuela-linked oil tanker captured by US forces in UK waters are calling for a judicial review of his situation, claiming he is being detained unlawfully.</p><p>The Marinera, a Russian-flagged vessel previously known as Bella 1, has been in the Moray Firth in recent days.</p> <a href=\"https://www.theguardian.com/world/2026/jan/26/wife-of-captain-of-oil-tanker-captured-by-us-forces-starts-legal-action-to-free-him\">Continue reading...</a>",
+      "date_published": "2026-01-26T22:32:15+00:00",
+      "authors": [
+        {
+          "name": "Morgan Ofori and PA Media"
+        }
+      ],
+      "tags": [
+        "Venezuela",
+        "Scotland",
+        "UK news",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7476fae336c7d58cabbe8a4152b5eaa5a3cbde24b9a140fb2b3fe4c226048f3f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2223625/hausse-credit-tps-finances-carney",
+      "title": "Accessibilité financière : la hausse du crédit pour la TPS, une mesure « significative »",
+      "content_html": "<p>Un couple avec deux enfants pourrait obtenir 805&nbsp;$ de plus, et une personne seule, 402&nbsp;$. </p>",
+      "date_published": "2026-01-26T22:29:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b29036630afbe6b1d0a11adbcac236bcdb166c5435224af8d14a77e0e1cb8199",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260126-rd-congo-un-an-apr%C3%A8s-la-chute-de-goma-certaines-voix-d%C3%A9noncent-un-climat-de-r%C3%A9pression",
+      "title": "RD Congo : un an après la chute de Goma, certaines voix dénoncent un climat de répression",
+      "content_html": "En RD Congo, cela fait un an que les rebelles de l’AFC/M23 ont pris le contrôle de Goma alors capitale provinciale du Nord-Kivu. C’est la première fois que la ville est sous rebelle aussi longtemps. Dans la ville, la vie quotidienne a repris son cours mais certaines voix dénoncent un climat de répression. Dans l’est congolais, les exactions contre les civils ont atteint un niveau alarmant selon les humanitaires, et sont commises par toutes les parties en conflit. Reportage.",
+      "date_published": "2026-01-26T22:24:19+00:00",
+      "authors": [
+        {
+          "name": "Célia CARACENA"
+        }
+      ],
+      "tags": [
+        "Journal de l'Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "7cf214f7fa2ae85ade516a3a7347bca03ddf70ddbc1d2daf0e71a1c6d8b06e79",
       "url": "https://www.elmundo.es/internacional/2026/01/26/6977dbc4e4d4d8f1668b456e.html",
       "title": "L'Assemblée nationale promeut l'interdiction des réseaux sociaux pour les mineurs de moins de 15 ans en France",
@@ -148,20 +295,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "932045a2e14910fe4c98552b45f917e29f592cbe341bbc26532d2538d4e90530",
-      "url": "https://ici.radio-canada.ca/nouvelle/2223681/kirsty-duncan-mort-deces-cancer",
-      "title": "L’ex-ministre fédérale Kirsty Duncan est décédée à l’âge de 59 ans",
-      "content_html": "<p>Une minute de silence a été observée à la Chambre des communes en son honneur cet après-midi.</p>",
-      "date_published": "2026-01-26T22:10:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -855,8 +988,8 @@
     {
       "id": "70f8bb16372aab27d3cc18dec13c892701652809ffe456e71e5b0e6d6f76b65a",
       "url": "https://www.timesofisrael.com/pm-says-return-of-gvili-is-an-extraordinary-achievement-trump-hails-amazing-job/",
-      "title": "PM says return of Gvili is an ‘extraordinary achievement’; Trump hails ‘amazing job’",
-      "content_html": "<p>Netanyahu, President Herzog, Yair Lapid symbolically remove their hostage pins, with opposition leader calling it 'one of the happiest and saddest things I have ever done'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/pm-says-return-of-gvili-is-an-extraordinary-achievement-trump-hails-amazing-job/\">PM says return of Gvili is an &#8216;extraordinary achievement&#8217;; Trump hails &#8216;amazing job&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/WhatsApp_Image_2026-01-26_at_19.32.07-1024x640.jpeg\" title=\"PM says return of Gvili is an &#8216;extraordinary achievement&#8217;; Trump hails &#8216;amazing job&#8217;\" width=\"160\" /></figure>",
+      "title": "PM: Gvili’s return an ‘extraordinary achievement’; Trump: Amazing job; leaders remove hostage pins",
+      "content_html": "<p>Netanyahu, President Herzog, Yair Lapid symbolically remove their hostage pins, with opposition leader calling it 'one of the happiest and saddest things I have ever done'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/pm-says-return-of-gvili-is-an-extraordinary-achievement-trump-hails-amazing-job/\">PM: Gvili&#8217;s return an &#8216;extraordinary achievement&#8217;; Trump: Amazing job; leaders remove hostage pins</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/WhatsApp_Image_2026-01-26_at_19.32.07-1024x640.jpeg\" title=\"PM: Gvili&#8217;s return an &#8216;extraordinary achievement&#8217;; Trump: Amazing job; leaders remove hostage pins\" width=\"160\" /></figure>",
       "date_published": "2026-01-26T20:28:51+00:00",
       "authors": [],
       "tags": [
@@ -1083,7 +1216,7 @@
       "id": "0b245b0ddad1ad1a0e7294ddf5fc97de4b513ffa065536975a19389088cf59c1",
       "url": "https://elpais.com/internacional/2026-01-26/la-regularizacion-de-inmigrantes-en-espana-a-contracorriente-de-europa.html",
       "title": "La régularisation des immigrés en Espagne, à contre-courant de l'Europe",
-      "content_html": "Un magasin du quartier Usera, à Madrid, dans une image d’archive.",
+      "content_html": "Un magasin dans le quartier Usera, à Madrid, dans une image d'archive.",
       "date_published": "2026-01-26T19:36:20+00:00",
       "authors": [
         {
@@ -1174,29 +1307,6 @@
       ],
       "tags": [
         "Especial Guerra de Ucrania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a69c1ccd74da7fb4bcfd0931e8041d09b8b76955140db30f5e497e2aa63b1689",
-      "url": "https://www.elmundo.es/internacional/2026/01/26/6977bceee4d4d8e54d8b45a8.html",
-      "title": "Trump envoie son « tsar des frontières » au Minnesota et s'engage à réduire le nombre d'agents de l'ICE dans les rues",
-      "content_html": "La Maison Blanche accuse la pression, soulage Bovino, corrige le ton sur Alex Pretti et assure qu'il y a trois enquêtes ouvertes sur sa mort",
-      "date_published": "2026-01-26T19:31:30+00:00",
-      "authors": [
-        {
-          "name": "Pablo R. Suanzes"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "Partido republicano EEUU",
-        "América",
-        "Artículos Pablo R. Suanzes"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -1320,39 +1430,6 @@
       "lang": "fr"
     },
     {
-      "id": "14e21d1cec1651bf737af58f9fa0ada7427c466133372db5372443c6d7fd1a23",
-      "url": "https://elpais.com/us/migracion/2026-01-26/trump-envia-a-su-zar-de-la-frontera-tom-homan-a-minneapolis-tras-la-muerte-de-alex-pretti.html",
-      "title": "Trump adoucit son ton sur Minneapolis alors que les tensions s'intensifient à cause des violences policières liées à l'immigration",
-      "content_html": "Le « tsar des frontières » de la Maison Blanche, Tom Homan, devant la presse.",
-      "date_published": "2026-01-26T19:27:50+00:00",
-      "authors": [
-        {
-          "name": "Macarena  Vidal Liy"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "América",
-        "Migrantes",
-        "Inmigrantes",
-        "Migración",
-        "Deportación",
-        "Crisis migratoria",
-        "Inmigración",
-        "Inmigración irregular",
-        "Casa Blanca",
-        "Donald Trump",
-        "Tom Homan",
-        "Minneapolis",
-        "Minnesota"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "17482d07c921ac72d915399c02485e467dfb53dd5e8657d911918e28e7aa6016",
       "url": "https://www.ukrinform.net/rubric-ato/4084584-russian-attacks-leave-settlements-in-kharkiv-region-left-without-power.html",
       "title": "Russian attacks leave settlements in Kharkiv region left without power",
@@ -1371,7 +1448,7 @@
     {
       "id": "a04d2e37e45b7a4d73d3b867b1f8d59ca08837c6c641013beb9f8f8321e4f9e8",
       "url": "https://www.elmundo.es/internacional/2026/01/26/6977bc39fc6c83f1628b459d.html",
-      "title": "L'Assemblée nationale débat de l'interdiction des réseaux sociaux pour les moins de 15 ans : \"C'est une bataille pour les esprits libres\"",
+      "title": "L'Assemblée nationale débat de l'interdiction des réseaux sociaux pour les mineurs de moins de 15 ans : \"C'est une bataille pour les esprits libres\"",
       "content_html": "\"Les cerveaux de nos enfants et de nos adolescents ne sont pas à vendre\", a clamé Macron samedi.",
       "date_published": "2026-01-26T19:18:34+00:00",
       "authors": [
@@ -1689,7 +1766,7 @@
       "id": "2d2808163acec0919a48c5407d86396b4b3717be6101ebe952917c8050e195b5",
       "url": "https://www.timesofisrael.com/ran-gvilis-return-marks-the-end-of-a-movement-that-united-jews-across-the-globe/",
       "title": "Ran Gvili’s return marks the end of a movement that united Jews across the globe",
-      "content_html": "<p>In an era of polarization, a movement bringing together Jewish people across differences seemed unlikely, but 'Bring Them Home' activism showed they can still come together</p>\n<p>The post <a href=\"https://www.timesofisrael.com/ran-gvilis-return-marks-the-end-of-a-movement-that-united-jews-across-the-globe/\">Ran Gvili&#8217;s return marks the end of a movement that united Jews across the globe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/06/20250608_untitled_04029-1024x640.jpg\" title=\"Ran Gvili&#8217;s return marks the end of a movement that united Jews across the globe\" width=\"160\" /></figure>",
+      "content_html": "<p>In an era of polarization, a movement linking Jewish people across differences seemed unlikely, but 'Bring Them Home' activism showed they can still come together</p>\n<p>The post <a href=\"https://www.timesofisrael.com/ran-gvilis-return-marks-the-end-of-a-movement-that-united-jews-across-the-globe/\">Ran Gvili&#8217;s return marks the end of a movement that united Jews across the globe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/06/20250608_untitled_04029-1024x640.jpg\" title=\"Ran Gvili&#8217;s return marks the end of a movement that united Jews across the globe\" width=\"160\" /></figure>",
       "date_published": "2026-01-26T18:46:53+00:00",
       "authors": [],
       "tags": [
@@ -2063,7 +2140,7 @@
       "id": "4cd42be014f84a57ab413e1bcd5ba670a1d7f19ab517323346546a35d9c0f55d",
       "url": "https://www.dw.com/en/ukraine-updates-kremlin-says-abu-dhabi-talks-constructive/live-75667003?maca=en-rss-en-all-1573-rdf",
       "title": "Ukraine updates: Kremlin says Abu Dhabi talks 'constructive'",
-      "content_html": "Moscow says trilateral talks with the US and Ukraine are set to continue next week, but key issues remain open. Germany and Latvia called for more action against Russian hybrid attacks and shadow fleet. DW has more.",
+      "content_html": "Moscow says trilateral talks with the US and Ukraine are set to continue next week, but key issues remain open. Germany and Latvia called for more action against Russian hybrid attacks and shadow fleet.",
       "date_published": "2026-01-26T18:12:00+00:00",
       "authors": [],
       "tags": [
@@ -3705,28 +3782,6 @@
       "lang": "en"
     },
     {
-      "id": "55e894c7f631c08e8178b5e58558f15e625704f8ad4476ab528894d3be34f8c7",
-      "url": "https://www.timesofisrael.com/israeli-founded-cyber-startup-raises-250m-attains-unicorn-status-at-1-5b-valuation/",
-      "title": "Israeli-founded cyber startup raises $250m, attains unicorn status at $1.5b valuation",
-      "content_html": "<p>Upwind is the developer of a cloud security platform to protect software systems in real time from cyber attacks, as companies shift workloads to the cloud and adopt AI apps</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israeli-founded-cyber-startup-raises-250m-attains-unicorn-status-at-1-5b-valuation/\">Israeli-founded cyber startup raises $250m, attains unicorn status at $1.5b valuation</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/07/b6d7babd163e045faf0133d8a69fd6b0c5a1bbf6-1024x640.jpeg\" title=\"Israeli-founded cyber startup raises $250m, attains unicorn status at $1.5b valuation\" width=\"160\" /></figure>",
-      "date_published": "2026-01-26T15:14:05+00:00",
-      "authors": [],
-      "tags": [
-        "Tech Israel",
-        "Israeli startups",
-        "cloud computing",
-        "cloud security",
-        "funding rounds",
-        "Israeli cybersecurity",
-        "Israeli unicorns"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3002a30a7ec685413ebea9ede3da3e5e56d8595e3b314c4e7b9abbc35c0eaa02",
       "url": "https://www.lemonde.fr/pixels/article/2026/01/26/whatsapp-va-etre-soumis-a-des-regles-europeennes-renforcees_6664182_4408996.html",
       "title": "WhatsApp va être soumis à des règles européennes renforcées",
@@ -4307,26 +4362,6 @@
       "lang": "en"
     },
     {
-      "id": "1ee03ad5e62d52431b4c3d0267b12b8fa190ef501cfba8b57514d1b28b29ba47",
-      "url": "https://www.france24.com/fr/moyen-orient/20260126-isra%C3%ABl-a-ramen%C3%A9-tous-les-otages-de-gaza-annonce-benjamin-netanyahu",
-      "title": "Israël a ramené \"tous les otages\" de Gaza, annonce Benjamin Netanyahu",
-      "content_html": "Après l'identification du corps de Ran Gvili, dernier captif dans la bande de Gaza, Israël a ramené tous les otages, a annoncé lundi le Premier ministre israélien Benjamin Netanyahu.",
-      "date_published": "2026-01-26T14:13:32+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a3b268dd848f79d5d57765b7b8685ae416150c2c81bd8d5e88933e943b16cd33",
       "url": "https://www.france24.com/en/middle-east/20260126-israel-retrieves-remains-of-last-gaza-hostage-netanyahu-says",
       "title": "Israel retrieves remains of last Gaza hostage, Netanyahu says",
@@ -4345,24 +4380,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "fef5cb8818e86db067abe07ac00de2a9661d3bab2392ec2fe0000c4c95d035f1",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-voile-thomas-coville-et-son-%C3%A9quipage-battent-le-record-absolu-autour-du-monde",
-      "title": "Voile : Thomas Coville et son équipage battent le record absolu autour du monde",
-      "content_html": "Thomas Coville (Sodebo) et ses six membres d'équipage ont bouclé dimanche au large de Brest le tour du monde sans escale en un temps record de 40 jours 10 heures 45 minutes, soit 12 heures de mieux que le précédent record du Trophée Jules Verne, a annoncé son équipe.",
-      "date_published": "2026-01-26T14:11:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "c8aa62afb1e798c63ff1b9d4ba114d65c4d1e997fb3dd93448a1b9d2e68cb30b",
@@ -4422,6 +4439,28 @@
       "lang": "en"
     },
     {
+      "id": "b2c2bc2e94d1b2760b4063df7f75f1dfa944c9bfe08660f3bcfbca0b228f78d2",
+      "url": "https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds",
+      "title": "Services Australia has not applied child support law properly and some parents are owed money, report finds",
+      "content_html": "<p>Ombudsman says agency knew for years that part of its child support processing not in line with law</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Services Australia knew its internal practices relating to child support payments conflict with the law but did nothing about it for six years, a report from the commonwealth ombudsman has found.</p><p>In 2019, the agency identified that its child support practice that stipulated that parents with less than 35% care of a child do not receive financial support was not aligned with the law.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds\">Continue reading...</a>",
+      "date_published": "2026-01-26T14:00:05+00:00",
+      "authors": [
+        {
+          "name": "Cait Kelly Inequality reporter"
+        }
+      ],
+      "tags": [
+        "Welfare",
+        "Australia news",
+        "Parents and parenting"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "f815f216a7df24063555e9ee1d47dce66ee9009945960bcfb42c5dc402b51d5b",
       "url": "https://www.theguardian.com/australia-news/2026/jan/27/bunnings-accused-of-greenwashing-timber-amid-concerns-about-suppliers-logging",
       "title": "Bunnings accused of ‘greenwashing’ timber amid concerns about supplier’s illegal logging",
@@ -4439,28 +4478,6 @@
         "Australia news",
         "Environment",
         "Australian Competition and Consumer Commission (ACCC)"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b2c2bc2e94d1b2760b4063df7f75f1dfa944c9bfe08660f3bcfbca0b228f78d2",
-      "url": "https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds",
-      "title": "Services Australia has not applied child support law properly and some parents are owed money, report finds",
-      "content_html": "<p>Ombudsman says agency knew for years that part of its child support processing not in line with law</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Services Australia knew its internal practices relating to child support payments conflict with the law but did nothing about it for six years, a report from the commonwealth ombudsman has found.</p><p>In 2019, the agency identified that its child support practice that stipulated that parents with less than 35% care of a child do not receive financial support was not aligned with the law.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds\">Continue reading...</a>",
-      "date_published": "2026-01-26T14:00:05+00:00",
-      "authors": [
-        {
-          "name": "Cait Kelly Inequality reporter"
-        }
-      ],
-      "tags": [
-        "Welfare",
-        "Australia news",
-        "Parents and parenting"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -5256,22 +5273,6 @@
       "lang": "en"
     },
     {
-      "id": "f1cb57608b263013fe1b4a4c78bafd7abd9ef338721af3f1d445192fac634741",
-      "url": "https://www.dw.com/en/india-courts-eu-at-republic-day-as-trade-deal-nears/a-75657896?maca=en-rss-en-all-1573-rdf",
-      "title": "India courts EU at Republic Day as trade deal nears",
-      "content_html": "EU leaders Antonio Costa and Ursula von der Leyen were guests of honor for India's Republic Day celebrations. As tariff tensions with the US continue, New Delhi and Brussels are seeking more reliable trading partners.",
-      "date_published": "2026-01-26T09:36:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "85cd5ed78d8e922a5dd9467aad76a8208a82d96ff3d76fc582ba536e47796a07",
       "url": "https://www.liberation.fr/international/amerique/venezuela-la-presidente-par-interim-delcy-rodriguez-appelle-donald-trump-a-cesser-ses-ingerences-20260126_4CHVS22W4VHSRLPUX4DLOM6ZDE/",
       "title": "Venezuela : la présidente par intérim Delcy Rodriguez appelle Donald Trump à cesser ses ingérences",
@@ -5522,7 +5523,7 @@
     {
       "id": "44d720e44a11698674220279c77d9ff51171243186544d94669bf55d90cf1fab",
       "url": "https://www.elmundo.es/internacional/2026/01/26/69770fffe4d4d8e4248b45a9.html",
-      "title": "La monstrueuse tempête de neige et de verglas qui touche les deux tiers des États-Unis fait déjà au moins dix morts et près d'un million de foyers sans électricité.",
+      "title": "La monstrueuse tempête de neige et de verglas qui touche les deux tiers du territoire américain fait déjà au moins dix morts et près d'un million de foyers sans électricité.",
       "content_html": "La grande tempête a provoqué la pire journée d'annulations de vols depuis la pandémie de covid-19 en 2020 avec plus de 11 000 annulations et 17 000 retards.",
       "date_published": "2026-01-26T06:56:01+00:00",
       "authors": [
@@ -6913,7 +6914,7 @@
     {
       "id": "69915d97a776e813e9814324a65dcc969ed91d1e39be61d567d4b652352bdd14",
       "url": "https://www.elmundo.es/internacional/2026/01/24/69748df4e4d4d8b04c8b457a.html",
-      "title": "Kiev dénonce \"une autre nuit de terreur russe\" dans le cadre de négociations trilatérales avec Moscou et Washington",
+      "title": "Kiev dénonce \"une nouvelle nuit de terreur russe\" dans le cadre de négociations trilatérales avec Moscou et Washington",
       "content_html": "Zelensky note que les pourparlers se terminent par des discussions \"constructives\" sur \"des critères possibles pour mettre fin à la guerre\" et anticipe une autre éventuelle réunion pour la semaine prochaine.",
       "date_published": "2026-01-24T18:40:56+00:00",
       "authors": [
@@ -8988,7 +8989,7 @@
     {
       "id": "16650dc860bb6ef012e0b49955a1627d23ef1cb817fee8319e26f325d92e77a0",
       "url": "https://elpais.com/internacional/2026-01-19/trump-demuestra-la-necesidad-del-acuerdo-de-la-ue-con-mercosur.html",
-      "title": "Trump démontre la nécessité d'un accord entre l'UE et le Mercosur",
+      "title": "Trump démontre la nécessité d’un accord entre l’UE et le Mercosur",
       "content_html": "La présidente de la Commission européenne, Ursula Von der Leyen, avec les présidents du Paraguay (Santiago Peña), de l'Argentine (Javier Milei) et de l'Uruguay (Yamandú Orsi) ce samedi.",
       "date_published": "2026-01-19T04:40:00+00:00",
       "authors": [
