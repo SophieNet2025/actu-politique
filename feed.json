@@ -5,27 +5,31 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "42e8f87a08a81deb2e710705f7834c7edf298dedb74f4fb2820433421184cf80",
-      "url": "https://www.lefigaro.fr/international/etats-unis-l-ice-peut-desormais-proceder-a-des-interpellations-dans-des-lieux-prives-sans-mandat-judiciaire-20260126",
-      "title": "États-Unis : l’ICE peut désormais procéder à des interpellations dans des lieux privés sans mandat judiciaire",
-      "content_html": "Badge d’officier de la brigade ICE",
-      "date_published": "2026-01-27T06:11:30+00:00",
-      "authors": [],
+      "id": "bbca0259e4d4d3f6b7bf8c4a0931e8fb2b5751f9824c1a4f65bf93f74c77a5a9",
+      "url": "https://www.france24.com/en/americas/20260127-bovino-leave-minneapolis-trump-reshuffles-immigration-operation",
+      "title": "Bovino to leave Minneapolis as Trump reshuffles immigration operation",
+      "content_html": "Border Patrol commander Gregory Bovino – the US official behind President Donald Trump's aggressive immigration enforcement operations – is expected to leave Minneapolis on Tuesday after Saturday's fatal shooting of ICU nurse Alex Pretty ignited political backlash.",
+      "date_published": "2026-01-27T06:52:43+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
       "tags": [
-        "International"
+        "Americas"
       ],
       "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
-      "id": "e8c0a26b61b4c463e1064042a6c5b595cb7b60ea653b96ac3d9e571734748db1",
-      "url": "https://www.ukrinform.net/rubric-ato/4084647-injury-toll-in-russias-drone-attack-on-odesa-rises-to-22.html",
-      "title": "Injury toll in Russia’s drone attack on Odesa rises to 22",
-      "content_html": "The number of people injured in Odesa as a result of a nighttime attack by Russian forces has risen to 22.",
-      "date_published": "2026-01-27T06:10:00+00:00",
+      "id": "e5f1f1ca60c2934fa9980fca2e239fc7f5e45912130daf0bd1ed16f1e2c21234",
+      "url": "https://www.ukrinform.net/rubric-ato/4084664-russian-forces-attack-infrastructure-facility-in-lviv-region.html",
+      "title": "Russian forces attack infrastructure facility in Lviv region",
+      "content_html": "Russian forces carried out an attack on an infrastructure facility in the Lviv region.",
+      "date_published": "2026-01-27T06:45:00+00:00",
       "authors": [],
       "tags": [
         "War"
@@ -37,11 +41,64 @@
       "lang": "en"
     },
     {
+      "id": "d32efed15f1428dfef2854810df5645d0f67da4798681331f8bbad0446d8f9a4",
+      "url": "https://www.timesofisrael.com/tales-of-ghosts-grief-and-shabbat-joy-win-top-prizes-in-jewish-childrens-literature/",
+      "title": "Tales of ghosts, grief and Shabbat joy win top prizes in Jewish children’s literature",
+      "content_html": "<p>'Neshama,' by Marcella Pixley, takes home gold medal for Jewish children’s literature for middle-grade readers; Uri Shulevitz posthumously awarded Body-of-Work prize</p>\n<p>The post <a href=\"https://www.timesofisrael.com/tales-of-ghosts-grief-and-shabbat-joy-win-top-prizes-in-jewish-childrens-literature/\">Tales of ghosts, grief and Shabbat joy win top prizes in Jewish children’s literature</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/hintergrund-muster-regenbogenfarben-1583409711WAO-overlay-2-1024x640.png\" title=\"Tales of ghosts, grief and Shabbat joy win top prizes in Jewish children’s literature\" width=\"160\" /></figure>",
+      "date_published": "2026-01-27T06:40:30+00:00",
+      "authors": [],
+      "tags": [
+        "Jewish Times",
+        "literary awards",
+        "Association of Jewish Libraries",
+        "Sydney Taylor Book Awards"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0a07c8fc9dcccab98b5a15eb4bd0113fbc08fac733fcf4fcc61f7d2f375c295e",
+      "url": "https://www.liberation.fr/international/amerique/des-membres-de-la-police-des-frontieres-vont-quitter-minneapolis-trump-semble-jouer-lapaisement-20260127_JS3PRRW5FJDLROEXWFGN36MVJE/",
+      "title": "Des membres de la police des frontières vont quitter Minneapolis, Trump semble jouer l’apaisement",
+      "content_html": "Des agents fédéraux vont se retirer de la ville secouée par des manifestations après que l’ICE a tué deux personnes.",
+      "date_published": "2026-01-27T06:38:32+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d0c12e43776bb1114821235a7172605f3429d361aa1d04a278dda7a72ac501cf",
+      "url": "https://www.lefigaro.fr/international/le-corps-de-ran-gvili-defenseur-d-aloumim-et-dernier-otage-israelien-a-ete-rendu-par-le-hamas-20260126",
+      "title": "Le corps de Ran Gvili, « défenseur d’Aloumim » et dernier otage du 7 Octobre, revient en Israël",
+      "content_html": "À l'entrée de la petite ville de Meitar, le portrait de Ran Gvili, enlevé le 7 Octobre et dernier otage décédé dont le corps a été rendu le 26 janvier 2026..",
+      "date_published": "2026-01-27T06:38:02+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "1f8b2796fdf2abcdfc9b01481f8d705a6e6b8f8f28ae9ce0cae0869cc9657c56",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east",
-      "title": "Australia news live: temperatures hit preliminary record of 48.9C in Victoria’s north-west as six major fires burn across state",
+      "title": "Australia news live: temperatures hit preliminary state record of 48.9C in Victoria’s north-west as firefighters battle six major blazes",
       "content_html": "<p>Follow today’s news live</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jan/27/victoria-melbourne-weather-forecast-fire-danger-extreme-heatwave-bushfire-risk\">Extreme heatwave may break records in Victoria as firefighters warn of bushfire risk in ‘very dry’ state</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Victoria to open nation’s first offshore wind auction this year</strong></p><p>Australia’s first offshore wind auction is set to kick off this year, with the Victorian Government announcing it would invite tenders for 2 gigawatts of capacity in August.</p><p>We want to give industry the certainty it needs to invest and help us keep building the renewable energy Victoria needs to push down energy bills.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east\">Continue reading...</a>",
-      "date_published": "2026-01-27T06:08:55+00:00",
+      "date_published": "2026-01-27T06:37:30+00:00",
       "authors": [
         {
           "name": "Cait Kelly (now), Adeshola Ore and Nick Visser (earlier)"
@@ -70,6 +127,237 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0cf59da985fb92044184ca9bc1b26bcf9f277fc86ff5b9c653dd4a9dec142f87",
+      "url": "https://www.timesofisrael.com/as-arab-parties-answer-call-for-unity-raam-seeks-to-retain-role-as-coalition-kingmaker/",
+      "title": "As Arab parties answer call for unity, Ra’am seeks to retain role as coalition kingmaker",
+      "content_html": "<p>Factions look to reunify as Joint List to pool power for community wracked by deadly crime, but Islamist party wants to keep its plans to expand its base and return to government</p>\n<p>The post <a href=\"https://www.timesofisrael.com/as-arab-parties-answer-call-for-unity-raam-seeks-to-retain-role-as-coalition-kingmaker/\">As Arab parties answer call for unity, Ra&#8217;am seeks to retain role as coalition kingmaker</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/F251119YS136-1024x640.jpg\" title=\"As Arab parties answer call for unity, Ra&#8217;am seeks to retain role as coalition kingmaker\" width=\"160\" /></figure>",
+      "date_published": "2026-01-27T06:37:25+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Ra'am party (United Arab List)",
+        "Joint List",
+        "Knesset elections",
+        "Hadash-Ta'al party",
+        "Balad",
+        "Tarabin al-Sana",
+        "Yoav Segalovitz",
+        "2026 Israeli elections",
+        "violent crime",
+        "Sakhnin"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2dc755b1651e7a580fa596a8f24a468b8a907e1f5f2b7fb3c239c5dc1be81974",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss",
+      "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
+      "content_html": "USS Abraham Lincoln carrier&#039;s arrival is &#039;not going to affect Iran&#039;s determination to defend the nation&#039;, Tehran warns.",
+      "date_published": "2026-01-27T06:33:54+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a69c1ccd74da7fb4bcfd0931e8041d09b8b76955140db30f5e497e2aa63b1689",
+      "url": "https://www.elmundo.es/internacional/2026/01/26/6977bceee4d4d8e54d8b45a8.html",
+      "title": "L'indignation suscitée par les décès à Minneapolis oblige Trump à modifier son plan anti-immigration",
+      "content_html": "Le président des États-Unis envoie son « tsar des frontières » au Minnesota et s'engage à réduire le nombre d'agents de l'ICE dans les rues",
+      "date_published": "2026-01-27T06:31:08+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Partido republicano EEUU",
+        "América",
+        "Artículos Pablo R. Suanzes",
+        "Especial Trump"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bf29b9b469a02c5649c88fbd62ff828cbb05407d67627310cbc4fc6a0873f031",
+      "url": "https://www.france24.com/fr/europe/20260127-lili-keller-rosenberg-rescapee-shoah-temoignage-ravensbruck-journee-victimes-holocauste",
+      "title": "Lili Keller-Rosenberg, une inépuisable rescapée de la Shoah qui témoigne encore et toujours",
+      "content_html": "Depuis plus de 40 ans, Lili Keller-Rosenberg raconte son histoire dans des établissements scolaires. Issue d'une famille juive originaire de Hongrie, elle a été arrêtée à Roubaix à 11 ans. Déportée à Ravensbrück, puis Bergen-Belsen, elle a réussi à survivre miraculeusement. Rencontre à l'occasion de la Journée internationale dédiée à la mémoire des victimes de l'Holocauste.",
+      "date_published": "2026-01-27T06:30:28+00:00",
+      "authors": [
+        {
+          "name": "Stéphanie TROUILLARD"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "904804f353e241a5b178d9caf3c05690fdde1f8735a140ced8771fc9777eba38",
+      "url": "https://www.theguardian.com/world/2026/jan/27/tuesday-briefing-andy-burnham-byelection-greater-manchester-labour-first-edition",
+      "title": "Tuesday briefing: Why Labour banned Burnham – and what the ‘King of the North’ might do next",
+      "content_html": "<p>In today’s newsletter: By putting out one fire, Labour might have ignited several others</p><p>Good morning. The “King of the North” will not be marching south – at least not for now.</p><p>Andy Burnham has been <a href=\"https://www.theguardian.com/politics/2026/jan/26/andy-burnham-barred-from-byelection-to-help-labour-focus-says-scotland-secretary-douglas-alexander\">barred from standing as an MP</a> in the forthcoming Gorton and Denton byelection, after a 10-strong “officers’ group” of Labour’s ruling body, which includes the prime minister, voted overwhelmingly to reject his request to stand. It has left the party, once again, in turmoil.</p><p><em><strong>US news</strong></em> | Donald Trump’s efforts to deploy militarised immigration agents in US cities may finally be reaching a reckoning as he faces <a href=\"https://www.theguardian.com/us-news/2026/jan/26/donald-trump-administration-reviewing-alex-pretti-shooting\">widespread opposition across the US</a>, dissenting lawmakers in his own party, and impending court rulings after the fatal shooting of Alex Pretti.</p><p><em><strong>UK news</strong></em> | Former home secretary <a href=\"https://www.theguardian.com/politics/2026/jan/26/former-home-secretary-suella-braverman-defects-to-reform-uk\">Suella Braverman has defected to Reform UK</a>, making her the third sitting Conservative MP to join Nigel Farage’s party in little more than a week.</p><p><em><strong>Europe</strong></em> | As many as <a href=\"https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry\">380 people may have drowned</a> attempting to cross the Mediterranean last week during Cyclone Harry, as a shipwreck that killed 50 is confirmed by Maltese authorities.</p><p><em><strong>Saudi Arabia</strong></em> | A judge has ordered <a href=\"https://www.theguardian.com/world/2026/jan/26/saudi-arabia-ordered-pay-london-dissident-pegasus-spying-ghanem-al-masarir\">Saudi Arabia to pay more than £3m in damages</a> to London-based dissident Ghanem al-Masarir, whose phones were targeted with Pegasus spyware.</p><p><em><strong>Ukraine | </strong></em>A US security agreement for Ukraine is <a href=\"https://www.theguardian.com/world/2026/jan/26/ukraine-war-briefing-us-security-agreement-volodymyr-zelenskyy\">“100% ready” to be signed</a>, President Volodymyr Zelenskyy has said, after <a href=\"https://www.theguardian.com/world/2026/jan/23/us-ukraine-russia-abu-dhabi-talks-putin-witkoff-kushner\">two days of talks</a> involving representatives from Ukraine, the US and Russia.</p> <a href=\"https://www.theguardian.com/world/2026/jan/27/tuesday-briefing-andy-burnham-byelection-greater-manchester-labour-first-edition\">Continue reading...</a>",
+      "date_published": "2026-01-27T06:30:20+00:00",
+      "authors": [
+        {
+          "name": "Aamna Mohdin"
+        }
+      ],
+      "tags": [
+        "Andy Burnham",
+        "Greater Manchester",
+        "Politics",
+        "UK news",
+        "Manchester",
+        "Labour",
+        "Keir Starmer",
+        "Byelections",
+        "Local politics",
+        "Local government"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "93ef4fe59c7d9055e242868b553113a7f9aae38c0ae231acd2f30fcb6de96337",
+      "url": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+      "title": "India and EU set to announce landmark trade deal",
+      "content_html": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+      "date_published": "2026-01-27T06:29:31+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "eb9a6134004811cae7d1afe7089ba5d22176f5072f30ed72238d1b1e94226bb9",
+      "url": "https://www.liberation.fr/international/amerique/panne-geante-delectricite-jusqua-30-dans-le-minnesota-au-moins-21-morts-la-tempete-polaire-seme-le-chaos-aux-etats-unis-20260126_RG5QEDFLFRFS3HASZSRBWVCCSM/",
+      "title": "Panne géante d’électricité, jusqu’à -30 dans le Minnesota, au moins 23 morts : la tempête polaire sème le chaos aux Etats-Unis",
+      "content_html": "Des piétons à New York, le 26 janvier.",
+      "date_published": "2026-01-27T06:28:23+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "acc9b245dc1b9e669e6a1375e4b099004342cc82e53ab46a7dcced7a0e0a8d95",
+      "url": "https://www.aljazeera.com/news/2026/1/27/trumps-approval-on-immigration-falls-to-record-low-new-poll-finds?traffic_source=rss",
+      "title": "Trump’s approval on immigration falls to record low, new poll finds",
+      "content_html": "Just 39 percent of Americans approve of Donald Trump&#039;s handling of immigration, new Reuters/Ipsos poll shows.",
+      "date_published": "2026-01-27T06:26:11+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fa73ccfbb8abb7d85624468c3989c6a94c9dbcdd305f8a1cbafe9071ec1c4f21",
+      "url": "https://www.ukrinform.net/rubric-ato/4084652-russias-war-casualty-toll-in-ukraine-up-by-820-over-past-day.html",
+      "title": "Russia’s war casualty toll in Ukraine up by 820 over past day",
+      "content_html": "Total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to January 27, 2026, amount to approximately 1,235,880 personnel, including 820 over the past day.",
+      "date_published": "2026-01-27T06:26:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8c2062e186f7237450a15ecdaf1607015bf6b2916ae4760f1000470873440bc1",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260127-apr%C3%A8s-la-finale-de-la-can-le-maroc-et-le-s%C3%A9n%C3%A9gal-apaisent-les-tensions",
+      "title": "Après la finale de la CAN, le Maroc et le Sénégal apaisent les tensions",
+      "content_html": "Le Premier ministre du Sénégal, Ousmane Sonko, et son homologue marocain, Aziz Akhannouch, se sont rencontrés à Rabat. Ils ne veulent pas se concentrer sur les tensions sportives.",
+      "date_published": "2026-01-27T06:23:14+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "42e8f87a08a81deb2e710705f7834c7edf298dedb74f4fb2820433421184cf80",
+      "url": "https://www.lefigaro.fr/international/etats-unis-l-ice-peut-desormais-proceder-a-des-interpellations-dans-des-lieux-prives-sans-mandat-judiciaire-20260126",
+      "title": "États-Unis : l’ICE peut désormais procéder à des interpellations dans des lieux privés sans mandat judiciaire",
+      "content_html": "Badge d’officier de la brigade ICE",
+      "date_published": "2026-01-27T06:11:30+00:00",
+      "authors": [],
+      "tags": [
+        "International"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e8c0a26b61b4c463e1064042a6c5b595cb7b60ea653b96ac3d9e571734748db1",
+      "url": "https://www.ukrinform.net/rubric-ato/4084647-injury-toll-in-russias-drone-attack-on-odesa-rises-to-22.html",
+      "title": "Injury toll in Russia’s drone attack on Odesa rises to 22",
+      "content_html": "The number of people injured in Odesa as a result of a nighttime attack by Russian forces has risen to 22.",
+      "date_published": "2026-01-27T06:10:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -104,30 +392,6 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a69c1ccd74da7fb4bcfd0931e8041d09b8b76955140db30f5e497e2aa63b1689",
-      "url": "https://www.elmundo.es/internacional/2026/01/26/6977bceee4d4d8e54d8b45a8.html",
-      "title": "L'indignation suscitée par les décès à Minneapolis oblige Trump à modifier son plan anti-immigration",
-      "content_html": "Le président des États-Unis envoie son « tsar des frontières » au Minnesota et s'engage à réduire le nombre d'agents de l'ICE dans les rues",
-      "date_published": "2026-01-27T06:00:46+00:00",
-      "authors": [
-        {
-          "name": "Pablo R. Suanzes"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "Partido republicano EEUU",
-        "América",
-        "Artículos Pablo R. Suanzes",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -366,22 +630,6 @@
       "lang": "en"
     },
     {
-      "id": "d0c12e43776bb1114821235a7172605f3429d361aa1d04a278dda7a72ac501cf",
-      "url": "https://www.lefigaro.fr/international/le-corps-de-ran-gvili-defenseur-d-aloumim-et-dernier-otage-israelien-a-ete-rendu-par-le-hamas-20260126",
-      "title": "Le corps de Ran Gvili, « défenseur d’Aloumim » et dernier otage du 7 Octobre, revient en Israël",
-      "content_html": "À l'entrée de la petite ville de Meitar, le portrait de Ran Gvili, enlevé le 7 Octobre et dernier otage décédé dont le corps a été rendu le 26 janvier 2026..",
-      "date_published": "2026-01-27T05:37:32+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6d91882d7161b4cf68e493b0560fc4411abb91f8413213f9b8857a22190df751",
       "url": "https://www.liberation.fr/international/moyen-orient/dans-la-vallee-du-jourdain-la-fin-des-bedouins-palestiniens-20260127_IOIUN7RGTJDPLM2SYQAZ5JI5XA/",
       "title": "Dans la vallée du Jourdain, la fin des Bédouins palestiniens",
@@ -582,9 +830,9 @@
     {
       "id": "ac9a5d7f358e41a9979a3a35e840c026087f9fa538fa3b213f3f1c5bd67b930d",
       "url": "https://www.lemonde.fr/international/article/2026/01/27/ran-gvili-le-dernier-otage-du-hamas-identifie-un-heros-israelien_6664256_3210.html",
-      "title": "Ran Gvili, le dernier otage du Hamas identifié, un héros israélien",
+      "title": "Ran Gvili, le dernier otage du Hamas identifié, un héros pour les Israéliens",
       "content_html": "Une photo de l’officier de police israélien Ran Gvili, enlevé lors de l’attaque du Hamas du 7 octobre 2023 et dont la dépouille a été retrouvée et identifiée dans la bande de Gaza par l’armée israélienne. A Tel-Aviv, le 26 janvier 2026.",
-      "date_published": "2026-01-27T05:00:24+00:00",
+      "date_published": "2026-01-27T05:00:19+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -692,7 +940,7 @@
       "id": "544c17f1550d0a17da1d257cd8df8266f20eac40985ba5a0dac3ab2dd43a8487",
       "url": "https://www.lemonde.fr/international/article/2026/01/27/donald-trump-cherche-a-eteindre-l-incendie-declenche-par-son-administration-a-minneapolis_6664249_3210.html",
       "title": "Minneapolis : Donald Trump cherche à éteindre l’incendie déclenché par son administration",
-      "content_html": "Des agents fédéraux repoussent des manifestants lors d’une manifestation contre l’ICE (Immigration and Customs Enforcement) devant un hôtel à Minneapolis, (Minnesota), le 25 janvier 2026.",
+      "content_html": "Des manifestants se mettent à l’abri derrière des poubelles renversées tandis que des agents fédéraux forment une barricade lors d’affrontements survenus après la mort par balle d’Alex Pretti plus tôt dans la journée, à Minneapolis, le 24 janvier 2026.",
       "date_published": "2026-01-27T04:45:11+00:00",
       "authors": [],
       "tags": [],
@@ -765,8 +1013,8 @@
     {
       "id": "a385a0ce2091d2a07a7630e7df01c12161fdfa835cabaaeb08e09a64ebed6242",
       "url": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
-      "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
-      "content_html": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+      "title": "US immigration chief Bovino set to leave Minneapolis after deadly shooting",
+      "content_html": "\"Border tsar\" Tom Homan will instead lead on-the-ground efforts in the Minnesota city after tensions escalated.",
       "date_published": "2026-01-27T04:31:59+00:00",
       "authors": [],
       "tags": [],
@@ -779,8 +1027,8 @@
     {
       "id": "c70900daa1a7f4a2197b5d7a33f4a9c4267a682d0c5b787b4f6fe0f13da2e774",
       "url": "https://www.lemonde.fr/international/live/2026/01/27/en-direct-guerre-en-ukraine-les-pourparlers-devraient-reprendre-dimanche-entre-ukrainiens-russes-et-americains-selon-volodymyr-zelensky_6664247_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : les pourparlers devraient reprendre dimanche entre Ukrainiens, Russes et Américains, selon Volodymyr Zelensky",
-      "content_html": "Cette photographie prise et publiée le 26 janvier 2026 par le service de presse de l’armée ukrainienne montre un instructeur militaire (à droite) formant une recrue ukrainienne à l’utilisation d’un lance-grenades, dans un lieu tenu secret de la région de Zaporijia.",
+      "title": "EN DIRECT, guerre en Ukraine : Valeri Guerassimov, le chef d’état-major général des forces armées russe, est allé dans l’est de l’Ukraine pour inspecter ses troupes, selon Moscou",
+      "content_html": "Sur cette image extraite d’une vidéo diffusée par le service de presse du ministère russe de la défense, un soldat de l’armée russe tire avec un obusier D-30 en direction de positions ukrainiennes, dans un lieu non précisé d’Ukraine, le 30 décembre 2025.",
       "date_published": "2026-01-27T04:30:17+00:00",
       "authors": [],
       "tags": [],
@@ -1382,8 +1630,8 @@
     {
       "id": "aac2465a2e02272d02d80ad98c2272cb73fda5a8735d517701b92e5e2fbcfd87",
       "url": "https://www.timesofisrael.com/liveblog-january-27-2026/",
-      "title": "Trump: Iran wants to talk, situation ‘in flux’ after US sent ‘big armada’ to Mideast",
-      "content_html": "<p>US official says Washington 'open for business' if Tehran recognizes terms for nuclear deal * US official: Rafah crossing will reopen ‘with security coordination between US, Israel and Egypt’</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-january-27-2026/\">Trump: Iran wants to talk, situation ‘in flux’ after US sent ‘big armada’ to Mideast</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20260123__93QK9D7__v1__HighRes__UsPoliticsTrumpReturn-e1769470748705-1024x640.jpg\" title=\"Trump: Iran wants to talk, situation ‘in flux’ after US sent ‘big armada’ to Mideast\" width=\"160\" /></figure>",
+      "title": "Trump said briefed that hold of Iran regime at its weakest point since 1979",
+      "content_html": "<p>Trump: Iran wants to talk, situation ‘in flux’ after US sent ‘big armada’ to Mideast * US official says Washington 'open for business' if Tehran recognizes terms for nuclear deal </p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-january-27-2026/\">Trump said briefed that hold of Iran regime at its weakest point since 1979</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20260123__93QK9D7__v1__HighRes__UsPoliticsTrumpReturn-e1769470748705-1024x640.jpg\" title=\"Trump said briefed that hold of Iran regime at its weakest point since 1979\" width=\"160\" /></figure>",
       "date_published": "2026-01-27T01:41:54+00:00",
       "authors": [],
       "tags": [
@@ -1509,7 +1757,7 @@
     {
       "id": "c5d297c871960fd7c75d36084f7d1fed5efa2f7547a106a2ba8db30b1e682130",
       "url": "https://www.lemonde.fr/international/article/2026/01/27/le-soutien-des-etats-unis-est-indispensable-a-la-defense-europeenne-selon-le-secretaire-general-de-l-otan_6664234_3210.html",
-      "title": "Le soutien des Etats-Unis est indispensable à la défense européenne selon Mark Rutte, le secrétaire général de l’OTAN",
+      "title": "Le soutien des Etats-Unis est indispensable à la défense européenne, selon Mark Rutte, le secrétaire général de l’OTAN",
       "content_html": "Le secrétaire général de l’OTAN, Mark Rutte (deuxième en partant de la droite), au Parlement européen, à Bruxelles, le 26 janvier 2026.",
       "date_published": "2026-01-27T00:44:55+00:00",
       "authors": [],
@@ -1606,6 +1854,20 @@
       "lang": "en"
     },
     {
+      "id": "315446bec1b577fa389d4127bfee6edab487ef103029bf2cd9fce6f29186310a",
+      "url": "https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&at_campaign=rss",
+      "title": "Can India be a player in the computer chip industry?",
+      "content_html": "India is investing hundreds of millions of dollars in building up a computer chip industry.",
+      "date_published": "2026-01-27T00:05:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "029fbd227c868c0a3eb2081f2acfeefb5d3681f9ebe74ec108f6a1432024a593",
       "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
       "title": "Tech giants face landmark trial over social media addiction claims",
@@ -1616,36 +1878,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "749947d60a9c46304e9ddc119e00654e51a45e653e5458512f4befe5644a079a",
-      "url": "https://www.theguardian.com/education/2026/jan/27/bernardine-evaristo-renews-call-diversify-school-curriculum-england",
-      "title": "Bernardine Evaristo renews call to diversify school curriculum in England",
-      "content_html": "<p>Author says pace of change in GCSE English literature texts is too slow and tide is turning against inclusion</p><p>The Booker prize-winning author Bernardine Evaristo has called for renewed efforts to diversify the school curriculum in England, warning that young people are growing up in a society where “doors are closing” and the tide is turning against inclusion.</p><p>There has been progress in the diversity of texts on offer in the GCSE English literature curriculum, but uptake in schools is still low with just 1.9% of GCSE pupils in England studying books by authors of colour, up from 0.7% five years ago, according to a report.</p> <a href=\"https://www.theguardian.com/education/2026/jan/27/bernardine-evaristo-renews-call-diversify-school-curriculum-england\">Continue reading...</a>",
-      "date_published": "2026-01-27T00:01:02+00:00",
-      "authors": [
-        {
-          "name": "Sally Weale Education correspondent"
-        }
-      ],
-      "tags": [
-        "Schools",
-        "English and creative writing",
-        "GCSEs",
-        "Curriculums",
-        "Bernardine Evaristo",
-        "Race",
-        "Education",
-        "Books",
-        "Culture",
-        "England",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1704,7 +1936,7 @@
       "id": "78b76afeb01702466d3ca0a8bbd24dd415e0a51b81e11e8d082f6730943d62a6",
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20260126-droits-de-douane-donald-trump-relance-guerre-commerciale-coree-du-sud",
       "title": "Droits de douane : Donald Trump relance la guerre commerciale avec la Corée du Sud",
-      "content_html": "Le président des États-Unis Donald Trump, qui reproche au Parlement sud-coréen de ne pas avoir ratifié l'accord commercial signé entre les deux pays, a annoncé lundi que des produits sud-coréens seraient désormais taxés à 25 %.",
+      "content_html": "Le président des États-Unis, Donald Trump, qui reproche au parlement de la Corée du Sud de ne pas avoir ratifié l'accord commercial signé entre les deux pays, a annoncé lundi que des produits sud-coréens seraient désormais taxés à 25 %.",
       "date_published": "2026-01-26T23:30:54+00:00",
       "authors": [
         {
@@ -1914,6 +2146,20 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "93798e55e20d1ba96aaf5afa56ec488fac91faa92f6715d574b3e17b1ef4e9a0",
+      "url": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+      "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
+      "content_html": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "date_published": "2026-01-26T22:35:45+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
     },
     {
       "id": "7476fae336c7d58cabbe8a4152b5eaa5a3cbde24b9a140fb2b3fe4c226048f3f",
@@ -2320,25 +2566,6 @@
       "lang": "en"
     },
     {
-      "id": "6b6a202ee4662b416730930121270f3f1710bbe92a70d48c28bc16f84afa733a",
-      "url": "https://www.timesofisrael.com/rome-summons-israeli-ambassador-after-italian-police-held-at-gunpoint-in-west-bank/",
-      "title": "Rome summons Israeli ambassador after Italian police held at gunpoint in West Bank",
-      "content_html": "<p>Italy says 2 carabinieri officers in diplomatic vehicle forced to kneel, subjected to interrogation by apparent settler while surveying area near Ramallah ahead of EU visit</p>\n<p>The post <a href=\"https://www.timesofisrael.com/rome-summons-israeli-ambassador-after-italian-police-held-at-gunpoint-in-west-bank/\">Rome summons Israeli ambassador after Italian police held at gunpoint in West Bank</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AFP__20251028__829J9H4__v1__HighRes__PalestinianIsraelConflictAgricultureOlives-e1769454226412-1024x640.jpg\" title=\"Rome summons Israeli ambassador after Italian police held at gunpoint in West Bank\" width=\"160\" /></figure>",
-      "date_published": "2026-01-26T21:06:32+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Israel-Italy relations",
-        "West Bank",
-        "settler violence"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d22e1fc26a6d3b60eb49d220d8183d660a56ffc3dc492defbb93cae3f0cb6dfb",
       "url": "https://ici.radio-canada.ca/nouvelle/2223646/ryan-wedding-comparution",
       "title": "Ryan Wedding plaide non coupable de trafic de drogue et de meurtre",
@@ -2561,7 +2788,7 @@
     {
       "id": "21575c7e12fd274f743deef852473ec4eb594740c73fcec25eeda52f18dddafe",
       "url": "https://www.lemonde.fr/international/article/2026/01/26/donald-trump-attribue-la-mort-d-alex-pretti-a-minneapolis-a-la-resistance-deliberee-des-democrates_6664227_3210.html",
-      "title": "Plusieurs agents fédéraux vont quitter Minneapolis à partir de mardi, selon le maire de la ville, trois jours après la mort d’Alex Pretti",
+      "title": "Plusieurs agents fédéraux vont quitter Minneapolis à partir de mardi, selon le maire de la ville, trois jours après la mort d’Alex Pretti",
       "content_html": "Une manifestante brandit une affiche devant une vitrine montrant deux impacts de balles, à Minneapolis (Minnesota), le 26 janvier 2026.",
       "date_published": "2026-01-26T20:29:03+00:00",
       "authors": [],
@@ -2571,28 +2798,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "70f8bb16372aab27d3cc18dec13c892701652809ffe456e71e5b0e6d6f76b65a",
-      "url": "https://www.timesofisrael.com/pm-says-return-of-gvili-is-an-extraordinary-achievement-trump-hails-amazing-job/",
-      "title": "PM: Gvili’s return an ‘extraordinary achievement’; Trump: Amazing job; leaders remove hostage pins",
-      "content_html": "<p>Netanyahu, President Herzog, Yair Lapid symbolically remove their hostage pins, with opposition leader calling it 'one of the happiest and saddest things I have ever done'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/pm-says-return-of-gvili-is-an-extraordinary-achievement-trump-hails-amazing-job/\">PM: Gvili&#8217;s return an &#8216;extraordinary achievement&#8217;; Trump: Amazing job; leaders remove hostage pins</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/WhatsApp_Image_2026-01-26_at_19.32.07-1024x640.jpeg\" title=\"PM: Gvili&#8217;s return an &#8216;extraordinary achievement&#8217;; Trump: Amazing job; leaders remove hostage pins\" width=\"160\" /></figure>",
-      "date_published": "2026-01-26T20:28:51+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Ran Gvili",
-        "2023-2025 Israel-Hamas war",
-        "Hamas hostages",
-        "Benjamin Netanyahu",
-        "Donald Trump",
-        "Isaac Herzog"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "127bfb949813575bb9ba7ec5cee8c7bbb4792ff07eb1a18c2f88c0a10f4161f8",
@@ -2651,6 +2856,26 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7653e20602af6565a6d4726ca86f07199440b2d7d2ad2e84225eb46773346d78",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260126-l-inde-et-l-union-europ%C3%A9enne-scellent-un-vaste-accord-de-libre-%C3%A9change-commercial",
+      "title": "L'Inde et l'Union européenne scellent un vaste accord de libre-échange",
+      "content_html": "L'Inde et l'Union européenne ​doivent conclure, mardi, un accord commercial historique après plus de 20 ans de négociations. Dans un contexte géopolitique incertain, le Premier ministre indien, Narendra Modi, a salué un pacte créateur de \"nombreuses opportunités\".",
+      "date_published": "2026-01-26T19:57:10+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asie-Pacifique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2731,7 +2956,7 @@
       "id": "0b245b0ddad1ad1a0e7294ddf5fc97de4b513ffa065536975a19389088cf59c1",
       "url": "https://elpais.com/internacional/2026-01-26/la-regularizacion-de-inmigrantes-en-espana-a-contracorriente-de-europa.html",
       "title": "La régularisation des immigrés en Espagne, à contre-courant de l'Europe",
-      "content_html": "Un magasin dans le quartier Usera, à Madrid, dans une image d'archive.",
+      "content_html": "Un magasin du quartier Usera, à Madrid, dans une image d’archive.",
       "date_published": "2026-01-26T19:36:20+00:00",
       "authors": [
         {
@@ -2911,7 +3136,7 @@
     {
       "id": "a04d2e37e45b7a4d73d3b867b1f8d59ca08837c6c641013beb9f8f8321e4f9e8",
       "url": "https://www.elmundo.es/internacional/2026/01/26/6977bc39fc6c83f1628b459d.html",
-      "title": "L'Assemblée nationale débat de l'interdiction des réseaux sociaux pour les mineurs de moins de 15 ans : \"C'est une bataille pour les esprits libres\"",
+      "title": "L'Assemblée nationale débat de l'interdiction des réseaux sociaux pour les moins de 15 ans : \"C'est une bataille pour les esprits libres\"",
       "content_html": "\"Les cerveaux de nos enfants et de nos adolescents ne sont pas à vendre\", a clamé Macron samedi.",
       "date_published": "2026-01-26T19:18:34+00:00",
       "authors": [
@@ -3146,24 +3371,6 @@
       "lang": "fr"
     },
     {
-      "id": "eb9a6134004811cae7d1afe7089ba5d22176f5072f30ed72238d1b1e94226bb9",
-      "url": "https://www.liberation.fr/international/amerique/panne-geante-delectricite-jusqua-30-dans-le-minnesota-au-moins-21-morts-la-tempete-polaire-seme-le-chaos-aux-etats-unis-20260126_RG5QEDFLFRFS3HASZSRBWVCCSM/",
-      "title": "Panne géante d’électricité, jusqu’à -30 dans le Minnesota, au moins 21 morts : la tempête polaire sème le chaos aux Etats-Unis",
-      "content_html": "Des piétons à New York, le 26 janvier.",
-      "date_published": "2026-01-26T18:58:19+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6dc6e47bfd5dfceedebad978f78558ccea5df840c95411b962c35f968041c386",
       "url": "https://www.ukrinform.net/rubric-ato/4084575-russians-launch-missile-strike-on-kharkiv-casualties-reported.html",
       "title": "Russians launch missile strike on Kharkiv, casualties reported",
@@ -3352,6 +3559,26 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b27223d2cfcfffff13e0f1f521685a9a3b781430217984c97cae85f23a8d8d04",
+      "url": "https://www.france24.com/en/asia-pacific/20260126-eu-and-india-to-announce-mother-of-all-deals-representing-one-third-of-global-trade",
+      "title": "EU and India to announce 'mother of all' deals representing one third of global trade",
+      "content_html": "The European Union and India will announce a vast trade pact on Tuesday that Prime Minister Narendra Modi said would represent about one-third of global trade. EU and Indian leaders hope the pact will shore up their economies against challenges from the US and China.",
+      "date_published": "2026-01-26T18:31:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Asia / Pacific"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4360,24 +4587,6 @@
       "lang": "en"
     },
     {
-      "id": "324f4505df46e2d49d9925dacee2b5036acd4003b41946b4986469a1801dd747",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-lili-keller-rosenberg-une-rescap%C3%A9e-de-la-shoah-raconte-l-horreur-des-camps",
-      "title": "Lili Keller-Rosenberg : une rescapée de la Shoah raconte l’horreur des camps",
-      "content_html": "Déportée avec ses petits frères et sa mère, à 93 ans, Lili Keller-Rosenberg raconte l’horreur des camps de concentration de Ravensbrück et Bergen-Belsen. Nos journalistes Stéphanie Trouillard et Claire Paccalin sont parties à sa rencontre.",
-      "date_published": "2026-01-26T16:33:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8a15e41f7f060578bd83d4117d731f762097c23c33e2753dc5a2fbadcc348245",
       "url": "https://www.france24.com/en/gaza-faces-firewood-shortage-and-harsh-winter-conditions",
       "title": "Gaza faces firewood shortage and harsh winter conditions",
@@ -4422,22 +4631,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "29754d02c0ef10713acb2446892fe9b32abcdd0245915a2181a3e76aa58d3143",
-      "url": "https://www.ukrinform.net/rubric-polytics/4084535-former-ambassador-warns-us-security-guarantees-lack-real-deterrent-power.html",
-      "title": "Former ambassador warns U.S. security guarantees lack real deterrent power",
-      "content_html": "Former Ambassador of Ukraine to the United States (2006–2010) and France (2014–2020) Oleh Shamshur believes that the absence of information about the final format of U.S. security guarantees for Ukraine is not accidental, as the proposed arrangements lack real force and are incapable of deterring Russia.",
-      "date_published": "2026-01-26T16:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4528,24 +4721,6 @@
       "lang": "fr"
     },
     {
-      "id": "5463ebfbd9b5b1ee268093aaff478cc0d4ab0ac0f09daecd1a15769483aaddc4",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-minneapolis-bill-clinton-et-barack-obama-appellent-les-am%C3%A9ricains-au-sursaut",
-      "title": "Minneapolis : Bill Clinton et Barack Obama appellent les Américains au \"sursaut\"",
-      "content_html": "L'ex-président américain Bill Clinton a exhorté dimanche les Américains à \"se lever et s'exprimer\", dénonçant des \"scènes horribles\" à Minneapolis, où deux citoyens américains ont été tués par la police.",
-      "date_published": "2026-01-26T16:03:36+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6940e8c163423452b2f1b1ed4ae1f20fdfe8cb4b1e10e8084eb6fb02e059ce14",
       "url": "https://www.aljazeera.com/video/upfront/2026/1/26/trumps-second-term-reality-has-overtaken?traffic_source=rss",
       "title": "Trump’s second term: ‘Reality has overtaken satire’",
@@ -4558,22 +4733,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c5e2075896f923044ec46e73c6abd8d995bc50ca18b3b20c86e2ccdebb43ac5b",
-      "url": "https://www.ukrinform.net/rubric-society/4084508-prokudin-most-centrally-heated-highrise-buildings-in-kherson-have-heat.html",
-      "title": "Prokudin: Most centrally heated high-rise buildings in Kherson have heat",
-      "content_html": "Most high-rise buildings in Kherson that are centrally heated have heat.",
-      "date_published": "2026-01-26T15:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4644,62 +4803,6 @@
       "lang": "fr"
     },
     {
-      "id": "f88553ffc9fd8ed70b94d6f42139a9127839d1249eb194ce83bea93ad971919e",
-      "url": "https://www.france24.com/en/china-s-accidental-crying-horse-plush-toy-goes-viral",
-      "title": "China's accidental 'crying horse' plush toy goes viral",
-      "content_html": "As the Lunar New Year approaches, a production error at a toy factory has led to the creation of a viral 'crying horse' plush toy. Intended to celebrate the Year of the Horse, the toy's upside-down mouth has resonated with China's overworked, stressed young white-collar employees. The toy has become a symbol of their struggles, with sales booming amid the country’s economic challenges and youth unemployment.",
-      "date_published": "2026-01-26T15:51:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "dca81e1da5e2766cda61349c849855325c484570aa0fe8c8ec50ccf6c7a8fae2",
-      "url": "https://www.france24.com/en/middle-east/20260126-iranian-state-tv-airs-several-forced-confessions-after-protest-crackdown-activists-say",
-      "title": "Iran's state TV airs several ‘forced confessions’ after protest crackdown, activists say",
-      "content_html": "Iranian state television in recent weeks has aired an \"unprecedented\" number of coerced televised confessions following the latest deadly crackdown on anti-regime protests, according to human rights groups. Activists say the \"forced confessions\" are extracted by psychological and physical torture, and are a familiar tactic used in the past by Iranian authorities.",
-      "date_published": "2026-01-26T15:51:11+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "428f97ed4a9ac64605caec35f23f6d078a523a2e4e010fc4046d9bf76b2606f8",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-%C3%A0-minneapolis-la-pression-monte-apr%C3%A8s-un-deuxi%C3%A8me-mort-impliquant-des-agents-f%C3%A9d%C3%A9raux",
-      "title": "À Minneapolis, la pression monte après un deuxième mort impliquant des agents fédéraux",
-      "content_html": "Après la mort d'Alex Pretti, tué par la police fédérale à Minneapolis, l'ex-président Barack Obama appelle à un \"sursaut\", quand son prédécesseur Bill Clinton exhorte les Américains à \"se lever\". Dimanche, le président Donald Trump a imputé ce deuxième décès aux élus démocrates de cette ville et de l'État du Minnesota.",
-      "date_published": "2026-01-26T15:42:05+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "eecc7cd288ccd0675f754a2d26ab8502dd39c3a84a2c48d5c08aa949af35416a",
       "url": "https://www.theguardian.com/world/2026/jan/26/two-british-far-right-activists-arrested-france",
       "title": "Two British far-right activists arrested in France",
@@ -4721,26 +4824,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "b7c17dff5ce96fc054e6f6aca8927a8d7bbc7cc62644e8a2a1b48c1f24152c6a",
-      "url": "https://www.france24.com/fr/france/20260126-glucksmann-propose-au-ps-de-renoncer-%C3%A0-la-primaire-pour-une-plateforme-sociale-d%C3%A9mocrate",
-      "title": "Glucksmann appelle les socialistes à renoncer à la primaire pour une \"plateforme\" sociale-démocrate",
-      "content_html": "Alors qu'il avait permis aux socialistes de finir troisièmes des élections européennes en 2024, Raphaël Glücksmann leur propose d'abandonner la primaire des unitaires annoncée pour le 11 octobre et d'opter pour une \"plateforme\" résolument sociale-démocrate.",
-      "date_published": "2026-01-26T15:33:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "b4dae76dca05a0c4c8ec86c33a02f0f64ca787642cc62880703a5ed01798c2df",
@@ -4787,24 +4870,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "939e010dc08f97a52621cde78be521bc20c69f402d528c8f0178e1153e5f07c0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260126-%C3%A9tats-unis-comment-donald-trump-utilise-l-ice-pour-diviser-les-am%C3%A9ricains",
-      "title": "États-Unis : comment Donald Trump utilise l'ICE pour \"diviser les Américains\"",
-      "content_html": "Donald Trump a imputé dimanche la mort de deux Américains, tués par la police fédérale à Minneapolis, au \"chaos provoqué par les démocrates\", au moment où son administration fait face à la pression de l'opposition et de la population de cette ville du nord des Etats-Unis. Les explications de Reed Brody, avocat américain et ancien institut du procureur de l'État de New York.",
-      "date_published": "2026-01-26T15:10:56+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "78e8414a144e459b06633c4dfc1d0724ce8d083b36bba8ae880768cb2c25180f",
@@ -5013,22 +5078,6 @@
       "lang": "en"
     },
     {
-      "id": "236e4f9a5b06b807a8384e5f71a98d33dab8cf2847116c9a626dec8362a9b8a5",
-      "url": "https://www.aljazeera.com/news/2026/1/26/trump-says-justice-department-looking-at-ilhan-omars-wealth?traffic_source=rss",
-      "title": "Trump says US Justice Department ‘looking at’ Ilhan Omar’s wealth",
-      "content_html": "Somali American congresswoman accuses US president of deflecting from his own &#039;failures&#039; with &#039;conspiracy theories&#039;.",
-      "date_published": "2026-01-26T14:30:03+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7b457649ee1d327126f7045427a3096f1865c15d0c06c2098cdd8a1dbda7cc34",
       "url": "https://www.lefigaro.fr/international/etats-unis-qu-est-ce-que-l-ice-cette-police-de-l-immigration-honnie-des-manifestants-20260126",
       "title": "États-Unis : qu’est-ce que l’ICE, cette police de l’immigration honnie des manifestants ?",
@@ -5069,22 +5118,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "884691aee8cb4d512b04c71975efff89d313901e01bd865c84e3591c6593adf7",
-      "url": "https://www.aljazeera.com/news/2026/1/26/icc-judges-find-former-philippine-president-duterte-fit-to-stand-trial?traffic_source=rss",
-      "title": "ICC judges find former Philippine President Duterte fit to stand trial",
-      "content_html": "Judges cite report by medical experts saying the 80-year-old is able &#039;effectively to exercise his procedural rights&#039;.",
-      "date_published": "2026-01-26T14:15:12+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "7ec9809c0ed98760d823336ab1f933eb51bd4975954cb74fd5c289135eb9fedf",
@@ -5791,7 +5824,7 @@
     {
       "id": "44d720e44a11698674220279c77d9ff51171243186544d94669bf55d90cf1fab",
       "url": "https://www.elmundo.es/internacional/2026/01/26/69770fffe4d4d8e4248b45a9.html",
-      "title": "La monstrueuse tempête de neige et de verglas qui touche les deux tiers du territoire américain fait déjà au moins dix morts et près d'un million de foyers sans électricité.",
+      "title": "La monstrueuse tempête de neige et de verglas qui touche les deux tiers des États-Unis fait déjà au moins dix morts et près d'un million de foyers sans électricité.",
       "content_html": "La grande tempête a provoqué la pire journée d'annulations de vols depuis la pandémie de covid-19 en 2020 avec plus de 11 000 annulations et 17 000 retards.",
       "date_published": "2026-01-26T06:56:01+00:00",
       "authors": [
@@ -6172,7 +6205,7 @@
     {
       "id": "9fe99c2d073a3eb599cb9304359354d944d0e0567b6c79e3ad763c7689972ff4",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/alex-pretti-abattu-a-minneapolis-impunite-detat-20260125_JGBZF7FJ6VAWRCMNJISCS5ZSVA/",
-      "title": "Alex Pretti abattu à Minneapolis : impunité de l’État",
+      "title": "Alex Pretti abattu à Minneapolis : impunité d’Etat",
       "content_html": "Le corps d'Alex Pretti, quelques instants après sa mort, samedi 24 janvier 2026.",
       "date_published": "2026-01-25T19:50:01+00:00",
       "authors": [
@@ -7080,7 +7113,7 @@
     {
       "id": "69915d97a776e813e9814324a65dcc969ed91d1e39be61d567d4b652352bdd14",
       "url": "https://www.elmundo.es/internacional/2026/01/24/69748df4e4d4d8b04c8b457a.html",
-      "title": "Kiev dénonce \"une nouvelle nuit de terreur russe\" dans le cadre de négociations trilatérales avec Moscou et Washington",
+      "title": "Kiev dénonce \"une autre nuit de terreur russe\" dans le cadre de négociations trilatérales avec Moscou et Washington",
       "content_html": "Zelensky note que les pourparlers se terminent par des discussions \"constructives\" sur \"des critères possibles pour mettre fin à la guerre\" et anticipe une autre éventuelle réunion pour la semaine prochaine.",
       "date_published": "2026-01-24T18:40:56+00:00",
       "authors": [
@@ -7384,24 +7417,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "b9428af288d95ab1e7ca8093a373897a4c09775c1d12f5f2c0644659d66bf150",
-      "url": "https://www.liberation.fr/international/asie-pacifique/quatre-attaques-de-requin-en-moins-de-trois-jours-pourquoi-la-baie-de-sydney-est-elle-le-theatre-dune-serie-dincidents-inedits-impliquant-des-squales-20260124_KYDRNTAM4ZDOFJP2TIWRT5BKWU/",
-      "title": "Quatre attaques de requin en moins de trois jours : pourquoi la baie de Sydney est-elle le théâtre d’une série d’incidents inédits impliquant des squales ?",
-      "content_html": "Sur une plage de Sydney, le 20 janvier 2026.",
-      "date_published": "2026-01-24T11:33:28+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "47ec2353fe85b00bba3d2b723a7658b7d7f703319b23426012cdbb7cdf7360b6",
@@ -8977,7 +8992,7 @@
     {
       "id": "16650dc860bb6ef012e0b49955a1627d23ef1cb817fee8319e26f325d92e77a0",
       "url": "https://elpais.com/internacional/2026-01-19/trump-demuestra-la-necesidad-del-acuerdo-de-la-ue-con-mercosur.html",
-      "title": "Trump démontre la nécessité d’un accord entre l’UE et le Mercosur",
+      "title": "Trump démontre la nécessité d'un accord entre l'UE et le Mercosur",
       "content_html": "La présidente de la Commission européenne, Ursula Von der Leyen, avec les présidents du Paraguay (Santiago Peña), de l'Argentine (Javier Milei) et de l'Uruguay (Yamandú Orsi) ce samedi.",
       "date_published": "2026-01-19T04:40:00+00:00",
       "authors": [
