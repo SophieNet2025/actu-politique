@@ -5,16 +5,60 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "41f63438fbdb2ad462d9d8f8900467375be4ee96a3c61a85e7ce13090c43e801",
-      "url": "https://ici.radio-canada.ca/nouvelle/2225362/entente-hors-cour-litige-bruit-tulipe-montreal",
-      "title": "Une entente met fin au litige entourant la salle La Tulipe, fermée en raison du bruit",
-      "content_html": "<p>Elle prévoit le versement par la Ville de Montréal de 350&nbsp;000&nbsp;$ au voisin qui se plaignait du bruit. </p>",
-      "date_published": "2026-02-03T19:40:07+00:00",
+      "id": "9c435b772db8e66fff14b1dafcf2ec34da2c92944a416cb1b2058d3e74e0304f",
+      "url": "https://www.liberation.fr/international/efforts-diplomatiques-avec-le-qatar-139-etrangers-arretes-un-puissant-homme-daffaires-dans-le-viseur-du-pouvoir-lactu-du-conflit-en-iran-ce-mardi-3-fevrier-20260203_BZRRU4YTC5D7JCGZN5OIQ75TRE/",
+      "title": "Efforts diplomatiques avec le Qatar, 139 étrangers arrêtés, un puissant homme d’affaires dans le viseur du pouvoir… L’actu du conflit en Iran ce mardi 3 février",
+      "content_html": "Banderole anti-américaine et anti-israélienne accrochée à un immeuble de la place Palestine à Téhéran, le 27 janvier 2026.",
+      "date_published": "2026-02-03T20:20:58+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "eef17031dbbac5fc5997641b81b0c7a83b04d16e1e5431664864360374fbea4a",
+      "url": "https://www.bbc.com/news/articles/c0mke841zj0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Republicans 'should take over the voting' and 'nationalise' US elections",
+      "content_html": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
+      "date_published": "2026-02-03T20:20:40+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7e798549a242bb41ff630fac573229fda7ddadc7ca9b73a1865975628789a0d2",
+      "url": "https://elpais.com/internacional/2026-02-03/la-fiscalia-francesa-pide-inhabilitar-cinco-anos-a-marine-le-pen-pero-deja-la-puerta-abierta-para-que-pueda-ser-candidata.html",
+      "title": "Le parquet français demande la disqualification de Marine Le Pen pour cinq ans, mais lui laisse la porte ouverte pour qu'elle soit candidate",
+      "content_html": "Marine Le Pen, lors d'une audience devant une cour d'appel, ce mardi.",
+      "date_published": "2026-02-03T20:19:16+00:00",
+      "authors": [
+        {
+          "name": "Raquel Villaécija"
+        }
+      ],
+      "tags": [
+        "Marine Le Pen",
+        "Francia",
+        "Juicios",
+        "Europa",
+        "Extrema derecha",
+        "Elecciones",
+        "Conservadores"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -23,7 +67,7 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2225419/marwah-rizqy-crise-plq",
       "title": "Crise au PLQ : Marwah Rizqy se dit « en paix avec elle-même »",
       "content_html": "<p>L’ex-cheffe parlementaire du Parti libéral du Québec est de retour comme indépendante à l&#x27;Assemblée nationale.</p>",
-      "date_published": "2026-02-03T19:37:14+00:00",
+      "date_published": "2026-02-03T20:19:11+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -33,11 +77,187 @@
       "lang": "fr"
     },
     {
+      "id": "7fc2c272ce0b458c23eca2bfc0b93d690a0a724412af7000f5e8142bad79f87e",
+      "url": "https://ici.radio-canada.ca/nouvelle/2225236/colombie-traifc-drogues-gustavo-petro-maison-blanche",
+      "title": "En Colombie, on troque la coca pour le cacao",
+      "content_html": "<p>Pour le président Petro, la Colombie est le pays qui offre la lutte la plus acharnée contre le narcotrafic.</p>",
+      "date_published": "2026-02-03T20:19:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4bf977fe2cd98cc1a4dccece48ce8e49635c8b3ccfa7a2feb4ca73ca774335cc",
+      "url": "https://www.elmundo.es/internacional/2026/02/03/6982572fe9cf4a431c8b459d.html",
+      "title": "Scotland Yard ouvre une enquête pénale contre l'ancien ambassadeur Peter Mandelson dans l'affaire Epstein",
+      "content_html": "Il aurait transmis au financier américain des informations susceptibles d'influencer les marchés, notamment lorsqu'il était ministre de Gordon Brown, de 2008 à 2010.",
+      "date_published": "2026-02-03T20:18:04+00:00",
+      "authors": [
+        {
+          "name": "Afp"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6f3cf5222b1b89cc0e9309d684c6c768a823fca207d054eeaddaceb3d344c280",
+      "url": "https://ici.radio-canada.ca/nouvelle/2225444/paralysie-budgetaire-etats-unis-fin",
+      "title": "Le Congrès américain vote la fin de la paralysie budgétaire",
+      "content_html": "<p>L&#x27;impasse budgétaire était liée au financement de la controversée police de l&#x27;immigration (ICE).</p>",
+      "date_published": "2026-02-03T20:17:10+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f22976672c79d2d9894667101e23e79b583d0bf997b1989c15ce4f3773fb910f",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260203-affaire-epstein-ce-que-l-on-sait-des-troublantes-tentatives-de-rapprochement-avec-le-kremlin",
+      "title": "Affaire Epstein : ce que l’on sait des troublantes tentatives de rapprochement avec le Kremlin",
+      "content_html": "Des milliers de documents judiciaires rendus publics vendredi dans l’affaire Epstein mettent en lumière les démarches répétées du pédocriminel américain pour établir des contacts avec la Russie et le président Vladimir Poutine. Ces échanges, qui s'étalent entre 2010 et 2018, se poursuivent jusqu’à un an avant sa mort en détention.",
+      "date_published": "2026-02-03T20:15:46+00:00",
+      "authors": [
+        {
+          "name": "Barbara GABEL"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c6a33dfe4a42738f3c090c87d5fd68a4931c5d15b5594eda70afa82abf67c89c",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb",
+      "title": "Australian politics live: fourfold surge in home battery installations after federal subsidy; O’Brien says Liberals can stand alone",
+      "content_html": "<p>More than 4.3 million households now have solar, helping to drive downward pressure on power bills. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Coalition can reform this week, under conditions: Ley</strong></p><p>Ley is facing two challenges, the other of course is the Coalition split. Yesterday we reported that the Liberal leader had offered the Nats a deal that would see the three former frontbenchers who crossed the floor, remain off the frontbench for six months.</p><p>The Coalition can reform this week but under certain conditions, and those conditions are overwhelmingly supported by the majority of my party room. And they are that shadow cabinet solidarity is mandatory. That shadow cabinet and the party room have primacy of over any individual party room, and the three senators do need to face ongoing suspensions.</p><p>These are ridiculous suggestions and they’re made by people in the media, not the conversations that I’m having with colleagues, and they’re not the focus of my team.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb\">Continue reading...</a>",
+      "date_published": "2026-02-03T20:14:44+00:00",
+      "authors": [
+        {
+          "name": "Krishani Dhanji"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian politics",
+        "Australian foreign policy",
+        "Anthony Albanese",
+        "Labor party",
+        "Sussan Ley",
+        "Liberal party",
+        "National party",
+        "David Littleproud",
+        "Energy",
+        "Australian economy",
+        "Interest rates",
+        "Coalition"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f2b00c245912c20612f026aeb67605ac127edb697592008ffa92f91e10bc521a",
+      "url": "https://www.lemonde.fr/international/article/2026/02/03/etats-unis-la-chambre-des-representants-adopte-un-texte-budgetaire-et-met-fin-au-shutdown_6665281_3210.html",
+      "title": "Etats-Unis : la Chambre des représentants adopte un texte budgétaire et met fin au shutdown",
+      "content_html": "Le président de la Chambre des représentants des Etats-Unis, Mike Johnson (au centre), entouré de dirigeants républicains de la Chambre, au Capitole, à Washington, le 3 février 2026.",
+      "date_published": "2026-02-03T20:12:59+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9db749b02f1f52def4327d7bab373924ac2ab3da403c0655fee0513e7e65117e",
+      "url": "https://www.dw.com/en/nato-sets-arctic-mission-plans-in-motion/a-75790421?maca=en-rss-en-all-1573-rdf",
+      "title": "NATO sets Arctic mission plans in motion",
+      "content_html": "The move comes after Donald Trump stepped back on his insistence that the US must control Greenland to ensure national security. Greenland has warned the US still wants to control the strategic Arctic island.",
+      "date_published": "2026-02-03T20:12:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4cb4f1a40193ab91a4bd0f8216fd48466ab0371fef4d54f17d21e12e29eaebc0",
+      "url": "https://ici.radio-canada.ca/nouvelle/2225349/trump-elections-mi-mandat-controle-votes-republicain",
+      "title": "Les républicains devraient « prendre le contrôle » de l’élection, dit Trump",
+      "content_html": "<p>Le président américain a dit que son parti devrait «&nbsp;nationaliser&nbsp;» le vote, qui relève des États.</p>",
+      "date_published": "2026-02-03T20:11:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "eba56d65844cfd1705d5c6d24044870c6b2e2730a61d9ed9b4e301b3b7924d86",
+      "url": "https://www.ukrinform.net/rubric-society/4087445-over-130-ukrainian-service-members-undergoing-rehabilitation-in-netherlands.html",
+      "title": "Over 130 Ukrainian service members undergoing rehabilitation in Netherlands",
+      "content_html": "More than 130 Ukrainian service members are currently in the Netherlands, where they have been sent for rehabilitation or treatment in coordination with Ukraine's Ministry of Health.",
+      "date_published": "2026-02-03T20:10:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6de46a77fff84046252c10fc7e8bd2a7f43f69754bf8bd6d3bbaedacf00860b3",
+      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-la-chambre-des-representants-vote-la-fin-du-shutdown-20260203_W3HY5M3SBJHUVOTVVXE2FY7IPM/",
+      "title": "Aux Etats-Unis, la Chambre des représentants vote la fin du «shutdown»",
+      "content_html": "Le «Speaker» de la Chambre des représentants, Mike Johnson, au Capitole, ce mardi 3 février.",
+      "date_published": "2026-02-03T20:07:37+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "85268f4b2e3eeb34f446eeffbbeaa09a72fbf271789b79d5d33f6cc19cd7b114",
       "url": "https://www.elmundo.es/internacional/2026/02/03/69824cdefdddff2f7f8b457d.html",
       "title": "Saïf al Islam Kadhafi, fils du dictateur libyen déchu Mouammar Kadhafi, est décédé",
       "content_html": "Son conseiller Abdullah Otham a fait état du décès sans en préciser la cause.Le Libye Observer affirme qu'il a été tué près de la ville de Zintan, à environ 140 kilomètres de Tripoli.",
-      "date_published": "2026-02-03T19:37:00+00:00",
+      "date_published": "2026-02-03T20:06:55+00:00",
       "authors": [
         {
           "name": "Efe"
@@ -51,11 +271,25 @@
       "lang": "fr"
     },
     {
+      "id": "64a18a73a86e1727fec52c263d016e9e9024640b964c869af9f821bd73a72cc8",
+      "url": "https://www.france24.com/fr/info-en-continu/20260203-libye-seif-al-islam-kadhafi-l-un-des-fils-de-l-ex-dictateur-a-%C3%A9t%C3%A9-tu%C3%A9-par-des-hommes-arm%C3%A9s",
+      "title": "Libye : Seif al-Islam Kadhafi, l'un des fils de l'ex-dictateur, a été tué par des hommes armés",
+      "content_html": "",
+      "date_published": "2026-02-03T20:06:02+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "977646904cd4dc3d9fac85c69cbb64c80e3f69d1c549c9007760d4d1c4cbcf74",
       "url": "https://www.theguardian.com/us-news/live/2026/feb/03/donald-trump-colombia-gustavo-petro-venezuela-jeffrey-epstein-files-bill-hillary-clinton-us-politics-live-news",
       "title": "House narrowly passes funding bills to end partial government shutdown – US politics live",
       "content_html": "<p>House passes package of five funding bills and DHS stopgap measure 217-214; measure now goes to Trump for approval as battle looms over guardrails for immigration enforcement</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/03/trump-petro-white-house-meeting\">Trump-Petro meeting could end in detente or discord with Colombia leader</a></p></li></ul><p>Donald Trump has continued to sow doubt in the election system. While appearing on former deputy FBI director <strong>Dan Bongino’s</strong> podcast on Monday, the president called on Republicans to <strong>“nationalize the voting,”</strong> in at least<strong> “15 places”, </strong>although he did not clarify which ones.</p><p><strong>“The Republicans should say, ‘we want to take over’,” </strong>Trump said in the interview<strong>.</strong></p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/03/donald-trump-colombia-gustavo-petro-venezuela-jeffrey-epstein-files-bill-hillary-clinton-us-politics-live-news\">Continue reading...</a>",
-      "date_published": "2026-02-03T19:34:33+00:00",
+      "date_published": "2026-02-03T20:02:02+00:00",
       "authors": [
         {
           "name": "Shrai Popat (now); Lucy Campbell and Tom Ambrose (earlier)"
@@ -79,36 +313,11 @@
       "lang": "en"
     },
     {
-      "id": "9d1e5114dc56373625737ee185c958e7175caa605b7b907fa1188154d228189b",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein",
-      "title": "Met to review latest claim about Andrew Mountbatten-Windsor’s links to Epstein",
-      "content_html": "<p>Scotland Yard says it will review allegation that Epstein trafficked woman to UK to have sex with Andrew at Royal Lodge</p><p>British police are to review fresh allegations that Jeffrey Epstein provided Andrew Mountbatten-Windsor with a woman to have sex with at the Royal Lodge in 2010.</p><p>The woman has claimed she spent the night at the then prince’s residence in Windsor, her US lawyer, Brad Edwards, said after the allegations surfaced over the weekend. The woman, who is not British, was in her 20s at the time, and was later given a tour of Buckingham Palace, it is further alleged.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein\">Continue reading...</a>",
-      "date_published": "2026-02-03T19:33:54+00:00",
-      "authors": [
-        {
-          "name": "Vikram Dodd and Caroline Davies"
-        }
-      ],
-      "tags": [
-        "Andrew Mountbatten-Windsor",
-        "Metropolitan police",
-        "Jeffrey Epstein",
-        "UK news",
-        "Prince Edward",
-        "Monarchy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "61d5fbbcfee3aef2f47775a29db88d3cea32fd37d716e4b589bb1a31c1653f04",
       "url": "https://www.theguardian.com/politics/live/2026/feb/03/peter-mandelson-jeffrey-epstein-house-of-lords-labour-keir-starmer-uk-politics-latest-news-updates",
       "title": "Police launch investigation into Peter Mandelson over alleged leaks to Jeffrey Epstein – UK politics live",
       "content_html": "<p>Files released by US apparently show Mandelson sending Epstein market-sensitive information while serving as business secretary</p><p>The Department for Work and Pensions has<a href=\"https://www.gov.uk/government/news/disability-experts-appointed-to-lead-first-ever-full-review-of-personal-independence-payment\"> named 12 disability experts </a>with “lived experience of disability or long-term health conditions” who will sit on the steering group of the review looking at the future of the personal independence payment (Pip), a disability benefit. <strong>Stephen Timms</strong>, the minister leading the review, says:</p><p>Disabled people deserve a system that truly supports them to live with independence and dignity, and that fairly reflects the reality of their lives today.</p><p>That’s why we’re putting disabled people at the heart of this review – ensuring their voices shape the changes that will help them achieve better health, greater independence, and access to the right support when they need it.</p><p>* Could we see a crunch point as soon as tomorrow over Mandelson?</p><p>* Tories have an opposition day debate - could they force a vote on Mandelson vetting disclosure. Shadow cabinet sources tell me they’re thinking about it</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/03/peter-mandelson-jeffrey-epstein-house-of-lords-labour-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-03T19:32:04+00:00",
+      "date_published": "2026-02-03T20:00:39+00:00",
       "authors": [
         {
           "name": "Nadeem Badshah(now), Andrew Sparrow (earlier)"
@@ -146,6 +355,319 @@
       "lang": "en"
     },
     {
+      "id": "0445ebc63f40aad66f5015baddbe225f4372a1152ccf9076607742a8559aa336",
+      "url": "https://www.lefigaro.fr/culture/golshifteh-farahani-au-figaro-le-peuple-iranien-est-le-plus-seul-au-monde-20260203",
+      "title": "Golshifteh Farahani au Figaro : «Le peuple iranien est le plus seul au monde»",
+      "content_html": "Golshifteh Farahani est exilée en France depuis 2008.",
+      "date_published": "2026-02-03T20:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "Culture"
+      ],
+      "source": {
+        "name": "Le Figaro - International : Actualité internationale en direct",
+        "url": "http://www.lefigaro.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bc081f75ea9ad691585a9d69dbc49eb0d8fefeac4d3701d57ff99cb5d155fb0d",
+      "url": "https://www.theguardian.com/us-news/2026/feb/03/savannah-guthrie-mother-abduction",
+      "title": "Arizona officials say they ‘don’t know where’ Savannah Guthrie’s mother is, three days after disappearance",
+      "content_html": "<p>Nancy Guthrie was last seen on Saturday night and is believed to have been taken against her will</p><p>Officials in Arizona said on Tuesday afternoon they were no closer to finding the missing mother of Savannah Guthrie, the Today show host, three days after the octogenarian disappeared from her Tucson home – which detectives are treating as “a crime scene”.</p><p>Nancy Guthrie, 84, was last seen on Saturday night and is believed to have been taken against her will, Chris Nanos, the Pima county sheriff, said. Media reports on Tuesday said blood was found at the residence, and there were signs of forced entry.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/savannah-guthrie-mother-abduction\">Continue reading...</a>",
+      "date_published": "2026-02-03T19:58:40+00:00",
+      "authors": [
+        {
+          "name": "Richard Luscombe and agencies"
+        }
+      ],
+      "tags": [
+        "Arizona",
+        "US crime",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "52dd7d82a8c22e7ee6502f4882aba2dc3ccf5455b90f7564c66817c64a11b335",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/son-of-norways-crown-princess-pleads-not-guilty-in-rape-case?traffic_source=rss",
+      "title": "Son of Norway’s crown princess pleads not guilty in rape case",
+      "content_html": "Norway’s Crown Princess Mette-Marit’s son has pleaded not guilty to four rape charges as his trial opens in Oslo.",
+      "date_published": "2026-02-03T19:57:59+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "680298e18d27e07dd81f24b555796dc57bb8baa94eca614fdbcc16aadfafb530",
+      "url": "https://www.aljazeera.com/news/2026/2/3/un-chief-urges-gaza-aid-as-israel-blocks-most-medical-evacuees-at-rafah?traffic_source=rss",
+      "title": "UN chief urges Gaza aid as Israel blocks most medical evacuees at Rafah",
+      "content_html": "Al-Shifa Hospital director says blocking medical evacuations through Rafah crossing could be &#039;death sentence&#039; for many.",
+      "date_published": "2026-02-03T19:52:53+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cf66ba46c8b468433b96f622b8c9d32ac013f1d4e11be0a49e262e8b4ec8c6ee",
+      "url": "https://www.timesofisrael.com/women-returning-to-gaza-through-rafah-say-idf-bound-interrogated-and-threatened-them/",
+      "title": "Women returning to Gaza through Rafah say IDF bound, interrogated and threatened them",
+      "content_html": "<p>IDF says it knows of no incidents of inappropriate conduct; trio says they were taken to 'humiliation room' by troops, questioned about Hamas and Gaza events, pressured to act as informants</p>\n<p>The post <a href=\"https://www.timesofisrael.com/women-returning-to-gaza-through-rafah-say-idf-bound-interrogated-and-threatened-them/\">Women returning to Gaza through Rafah say IDF bound, interrogated and threatened them</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/AP26034589779373-e1770143336796-1024x640.jpg\" title=\"Women returning to Gaza through Rafah say IDF bound, interrogated and threatened them\" width=\"160\" /></figure>",
+      "date_published": "2026-02-03T19:47:58+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Rafah Crossing",
+        "Gaza Strip",
+        "2023-2025 Israel-Hamas war",
+        "Abu Shabab",
+        "Nasser Hospital"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6b456257fb3bcb79987c3acb7ac4f1fb1382089cdd09d2b73d741c4c5eb5ff24",
+      "url": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
+      "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly killed",
+      "content_html": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media.",
+      "date_published": "2026-02-03T19:47:20+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "51e266f541d187c6b3d3184acb03d318f72fd1b9107e663aacfc3087faeab9ff",
+      "url": "https://www.theguardian.com/us-news/2026/feb/03/house-passes-funds-ending-government-shutdown",
+      "title": "US House passes $1.2tn funding bill, ending partial government shutdown",
+      "content_html": "<p>Appropriations measure to let Democrats negotiate with White House and GOP leaders over Trump’s deportation efforts</p><p>The US House of Representatives on Tuesday passed a funding measure that will end the partial government shutdown, while giving Democrats time to negotiate with the White House and Congress’s Republican leaders over restrictions on Donald Trump’s mass deportation campaign.</p><p>The Republican-controlled chamber approved the $1.2tn appropriations measure by a 217-214 vote, with all but 21 Republicans voting in favor and all but 21 Democrats against. Trump is expected to sign it, ending the shutdown that began after midnight last Friday, which halted many operations at departments including defense, health and human services, labor and transportation.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/house-passes-funds-ending-government-shutdown\">Continue reading...</a>",
+      "date_published": "2026-02-03T19:46:12+00:00",
+      "authors": [
+        {
+          "name": "Chris Stein in Washington"
+        }
+      ],
+      "tags": [
+        "House of Representatives",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US Congress",
+        "US news",
+        "Republicans",
+        "Democrats",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8526022c44664f2f45301ee211286ae83224e70f0c82093d6a512a6da176647f",
+      "url": "https://www.ukrinform.net/rubric-ato/4087440-seven-injured-in-russian-strike-on-apartment-building-in-kharkiv.html",
+      "title": "Seven injured in Russian strike on apartment building in Kharkiv",
+      "content_html": "Seven people were injured in a Russian strike on a residential building in Kharkiv on Tuesday, February 3.",
+      "date_published": "2026-02-03T19:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "682e6e3c4c3510b3dda95b6d6e331e640305c3c5e3ffbdc90380399ea4662f79",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260203-kenya-la-nairobi-fashion-week-met-l-accent-sur-la-mode-durable",
+      "title": "Kenya : la Nairobi Fashion Week met l’accent sur la mode durable",
+      "content_html": "La huitième édition de la Nairobi Fashion Week s’est achevée ce week-end par un défilé dans la capitale kényane. Plusieurs créateurs y ont présenté leurs collections autour du thème \"Décarboniser\". L’objectif est de promouvoir une mode plus durable dans ce pays d’Afrique de l’Est, particulièrement confronté à la pollution textile.",
+      "date_published": "2026-02-03T19:44:45+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d37261bd97a16ead713365d8cf0e5d3b108b68ebafa552f76a606593154458e1",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260203-%C3%A9thiopie-tigr%C3%A9-le-spectre-de-la-guerre-refait-surface",
+      "title": "Éthiopie - Tigré : le spectre de la guerre refait surface",
+      "content_html": "Après de violents combats entre les troupes fédérales éthiopiennes et celles du Tigré la semaine dernière, l’Afrique de l’Est a les yeux tournés vers cette région du nord de l’Éthiopie. Un peu plus de trois ans après la signature des accords de Pretoria, qui avaient mis fin à deux ans de guerre civile, les tensions sont au plus haut. Les responsables tigréens veulent montrer des signes d’apaisement, mais demandent des concessions à Addis-Abeba.",
+      "date_published": "2026-02-03T19:44:41+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b3b3419204d2d5b5c56d4421689ce2d9f7c9975571c318df5a6fddea916d0e7c",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260203-centrafrique-la-cour-p%C3%A9nale-sp%C3%A9ciale-ouvre-une-instruction-dans-l-affaire-de-bossemb%C3%A9l%C3%A9",
+      "title": "Centrafrique : la Cour pénale spéciale ouvre une instruction dans l’affaire de \"Bossembélé\"",
+      "content_html": "En Centrafrique, la Cour pénale spéciale a ouvert une instruction dans l’affaire dite de \"Bossembélé\". Une affaire qui vise l’ancien président François Bozizé et trois de ses proches collaborateurs.\n \nL’ex-chef de l’État, aujourd’hui en exil en Guinée-Bissau, pourrait faire l’objet d’une demande d’extradition. Pacôme Pabandji nous en dit plus.",
+      "date_published": "2026-02-03T19:44:39+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0bfd9efd2b7f055287c81c9895d9d5860dd422d32d200647b401c1493bb053ec",
+      "url": "https://www.theguardian.com/us-news/2026/feb/03/trump-republicans-nationalize-elections-midterms",
+      "title": "Trump suggests Republicans should ‘take over’ elections to protect the party",
+      "content_html": "<p>President claims idea to ‘nationalize’ elections in 15 states before midterms is to prevent rare noncitizen voting</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> suggested on a conservative podcast released on Monday that <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> state officials “take over” and “nationalize” elections in 15 states to protect the party from being voted out of office.</p><p>Trump framed the issue as a means to prevent undocumented immigrants from voting. Claims that noncitizens are voting in numbers that can affect an election <a href=\"https://www.cato.org/blog/noncitizens-dont-illegally-vote-detectable-numbers\">are a lie</a>. But it raises concerns about potential efforts by the president to <a href=\"https://www.theguardian.com/us-news/2025/nov/09/trump-midterm-elections-voting-system\">rig the November midterm elections</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/trump-republicans-nationalize-elections-midterms\">Continue reading...</a>",
+      "date_published": "2026-02-03T19:43:14+00:00",
+      "authors": [
+        {
+          "name": "George Chidi"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "US politics",
+        "Republicans",
+        "US news",
+        "Trump administration",
+        "US immigration",
+        "US voting rights"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5d349626b8d4f77b8e63aa9d8693a4113d0ff37d49475ada686b3efb0df50d1d",
+      "url": "https://elpais.com/internacional/2026-02-03/el-exmarido-de-la-antigua-primera-dama-jill-biden-es-acusado-de-asesinar-a-su-esposa.html",
+      "title": "L'ex-mari de l'ancienne première dame Jill Biden est accusé du meurtre de sa femme",
+      "content_html": "Image de William Stevenson publiée par la police de New Castle ce mardi.",
+      "date_published": "2026-02-03T19:42:36+00:00",
+      "authors": [
+        {
+          "name": "Jesús-Sérvulo González Moreno"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Donald Trump",
+        "Norteamérica",
+        "América",
+        "Casa Blanca",
+        "Washington D.C.",
+        "Partido Republicano EE UU",
+        "Política",
+        "Jill Biden",
+        "Partido Demócrata EE UU",
+        "Asesinatos"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "98fc0548db5e18902ec90c5b9565b07c6e97dbdee486a5e6591ef67b12957cf4",
+      "url": "https://www.aljazeera.com/economy/2026/2/3/walmart-hits-trillion-dollar-market-cap-for-the-first-time?traffic_source=rss",
+      "title": "Walmart hits trillion dollar market cap for the first time",
+      "content_html": "Walmart stock surged as a new CEO takes the helm and on news of a trade deal with India, a key supplier.",
+      "date_published": "2026-02-03T19:35:37+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9d1e5114dc56373625737ee185c958e7175caa605b7b907fa1188154d228189b",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein",
+      "title": "Police to review latest claim about Andrew Mountbatten-Windsor’s links to Epstein",
+      "content_html": "<p>Exclusive: Thames Valley police says it will review allegation that Epstein trafficked woman to UK to have sex with Andrew at Royal Lodge</p><p>British police are to review fresh allegations that Jeffrey Epstein provided Andrew Mountbatten-Windsor with a woman to have sex with at the Royal Lodge in 2010.</p><p>The woman has claimed she spent the night at the then prince’s residence in Windsor, her US lawyer, Brad Edwards, said after the allegations surfaced over the weekend. The woman, who is not British, was in her 20s at the time, and was later given a tour of Buckingham Palace, it is further alleged.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein\">Continue reading...</a>",
+      "date_published": "2026-02-03T19:33:54+00:00",
+      "authors": [
+        {
+          "name": "Vikram Dodd and Caroline Davies"
+        }
+      ],
+      "tags": [
+        "Andrew Mountbatten-Windsor",
+        "Jeffrey Epstein",
+        "UK news",
+        "Prince Edward",
+        "Monarchy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7ed045c61e0764610266875e17194382ccc3bc2359b3dacfc0a707fb5c03add0",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/red-cross-worker-urges-more-aid-access-recounts-time-in-gaza?traffic_source=rss",
+      "title": "Red Cross worker urges more aid access, recounts time in Gaza",
+      "content_html": "The Red Cross’s Patrick Griffiths is hopeful about the Rafah crossing’s “opening,&quot; but says more must be done.",
+      "date_published": "2026-02-03T19:32:52+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "a023d519b373a87cc74d0425067cd0f4f2ae7b8f13351711c8a01c873c46a58c",
       "url": "https://elpais.com/internacional/2026-02-03/kast-llama-en-europa-a-promover-familia-verdad-y-libertad-frente-a-los-ismos-de-la-izquierda.html",
       "title": "Kast appelle en Europe à promouvoir « la famille, la vérité et la liberté » contre les « ismes » de gauche",
@@ -173,28 +695,42 @@
       "lang": "fr"
     },
     {
-      "id": "6de46a77fff84046252c10fc7e8bd2a7f43f69754bf8bd6d3bbaedacf00860b3",
-      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-la-chambre-des-representants-vote-la-fin-du-shutdown-20260203_W3HY5M3SBJHUVOTVVXE2FY7IPM/",
-      "title": "Aux Etats-Unis, la Chambre des représentants vote la fin du «shutdown»",
-      "content_html": "Le «Speaker» de la Chambre des représentants, Mike Johnson, au Capitole, ce mardi 3 février.",
-      "date_published": "2026-02-03T19:30:51+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
+      "id": "429589859573d10a3a2de03827e7d9de4a25d1485a617288ef185b084eda7954",
+      "url": "https://www.aljazeera.com/video/the-stream/2026/2/3/are-we-in-a-literacy-crisis?traffic_source=rss",
+      "title": "Are we in a literacy crisis?",
+      "content_html": "Are we raising a generation that can’t comprehend simple sentences?",
+      "date_published": "2026-02-03T19:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "TV Shows"
       ],
-      "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
+      "lang": "en"
+    },
+    {
+      "id": "ae1bda92fa8dd46830ca789bd68d5d5a39c5cf33e323a1a4af1eb80d1da4ae47",
+      "url": "https://www.aljazeera.com/news/2026/2/3/saif-al-islam-gaddafi-son-of-former-leader-killed-in-libya?traffic_source=rss",
+      "title": "Saif al-Islam Gaddafi, son of former leader, killed in Libya",
+      "content_html": "Saif al-Islam Gaddafi had been considered the number two in Libya before the 2011 death of his father, Muammar Gaddafi.",
+      "date_published": "2026-02-03T19:29:35+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
     },
     {
       "id": "4ac514704b4120307d775f1303877cd6cad28f4c0dc8e09d03a2f03c24f3b419",
       "url": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
       "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
-      "content_html": "<p>Far-right leader’s appeal against block on her running for president in 2027 and a four-year sentence is in final stages </p><p>French state prosecutors have asked appeal court judges to maintain a five-year election ban on the far-right leader Marine Le Pen for <a href=\"https://www.theguardian.com/world/2025/apr/01/marine-le-pen-guilty-national-rally-embezzlement-fake-jobs-scam\">embezzlement of European parliament funds</a> in a fake jobs scandal.</p><p>If the judges decide to grant the request, Le Pen would probably not be able to run in France’s 2027 presidential election.</p> <a href=\"https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office\">Continue reading...</a>",
+      "content_html": "<p>Far-right leader was barred for five years after being found guilty of extensive fake jobs scam at European parliament</p><p>French state prosecutors have asked appeal court judges to maintain a five-year election ban on the far-right leader Marine Le Pen for <a href=\"https://www.theguardian.com/world/2025/apr/01/marine-le-pen-guilty-national-rally-embezzlement-fake-jobs-scam\">embezzlement of European parliament funds</a> in a fake jobs scandal.</p><p>If the judges decide to grant the request, Le Pen would probably not be able to run in France’s 2027 presidential election.</p> <a href=\"https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office\">Continue reading...</a>",
       "date_published": "2026-02-03T19:22:59+00:00",
       "authors": [
         {
@@ -265,7 +801,7 @@
       "id": "e6fad5570a9a62e7cb16e4797754d06399f6c217817af460fcd92cb2959c2597",
       "url": "https://www.theguardian.com/us-news/2026/feb/03/linda-bill-stevenson-jill-biden-ex-husband",
       "title": "Jill Biden’s ex-husband charged with murder of his wife",
-      "content_html": "<p>Linda Stevenson found unresponsive on 28 December after police responded to domestic dispute</p><p>The ex-husband of former US first lady Jill Biden has been arrested and charged with the murder of his wife, <a href=\"https://nccpdnews.com\">officials said Tuesday.</a></p><p>William Stevenson, 77, was taken into custody on Monday and is facing a charge of first-degree murder in the death of Linda Stevenson, according to a grand jury indictment filed in Delaware.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/linda-bill-stevenson-jill-biden-ex-husband\">Continue reading...</a>",
+      "content_html": "<p>Linda Stevenson found unresponsive on 28 December after police responded to domestic dispute</p><p>The ex-husband of former US first lady Jill Biden has been arrested and charged with the murder of his wife, <a href=\"https://nccpdnews.com\">officials said on Tuesday.</a></p><p>William Stevenson, 77, was taken into custody on Monday and is facing a charge of first-degree murder in the death of Linda Stevenson, according to a grand jury indictment filed in Delaware.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/linda-bill-stevenson-jill-biden-ex-husband\">Continue reading...</a>",
       "date_published": "2026-02-03T19:18:32+00:00",
       "authors": [
         {
@@ -302,6 +838,26 @@
       "lang": "fr"
     },
     {
+      "id": "9783bf2e4578b675cc629e39caf17c8e87dc014071aca4ea607f0822deeace81",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260203-epstein-jusqu-o%C3%B9-ira-le-scandale",
+      "title": "Epstein : jusqu'où ira le scandale ?",
+      "content_html": "Le ministère américain de la Justice a publié vendredi dernier une masse de documents supplémentaires concernant Jeffrey Epstein. Trois millions de pages accablantes, qui s’ajoutent au dossier et éclaboussent au passage de nombreuses personnalités politiques à travers le monde.",
+      "date_published": "2026-02-03T19:15:34+00:00",
+      "authors": [
+        {
+          "name": "Stéphanie ANTOINE"
+        }
+      ],
+      "tags": [
+        "Le débat"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "4f0995cb78d156bb430f534eaf74968bcfe7483590cdfe97f6b836755a5ad2ba",
       "url": "https://www.lefigaro.fr/international/politiques-hommes-d-affaires-artistes-l-onde-de-choc-des-dossiers-epstein-secoue-les-etats-unis-20260203",
       "title": "Politiques, hommes d’affaires, artistes : l’onde de choc des dossiers Epstein secoue les États-Unis",
@@ -320,8 +876,8 @@
     {
       "id": "a5aa7811fb414afebf288312da0332792c863ad70535a42d40002fd3eefd0876",
       "url": "https://www.theguardian.com/world/2026/feb/03/life-expectancy-of-lgb-people-a-year-lower-than-heterosexuals-ons-finds",
-      "title": "Life expectancy of LGB+ people a year lower than heterosexual’s, ONS finds",
-      "content_html": "<p>LGB+ men in England and Wales have 1.2 years lower life expectancy than straight men, at 59.4 years and 60.7 years respectively</p><p>Life expectancy for people who identify as gay, bisexual, or another sexual orientation in England and Wales was approximately a year lower than their heterosexual counterparts, according to the first-ever <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/lifeexpectancybysexualorientationenglandandwales/march2021tomarch2024\">analysis of its kind by the Office for National Statistics</a>.</p><p>The life expectancy for men who identified as LGB+ was 1.2 years lower than men who identified as straight, at 59.4 years and 60.7 years respectively.</p> <a href=\"https://www.theguardian.com/world/2026/feb/03/life-expectancy-of-lgb-people-a-year-lower-than-heterosexuals-ons-finds\">Continue reading...</a>",
+      "title": "Life expectancy of LGB+ people a year lower than that of heterosexuals, ONS finds",
+      "content_html": "<p>Academic says risk factor is not sexual orientation but society’s treatment of sexual minority people</p><p>Life expectancy for people who identify as gay, bisexual or another sexual orientation in England and Wales was approximately a year lower than their heterosexual counterparts, according to the first <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/lifeexpectancybysexualorientationenglandandwales/march2021tomarch2024\">analysis of its kind by the Office for National Statistics</a>.</p><p>The life expectancy for men who identified as LGB+ was 1.2 years lower than men who identified as straight, at 59.4 years and 60.7 years respectively.</p> <a href=\"https://www.theguardian.com/world/2026/feb/03/life-expectancy-of-lgb-people-a-year-lower-than-heterosexuals-ons-finds\">Continue reading...</a>",
       "date_published": "2026-02-03T19:13:05+00:00",
       "authors": [
         {
@@ -333,7 +889,10 @@
         "UK news",
         "Office for National Statistics",
         "Life expectancy",
-        "Society"
+        "Society",
+        "Health",
+        "England",
+        "Wales"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -389,7 +948,7 @@
       "id": "165b0bd0e1c68a3ce4335d8838bcf438ca21196d1493da4fafbf4e260d96f521",
       "url": "https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project",
       "title": "Epstein called Mandelson ‘devious’ after he lobbied bank to back mining project",
-      "content_html": "<p>In 2010 then business secretary contacted Jes Staley, then at JP Morgan, about funding for £700m listing on London Stock Exchange</p><p>Peter Mandelson was described as “devious” by Jeffrey Epstein after lobbying a bank to underwrite a mining project launched by their mutual friend Nat Rothschild, emails included in the latest tranche Epstein files suggest.</p><p>In April 2010, the then business secretary appears to have contacted banker Jes Staley, then at JP Morgan, from his personal email account in what appears to be an attempt to secure funding for Rothschild, a longtime friend of the Labour peer.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project\">Continue reading...</a>",
+      "content_html": "<p>In 2010 then business secretary contacted Jes Staley, then at JP Morgan, about funding for £700m listing on London Stock Exchange</p><p>Jeffrey Epstein described Peter Mandelson as “devious” after lobbying a bank to underwrite a mining project launched by their mutual friend Nat Rothschild, emails included in the latest tranche of Epstein files suggest.</p><p>In April 2010, the then business secretary appears to have contacted banker Jes Staley, then at JP Morgan, from his personal email account in what appears to be an attempt to secure funding for Rothschild, Mandelson’s longtime friend.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project\">Continue reading...</a>",
       "date_published": "2026-02-03T19:10:36+00:00",
       "authors": [
         {
@@ -528,7 +1087,7 @@
       "url": "https://www.lemonde.fr/afrique/article/2026/02/03/au-tchad-la-situation-desesperee-des-refugies-soudanais-face-a-une-aide-humanitaire-qui-se-tarit_6665277_3212.html",
       "title": "Au Tchad, la situation désespérée des réfugiés soudanais face à une aide humanitaire qui se tarit",
       "content_html": "Des réfugiés font la queue pour recevoir des rations de nourriture dans le camp d’Adré, au Tchad, le 8 mai 2025.",
-      "date_published": "2026-02-03T19:00:22+00:00",
+      "date_published": "2026-02-03T19:00:12+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -626,7 +1185,8 @@
         "US foreign policy",
         "US politics",
         "US news",
-        "Middle East and north Africa"
+        "Middle East and north Africa",
+        "World news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -682,7 +1242,7 @@
       "id": "ea5525a9b572230a98dc7125878456f66a097036c25c38a9532cfa43c80a2a9c",
       "url": "https://www.theguardian.com/australia-news/2026/feb/04/nsw-hate-speech-rules-classrooms-ntwnfb",
       "title": "New hate speech rules for NSW schools could stifle classroom discussions about Gaza, teachers warn",
-      "content_html": "<p>Premier says code of conduct is ‘not an attack on freedom of speech … or concern about Palestinians and innocent civilians in Gaza’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New hate speech guidelines under which school staff could be more easily sacked for comments in and outside the classroom could silence discussion of Gaza in New South Wales schools, teachers and legal experts say.</p><p>The NSW government has moved to amend codes of conduct to explicitly prohibit hate speech across the state’s more than 3,000 government, independent and Catholic schools, effective immediately from Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/nsw-hate-speech-rules-classrooms-ntwnfb\">Continue reading...</a>",
+      "content_html": "<p>Premier says code of conduct is ‘not an attack on freedom of speech … or concern about Palestinians and innocent civilians in Gaza’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New hate speech guidelines under which school staff could be more easily sacked for comments in and outside the classroom could silence discussion of Gaza in New South Wales schools, teachers and legal experts say.</p><p>The NSW government has moved to amend codes of conduct to explicitly prohibit hate speech across the state’s more than 3,000 government, independent and Catholic schools, effective immediately from Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/nsw-hate-speech-rules-classrooms-ntwnfb\">Continue reading...</a>",
       "date_published": "2026-02-03T18:53:56+00:00",
       "authors": [
         {
@@ -973,6 +1533,20 @@
       "lang": "fr"
     },
     {
+      "id": "2b1aa725ca173bd4804cf0270d25bd2bb114bf5c89b3bd44df2f45e12fbbb617",
+      "url": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
+      "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "content_html": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
+      "date_published": "2026-02-03T18:31:44+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "6f8804ce7a6bc12cc63f3d42e9058ec685586428ac7c4c23c19340013a12bc8c",
       "url": "https://www.lefigaro.fr/international/aujourd-hui-le-nombre-de-batiments-est-insuffisant-face-au-risque-de-guerre-les-marines-occidentales-veulent-se-rearmer-20260203",
       "title": "«Aujourd’hui le nombre de bâtiments est insuffisant» : face au risque de guerre, les marines occidentales veulent se réarmer",
@@ -1121,6 +1695,33 @@
       "lang": "en"
     },
     {
+      "id": "851912f6f3fcb8639757c27eada58d65b80cf7145c2310232107bb57c06a618e",
+      "url": "https://elpais.com/internacional/2026-02-03/trump-y-petro-concluyen-su-reunion-en-la-casa-blanca.html",
+      "title": "Trump et Petro concluent leur réunion à la Maison Blanche pour réparer la relation bilatérale",
+      "content_html": "Gustavo Petro et Donald Trump dans le bureau ovale de la Maison Blanche.",
+      "date_published": "2026-02-03T18:16:21+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy,María Martín"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Estados Unidos",
+        "Norteamérica",
+        "América",
+        "Casa Blanca",
+        "Washington D.C.",
+        "Partido Republicano EE UU",
+        "Política"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "e1c3fd4712eb2cd12c2a478ce6904e141470b3d1a42524dd57406d2cc43ad86c",
       "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
       "title": "Clintons agree to testify in House Epstein probe",
@@ -1264,7 +1865,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/02/03/l-idee-que-meta-apple-google-et-consorts-puissent-un-jour-couper-leurs-services-a-l-etranger-devient-un-scenario-credible_6665266_3234.html",
       "title": "« L’idée que Meta, Apple, Google et consorts puissent un jour couper leurs services à l’étranger devient un scénario crédible »",
       "content_html": "« Nos nouveaux maîtres », de Raphaëlle Bacqué, Damien Leloup et Alexandre Piquard, Albin Michel, 240 p., 20,90 €.",
-      "date_published": "2026-02-03T18:00:10+00:00",
+      "date_published": "2026-02-03T18:00:02+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1760,20 +2361,6 @@
       "lang": "en"
     },
     {
-      "id": "86c92ead94cb193dbac8dbdd9c5018c66344146f13d9b1484160a96fa447c5ba",
-      "url": "https://ici.radio-canada.ca/nouvelle/2225326/proces-stronach-frank-agressions-sexuelles-magna",
-      "title": "Le procès du milliardaire Frank Stronach pour agression sexuelle est reporté",
-      "content_html": "<p>La défense dit avoir reçu de nouvelles informations au dossier qu&#x27;elle doit d&#x27;abord examiner.</p>",
-      "date_published": "2026-02-03T16:53:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "bff1f091d95c1542e3c2333b41c5e3894b3da1c97b034060db319f997834c7b1",
       "url": "https://www.dw.com/en/germany-and-the-gulf-region-energy-and-arms-deals/a-75789127?maca=en-rss-en-all-1573-rdf",
       "title": "Germany and the Gulf region: Energy and arms deals",
@@ -1934,33 +2521,6 @@
       "lang": "en"
     },
     {
-      "id": "7c5d3d4e6f6f1bddb228e0d80bbfd421b6362c223d6efd84bc8f901dfbe995ca",
-      "url": "https://www.theguardian.com/us-news/2026/feb/03/trump-administration-coalie-mascot-fossil-fuels",
-      "title": "‘It’s sick’: Trump administration uses mascot called ‘Coalie’ to push dirtiest fossil fuel",
-      "content_html": "<p>Cartoon lump of coal with giant eyes was spotlighted by US interior secretary in X post saying: ‘Mine, Baby, Mine!’</p><p>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> has turned to an unusual weapon in its attempt to resurrect coal mining – a cartoon lump of <a href=\"https://www.theguardian.com/environment/coal\">coal</a>, complete with giant eyes and yellow mining garb, called “Coalie”.</p><p>The administration’s new mascot, kitted out with a helmet, boots and gloves, was introduced in a seemingly artificial intelligence-generated picture posted online by Doug Burgum, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s interior secretary. “Mine, Baby, Mine!” <a href=\"https://x.com/SecretaryBurgum/status/2014382110828536183\">Burgum wrote on X</a>, adding that Coalie will act as a “spokesperson” for Trump’s “American Energy Dominance Agenda”.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/trump-administration-coalie-mascot-fossil-fuels\">Continue reading...</a>",
-      "date_published": "2026-02-03T16:36:03+00:00",
-      "authors": [
-        {
-          "name": "Oliver Milman"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "Coal",
-        "Fossil fuels",
-        "Donald Trump",
-        "Energy",
-        "Environment",
-        "US politics",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d857f746627cd08125285d691e774431d53848c68ecd2f11455e6f0c5246f44e",
       "url": "https://www.timesofisrael.com/us-probing-crypto-firms-suspected-of-helping-iranian-officials-evade-sanctions/",
       "title": "US probing crypto firms suspected of helping Iranian officials evade sanctions",
@@ -2110,7 +2670,7 @@
     {
       "id": "de51117c5b755283d80af627cb63970e6f4bfb0df47308574b246cfe344e36ab",
       "url": "https://elpais.com/internacional/2026-02-03/peter-mandelson-renuncia-a-su-escano-en-la-camara-de-los-lores-presionado-por-el-escandalo-epstein.html",
-      "title": "Peter Mandelson démissionne de la Chambre des Lords sous la pression du scandale Epstein",
+      "title": "La police britannique ouvre une enquête contre Peter Mandelson pour ses liens avec Epstein",
       "content_html": "L'ambassadeur du Royaume-Uni aux États-Unis, Peter Mandelson, dans le Bureau Ovale en mai 2025.",
       "date_published": "2026-02-03T16:26:19+00:00",
       "authors": [
@@ -2154,7 +2714,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/02/03/affaire-jeffrey-epstein-peter-mandelson-ex-ambassadeur-du-royaume-uni-aux-etats-unis-va-quitter-la-chambre-des-lords_6665250_3210.html",
       "title": "Affaire Jeffrey Epstein : Peter Mandelson, ex-ambassadeur du Royaume-Uni aux Etats-Unis, va quitter la Chambre des lords",
       "content_html": "Peter Mandelson, l’ex-ambassadeur du Royaume-Uni aux Etats-Unis, à Washington, le 26 février 2025.",
-      "date_published": "2026-02-03T16:22:54+00:00",
+      "date_published": "2026-02-03T16:22:53+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -2421,7 +2981,7 @@
         "name": "Le Figaro - International : Actualité internationale en direct",
         "url": "http://www.lefigaro.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "e02dfe10a0a8365b26dae59fa467f8b5beb4c39ed3f096f303c8d211e953941c",
@@ -2474,32 +3034,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "0bfd9efd2b7f055287c81c9895d9d5860dd422d32d200647b401c1493bb053ec",
-      "url": "https://www.theguardian.com/us-news/2026/feb/03/trump-republicans-nationalize-elections-midterms",
-      "title": "Trump suggests Republicans should ‘take over’ elections to protect the party",
-      "content_html": "<p>President claims idea to ‘nationalize’ elections in 15 states ahead of midterms is to prevent rare noncitizen voting</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> suggested on a conservative podcast released on Monday that <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> state officials “take over” and “nationalize” elections in 15 states to protect the party from being voted out of office.</p><p>Trump framed the issue as a means to prevent undocumented immigrants from voting. Claims that noncitizens are voting in numbers that can affect an election <a href=\"https://www.cato.org/blog/noncitizens-dont-illegally-vote-detectable-numbers\">are a lie</a>. But it raises concerns about potential efforts by the president to <a href=\"https://www.theguardian.com/us-news/2025/nov/09/trump-midterm-elections-voting-system\">rig the November midterm elections</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/trump-republicans-nationalize-elections-midterms\">Continue reading...</a>",
-      "date_published": "2026-02-03T15:56:13+00:00",
-      "authors": [
-        {
-          "name": "George Chidi"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "US politics",
-        "Republicans",
-        "US news",
-        "Trump administration",
-        "US immigration",
-        "US voting rights"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "bc6c0b2f218fb99656b638a9639bb5baa267e901f0132a0b5d450ed6e8e5513b",
@@ -2667,24 +3201,6 @@
       "lang": "fr"
     },
     {
-      "id": "cd8cd97ae3220c79483a48f1c2dbe43a21a68cd02ae4c41fc057500e96150895",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260203-affaire-epstein-les-clinton-ont-h%C3%A2te-de-cr%C3%A9er-un-pr%C3%A9c%C3%A9dent",
-      "title": "Affaire Epstein : les Clinton \"ont hâte de créer un précédent\"",
-      "content_html": "Bill et Hillary Clinton témoigneront finalement devant une commission d'enquête parlementaire américaine sur l'affaire Epstein, après des pressions de républicains qui menaçaient le couple de poursuites pour entrave au Congrès. Nous en parlons avec notre chroniqueur Bruno Daroux.",
-      "date_published": "2026-02-03T15:46:34+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b2635c58e11c46c323351b96cd72f9ef91b17fc62ac2911cc3be789b92632a44",
       "url": "https://www.timesofisrael.com/katz-says-he-and-netanyahu-working-to-legalize-140-west-bank-farming-outposts/",
       "title": "Katz says he and Netanyahu working to legalize 140 West Bank farming outposts",
@@ -2749,24 +3265,6 @@
       "source": {
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "692a6b7e196ace707088c466f822d7c4fe59b8376eb8f6aba5700914b2c1e809",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260203-iran-violent-incendie-dans-un-bazar-%C3%A0-l-ouest-de-t%C3%A9h%C3%A9ran",
-      "title": "Iran : violent incendie dans un bazar à l'ouest de Téhéran",
-      "content_html": "Un violent incendie qui s'est déclaré mardi matin dans un bazar à l'ouest de Téhéran a été \"maitrisé\" et aucune victime n'a été recensée dans l'immédiat, ont annoncé les services de secours, sans que la cause du sinistre ne soit jusque là connue.",
-      "date_published": "2026-02-03T15:40:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -2984,26 +3482,6 @@
       "lang": "en"
     },
     {
-      "id": "ab0f5928c67c88574b4e41696c54d6cd319f38935b6df59d244f9a1f8c903eb6",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260203-mission-art%C3%A9mis-2-pourquoi-am%C3%A9rique-vise-%C3%A0-nouveau-la-lune-espace-nasa",
-      "title": "Mission Artémis 2 : pourquoi l'Amérique vise-t-elle à nouveau la Lune ?",
-      "content_html": "Le départ de la mission Artémis 2 avec quatre astronautes à son bord prévue dimanche a été reportée. Considérée par la Nasa comme une répétition générale avant un alunissage en 2027, ce survol de la Lune est une première depuis 1972. Plus de 50 ans après le dernier vol lunaire, pourquoi les États-Unis partent-ils de nouveau à la conquête de la lune ? Décryptage.",
-      "date_published": "2026-02-03T15:05:55+00:00",
-      "authors": [
-        {
-          "name": "Sophian AUBIN"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "19c4b83865a2949d1b2012fe602b45b99d61aef340a16af3935c2a48f8e2ac99",
       "url": "https://www.ukrinform.net/rubric-ato/4087354-victim-toll-of-the-russian-attack-in-kyiv-climbs-to-six.html",
       "title": "Victim toll of the Russian attack in Kyiv climbs to six",
@@ -3024,7 +3502,7 @@
       "url": "https://www.lemonde.fr/idees/article/2026/02/03/l-europe-doit-faire-face-a-son-passe-colonial-si-elle-veut-se-rapprocher-des-pays-du-sud_6665239_3232.html",
       "title": "« L’Europe doit faire face à son passé colonial si elle veut se rapprocher des pays du Sud »",
       "content_html": "Des Congolais brandissent une banderole proclamant l’indépendance du Congo, à Stanleyville (aujourd’hui Kisangani), le 18 décembre 1960, lors de la visite du roi Baudouin de Belgique dans l’ancienne colonie du Congo belge, devenue République du Congo en juin 1960.",
-      "date_published": "2026-02-03T15:00:12+00:00",
+      "date_published": "2026-02-03T15:00:09+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -3046,29 +3524,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "13f0fbfc8ea8b291fc1186f5e59f1ee8bde0fdb9ea9626e292ccf1c7181593bc",
-      "url": "https://www.theguardian.com/us-news/2026/feb/03/tulsi-gabbard-georgia-fulton-county",
-      "title": "Georgia Democrats call for inquiry into Gabbard’s presence at Fulton county search",
-      "content_html": "<p>Letter comes after FBI executed criminal search warrant to seize almost 700 boxes of 2020 election documentation</p><p>Georgia’s Democratic lawmakers sent a letter to the US attorney general, Pam Bondi, this morning, inquiring into the presence of Tulsi Gabbard, director of national intelligence, at the scene last week of an FBI seizure of Fulton county election records from 2020.</p><p>The <a href=\"https://www.warnock.senate.gov/wp-content/uploads/2026/02/02.03.2026-Letter-to-AG-Bondi-re-Fulton-County-FBI-Search-copy.pdf\">letter</a> from Senator Raphael Warnock and representatives Lucy McBath and Nikema Williams asks “whether the Trump administration is investigating a legitimate foreign intelligence nexus, which would legally require immediate congressional briefing”. The group requested a briefing from the Department of Justice “concerning this activity and its related investigation by February 13, 2026”.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/03/tulsi-gabbard-georgia-fulton-county\">Continue reading...</a>",
-      "date_published": "2026-02-03T14:57:11+00:00",
-      "authors": [
-        {
-          "name": "George Chidi"
-        }
-      ],
-      "tags": [
-        "Georgia",
-        "Pam Bondi",
-        "US news",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3135,20 +3590,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "eef17031dbbac5fc5997641b81b0c7a83b04d16e1e5431664864360374fbea4a",
-      "url": "https://www.bbc.com/news/articles/c0mke841zj0o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says Republicans 'should take over the voting' and 'nationalise' US elections",
-      "content_html": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
-      "date_published": "2026-02-03T14:46:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -3221,26 +3662,6 @@
       "lang": "en"
     },
     {
-      "id": "d47f1706ec3d2139e6a56d1cb835abe2c4ce79517ae8d66595fd8a62b2647c02",
-      "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20260203-sassou-nguesso-accus%C3%A9-de-corruption-au-congo-une-boule-puante-dit-thierry-moungalla",
-      "title": "Sassou-Nguesso accusé de corruption au Congo : \"Une boule puante\", dit Thierry Moungalla",
-      "content_html": "Dans un entretien accordé à France 24, le ministre congolais de la Communication, Thierry Moungalla, qualifie de \"boule puante\" les accusations de l'autorité norvégienne de lutte contre la criminalité économique visant le président Denis Sassou-Nguesso.",
-      "date_published": "2026-02-03T14:33:43+00:00",
-      "authors": [
-        {
-          "name": "Marc PERELMAN"
-        }
-      ],
-      "tags": [
-        "En tête-à-tête"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "68168e9d290f1045ee88ae511112f86418733bf7820973f0de3ba9ff581a446f",
       "url": "https://www.timesofisrael.com/new-no-animal-milk-has-kosher-foodies-salivating-heres-why-you-can-have-it-with-your-steak/",
       "title": "New ‘no-animal’ milk has kosher foodies salivating. Here’s why you can have it with your steak",
@@ -3276,26 +3697,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "1d7a15bc371f5e0dd5fd03d2ef599d0206fa6b4da56136612b5f4abdd36c220b",
-      "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260203-impact-des-sanctions-%C3%A9conomiques-les-populations-touch%C3%A9es-de-plein-fouet",
-      "title": "Impact des sanctions économiques : les populations touchées de plein fouet",
-      "content_html": "38 millions de morts. C’est le nombre de victimes dans le monde causées par les sanctions économiques américaines et européennes entre 1971 et 2021, selon le Center for Economic Policy Research, basé à Londres. L’Institut de relations internationales et stratégiques, l’IRIS, basé à Paris revient également sur ce dramatique bilan dans sa revue publiée à l’automne 2025.",
-      "date_published": "2026-02-03T14:23:58+00:00",
-      "authors": [
-        {
-          "name": "Ali LAIDI"
-        }
-      ],
-      "tags": [
-        "Aux avant-postes"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "9b5c3484aa75a23ffee3050c1dc4808590f6555cd233515dd70a8c48e29851c4",
@@ -3458,29 +3859,6 @@
       "lang": "fr"
     },
     {
-      "id": "4cf2cd52f0f8a4ca3487d2d2baf22383e328d307afd7c3976d338dbf803b20f5",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
-      "title": "‘We never would have bought’: Australian mortgage holders feel the pain as interest rates rise again",
-      "content_html": "<p>The RBA’s widely anticipated decision marks the end of the shortest rate-cutting cycle in the reserve’s modern history, hitting mortgagees hard</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>As the RBA lifted the official interest rate on Tuesday, one regional New South Wales couple said the dream of building a home has turned into a financial “hustle” they no longer want to maintain.</p><p>After the pair, 25 and 26, settled on land in September 2022, rising rates and cost of building materials decimated their initial budget.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again\">Continue reading...</a>",
-      "date_published": "2026-02-03T14:00:06+00:00",
-      "authors": [
-        {
-          "name": "Ima Caldwell"
-        }
-      ],
-      "tags": [
-        "Interest rates",
-        "Housing",
-        "Australia news",
-        "Reserve Bank of Australia"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0bc4e9f57b261faa39041074ecd222b3a97b564d8bffb10285a4038f265d7efe",
       "url": "https://www.theguardian.com/australia-news/2026/feb/04/australian-influencer-dinah-crypto-gambling-ads-meta",
       "title": "Australian influencer’s illegal crypto gambling ads permitted by Meta despite Acma warning of $2.4m fine",
@@ -3497,6 +3875,29 @@
         "Meta",
         "Australia news",
         "Social media"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4cf2cd52f0f8a4ca3487d2d2baf22383e328d307afd7c3976d338dbf803b20f5",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
+      "title": "‘We never would have bought’: Australian mortgage holders feel the pain as interest rates rise again",
+      "content_html": "<p>The RBA’s widely anticipated decision marks the end of the shortest rate-cutting cycle in the reserve’s modern history, hitting mortgagees hard</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>As the RBA lifted the official interest rate on Tuesday, one regional New South Wales couple said the dream of building a home has turned into a financial “hustle” they no longer want to maintain.</p><p>After the pair, 25 and 26, settled on land in September 2022, rising rates and cost of building materials decimated their initial budget.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again\">Continue reading...</a>",
+      "date_published": "2026-02-03T14:00:06+00:00",
+      "authors": [
+        {
+          "name": "Ima Caldwell"
+        }
+      ],
+      "tags": [
+        "Interest rates",
+        "Housing",
+        "Australia news",
+        "Reserve Bank of Australia"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -3522,7 +3923,7 @@
       "id": "2a5cad2ef8fffb90b14aa88cfba52f9152be3b51003f12374e94f5ffe8ed7e56",
       "url": "https://www.theguardian.com/australia-news/2026/feb/04/coal-australia-industry-lobby-attack-ads-labor-green-teal",
       "title": "Campaign group behind attack ads on Labor, Greens and teal candidates was funded by coal industry lobby",
-      "content_html": "<p>Australians for Prosperity received most of its funding last financial year from Coal Australia, according to disclosures made to the Australian Electoral Commission</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A campaign group that attacked Labor, the Greens and teal independent candidates at the last federal election was almost entirely funded by a coal industry lobby group, analysis of political disclosures reveals.</p><p>Australians for Prosperity received $3.89m in total political receipts in the last financial year, according to disclosures made to the Australian Electoral Commission, of which $3.68m came from Coal Australia.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/coal-australia-industry-lobby-attack-ads-labor-green-teal\">Continue reading...</a>",
+      "content_html": "<p>Australians for Prosperity received most of its funding last financial year from Coal Australia, according to disclosures made to the Australian Electoral Commission</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A campaign group that attacked Labor, the Greens and teal independent candidates at the last federal election was almost entirely funded by a coal industry lobby group, analysis of political disclosures reveals.</p><p>Australians for Prosperity received $3.89m in total political receipts in the last financial year, according to disclosures made to the Australian Electoral Commission, of which $3.68m came from Coal Australia.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/04/coal-australia-industry-lobby-attack-ads-labor-green-teal\">Continue reading...</a>",
       "date_published": "2026-02-03T14:00:03+00:00",
       "authors": [
         {
@@ -3660,22 +4061,6 @@
       "lang": "en"
     },
     {
-      "id": "6e69da6e66544c14b92ee10f31027b4b2156d904273e3a4d775eda4a5c67c36a",
-      "url": "https://www.aljazeera.com/news/2026/2/3/syrian-forces-enter-qamishli-under-ceasefire-deal-with-sdf-state-media?traffic_source=rss",
-      "title": "Syrian forces enter Qamishli under ceasefire deal with SDF",
-      "content_html": "Damascus says forces entering city in northeastern Hasakah province &#039;to commence security duties&#039; under US-backed deal.",
-      "date_published": "2026-02-03T13:40:32+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6a514398505fd66a11bf65fdab7977d57d3ef374c4418723ea3f71889824b140",
       "url": "https://www.themoscowtimes.com/2026/02/03/russia-and-myanmar-sign-military-cooperation-agreement-a91847",
       "title": "Russia and Myanmar Sign Military Cooperation Agreement",
@@ -3686,41 +4071,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "747c03b5c407d260e0573ccad0051d56d7786d707905fced9f3ca07404e9be88",
-      "url": "https://www.aljazeera.com/opinions/2026/2/3/protecting-children-is-a-priority-now-is-the-time-to-prove-it?traffic_source=rss",
-      "title": "Protecting children is a priority – now is the time to prove it",
-      "content_html": "Governments are launching a global drive to scale proven measures to prevent violence against children.",
-      "date_published": "2026-02-03T13:34:51+00:00",
-      "authors": [],
-      "tags": [
-        "Opinions"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "304141d30f31f2068b95837e2198d927af2943b740f6e4d04b6b3670c677d739",
-      "url": "https://www.timesofisrael.com/sydney-nurses-plead-not-guilty-for-viral-video-threatening-to-kill-israeli-patients/",
-      "title": "Sydney nurses plead not guilty for viral video threatening to kill Israeli patients",
-      "content_html": "<p>The trial of the two, who were caught on video last February saying they sent ‘Israeli dogs’ to hell, is scheduled for August 31</p>\n<p>The post <a href=\"https://www.timesofisrael.com/sydney-nurses-plead-not-guilty-for-viral-video-threatening-to-kill-israeli-patients/\">Sydney nurses plead not guilty for viral video threatening to kill Israeli patients</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/02/Untitled-1-copy-1024x640.jpg\" title=\"Sydney nurses plead not guilty for viral video threatening to kill Israeli patients\" width=\"160\" /></figure>",
-      "date_published": "2026-02-03T13:33:16+00:00",
-      "authors": [],
-      "tags": [
-        "Jewish Times",
-        "antisemitism in Australia",
-        "Bondi Beach terror attack",
-        "Australian Jews"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3777,20 +4127,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "019b6a5bd1042837d39193bc4e5461435944b3746e80e92942176f55b6087551",
-      "url": "https://ici.radio-canada.ca/nouvelle/2225290/suspension-arret-expulsion-haitiens-etats-unis",
-      "title": "Une juge fédérale américaine maintient le statut de protection des migrants haïtiens",
-      "content_html": "<p>La protection offerte par Washington aux migrants haïtiens devait être supprimée à compter du 3&nbsp;février.</p>",
-      "date_published": "2026-02-03T13:27:30+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "87c3a31b97cc7e15c2dca09a0add3296f532fb4e99d3cd048648d4252f764fae",
@@ -3917,22 +4253,6 @@
       "lang": "en"
     },
     {
-      "id": "1fd3f8b435cf97e1b620e312212e3b58fd4d482c516c49e520f2d17efe802594",
-      "url": "https://www.aljazeera.com/news/2026/2/3/modi-trump-announce-india-us-trade-deal-what-we-know-and-what-we-dont?traffic_source=rss",
-      "title": "Modi, Trump announce India-US ‘trade deal’: What we know and what we don’t",
-      "content_html": "US president says deal reached with India after Modi agreed to stop buying Russian oil. But details are scarce.",
-      "date_published": "2026-02-03T13:17:26+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6bbef0be9618609559856854d80a915a2af212158a8cd9884050dee3eb9dbf37",
       "url": "https://www.dw.com/en/vietnam-boosts-eu-partnership-to-match-ties-to-china-us/a-75782882?maca=en-rss-en-all-1573-rdf",
       "title": "Vietnam boosts EU partnership to match ties to China, US",
@@ -3947,52 +4267,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "6f1507da2d59110c9cce2cc7df30698513f79a288f33ce72f7771027a5ffacef",
-      "url": "https://www.aljazeera.com/news/2026/2/3/french-authorities-raid-x-offices-summon-musk-in-cybercrime-probe?traffic_source=rss",
-      "title": "French authorities raid X offices in Paris, summon Musk in cybercrime probe",
-      "content_html": "Investigation into social media platform looks at complicity in crimes including Holocaust denial and child pornography.",
-      "date_published": "2026-02-03T13:11:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4dbc057fb23bda5eddab77d636e227698632ba4da925177677becd93865328cb",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/huge-fire-breaks-out-at-tehran-market?traffic_source=rss",
-      "title": "Huge fire breaks out at Tehran market",
-      "content_html": "Huge fire breaks out at Tehran market",
-      "date_published": "2026-02-03T13:10:44+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "edb381e0e089b80acf8bc87864446593a600e09302e1bab672407ad807e33cca",
-      "url": "https://ici.radio-canada.ca/nouvelle/2225275/trump-un-milliard-de-dollars-harvard",
-      "title": "Trump réclame 1 milliard de dollars de dommages et intérêts à Harvard",
-      "content_html": "<p>Les <em>New York Times</em> avançait qu&#x27;il avait renoncé à faire payer des indemnités à la prestigieuse université.</p>",
-      "date_published": "2026-02-03T13:03:52+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "7bcc8823aed8d958cd34f296e53386fe0b51b9860038229670971d2bcfcbd974",
@@ -4021,22 +4295,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "66c6ac7963bd850420111ab11fe2fe08814222049798c000ed0f01e8d21b39ac",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/3/israel-reopens-rafah-crossing-but-continues-bombing-palestinians?traffic_source=rss",
-      "title": "Israel reopens Rafah crossing but continues bombing Palestinians",
-      "content_html": "Israeli troops allowed the first Palestinians through the newly reopened Rafah crossing on Monday.",
-      "date_published": "2026-02-03T13:01:23+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "30d2dd600810b5969afd995d14f03f9162119499399837a46056f4f755329ba1",
@@ -4202,24 +4460,6 @@
       "title": "Un influenceur brésilien qui défendait la politique anti-immigration de Trump arrêté par l’ICE",
       "content_html": "L'influenceur brésilien Júnior Pena.",
       "date_published": "2026-02-03T12:18:13+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9c435b772db8e66fff14b1dafcf2ec34da2c92944a416cb1b2058d3e74e0304f",
-      "url": "https://www.liberation.fr/international/efforts-diplomatiques-avec-le-qatar-139-etrangers-arretes-un-puissant-homme-daffaires-dans-le-viseur-du-pouvoir-lactu-du-conflit-en-iran-ce-mardi-3-fevrier-20260203_BZRRU4YTC5D7JCGZN5OIQ75TRE/",
-      "title": "Efforts diplomatiques avec le Qatar, 139 étrangers arrêtés, un puissant homme d’affaires dans le viseur du pouvoir… L’actu du conflit en Iran ce mardi 3 février",
-      "content_html": "Banderole anti-américaine et anti-israélienne accrochée à un immeuble de la place Palestine à Téhéran, le 27 janvier 2026.",
-      "date_published": "2026-02-03T12:17:29+00:00",
       "authors": [
         {
           "name": "LIBERATION"
@@ -4504,20 +4744,6 @@
       "lang": "fr"
     },
     {
-      "id": "6363790efb7a5a603a0b26d6ac3bf4a9b56296acd0594c1120537c95597db6c9",
-      "url": "https://www.lemonde.fr/idees/article/2026/02/03/entre-poutine-et-trump-une-ressemblance-faite-de-haine-de-dedain-et-de-revisionnisme_6665219_3232.html",
-      "title": "Entre Poutine et Trump, une ressemblance faite de haine, de dédain et de révisionnisme",
-      "content_html": "Le président russe, Vladimir Poutine, et son homologue américain, Donald Trump, sur la base américaine d’Anchorage (Alaska), le 15 août 2025.",
-      "date_published": "2026-02-03T11:00:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "29e1622e6cb69cc362ba1ea16517e165faddf5d45fb042bcbe3bc5360e5c6b58",
       "url": "https://www.ukrinform.net/rubric-ato/4087220-ukrainian-forces-hit-russian-targets-in-zaporizhzhia-belgorod-regions.html",
       "title": "Ukrainian forces hit Russian targets in Zaporizhzhia, Belgorod regions",
@@ -4648,22 +4874,6 @@
       "lang": "fr"
     },
     {
-      "id": "bb90d2d1dd2e7d4fca899d7bc6717df5b47ff66bb9ed5da1d8269ac14a3ef8eb",
-      "url": "https://www.ukrinform.net/rubric-ato/4087197-energy-facilities-and-houses-damaged-four-people-injured-in-kharkiv-after-russian-attack.html",
-      "title": "Energy facilities and houses damaged: Four people injured in Kharkiv after Russian attack",
-      "content_html": "Four people were injured in Kharkiv as a result of a massive Russian attack, and residential buildings were damaged in addition to energy facilities.",
-      "date_published": "2026-02-03T10:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2d89d2d297aa68f7738e439ecd4af0ca4c0ed19c4d752fbae5874c385d1b16a7",
       "url": "https://www.themoscowtimes.com/2026/02/03/police-arrest-man-suspected-of-kidnapping-and-murdering-boy-in-st-petersburg-a91845",
       "title": "Police Arrest Man Suspected of Kidnapping and Murdering Boy in St. Petersburg",
@@ -4694,22 +4904,6 @@
       "lang": "en"
     },
     {
-      "id": "cbbe30e56402e384d08cf00f9ef73587f4bf5778b0de95026c6a96f559104c5c",
-      "url": "https://www.ukrinform.net/rubric-ato/4087188-russia-attacks-tpps-and-tpss-used-exclusively-for-heating-in-kyiv-kharkiv-and-dnipro-says-shmyhal.html",
-      "title": "Russia attacks TPPs and TPSs used exclusively for heating in Kyiv, Kharkiv, and Dnipro, says Shmyhal",
-      "content_html": "On the night of February 3, the Russian army launched strikes with several types of ballistic missiles, cruise missiles, and drones on eight regions of Ukraine, targeting energy facilities, including thermal power plants and thermal power stations.",
-      "date_published": "2026-02-03T09:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3d3a730c4dcb83b81bf53626eb236a6ea36b1f14abc583cb58712dfbf69d2d43",
       "url": "https://www.liberation.fr/international/amerique/societe-offshore-diners-voyages-ce-que-lon-sait-des-liens-entre-epstein-et-caroline-lang-la-fille-de-jack-lang-20260203_YUSDKO2SJRHMTNNRRUR657IDCY/",
       "title": "Société offshore, dîners, voyages… Ce que l’on sait des liens entre Epstein et Caroline Lang, la fille de Jack Lang",
@@ -4726,30 +4920,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "aa32adcc88d214950c427e3a4709566bf1e3454b94eb96f6e8db8c45174d98e3",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/03/a-hot-economy-rbas-rate-hike-justification-is-hard-to-swallow-for-australians-struggling-with-cost-of-living-crisis",
-      "title": "A hot economy? RBA’s rate hike justification is hard to swallow for Australians struggling with cost-of-living crisis",
-      "content_html": "<p>Economists and the central bank might see a roaring economy but workers and mortgage holders still feel like they’re doing it tough</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank thinks the economy is running too hot and needed a rate hike to slow it down.</p><p>It sure doesn’t feel that way.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/03/a-hot-economy-rbas-rate-hike-justification-is-hard-to-swallow-for-australians-struggling-with-cost-of-living-crisis\">Continue reading...</a>",
-      "date_published": "2026-02-03T09:20:57+00:00",
-      "authors": [
-        {
-          "name": "Patrick Commins"
-        }
-      ],
-      "tags": [
-        "Reserve Bank of Australia",
-        "Interest rates",
-        "Australia news",
-        "Australian economy",
-        "Business"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "468c425fe7d79faeed97042227cf4b9cbe88ac68e758a090c0b3c38ea0ce16bc",
@@ -4786,20 +4956,6 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2225204/influenceur-nick-shirley-immigration-ice-minneapolis",
       "title": "Un influenceur et sa vidéo à la source de la crise à Minneapolis",
       "content_html": "<p>Nick Shirley a publié en décembre une vidéo alléguant des fraudes dans des garderies gérées par des Somaliens.</p>",
-      "date_published": "2026-02-03T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f6dd0ae7504d82c04e9ab5ba2c78fe82c15677e66a3027ca27a9de654b839f25",
-      "url": "https://ici.radio-canada.ca/nouvelle/2225179/financement-transport-collectif-quebec-vancouver",
-      "title": "Transport collectif : le Québec coupe, les millions pleuvent sur Vancouver",
-      "content_html": "<p>La région métropolitaine de Vancouver obtient 1,5&nbsp;G$ du nouveau Fonds pour le transport en commun du Canada.</p>",
       "date_published": "2026-02-03T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -4945,7 +5101,7 @@
       "id": "a894aa6aa975ab168c21e386292d8a146608a45e36cc272edc0cbb0f6637cf8d",
       "url": "https://www.elmundo.es/internacional/2026/02/03/698199e2fc6c837d5e8b45b6.html",
       "title": "Les Clinton acceptent de témoigner dans l'enquête sur la maison Epstein",
-      "content_html": "James Comer, président du comité de surveillance et de réforme de la Chambre, continue de faire pression pour que les accusations d'outrage au Congrès soient portées contre les deux Clinton pour avoir ignoré une assignation à comparaître du Congrès.",
+      "content_html": "James Comer, président du Comité de surveillance et de réforme de la Chambre des représentants, continue de faire pression pour que soient portées les accusations d'outrage au Congrès contre les deux Clinton pour avoir ignoré une assignation à comparaître du Congrès.",
       "date_published": "2026-02-03T06:47:00+00:00",
       "authors": [
         {
@@ -4984,22 +5140,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c9b4944f5ed5054cfb5c567326408ad2bb657724bd404254080f83c600472d21",
-      "url": "https://www.lefigaro.fr/international/accusee-d-avoir-efface-israel-d-une-carte-la-plateforme-jeunesse-de-l-encyclopaedia-britannica-fait-machine-arriere-20260202",
-      "title": "Accusée d’avoir «effacé Israël» d’une carte, la plateforme jeunesse de l’Encyclopaedia Britannica fait machine arrière",
-      "content_html": "L’UKLFI dénonce l’usage d’une définition contemporaine qui présente la Palestine comme s’étendant de manière continue entre le fleuve Jourdain et la mer Méditerranée.",
-      "date_published": "2026-02-03T06:33:31+00:00",
-      "authors": [],
-      "tags": [
-        "International"
-      ],
-      "source": {
-        "name": "Le Figaro - International : Actualité internationale en direct",
-        "url": "http://www.lefigaro.fr"
       },
       "lang": "fr"
     },
@@ -5212,59 +5352,6 @@
         "Política",
         "Jeffrey Epstein",
         "Ghislaine Maxwell"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "450b9344522849d63e9dfb7abd221ac8261c1a1a29c3c0275c759acd55d7f565",
-      "url": "https://elpais.com/internacional/2026-02-03/mette-marit-bajo-la-lupa-su-prolongado-contacto-con-el-pederasta-epstein-indigna-a-noruega.html",
-      "title": "Mette-Marit, à la loupe : son contact prolongé avec le pédophile Epstein indigne la Norvège",
-      "content_html": "Le prince héritier norvégien Haakon et son épouse, la princesse Mette-Marit, le 28 janvier à Fredrikstad.",
-      "date_published": "2026-02-03T04:40:00+00:00",
-      "authors": [
-        {
-          "name": "Ferrer Ferrer"
-        }
-      ],
-      "tags": [
-        "Mette Marit de Noruega",
-        "Jeffrey Epstein",
-        "Realeza",
-        "Monarquía",
-        "Noruega",
-        "Haakon Magnus de Noruega",
-        "Harald de Noruega",
-        "Estados Unidos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "bd9e536ee130e9a9a80b531054f9c0abaf33a93ad677f9deaf2671138cafe0f9",
-      "url": "https://elpais.com/internacional/2026-02-03/venta-de-secretos-nucleares-invasion-de-taiwan-lo-que-las-hojas-de-te-dicen-sobre-la-purga-en-la-cupula-militar-de-china.html",
-      "title": "Vendre des secrets nucléaires ?Invasion de Taïwan ?Ce que disent les « feuilles de thé » sur la purge du leadership militaire chinois",
-      "content_html": "Zhang Youxia (au centre) prêtant serment en tant que premier vice-président de la Commission militaire centrale en mars 2023, aux côtés de He Weidong (à gauche) et de l'ancien ministre de la Défense Li Shangfu, alors également membres du CMC, et aujourd'hui démis de leurs fonctions pour « corruption ».",
-      "date_published": "2026-02-03T04:40:00+00:00",
-      "authors": [
-        {
-          "name": "Guillermo Abril ,Inma  Bonet Bailén"
-        }
-      ],
-      "tags": [
-        "China",
-        "Ejército popular liberación",
-        "Xi Jinping",
-        "Destituciones políticas",
-        "Política",
-        "Militares carrera",
-        "Corrupción"
       ],
       "source": {
         "name": "Internacional en EL PAÍS",
@@ -5622,7 +5709,7 @@
       "id": "aeec1ea3ea9b8001a8bddd1121b73cc137778916e77ff48a4a3951e51a8adf93",
       "url": "https://www.elmundo.es/internacional/2026/02/02/697d0a04e4d4d8d8158b4581.html",
       "title": "L'accident d'un avion de transport américain ferme la base de Morón pendant une semaine et détourne le trafic aérien de Washington vers Rota.",
-      "content_html": "L’Espagne joue une fois de plus un rôle clé dans l’énorme déploiement militaire des États-Unis autour de l’Iran",
+      "content_html": "L’Espagne joue une fois de plus un rôle clé dans l’énorme déploiement militaire américain autour de l’Iran",
       "date_published": "2026-02-02T19:28:49+00:00",
       "authors": [
         {
@@ -5749,7 +5836,7 @@
       "id": "19a4ebf87c2094ca65f6b002fb65543176a98d8b56b7e8e186079f0bfb9f0ff8",
       "url": "https://www.elmundo.es/internacional/2026/02/02/697f7df0fc6c83df728b45a2.html",
       "title": "La Russie utilise le froid pour punir les Ukrainiens",
-      "content_html": "Une tempête avec des températures descendant en dessous de -20 degrés frappe l'Ukraine avec de nombreuses zones sans chauffage en raison des bombardements à Moscou",
+      "content_html": "Une tempête avec des températures inférieures à -20 degrés frappe l'Ukraine avec de nombreuses zones sans chauffage en raison des bombardements à Moscou",
       "date_published": "2026-02-02T18:32:56+00:00",
       "authors": [
         {
@@ -6630,7 +6717,7 @@
     {
       "id": "f4625a49e7363e2248dad0ac8daab965d159c0e2785b2e03a02bc34b1871ac75",
       "url": "https://www.elmundo.es/internacional/2026/02/02/69806193fc6c83ca0b8b45a3.html",
-      "title": "Israël tue un garçon de 3 ans lors d'une frappe aérienne dans le sud de Gaza",
+      "title": "Israël tue un garçon de 3 ans lors d'une frappe aérienne sur le sud de Gaza",
       "content_html": "La mort du garçon, identifié comme étant Iyad Ahmed Naeem al Rabai, est survenue à la suite d'une attaque de navires de guerre israéliens dans la zone côtière de Mawasi.",
       "date_published": "2026-02-02T08:34:37+00:00",
       "authors": [
@@ -6737,7 +6824,7 @@
       "id": "cd41f8291f8995440231130f61dde8538462b35e70f979b4540c6577d2739106",
       "url": "https://www.elmundo.es/internacional/2026/02/02/697ff84dfc6c83ca0b8b4599.html",
       "title": "Après l'effondrement du public et le retrait des artistes, Trump annonce la fermeture du Kennedy Center de Washington pour deux ans",
-      "content_html": "Le président, qui a pris la direction du centre historique des arts et a changé son nom pour inclure son nom de famille, annonce \"des travaux de rénovation pour en faire le meilleur centre du monde\".",
+      "content_html": "Le président, qui a pris la direction du centre artistique historique et a changé son nom pour inclure son nom de famille, annonce \"des travaux de rénovation pour en faire le meilleur centre du monde\".",
       "date_published": "2026-02-02T06:51:51+00:00",
       "authors": [
         {
@@ -6998,6 +7085,29 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "cd754a6b89224d2cd4444acd1b37f859099c3b4ce0cb5ca39b1ba0765678d3ba",
+      "url": "https://www.elmundo.es/internacional/2026/02/01/697fd3db21efa0de068b45aa.html",
+      "title": "Les hommes qui ont tué le manifestant Alex Pretti à Minneapolis, deux agents du sud du Texas d'origine latino-américaine, sont identifiés",
+      "content_html": "Jesús Ochoa et Raymundo Gutiérrez, suspendus pendant la durée de l'enquête, ont huit et 12 ans d'expérience au sein de l'ICE et de la patrouille frontalière",
+      "date_published": "2026-02-01T23:19:20+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "América",
+        "Donald Trump",
+        "Artículos Pablo R. Suanzes"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
     },
     {
       "id": "f2d5da426ff89cd84fe48e213212a8abc891e8e6dd281d329c6c39eb37431932",
@@ -7330,7 +7440,7 @@
       "id": "29ede13e7eb2dda29ca91826bb4f84a090423309b5dfc1a6e23ab9272ba12d6c",
       "url": "https://www.elmundo.es/internacional/2026/02/01/697f665ee9cf4ae41b8b4581.html",
       "title": "Javier Tarazona, l'activiste qui a dénoncé l'alliance du chavisme avec la guérilla colombienne, libéré de prison au Venezuela",
-      "content_html": "La semaine prochaine, la loi d'amnistie annoncée par Delcy Rodríguez, poussée par les États-Unis, commencera à être traitée.",
+      "content_html": "La semaine prochaine, la loi d'amnistie annoncée par Delcy Rodríguez, poussée par les États-Unis, commencera à être examinée.",
       "date_published": "2026-02-01T14:46:04+00:00",
       "authors": [
         {
@@ -7389,7 +7499,7 @@
       "id": "052f4583fc173102d9c4783d30318aa40e1ce2f244333119f83fc23bbd2d973a",
       "url": "https://www.elmundo.es/internacional/2026/02/01/697f556de85ece45778b457d.html",
       "title": "Le bilan de l'incendie de Crans Montana s'élève à 41 morts après la mort d'un jeune homme",
-      "content_html": "115 personnes ont été blessées, dont certaines avec de très graves brûlures, dans l'incendie du réveillon du Nouvel An dernier",
+      "content_html": "115 personnes ont été blessées, dont certaines avec de très graves brûlures, lors de l'incendie du réveillon du Nouvel An dernier",
       "date_published": "2026-02-01T13:38:42+00:00",
       "authors": [
         {
@@ -7545,34 +7655,6 @@
       "lang": "en"
     },
     {
-      "id": "57cf8f6c93dd2ae4ee60cc3d44fae26769a8c4c353afcc36109037f18dc97ddd",
-      "url": "https://elpais.com/internacional/2026-02-01/cientos-de-mensajes-entre-epstein-y-la-princesa-mette-marit-de-noruega-ponen-a-la-casa-real-en-la-picota-paris-es-bueno-para-el-adulterio.html",
-      "title": "Des centaines de messages entre Epstein et la princesse Mette-Marit de Norvège mettent la maison royale au pilori : \"Paris est bon pour l'adultère\"",
-      "content_html": "Jeffrey Epstein en 1997 et la princesse Mette-Marit de Norvège en décembre 2025.",
-      "date_published": "2026-02-01T07:37:44+00:00",
-      "authors": [
-        {
-          "name": "María Porcel Estepa"
-        }
-      ],
-      "tags": [
-        "Jeffrey Epstein",
-        "Estados Unidos",
-        "América",
-        "Mette Marit de Noruega",
-        "Haakon Magnus de Noruega",
-        "Harald de Noruega",
-        "Noruega",
-        "Norteamérica",
-        "Oslo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3b6b157eaeaa027dfab1e99d63aed1d70b7f60f1aa7bf7a63df5619f8f57ac38",
       "url": "https://www.elmundo.es/internacional/2026/02/01/697efcaee4d4d85b108b4595.html",
       "title": "L’Iran déclare qu’il considère désormais les armées de l’UE comme des groupes terroristes",
@@ -7640,52 +7722,6 @@
       "lang": "fr"
     },
     {
-      "id": "77974edefd370b118e84da7012158b61852b1d67aff2bf40013357d036ef5a09",
-      "url": "https://www.elmundo.es/internacional/2026/01/31/697e581be85ece05628b459d.html",
-      "title": "Les envoyés de Trump et Poutine jugent \"constructive\" la rencontre de ce samedi à Miami",
-      "content_html": "Zelensky affirme que l'Ukraine prépare de nouveaux pourparlers de paix \"la semaine prochaine\"",
-      "date_published": "2026-02-01T06:41:51+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Ucrania",
-        "Rusia",
-        "Estados Unidos",
-        "Volodímir Zelenski",
-        "Vladimir Putin",
-        "Donald Trump",
-        "Guerra Ucrania Rusia",
-        "Especial Guerra de Ucrania",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f7f4f9a95795609a582d6ea8679862cd8e1c8fe642525fa9b2c4329faec2006f",
-      "url": "https://www.elmundo.es/internacional/2026/02/01/697ef3fae9cf4a67618b459a.html",
-      "title": "Élections au Costa Rica : le populisme de droite semble invincible malgré le « risque » démocratique",
-      "content_html": "Le Costa Rica est l'un des trois pays de la région considérés comme une démocratie à part entière.",
-      "date_published": "2026-02-01T06:37:42+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "19166f6eb5d75bcb1365077b184ad17c887e8238fcea8a052ef86a7853650559",
       "url": "https://www.theguardian.com/world/2026/feb/01/living-hell-of-north-koreas-paradise-on-earth-scheme-back-in-spotlight-in-japan",
       "title": "Living hell of North Korea’s ‘paradise on Earth’ scheme back in spotlight in Japan",
@@ -7708,45 +7744,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "693391ca617ac8b808136347919ed38f74579ffed0f767b02ab3de7de4bffe4a",
-      "url": "https://elpais.com/internacional/2026-02-01/trump-aumenta-la-presion-contra-iran-mientras-sopesa-una-accion-militar.html",
-      "title": "Trump augmente la pression sur l'Iran alors qu'il envisage une action militaire",
-      "content_html": "Les restes de l'usine d'enrichissement de la centrale nucléaire iranienne de Natanz, le 3 décembre.",
-      "date_published": "2026-02-01T04:40:00+00:00",
-      "authors": [
-        {
-          "name": "Macarena  Vidal Liy"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Norteamérica",
-        "América",
-        "Casa Blanca",
-        "Washington D.C.",
-        "Irán",
-        "Partido Republicano EE UU",
-        "Política",
-        "Oriente Próximo",
-        "Conflicto árabe-israelí",
-        "Alí Jamenei",
-        "Marco Rubio",
-        "Pete Hegseth",
-        "Israel",
-        "Conflictos internacionales",
-        "Venezuela",
-        "Nicolás Maduro",
-        "Defensa",
-        "Portaaviones"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "d429f58de417c7999b3364317fda1c55cba4c4489e7fdde86d70816fa7afa800",
@@ -7985,10 +7982,10 @@
       "lang": "en"
     },
     {
-      "id": "bd64296cb44760c67a0c3f57450a8a5883a5752673d1f4593973147d2815649c",
-      "url": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany news: Hamburg police investigating subway deaths",
-      "content_html": "Police in the city of Hamburg are probing a suspected homicide after two people were hit by an underground train. Meanwhile, a survey has found that many Germans who work part-time do so voluntarily. DW has more.",
+      "id": "3d3463fda13f08a26d95d9c8c84decdfcfc0b101dbbb2f1e3f0012a33dd7cb74",
+      "url": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb. 1",
+      "content_html": "The Kremlin announced that US President Donald Trump had asked Vladimir Putin to halt strikes on Kyiv until February 1. However, Ukraine reported that Russia launched one missile and over 100 drones overnight. Follow DW.",
       "date_published": "2026-01-30T20:39:00+00:00",
       "authors": [],
       "tags": [
@@ -8001,10 +7998,10 @@
       "lang": "en"
     },
     {
-      "id": "3d3463fda13f08a26d95d9c8c84decdfcfc0b101dbbb2f1e3f0012a33dd7cb74",
-      "url": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb. 1",
-      "content_html": "The Kremlin announced that US President Donald Trump had asked Vladimir Putin to halt strikes on Kyiv until February 1. However, Ukraine reported that Russia launched one missile and over 100 drones overnight. Follow DW.",
+      "id": "bd64296cb44760c67a0c3f57450a8a5883a5752673d1f4593973147d2815649c",
+      "url": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Hamburg police investigating subway deaths",
+      "content_html": "Police in the city of Hamburg are probing a suspected homicide after two people were hit by an underground train. Meanwhile, a survey has found that many Germans who work part-time do so voluntarily. DW has more.",
       "date_published": "2026-01-30T20:39:00+00:00",
       "authors": [],
       "tags": [
@@ -8561,7 +8558,7 @@
       "id": "a2751ab149495d7af467ec850a4a8462a0a42df158d8a1cfe9ab6d26bed1b480",
       "url": "https://elpais.com/internacional/2026-01-29/el-regreso-del-fascismo.html",
       "title": "Le retour du fascisme",
-      "content_html": "Mussolini avec Rudolf Hess, le lieutenant d'Hitler, à Berlin, sur une image non datée.",
+      "content_html": "Mussolini avec Rudolf Hess, lieutenant d'Hitler, à Berlin, sur une image non datée.",
       "date_published": "2026-01-29T04:45:01+00:00",
       "authors": [
         {
@@ -9700,7 +9697,7 @@
     {
       "id": "16650dc860bb6ef012e0b49955a1627d23ef1cb817fee8319e26f325d92e77a0",
       "url": "https://elpais.com/internacional/2026-01-19/trump-demuestra-la-necesidad-del-acuerdo-de-la-ue-con-mercosur.html",
-      "title": "Trump démontre la nécessité d'un accord entre l'UE et le Mercosur",
+      "title": "Trump démontre la nécessité d’un accord entre l’UE et le Mercosur",
       "content_html": "La présidente de la Commission européenne, Ursula Von der Leyen, avec les présidents du Paraguay (Santiago Peña), de l'Argentine (Javier Milei) et de l'Uruguay (Yamandú Orsi) ce samedi.",
       "date_published": "2026-01-19T04:40:00+00:00",
       "authors": [
@@ -9909,22 +9906,6 @@
       "authors": [],
       "tags": [
         "Culture"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5797eb9896dac89699e73908ae927583c0e588bb85eed29b9cefc9311bec7236",
-      "url": "https://www.dw.com/en/kazakhstan-oil-output-plunges-as-ukraine-s-drones-hit-russia/a-75455865?maca=en-rss-en-all-1573-rdf",
-      "title": "Kazakhstan oil output plunges as Ukraine's drones hit Russia",
-      "content_html": "Kyiv's attacks on Russian oil terminals and refineries may damage their enemy, but they are also having an impact on other economies such as Kazakhstan's and risk alienating allies.",
-      "date_published": "2026-01-13T15:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
