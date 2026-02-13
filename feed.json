@@ -5,11 +5,78 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "b92f8a1afdef1405b3e9e35e401998f595caabffce49fb120b3e757829747e1b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2228645/terrebonne-cour-supreme-bloc-quebecois-vote-sinclair-desgagne",
-      "title": "La Cour suprême annule l’élection fédérale dans Terrebonne",
-      "content_html": "<p>La libérale Tatiana Auguste avait été déclarée vainqueur par une seule voix contre sa rivale bloquiste.</p>",
-      "date_published": "2026-02-13T19:20:41+00:00",
+      "id": "4ca5e7c68dd57cdea0efd90e05d21ed314a0bf30ca127b8371390bb0ebce05cd",
+      "url": "https://www.elmundo.es/internacional/2026/02/13/698f750ffc6c83e2318b45cd.html",
+      "title": "Macron met la dissuasion nucléaire au centre du débat : \"Il faut réorganiser notre architecture de sécurité\"",
+      "content_html": "\"La discussion que nous avons avec le Royaume-Uni et l'Allemagne est très importante, mais ouverte à de nombreux autres acteurs européens, pour disposer d'une nouvelle génération de capacités qui donneront à l'Europe un nouvel avantage\", dit-il.",
+      "date_published": "2026-02-13T20:00:59+00:00",
+      "authors": [
+        {
+          "name": "Carmen Valero"
+        }
+      ],
+      "tags": [
+        "Alemania",
+        "Francia",
+        "Emmanuel Macron"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8aa2ca4ebbb701759a8470c15f2ecb942db02cd20b592eb27313df963aec79be",
+      "url": "https://elpais.com/internacional/2026-02-13/merz-reivindica-en-munich-la-necesidad-de-la-alianza-con-ee-uu-juntos-somos-mas-fuertes.html",
+      "title": "Merz défend à Munich la nécessité d’une alliance avec les Etats-Unis : « Ensemble, nous sommes plus forts »",
+      "content_html": "Le secrétaire d'État américain Marco Rubio (à gauche) et le chancelier allemand Friedrich Merz ce vendredi à la Conférence de Munich.",
+      "date_published": "2026-02-13T19:59:11+00:00",
+      "authors": [
+        {
+          "name": "Marc Bassets ,Andrea Rizzi"
+        }
+      ],
+      "tags": [
+        "Europa",
+        "Alemania",
+        "OTAN",
+        "Estados Unidos",
+        "Friedrich Merz",
+        "Múnich",
+        "Conferencia seguridad Munich",
+        "J. D. Vance",
+        "Marco Rubio",
+        "Donald Trump"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "617e234588c1e663df608de0055d0bfb1ea8b1a255a1ea501373269ba0ca90e7",
+      "url": "https://www.ukrinform.net/rubric-polytics/4091190-trump-claims-russia-wants-peace-deal-urges-zelenskyy-to-move.html",
+      "title": "Trump claims Russia wants peace deal, urges Zelenskyy to “move”",
+      "content_html": "Ukrainian President Volodymyr Zelensky must “move” in order not to lose the opportunity to reach a peace deal, U.S. President Donald Trump said.",
+      "date_published": "2026-02-13T19:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1fa8433b0cc3a0dc7ff19530c4e8ab49c10f95a8f3733084d37529d6b72c69f5",
+      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013462/hockey-canada-mcdavid-crosby-mackinnon",
+      "title": "Jeux olympiques : les Canadiens se préparent à affronter les Suisses",
+      "content_html": "<p>Au hockey masculin, les hommes de Jon Cooper joueront leur deuxième match du tour préliminaire.</p>",
+      "date_published": "2026-02-13T19:54:28+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -17,6 +84,185 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "4e9c3acfd7579ba83c7fc9c768e4f25552c2d0ce59b7ae5857d44eebf3d9a076",
+      "url": "https://www.lemonde.fr/international/article/2026/02/13/l-ecrivaine-arundhati-roy-annule-sa-venue-a-la-berlinale-apres-que-le-jury-a-refuse-de-s-exprimer-sur-gaza_6666697_3210.html",
+      "title": "L’écrivaine Arundhati Roy annule sa venue à la Berlinale après que le jury a refusé de s’exprimer sur Gaza",
+      "content_html": "L’autrice et militante indienne Arundhati Roy, à New Delhi, en octobre 2020.",
+      "date_published": "2026-02-13T19:42:51+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "65766b77d0d64271f64cc643152fb102f79406132f1a933277ed6162c82d1233",
+      "url": "https://www.ukrinform.net/rubric-defense/4091184-defense-tech-air-defense-and-winwin-partnerships-fedorov-summarizes-ramstein-meetings.html",
+      "title": "Defense tech, air defense, and win-win partnerships: Fedorov summarizes Ramstein meetings",
+      "content_html": "Ukraine’s Defense Minister Mykhailo Fedorov held a series of bilateral meetings with key partners on the sidelines of the Ukraine Defense Contact Group meeting in Brussels, held in the Ramstein format.",
+      "date_published": "2026-02-13T19:41:00+00:00",
+      "authors": [],
+      "tags": [
+        "Defense"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b92f8a1afdef1405b3e9e35e401998f595caabffce49fb120b3e757829747e1b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2228645/terrebonne-cour-supreme-bloc-quebecois-vote-sinclair-desgagne",
+      "title": "La Cour suprême annule l’élection fédérale dans Terrebonne",
+      "content_html": "<p>La libérale Tatiana Auguste avait été déclarée vainqueure par une seule voix contre sa rivale bloquiste.</p>",
+      "date_published": "2026-02-13T19:40:21+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7fb89a22d8a85c6236efba3d89f794aac04ef350786a92c8fdbfce43a33a73aa",
+      "url": "https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live",
+      "title": "Macron swipes at Trump tariffs and Greenland threats in call for a stronger EU – Munich Security Conference live",
+      "content_html": "<p>The French president said Europe must show “unwavering commitment” to defending its interests</p><p><strong>If you need a primer on what’s on the agenda for the next three days,</strong> I spoke with the MSC’s head of policy <strong>Nicole Koenig, </strong>the author of <a href=\"https://securityconference.org/en/publications/munich-security-report/2026/\">the European part of their security report</a> published ahead of the meeting.</p><p>I asked her <strong>what is most likely to be the focus</strong> of this year’s forum, <strong>will Rubio deliver a “JD Vance 2.0” speech</strong> or say something more (nomen omen) diplomatic, and <strong>what other topics are likely to come up.</strong></p><p><em>“We have had years, decades of complaints by the US about the fact that in Europe, we were not spending enough on defence. That has changed since the summit in The Hague. </em></p><p><em>The shift in mindset is that yesterday in the room, what <strong>we felt, all of us, there was a clear coming together of vision and of unity. </strong></em></p><p><em>“<strong>They want [us] to perceive the Russians as a mighty bear, but you could argue they are moving through Ukraine at the stilted speed of a garden snail,</strong> so let’s not fall the trap of the Russian propaganda.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live\">Continue reading...</a>",
+      "date_published": "2026-02-13T19:35:59+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa in Munich"
+        }
+      ],
+      "tags": [
+        "Europe",
+        "Germany",
+        "Ukraine",
+        "Alexandria Ocasio-Cortez",
+        "US news",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b63d3c5f472da7edee5a9dc95b79508101aa0420ceba77a49f6c0f2ff0b8db3a",
+      "url": "https://www.elmundo.es/internacional/2026/02/13/698f624cfc6c8328638b4579.html",
+      "title": "Trump, sur la guerre en Ukraine : \"Il va falloir que Zelensky s'y mette\"",
+      "content_html": "Une troisième rencontre entre Russes et Ukrainiens aura lieu, sous médiation américaine, les 17 et 18 à Genève.",
+      "date_published": "2026-02-13T19:30:15+00:00",
+      "authors": [
+        {
+          "name": "Agencias"
+        }
+      ],
+      "tags": [
+        "Ucrania",
+        "Rusia",
+        "Guerra Ucrania Rusia",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "695d34494e84bf6a13cba99241a9445fc48c769efd9bfc497659f829ee4635b1",
+      "url": "https://www.aljazeera.com/video/the-stream/2026/2/13/is-our-food-making-us-sick?traffic_source=rss",
+      "title": "Is our food making us sick?",
+      "content_html": "From ultra-processed foods to hidden chemicals, we ask whether what’s on our plates is making us ill.",
+      "date_published": "2026-02-13T19:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "TV Shows"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3810368746f22e073121a97813ca07dae6c9c95b2be9d0fb2bb7eda1f6da8140",
+      "url": "https://www.elmundo.es/internacional/2026/02/13/698f30a5fc6c830c7d8b459e.html",
+      "title": "Merz inaugure la Conférence de Munich sur la sécurité : \"L'Europe revient tout juste de vacances hors de l'Histoire\"",
+      "content_html": "La chancelière allemande met fin à \"l'ordre mondial\" actuel, appelle à \"la construction d'un pilier européen fort et suffisant\" et révèle \"des discussions sur la dissuasion nucléaire européenne\" avec la France",
+      "date_published": "2026-02-13T19:28:52+00:00",
+      "authors": [
+        {
+          "name": "Carmen Valero"
+        }
+      ],
+      "tags": [
+        "Alemania",
+        "Especial Guerra de Ucrania"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7366ae9fea450dc684ce31faa7998fa12e98be98c47e6b8b555b5dd87b7af8b7",
+      "url": "https://www.france24.com/en/france/20260213-paris-police-fire-man-who-tried-stab-officer-arc-de-triomphe",
+      "title": "Paris police fire on knife attacker at Arc de Triomphe",
+      "content_html": "French police on Friday shot and injured a man who tried to stab an officer with a knife during a ceremony at the Arc de Triomphe monument in central Paris. The man was injured and has been taken to hospital.",
+      "date_published": "2026-02-13T19:26:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e976f961a8b87318a78d28a5cdb4d128d439bb538a6ef2e2bd8f3625cf78969e",
+      "url": "https://ici.radio-canada.ca/nouvelle/2228823/conference-securite-merz-otan",
+      "title": "Conférence sur la sécurité : Merz appelle à « réparer » la confiance transatlantique",
+      "content_html": "<p>Depuis son retour à la Maison-Blanche, le président Donald Trump multiplie les menaces contre les Européens.</p>",
+      "date_published": "2026-02-13T19:25:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "886ae38e9e6c4359cb996c53ffad145592e7fb009368f9e7df5840c632420243",
+      "url": "https://www.dw.com/en/msc-macron-says-world-should-take-cue-from-europe/live-75938790?maca=en-rss-en-all-1573-rdf",
+      "title": "MSC: Macron says world should take 'cue' from Europe",
+      "content_html": "During his speech at the Munich Security Conference, France's president said Europeans should be more proud of the continent's achievements. Meanwhile, Germany's Merz rejected the MAGA \"culture war.'' DW has more.",
+      "date_published": "2026-02-13T19:24:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
     },
     {
       "id": "34de3022718ba7a01fcd8bba83756f8463f582d0e1ba41ef43eef3dfe7dba2e7",
@@ -63,8 +309,8 @@
     {
       "id": "42b477d35842cb1550f9864554f5e6dfe070bb47da679a3725f233a83545d157",
       "url": "https://www.france24.com/en/culture/20260213-arundhati-roy-boycotts-berlin-fest-premier-of-her-revamped-1980s-cult-classic-the-film-shows-why",
-      "title": "Arundhati Roy boycotts Berlin fest premier of her revamped 1980s cult classic – the film shows why",
-      "content_html": "Indian writer Arundhati Roy on Friday said she was withdrawing from the Berlin Film Festival over the jury president’s Gaza remarks. The award-winning author and activist was set to attend the world premier of a restored version of 1989 cult classic “In Which Annie Gives It Those Ones”, which she wrote and starred in. The film provides hints of her unflinching courage, 37 years after its release.",
+      "title": "Arundhati Roy boycotts Berlin fest premiere of her revamped 1980s cult classic – the film shows why",
+      "content_html": "Indian writer Arundhati Roy on Friday said she was withdrawing from the Berlin Film Festival over the jury president’s Gaza remarks. The award-winning author and activist was set to attend the world premiere of a restored version of 1989 cult classic “In Which Annie Gives It Those Ones”, which she wrote and starred in. The film provides hints of her unflinching courage, 37 years after its release.",
       "date_published": "2026-02-13T19:17:45+00:00",
       "authors": [
         {
@@ -132,20 +378,6 @@
       "lang": "fr"
     },
     {
-      "id": "1fa8433b0cc3a0dc7ff19530c4e8ab49c10f95a8f3733084d37529d6b72c69f5",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013462/hockey-canada-mcdavid-crosby-mackinnon",
-      "title": "Jeux olympiques : hockey, patinage artistique et curling au menu",
-      "content_html": "<p>Le Canada affronte la Suède au curling masculin, et les Canadiens font face à la Suisse au hockey.</p>",
-      "date_published": "2026-02-13T19:14:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "9505a35ee7e2c368aa492465e9a75921fe91be1aa81e0033f9652a645f4f8b5a",
       "url": "https://ici.radio-canada.ca/info/en-direct/1013461/tumbler-ridge-fusillade-rootselaar-ecole-recueillement",
       "title": "Les chefs des partis fédéraux attendus à Tumbler Ridge",
@@ -163,7 +395,7 @@
       "id": "93ad720f02cc7c7a94fb60ed1046b083560801db82c5e622eda160efa2e6c226",
       "url": "https://www.theguardian.com/us-news/2026/feb/13/aoc-trump-authoritarianism-munich-conference",
       "title": "AOC accuses Trump of trying to usher in ‘age of authoritarianism’ at Munich conference",
-      "content_html": "<p>The US congressperson further said the president and Marco Rubio were tearing apart the transatlantic alliance</p><p>Alexandria Ocasio-Cortez has accused Donald Trump of tearing apart the transatlantic alliance with Europe and of seeking to introduce an “age of authoritarianism”, as she condemned his administration’s foreign policy in front of its allies’ top policymakers at the Munich Security Conference.</p><p>Speaking at a panel on populism on Friday, Ocasio-Cortez outlined what she called an “alternative vision” for a leftwing US foreign policy, challenging the Trump administration’s shift to the right in front an audience of US allies who have grown increasingly wary of the US’ increasingly nationalist – and militaristic – global posture.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/13/aoc-trump-authoritarianism-munich-conference\">Continue reading...</a>",
+      "content_html": "<p>Congressperson says US president and Marco Rubio are tearing apart transatlantic alliance</p><p>Alexandria Ocasio-Cortez has accused Donald Trump of tearing apart the transatlantic alliance with Europe and of seeking to introduce an “age of authoritarianism”, as she condemned his administration’s foreign policy in front of its allies’ top policymakers at the Munich Security Conference.</p><p>Speaking at a panel on populism on Friday, Ocasio-Cortez outlined what she called an “alternative vision” for a leftwing US foreign policy, challenging the Trump administration’s shift to the right in front an audience of US allies who have grown increasingly wary of the US’s increasingly nationalist – and militaristic – global posture.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/13/aoc-trump-authoritarianism-munich-conference\">Continue reading...</a>",
       "date_published": "2026-02-13T19:10:39+00:00",
       "authors": [
         {
@@ -200,31 +432,6 @@
       "lang": "en"
     },
     {
-      "id": "7fb89a22d8a85c6236efba3d89f794aac04ef350786a92c8fdbfce43a33a73aa",
-      "url": "https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live",
-      "title": "Macron swipes at Trump tariffs and Greenland threats in call for a stronger EU – Munich Security Conference live",
-      "content_html": "<p>The French president said Europe must show “unwavering commitment” to defending its interests</p><p><strong>If you need a primer on what’s on the agenda for the next three days,</strong> I spoke with the MSC’s head of policy <strong>Nicole Koenig, </strong>the author of <a href=\"https://securityconference.org/en/publications/munich-security-report/2026/\">the European part of their security report</a> published ahead of the meeting.</p><p>I asked her <strong>what is most likely to be the focus</strong> of this year’s forum, <strong>will Rubio deliver a “JD Vance 2.0” speech</strong> or say something more (nomen omen) diplomatic, and <strong>what other topics are likely to come up.</strong></p><p><em>“We have had years, decades of complaints by the US about the fact that in Europe, we were not spending enough on defence. That has changed since the summit in The Hague. </em></p><p><em>The shift in mindset is that yesterday in the room, what <strong>we felt, all of us, there was a clear coming together of vision and of unity. </strong></em></p><p><em>“<strong>They want [us] to perceive the Russians as a mighty bear, but you could argue they are moving through Ukraine at the stilted speed of a garden snail,</strong> so let’s not fall the trap of the Russian propaganda.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live\">Continue reading...</a>",
-      "date_published": "2026-02-13T19:07:51+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa in Munich"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "Germany",
-        "Ukraine",
-        "Alexandria Ocasio-Cortez",
-        "US news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b47cebc38ccc79d20e955587698de7ac7aa75c45be133bd5db07cfa77ba827b1",
       "url": "https://www.theguardian.com/us-news/2026/feb/13/nikhil-gupta-assassination-plot-pleads-guilty",
       "title": "Indian man accused of plot to assassinate US activist pleads guilty",
@@ -237,7 +444,11 @@
       ],
       "tags": [
         "US news",
-        "India"
+        "India",
+        "Activism",
+        "New York",
+        "US justice system",
+        "US crime"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -499,28 +710,6 @@
       "lang": "en"
     },
     {
-      "id": "b63d3c5f472da7edee5a9dc95b79508101aa0420ceba77a49f6c0f2ff0b8db3a",
-      "url": "https://www.elmundo.es/internacional/2026/02/13/698f624cfc6c8328638b4579.html",
-      "title": "Trump, sur la guerre en Ukraine : \"Il va falloir que Zelensky s'y mette\"",
-      "content_html": "Une troisième rencontre entre Russes et Ukrainiens aura lieu, sous médiation américaine, les 17 et 18 à Genève.",
-      "date_published": "2026-02-13T18:33:39+00:00",
-      "authors": [
-        {
-          "name": "Agencias"
-        }
-      ],
-      "tags": [
-        "Ucrania",
-        "Rusia",
-        "Guerra Ucrania Rusia"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "148db6f2fdc872752b12608c7223163ee670061486195f95b9b943c5649db0a6",
       "url": "https://www.timesofisrael.com/idf-says-hezbollah-operative-rebuilding-groups-infrastructure-killed-in-strike/",
       "title": "IDF says Hezbollah operative rebuilding group’s infrastructure killed in strike",
@@ -599,7 +788,7 @@
       "id": "a7627d6cc75e27efafbaba4528e3d88196da18f1bf8cf595e70dbf1bdd69d68d",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698f372dfdddffa0428b45cb.html",
       "title": "Trump dit que le président israélien devrait avoir « honte » de ne pas avoir accordé sa grâce à Netanyahu",
-      "content_html": "Herzog répond qu'il n'a pas encore pris de décision en la matière et lui rappelle diplomatiquement qu'\"Israël est un Etat souverain\".",
+      "content_html": "Herzog répond qu'il n'a pas encore pris de décision en la matière et lui rappelle diplomatiquement qu'« Israël est un Etat souverain ».",
       "date_published": "2026-02-13T18:21:11+00:00",
       "authors": [
         {
@@ -745,20 +934,6 @@
       "lang": "en"
     },
     {
-      "id": "98c22e3db944a73e0eb8137c4c45ee695b9d6220fa88ad581d3a92b117a0d1f1",
-      "url": "https://www.themoscowtimes.com/2026/02/13/the-motherland-is-catching-up-russians-in-kazakhstan-feel-moscows-reach-in-string-of-expulsions-a91946",
-      "title": "‘The Motherland Is Catching Up’: Russians in Kazakhstan Feel Moscow’s Reach in String of Expulsions",
-      "content_html": "Kazakhstan's reputation as a safe haven for Russian exiles has been upended by a string of planned expulsions of dissidents.",
-      "date_published": "2026-02-13T18:14:37+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
       "id": "82e7254a7c6e35c8559040ab9148591a004ca7a3b617a296349cc08524cbd3b5",
       "url": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss",
       "title": "Who is on helmet that led to Ukrainian athlete's Winter Olympics ban?",
@@ -769,6 +944,20 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "98c22e3db944a73e0eb8137c4c45ee695b9d6220fa88ad581d3a92b117a0d1f1",
+      "url": "https://www.themoscowtimes.com/2026/02/13/the-motherland-is-catching-up-russians-in-kazakhstan-feel-moscows-reach-in-string-of-expulsions-a91946",
+      "title": "‘The Motherland Is Catching Up’: Russians in Kazakhstan Feel Moscow’s Reach in String of Expulsions",
+      "content_html": "Kazakhstan's reputation as a safe haven for Russian exiles has been upended by a string of planned expulsions of dissidents.",
+      "date_published": "2026-02-13T18:14:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
@@ -1749,8 +1938,8 @@
     {
       "id": "15c2dd51697b0ef33d876248bf5665104b3ccd3fc10a56f3ee35df018a29f8e9",
       "url": "https://ici.radio-canada.ca/nouvelle/2228678/tumbler-ridge-fusillade-memorial-victimes",
-      "title": "Tumbler Ridge fait son deuil en communauté",
-      "content_html": "<p>Ses habitants se réunissent en petits, moyens et grands groupes pour se réconforter les uns les autres.</p>",
+      "title": "Tumbler Ridge vit son deuil en communauté",
+      "content_html": "<p>Ses habitants se réunissent en petits, en moyens et en grands groupes pour se réconforter les uns les autres.</p>",
       "date_published": "2026-02-13T16:41:49+00:00",
       "authors": [],
       "tags": [],
@@ -2143,26 +2332,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "3810368746f22e073121a97813ca07dae6c9c95b2be9d0fb2bb7eda1f6da8140",
-      "url": "https://www.elmundo.es/internacional/2026/02/13/698f30a5fc6c830c7d8b459e.html",
-      "title": "Merz inaugure la Conférence de Munich sur la sécurité : \"L'Europe revient tout juste de vacances hors de l'Histoire\"",
-      "content_html": "La chancelière allemande met fin à \"l'ordre mondial\" actuel, appelle à \"la construction d'un pilier européen fort et suffisant\" et révèle \"des discussions sur la dissuasion nucléaire européenne\" avec la France",
-      "date_published": "2026-02-13T15:59:24+00:00",
-      "authors": [
-        {
-          "name": "Carmen Valero"
-        }
-      ],
-      "tags": [
-        "Alemania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "9a359a6b5e81cffa77b49bf80939d263d5decfcfb64811629daf441e5e4cea87",
@@ -2876,35 +3045,6 @@
       "lang": "en"
     },
     {
-      "id": "8aa2ca4ebbb701759a8470c15f2ecb942db02cd20b592eb27313df963aec79be",
-      "url": "https://elpais.com/internacional/2026-02-13/merz-reivindica-en-munich-la-necesidad-de-la-alianza-con-ee-uu-juntos-somos-mas-fuertes.html",
-      "title": "Merz défend à Munich la nécessité d’une alliance avec les Etats-Unis : « Ensemble, nous sommes plus forts »",
-      "content_html": "Le secrétaire d'État américain Marco Rubio (à gauche) et le chancelier allemand Friedrich Merz ce vendredi à la Conférence de Munich.",
-      "date_published": "2026-02-13T14:52:48+00:00",
-      "authors": [
-        {
-          "name": "Marc Bassets ,Andrea Rizzi"
-        }
-      ],
-      "tags": [
-        "Europa",
-        "Alemania",
-        "OTAN",
-        "Estados Unidos",
-        "Friedrich Merz",
-        "Múnich",
-        "Conferencia seguridad Munich",
-        "J. D. Vance",
-        "Marco Rubio",
-        "Donald Trump"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3683fe569c7528956e6c6ed1d79ca27642973b162df6b8c5e5886f24d0843a76",
       "url": "https://www.france24.com/en/tv-shows/fashion/20260213-when-haute-couture-breaks-with-tradition-summer-2026-collections",
       "title": "When Haute Couture breaks with tradition: Summer 2026 collections",
@@ -3282,20 +3422,6 @@
       "lang": "en"
     },
     {
-      "id": "920392e6f2ee8c386a27164712dc0c8ccceb9c4874d7a9b15334ecf36bd443b2",
-      "url": "https://www.lemonde.fr/international/article/2026/02/13/sol-17-ans-ancienne-enfant-soldate-d-un-groupe-arme-en-colombie-on-est-de-la-chair-a-canon_6666640_3210.html",
-      "title": "« On est de la chair à canon » : Sol, 17 ans, ancienne enfant-soldate d’un groupe armé en Colombie",
-      "content_html": "Sol, 17 ans, résidente du centre de victimes de Benposta, cache son visage derrière un foulard blanc où il est écrit : « La guerre n’est en rien une solution, nous voulons un pays de paix et d’amour », lors d’une manifestation à Bogota, le 12 février 2026.",
-      "date_published": "2026-02-13T14:00:01+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "4948836e9f0ec2d0b785b1e96bd2b189eaa20a3472c64db3f3c2e6f41a2191b0",
       "url": "https://elpais.com/internacional/2026-02-13/portugal-lucha-contra-la-emergencia-desde-hace-17-dias-el-agua-se-llevo-el-trabajo-de-una-vida.html",
       "title": "Le Portugal lutte contre l'urgence depuis 17 jours : « L'eau a emporté le travail d'une vie »",
@@ -3368,22 +3494,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bc919e277f99fa1b2ef0e16633ad449cc8f337e5249dccb2b9008c031a5381aa",
-      "url": "https://www.dw.com/en/msc-germany-s-merz-says-old-world-order-no-longer-exists/live-75938790?maca=en-rss-en-all-1573-rdf",
-      "title": "MSC: Germany's Merz says old world order 'no longer exists'",
-      "content_html": "The MSC brings together security experts, politicians and military leaders from around the world. This year's edition comes amid growing fears for trans-Atlantic security under US President Trump. Follow DW for more.",
-      "date_published": "2026-02-13T13:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -3566,26 +3676,6 @@
       ],
       "tags": [
         "The 51%"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "48210ab474708c27f1fedfb78b6aa2da00050f84e5758c4259af9daef7add6ea",
-      "url": "https://www.france24.com/en/americas/20260213-peru-gang-guardianes-trocha-controls-gold-mines-spreads-terror-la-pampa",
-      "title": "'I'll rip your head off': Gang's grip over gold mines sows terror in Peru's La Pampa",
-      "content_html": "Peru's Guardianes de la Trocha gang has taken over La Pampa, a gold-rich area running alongside the Tambopata National Reserve, one of the most biodiverse regions on the continent. Forbidden Stories and its partner Mongabay Latam reveal how this criminal organisation spreads terror, silencing any opposition with the help of rising corruption in the country.",
-      "date_published": "2026-02-13T13:10:00+00:00",
-      "authors": [
-        {
-          "name": "Forbidden Stories"
-        }
-      ],
-      "tags": [
-        "Americas"
       ],
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
@@ -4148,22 +4238,6 @@
       "lang": "en"
     },
     {
-      "id": "308e312f3b534215e2bfbd3031414666c2a7af49072fd627969da530ad55b99e",
-      "url": "https://www.aljazeera.com/news/2026/2/13/a-palestinian-cancer-patient-stuck-in-egypt-for-two-years-returns-to-gaza?traffic_source=rss",
-      "title": "A Palestinian cancer patient stuck in Egypt for two years returns to Gaza",
-      "content_html": "The al-Najjar family is finally reunited with its matriarch, Mariam, who returned via the Rafah crossing.",
-      "date_published": "2026-02-13T11:00:09+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aff213e2bea4442d462e27be3a266af7322044ae99880429b9d60bfd39bd1714",
       "url": "https://www.ukrinform.net/rubric-polytics/4090954-munich-security-conference-gets-underway-in-germany.html",
       "title": "Munich Security Conference gets underway in Germany",
@@ -4300,22 +4374,6 @@
       "lang": "en"
     },
     {
-      "id": "35100092f9ee051369ca00b0775bd8d687cc00a142b4d62a6b511edaafb03b76",
-      "url": "https://www.ukrinform.net/rubric-crime/4090935-ssu-police-dismantle-russian-agent-network-planning-terror-attacks-in-kyiv-and-zhytomyr.html",
-      "title": "SSU, police dismantle Russian agent network planning terror attacks in Kyiv and Zhytomyr",
-      "content_html": "The Security Service of Ukraine (SSU) and the National Police of Ukraine have dismantled an agent network run by Russia’s FSB that was planning a series of new terrorist attacks in Kyiv and Zhytomyr.",
-      "date_published": "2026-02-13T10:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Crime"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e1bb07fca5444038f179e2965e25f3d90c3fa9844233b09a9c4ebc876118680b",
       "url": "https://www.timesofisrael.com/toi-poll-most-israelis-dont-believe-pms-account-of-his-gaza-policies-before-oct-7/",
       "title": "ToI poll: Most Israelis don’t believe PM’s account of his Gaza policies before Oct. 7",
@@ -4379,22 +4437,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "56628ee79157013c7cc393718d100ff665c018dd61e574ba8b458c31bf9d23ae",
-      "url": "https://www.ukrinform.net/rubric-ato/4090921-russians-shell-kherson-suburbs-one-man-killed.html",
-      "title": "Russians shell Kherson suburbs, one man killed",
-      "content_html": "Russian forces shelled the suburbs of Kherson, hitting the village of Antonivka. A 65-year-old man was killed, while in central Kherson, a 70-year-old resident was injured after stepping on a Russian anti-personnel Petal mine.",
-      "date_published": "2026-02-13T09:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "c8178caada168e90620b4863f5238b66a12194be152a72f4f65dc9cba05734d9",
@@ -4912,7 +4954,7 @@
       "id": "d18b07cfe8399c92886763f5c604af030efe3e68d78783a8c5ce3eafbae298d5",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698e72ddfdddffde0f8b45cd.html",
       "title": "José Rubén Zamora, ancien directeur du journal \"El Periódico de Guatemala\", est libéré de prison : \"J'ai déjà payé mes peines pour des crimes que je n'ai pas commis\"",
-      "content_html": "Un juge pénal a ordonné sa libération après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation.",
+      "content_html": "Un juge pénal a ordonné sa libération de détention préventive après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation",
       "date_published": "2026-02-13T06:46:54+00:00",
       "authors": [
         {
@@ -7012,8 +7054,8 @@
     {
       "id": "e6deb47b86c91de6decdab4e8bb33f5047735166b5f0b8a2a427d31de7f82e0e",
       "url": "https://elpais.com/internacional/2026-02-12/golpe-del-congreso-a-trump-rechaza-los-aranceles-a-canada-con-el-apoyo-de-varios-republicanos.html",
-      "title": "Golpe del Congreso a Trump: rechaza los aranceles a Canadá con el apoyo de varios republicanos",
-      "content_html": "Thomas Massie y Ro Khanna, en Washington, el 9 de febrero.",
+      "title": "Le Congrès s'en prend à Trump : il rejette les tarifs douaniers sur le Canada avec le soutien de plusieurs républicains",
+      "content_html": "Thomas Massie et Ro Khanna, à Washington, le 9 février.",
       "date_published": "2026-02-12T04:30:00+00:00",
       "authors": [
         {
@@ -7046,7 +7088,7 @@
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "ec65f519ae82d1c82270a9549b1b5651cc8dc8601683ce5a81be2776ebcb33ea",
@@ -7809,7 +7851,7 @@
       "id": "ac09a9b17516b33e0a3ee5771c477dd8aefb9bb0fb4f5eba58500ff554a0a4aa",
       "url": "https://www.elmundo.es/internacional/2026/02/11/698c1db0e4d4d893258b45c7.html",
       "title": "Dix morts dans une fusillade dans une école et une maison au Canada",
-      "content_html": "Parmi les victimes se trouverait la femme responsable du massacre, retrouvée avec une \"blessure auto-infligée\".",
+      "content_html": "Parmi les victimes se trouverait la femme responsable du massacre, retrouvée avec une \"blessure auto-infligée\"",
       "date_published": "2026-02-11T07:00:06+00:00",
       "authors": [
         {
@@ -7840,27 +7882,6 @@
         "Donald Trump",
         "Irán",
         "Estados Unidos",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "1f0b763d749a21ff8beb34c2d21d0fc9df79739c19c7eaea38881c559a74fc01",
-      "url": "https://www.elmundo.es/internacional/2026/02/11/698c22ad21efa082108b45a1.html",
-      "title": "Ils rejettent les accusations portées contre les législateurs démocrates que Trump voulait emprisonner pour avoir exhorté l'armée à \"refuser les ordres illégaux\".",
-      "content_html": "Un grand jury fédéral, composé de Washingtoniens, a rejeté les tentatives du ministère de la Justice d'inculper des membres du Congrès démocrates.",
-      "date_published": "2026-02-11T06:33:19+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
         "Especial Trump"
       ],
       "source": {
@@ -8824,7 +8845,7 @@
     {
       "id": "45cc5ffde1b5f781deaca13268c784fbe683af8743909cd66d33cef3e04a7975",
       "url": "https://elpais.com/internacional/2026-02-07/un-medievalista-de-origen-espanol-en-los-tiempos-del-ice-extranjero-en-su-propio-pais.html",
-      "title": "Un médiéviste d'origine espagnole au temps de la CIE : un étranger dans son propre pays",
+      "title": "Un médiéviste d'origine espagnole à l'époque de la CIE : un étranger dans son propre pays",
       "content_html": "Des agents fédéraux de l'immigration maîtrisent et arrêtent un manifestant à Minneapolis mardi",
       "date_published": "2026-02-07T04:40:00+00:00",
       "authors": [
