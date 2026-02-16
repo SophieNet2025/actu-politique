@@ -5,42 +5,132 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "c00b43bbc6e6adcd1be20102bc73ce75d24520ec69ad0635cb0099a621a6dbf8",
-      "url": "https://ici.radio-canada.ca/nouvelle/2229419/iran-exercice-militaire-negociations-trump",
-      "title": "L’Iran mène des exercices militaires à la veille de pourparlers avec les États-Unis",
-      "content_html": "<p>Ces exercices ont eu lieu dans le détroit d&#x27;Ormuz, où transite 20&nbsp;% de la production mondiale de pétrole.</p>",
-      "date_published": "2026-02-16T14:34:55+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "008d66fe40e3f8ba2e519566410731b7cf4b9951b2c48d0ce879acb6bf4c272d",
+      "url": "https://elpais.com/internacional/2026-02-16/el-asesinato-de-un-militante-de-ultraderecha-en-francia-pone-en-la-diana-politica-al-partido-de-jean-luc-melenchon.html",
+      "title": "L'assassinat à coups d'un militant d'extrême droite en France place le parti de Jean-Luc Mélenchon dans la cible politique",
+      "content_html": "Des dizaines de personnes brandissent une banderole pour protester contre le meurtre de Quentin D., dimanche, place de la Sorbonne, à Paris.",
+      "date_published": "2026-02-16T15:29:54+00:00",
+      "authors": [
+        {
+          "name": "Daniel Verdú"
+        }
+      ],
+      "tags": [
+        "Jean-Luc Mélenchon",
+        "Extrema izquierda",
+        "Francia",
+        "Emmanuel Macron",
+        "Violencia"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
     {
-      "id": "032733a9c90fd2f6322f4f781fe7efec8f0f99c3a7a2f86dd0ed82d5c5f9b3bd",
-      "url": "https://ici.radio-canada.ca/nouvelle/2229330/mckinsey-lobbyisme-gouvernement-legault-quebec",
-      "title": "Influence de la firme McKinsey sur le gouvernement Legault : l’enquête abandonnée",
-      "content_html": "<p>Le commissaire au lobbyisme dénonce «&nbsp;un trou dans la loi&nbsp;» qui l&#x27;empêche de vérifier le respect des règles.</p>",
-      "date_published": "2026-02-16T14:29:26+00:00",
+      "id": "ebaee772354df6ab140375efe2f1738a6903c8ac4d3aeb6d0601070fe1e27337",
+      "url": "https://www.dw.com/en/uk-targets-all-ai-chatbots-after-grok-uproar/a-75993297?maca=en-rss-en-all-1573-rdf",
+      "title": "UK targets all AI chatbots after Grok uproar",
+      "content_html": "The British government is seeking to include all AI chatbots in online safety laws. The pushback comes after Elon Musk's Grok was used to create sexualised deepfakes.",
+      "date_published": "2026-02-16T15:19:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "News"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
-      "lang": "fr"
+      "lang": "en"
+    },
+    {
+      "id": "0e7b3e16141a80679e24eaea44d0d29811e405152bdac1cfe39e28a88ef07d87",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates",
+      "title": "Government abandons plans to delay 30 local council elections in May – UK politics live",
+      "content_html": "<p>The government was warned by its lawyers that such a move could be illegal as it pledges an additional £63m to help councils with reorganisation</p><p>In his Q&amp;A with journalists, <strong>Keir Starmer</strong> was also asked to respond to<a href=\"https://www.bbc.co.uk/news/articles/cpqwl10lvr2o\"> a report</a> by the BBC’s James Landale saying he is looking at plans to raise defence spending to 3% of GDP by the end of this parliament. In the past Starmer has just said that he would like to do this at some point in the next parliament.</p><p>In his reply, Starmer said that at the Munich Security Conference over the weekend he was arguing that the UK, and Europe as a whole, needs to “step up”.</p><p>We want a just and lasting peace, but that will not extinguish the Russian threat, and we need to be alert to that, because that’s going to affect every single person in this room, every single person in this country, so we need to step up.</p><p>That means, on defence spending, we need to go faster.</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates\">Continue reading...</a>",
+      "date_published": "2026-02-16T15:17:55+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Keir Starmer",
+        "Liz Kendall",
+        "Social media",
+        "Social media ban",
+        "Internet safety",
+        "Children",
+        "Defence policy",
+        "Local elections",
+        "Steve Reed",
+        "Reform UK",
+        "Conservatives",
+        "Liberal Democrats"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2949d14956e9fde9567b9eed022bb6f678b7dc470faa22711a4e4a10ce87f76d",
+      "url": "https://www.ukrinform.net/rubric-ato/4092066-war-update-78-combat-clashes-on-front-line-since-morning-hottest-fighting-in-pokrovsk-and-huliaipole-sectors.html",
+      "title": "War update: 78 combat clashes on front line since morning, hottest fighting in Pokrovsk and Huliaipole sectors",
+      "content_html": "Since the start of the day, 78 combat engagements have occurred between Ukraine's Defense Forces and Russian troops, with the enemy concentrating the greatest efforts on the Pokrovsk and Huliaipole axes.",
+      "date_published": "2026-02-16T15:17:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9027d219bd2d5c807df854dc422ec6810013288a867d75c747868128100231d7",
+      "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+      "title": "UK consumer sentiment takes a tumble; bad weather threaten fruit supplies but boosts Morocco’s wheat crop – business live",
+      "content_html": "<p>Rolling coverage of the latest economic and financial news, as UK households grow more worried about debts</p><p><strong>UK consumer sentiment continued to sink this month, as households grow more worried about debt levels.</strong></p><p>A poll of consumer confidence from data firm <strong>S&amp;P Global</strong> has found that morale continued to drop in February, although not as quickly as in January.</p><p>Consumers signal stronger rise in debt alongside a quicker deterioration in loan availability</p><p>Appetite for major spending recedes to weakest in ten months</p><p>Sentiment regarding labour market conditions at lowest since last June</p><p>“The mood among UK households matches the dismal weather seen so far this year across the country. Although the overall degree of gloom has lifted slightly since January, consumer confidence continues to run at one of the lowest levels seen over the past two years.</p><p>A period of prolonged rain and a dearth of sunshine have no doubt not helped to lift the low spirits seen among households, but there’s more going on here than just bad weather. Households are growing increasingly worried about debt in particular, especially as a rising need for credit was met with the steepest decline in availability of loans since August 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Continue reading...</a>",
+      "date_published": "2026-02-16T15:16:58+00:00",
+      "authors": [
+        {
+          "name": "Graeme Wearden"
+        }
+      ],
+      "tags": [
+        "Business",
+        "Economics",
+        "Stock markets",
+        "FTSE",
+        "House prices",
+        "Japan",
+        "UK news",
+        "World news",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "77a0696e9b6031fb4eab7a24ea90727f9a35a46fbf1db936b66ceaee5bbb18e6",
       "url": "https://www.theguardian.com/world/live/2026/feb/16/marco-rubio-viktor-orban-hungary-ukraine-europe-france-germany-europe-live-news-updates",
       "title": "Trump is ‘deeply committed to your success’, Rubio tells Orbán during Hungary visit – Europe live",
       "content_html": "<p>Rubio says relationship with Orbán is ‘vital for US national interests’ ahead of Hungarian elections in April</p><p>Back to Budapest now. Marco Rubio and the Hungarian foreign minister, Peter Szijjarto, appear to be signing an agreement to facilitate cooperation on a civilian nuclear programme.</p><p>We’ll give you any key lines from the press conference. In the meantime, our European community affairs correspondent, <a href=\"https://www.theguardian.com/profile/ashifa-kassam\">Ashifa Kassam</a>, has reported on the EU’s proposed deportation law that rights groups warn could intensify already widespread racial profiling across the continent. Here is an extract from <a href=\"https://www.theguardian.com/world/2026/feb/16/eu-deportations-plan-ice-style-enforcement-rights-groups-warn\">her story</a>:</p><p><em>More than 70 rights organisations have called on the EU to reject a proposal aimed at increasing the deportation of undocumented people, warning that it risks turning everyday spaces, public services and community interactions into tools of ICE-style immigration enforcement.</em></p><p><em>Last March, the European Commission <a href=\"https://www.theguardian.com/world/2025/mar/11/plan-to-deport-more-people-from-eu-allows-prolonged-detention-say-critics\">laid out its proposal</a> to increase deportations of people with no legal right to stay in the EU, including potentially sending them to offshore centres in non-EU countries.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/16/marco-rubio-viktor-orban-hungary-ukraine-europe-france-germany-europe-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-16T14:27:42+00:00",
+      "date_published": "2026-02-16T15:11:57+00:00",
       "authors": [
         {
-          "name": "Yohannes Lowe (now) and Tom Ambrose (earlier)"
+          "name": "Tom Ambrose (now) and Yohannes Lowe (earlier)"
         }
       ],
       "tags": [
@@ -61,6 +151,438 @@
       "lang": "en"
     },
     {
+      "id": "2d6c86fb49c58d3802ed00b3749fd48d0bdb61483598541454e151c17852c190",
+      "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2229391/patinage-vitesse-courte-piste-sarault-brunelle-dandjinou",
+      "title": "Courtney Sarault s’éclate à Milan, où elle décroche une troisième médaille",
+      "content_html": "<p>La patineuse de vitesse canadienne a remporté la médaille d&#x27;argent lundi au 1000&nbsp;m. </p>",
+      "date_published": "2026-02-16T15:11:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4ba5275f819f2079ecc7c5df33ac85f051fecb605761d8305397cabfb2333daa",
+      "url": "https://www.bbc.com/news/videos/cnv6zy10vz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Flying oranges: Italian town celebrates carnival with historic street battle",
+      "content_html": "A town in northern Italy has started celebrating carnival with its annual Battle of the Oranges where people hurl the fruit at each other for fun.",
+      "date_published": "2026-02-16T15:10:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "60f681e3446346db95f4bccd0ba71151ff4aef48d5e666ccbcfed95937b6f8f7",
+      "url": "https://www.liberation.fr/economie/medias/david-greene-ex-animateur-star-de-la-national-public-radio-porte-plainte-contre-google-pour-usurpation-de-sa-voix-20260216_UVH4S4M5WRBEZCFCXRFIPXCYD4/",
+      "title": "David Greene, ex-animateur star de la National Public Radio, porte plainte contre Google pour usurpation de sa voix",
+      "content_html": "David Greene.",
+      "date_published": "2026-02-16T15:09:04+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2f0c996b7feeb129de7fcf3ef4f5c7659301f39d0a2741b9a071c91f39fc9920",
+      "url": "https://www.timesofisrael.com/british-museum-removes-some-references-to-palestine-after-accuracy-complaints/",
+      "title": "British Museum removes some references to ‘Palestine’ after accuracy complaints",
+      "content_html": "<p>UK Lawyers for Israel prompts change, arguing applying name to periods when no such entity existed risks 'obscuring the history of Israel and the Jewish people'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/british-museum-removes-some-references-to-palestine-after-accuracy-complaints/\">British Museum removes some references to &#8216;Palestine&#8217; after accuracy complaints</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2014/03/british-museum-e1395983483503-1024x640.jpg\" title=\"British Museum removes some references to &#8216;Palestine&#8217; after accuracy complaints\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T15:08:01+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "UK Lawyers For Israel",
+        "British Museum",
+        "Palestine",
+        "Israeli history"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fa50fd3b4795415d176a76b2a242569139a75e09cfa3f42e9782a44353d9998a",
+      "url": "https://www.dw.com/en/obama-clarifies-his-they-re-real-podcast-comment-on-aliens/a-75991421?maca=en-rss-en-all-1573-rdf",
+      "title": "Obama clarifies his 'they're real' podcast comment on aliens",
+      "content_html": "Barack Obama caused an online stir by telling a podcaster aliens were \"real,\" albeit stressing he had not seen any as US president. He's since clarified that he believes they exist, rather than having special knowledge.",
+      "date_published": "2026-02-16T15:07:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2745994525097fc0b178092ce73fdc95468b8893351f250010001fdf2e4dd553",
+      "url": "https://www.timesofisrael.com/hamas-used-emojis-to-signal-operatives-to-prepare-for-oct-7-assault/",
+      "title": "Hamas used emojis to signal operatives to prepare for Oct. 7 assault",
+      "content_html": "<p>IDF investigation finds same string of pictograms was sent to phones of terrorists on two prior instances when Hamas had intended to launch onslaught</p>\n<p>The post <a href=\"https://www.timesofisrael.com/hamas-used-emojis-to-signal-operatives-to-prepare-for-oct-7-assault/\">Hamas used emojis to signal operatives to prepare for Oct. 7 assault</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20231007__33XK9JG__v2__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg\" title=\"Hamas used emojis to signal operatives to prepare for Oct. 7 assault\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T15:01:40+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "IDF Israel Defense Forces",
+        "2023-2025 Israel-Hamas war",
+        "October 7 Hamas atrocities"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bd890f56385d9ad0f44c22078ac1d1e4ebe7170ec3ee0837835c3b5747bb5730",
+      "url": "https://www.timesofisrael.com/us-ambassador-to-belgium-urges-nation-to-drop-charges-over-illegal-circumcisions/",
+      "title": "US ambassador to Belgium urges nation to drop charges over illegal circumcisions",
+      "content_html": "<p>Accusations against three mohels for acting without medical license are 'antisemitic,' Bill White says; European Commission also seeking a solution to impasse over Jewish ritual</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-ambassador-to-belgium-urges-nation-to-drop-charges-over-illegal-circumcisions/\">US ambassador to Belgium urges nation to drop charges over illegal circumcisions</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2013/04/F120921YS05-cropped-1024x640.jpg\" title=\"US ambassador to Belgium urges nation to drop charges over illegal circumcisions\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T15:01:37+00:00",
+      "authors": [],
+      "tags": [
+        "Jewish Times",
+        "Antisemitism in Belgium",
+        "Belgium",
+        "Michael Freilich",
+        "circumcision",
+        "brit milah"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "032733a9c90fd2f6322f4f781fe7efec8f0f99c3a7a2f86dd0ed82d5c5f9b3bd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2229330/mckinsey-lobbyisme-gouvernement-legault-quebec",
+      "title": "Influence de la firme McKinsey sur le gouvernement Legault : l’enquête abandonnée",
+      "content_html": "<p>Le commissaire au lobbyisme dénonce «&nbsp;un trou dans la loi&nbsp;» qui l&#x27;empêche de vérifier le respect des règles.</p>",
+      "date_published": "2026-02-16T15:01:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4db53f1e2cada801d90245f627e9dd1bf7ef0fffb13a9e0883992544f6d0963f",
+      "url": "https://www.ukrinform.net/rubric-polytics/4092061-russia-runs-out-of-oil-storage-capacity-due-to-us-pressure-and-sanctions-reuters.html",
+      "title": "Russia runs out of oil storage capacity due to US pressure and sanctions - Reuters",
+      "content_html": "Russian oil producers may be forced to sharply cut oil output in the coming months as increased pressure from the U.S. administration and the EU restricts energy exports, leading to storage overflows and further undermining the Kremlin's military budget.",
+      "date_published": "2026-02-16T14:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f80197ddd76c838687ca03e5e9ad4bc34189f9dfb168005a05585b32a76617cf",
+      "url": "https://www.aljazeera.com/news/2026/2/16/dozens-of-australian-isil-relatives-freed-from-syrias-roj-camp?traffic_source=rss",
+      "title": "Dozens of Australian ISIL relatives freed from Syria’s Roj camp",
+      "content_html": "Families of 34 Australians are set to depart from Damascus, Kurdish authorities say.",
+      "date_published": "2026-02-16T14:58:08+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c455099df9cf8ea771a533e5eb1e43f5c2b0eb4942ee9bf01747c35ba092299f",
+      "url": "https://www.themoscowtimes.com/2026/02/16/belgorod-sets-up-emergency-commissions-as-governor-warns-of-no-hot-water-until-april-a91960",
+      "title": "Belgorod Sets Up Emergency Commissions as Governor Warns of No Hot Water Until April",
+      "content_html": "The commissions will recalculate utility bills to ensure residents are not charged for services that were disrupted, authorities said.",
+      "date_published": "2026-02-16T14:54:32+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "647a2e444218ff47d3ac333cf5cc0b4fb449b9d4d3a5c2518c23197c964bcd7c",
+      "url": "https://www.theguardian.com/world/2026/feb/16/cyprus-appeals-reduce-water-use-reservoirs-record-lows-drought",
+      "title": "Cyprus appeals to residents to cut water use by two minutes a day amid drought",
+      "content_html": "<p>Island’s reservoirs hit record lows even before tourist season starts as Cypriots are warned ‘every drop counts’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/feb/16/marco-rubio-viktor-orban-hungary-ukraine-europe-france-germany-europe-live-news-updates\">Europe live – latest updates</a></p></li></ul><p>Authorities in Cyprus have urged residents to reduce their water intake by 10% – the equivalent of two minutes’ use of running water each day – as Europe’s most south-easterly nation grapples with a once-in-a century drought.</p><p>The appeal, announced alongside a €31m (£27m) package of emergency measures, comes as reservoirs hit record lows with little prospect of replenishment before the tourist season starts.</p> <a href=\"https://www.theguardian.com/world/2026/feb/16/cyprus-appeals-reduce-water-use-reservoirs-record-lows-drought\">Continue reading...</a>",
+      "date_published": "2026-02-16T14:49:31+00:00",
+      "authors": [
+        {
+          "name": "Helena Smith in Athens"
+        }
+      ],
+      "tags": [
+        "Cyprus",
+        "Drought",
+        "Water",
+        "Climate crisis",
+        "World news",
+        "Europe",
+        "Environment"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "eccab419ab593c336dd012154b624dedd1c66755ce11cc17759e9a28e82dc72b",
+      "url": "https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks?traffic_source=rss",
+      "title": "UN staffers back Francesca Albanese, condemn European ministers for attacks",
+      "content_html": "United Staff for Gaza, group of UN staffers, backs the special rapporteur after pro-Israel NGO floats disinformation.",
+      "date_published": "2026-02-16T14:49:16+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b7630f16507ffec315d3152f8d590e79a1c69089809c006caea54738ce740e3c",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/16/australian-women-and-children-released-from-syrian-detention-camp",
+      "title": "Australian women and children sent back to Syrian detention camp after initial release",
+      "content_html": "<p>The group of 34 – families of dead or jailed extremists – were prevented from returning to Australia by ‘poor coordination’ with Damascus</p><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p>Australian women and children held for years without charge were forced to return to a detention camp in northeast Syria on Monday after being released by Kurdish authorities for their expected repatriation to Australia.</p><p>The 34 women and children in the group are the wives, widows and children of dead or jailed <a href=\"https://www.theguardian.com/world/islamic-state\">Islamic State</a> fighters and were being held at al-Roj camp, which is controlled by the Kurdish-led Syrian Democratic Forces (SDF).</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/australian-women-and-children-released-from-syrian-detention-camp\">Continue reading...</a>",
+      "date_published": "2026-02-16T14:48:55+00:00",
+      "authors": [
+        {
+          "name": "William Christou and Ben Doherty"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Syria",
+        "Islamic State"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b1d6ccbe33cb051975b28f79ed2e649b616c6c3f2d090c1e91606b866382cfd1",
+      "url": "https://www.timesofisrael.com/new-postage-stamp-salutes-elite-idf-engineering-unit-yahalom/",
+      "title": "New postage stamp salutes elite IDF engineering unit Yahalom",
+      "content_html": "<p>Marking 30 years since establishment, unit has operated in Gaza, Lebanon and Syria, destroying tunnels, helping to rescue hostages and handling dangerous weapons and ammunition</p>\n<p>The post <a href=\"https://www.timesofisrael.com/new-postage-stamp-salutes-elite-idf-engineering-unit-yahalom/\">New postage stamp salutes elite IDF engineering unit Yahalom</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/85840000-1024x640.jpg\" title=\"New postage stamp salutes elite IDF engineering unit Yahalom\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T14:47:11+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "stamps",
+        "Israel Postal Company",
+        "Yahalom unit",
+        "Combat Engineering Corps",
+        "combat engineers"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "253133f68f3791e567963bf1af963660f0eb252a4abececb31485717ef480b75",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260216-russia-using-africans-as-cannon-fodder-in-ukraine-war-inpact-all-eyes-on-wagner",
+      "title": "Russia using Africans as 'cannon fodder' in Ukraine: INPACT/All Eyes on Wagner",
+      "content_html": "Russia is accused of \"aggressively recruiting\" people from across the African continent to fight on the front lines in Ukraine. The investigation unit INPACT/All Eyes on Wagner says it has evidence of nearly 1,500 soldiers from 35 countries who have been recruited by Russia, over 300 of whom who have been killed in battle. The organisation says the real numbers are probably far higher as Russia has set up a fraud travel agency to con people into travelling there with the promise of high salaries, only to find themselves serving in the Russian army. We spoke to Lou Osborn in Perspective.",
+      "date_published": "2026-02-16T14:43:39+00:00",
+      "authors": [
+        {
+          "name": "Stuart NORVAL"
+        }
+      ],
+      "tags": [
+        "Perspective"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a93112eed7b8ef594a7c6bebd842fa760abbad1b864447ab91bcdbd646ca87e4",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/16/starmer-vows-fast-track-social-media-law-under-16s-ban",
+      "title": "Starmer vows to fast-track social media law but says under-16s ban not definite",
+      "content_html": "<p>Prime minister says action will be taken on young people’s social media access in ‘months, not years’</p><ul><li><p><a href=\"https://www.theguardian.com/media/2026/feb/16/social-media-restrictions-keir-starmer-announced\">What social media restrictions has Keir Starmer announced?</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Keir Starmer has pledged action on young people’s access to social media in “months, not years”, while saying this did not necessarily mean a complete ban on access for under-16s.</p><p>Speaking at an event in London after the government <a href=\"https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban\">promised to extend</a> the crackdown to AI chatbots that place children at risk, Starmer said the issue was nuanced and that a ban was not definite, noting concerns from charities such as the NSPCC.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/16/starmer-vows-fast-track-social-media-law-under-16s-ban\">Continue reading...</a>",
+      "date_published": "2026-02-16T14:42:21+00:00",
+      "authors": [
+        {
+          "name": "Peter Walker Senior political correspondent"
+        }
+      ],
+      "tags": [
+        "Social media ban",
+        "Social media bans",
+        "UK news",
+        "Young people",
+        "Internet safety",
+        "Technology",
+        "Society",
+        "Keir Starmer",
+        "Labour",
+        "Politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "815b302017a0dbaa8db6bade2c90800cdcbbc64e35444177588c21ed431a33a1",
+      "url": "https://www.theguardian.com/society/2026/feb/16/government-cancels-plan-to-delay-local-council-elections-in-england",
+      "title": "Government cancels plan to delay local council elections in England",
+      "content_html": "<p>Polls in 30 areas had been due to be postponed as part of the government’s shake-up of English councils</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Ministers have dropped controversial plans to delay <a href=\"https://www.theguardian.com/politics/2026/jan/15/more-than-20-england-council-elections-likely-to-be-delayed-until-2027\">30 local elections</a> this May after receiving legal advice that doing so might not be lawful.</p><p>The government had planned to delay a number of elections in England while they carry out a reorganisation of local authorities, which is likely to lead to some authorities merging or being subsumed into others. Ministers argued against holding elections for councils that might cease to exist in a year or two.</p> <a href=\"https://www.theguardian.com/society/2026/feb/16/government-cancels-plan-to-delay-local-council-elections-in-england\">Continue reading...</a>",
+      "date_published": "2026-02-16T14:41:43+00:00",
+      "authors": [
+        {
+          "name": "Kiran Stacey  Policy editor"
+        }
+      ],
+      "tags": [
+        "Local government",
+        "UK news",
+        "England",
+        "Politics",
+        "Labour"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d4b08839e1965fd211b000eafdd3a9e041df89bd88e960f678fc29fcd1e7687b",
+      "url": "https://www.aljazeera.com/news/2026/2/16/israel-to-restart-land-registration-in-west-bank-what-that-means?traffic_source=rss",
+      "title": "Israel to restart land registration in West Bank. What that means",
+      "content_html": "The land registration process will apply to Area C of the occupied West Bank, which is under complete Israeli control.",
+      "date_published": "2026-02-16T14:41:13+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "03646aab9fc103be2c2c26ba38bd3d836a1af7531bdf2ca97c2ba9e424abfb45",
+      "url": "https://www.ukrinform.net/rubric-polytics/4092050-czech-president-calls-for-increased-pressure-on-russia-and-more-assistance-to-ukraine.html",
+      "title": "Czech President calls for increased pressure on Russia and more assistance to Ukraine",
+      "content_html": "Russia continues to put forward maximalist demands to end the war, so partners must increase pressure on the Kremlin and provide greater support to Kyiv.",
+      "date_published": "2026-02-16T14:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c4ae61e149784f117fed874aa9d15a28999613ca6bda7543c8f8981160c4d48f",
+      "url": "https://www.timesofisrael.com/rubio-to-hungarys-pm-orban-ahead-of-election-your-success-is-our-success/",
+      "title": "Rubio to Hungary’s PM Orban ahead of election: ‘Your success is our success’",
+      "content_html": "<p>Top US diplomat's meetings with populist leaders of Hungary and Slovakia come on heels of his call in Munich confab for Europeans to get on board with Trump's immigration agenda</p>\n<p>The post <a href=\"https://www.timesofisrael.com/rubio-to-hungarys-pm-orban-ahead-of-election-your-success-is-our-success/\">Rubio to Hungary&#8217;s PM Orban ahead of election: &#8216;Your success is our success&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260216__97PW2TK__v1__HighRes__HungaryUsPoliticsDiplomacy-e1771246004762-1024x640.jpg\" title=\"Rubio to Hungary&#8217;s PM Orban ahead of election: &#8216;Your success is our success&#8217;\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T14:36:41+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Viktor Orban",
+        "Marco Rubio",
+        "Robert Fico",
+        "Donald Trump",
+        "Hungary"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a404fd934376d26afc42840cf3634b6e7c3e3742da12c2f150452bb720ebb263",
+      "url": "https://www.theguardian.com/business/2026/feb/16/kpmg-partner-fined-artificial-intelligence-ai-training-test",
+      "title": "KPMG partner fined for using artificial intelligence to cheat in AI training test",
+      "content_html": "<p>Firm says person fined A$10,000 is one of over two dozen staff in Australia caught using AI in exams since July</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Business live – latest updates</a></p></li></ul><p>A partner at the consultancy KPMG has been fined for using artificial intelligence to cheat during an internal training course on AI.</p><p>The unnamed partner was fined A$10,000 (£5,200) for using the technology to cheat, one of a number of staff reportedly using the tactic.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/kpmg-partner-fined-artificial-intelligence-ai-training-test\">Continue reading...</a>",
+      "date_published": "2026-02-16T14:36:02+00:00",
+      "authors": [
+        {
+          "name": "Aisha Down"
+        }
+      ],
+      "tags": [
+        "KPMG",
+        "Accountancy",
+        "Business",
+        "AI (artificial intelligence)",
+        "Technology",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c00b43bbc6e6adcd1be20102bc73ce75d24520ec69ad0635cb0099a621a6dbf8",
+      "url": "https://ici.radio-canada.ca/nouvelle/2229419/iran-exercice-militaire-negociations-trump",
+      "title": "L’Iran mène des exercices militaires à la veille de pourparlers avec les États-Unis",
+      "content_html": "<p>Ces exercices ont eu lieu dans le détroit d&#x27;Ormuz, où transite 20&nbsp;% de la production mondiale de pétrole.</p>",
+      "date_published": "2026-02-16T14:34:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "2525bf31361ab0ce99686212e6889d2ea278de0c6fd7da311b52c95b4f6230da",
       "url": "https://www.lemonde.fr/international/article/2026/02/16/dana-eden-productrice-israelienne-de-la-serie-teheran-retrouvee-morte-a-athenes_6666966_3210.html",
       "title": "Dana Eden, productrice israélienne de la série « Téhéran », retrouvée morte à Athènes",
@@ -73,6 +595,22 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
+    },
+    {
+      "id": "8b6494b07bad83599868d5b8762868d001104b2d09b5329974dd47e93e31c829",
+      "url": "https://www.aljazeera.com/sports/2026/2/16/real-madrid-play-benfica-in-champions-league-playoff-team-news-and-lineups?traffic_source=rss",
+      "title": "Real Madrid play Benfica in Champions League playoff: Team news and lineups",
+      "content_html": "All to know as Benfica host 15-time champion Real Madrid in the opening leg of the UEFA Champions League knockout phase.",
+      "date_published": "2026-02-16T14:23:09+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
     },
     {
       "id": "16047ac889e4ad17913e720c344114f3a80fc1fa2f997b2e149b914931e373bb",
@@ -95,6 +633,22 @@
       "lang": "en"
     },
     {
+      "id": "89543b19ca6374446b84a6e5178f11cb2e5b77d85f35a126b1faac4daffb8b37",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/savannah-guthrie-appeals-to-moms-abductor-its-not-too?traffic_source=rss",
+      "title": "Savannah Guthrie appeals to mom’s abductor: ‘It’s not too late’",
+      "content_html": "NBC host Savannah Guthrie issued a new appeal on her Instagram to whoever abducted her mother, 84-year-old Nancy Guthrie",
+      "date_published": "2026-02-16T14:21:05+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "39fd2e594d299c757bd0ad1ca03f172041ddd2dc1bc4a924df3c21242f90f5dc",
       "url": "https://www.ukrinform.net/rubric-ato/4092045-russia-increases-its-nuclear-and-arctic-assets-near-finnish-border-defense-minister.html",
       "title": "Russia increases its nuclear and Arctic assets near Finnish border – defense minister",
@@ -107,6 +661,20 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ea24712a2b6aed03012832f2f38077bd8b0638bcab55bd9d2d4fb11bbe15738c",
+      "url": "https://www.bbc.com/news/articles/cvg39g3xp1wo?at_medium=RSS&at_campaign=rss",
+      "title": "Five injured as Swiss train derails in heavy snow",
+      "content_html": "One passenger was taken to hospital after the derailment, which police say could have been caused by an avalanche.",
+      "date_published": "2026-02-16T14:17:20+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -391,61 +959,6 @@
       "lang": "fr"
     },
     {
-      "id": "2fbb64436fad474d42b3682b6b8431426c814de18d01ae41f8f61915da728e41",
-      "url": "https://www.theguardian.com/politics/2026/feb/16/cabinet-office-looking-into-labour-together-report-claims-says-minister",
-      "title": "Cabinet Office looking into Starmer-linked thinktank after it investigated journalists",
-      "content_html": "<p>Liz Kendall says officials will be ‘establishing the facts’ about report that made false claims about journalists</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates\">UK politics live – latest updates</a></p></li></ul><p>The Cabinet Office is examining the commissioning of a report that made false claims about journalists who were investigating Labour Together, the thinktank closely linked to Keir Starmer, a cabinet minister has said.</p><p>Liz Kendall, the science and technology secretary, indicated it would not be a formal inquiry, as <a href=\"https://www.theguardian.com/politics/2026/feb/15/labour-together-thinktank-inquiry-calls-journalists-investigation-keir-starmer\">demanded by the Conservatives</a> and some Labour MPs, noting that the trade association for the PR industry was carrying out such an investigation.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/16/cabinet-office-looking-into-labour-together-report-claims-says-minister\">Continue reading...</a>",
-      "date_published": "2026-02-16T13:58:15+00:00",
-      "authors": [
-        {
-          "name": "Peter Walker Senior political correspondent"
-        }
-      ],
-      "tags": [
-        "Labour",
-        "Thinktanks",
-        "Liz Kendall",
-        "Politics",
-        "UK news",
-        "Press freedom",
-        "Media"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0e7b3e16141a80679e24eaea44d0d29811e405152bdac1cfe39e28a88ef07d87",
-      "url": "https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates",
-      "title": "New rules on social media could target ‘doomscrolling’ and ban for under-16s, Starmer says – UK politics live",
-      "content_html": "<p>Prime minister says outcomes of consultation on social media ban should be implemented quickly as technology minister says Australia-style ban is not inevitable</p><p>In his Q&amp;A with journalists, <strong>Keir Starmer</strong> was also asked to respond to<a href=\"https://www.bbc.co.uk/news/articles/cpqwl10lvr2o\"> a report</a> by the BBC’s James Landale saying he is looking at plans to raise defence spending to 3% of GDP by the end of this parliament. In the past Starmer has just said that he would like to do this at some point in the next parliament.</p><p>In his reply, Starmer said that at the Munich Security Conference over the weekend he was arguing that the UK, and Europe as a whole, needs to “step up”.</p><p>We want a just and lasting peace, but that will not extinguish the Russian threat, and we need to be alert to that, because that’s going to affect every single person in this room, every single person in this country, so we need to step up.</p><p>That means, on defence spending, we need to go faster.</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-16T13:57:11+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Keir Starmer",
-        "Liz Kendall",
-        "Social media",
-        "Social media ban",
-        "Internet safety",
-        "Children",
-        "Defence policy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b215837b572b509203f9970af932c270dc67132cf8b6316b14521c772756da94",
       "url": "https://www.ukrinform.net/rubric-ato/4092030-russians-shell-hospital-in-kherson-medical-workers-injured-destruction-reported.html",
       "title": "Russians shell hospital in Kherson: Medical workers injured, destruction reported",
@@ -464,7 +977,7 @@
     {
       "id": "47f35dc4994f807576d329dc1b0aa557b0875891bf3038b2b839e46d0c4a923a",
       "url": "https://ici.radio-canada.ca/nouvelle/2229411/incitatif-vehicule-electrique-concessionnaire-inquiet",
-      "title": "Le retour d’incitatifs financiers pour acheter des VÉ inquiète les concessionnaires",
+      "title": "Le retour d’incitatifs financiers pour acheter des VE inquiète les concessionnaires",
       "content_html": "<p>Certains disent avoir encore des dizaines de milliers de dollars à récupérer en vertu de l&#x27;ancien programme. </p>",
       "date_published": "2026-02-16T13:51:33+00:00",
       "authors": [],
@@ -512,7 +1025,7 @@
     {
       "id": "38a3559ee7ddf3d86e9667d91b752e67e48e2dd793f9c11ccc11ed9886a5ee83",
       "url": "https://elpais.com/internacional/2026-02-16/un-grupo-proisraeli-logra-que-el-british-museum-retire-el-termino-palestina-en-su-sala-de-oriente-proximo.html",
-      "title": "Un groupe pro-israélien demande au British Museum de supprimer le terme Palestine de sa salle Moyen-Orient",
+      "title": "Un groupe pro-israélien demande au British Museum de retirer le terme Palestine de sa salle Moyen-Orient",
       "content_html": "Façade du British Museum de Londres.",
       "date_published": "2026-02-16T13:47:57+00:00",
       "authors": [
@@ -620,34 +1133,6 @@
       "lang": "en"
     },
     {
-      "id": "9027d219bd2d5c807df854dc422ec6810013288a867d75c747868128100231d7",
-      "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
-      "title": "UK consumer sentiment takes a tumble; bad weather threaten fruit supplies but boosts Morocco’s wheat crop – business live",
-      "content_html": "<p>Rolling coverage of the latest economic and financial news, as UK households grow more worried about debts</p><p><strong>UK consumer sentiment continued to sink this month, as households grow more worried about debt levels.</strong></p><p>A poll of consumer confidence from data firm <strong>S&amp;P Global</strong> has found that morale continued to drop in February, although not as quickly as in January.</p><p>Consumers signal stronger rise in debt alongside a quicker deterioration in loan availability</p><p>Appetite for major spending recedes to weakest in ten months</p><p>Sentiment regarding labour market conditions at lowest since last June</p><p>“The mood among UK households matches the dismal weather seen so far this year across the country. Although the overall degree of gloom has lifted slightly since January, consumer confidence continues to run at one of the lowest levels seen over the past two years.</p><p>A period of prolonged rain and a dearth of sunshine have no doubt not helped to lift the low spirits seen among households, but there’s more going on here than just bad weather. Households are growing increasingly worried about debt in particular, especially as a rising need for credit was met with the steepest decline in availability of loans since August 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-16T13:39:12+00:00",
-      "authors": [
-        {
-          "name": "Graeme Wearden"
-        }
-      ],
-      "tags": [
-        "Business",
-        "Economics",
-        "Stock markets",
-        "FTSE",
-        "House prices",
-        "Japan",
-        "UK news",
-        "World news",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b7246c6e393fb93924a3310467e720d70f0e2cbb7a93cbae201fcb7242d66b3d",
       "url": "https://www.ukrinform.net/rubric-ato/4092026-russians-attempt-to-create-pincers-to-encircle-pokrovsk-agglomeration-military.html",
       "title": "Russians attempt to create 'pincers' to encircle Pokrovsk agglomeration – military",
@@ -662,20 +1147,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "2d6c86fb49c58d3802ed00b3749fd48d0bdb61483598541454e151c17852c190",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2229391/patinage-vitesse-courte-piste-sarault-brunelle-dandjinou",
-      "title": "Courtney Sarault s’éclate à Milan, où elle décroche une troisième médaille",
-      "content_html": "<p>La patineuse de vitesse canadienne a remporté la médaille d&#x27;argent lundi au 1000&nbsp;m. </p>",
-      "date_published": "2026-02-16T13:37:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "a4bc5cd142cf0de0db14f363156299ff112ff4ae81b22467564ff472029a317f",
@@ -799,32 +1270,6 @@
       "lang": "en"
     },
     {
-      "id": "647a2e444218ff47d3ac333cf5cc0b4fb449b9d4d3a5c2518c23197c964bcd7c",
-      "url": "https://www.theguardian.com/world/2026/feb/16/cyprus-appeals-reduce-water-use-reservoirs-record-lows-drought",
-      "title": "Cyprus appeals to residents to cut water use amid once-in-a-century drought",
-      "content_html": "<p>Island’s reservoirs hit record lows even before tourist season starts as Cypriots are warned ‘every drop counts’</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/feb/16/marco-rubio-viktor-orban-hungary-ukraine-europe-france-germany-europe-live-news-updates\">Europe live – latest updates</a></p></li></ul><p>Authorities in Cyprus have urged residents to reduce their water intake by 10% – the equivalent of two minutes’ use of running water each day – as Europe’s most south-easterly nation grapples with a once-in-a century drought.</p><p>The appeal, announced alongside a €31m (£27m) package of emergency measures, comes as reservoirs hit record lows with little prospect of replenishment before the tourist season starts.</p> <a href=\"https://www.theguardian.com/world/2026/feb/16/cyprus-appeals-reduce-water-use-reservoirs-record-lows-drought\">Continue reading...</a>",
-      "date_published": "2026-02-16T13:21:18+00:00",
-      "authors": [
-        {
-          "name": "Helena Smith in Athens"
-        }
-      ],
-      "tags": [
-        "Cyprus",
-        "Drought",
-        "Water",
-        "Climate crisis",
-        "World news",
-        "Europe",
-        "Environment"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "baf84708872dacdc446ca9bd9e9da8b5f2f46df807d7e9798404e31406168a91",
       "url": "https://www.timesofisrael.com/shutting-down-buzz-obama-says-no-evidence-aliens-have-made-contact/",
       "title": "Shutting down buzz, Obama says no evidence aliens have made contact",
@@ -902,7 +1347,7 @@
     {
       "id": "44d3d6c940c5cd7d9a0e5b32c971851488eb3f9409784f78e0a9c57fdb27388e",
       "url": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
-      "title": "Mother of Alexei Navalny says poison finding confirms he was murdered",
+      "title": "Navalny's mother says she always knew he was murdered after poison finding",
       "content_html": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
       "date_published": "2026-02-16T13:01:28+00:00",
       "authors": [],
@@ -960,7 +1405,7 @@
       "id": "448bb0861c3646f2834dba0f39cdc3ac5ca1e30058b342e6dd974e405e601dea",
       "url": "https://www.theguardian.com/business/2026/feb/16/john-paulson-conn-selmer-ohio-factory-china-trump",
       "title": "Trump donor who criticized offshoring to close Ohio plant and move work to China",
-      "content_html": "<p>Workers decried John Paulson’s plan after billionaire painted himself as advocate for domestic manufacturing</p><p>John Paulson, a hedge fund billionaire and one of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s earliest Wall Street backers, is planning to offshore an <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a> manufacturing plant to <a href=\"https://www.theguardian.com/world/china\">China</a> despite heavy pushback from employees.</p><p>Workers at the plant call the move “a slap in our face”, after Paulson vocally defended domestic manufacturing, and are fighting to keep the plan open.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/john-paulson-conn-selmer-ohio-factory-china-trump\">Continue reading...</a>",
+      "content_html": "<p>Workers decried John Paulson’s plan after billionaire painted himself as advocate for domestic manufacturing</p><p>John Paulson, a hedge fund billionaire and one of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s earliest Wall Street backers, is planning to offshore an <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a> manufacturing plant to <a href=\"https://www.theguardian.com/world/china\">China</a> despite heavy pushback from employees.</p><p>Workers at the plant call the move “a slap in our face”, after Paulson vocally defended domestic manufacturing, and are fighting to keep the plant open.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/john-paulson-conn-selmer-ohio-factory-china-trump\">Continue reading...</a>",
       "date_published": "2026-02-16T13:00:28+00:00",
       "authors": [
         {
@@ -1285,31 +1730,6 @@
       "lang": "en"
     },
     {
-      "id": "06c30a300618ca940bf7d1036da1c5b5ef85d4a97f8e53193b6ee8adf723c401",
-      "url": "https://www.theguardian.com/business/2026/feb/16/uk-finances-debts-survey-consumer-confidence",
-      "title": "Britons feeling ‘dismal’ about finances amid mounting debts, survey finds",
-      "content_html": "<p>Consumer confidence at its lowest level in two years, as young people in particular face money pressures</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Business live – latest updates</a></p></li></ul><p>The mood among UK households about their finances is “dismal”, according to research which suggested consumer spending remains sluggish and debts are mounting.</p><p>Consumer confidence in the UK is running at its lowest level in two years, a <a href=\"https://www.pmi.spglobal.com/Public/Home/PressRelease/bd131f7e2fea4beea1675ea351a30a34?s=1\">survey</a> by S&amp;P Global found, as households worry about their debts, their future financial prospects, and their savings.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/uk-finances-debts-survey-consumer-confidence\">Continue reading...</a>",
-      "date_published": "2026-02-16T12:38:43+00:00",
-      "authors": [
-        {
-          "name": "Tom Knowles"
-        }
-      ],
-      "tags": [
-        "Economics",
-        "Retail industry",
-        "Business",
-        "UK news",
-        "Borrowing & debt",
-        "Money"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6a8bbbd25c3c31fcac16fe4188d93a40678bff462fe4eda9d1e70f90ad079e7a",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/rights-groups-condemn-israeli-plan-for-de-facto-annexation-of-west-bank?traffic_source=rss",
       "title": "Rights groups condemn Israeli plan for ‘de facto annexation’ of West Bank",
@@ -1489,7 +1909,7 @@
       "id": "c2d9ce9f4d7ccfcaea551ed9fb3748e7631ffbfec2046d5309180d4fd7a808b3",
       "url": "https://www.lemonde.fr/international/live/2026/02/16/en-direct-guerre-en-ukraine-german-galushchenko-ex-ministre-de-l-energie-soupconne-de-blanchiment-d-argent-a-ete-arrete-alors-qu-il-tentait-de-fuir-le-pays_6666820_3210.html",
       "title": "EN DIRECT, guerre en Ukraine : avant un nouveau cycle de négociations, Volodymyr Zelensky répète l’importance de garanties de sécurité « claires » pour Kiev",
-      "content_html": "Le président ukrainien, Volodymyr Zelensky, à la 62ᵉ Conférence de Munich sur la sécurité, sur une photo diffusée le 14 février 2026 par le service de presse de la présidence ukrainienne.",
+      "content_html": "Le président ukrainien, Volodymyr Zelensky, à la 62ᵉ Conférence de Munich sur la sécurité, sur une photo diffusée le 14 février 2026 par le service de presse de la présidence ukrainienne.",
       "date_published": "2026-02-16T12:20:24+00:00",
       "authors": [],
       "tags": [],
@@ -1544,8 +1964,8 @@
     {
       "id": "b1a4de9921cfea138c867fdcf0b1361c475e745129d7db948bb1ed1dce4df2fe",
       "url": "https://ici.radio-canada.ca/nouvelle/2229403/operation-sauvetage-grc-surete-quebec-frontiere",
-      "title": "Plusieurs personnes secourues près de la frontière lors d’une opération menée par la GRC",
-      "content_html": "<p>La Sûreté du Québec a prêté assistance à la Gendarmerie royale du Canada pour une opération de sauvetage.</p>",
+      "title": "La GRC intercepte quatre personnes qui tentaient d’entrer illégalement au Canada",
+      "content_html": "<p>Ils ont tenté d&#x27;entrer illégalement au Canada depuis les États-Unis dans la nuit de dimanche à lundi.</p>",
       "date_published": "2026-02-16T12:19:45+00:00",
       "authors": [],
       "tags": [],
@@ -1820,7 +2240,7 @@
     {
       "id": "df010c217f1c590126b9208a65efa5a4a5efb8171641569f7094d29bdbfe8cdb",
       "url": "https://www.france24.com/en/france/20260216-french-government-blames-hard-left-for-stoking-tensions-that-lead-to-killing-of-far-right-activist",
-      "title": "French government blames hard left for stoking tensions that led to killing of far-right activist",
+      "title": "French government blames hard left for 'climate of violence' after killing of far-right activist",
       "content_html": "France's government on Monday said politicians on the hard left had \"encouraged a climate of violence\" that made them partially responsible for the death of 23-year-old Quentin Deranque, a far-right activist who was attacked on the sidelines of a protest in Lyon last week.",
       "date_published": "2026-02-16T11:53:10+00:00",
       "authors": [
@@ -2064,27 +2484,6 @@
       "lang": "en"
     },
     {
-      "id": "b23b33e9ad015859479b942b26ee821674ce3260b4ce07dd1429ca0f36e935eb",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb",
-      "title": "Gus Lamont: South Australia police search home for new evidence as 75-year-old arrested on unrelated gun charges",
-      "content_html": "<p>Gus went missing on 27 September from Oak Park Station, where South Australia police have begun a two-day search for evidence</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>South Australian police have arrested a 75-year-old on unrelated firearm offences as they launch a new search for evidence during the investigation into missing four-year-old Gus Lamont.</p><p>Gus, short for “August”, <a href=\"https://www.theguardian.com/australia-news/2025/nov/29/four-year-old-gus-lamont-disappeared-from-his-homestead-into-the-australian-outback-two-months-on-questions-remain\">went missing on 27 September 2025</a> from his family’s remote sheep station, sparking one of the biggest and most intense searches in South Australia’s history.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-02-16T11:18:32+00:00",
-      "authors": [
-        {
-          "name": "Tory Shepherd"
-        }
-      ],
-      "tags": [
-        "South Australia",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4d7a76d4c859db51342b6ea5036f4ee3453a6cf6c753a6816eaa968bd0d1d2ff",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/israeli-police-clash-with-ultra-orthodox-protesters-over-army-enlistment?traffic_source=rss",
       "title": "Israeli police clash with ultra-Orthodox protesters over army enlistment",
@@ -2227,30 +2626,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "008d66fe40e3f8ba2e519566410731b7cf4b9951b2c48d0ce879acb6bf4c272d",
-      "url": "https://elpais.com/internacional/2026-02-16/el-asesinato-de-un-militante-de-ultraderecha-en-francia-pone-en-la-diana-politica-al-partido-de-jean-luc-melenchon.html",
-      "title": "L'assassinat d'un militant d'extrême droite en France place le parti de Jean-Luc Mélenchon dans la cible politique",
-      "content_html": "Des dizaines de personnes brandissent une banderole pour protester contre le meurtre de Quentin D., dimanche, place de la Sorbonne, à Paris.",
-      "date_published": "2026-02-16T11:03:16+00:00",
-      "authors": [
-        {
-          "name": "Daniel Verdú"
-        }
-      ],
-      "tags": [
-        "Jean-Luc Mélenchon",
-        "Extrema izquierda",
-        "Francia",
-        "Emmanuel Macron",
-        "Violencia"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "42c7220cb24b8189b8c086520bc86067e2dc65518af63fd334f36f713972aec9",
@@ -2487,28 +2862,6 @@
       "lang": "en"
     },
     {
-      "id": "b7630f16507ffec315d3152f8d590e79a1c69089809c006caea54738ce740e3c",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/16/australian-women-and-children-released-from-syrian-detention-camp",
-      "title": "Australian women and children released from Syrian detention camp",
-      "content_html": "<p>The group of 34 – families of dead or jailed extremists – could return to Australia after being held since 2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian women and children held for years without charge in a squalid detention camp in north-east Syria have been released ahead of their expected repatriation to Australia.</p><p>The 34 women and children in the group are the wives, widows and children of dead or jailed <a href=\"https://www.theguardian.com/world/islamic-state\">Islamic State</a> fighters.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/australian-women-and-children-released-from-syrian-detention-camp\">Continue reading...</a>",
-      "date_published": "2026-02-16T10:38:17+00:00",
-      "authors": [
-        {
-          "name": "William Christou and Ben Doherty"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Syria",
-        "Islamic State"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "518eddeedff65d66444d81b39c532968a9a1a3bdbb2e65ba2d97857cd1d9bac1",
       "url": "https://www.dw.com/en/alexei-navalny-supporters-mark-two-years-since-death/a-75986171?maca=en-rss-en-all-1573-rdf",
       "title": "Alexei Navalny: Supporters mark two years since death",
@@ -2700,27 +3053,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "53107223bf6c354070969f690bba962f5e2df04c96d36d5d9b82994835387b26",
-      "url": "https://www.timesofisrael.com/spotlight/wake-up-to-the-mediterranean-tel-aviv-apartments-mere-steps-from-the-sea-2/",
-      "title": "Wake up to the Mediterranean: Tel Aviv apartments, mere steps from the sea - Sponsored Content",
-      "content_html": "<p>New Tel Aviv project in their presale phase. Full permits in hand. Complimentary design package Included. Construction begins this April.</p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/wake-up-to-the-mediterranean-tel-aviv-apartments-mere-steps-from-the-sea-2/\">Wake up to the Mediterranean: Tel Aviv apartments, mere steps from the sea</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/map2-1024x640.jpg\" title=\"Wake up to the Mediterranean: Tel Aviv apartments, mere steps from the sea\" width=\"160\" /></figure>",
-      "date_published": "2026-02-16T10:03:05+00:00",
-      "authors": [],
-      "tags": [
-        "Real Estate Israel",
-        "real estate in tel aviv",
-        "aliyah",
-        "apartment buildings",
-        "luxury living",
-        "construction and housing"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3014,27 +3346,6 @@
       "lang": "en"
     },
     {
-      "id": "8ac5f41aaa2e5fbfd9f1ed08b33de9c47301071f8fa8525e69b90a52edc90780",
-      "url": "https://www.timesofisrael.com/prosecutors-said-set-to-indict-settler-accused-of-killing-palestinian-activist/",
-      "title": "Prosecutors said set to indict settler accused of killing Palestinian activist",
-      "content_html": "<p>Yinon Levy reportedly to be charged with reckless homicide, with maximum sentence of 12 years, for shooting of Awdah Hathaleen during clash in West Bank village</p>\n<p>The post <a href=\"https://www.timesofisrael.com/prosecutors-said-set-to-indict-settler-accused-of-killing-palestinian-activist/\">Prosecutors said set to indict settler accused of killing Palestinian activist</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/02/F240214YS20-e1708671681491-1024x640.jpg\" title=\"Prosecutors said set to indict settler accused of killing Palestinian activist\" width=\"160\" /></figure>",
-      "date_published": "2026-02-16T09:02:07+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "settler violence",
-        "Masafer Yatta",
-        "South Hebron Hills",
-        "West Bank",
-        "Umm al-Khair"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6d1ecacf8389682a5082a7a07e740cb9f9855596e666e189b314895a347a6040",
       "url": "https://www.lemonde.fr/international/article/2026/02/16/suisse-deraillement-d-un-train-a-goppenstein-la-police-affirme-qu-il-y-a-probablement-des-blesses_6666938_3210.html",
       "title": "Suisse : un train a déraillé à Goppenstein, faisant cinq blessés, selon la police",
@@ -3174,26 +3485,6 @@
       "lang": "en"
     },
     {
-      "id": "c752ea3df6521e57b7a526e70fe203a3b4364aa07f6d2814ca8fb4e48753c99e",
-      "url": "https://www.timesofisrael.com/award-winning-tehran-producer-found-dead-in-athens-hotel-room/",
-      "title": "Award-winning ‘Tehran’ producer found dead in Athens hotel room",
-      "content_html": "<p>Dana Eden, 52, was in Greek capital to oversee filming of hit drama series' fourth season</p>\n<p>The post <a href=\"https://www.timesofisrael.com/award-winning-tehran-producer-found-dead-in-athens-hotel-room/\">Award-winning &#8216;Tehran&#8217; producer found dead in Athens hotel room</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/0099-1024x640.jpg\" title=\"Award-winning &#8216;Tehran&#8217; producer found dead in Athens hotel room\" width=\"160\" /></figure>",
-      "date_published": "2026-02-16T08:41:35+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "Athens",
-        "israeli tv shows",
-        "Kan",
-        "Tehran TV series"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b98b2ccc100a5f550f62c08db097e5e9209c1dc71cb272ca61e89d7328acaa56",
       "url": "https://www.ukrinform.net/rubric-ato/4091876-air-defense-neutralizes-two-zircon-missiles-and-52-russian-drones.html",
       "title": "Air Defense neutralizes two Zircon missiles and 52 Russian drones",
@@ -3210,23 +3501,33 @@
       "lang": "en"
     },
     {
-      "id": "acb8b5f2406ba3481e1492b834d8b70a3df932f908c28c9efeef8154472e46d4",
-      "url": "https://www.timesofisrael.com/bennett-and-deri-spar-after-mob-attacks-female-soldiers-in-bnei-brak/",
-      "title": "Bennett and Deri spar after mob attacks female soldiers in Bnei Brak",
-      "content_html": "<p>Former PM visits city, accuses coalition of turning blind eye to ultra-Orthodox incitement against joining army; Shas leader calls for restraining order against him</p>\n<p>The post <a href=\"https://www.timesofisrael.com/bennett-and-deri-spar-after-mob-attacks-female-soldiers-in-bnei-brak/\">Bennett and Deri spar after mob attacks female soldiers in Bnei Brak</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2016/10/F161031YS109-1024x640.jpg\" title=\"Bennett and Deri spar after mob attacks female soldiers in Bnei Brak\" width=\"160\" /></figure>",
-      "date_published": "2026-02-16T08:27:20+00:00",
-      "authors": [],
+      "id": "003a4ef345aeb2d2b1fe7a3c7ff8ae3f29c308ce4b4832791f527207b970b6e1",
+      "url": "https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt",
+      "title": "TikTok creator ByteDance vows to curb AI video tool after Disney threat",
+      "content_html": "<p>Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Business live – latest updates</a></p></li></ul><p>ByteDance, the Chinese technology company behind TikTok, has said it will restrain its AI video-making tool, after threats of legal action from Disney and a backlash from other media businesses, according to reports.</p><p>The AI video generator Seedance 2.0, released last week, has spooked Hollywood as users create realistic clips of movie stars and superheroes with just a short text prompt.</p> <a href=\"https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt\">Continue reading...</a>",
+      "date_published": "2026-02-16T08:25:10+00:00",
+      "authors": [
+        {
+          "name": "Lauren Almeida"
+        }
+      ],
       "tags": [
-        "Israel Inside",
-        "Aryeh Deri",
-        "Naftali Bennett",
-        "ultra-Orthodox draft",
-        "Bnei Brak",
-        "Yisrael Eichler"
+        "AI (artificial intelligence)",
+        "TikTok",
+        "Technology",
+        "Technology sector",
+        "Business",
+        "Walt Disney Company",
+        "Film industry",
+        "Film",
+        "UK news",
+        "US news",
+        "China",
+        "World news"
       ],
       "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3357,38 +3658,6 @@
       "lang": "en"
     },
     {
-      "id": "1a1a5abe6ee89b5b9d64613726410fddcbd2f85bebac74cf10839f2b80e32869",
-      "url": "https://www.aljazeera.com/news/2026/2/16/bytedance-pledges-fixes-to-seedance-2-0-after-hollywood-copyright-claims?traffic_source=rss",
-      "title": "ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims",
-      "content_html": "Hollywood groups say the AI video generator uses the likeness of actors and others without permission.",
-      "date_published": "2026-02-16T07:44:11+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "eb689553e6dbca0d7fb2389eb5eeba634cc65a337cc243d3db3ef4b43c6fc8ab",
-      "url": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss",
-      "title": "Iran FM in Geneva for US talks, as Guards hold drills in Strait of Hormuz",
-      "content_html": "Iran&#039;s top diplomat says he hopes to &#039;achieve fair and equitable deal&#039; in high-stakes second round of talks on Tuesday.",
-      "date_published": "2026-02-16T07:40:50+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "34762eb2e9328eb41afe97a48265bdd652c78a8304423f998bb13aa9b3996c57",
       "url": "https://www.ukrinform.net/rubric-ato/4091853-russian-shelling-of-kherson-region-leaves-two-injured-over-past-day.html",
       "title": "Russian shelling of Kherson region leaves two injured over past day",
@@ -3401,28 +3670,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f5eb3f543958b8e000a7d714515d63f93b4d183d27ebc9462b7491225f8a8e61",
-      "url": "https://www.timesofisrael.com/channel-13s-looming-sale-ignites-fears-of-political-meddling-and-regulatory-evasion/",
-      "title": "Channel 13’s looming sale ignites fears of political meddling and regulatory evasion",
-      "content_html": "<p>Israeli TV channel's owner Blavatnik rejects a higher bid in favor of one from media tycoon Drahi, who is seen as close to Prime Minister Netanyahu</p>\n<p>The post <a href=\"https://www.timesofisrael.com/channel-13s-looming-sale-ignites-fears-of-political-meddling-and-regulatory-evasion/\">Channel 13&#8217;s looming sale ignites fears of political meddling and regulatory evasion</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/2XK5G58-1024x640.jpg\" title=\"Channel 13&#8217;s looming sale ignites fears of political meddling and regulatory evasion\" width=\"160\" /></figure>",
-      "date_published": "2026-02-16T07:35:26+00:00",
-      "authors": [],
-      "tags": [
-        "Tech Israel",
-        "Channel 13",
-        "Reshet",
-        "Israeli media",
-        "Len Blavatnik",
-        "Patrick Drahi",
-        "Israeli press"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3455,22 +3702,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f31a80ab5e07397bf1891559d56fba80482b69cf2a4e31c9cf6d9224249058ee",
-      "url": "https://www.aljazeera.com/news/2026/2/16/when-is-ramadan-2026-and-how-is-the-moon-sighted?traffic_source=rss",
-      "title": "When is Ramadan 2026, and how is the moon sighted?",
-      "content_html": "The first day of fasting for the Muslim holy month of Ramadan in Mecca will likely be Thursday, February 19.",
-      "date_published": "2026-02-16T07:10:11+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3560,22 +3791,6 @@
       "lang": "en"
     },
     {
-      "id": "e2bfdfaf9a64011dbe8566e455752d8c651977fe039bc69d130d48e816af2168",
-      "url": "https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push?traffic_source=rss",
-      "title": "UK’s Starmer announces crackdown on AI chatbots in child safety push",
-      "content_html": "PM seeks powers to act quickly on a consultation considering an Australia-style social media ban for children below 16.",
-      "date_published": "2026-02-16T06:44:38+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "49c6c5fbff126f158f686cd6ba042e3cbbecf62d5c58f917281739c7c3ec9748",
       "url": "https://www.ukrinform.net/rubric-ato/4091841-russians-strike-33-settlements-in-sumy-region-over-past-day-injuring-three-civilians.html",
       "title": "Russians strike 33 settlements in Sumy region over past day, injuring three civilians",
@@ -3592,26 +3807,10 @@
       "lang": "en"
     },
     {
-      "id": "26ff4278b89239610087371c4108e4b39cb6a3663a601f2983606780752270f9",
-      "url": "https://www.aljazeera.com/opinions/2026/2/16/indonesias-gaza-gamble?traffic_source=rss",
-      "title": "Indonesia’s Gaza gamble",
-      "content_html": "Indonesia’s plan to send troops to Gaza could test its longstanding foreign policy independence.",
-      "date_published": "2026-02-16T06:29:59+00:00",
-      "authors": [],
-      "tags": [
-        "Opinions"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6370d4b076c49c81309b78f0ebe48f7d8100cedfc415aa1d45a4588a9e038ee0",
-      "url": "https://www.dw.com/en/no-regrets-belarusian-activist-talks-exile-in-germany/a-75972919?maca=en-rss-en-all-1573-rdf",
-      "title": "'No regrets.' Belarusian activist talks exile in Germany",
-      "content_html": "Maria Kolesnikova was a leading figure in the 2020 protests against Belarusian dictator Alexander Lukashenko. After her unexpected release from prison, she came to Germany to rebuild her life.",
+      "id": "d8980893b7144d3f357a2c5fb5ff052b5309a302fe9db4a6587dc361bbb519ec",
+      "url": "https://www.dw.com/en/belarusian-activist-kolesnikova-on-starting-over-in-germany/a-75972919?maca=en-rss-en-all-1573-rdf",
+      "title": "Belarusian activist Kolesnikova on starting over in Germany",
+      "content_html": "Maria Kolesnikova was a leading figure in the 2020 protests against Belarusian strongman Alexander Lukashenko. She reflects on this turbulent time, and her new life in German exile.",
       "date_published": "2026-02-16T06:17:00+00:00",
       "authors": [],
       "tags": [
@@ -3748,77 +3947,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "171fe674dc8a7980cdcd6ce3ba437f6350640f599d98ea3b83b8057a96e05e97",
-      "url": "https://www.ukrinform.net/rubric-ato/4091826-ukrainian-border-guards-hit-russian-shelters-communications-in-northern-slobozhanshchyna.html",
-      "title": "Ukrainian border guards hit Russian shelters, communications in Northern Slobozhanshchyna",
-      "content_html": "Servicemen of the 5th Border Guard Detachment hit a number of Russian army shelters and communications assets on the Northern Slobozhanshchyna front.",
-      "date_published": "2026-02-16T05:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "de6b6e6915880e4148279b8c9264487c05a019ac795a7f80d4cd7a6f2eb2c9c4",
-      "url": "https://www.ukrinform.net/rubric-ato/4091825-russians-scattering-petal-mines-by-drone-in-occupied-kherson-region.html",
-      "title": "Russians scattering “petal” mines by drone in occupied Kherson region",
-      "content_html": "In the temporarily occupied Kakhovka district of the Kherson region, Russian forces are blocking roads and dropping so-called “petal” mines from drones.",
-      "date_published": "2026-02-16T05:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f536373d5b14c656828ba72af46219d0485e934d5b6539bd8ec7a6c57b8ca7c3",
-      "url": "https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast",
-      "title": "No evidence aliens have made contact, says Obama after podcast comments cause frenzy",
-      "content_html": "<p>Former US president clarifies ‘they’re real’ answer that he gave during quick-fire interview round</p><p>Hours after Barack Obama caused a frenzy by saying aliens were real on a podcast, the former US president has posted a statement clarifying that he has not seen any evidence of them.</p><p>In a <a href=\"https://www.youtube.com/watch?v=uI-hgSE5QIw\">conversation</a> with the American podcast host Brian Tyler Cohen over the weekend, Obama appeared to confirm the apparent existence of aliens during a speed round of questioning where the host asks guests quick questions and the guests respond with brief answers.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast\">Continue reading...</a>",
-      "date_published": "2026-02-16T04:50:15+00:00",
-      "authors": [
-        {
-          "name": "Maya Yang"
-        }
-      ],
-      "tags": [
-        "Barack Obama",
-        "US news",
-        "World news",
-        "Alien life"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "245b590c81790da3085dd89a5e381f3d62f8ef9b56931629552e1ca628bf44c7",
-      "url": "https://www.ukrinform.net/rubric-ato/4091824-ukrainian-border-guards-take-out-russian-motorcycle-unit-with-drones-in-kharkiv-region.html",
-      "title": "Ukrainian border guards take out Russian motorcycle unit with drones in Kharkiv region",
-      "content_html": "Drone operators from the Silver Trio UAV unit of the Pomsta (Revenge) Border Guard Brigade destroyed a group of Russian invaders riding motorcycles in the Kharkiv region.",
-      "date_published": "2026-02-16T04:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "7681a26d0bbdf65b1b4bc7fbec5848fc0515d65358db87f2e4eb914c5d102fc3",
@@ -4145,26 +4273,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "97144bb23c642ce1397e96feee3e3c3e047cca04fb55c6edb82906ad2fc18ff0",
-      "url": "https://www.france24.com/en/asia-pacific/20260216-india-hosts-ai-summit",
-      "title": "AI summit in India kicks off with focus on ‘welfare for all’",
-      "content_html": "The fourth annual artificial intelligence (AI) summit kicked off in New Delhi Monday with world leaders and top corporate executives gathering for the first such global event to be held in a developing country. Indian Prime Minister Narendra Modi declared the theme of the summit was “welfare for all” as the surging demand for AI lifts profits amid concerns over social risks.",
-      "date_published": "2026-02-16T02:09:52+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asia / Pacific"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4588,22 +4696,6 @@
       "lang": "en"
     },
     {
-      "id": "acf3a6593d4683791c9d5217d767911f4f39debc2697fc2feab53b9ba810b8e3",
-      "url": "https://www.dw.com/en/israeli-government-approves-new-west-bank-land-policy/a-75981876?maca=en-rss-en-all-1573-rdf",
-      "title": "Israeli government approves new West Bank land policy",
-      "content_html": "The move, which eases land purchases for Israeli settlers anywhere in the occupied West Bank, has sparked international criticism. The Palestinian Authority describes it as de facto annexation.",
-      "date_published": "2026-02-15T17:19:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "679216270ff88f5c0973316a2ac752715ae4aa45427ccfc0e5859b422f903ee6",
       "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss",
       "title": "Ukraine's ex-energy minister detained while attempting to leave country",
@@ -4812,7 +4904,7 @@
       "id": "e57819530dd5607f39405c21669f4c70612ee6e8f97c2d491ec33b632c937d06",
       "url": "https://www.elmundo.es/internacional/2026/02/15/6991e06afdddff77758b458c.html",
       "title": "L'ancien ministre ukrainien de l'Energie arrêté alors qu'il tentait de fuir le pays",
-      "content_html": "Galouchtchenko a été inculpé à la fin de l'année dernière pour avoir facilité un projet de corruption des entrepreneurs de la société nationale de l'énergie atomique.",
+      "content_html": "Galushchenko a été inculpé à la fin de l'année dernière pour avoir facilité un projet de corruption des entrepreneurs de la société nationale de l'énergie atomique.",
       "date_published": "2026-02-15T15:11:02+00:00",
       "authors": [
         {
@@ -5137,7 +5229,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "1cd349c80486aabb040bce8c366140a52c0bffbf6496e69045a8566e919d0de6",
@@ -5198,7 +5290,7 @@
       "id": "e9d9c593775a4eb555776ec6cd939024be28abf7bac54501b4fc2dac1b29e5bf",
       "url": "https://www.elmundo.es/internacional/2026/02/14/6990382efdddff4c288b45ae.html",
       "title": "Marco Rubio tend la main à l'Europe, mais précise que les États-Unis redéfiniront l'ordre international",
-      "content_html": "\"Nous sommes prêts à agir seuls si nécessaire, mais notre préférence est de le faire ensemble, avec vous, nos amis européens\", a-t-il déclaré lors de la conférence sur la sécurité de Munich.",
+      "content_html": "\"Nous sommes prêts à agir seuls si nécessaire, mais notre préférence est de le faire ensemble, avec vous, nos amis européens\", a-t-il déclaré lors de la conférence de Munich sur la sécurité.",
       "date_published": "2026-02-15T06:20:20+00:00",
       "authors": [
         {
@@ -5351,7 +5443,7 @@
     {
       "id": "7205e68efa70df6a483a7ae01b9a63daea1b4a7d5e18e558609d54f3a5f34a62",
       "url": "https://elpais.com/america/2026-02-15/las-alianzas-de-cuba-se-resquebrajan-en-el-mundo-de-trump.html",
-      "title": "Les alliances cubaines s’effondrent dans le monde de Trump",
+      "title": "Les alliances cubaines s'effondrent dans le monde de Trump",
       "content_html": "Donald et Melania Trump, à leur arrivée à Palm Beach (Floride) ce vendredi.",
       "date_published": "2026-02-15T04:30:01+00:00",
       "authors": [
@@ -5653,7 +5745,7 @@
     {
       "id": "c545b25fe76d361ba055e57d1c54290cc820e2fdc35444c171cc60b5f068fa26",
       "url": "https://www.elmundo.es/internacional/2026/02/14/69909fc1fdddff8f548b4591.html",
-      "title": "Cientos de miles de manifestantes iraníes rodean la Conferencia de Múnich al grito de \"Mujer, vida y libertad\" con la presencia de Reza Pahlavi",
+      "title": "Des centaines de milliers de manifestants iraniens entourent la Conférence de Munich aux cris de \"Femmes, vie et liberté\" en présence de Reza Pahlavi",
       "content_html": "Les autorités ont autorisé 21 manifestations différentes dans différents quartiers de la ville qui représentent la carte des fractures du monde",
       "date_published": "2026-02-14T19:13:37+00:00",
       "authors": [
@@ -5666,7 +5758,7 @@
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
       },
-      "lang": "es"
+      "lang": "fr"
     },
     {
       "id": "7a621aaaf3bb71b7d241f1b3039f463f5b466be63e18d03169f004a6ed36b97f",
@@ -5689,8 +5781,8 @@
     {
       "id": "9d94bb450a8b778857bb896104fb1e4964de074f19bc3d75b508c90fee855932",
       "url": "https://www.elmundo.es/internacional/2026/02/14/6990c2f4e4d4d81e238b458e.html",
-      "title": "Las 17 excarcelaciones de la madrugada no conforman a las madres: sigue la huelga de hambre",
-      "content_html": "Esta madrugada, Zona 7 abrió por primera vez sus puertas desde que EEUU exigiera al chavismo reciclado la liberación de los presos",
+      "title": "Les 17 libérations matinales ne satisfont pas les mères : la grève de la faim continue",
+      "content_html": "Ce matin, la Zone 7 a ouvert ses portes pour la première fois depuis que les États-Unis ont exigé que le chavisme recyclé libère les prisonniers.",
       "date_published": "2026-02-14T18:57:27+00:00",
       "authors": [
         {
@@ -5702,7 +5794,7 @@
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
       },
-      "lang": "es"
+      "lang": "fr"
     },
     {
       "id": "89f68be685efde37f0e8bf3e2ea2e612eede4c85257f934971df8c88d89743e4",
@@ -6251,7 +6343,7 @@
       "id": "93b21a8f442bfe6a7d9d7061a4ae29d31aa7c80f7ab4719a6c53acbca5332825",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698f51aae4d4d838478b456e.html",
       "title": "L'imaginaire MAGA étend ses tentacules jusqu'à la Conférence de Munich sur la sécurité : « Rendons à nouveau sa grandeur à l'ONU »",
-      "content_html": "L'ambassadeur américain auprès des Nations Unies remet une casquette bleue \"Trumpiste\" au haut représentant de l'UE, Kaja Kallas, lors d'un panel sur l'ordre international actuel",
+      "content_html": "L'ambassadeur des États-Unis auprès des Nations Unies remet une casquette bleue « Trumpiste » à la haute représentante de l'UE, Kaja Kallas, lors d'un panel sur l'ordre international actuel",
       "date_published": "2026-02-14T06:06:02+00:00",
       "authors": [
         {
@@ -6289,7 +6381,7 @@
       "id": "ca1dbeea5014c016fbb65e6be5e1cdbf5bd3c3bffdb091dc9612103a4b68db7d",
       "url": "https://elpais.com/internacional/2026-02-14/la-palabra-del-ano-desregular.html",
       "title": "Le mot de l'année : déréglementer",
-      "content_html": "Le secrétaire d'État des États-Unis, Marco Rubio, et le chancelier allemand, Friedrich Merz, ce vendredi, lors de la Conférence sur la sécurité de Munich, en Allemagne.",
+      "content_html": "Le secrétaire d'État des États-Unis, Marco Rubio, et le chancelier allemand, Friedrich Merz, ce vendredi, à la Conférence de Munich sur la sécurité, en Allemagne.",
       "date_published": "2026-02-14T04:30:01+00:00",
       "authors": [
         {
@@ -6351,7 +6443,7 @@
       "id": "ff26767a03dccc57af210c8eff247bb6b9f87f36c1ea1819ea63ef85720fd41d",
       "url": "https://www.elmundo.es/internacional/2026/02/14/698fda8be9cf4a013e8b4570.html",
       "title": "Trois morts dans une nouvelle attaque américaine contre un bateau présumé trafiquant de drogue",
-      "content_html": "Le nouveau coup d’État survient environ six semaines après que Washington a destitué et capturé le dirigeant vénézuélien Nicolás Maduro, qui avait dénoncé le fait que ces opérations américaines visaient à un changement de régime au Venezuela.",
+      "content_html": "Le nouveau coup d’État intervient environ six semaines après que Washington a destitué et capturé le dirigeant vénézuélien Nicolás Maduro, qui avait dénoncé le fait que ces opérations américaines visaient à un changement de régime au Venezuela.",
       "date_published": "2026-02-14T02:14:38+00:00",
       "authors": [
         {
@@ -6438,7 +6530,7 @@
       "id": "8db2338d43b924c1774295c193ea9e29709a819907789cefbe7ac0b7aaa2a49f",
       "url": "https://www.elmundo.es/internacional/2026/02/14/698f2b7de4d4d853748b45b1.html",
       "title": "La compétitivité européenne face à l’incertitude mondiale",
-      "content_html": "Cette semaine, le Sommet européen de l'industrie 2026 s'est tenu à Anvers, sous une devise qui sonne comme un cri de guerre (ou une confession implicite d'actes répréhensibles passés) de la part de",
+      "content_html": "Cette semaine, le Sommet européen de l'industrie 2026 s'est tenu à Anvers, sous une devise qui ressemble à un cri de guerre (ou à une confession implicite d'actes répréhensibles passés) de la part de",
       "date_published": "2026-02-13T23:07:41+00:00",
       "authors": [
         {
@@ -6581,7 +6673,7 @@
       "id": "a7627d6cc75e27efafbaba4528e3d88196da18f1bf8cf595e70dbf1bdd69d68d",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698f372dfdddffa0428b45cb.html",
       "title": "Trump dit que le président israélien devrait avoir « honte » de ne pas avoir accordé sa grâce à Netanyahu",
-      "content_html": "Herzog répond qu'il n'a pas encore pris de décision en la matière et lui rappelle diplomatiquement qu'« Israël est un Etat souverain ».",
+      "content_html": "Herzog répond qu'il n'a pas encore pris de décision en la matière et lui rappelle diplomatiquement qu'\"Israël est un Etat souverain\".",
       "date_published": "2026-02-13T18:21:11+00:00",
       "authors": [
         {
@@ -7368,7 +7460,7 @@
       "id": "d18b07cfe8399c92886763f5c604af030efe3e68d78783a8c5ce3eafbae298d5",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698e72ddfdddffde0f8b45cd.html",
       "title": "José Rubén Zamora, ancien directeur du journal \"El Periódico de Guatemala\", est libéré de prison : \"J'ai déjà payé mes peines pour des crimes que je n'ai pas commis\"",
-      "content_html": "Un juge pénal a ordonné sa libération après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation.",
+      "content_html": "Un juge pénal a ordonné sa libération de détention préventive après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation",
       "date_published": "2026-02-13T06:46:54+00:00",
       "authors": [
         {
@@ -7564,24 +7656,6 @@
       "authors": [
         {
           "name": "Charles Delouche-Bertolasi"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "5e0192bf6620797c51b804439bae47b3c8f1957b93900461430deb75533e7337",
-      "url": "https://www.liberation.fr/politique/diplomate-francais-cite-dans-les-fichiers-epstein-macron-veut-comprendre-pourquoi-la-clarte-na-pas-ete-faite-plus-tot-20260212_KJYHYYIQIBGHJJA7IGVPGPKNUA/",
-      "title": "Diplomate français cité dans les fichiers Epstein : Macron veut comprendre pourquoi la «clarté» n’a pas été faite «plus tôt»",
-      "content_html": "Emmanuel Macron à Rijkhoven, le 12 février.",
-      "date_published": "2026-02-12T19:44:18+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
         }
       ],
       "tags": [],
@@ -8066,22 +8140,6 @@
       "authors": [],
       "tags": [
         "Germany"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a13e265dea2e1cb7e9930dc1de742f5c47494b6b4ab8e2678898ab2158f098c0",
-      "url": "https://www.dw.com/en/eu-ups-drone-cooperation-amid-hybrid-threats/a-75920686?maca=en-rss-en-all-1573-rdf",
-      "title": "EU ups drone cooperation amid hybrid threats",
-      "content_html": "The EU is increasing its efforts in drone security following multiple drone incursions into EU airspace in 2025. The new action plan aims to improve cooperation, but Europe’s drone security network remains patchy.",
-      "date_published": "2026-02-11T20:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
       ],
       "source": {
         "name": "Deutsche Welle",
@@ -8765,20 +8823,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d7b26e279ed49d788ab7150d298ca4b79497e77b6668178de3d549c33e5294ac",
-      "url": "https://www.themoscowtimes.com/2026/02/09/indian-students-injured-in-knife-attack-at-university-in-bashkortostan-a91891",
-      "title": "Indian Students Injured in Knife Attack at University in Bashkortostan",
-      "content_html": "Officials from the Indian Consulate General in Kazan were sent to assist the victims after the knife attack this weekend.",
-      "date_published": "2026-02-09T09:54:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
     },
