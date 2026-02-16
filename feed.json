@@ -5,26 +5,299 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "49c6c5fbff126f158f686cd6ba042e3cbbecf62d5c58f917281739c7c3ec9748",
-      "url": "https://www.ukrinform.net/rubric-ato/4091841-russians-strike-33-settlements-in-sumy-region-over-past-day-injuring-three-civilians.html",
-      "title": "Russians strike 33 settlements in Sumy region over past day, injuring three civilians",
-      "content_html": "Over the past 24 hours, Russian forces carried out strikes on 33 settlements in the Sumy region, injuring three people.",
-      "date_published": "2026-02-16T06:31:00+00:00",
-      "authors": [],
+      "id": "5ed8190d2db6d408d9ececa8f7a12b9dec5a303ecca9b44b71dd0c44e624eb4e",
+      "url": "https://www.france24.com/fr/afrique/20260216-france-algerie-ministre-interieur-laurent-nunez-visite-pour-tenter-de-renouer-le-dialogue-gleizes-oqtf-immigration",
+      "title": "Le ministre de l'Intérieur Laurent Nunez en Algérie pour tenter de renouer le dialogue",
+      "content_html": "Le ministre français de l'Intérieur se rend en Algérie, lundi et mardi. Laurent Nunez va tenter d'y renouer les liens entre les deux pays sur les questions de sécurité, dans un contexte de tensions diplomatiques persistantes entre Paris et Alger.",
+      "date_published": "2026-02-16T07:32:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
       "tags": [
-        "War"
+        "Afrique"
       ],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9027d219bd2d5c807df854dc422ec6810013288a867d75c747868128100231d7",
+      "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+      "title": "Japan avoids recession with weak return to growth – business live",
+      "content_html": "<p>Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025</p><p><strong>Shares fell in Tokyo as investors digest today’s weaker-than-expected growth report.</strong></p><p>The <strong>Nikkei</strong> <strong>225</strong> index dipped by 0.24%, while the broader <strong>Topix</strong> shed 0.8%.</p><p>“I figured the GDP figures would be treated as past figures, but seeing the Nikkei average struggling to gain, there may be some slight impact.”</p> <a href=\"https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:31:51+00:00",
+      "authors": [
+        {
+          "name": "Graeme Wearden"
+        }
+      ],
+      "tags": [
+        "Business",
+        "Economics",
+        "Stock markets",
+        "FTSE",
+        "House prices",
+        "Japan",
+        "UK news",
+        "World news",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "16923d2e5ae8b3c9fb65cc11a654fb61d83948b9e23dbbe38459e7880a6ad02f",
+      "url": "https://www.france24.com/fr/france/20260216-vigilances-crues-maintenues-dans-le-sud-ouest-de-la-france-intemperies-fleuve-garonne",
+      "title": "Intempéries : les vigilances crues maintenues dans le sud-ouest de la France",
+      "content_html": "Météo-France a prolongé ses vigilances crues jusqu'à mardi. Les départements de la Gironde et du Lot-et-Garonne sont maintenus en rouge, l'institut redoutant une reprise du phénomène sous l'effet de nouvelles pluies attendues lundi.",
+      "date_published": "2026-02-16T07:28:25+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "France"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5852e9fe25065ba684c34686be8079ae2116f6b57efb09cca9a152e635aea3b3",
+      "url": "https://www.dw.com/en/germany-news-crowds-to-turn-out-for-carnival-parade/live-75984076?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Crowds to turn out for Carnival parade",
+      "content_html": "The biggest day of Carnival celebrations puts political caricatures at the center of it, with tens of thousands of revelers set to line the streets to watch the Rosenmontag parades in Cologne and Düsseldorf.",
+      "date_published": "2026-02-16T07:26:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f25058a497a3c7e5e40955bab036a20f9b5338a61a0be02dac22c85d2e484fc4",
+      "url": "https://www.timesofisrael.com/bondi-beach-terrorist-charged-with-15-counts-of-murder-faces-court-for-first-time/",
+      "title": "Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time",
+      "content_html": "<p>Naveed Akram remains mostly silent as he appears before judge via video link over deadly shooting at seaside Hanukkah event; lawyer says he has not discussed how client will plead</p>\n<p>The post <a href=\"https://www.timesofisrael.com/bondi-beach-terrorist-charged-with-15-counts-of-murder-faces-court-for-first-time/\">Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/20251215-Naveed-Akram-1024x640.jpg\" title=\"Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time\" width=\"160\" /></figure>",
+      "date_published": "2026-02-16T07:18:38+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Bondi Beach terror attack",
+        "Hanukkah",
+        "antisemitism in Australia"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d6c2d4e50f2ce70fb82a89a94259ac9c457fdeb8f31f56c0642139da3d81d6f9",
+      "url": "https://www.theguardian.com/environment/2026/feb/16/rural-drivers-uk-mileage-electric-vehicle-tax-labour",
+      "title": "Rural drivers to face steepest bills under UK’s mileage-based electric vehicle tax",
+      "content_html": "<p>Analysis reveals big regional disparities as critics say Labour’s proposed levy could slow uptake of EVs</p><p>Drivers in the south-west of England would pay nearly four times as much as those in London as a result of Labour’s mileage-based tax on electric cars, according to analysis of official data.</p><p>The 3p-a-mile road charge, <a href=\"https://www.theguardian.com/environment/2025/nov/22/pay-per-mile-electric-vehicles-rachel-reeves-road-taxes\">announced in the autumn budget</a> and due to take effect in 2028, is expected to raise £1.1bn a year, partly offsetting the loss of fuel duty revenues as drivers switch from petrol to electric vehicles.</p> <a href=\"https://www.theguardian.com/environment/2026/feb/16/rural-drivers-uk-mileage-electric-vehicle-tax-labour\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:13:08+00:00",
+      "authors": [
+        {
+          "name": "Alex Daniel"
+        }
+      ],
+      "tags": [
+        "Electric, hybrid and low-emission cars",
+        "Ethical and green living",
+        "Road transport",
+        "Motoring",
+        "Tax and spending",
+        "Environment",
+        "Technology",
+        "Business",
+        "Tax",
+        "UK news",
+        "Money"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ba52655e21acb7aa6d664dda888a9a90b1749f1f80a108a94d4e452c3c1c7ad5",
+      "url": "https://www.dw.com/en/north-korea-builds-homes-for-kin-of-troops-killed-in-ukraine/a-75984211?maca=en-rss-en-all-1573-rdf",
+      "title": "North Korea builds homes for kin of troops killed in Ukraine",
+      "content_html": "This is Kim Jong Un's latest effort to glorify North Korean soldiers who have died fighting alongside Russian troops against Ukraine.",
+      "date_published": "2026-02-16T07:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "42cf75adc62667093b8bc749ef9a1775fd805f9f117eed0086e505b75cba5492",
+      "url": "https://www.theguardian.com/business/2026/feb/16/coles-offered-utterly-misleading-discounts-consumer-watchdog-argues-in-federal-court-case",
+      "title": "Coles offered ‘utterly misleading’ discounts ACCC argues in federal court case",
+      "content_html": "<p>ACCC alleges the supermarket breached the law by offering ‘illusory’ discounts on many products with ‘Down Down’ promotion</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Coles disguised price increases on at least 245 products by offering discounts that were “literally true” but also “utterly misleading”, the competition regulator has argued at the beginning of a high-profile court case.</p><p>A federal court battle between the Australian Competition and Consumer Commission (ACCC) and Coles began on Monday, <a href=\"https://www.theguardian.com/australia-news/2024/sep/23/accc-suing-coles-woolworths-discounts-misleading\">testing allegations the supermarket breached the law</a> by offering “illusory” discounts on many everyday products.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/coles-offered-utterly-misleading-discounts-consumer-watchdog-argues-in-federal-court-case\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:02:56+00:00",
+      "authors": [
+        {
+          "name": "Catie McLeod Consumer affairs reporter"
+        }
+      ],
+      "tags": [
+        "Coles",
+        "Supermarkets",
+        "Australia news",
+        "Australian Competition and Consumer Commission (ACCC)"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1af958d69d04374cc57e9434807687389bdcfe3faeee8c3348bdcc7369469c9d",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/16/arrested-retirees-vindicated-by-ruling-against-palestine-action-proscription",
+      "title": "Arrested retirees ‘vindicated’ by ruling against Palestine Action proscription",
+      "content_html": "<p>Protesters welcome high court decision but many remain in legal limbo as government prepares to lodge appeal</p><p>Retirees making up some of the nearly 3,000 people arrested for supporting Palestine Action since the organisation was proscribed have said they feel “vindicated” by the high court’s decision to overturn the ban this week.</p><p>However, uncertainty remains over whether their trials under terror laws may still go ahead after the government revealed it plans to appeal against the <a href=\"https://www.theguardian.com/uk-news/2026/feb/13/uk-ban-palestine-action-unlawful-high-court-judges-rule\">judgment made on Friday</a> by three of the UK’s most senior judges.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/16/arrested-retirees-vindicated-by-ruling-against-palestine-action-proscription\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:00:47+00:00",
+      "authors": [
+        {
+          "name": "Robyn Vinter"
+        }
+      ],
+      "tags": [
+        "Palestine Action",
+        "UK news",
+        "Law",
+        "Politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a166b32e81b1506bff329e817e0c9088e5e611130dbddefe7ea245a6e72f56e6",
+      "url": "https://www.theguardian.com/world/2026/feb/16/gaza-jobs-unemployment-crisis-aid-food-basics",
+      "title": "‘Life requires cash’: Gaza’s jobs crisis leaves people struggling to afford basics",
+      "content_html": "<p>Fresh fruit and other items now available but at high prices in territory where unemployment is estimated at 80%</p><p>Every morning, Mansour Mohammad Bakr sets out from the small rented room in Gaza City he shares with his pregnant wife and two very young daughters. The 23-year-old walks past the port and the breaking waves of the Mediterranean where he once earned his living.</p><p>Before the two-year war that devastated Gaza, Bakr was a fisher, sharing tackle and a boat with his father and brothers. Now his brothers are dead, his father is too old, and his equipment was destroyed during the conflict. Like hundreds of thousands of others across Gaza, Bakr needs a job.</p> <a href=\"https://www.theguardian.com/world/2026/feb/16/gaza-jobs-unemployment-crisis-aid-food-basics\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:00:46+00:00",
+      "authors": [
+        {
+          "name": "Jason Burke, and Seham Tantesh in Gaza"
+        }
+      ],
+      "tags": [
+        "Gaza",
+        "Palestine",
+        "Middle East and north Africa",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e0ef72c17361fc214b223ae22b0eb8afa3d1a1dd0cf35b241cd334db7dbc0d0e",
+      "url": "https://www.theguardian.com/politics/audio/2026/feb/16/blue-labour-manchesterism-and-lords-reform-your-questions-answered-podcast",
+      "title": "Blue Labour, ‘Manchesterism’ and Lords reform: your questions answered – podcast",
+      "content_html": "<p>What is Blue Labour? Can Andy Burnham’s ‘Manchesterism’ be replicated elsewhere? And is the two-party system over in British politics?</p><p>In a special episode, Pippa and Kiran take your questions. Please keep sending them to politicsweeklyuk@theguardian.com</p><p>You can listen back to Pippa and Kiran’s interviews with Andy Burnham at the Labour party conference <a href=\"https://www.theguardian.com/politics/audio/2025/sep/29/andy-burnham-live-in-conversation-podcast\">here</a>, and with the Green party leader, Zack Polanski, <a href=\"https://www.theguardian.com/politics/audio/2026/jan/20/ditch-nato-and-dump-trump-zack-polanski-foreign-policy-podcast\">here</a>.</p><p>Watch John Harris’s Anywhere But Westminster in Gorton &amp; Denton <a href=\"https://www.theguardian.com/politics/video/2026/feb/04/why-this-manchester-byelection-is-a-lesson-in-21st-century-politics-video\">here</a>.</p> <a href=\"https://www.theguardian.com/politics/audio/2026/feb/16/blue-labour-manchesterism-and-lords-reform-your-questions-answered-podcast\">Continue reading...</a>",
+      "date_published": "2026-02-16T07:00:46+00:00",
+      "authors": [
+        {
+          "name": "Presented by Pippa Crerar and Kiran Stacey, produced by Frankie Tobi, music by Axel Kacoutié; the executive producer is Danielle Stephens"
+        }
+      ],
+      "tags": [
+        "Labour",
+        "Politics",
+        "Andy Burnham",
+        "Greater Manchester",
+        "House of Lords",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "de08e615abd693a68653371059b95daf2a6381f9bd9f28c5723b02c5adb20594",
+      "url": "https://www.lemonde.fr/international/article/2026/02/16/laurent-nunez-en-algerie-pour-tenter-de-decrisper-la-relation-franco-algerienne_6666926_3210.html",
+      "title": "Laurent Nuñez, un ministre de l’intérieur en Algérie pour tenter de décrisper la relation franco-algérienne",
+      "content_html": "Le ministre de l’intérieur, Laurent Nunez, à Marseille le 13 février.",
+      "date_published": "2026-02-16T07:00:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e2bfdfaf9a64011dbe8566e455752d8c651977fe039bc69d130d48e816af2168",
+      "url": "https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push?traffic_source=rss",
+      "title": "UK’s Starmer announces crackdown on AI chatbots in child safety push",
+      "content_html": "PM seeks powers to act quickly on a consultation considering an Australia-style social media ban for children below 16.",
+      "date_published": "2026-02-16T06:44:38+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "26ff4278b89239610087371c4108e4b39cb6a3663a601f2983606780752270f9",
+      "url": "https://www.aljazeera.com/opinions/2026/2/16/indonesias-gaza-gamble?traffic_source=rss",
+      "title": "Indonesia’s Gaza gamble",
+      "content_html": "Indonesia’s plan to send troops to Gaza could test its longstanding foreign policy independence.",
+      "date_published": "2026-02-16T06:29:59+00:00",
+      "authors": [],
+      "tags": [
+        "Opinions"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
     {
       "id": "8ffad0a6029719ce104dcf1af4a57d2904c18ab18499a3b9838b4915aa458372",
       "url": "https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb",
-      "title": "Australia news live: SA police arrest 75-year-old over unrelated matter during search for missing Gus Lamont",
-      "content_html": "<p>Person arrested and charged with firearm offences. Follow today’s news live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan\">Migrants from Gaza and Somalia among those to be banned from Australia under unreleased Liberal plan</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>In case you missed it, NSW is getting an extra holiday this year</strong></p><p>People in Australia’s most populous state have been granted an Anzac Day long weekend for the next two years, and could be in line for more public holidays.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Continue reading...</a>",
+      "title": "BoM warns of ‘classic fire spike day’ for Victoria – as it happened",
+      "content_html": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party\">Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>In case you missed it, NSW is getting an extra holiday this year</strong></p><p>People in Australia’s most populous state have been granted an Anzac Day long weekend for the next two years, and could be in line for more public holidays.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Continue reading...</a>",
       "date_published": "2026-02-16T06:29:11+00:00",
       "authors": [
         {
@@ -53,7 +326,7 @@
       "id": "b23b33e9ad015859479b942b26ee821674ce3260b4ce07dd1429ca0f36e935eb",
       "url": "https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb",
       "title": "Gus Lamont: police return to South Australia home of missing four-year-old in search for new evidence",
-      "content_html": "<p>Gus went missing on 27 September from Oak Park Station, where South Australia police have begun a two-day search for clues</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>South Australian police have arrested a 75-year-old on unrelated firearm offences as they launch a new search for evidence during the investigation into missing four-year-old Gus Lamont.</p><p>Gus, short for August, <a href=\"https://www.theguardian.com/australia-news/2025/nov/29/four-year-old-gus-lamont-disappeared-from-his-homestead-into-the-australian-outback-two-months-on-questions-remain\">went missing on 27 September 2025</a> from his family’s remote sheep station, sparking one of the biggest and most intense searches in South Australia’s history.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb\">Continue reading...</a>",
+      "content_html": "<p>Gus went missing on 27 September from Oak Park Station, where South Australia police have begun a two-day search for evidence</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>South Australian police have arrested a 75-year-old on unrelated firearm offences as they launch a new search for evidence during the investigation into missing four-year-old Gus Lamont.</p><p>Gus, short for “August”, <a href=\"https://www.theguardian.com/australia-news/2025/nov/29/four-year-old-gus-lamont-disappeared-from-his-homestead-into-the-australian-outback-two-months-on-questions-remain\">went missing on 27 September 2025</a> from his family’s remote sheep station, sparking one of the biggest and most intense searches in South Australia’s history.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/gus-lamont-update-south-australia-police-search-home-ntwnfb\">Continue reading...</a>",
       "date_published": "2026-02-16T06:20:30+00:00",
       "authors": [
         {
@@ -83,22 +356,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fd6da6e00652649beaa9b47790dd5182419a5f940bd6a4675d5842fa2170c6fa",
-      "url": "https://www.ukrinform.net/rubric-ato/4091834-russias-war-casualty-toll-in-ukraine-up-by-1180-over-past-day.html",
-      "title": "Russia’s war casualty toll in Ukraine up by 1,180 over past day",
-      "content_html": "Total combat losses of Russian forces since the start of the full-scale invasion of Ukraine, from February 24, 2022 to February 16, 2026, amount to approximately 1,254,450 personnel, including 1,180 losses over the past day.",
-      "date_published": "2026-02-16T06:12:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -158,7 +415,7 @@
       "id": "7c9521695b54700140204520467de8a4b2dea1fb4e18cabf07ac66586d141a79",
       "url": "https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan",
       "title": "Ley’s shadow immigration minister ‘never agreed’ to unreleased Liberal plan to ban migrants from Gaza and Somalia",
-      "content_html": "<p>The hardline immigration policy was designed before Sussan Ley was ousted as party leader on Friday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Sussan Ley’s shadow immigration minister has “serious concerns” over a proposal to ban migrants from specific regions of 13 countries – including from Gaza, Afghanistan and Somalia – outlined in a leaked hardline Liberal immigration plan.</p><p>Guardian Australia understands the banned regions, outlined in the policy designed before <a href=\"https://www.theguardian.com/australia-news/2026/feb/13/angus-taylor-becomes-opposition-leader-after-defeating-sussan-ley-in-liberal-party-leadership-ballot\">Ley was ousted as Liberal party leader</a> on Friday, were based on areas where listed terrorist organisations have territorial control.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan\">Continue reading...</a>",
+      "content_html": "<p>The hardline immigration policy was designed before Sussan Ley was ousted as party leader</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Sussan Ley’s shadow immigration minister has “serious concerns” over a proposal to ban migrants from specific regions of 13 countries – including from Gaza, Afghanistan and Somalia – outlined in a leaked hardline Liberal immigration plan.</p><p>Guardian Australia understands the banned regions, outlined in the policy designed before <a href=\"https://www.theguardian.com/australia-news/2026/feb/13/angus-taylor-becomes-opposition-leader-after-defeating-sussan-ley-in-liberal-party-leadership-ballot\">Ley was ousted as Liberal party leader</a> on Friday, were based on areas where listed terrorist organisations have territorial control.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/migrants-from-gaza-and-somalia-among-those-to-be-banned-from-australia-under-unreleased-liberal-plan\">Continue reading...</a>",
       "date_published": "2026-02-16T06:07:56+00:00",
       "authors": [
         {
@@ -167,11 +424,11 @@
       ],
       "tags": [
         "Australian immigration and asylum",
-        "Australian politics",
         "Liberal party",
-        "Australia news",
         "Angus Taylor",
-        "Sussan Ley"
+        "Sussan Ley",
+        "Australian politics",
+        "Australia news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -183,7 +440,7 @@
       "id": "58c6e2ccc0e20fee689166d90767ee2ec71924d335143ea766dcf49ed5f10516",
       "url": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
       "title": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
-      "content_html": "<p>Andrew Hastie, Jacinta Nampijinpa Price among those expected to return to frontbench as new Liberal leader pursues rightwing agenda</p><p>Sussan Ley’s closest supporters are poised to be demoted as the new Liberal leader, Angus Taylor, prepares to install conservatives to deliver his rightwing agenda.</p><p>Liberal MPs expect Alex Hawke, Anne Ruston, Andrew Wallace and Paul Scarr will be dropped to make room for the return of Andrew Hastie and <a href=\"https://www.theguardian.com/australia-news/2025/nov/10/jacinta-nampijinpa-price-backs-out-speaker-anti-immigration-put-australia-first-rally-tommy-robinson\">Jacinta Nampijinpa Price</a> among others on the frontbench.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party\">Continue reading...</a>",
+      "content_html": "<p>Andrew Hastie and Jacinta Nampijinpa Price among those expected to return to frontbench as new leader pursues rightwing agenda</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Sussan Ley’s closest supporters are poised to be demoted as the new Liberal leader, Angus Taylor, prepares to install conservatives to deliver his rightwing agenda.</p><p>Liberal MPs expect Alex Hawke, Anne Ruston, Andrew Wallace and Paul Scarr will be dropped to make room for the return of Andrew Hastie and <a href=\"https://www.theguardian.com/australia-news/2025/nov/10/jacinta-nampijinpa-price-backs-out-speaker-anti-immigration-put-australia-first-rally-tommy-robinson\">Jacinta Nampijinpa Price</a> among others on the frontbench.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party\">Continue reading...</a>",
       "date_published": "2026-02-16T06:04:34+00:00",
       "authors": [
         {
@@ -191,10 +448,10 @@
         }
       ],
       "tags": [
-        "Australian politics",
         "Liberal party",
-        "Sussan Ley",
         "Angus Taylor",
+        "Sussan Ley",
+        "Australian politics",
         "Australia news"
       ],
       "source": {
@@ -223,49 +480,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a90bc7ba7f7678dfbcad297db9fb56b4f49371783bbf928c646b9f4884059f48",
-      "url": "https://www.theguardian.com/business/2026/feb/16/bank-of-england-should-cut-rates-to-boost-consumer-spending-says-tuc",
-      "title": "Bank of England should cut rates to boost consumer spending, says TUC",
-      "content_html": "<p>Union analysis finds consumers lag behind international peers as some rate-setters remain anxious about inflation</p><p>The Trades Union Congress is urging the Bank of England to cut interest rates and rekindle economic growth, pointing to analysis showing that cash-strapped consumers are lagging their international peers.</p><p>The Bank’s monetary policy committee voted 5-4 to <a href=\"https://www.theguardian.com/business/2026/feb/05/bank-of-england-interest-rates-held-inflation-concerns\">leave borrowing costs unchanged</a> this month, after six cuts since mid-2024.</p> <a href=\"https://www.theguardian.com/business/2026/feb/16/bank-of-england-should-cut-rates-to-boost-consumer-spending-says-tuc\">Continue reading...</a>",
-      "date_published": "2026-02-16T06:00:44+00:00",
-      "authors": [
-        {
-          "name": "Heather Stewart Economics editor"
-        }
-      ],
-      "tags": [
-        "Interest rates",
-        "Business",
-        "Economics",
-        "Bank of England",
-        "TUC",
-        "Politics",
-        "UK news",
-        "Trade unions"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bab2c2c55124ec9783d38cc192ca2678717b60c053515b210fa9c7f170bb3455",
-      "url": "https://www.ukrinform.net/rubric-ato/4091830-russians-launch-668-attacks-on-zaporizhzhia-region-over-past-day-six-civilians-wounded.html",
-      "title": "Russians launch 668 attacks on Zaporizhzhia region over past day, six civilians wounded",
-      "content_html": "Over the past 24 hours, Russian forces carried out 668 attacks on 32 settlements in the Zaporizhzhia region. Six people were wounded as a result of enemy strikes on the Zaporizhzhia district.",
-      "date_published": "2026-02-16T05:50:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -314,26 +528,10 @@
       "lang": "fr"
     },
     {
-      "id": "171fe674dc8a7980cdcd6ce3ba437f6350640f599d98ea3b83b8057a96e05e97",
-      "url": "https://www.ukrinform.net/rubric-ato/4091826-ukrainian-border-guards-hit-russian-shelters-communications-in-northern-slobozhanshchyna.html",
-      "title": "Ukrainian border guards hit Russian shelters, communications in Northern Slobozhanshchyna",
-      "content_html": "Servicemen of the 5th Border Guard Detachment hit a number of Russian army shelters and communications assets on the Northern Slobozhanshchyna front.",
-      "date_published": "2026-02-16T05:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "10c5807a7a0e0947e7b5dec31ee3a143997a6ff85dc862fdef250c321432ece3",
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20260216-inde-accueille-sommet-mondial-intelligence-artificielle-but-elaborer-feuille-route-commune-narendra-modi",
-      "title": "L'Inde accueille le sommet mondial sur l'IA avec l'objectif d'établir \"une feuille de route commune\"",
-      "content_html": "Le sommet international sur l'intelligence artificielle rassemble, dès lundi à New Delhi, une vingtaine de chefs d'État et de gouvernements, ainsi que les grands patrons du secteur. Le Premier ministre indien Narendra Modi et ses pairs doivent élaborer \"une feuille de route commune pour la gouvernance et la collaboration mondiales\" sur l'IA.",
+      "title": "L'Inde accueille le sommet mondial sur l'IA qui doit se pencher sur la régulation de ce secteur",
+      "content_html": "Le sommet international sur l'intelligence artificielle va rassembler cette semaine à New Delhi une vingtaine de chefs d'État et de gouvernements, ainsi que les grands patrons du secteur. Le Premier ministre indien Narendra Modi et ses pairs doivent élaborer une feuille de route commune pour la gouvernance et la collaboration mondiales sur l'IA.",
       "date_published": "2026-02-16T05:21:45+00:00",
       "authors": [
         {
@@ -384,46 +582,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "98726e88e24a21168b4c53d0bedd7214a94f64017434ecce4775e0d6295e43e9",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/16/queensland-hate-speech-laws-ipa",
-      "title": "Rightwing thinktank joins backlash to Queensland’s ‘vague’ proposed hate speech laws",
-      "content_html": "<p>Institute of Public Affairs latest to raise free speech concerns over bill facing criticism from across the political divide</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/16/australia-news-live-supermarkets-coles-woolworths-discount-prices-court-coalition-angus-taylor-immigration-cost-of-living-anthony-albanese-labor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>There is growing backlash to Queensland’s antisemitism laws on all sides of politics, with rightwing thinktank the Institute of Public Affairs (IPA) the latest group to raise free speech concerns about the “vague” bill.</p><p>Margaret Chambers, a research fellow at the IPA, said the bill would confer extraordinary power on a single minister to “engage in censorship and the criminalising of opinions and debate” on the basis of a subjective standard, without oversight by the courts.</p> <a href=\"https://www.theguardian.com/australia-news/2026/feb/16/queensland-hate-speech-laws-ipa\">Continue reading...</a>",
-      "date_published": "2026-02-16T05:07:02+00:00",
-      "authors": [
-        {
-          "name": "Andrew Messenger"
-        }
-      ],
-      "tags": [
-        "Queensland politics",
-        "Bondi beach terror attack",
-        "Antisemitism",
-        "Islamophobia",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "de6b6e6915880e4148279b8c9264487c05a019ac795a7f80d4cd7a6f2eb2c9c4",
-      "url": "https://www.ukrinform.net/rubric-ato/4091825-russians-scattering-petal-mines-by-drone-in-occupied-kherson-region.html",
-      "title": "Russians scattering “petal” mines by drone in occupied Kherson region",
-      "content_html": "In the temporarily occupied Kakhovka district of the Kherson region, Russian forces are blocking roads and dropping so-called “petal” mines from drones.",
-      "date_published": "2026-02-16T05:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "fc25a27daa3aa7af4d821a114aa104bc892371dcc7ca903b1c961a425bae9a89",
@@ -486,22 +644,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "245b590c81790da3085dd89a5e381f3d62f8ef9b56931629552e1ca628bf44c7",
-      "url": "https://www.ukrinform.net/rubric-ato/4091824-ukrainian-border-guards-take-out-russian-motorcycle-unit-with-drones-in-kharkiv-region.html",
-      "title": "Ukrainian border guards take out Russian motorcycle unit with drones in Kharkiv region",
-      "content_html": "Drone operators from the Silver Trio UAV unit of the Pomsta (Revenge) Border Guard Brigade destroyed a group of Russian invaders riding motorcycles in the Kharkiv region.",
-      "date_published": "2026-02-16T04:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -583,97 +725,6 @@
       "lang": "fr"
     },
     {
-      "id": "24790949ea35cea4eea38224f05008a023dccfde1f6ce23a29a8af5740f16326",
-      "url": "https://elpais.com/internacional/2026-02-16/david-petraeus-general-de-la-transicion-en-irak-en-venezuela-habra-innumerables-minicrisis.html",
-      "title": "David Petraeus, général de la transition en Irak : « Au Venezuela, il y aura d'innombrables mini-crises »",
-      "content_html": "Le général David Petraeus, lors d'une comparution devant le Congrès américain, dans une image d'archive.",
-      "date_published": "2026-02-16T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Macarena  Vidal Liy"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Norteamérica",
-        "América",
-        "Casa Blanca",
-        "Washington D.C.",
-        "Partido Republicano EE UU",
-        "Política",
-        "Política exterior",
-        "Venezuela",
-        "Latinoamérica",
-        "Delcy Rodríguez",
-        "Nicolás Maduro",
-        "Groenlandia",
-        "María Corina Machado",
-        "Irak",
-        "CIA"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d4aa1c16088485673f2d3cffe78ac5ecece167e32baa09fa01d367983791c2af",
-      "url": "https://elpais.com/internacional/2026-02-16/somalilandia-el-pais-que-quiere-existir-aunque-el-mundo-le-de-la-espalda.html",
-      "title": "Le Somaliland, le pays qui veut exister même si le monde lui tourne le dos",
-      "content_html": "Vue d'Hargeisa, capitale du Somaliland, en 2022.",
-      "date_published": "2026-02-16T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Lola Hierro"
-        }
-      ],
-      "tags": [
-        "Somalia",
-        "África Oriental",
-        "Autodeterminación",
-        "Unión Africana",
-        "Independentismo",
-        "Democracia",
-        "Elecciones",
-        "Desarrollo África",
-        "África",
-        "Geopolítica",
-        "Relaciones internacionales"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f69e9a0af4cae283c03959da964110a8d47fd39e0fa34bd5a60ee7491a812fab",
-      "url": "https://elpais.com/internacional/2026-02-16/margot-la-hermana-mayor-de-ana-frank-sale-de-las-sombras-en-su-centenario.html",
-      "title": "Margot, la sœur aînée d'Anne Frank, sort de l'ombre à l'occasion de son centenaire",
-      "content_html": "Photo d'école d'Anne Frank (1929-1945), la jeune fille juive devenue célèbre pour son journal sur la vie sous l'occupation nazie, 1940.",
-      "date_published": "2026-02-16T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Ferrer Ferrer"
-        }
-      ],
-      "tags": [
-        "Holocausto judío",
-        "Alemania",
-        "Nazismo",
-        "Judíos",
-        "Víctimas",
-        "Derechos humanos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e6d0e9333ad62636f2a7daf879e37120d1eae7d6b1d5553058e3787c44f82e56",
       "url": "https://www.bbc.com/news/articles/cly191kz1lpo?at_medium=RSS&at_campaign=rss",
       "title": "Iran must abandon enriched uranium and not produce more, Netanyahu says",
@@ -700,22 +751,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "af00700ad1368605016ccab80fd10eabf74316437388b5d5b0875c66fe2513f1",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091823-ukrainian-delegation-heads-to-geneva-for-next-round-of-talks-budanov.html",
-      "title": "Ukrainian delegation heads to Geneva for next round of talks – Budanov",
-      "content_html": "Ukraine’s delegation has already set off for Switzerland, where the next round of negotiations involving Ukraine, the United States, and Russia is to take place.",
-      "date_published": "2026-02-16T04:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -859,22 +894,6 @@
       "lang": "fr"
     },
     {
-      "id": "b113d87375155506e62cf4f289db0bc90cbc027673f28a0d138892d60a3e662c",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091796-kallas-says-russia-is-no-superpower.html",
-      "title": "Kallas says Russia is no superpower",
-      "content_html": "Russia is in a difficult position after years of military aggression, yet it continues to pose a threat, as it may secure more at the negotiating table than it managed to achieve on the battlefield.",
-      "date_published": "2026-02-16T03:10:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8e1ea8382f3f947f2948a5b5c483e86f3efe04766dca8a791c1038eb5a724475",
       "url": "https://www.dw.com/en/german-and-uk-military-chiefs-state-case-for-rearming/a-75983486?maca=en-rss-en-all-1573-rdf",
       "title": "German and UK military chiefs state case for rearming",
@@ -1013,7 +1032,7 @@
     {
       "id": "06992b6b551362f1908234cbdebb6d5f65779dd245d47573febf00376fe8979a",
       "url": "https://www.lemonde.fr/international/article/2026/02/16/attentat-de-sydney-l-assaillant-presume-naveed-akram-comparait-pour-la-premiere-fois-devant-la-justice-australienne_6666903_3210.html",
-      "title": "Attentat de Sydney : l’assaillant présumé comparaît pour la première fois devant la justice australienne",
+      "title": "Attentat de Sydney : l’assaillant présumé comparaît pour la première fois devant la justice australienne",
       "content_html": "Ben Archbold, avocat commis d’office de Naveed Akram, s’adresse aux médias devant le tribunal local et régional de Downing Centre, à Sydney, le 16 février 2026.",
       "date_published": "2026-02-16T01:51:04+00:00",
       "authors": [],
@@ -1023,22 +1042,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "186d27c0c3a5c13d841be7d66848193050551908203e6d9bbf55ea4fddd3387a",
-      "url": "https://www.ukrinform.net/rubric-ato/4091743-syrian-army-takes-control-of-second-us-military-base-in-country.html",
-      "title": "Syrian army takes control of second US military base in country",
-      "content_html": "After coordination with the American side, the Syrian army assumed control of the second U.S. Armed Forces base in Syria, Al-Shaddadi, located in the northeastern province of Hasakah, which is controlled by the Kurdish-led Syrian Democratic Forces and situated near the borders with Turkey and Iraq.",
-      "date_published": "2026-02-16T01:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "f9dfc490a4124cc399a2d58a64ac0f7c985f67aa089ff418a9e938b32b987c3f",
@@ -1121,8 +1124,8 @@
     {
       "id": "74ee385e668d03737833316563d42b35affc9f0043232ad2385acd2f52758470",
       "url": "https://www.timesofisrael.com/liveblog-february-16-2026/",
-      "title": "Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time",
-      "content_html": "<p>Naveed Akram appears before judge via video link * Prosecutors reportedly to charge settler with reckless homicide over killing of Palestinian activist last year</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-february-16-2026/\">Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260216__97NV8KE__v1__HighRes__AustraliaAttackBondiCourt-1024x640.jpg\" title=\"Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time\" width=\"160\" /></figure>",
+      "title": "Iran foreign minister arrives in Geneva for second round of talks with US",
+      "content_html": "<p>Bondi Beach terrorist, charged with 15 counts of murder, faces court for first time * Dana Eden, producer of hit show 'Tehran', dies during filming in Athens</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-february-16-2026/\">Iran foreign minister arrives in Geneva for second round of talks with US</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/AP26045694318238-1024x640.jpg\" title=\"Iran foreign minister arrives in Geneva for second round of talks with US\" width=\"160\" /></figure>",
       "date_published": "2026-02-16T01:11:49+00:00",
       "authors": [],
       "tags": [
@@ -1154,22 +1157,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6fd70217f20de08425fdd1f9589f531250dc6a4429bed26f2c48559bf24ae2bb",
-      "url": "https://www.ukrinform.net/rubric-economy/4091720-russian-industry-and-export-sectors-are-at-maximum-risk-of-bankruptcy-intelligence-service-reports.html",
-      "title": "Russian industry and export sectors are at maximum risk of bankruptcy, intelligence service reports",
-      "content_html": "The financial situation of medium and large enterprises in the Russian Federation continued to deteriorate at the end of 2025, with the number of unprofitable companies increasing to 18,200, up 16% year-on-year.",
-      "date_published": "2026-02-16T00:34:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -1252,22 +1239,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "6dde137d878b69db821404ed9aa645e579d814898cbd8cb423f913167dfcd953",
-      "url": "https://www.ukrinform.net/rubric-other_news/4091736-us-detains-another-sanctioned-tanker-in-indian-ocean.html",
-      "title": "US detains another sanctioned tanker in Indian Ocean",
-      "content_html": "The U.S. Department of Defense announced the detention of the sanctioned tanker Veronica III, which violated the \"quarantine\" imposed by U.S. President Donald Trump.",
-      "date_published": "2026-02-15T23:36:00+00:00",
-      "authors": [],
-      "tags": [
-        "Other news"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "c87080aa808847ab870af3b3fdcd723fda890027076839c09597e2ba5410301d",
@@ -1451,22 +1422,6 @@
       "lang": "fr"
     },
     {
-      "id": "ded47cb430fb1224ec2f71e9359284db689d9e056ec4d6cb0968216fa7f4353b",
-      "url": "https://www.ukrinform.net/rubric-economy/4091603-kremlin-expands-property-seizures-to-replenish-russias-warstrained-budget-intelligence.html",
-      "title": "Kremlin expands property seizures to replenish Russia's war-strained budget – intelligence",
-      "content_html": "Russian authorities are increasing the use of property confiscation as a form of punishment in an attempt to plug holes in the state budget strained by the war against Ukraine.",
-      "date_published": "2026-02-15T22:33:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8e110e0960575d70f28168b458e6e4da668f18caf836319535be22f39bf44142",
       "url": "https://www.france24.com/en/middle-east/20260215-lebanon-dead-strike-israel-palestinian-group",
       "title": "Israeli strike in eastern Lebanon kills four, targets Islamic Jihad",
@@ -1483,34 +1438,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "77eea8740f0acb88d2e2f7c9c38fbbbd6a14e688ef01cd9a8ff4bc1a32e28c69",
-      "url": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
-      "title": "Makers of AI chatbots that put children at risk face big fines or UK ban",
-      "content_html": "<p>Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool</p><p>Makers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday.</p><p>Emboldened by Elon Musk’s X <a href=\"https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images\">stopping its Grok AI tool from creating sexualised images of real people in the UK</a> after public outrage last month, ministers are planning a “crackdown on vile illegal content created by AI”.</p> <a href=\"https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban\">Continue reading...</a>",
-      "date_published": "2026-02-15T22:30:34+00:00",
-      "authors": [
-        {
-          "name": "Robert Booth UK technology editor"
-        }
-      ],
-      "tags": [
-        "Internet safety",
-        "AI (artificial intelligence)",
-        "Computing",
-        "Technology",
-        "UK news",
-        "Keir Starmer",
-        "Politics",
-        "Children",
-        "Children's tech"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1565,33 +1492,6 @@
       "lang": "fr"
     },
     {
-      "id": "0a8bbb733bfa767bb79ae24ce958c8921c413149e40c898282724f85a8799484",
-      "url": "https://www.theguardian.com/politics/2026/feb/15/labour-together-thinktank-inquiry-calls-journalists-investigation-keir-starmer",
-      "title": "Starmer facing calls for inquiry into Labour thinktank’s investigation of journalists",
-      "content_html": "<p>Cabinet Office minister commissioned report that made ‘baseless claims’ about reporters who were investigating Labour Together</p><p>Keir Starmer is facing calls from the Conservatives and his own MPs for an inquiry into the commissioning of a report that made “baseless claims” about journalists who were investigating a thinktank linked to the prime minister.</p><p>The calls add to pressure on the Cabinet Office minister Josh Simons, who commissioned a report in 2023 on journalists investigating Labour Together, the thinktank that would help propel <a href=\"https://www.theguardian.com/politics/keir-starmer\">Starmer</a> to power.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/15/labour-together-thinktank-inquiry-calls-journalists-investigation-keir-starmer\">Continue reading...</a>",
-      "date_published": "2026-02-15T22:02:01+00:00",
-      "authors": [
-        {
-          "name": "Ben Quinn and Henry Dyer"
-        }
-      ],
-      "tags": [
-        "Labour",
-        "Keir Starmer",
-        "Newspapers",
-        "Politics",
-        "UK news",
-        "Media",
-        "Newspapers & magazines",
-        "Thinktanks"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5706d18dee78069cf718110a8ef4ec60c064010b8a715729809fcf6523ee055b",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20260215-les-%C3%A9tats-unis-interceptent-dans-l-oc%C3%A9an-indien-un-p%C3%A9trolier-fuyant-le-blocus-du-venezuela",
       "title": "Les États-Unis interceptent dans l'Océan indien un pétrolier fuyant le blocus du Venezuela",
@@ -1612,26 +1512,10 @@
       "lang": "fr"
     },
     {
-      "id": "dd309c876d6e0fd0e69b80a82577134312420939da51f941e65e6ac5376ba768",
-      "url": "https://www.ukrinform.net/rubric-crime/4091807-man-and-two-children-found-shot-dead-in-lviv-region.html",
-      "title": "Man and two children found shot dead in Lviv region",
-      "content_html": "Two children and their father were found shot dead in the Zolochiv district of the Lviv region, with law enforcement officers working to establish the circumstances of the tragedy.",
-      "date_published": "2026-02-15T21:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "Crime"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d90a2e6662990addd8adfce13dda76bb0f452979a9501bb6565a4d97b6be4f57",
       "url": "https://www.lemonde.fr/international/article/2026/02/15/au-liban-quatre-morts-dans-des-frappes-israeliennes-sur-l-est-du-pays_6666901_3210.html",
-      "title": "Au Liban, quatre morts dans des frappes israéliennes sur l’est du pays",
-      "content_html": "Les proches du policier Hassan Jaber, 38 ans, tué lundi par une attaque de drone israélien, pleurent devant son cercueil lors de son cortège funèbre dans le village de Yanouh, au sud du Liban, le 10 février 2026.",
+      "title": "Au Liban, quatre morts dans des frappes israéliennes sur l’est du pays",
+      "content_html": "Les proches du policier Hassan Jaber, 38 ans, tué lundi par une attaque de drone israélien, pleurent devant son cercueil lors de son cortège funèbre dans le village de Yanouh, dans le sud du Liban, le 10 février 2026.",
       "date_published": "2026-02-15T21:50:29+00:00",
       "authors": [],
       "tags": [],
@@ -1723,22 +1607,6 @@
       "lang": "fr"
     },
     {
-      "id": "f10ffac7dbe2507350e9a97577f5df0baba4a3a3d9b279f061445a8f01eee189",
-      "url": "https://www.ukrinform.net/rubric-society/4091805-police-deny-reports-of-shooting-at-shopping-mall-in-khmelnytskyi.html",
-      "title": "Police deny reports of shooting at shopping mall in Khmelnytskyi",
-      "content_html": "Law enforcement officers have refuted reports on social media about an alleged shooting during a conflict between a visitor and a security guard at a shopping center in Khmelnytskyi.",
-      "date_published": "2026-02-15T21:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c8e74174ac205bddb27c6fc3c8588865933c5745aa56de8e4817a796ede239a5",
       "url": "https://www.elmundo.es/internacional/2026/02/15/69923bc1e85ece3f188b4583.html",
       "title": "Gisèle Pelicot veut rendre visite à son ex-mari en prison car \"elle a besoin de comprendre\"",
@@ -1769,22 +1637,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "efe71833f86bd02c2848c599d6d8bcf8b70ced7395580fffb85feadcf1573a17",
-      "url": "https://www.ukrinform.net/rubric-ato/4091802-zelensky-announces-expansion-of-joint-defense-projects-with-partners.html",
-      "title": "Zelensky announces expansion of joint defense projects with partners",
-      "content_html": "Ukraine will expand its joint defense projects with international partners.",
-      "date_published": "2026-02-15T21:18:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -1861,30 +1713,6 @@
       "lang": "fr"
     },
     {
-      "id": "8b911f42e18abf7e8a5092eb7421798f98104a6489d18e4e320a2b4ebc4f4638",
-      "url": "https://www.theguardian.com/society/2026/feb/15/number-uk-women-suicide-domestic-abuse-under-reported-say-experts",
-      "title": "Revealed: The true toll of female suicides in UK with domestic abuse at their core",
-      "content_html": "<p>Exclusive: Research suggests official statistics could track as few as 6.5% of the true number of cases</p><ul><li><p><a href=\"https://www.theguardian.com/society/ng-interactive/2026/feb/15/domestic-abuse-katie-madden-family-justice\">Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry</a></p></li></ul><p>The number of women who are driven to suicide by domestic abusers is being under-reported, and their cases overlooked by police, in what has been described by experts as a “national scandal”.</p><p>Domestic violence suicides are already growing at such a rate that a woman in an abusive relationship is now more likely to take her own life than be killed by a partner.</p> <a href=\"https://www.theguardian.com/society/2026/feb/15/number-uk-women-suicide-domestic-abuse-under-reported-say-experts\">Continue reading...</a>",
-      "date_published": "2026-02-15T21:00:33+00:00",
-      "authors": [
-        {
-          "name": "Hannah Al-Othman and Geraldine McKelvie"
-        }
-      ],
-      "tags": [
-        "Domestic violence",
-        "Violence against women and girls",
-        "UK news",
-        "UK criminal justice",
-        "Crime"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5a564dbaa795aa485ff681f19af557c00b93c880c5e4ccbd1a34c29c1de9a8db",
       "url": "https://www.france24.com/fr/asie-pacifique/20260215-iran%E2%80%93%C3%A9tats-unis-nouveau-cycle-de-n%C3%A9gociations-sur-le-nucl%C3%A9aire-%C3%A0-gen%C3%A8ve",
       "title": "Iran - États-Unis : un nouveau cycle de négociations sur le nucléaire débute à Genève",
@@ -1903,22 +1731,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "e3b6ab67c1e72518f38a5d4cc250594e654d522616a53132dd4ca0b5cc12085c",
-      "url": "https://www.ukrinform.net/rubric-ato/4091801-russian-strikes-on-sumy-region-leave-three-people-injured.html",
-      "title": "Russian strikes on Sumy region leave three people injured",
-      "content_html": "Three people were injured in the Sumy region throughout the day due to Russian attacks.",
-      "date_published": "2026-02-15T20:53:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "3a287d3c8dcc497b3999e59f6dc4627cbf7b127a6551013d3817de6eee8c39dc",
@@ -1987,22 +1799,6 @@
       "lang": "fr"
     },
     {
-      "id": "911584fa25f198352341d501a25047dd688ddf277bcecd2926eef20d2da5bbd1",
-      "url": "https://www.ukrinform.net/rubric-sports/4091800-ukrainian-yakiv-khammo-wins-gold-at-2026-european-open-in-slovenia.html",
-      "title": "Ukrainian Yakiv Khammo wins gold at 2026 European Open in Slovenia",
-      "content_html": "The Ljubljana European Open 2026 international judo tournament has concluded in Slovenia.",
-      "date_published": "2026-02-15T20:32:00+00:00",
-      "authors": [],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7202d9c197b2a0ddb57ea6049386b65975b613276809b631d8d20ae866262e85",
       "url": "https://www.themoscowtimes.com/2026/02/15/at-munich-a-us-change-in-tone-leaves-ukraines-allies-unconvinced-a91955",
       "title": "At Munich, a U.S. Change in Tone Leaves Ukraine’s Allies Unconvinced",
@@ -2069,22 +1865,6 @@
       "lang": "en"
     },
     {
-      "id": "f9a07a8bffdbcdf7f227d585aa6d350dfdd4a03ed73f31de427dd382f5e0a701",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091798-zelensky-announces-new-sanctions-against-russians-involved-in-war.html",
-      "title": "Zelensky announces new sanctions against Russians involved in war",
-      "content_html": "Ukraine is preparing a new package of sanctions targeting Russian individuals who contribute to the war effort, as well as those who put sport at the service of war.",
-      "date_published": "2026-02-15T20:10:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3609f21170417d63c828ecf87b03b72979643e130c69d9793aec8269e09fcebb",
       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/2/15/is-trumpism-losing-steam?traffic_source=rss",
       "title": "Is Trumpism losing steam?",
@@ -2139,22 +1919,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6deb76b4092761637f499ccf9bec8a5f75acf830d681b397f211e5e5379ab6c3",
-      "url": "https://www.ukrinform.net/rubric-sports/4091792-heraskevych-athletes-for-peace-plan-to-establish-support-fund-for-families-of-fallen-ukrainian-athletes.html",
-      "title": "Heraskevych, Athletes for Peace plan to establish support fund for families of fallen Ukrainian athletes",
-      "content_html": "Skeleton racer Vladyslav Heraskevych, together with the German initiative Athletes for Peace, is launching a fundraising campaign to support the families of Ukrainian athletes killed by Russian aggression.",
-      "date_published": "2026-02-15T19:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -2260,18 +2024,25 @@
       "lang": "fr"
     },
     {
-      "id": "b951c9bf4fdf0d44b1c13767fe75f30affb69cdfea7d384733667096253fc93e",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091789-ukrainian-delegation-already-has-framework-for-upcoming-geneva-talks-president.html",
-      "title": "Ukrainian delegation already has framework for upcoming Geneva talks – president",
-      "content_html": "The Ukrainian delegation already has the necessary framework for discussions within the upcoming trilateral meetings scheduled for next week.",
-      "date_published": "2026-02-15T19:23:00+00:00",
-      "authors": [],
+      "id": "ebe53007566b451ce006a7d96beae4da7b6ad7713b5f9459c3f6eb8760bcb4da",
+      "url": "https://www.theguardian.com/uk-news/2026/feb/15/uks-top-prosecutor-says-nobody-above-law-as-detectives-investigate-andrews-epstein-links",
+      "title": "UK’s top prosecutor says ‘nobody above law’ amid claims against former prince Andrew",
+      "content_html": "<p>Director of public prosecutions says he is confident police would examine any evidence of potential misconduct </p><p>The UK’s top prosecutor has said “nobody is above the law” amid growing pressure on police to fully investigate Andrew Mountbatten-Windsor’s links with Jeffrey Epstein.</p><p>Thames Valley police <a href=\"https://www.theguardian.com/uk-news/2026/feb/11/prosecutors-police-andrew-mountbatten-windsor-peter-mandelson-links-jeffrey-epstein\">said earlier this week</a> they were in discussion with the Crown Prosecution Service over allegations of misconduct in public office against the former prince.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/15/uks-top-prosecutor-says-nobody-above-law-as-detectives-investigate-andrews-epstein-links\">Continue reading...</a>",
+      "date_published": "2026-02-15T19:24:24+00:00",
+      "authors": [
+        {
+          "name": "Matty Edwards"
+        }
+      ],
       "tags": [
-        "Politics"
+        "Andrew Mountbatten-Windsor",
+        "Jeffrey Epstein",
+        "UK news",
+        "US news"
       ],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2312,18 +2083,26 @@
       "lang": "fr"
     },
     {
-      "id": "e464dc6b05c23086eee4c1f62dc7bd33e5a3a29ff071f3cfdc2fc033ccc8da29",
-      "url": "https://www.ukrinform.net/rubric-ato/4091787-russias-losses-increase-its-reliance-on-foreign-fighters-bloomberg.html",
-      "title": "Russia's losses increase its reliance on foreign fighters – Bloomberg",
-      "content_html": "The Russian army is becoming increasingly dependent on foreign fighters in its war against Ukraine, as Russian forces are suffering more losses than they can replenish with new recruits.",
-      "date_published": "2026-02-15T18:59:00+00:00",
-      "authors": [],
+      "id": "fa1e93999159aed8f3c020da2284a02cb28352e22f34a66bec081e3dcc85ffbc",
+      "url": "https://www.theguardian.com/politics/2026/feb/15/liz-truss-tweets-photo-of-her-and-trump-at-mar-a-lago",
+      "title": "‘Right about everything’: Liz Truss tweets photo of meeting with Trump",
+      "content_html": "<p>Unclear how encounter between Britain’s shortest-serving PM and US president was initiated and how long it lasted</p><p>After spending time and resources crisscrossing the Atlantic to cultivate the support of the Maga faithful, Liz Truss has finally got the prize she apparently craved: a photo with Donald Trump.</p><p>Britain’s shortest-serving prime minister tweeted a photo on Sunday showing her in the company of the US president at his Mar-a-Lago club in Florida.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/15/liz-truss-tweets-photo-of-her-and-trump-at-mar-a-lago\">Continue reading...</a>",
+      "date_published": "2026-02-15T19:09:19+00:00",
+      "authors": [
+        {
+          "name": "Ben Quinn Political correspondent"
+        }
+      ],
       "tags": [
-        "War"
+        "Liz Truss",
+        "Donald Trump",
+        "Politics",
+        "UK news",
+        "US news"
       ],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2384,22 +2163,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a46b5b351c09c06e382d2eea349326da7367fe1928784c883f0628df15a887e4",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091783-zelensky-announces-new-support-packages-for-ukraine.html",
-      "title": "Zelensky announces new support packages for Ukraine",
-      "content_html": "President Volodymyr Zelensky announced new support packages that Ukraine will receive from its partners.",
-      "date_published": "2026-02-15T18:43:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -2466,48 +2229,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ae0edc8291f76f65bb08d915b8b7805c0be65f96794d8681ef6be58e00db3f70",
-      "url": "https://www.ukrinform.net/rubric-economy/4091781-canada-expands-sanctions-on-iran-over-crackdown-on-protesters.html",
-      "title": "Canada expands sanctions on Iran over crackdown on protesters",
-      "content_html": "Canada has imposed new sanctions on Iranian government officials in response to the repression of protesters.",
-      "date_published": "2026-02-15T18:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d2def39bb93c585030e7888b37f891f275c36fe078571bdf79d5fa8e8bac0d85",
-      "url": "https://www.theguardian.com/us-news/2026/feb/15/chicago-ofelia-torres-death-cancer-father-ice-custody",
-      "title": "US teen who pushed for her father’s release from ICE custody dies of cancer",
-      "content_html": "<p>Ofelia Torres, 16, spotlighted her dad Ruben’s illegal detention last fall during Trump’s crackdown in Chicago</p><p>A <a href=\"https://www.theguardian.com/us-news/chicago\">Chicago</a> teenager, whose father was detained by <a href=\"https://www.theguardian.com/us-news/usimmigration\">immigration</a> authorities while she navigated cancer, died on Friday, a family spokesperson said.</p><p>Ofelia Torres, a 16-year-old in Chicago, had been undergoing treatment for an aggressive and rare form of cancer since late 2024. As she and her family struggled with the medical procedures, her father, Ruben Torres Maldonado, was detained by immigration authorities while at a Home Depot in October, leading to a contentious and public case that highlighted the human effects of the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>’s aggressive <a href=\"https://www.theguardian.com/us-news/2025/oct/03/my-travels-through-chicago-tear-gas-resistance-and-trumps-big-immigration-crackdown\">immigration crackdown</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/15/chicago-ofelia-torres-death-cancer-father-ice-custody\">Continue reading...</a>",
-      "date_published": "2026-02-15T18:24:54+00:00",
-      "authors": [
-        {
-          "name": "José Olivares"
-        }
-      ],
-      "tags": [
-        "Chicago",
-        "ICE (US Immigration and Customs Enforcement)",
-        "Illinois",
-        "US immigration",
-        "US news",
-        "US politics",
-        "Trump administration"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "b1ff41df687f64caed57400c15511223879ed468aa037fc7b11ed92375d6cfcb",
@@ -2586,22 +2307,6 @@
       "lang": "en"
     },
     {
-      "id": "393aeb9a5efa856088f1e16b487b2b847126913884cbfafb89a1044a5cd15dbc",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091778-zelensky-explains-how-trump-should-pressure-putin.html",
-      "title": "Zelensky explains how Trump should pressure Putin",
-      "content_html": "President Volodymyr Zelensky outlined three key steps that could help Donald Trump stop Russia's aggression and ensure lasting peace for Ukraine.",
-      "date_published": "2026-02-15T18:01:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d2db0408440d6e34410f09b24195c39b5accf85d300910e84ceb6f5819bb0e00",
       "url": "https://www.aljazeera.com/news/2026/2/15/syrian-army-takes-over-al-shaddadi-base-after-us-withdrawal?traffic_source=rss",
       "title": "Syrian army takes over al-Shaddadi base after US withdrawal",
@@ -2661,22 +2366,6 @@
       "lang": "en"
     },
     {
-      "id": "607a9fd9789ac1d7cd84641bd1864c181a07820ddad6e1d915d034a3b2fd9963",
-      "url": "https://www.ukrinform.net/rubric-ato/4091775-air-raid-alerts-announced-in-kyiv-several-regions-due-to-ballistic-threat.html",
-      "title": "Air raid alerts announced in Kyiv, several regions due to ballistic threat",
-      "content_html": "In Kyiv and several regions of Ukraine, air raid alerts were issued in connection with the threat of strikes by Russian forces using ballistic missiles.",
-      "date_published": "2026-02-15T17:47:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e275b50524d6330ad4e1b4300c53181d527483cada8634803d880695a802dd88",
       "url": "https://www.theguardian.com/world/2026/feb/15/canada-support-tumbler-ridge-school-shooting",
       "title": "‘People want to help’: Canadians rally round Tumbler Ridge after school shooting",
@@ -2712,22 +2401,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c704fc27aa955af713e31c57d896a085219a9714c3cf42777a745ae1311f7f07",
-      "url": "https://www.ukrinform.net/rubric-ato/4091772-hourly-power-outages-to-be-in-effect-in-most-regions-on-monday.html",
-      "title": "Hourly power outages to be in effect in most regions on Monday",
-      "content_html": "On Monday, February 16, in most regions of Ukraine, hourly electricity shutdown schedules will apply for household consumers throughout the day, while industrial consumers will face power restrictions.",
-      "date_published": "2026-02-15T17:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -2814,6 +2487,26 @@
       "lang": "en"
     },
     {
+      "id": "945c17673fa72424cfb1fd3dac2d092a3edb26335096a19016157a33807d4f68",
+      "url": "https://www.france24.com/en/americas/20260215-rio-carnival-parades-kick-off-with-divisive-ode-to-lula-in-election-year",
+      "title": "‘Ola Lula’: Rio Carnival ode to Brazil’s president sparks political storm",
+      "content_html": "One of Rio de Janeiro's top samba schools kicked off this year's Carnival with a lavish ode to Brazil's Luiz Inacio Lula da Silva, tracing his rise from rural poverty to superhero status among the working classes, symbolised by a colossal metal figurine of the president. But in an election year that sees Lula seeking a fourth term, the tribute has sparked a political debate.",
+      "date_published": "2026-02-15T17:09:16+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "dfd2d0e109652c1d981d74158206aae14433d8df204784c4112997699c6face3",
       "url": "https://www.timesofisrael.com/indonesia-says-8000-troops-ready-to-deploy-to-gaza-by-june-as-trump-touts-effort/",
       "title": "Indonesia says 8,000 troops ready to deploy to Gaza by June as Trump touts progress",
@@ -2879,22 +2572,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e224d68f497a35b2b2bc7789edd59268cf447d9f425f7dba639ada2b953597e7",
-      "url": "https://www.ukrinform.net/rubric-ato/4091767-russians-attack-two-districts-of-dnipropetrovsk-region-with-drones-artillery-and-glide-bombs-since-morning.html",
-      "title": "Russians attack two districts of Dnipropetrovsk region with drones, artillery, and glide bombs since morning",
-      "content_html": "On February 15, Russian forces carried out nearly 10 attacks on the communities of Synelnykove and Nikopol districts in the Dnipropetrovsk region. There is destruction and damage to houses.",
-      "date_published": "2026-02-15T16:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3022,22 +2699,6 @@
       "lang": "en"
     },
     {
-      "id": "637966b40ca2cd3e696c4a1fe8ba6e75c4f59f426ce7be6064cef63efc0f1bae",
-      "url": "https://www.ukrinform.net/rubric-economy/4091764-uks-new-ammunition-factory-for-ukraine-unable-to-start-operations-for-over-six-months.html",
-      "title": "UK's new ammunition factory for Ukraine unable to start operations for over six months",
-      "content_html": "The opening of a factory in the United Kingdom, which was supposed to produce ammunition for both the British Army and Ukraine, has been delayed by more than six months.",
-      "date_published": "2026-02-15T16:44:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9288f991bbe29386a17c2c99d6e196592a8463aa200006d284918492bb4ad2eb",
       "url": "https://www.timesofisrael.com/hapag-lloyd-in-advanced-talks-to-buy-israels-zim-shipping-giant-workers-go-on-strike/",
       "title": "German shipping giant in talks to buy Israel’s Zim for up to $3.5B; workers go on strike",
@@ -3144,22 +2805,6 @@
       "lang": "en"
     },
     {
-      "id": "7bc7525d41c40dda59a825c9d936aa3189865359840b64fa70546763d941e6c6",
-      "url": "https://www.ukrinform.net/rubric-ato/4091760-around-500-homes-remain-without-heating-in-kyiv-due-to-russian-attack-on-february-12-klitschko.html",
-      "title": "Around 500 homes remain without heating in Kyiv due to Russian attack on February 12 – Klitschko",
-      "content_html": "As of Sunday evening, about 500 residential buildings in Kyiv remain without heat following the strike on the city’s infrastructure by Russian forces on February 12.",
-      "date_published": "2026-02-15T16:21:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6aa0a6b5de018516c5e30bcddeba281d0da9c62c686d275bf45519220e3909e6",
       "url": "https://www.elmundo.es/internacional/2026/02/15/6991ab77e9cf4a85198b4598.html",
       "title": "Les femmes qui ont donné leur voix au pouvoir à Munich",
@@ -3183,9 +2828,9 @@
     {
       "id": "17ec81e17ba378d1d59477e7915e462d76949182d45a1139ea1e6522b0f54d33",
       "url": "https://www.lemonde.fr/sciences/article/2026/02/15/le-chasseur-de-dinosaures-americain-jack-horner-cite-dans-les-dossiers-epstein_6666883_1650684.html",
-      "title": "Le chasseur de dinosaures américain Jack Horner cité dans les dossiers Epstein",
+      "title": "Jack Horner, paléontologue et chasseur de dinosaures américain, cité dans l’affaire Epstein",
       "content_html": "Jack Horner à Los Angeles, le 9 juin 2015.",
-      "date_published": "2026-02-15T16:15:06+00:00",
+      "date_published": "2026-02-15T16:15:05+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -3222,22 +2867,6 @@
       "lang": "en"
     },
     {
-      "id": "e7ade1d7d0a35eb966e7e2a1f318b08081e5c6d402b2bd109fea0fb064b59e2e",
-      "url": "https://www.ukrinform.net/rubric-polytics/4091759-group-of-european-countries-express-support-for-talks-on-joint-nuclear-deterrent-politico.html",
-      "title": "Group of European countries express support for talks on joint nuclear deterrent – Politico",
-      "content_html": "Several European nations have publicly announced their intention to join discussions on establishing a shared nuclear deterrent in Europe.",
-      "date_published": "2026-02-15T15:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7e6e0f351d08bea30c5be8bdedfa1ea4e3233fe527967f2c992f700fd55374b5",
       "url": "https://www.dw.com/en/nature-reconsidered-why-it-s-making-us-anxious/a-75828665?maca=en-rss-en-all-1573-rdf",
       "title": "Nature reconsidered: why it's making us anxious",
@@ -3270,30 +2899,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "a8372018119c5204ada4dd99bb799eb59501c4e4af61a87edeb37e3d9f2298a6",
-      "url": "https://www.theguardian.com/us-news/2026/feb/15/trump-white-house-ballroom-renderings",
-      "title": "Renderings show most detailed vision for Trump’s White House ballroom",
-      "content_html": "<p>Trump sparked public backlash when he abruptly began demolishing the East Wing to clear space for his ballroom</p><p>New renderings released this week provide the most detailed vision yet of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s proposed $400m White House ballroom addition.</p><p>The <a href=\"https://www.documentcloud.org/documents/27008704-east-wing-modernization/\">renderings</a>, submitted by the project’s architects and released on Friday by the National Capital Planning Commission (NCPC), depict a vast sprawling structure, expected to be around <a href=\"https://www.cnn.com/2026/01/08/politics/east-wing-plans-ncpc-west-wing-colonnade\">90,000</a> sq ft, from multiple angles.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/15/trump-white-house-ballroom-renderings\">Continue reading...</a>",
-      "date_published": "2026-02-15T15:38:15+00:00",
-      "authors": [
-        {
-          "name": "Anna Betts"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Trump administration",
-        "Washington DC",
-        "US news",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "3efe3b1632bf27612ba7f5c866ae950c21664de0c29a7d83b6b355c2fcc7a6f8",
@@ -3511,27 +3116,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "21ea7018c43874ad819dd7c3c7235bf3b96e803fcd435fe2f4722a9f240aca8e",
-      "url": "https://www.timesofisrael.com/amid-snags-eu-mission-tries-to-help-frustrated-gazans-traverse-rafahs-tortuous-crossing/",
-      "title": "Amid snags, EU mission tries to help frustrated Gazans traverse Rafah’s tortuous crossing",
-      "content_html": "<p>EUBAM head Nataliya Apostolova acknowledges complaints but says operations at reopened terminal are steadily improving, in close coordination with authorities in Jerusalem and Cairo</p>\n<p>The post <a href=\"https://www.timesofisrael.com/amid-snags-eu-mission-tries-to-help-frustrated-gazans-traverse-rafahs-tortuous-crossing/\">Amid snags, EU mission tries to help frustrated Gazans traverse Rafah&#8217;s tortuous crossing</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/IMG_4418-1024x640.jpeg\" title=\"Amid snags, EU mission tries to help frustrated Gazans traverse Rafah&#8217;s tortuous crossing\" width=\"160\" /></figure>",
-      "date_published": "2026-02-15T14:50:46+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "EUBAM European Union Border Assistance Mission",
-        "Rafah Crossing",
-        "Gaza border authority",
-        "Gaza Strip",
-        "Trump's 20-point plan for Gaza"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "76f2270dc728aab1d6fabbb16eb120788dff1ad0c1c31cafce23d3e8724453d5",
@@ -3837,24 +3421,6 @@
       "lang": "en"
     },
     {
-      "id": "dc09619c09e86ddd4c2d7cf787c754cb54c9d6ccb6ec42cc341346ede3f27f7a",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260215-asphyxie-am%C3%A9ricaine-et-r%C3%A9gime-r%C3%A9pressif-les-cubains-face-%C3%A0-des-crises-multiples",
-      "title": "Asphyxie américaine et régime répressif, les cubains face à des crises multiples",
-      "content_html": "Maïlys Khider, journaliste indépendante spécialiste de Cuba, est notre invité.",
-      "date_published": "2026-02-15T13:44:46+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2e7c985d888278c08c64ad854d64e58d6cc2c21f87e1b90b254a99b459b42355",
       "url": "https://www.france24.com/en/brazil-dogs-join-rio-carnival-parade",
       "title": "Brazil: Dogs join Rio Carnival parade",
@@ -3951,36 +3517,6 @@
       "lang": "fr"
     },
     {
-      "id": "3491ea076b64fe6e8972242563a47b9d166c25f560ee93bafeecffa294566a9d",
-      "url": "https://elpais.com/internacional/2026-02-15/un-exministro-ucranio-investigado-por-corrupcion-detenido-al-intentar-cruzar-la-frontera.html",
-      "title": "Un ancien ministre ukrainien faisant l'objet d'une enquête pour corruption et arrêté alors qu'il tentait de traverser la frontière",
-      "content_html": "L'ancien ministre ukrainien German Galushchenko, en juillet 2023.",
-      "date_published": "2026-02-15T13:27:36+00:00",
-      "authors": [
-        {
-          "name": "Gloria Rodríguez-Pina"
-        }
-      ],
-      "tags": [
-        "Guerra de Rusia en Ucrania",
-        "Ucrania",
-        "Rusia",
-        "Guerra",
-        "Conflictos",
-        "Unión Europea",
-        "OTAN",
-        "Ataques militares",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Europa"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "bb0e9be36b79ca32f160bb6a5c744dd26a13163c809b78761418fa75e9431bd7",
       "url": "https://www.aljazeera.com/video/upfront/2026/2/15/gaza-author-and-analyst-jehad-abusalim-on-trumps-board-of-peace?traffic_source=rss",
       "title": "Gaza author and analyst Jehad Abusalim on Trump’s ‘Board of Peace’",
@@ -4015,58 +3551,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "bd718516358db0e33650f42ef8460b413f3eda609802fd65905625439424b0ae",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/15/europeans-say-russia-poisoned-dissident-alexey-navalny-with-dart-frog-toxin?traffic_source=rss",
-      "title": "Europeans say Russia poisoned dissident Alexey Navalny with dart frog toxin",
-      "content_html": "Five European countries say lab tests conclude that Russian opposition leader Alexey Navalny was killed in 2024.",
-      "date_published": "2026-02-15T13:05:17+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e3f14fb02dbeda0274283913a5d587953f06312a7ec853fa1944dcee0829fa66",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260215-parier-sur-la-catastrophe-l-ascension-vertigineuse-des-march%C3%A9s-pr%C3%A9dictifs-polymarket-cryptomonnaies",
-      "title": "Parier sur l’actualité : l'ascension vertigineuse des \"marchés prédictifs\"",
-      "content_html": "Les paris en ligne sur la chute de Nicolas Maduro au Venezuela ont mis en lumière l'essor spectaculaire des marchés prédictifs : des portails où les gens parient sur tout, des événements sportifs aux prochaines frappes militaires de l'administration Trump, en passant par la résurrection de Jésus. Si certains en tirent de juteux profits, d'autres s'inquiètent des répercussions humaines et géopolitiques dans le monde réel.",
-      "date_published": "2026-02-15T12:57:58+00:00",
-      "authors": [
-        {
-          "name": "Diya GUPTA"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "404597c6338dfac92a960b4befb2c13303168b3839d22728ef14d0a3d80c3107",
-      "url": "https://www.aljazeera.com/news/2026/2/15/israel-approves-proposal-to-register-west-bank-lands-as-state-property?traffic_source=rss",
-      "title": "Israel approves proposal to register West Bank lands as ‘state property’",
-      "content_html": "Israel approves plan to claim West Bank land unless Palestinians prove ownership, prompting &#039;annexation&#039; accusations.",
-      "date_published": "2026-02-15T12:54:43+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "45f2c448b8fca2826e3b879071bfe53948625af2e0f36b1afe62daf399c56a20",
@@ -4344,24 +3828,6 @@
       "lang": "en"
     },
     {
-      "id": "ec6429cdd8d70275ac8722f1c3212179610f9caf59ec653e0bebbd0375364015",
-      "url": "https://www.france24.com/en/nasa-s-crew-12-docks-at-international-space-station",
-      "title": "NASA's crew-12 docks at International Space Station",
-      "content_html": "Four astronauts docked at the International Space Station on Saturday for a research mission set to last several months. Among the crew is Sophie Adenot, who joins two American astronauts and one Russian, becoming only the second French woman to travel into space. The new team is replacing a previous crew that was forced to return to Earth early because of a medical issue, as Morgan Ayre reports.",
-      "date_published": "2026-02-15T10:00:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9e73799ae908f14fc2dde4abec5d42e2d4157f83c37c1ec8aeed1a56e76bc268",
       "url": "https://www.dw.com/en/germany-news-right-wing-violence-rises-in-2025/live-75966415?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Right-wing violence rises in 2025",
@@ -4390,20 +3856,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "eca4af63a50841b0457f64fc73c514e0ebc3ee85e0f24fcb448afe653d211722",
-      "url": "https://www.lemonde.fr/international/article/2026/02/15/en-nouvelle-zelande-le-tueur-de-christchurch-tente-de-faire-annuler-son-plaidoyer-de-culpabilite-devant-la-cour-d-appel_6666856_3210.html",
-      "title": "En Nouvelle-Zélande, le tueur de Christchurch tente de faire annuler son plaidoyer de culpabilité devant la cour d’appel",
-      "content_html": "Devant la mosquée Masjid Al-Noor à Christchurch, en Nouvelle-Zélande, où l’une des deux fusillades de masse a eu lieu, le 17 mars 2019.",
-      "date_published": "2026-02-15T09:00:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "2950ba69b9c3d633a323cc0b7573472c6d2dd10ecfcdf91784622073e5f5050f",
@@ -4613,97 +4065,9 @@
       "lang": "en"
     },
     {
-      "id": "17b9173f2558402dcde6720f28308883a542dd7cb8d9b131635805dda67bb0fb",
-      "url": "https://elpais.com/internacional/2026-02-15/cuba-el-reves-de-la-trama.html",
-      "title": "Cuba : l’inverse de l’intrigue",
-      "content_html": "Un homme avec une boîte d'œufs dans la Vieille Havane, à Cuba, le samedi 7 février.",
-      "date_published": "2026-02-15T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Rafael Rojas"
-        }
-      ],
-      "tags": [
-        "Cuba",
-        "Crisis alimentaria",
-        "Crisis energética",
-        "Crisis económica",
-        "Estados Unidos",
-        "Embargos",
-        "Petróleo",
-        "México",
-        "Chile",
-        "Relaciones internacionales",
-        "Donald Trump",
-        "Pobreza",
-        "Ayuda humanitaria"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "6901fae24a38cb82f1176f2c6e45d8cca38a970d1bc4f715ce0ec7c2539a2ec1",
-      "url": "https://elpais.com/america/2026-02-15/cartas-tristes-de-la-familia-y-los-amigos-en-cuba.html",
-      "title": "Tristes lettres de la famille et des amis à Cuba",
-      "content_html": "Rues de la Vieille Havane, en 2025.",
-      "date_published": "2026-02-15T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Carla Gloria Colomé"
-        }
-      ],
-      "tags": [
-        "América",
-        "Latinoamérica",
-        "Cuba",
-        "Revolución Cubana",
-        "Donald Trump",
-        "Miguel Díaz-Canel",
-        "Pobreza energética",
-        "Pobreza",
-        "Emigración",
-        "Crisis energética"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "83ada57868e50e68d2f65d488bbcc87119b1aad497cd972c7caf72e7a78c3ee2",
-      "url": "https://elpais.com/america/2026-02-15/el-hundimiento-de-cuba-somos-un-altar-de-sacrificios.html",
-      "title": "Le naufrage de Cuba : « Nous sommes un autel de sacrifices »",
-      "content_html": "Déchets accumulés à La Havane, le 7 février 2026.",
-      "date_published": "2026-02-15T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Sergio Murguía,David Marcial Pérez ,Carla Gloria Colomé"
-        }
-      ],
-      "tags": [
-        "México",
-        "América",
-        "Latinoamérica",
-        "Cuba",
-        "Gobierno",
-        "Medicina",
-        "Salud",
-        "Salud pública"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7205e68efa70df6a483a7ae01b9a63daea1b4a7d5e18e558609d54f3a5f34a62",
       "url": "https://elpais.com/america/2026-02-15/las-alianzas-de-cuba-se-resquebrajan-en-el-mundo-de-trump.html",
-      "title": "Les alliances cubaines s’effondrent dans le monde de Trump",
+      "title": "Les alliances cubaines s'effondrent dans le monde de Trump",
       "content_html": "Donald et Melania Trump, à leur arrivée à Palm Beach (Floride) ce vendredi.",
       "date_published": "2026-02-15T04:30:01+00:00",
       "authors": [
@@ -4936,32 +4300,6 @@
       "lang": "en"
     },
     {
-      "id": "ab24b3d8859be15485b52b2bda61f4f27b1dd79a6f204900860d17ce2765f904",
-      "url": "https://elpais.com/internacional/2026-02-15/mas-de-200000-personas-marchan-contra-las-autoridades-iranies-en-los-aledanos-del-foro-de-munich.html",
-      "title": "Plus de 200 000 personnes défilent contre les autorités iraniennes près du forum de Munich",
-      "content_html": "Des milliers de manifestants ont dénoncé ce samedi à Munich la répression exercée par le gouvernement iranien contre les récentes manifestations dans le pays.",
-      "date_published": "2026-02-15T00:04:28+00:00",
-      "authors": [
-        {
-          "name": "Agencias  ."
-        }
-      ],
-      "tags": [
-        "Irán",
-        "Múnich",
-        "Conferencia seguridad Munich",
-        "Manifestaciones",
-        "Protestas Irán",
-        "Represión política",
-        "Estados Unidos"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8cb010a711a6d90083d7982c820f9ba950d688a0fd24b400ea67e997897309d7",
       "url": "https://www.bbc.com/news/articles/cm2y2538lz8o?at_medium=RSS&at_campaign=rss",
       "title": "The spectacular multimillion-euro heist nobody noticed",
@@ -4986,22 +4324,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f5fb23e1e38035e89351d05c2bdcab21d1e90f2e7499d00f6f172b4139f1364c",
-      "url": "https://www.dw.com/en/cuba-s-annual-cigar-fair-postponed-amid-us-oil-blockade/a-75975192?maca=en-rss-en-all-1573-rdf",
-      "title": "Cuba's annual cigar fair postponed amid US oil blockade",
-      "content_html": "Cuba has been grappeling with worsening fuel shortages as the US prevents oil shipments to the island nation. Organizers did not immediately set a new date for the Habanos Festival.",
-      "date_published": "2026-02-14T23:17:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -5155,35 +4477,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "a70bee249ee59a5b1ad0d2571c2ce0611173fc5587016d4884dd6982eaca9c23",
-      "url": "https://elpais.com/internacional/2026-02-14/sanchez-va-por-delante-o-en-direccion-contraria.html",
-      "title": "Sánchez va-t-il de l’avant ou va-t-il dans la direction opposée ?",
-      "content_html": "Gavin Newsom, gouverneur de Californie, et Pedro Sánchez, président espagnol, ce samedi à Munich.Photo de X par Pedro Sánchez.",
-      "date_published": "2026-02-14T19:38:27+00:00",
-      "authors": [
-        {
-          "name": "Carlos E Cué"
-        }
-      ],
-      "tags": [
-        "Opinión",
-        "Pedro Sánchez",
-        "Conferencia de Múnich sobre política de seguridad",
-        "Estados Unidos",
-        "Europa",
-        "Unión Europea",
-        "Armamento",
-        "Seguridad nacional",
-        "Defensa",
-        "Industria armamentística"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "b672b6d57811ba4db690d6418b7db629f5ffbce3e81aa41aa0b6f742cefb7828",
@@ -5779,68 +5072,6 @@
       "lang": "en"
     },
     {
-      "id": "ca1dbeea5014c016fbb65e6be5e1cdbf5bd3c3bffdb091dc9612103a4b68db7d",
-      "url": "https://elpais.com/internacional/2026-02-14/la-palabra-del-ano-desregular.html",
-      "title": "Le mot de l'année : déréglementer",
-      "content_html": "Le secrétaire d'État des États-Unis, Marco Rubio, et le chancelier allemand, Friedrich Merz, ce vendredi, à la Conférence de Munich sur la sécurité, en Allemagne.",
-      "date_published": "2026-02-14T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Claudi Pérez"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Alemania",
-        "Estados Unidos",
-        "Friedrich Merz",
-        "Múnich",
-        "Conferencia de Múnich sobre política de seguridad",
-        "Europa",
-        "Unión Europea",
-        "Francia"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "ceb788438a9e3bdabcc6a3e08b5b665ab766a850ae8043cc88a0c1624ae59e6f",
-      "url": "https://elpais.com/internacional/2026-02-14/el-senado-corta-el-grifo-a-seguridad-nacional-por-la-negativa-de-los-republicanos-a-poner-limites-a-la-policia-migratoria.html",
-      "title": "Le Sénat coupe le robinet de la Sécurité intérieure en raison du refus des Républicains de limiter la police de l'immigration",
-      "content_html": "Des agents fédéraux arrêtent une personne à Minneapolis le 3 février.",
-      "date_published": "2026-02-14T04:30:00+00:00",
-      "authors": [
-        {
-          "name": "Jesús-Sérvulo González Moreno"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Norteamérica",
-        "América",
-        "Casa Blanca",
-        "Washington D.C.",
-        "Partido Republicano EE UU",
-        "Política",
-        "Congreso EEUU",
-        "Senado EEUU",
-        "Capitolio EE UU",
-        "Seguridad nacional",
-        "ICE",
-        "Minneapolis",
-        "Inmigración"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ff26767a03dccc57af210c8eff247bb6b9f87f36c1ea1819ea63ef85720fd41d",
       "url": "https://www.elmundo.es/internacional/2026/02/14/698fda8be9cf4a013e8b4570.html",
       "title": "Trois morts dans une nouvelle attaque américaine contre un bateau présumé trafiquant de drogue",
@@ -5867,7 +5098,7 @@
       "id": "b17f131561d113c097fe3c06654376d5b6412e9bdf63c5c8a8c636510c23e9e7",
       "url": "https://www.elmundo.es/internacional/2026/02/14/698f87a9e4d4d838478b4577.html",
       "title": "L’Europe active la dissuasion nucléaire et pacte avec les États-Unis",
-      "content_html": "Le chancelier Merz appelle à « rétablir la confiance transatlantique » et maintient le dialogue avec Macron pour élargir le parapluie atomique",
+      "content_html": "Le chancelier Merz appelle à « rétablir la confiance transatlantique » et entretient un dialogue avec Macron pour élargir le parapluie atomique",
       "date_published": "2026-02-14T01:27:23+00:00",
       "authors": [
         {
@@ -5924,34 +5155,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c16871148aac3814e4b08a58c99600f12b3a0e5575f971381cfdb273586a86d0",
-      "url": "https://www.theguardian.com/world/2026/feb/13/trump-sends-second-aircraft-carrier-middle-east-iran",
-      "title": "Trump sends second aircraft carrier to Middle East in effort to increase pressure on Iran",
-      "content_html": "<p>USS Gerald R Ford will take about three weeks to sail to region, amid push for Iran to curb its nuclear ambitions</p><p>Donald Trump has ordered the world’s largest aircraft carrier to sail from the Caribbean Sea to the Middle East in an effort to increase pressure on Iran amid discussions over curbing its nuclear and ballistic missile programmes.</p><p>The USS Gerald R Ford and its supporting warships should take about three weeks to return to the region, where they will join the USS Abraham Lincoln, dramatically increasing the military firepower available to the US leader.</p> <a href=\"https://www.theguardian.com/world/2026/feb/13/trump-sends-second-aircraft-carrier-middle-east-iran\">Continue reading...</a>",
-      "date_published": "2026-02-13T22:15:27+00:00",
-      "authors": [
-        {
-          "name": "Dan Sabbagh Defence and security editor"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Donald Trump",
-        "US military",
-        "US foreign policy",
-        "Iran nuclear programme",
-        "Middle East and north Africa",
-        "US news",
-        "World news",
-        "Israel"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -6781,7 +5984,7 @@
       "id": "d18b07cfe8399c92886763f5c604af030efe3e68d78783a8c5ce3eafbae298d5",
       "url": "https://www.elmundo.es/internacional/2026/02/13/698e72ddfdddffde0f8b45cd.html",
       "title": "José Rubén Zamora, ancien directeur du journal \"El Periódico de Guatemala\", est libéré de prison : \"J'ai déjà payé mes peines pour des crimes que je n'ai pas commis\"",
-      "content_html": "Un juge pénal a ordonné sa libération après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation.",
+      "content_html": "Un juge pénal a ordonné sa libération de détention préventive après avoir passé 1 295 jours dans une prison militaire sans procès ni condamnation",
       "date_published": "2026-02-13T06:46:54+00:00",
       "authors": [
         {
@@ -6898,41 +6101,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "26d7682ff1a1329a982767fa9d760269f282ca685efa038ea35bf34d28a93ffb",
-      "url": "https://elpais.com/internacional/2026-02-13/la-falta-de-acuerdo-en-el-senado-para-poner-limites-a-la-policia-migratoria-aboca-al-cierre-de-varias-agencias-de-seguridad-nacional.html",
-      "title": "L'absence d'accord au Sénat américain pour limiter la police de l'immigration entraîne la fermeture de plusieurs agences de sécurité nationale.",
-      "content_html": "Todd Lyons, directeur de l'ICE ;Le commissaire du CBP, Rodney Scott, et le directeur de l'USCIS, Joseph Edlow, au Congrès à Washington, le 10 février.",
-      "date_published": "2026-02-13T04:30:00+00:00",
-      "authors": [
-        {
-          "name": "Jesús-Sérvulo González Moreno"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Norteamérica",
-        "América",
-        "Casa Blanca",
-        "Washington D.C.",
-        "Partido Republicano EE UU",
-        "Política",
-        "Partido Demócrata EE UU",
-        "Congreso EEUU",
-        "Senado EEUU",
-        "Inmigración",
-        "ICE",
-        "Presupuestos Generales Estado",
-        "Kristi Noem",
-        "Seguridad nacional"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "7b00eeebc63f116e4cccce68356128ddf7e79c92886501078bd12a67570d6317",
@@ -7831,29 +6999,6 @@
       "lang": "en"
     },
     {
-      "id": "9656670aa00845d66ec42213c6a6c4460b1836cf06db00acdda8f8e36e0a6fac",
-      "url": "https://www.elmundo.es/internacional/2026/02/12/698d2b29fc6c83c01b8b4570.html",
-      "title": "Message de Trump au Venezuela : « Nous apporterons du travail et de la prospérité »",
-      "content_html": "\"(Trump) s'est engagé avec passion à transformer complètement la relation entre les États-Unis et le Venezuela\", a déclaré Chris Wright, secrétaire américain à l'Énergie, au palais de Miraflores, en compagnie de la présidente en charge, Delcy Rodríguez.",
-      "date_published": "2026-02-12T07:10:51+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Delcy Rodríguez",
-        "Venezuela",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c8cc200c30ad6bbd25b840ee0c8614d23a84797aab7a6e3c2fdbfaf8942ace4d",
       "url": "https://www.dw.com/en/germany-lufthansa-strike-grounds-hundreds-of-flights/a-75922927?maca=en-rss-en-all-1573-rdf",
       "title": "Germany: Lufthansa strike grounds hundreds of flights",
@@ -8336,22 +7481,6 @@
       "lang": "en"
     },
     {
-      "id": "ce26065744dff5fc1836e64581e459bd97215fd8cf6fc00314f1fd0580b8bd03",
-      "url": "https://www.dw.com/en/ukraine-s-olympic-skater-has-dad-and-country-front-of-mind/a-75898345?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine's Olympic skater has dad and country front of mind",
-      "content_html": "Russia's invasion of Ukraine has torn Kyrylo Marsak from his family, but the figure skater has found a particular way to keep his father in mind. The presence of a Russian athete in his event is a source of disquiet.",
-      "date_published": "2026-02-10T15:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e898167c238be9edc3ab94fea804ec22adfafd789708c5412342651e3fd1349f",
       "url": "https://www.dw.com/en/the-german-olympic-ski-jump-winner-with-a-fear-of-heights/a-75896096?maca=en-rss-en-all-1573-rdf",
       "title": "The German Olympic ski jump winner with a fear of heights",
@@ -8741,35 +7870,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "9a79999464fbc2b41489e5b64d81a8d6933fc8efa86eed388896ef104217bf9d",
-      "url": "https://elpais.com/opinion/2026-02-08/hegemonismo-depredador-monarquia-absoluta-e-ilustracion-oscura.html",
-      "title": "Hégémonisme prédateur, monarchie absolue et sombre illumination",
-      "content_html": "L'idéologue d'extrême droite Curtis Yarvin.",
-      "date_published": "2026-02-08T04:30:01+00:00",
-      "authors": [
-        {
-          "name": "Lluís Bassets"
-        }
-      ],
-      "tags": [
-        "Opinión",
-        "Ilustración",
-        "Filosofía",
-        "Ciencias políticas",
-        "MAGA",
-        "Donald Trump",
-        "Fascismo",
-        "Nazismo",
-        "Monarquía",
-        "Democracia"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "92b8806ac7eef01d9df5785783f8417919d9a0505a5b5247c90249408a94454a",
