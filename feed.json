@@ -5,11 +5,29 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "ecc76a98342f45873a77ac6ccc631c5be4f6f4566808f5598658fbdb0efbcbeb",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230457/andrew-mountbatten-windsor-arrete-abus-pouvoir",
-      "title": "Affaire Epstein : l’ex-prince Andrew arrêté",
-      "content_html": "<p>Il a été arrêté à la suite d&#x27;allégations de «&nbsp;faute dans l&#x27;exercice de fonctions officielles&nbsp;».</p>",
-      "date_published": "2026-02-19T19:14:53+00:00",
+      "id": "75760683a3d14f66cddcb739bff6f46e0d08fd97c466f023c1c6b102e70bb63e",
+      "url": "https://www.elmundo.es/internacional/2026/02/19/699763ccfdddffa3358b4596.html",
+      "title": "L'ancien prince Andrew quitte le commissariat après avoir été détenu pendant onze heures pour sa \"conduite inappropriée\".",
+      "content_html": "Le frère du roi Charles III fait l'objet d'une enquête pour avoir transmis des documents confidentiels à Jeffrey Epstein, organisateur d'un réseau de trafic sexuel avec des victimes mineures",
+      "date_published": "2026-02-19T19:54:26+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "26a1adb064093dfe7aa81e0845860759f754304f849b0844483b3f510eaf7756",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013487/andrew-mountbatten-windsor-arrete-faute-excercie-fonction",
+      "title": "L’ex-prince Andrew Mountbatten-Windsor libéré",
+      "content_html": "<p>Il avait été arrêté à la suite d&#x27;allégations de «&nbsp;faute dans l&#x27;exercice de fonctions officielles&nbsp;».</p>",
+      "date_published": "2026-02-19T19:52:40+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,11 +37,37 @@
       "lang": "fr"
     },
     {
-      "id": "8058cc14dac98df0a7307d2addeff511dfad3599d02e643951e3fff08dc65821",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013486/jour-13-finale-canada-etats-unis-curling",
-      "title": "Hockey : les Canadiennes en avance 1-0 en 2e période",
-      "content_html": "<p>La troupe menée par Marie-Philip Poulin affronte les États-Unis pour le titre olympique.</p>",
-      "date_published": "2026-02-19T19:10:03+00:00",
+      "id": "0caae25e2fc0ace4adc3a756edf70b9d7423841c8fcbb62f26b25762a64c1a4f",
+      "url": "https://elpais.com/internacional/2026-02-19/la-policia-britanica-detiene-a-andres-mountbatten-windsor-por-sus-vinculos-con-el-pederasta-epstein.html",
+      "title": "L'ancien prince Andres quitte le commissariat plus de dix heures après son arrestation pour liens avec le pédophile Epstein",
+      "content_html": "Andrés Mountbatten Windsor quitte le poste de police d'Aylsham, ce jeudi.",
+      "date_published": "2026-02-19T19:49:15+00:00",
+      "authors": [
+        {
+          "name": "Rafa De Miguel"
+        }
+      ],
+      "tags": [
+        "Jeffrey Epstein",
+        "Andrés de Inglaterra",
+        "Pederastia",
+        "Delitos",
+        "Justicia",
+        "Reino Unido",
+        "Realeza"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e176b5638dd130f6f9dda89edf51b4630d604a58a3b29e7262323e27991a5d4b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230446/reunion-conseil-paix-trump-gaza",
+      "title": "Trump mobilise son « Conseil de paix » pour reconstruire Gaza",
+      "content_html": "<p>Des engagements financiers de 5&nbsp;milliards de dollars seront annoncés pour la bande de Gaza.</p>",
+      "date_published": "2026-02-19T19:48:59+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -31,6 +75,455 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "fb245f1d403b9880731b913cd393677c8bf497d8ab511903938484c14e6c5ea9",
+      "url": "https://www.ukrinform.net/rubric-polytics/4093319-zelensky-on-peace-talks-further-steps-will-be-determined-at-friday-meeting.html",
+      "title": "Zelensky on peace talks: Further steps will be determined at Friday meeting",
+      "content_html": "Ukrainian President Volodymyr Zelensky has said he will hold a meeting on Friday with members of Ukraine's negotiating team following talks in Switzerland.",
+      "date_published": "2026-02-19T19:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8058cc14dac98df0a7307d2addeff511dfad3599d02e643951e3fff08dc65821",
+      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013486/jour-13-finale-canada-etats-unis-curling",
+      "title": "Hockey : les Canadiennes en avance 1-0 après deux périodes",
+      "content_html": "<p>La troupe menée par Marie-Philip Poulin affronte les États-Unis pour le titre olympique.</p>",
+      "date_published": "2026-02-19T19:38:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8b2062d927272b78b9cb2ff85d1bec5d5a5980de3fd05a1757c13b36f0107d65",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/masked-protesters-arrested-outside-trumps-board-of-peace-meeting?traffic_source=rss",
+      "title": "Masked protesters arrested outside Trump’s Board of Peace meeting",
+      "content_html": "Pro-Palestinian protesters gathered in downtown Washington, DC, outside Donald Trump’s Board of Peace event.",
+      "date_published": "2026-02-19T19:38:36+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f113534b5766911990b8b2f66111b453c0b1db7786105a12e463cf57d8e6013",
+      "url": "https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates",
+      "title": "Andrew Mountbatten-Windsor released from police custody – live",
+      "content_html": "<p>The police raided Andrew’s Norfolk home on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Full report: Andrew Mountbatten-Windsor arrested</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/former-prince-andrew-mountbatten-windsor-arrest-explainer\">Why has former prince Andrew been arrested – and what happens now?</a></p></li></ul><p>Before the arrest was announced, the prime minister told BBC Breakfast “nobody is above the law” when asked about <strong>Andrew Mountbatten-Windsor.</strong></p><p><strong>Keir Starmer</strong> added:</p><p>Anybody who has any information should testify.</p><p>So whether it’s Andrew or anybody else, anybody who has got relevant information should come forward to whatever the relevant body is, in this particular case we’re talking about Epstein, but there are plenty of other cases.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:33:57+00:00",
+      "authors": [
+        {
+          "name": "Nadeem Badshah (now); Tom Ambrose and Taz Ali (earlier)"
+        }
+      ],
+      "tags": [
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e4f15885df57aeeacff01c3bf070ccfd5234a42e852edb62dda6888ae7e7ddc",
+      "url": "https://elpais.com/internacional/2026-02-19/trump-promete-10000-millones-de-dolares-para-la-reconstruccion-de-gaza.html",
+      "title": "Trump promet 10 milliards de dollars pour la reconstruction de Gaza",
+      "content_html": "Le président américain Donald Trump (à droite) s'entretient avec son vice-président, J. D. Vance, lors de la réunion du Conseil de paix à Gaza, ce jeudi à Washington.",
+      "date_published": "2026-02-19T19:33:44+00:00",
+      "authors": [
+        {
+          "name": "Macarena  Vidal Liy"
+        }
+      ],
+      "tags": [
+        "Conflicto árabe-israelí",
+        "Conflictos",
+        "Guerra",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Franja Gaza",
+        "Israel",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2736e1162f6b6d63f2640290efbd296522733102a88583543588932e1bb1f990",
+      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
+      "content_html": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
+      "date_published": "2026-02-19T19:33:36+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "785a4544f1bb397082012b1b5a070b6197e4594bdecf50fa56b721758d0d6c65",
+      "url": "https://www.elmundo.es/internacional/2026/02/19/6997656de85eceef018b4592.html",
+      "title": "Pourquoi le prince Andrew d'Angleterre a-t-il été arrêté ?De quoi vous accusent-ils ?Quel rapport cela a-t-il avec l’affaire Epstein ?",
+      "content_html": "La mauvaise conduite dans l'exercice d'une fonction publique dont vous êtes accusé peut être passible de l'emprisonnement à perpétuité comme peine maximale.",
+      "date_published": "2026-02-19T19:33:17+00:00",
+      "authors": [
+        {
+          "name": "Agencias"
+        }
+      ],
+      "tags": [
+        "Reino Unido",
+        "Jeffrey Epstein",
+        "internacional"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c4ce457bd252eef30c96f5931dbce01ce5b770e4f1755ae34a7bf4b00423a8b9",
+      "url": "https://www.liberation.fr/international/moyen-orient/donald-trump-evoque-un-delai-de-dix-jours-pour-un-accord-sur-le-nucleaire-avec-liran-sans-renoncer-aux-menaces-de-frappes-20260219_2577PN7JQJHU3FD2TW4BFEWPAI/",
+      "title": "Donald Trump évoque un délai de «dix jours» pour un accord sur le nucléaire avec l’Iran, sans renoncer aux menaces de frappes",
+      "content_html": "U.S. President Donald Trump points during a Black History Month reception at the White House in Washington, D.C., U.S., February 18, 2026.  REUTERS/Kevin Lamarque",
+      "date_published": "2026-02-19T19:32:51+00:00",
+      "authors": [
+        {
+          "name": "Zoé Vezyroglou"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e9504aea42af2a6152f11b746bcafd9428de61883352964f25cc9d3700cdccf2",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/20/accc-coles-nsw-public-hearing-illegal-tobacco-angus-taylor-liberal-coalition-net-zero-anthony-albanese-labor-ntwnfb",
+      "title": "Australia news live: Dural crime scene believed to be linked to Chris Baghsarian kidnapping, NSW police say; Angus Taylor vows to ‘rid system’ of net zero",
+      "content_html": "<p>Opposition leader signals his Liberals will abandon net zero commitment entirely. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Net zero is still dead, if not more dead under <strong>Angus Taylor</strong>’s Liberal party.</p><p>When <strong>Sussan Ley</strong> announced the party’s commitment to drop net zero in November, she kept the caveat that net zero would still be a <a href=\"https://www.theguardian.com/australia-news/2025/nov/13/liberal-party-net-zero-policy-meeting-debate-decision\">welcome outcome</a> if “we can get there with technology, with choice and with voluntary markets”.</p><p>I think the starting point is to get that net zero ideology out of our system ... We have uranium, we have coal, we have gas, we do have renewables, of course, in people putting solar cells on their roofs at a rapid pace, it’s the mix that’s going to get us the solution.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/feb/20/accc-coles-nsw-public-hearing-illegal-tobacco-angus-taylor-liberal-coalition-net-zero-anthony-albanese-labor-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:31:54+00:00",
+      "authors": [
+        {
+          "name": "Martin Farrer"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian politics",
+        "Australian economy",
+        "Business",
+        "Health",
+        "Australian education",
+        "Australian immigration and asylum",
+        "Australian foreign policy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "690a470f7c139a2b73149af9ece7612eba2f6d2626a031c3431c174143e2b6e2",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/decades-of-international-failure-on-palestine?traffic_source=rss",
+      "title": "Decades of international failure on Palestine",
+      "content_html": "&quot;Board of Peace&quot; convenes after decades of inaction on Palestinian demands to end the Israeli occupation.",
+      "date_published": "2026-02-19T19:28:18+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0c5c39bd3dc766f6efe6eff387409be85925f3c1df7c7667060e83db58fd5aa",
+      "url": "https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live",
+      "title": "Donald Trump repeats call for Iran to end nuclear program as world leaders gather for first Board of Peace meeting - US politics live",
+      "content_html": "<p>President says US has ‘some work’ to do with Iran as representatives from more than 45 countries attend Trump-run initiative</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/19/authoritarians-strongmen-and-dictators-who-is-on-trumps-board-of-peace\">Authoritarians, strongmen and dictators: who is on Trump’s Board of Peace?</a></p></li></ul><p>Donald Trump will start his day in Washington for the Board of Peace meeting at the White House.</p><p>He’ll then travel to <strong>Rome, Georgia</strong>, as part of his tour of the country to tout the administration’s affordability message. He’ll meet with local businesses there, and deliver remarks at 4pm ET.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:26:13+00:00",
+      "authors": [
+        {
+          "name": "Lucy Campbell (now); Shrai Popat and Taz Ali (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Gaza",
+        "Palestine",
+        "US politics",
+        "Donald Trump",
+        "Middle East and north Africa",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9db90f0b75cf4ac677abd310f8e442635fe1a76eed0bd2ac6be724be6ca146ca",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230654/donald-trump-lance-ultimatum-dix-jours-iran",
+      "title": "Donald Trump lance un ultimatum de « dix jours » à l’Iran",
+      "content_html": "<p>Washington et Téhéran ont tenu deux sessions de pourparlers pour tenter de régler leurs différends.</p>",
+      "date_published": "2026-02-19T19:24:09+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3fecb9d6a9ef4ba31c495ca1b33334e79a2dd8e9df1e2fe7f917c662f7a32097",
+      "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says world has 10 days to see if Iran deal reached",
+      "content_html": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
+      "date_published": "2026-02-19T19:23:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b994286fc276f1961cc172d319cf4a75a5821242194e7689bc78d585e51d0c3b",
+      "url": "https://www.ukrinform.net/rubric-polytics/4093313-trump-extends-sanctions-against-russia-over-war-in-ukraine-for-another-year.html",
+      "title": "Trump extends sanctions against Russia over war in Ukraine for another year",
+      "content_html": "U.S. President Donald Trump has invoked the procedure to extend U.S. sanctions against Russia for another year over its invasion of Ukraine.",
+      "date_published": "2026-02-19T19:23:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ddc6b2707e3ffd36ee343281c8623ffbbd73b0247adbbc74eea71747ad6de225",
+      "url": "https://www.timesofisrael.com/iranians-grieve-defiantly-for-thousands-killed-in-january-crackdown/",
+      "title": "Iranians grieve defiantly for thousands killed in January crackdown",
+      "content_html": "<p>Amid anger at regime, some 40th-day commemorations for slain protesters see applause, celebration, in rejection of solemn atmosphere encouraged by state at official ceremonies</p>\n<p>The post <a href=\"https://www.timesofisrael.com/iranians-grieve-defiantly-for-thousands-killed-in-january-crackdown/\">Iranians grieve defiantly for thousands killed in January crackdown</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/01/AP26023676576436-e1769250349502-1024x640.jpg\" title=\"Iranians grieve defiantly for thousands killed in January crackdown\" width=\"160\" /></figure>",
+      "date_published": "2026-02-19T19:21:27+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Iran",
+        "2026 Iran protests",
+        "Abdanan"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "96a206172530bd5b85f30251459980d87a30eb5d53923e2da8a8abae1c943449",
+      "url": "https://www.timesofisrael.com/state-comptroller-public-given-only-partial-picture-of-oct-7-responsibility/",
+      "title": "State comptroller: Public given only ‘partial picture’ of Oct. 7 responsibility",
+      "content_html": "<p>Responding to High Court order freezing his probe, Matanyahu Englman pans 'improper conduct' of officials, in apparent hint at Netanyahu's circulation of document on investigation</p>\n<p>The post <a href=\"https://www.timesofisrael.com/state-comptroller-public-given-only-partial-picture-of-oct-7-responsibility/\">State comptroller: Public given only &#8216;partial picture&#8217; of Oct. 7 responsibility</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/F260216YS138-1024x640.jpg\" title=\"State comptroller: Public given only &#8216;partial picture&#8217; of Oct. 7 responsibility\" width=\"160\" /></figure>",
+      "date_published": "2026-02-19T19:21:06+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Matanyahu Englman",
+        "State Comptroller",
+        "PMO Prime Minister's Office",
+        "Benjamin Netanyahu",
+        "2023-2025 Israel-Hamas war"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d993b50e4195fe829a31b7c2753cdc931c8acb2bd839a44ede153e1c3ec63059",
+      "url": "https://www.timesofisrael.com/israeli-researchers-find-humans-turtles-share-key-brain-function-going-back-320-million-years/",
+      "title": "Israeli researchers find humans, turtles, share key brain function going back 320 million years",
+      "content_html": "<p>Turtles found able to grasp that same object seen from different angles is not a different object, an important trait for defense against land-based predators</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israeli-researchers-find-humans-turtles-share-key-brain-function-going-back-320-million-years/\">Israeli researchers find humans, turtles, share key brain function going back 320 million years</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/1.-Red-eared-slider-pond-turtle-1024x640.jpeg\" title=\"Israeli researchers find humans, turtles, share key brain function going back 320 million years\" width=\"160\" /></figure>",
+      "date_published": "2026-02-19T19:20:44+00:00",
+      "authors": [],
+      "tags": [
+        "Israel Inside",
+        "Turtles",
+        "academic research",
+        "Tel Aviv University",
+        "evolution",
+        "brain science",
+        "neuroscience"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "384cbfb23b9b26138ba8eaad7d7c1700d945eb68f207f21965a3cfcab38a053c",
+      "url": "https://www.elmundo.es/internacional/2026/02/19/699755a4fc6c83f12e8b45a3.html",
+      "title": "Le chef du Commandement Sud des États-Unis, à Caracas, quelques heures après avoir ordonné le naufrage de trois bateaux trafiquants de drogue dans le Pacifique et les Caraïbes",
+      "content_html": "Le général Donovan rencontre Delcy Rodríguez pour \"assurer la mise en œuvre\" de la feuille de route de Washington pour le Venezuela",
+      "date_published": "2026-02-19T19:20:26+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Venezuela",
+        "Chavismo",
+        "América",
+        "Latinoamérica",
+        "Delcy Rodríguez"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8520c93c9cce6797f5ca0d7fd0865c75f30e662685ca90c69d00ad2c1e1f7a17",
+      "url": "https://www.dw.com/en/a-thousand-kenyans-recruited-for-russia-s-war-new-report/a-76050872?maca=en-rss-en-all-1573-rdf",
+      "title": "A thousand Kenyans 'recruited' for Russia's war — new report",
+      "content_html": "Kenya's intelligence service says 1,000 Kenyans had been lured into fighting for Russia in Ukraine. Moscow denies the allegations.",
+      "date_published": "2026-02-19T19:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b48f71b84f1dbbf2e61109f2c6a54e1a05e2c50e37555d7daece9809983794f8",
+      "url": "https://www.theguardian.com/technology/2026/feb/19/us-builds-website-that-will-allow-europeans-to-view-blocked-content",
+      "title": "US builds website that will allow Europeans to view blocked content",
+      "content_html": "<p>Freedom.gov appears to be administered by a branch of the Department of Homeland Security</p><p>The US has built a portal that will allow Europeans to view blocked content including alleged hate speech and terrorism, according to <a href=\"https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/\">Reuters</a>.</p><p>The portal, “<a href=\"http://freedom.gov\">freedom.gov</a>”, will allow worldwide users to circumvent government controls on their content. The site features a graphic of a ghostly horse galloping above the Earth, and the motto: “Information is power. Reclaim your human right to free expression. Get ready.”</p> <a href=\"https://www.theguardian.com/technology/2026/feb/19/us-builds-website-that-will-allow-europeans-to-view-blocked-content\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:15:27+00:00",
+      "authors": [
+        {
+          "name": "Aisha Down"
+        }
+      ],
+      "tags": [
+        "Internet",
+        "Internet safety",
+        "US news",
+        "World news",
+        "Technology",
+        "Trump administration",
+        "US politics",
+        "Censorship"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c23ab3ba6e9e52df6abdfbe0f4dea44f4a8987c417745bbd3593868777b170bc",
+      "url": "https://www.dw.com/en/remarkable-new-cat-cancer-genome-could-benefit-humans/a-76042857?maca=en-rss-en-all-1573-rdf",
+      "title": "'Remarkable' new cat cancer genome could benefit humans",
+      "content_html": "International team uncovers gene mutations that cause rare and aggressive cancer in both cats and humans. Their findings could provide a path to treatments for both species.",
+      "date_published": "2026-02-19T19:14:00+00:00",
+      "authors": [],
+      "tags": [
+        "Science"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c825bcef12988668cdcf55368a81ebc746a0dd456d0b13007fff3ce7b9801603",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/palestinians-in-gaza-say-board-of-peace-will-further-occupation?traffic_source=rss",
+      "title": "Palestinians in Gaza say ‘Board of Peace’ will further occupation",
+      "content_html": "Many Palestinians in Gaza reacted to the first meeting of the so-called “Board of Peace” with deep scepticism.",
+      "date_published": "2026-02-19T19:12:06+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "047d19f0211253edee180f5e655d022b405c55d6cb6b6df28dcf00c075b7f2f6",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end",
+      "title": "US military buildup in Middle East intensifies but to what end?",
+      "content_html": "<p>US has enough assets in region to begin airstrikes on Iran but it is unclear what the goal of campaign would be </p><p>Donald Trump has said it will be clear within “probably 10 days” whether he can reach a nuclear deal with Iran, as the US military buildup in the Middle East intensifies with the impending arrival of a second carrier strike group.</p><p>The US president, speaking at the inaugural meeting of <a href=\"https://www.theguardian.com/world/2026/feb/19/what-is-trumps-boards-of-peace-and-who-is-involved\">his Board of Peace</a> in Washington DC, insisted Iran could not have a nuclear weapon and emphasised that “bad things will happen” if the country continued “to threaten regional stability”.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:09:28+00:00",
+      "authors": [
+        {
+          "name": "Dan Sabbagh Defence and security editor"
+        }
+      ],
+      "tags": [
+        "US foreign policy",
+        "Iran",
+        "Iran nuclear programme",
+        "Trump administration",
+        "Middle East and north Africa",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "834443ac793a5d6f944ab3ef288af18688a6f3a20a2d07e427afbe5a2bf92706",
@@ -85,24 +578,19 @@
       "lang": "fr"
     },
     {
-      "id": "a0c5c39bd3dc766f6efe6eff387409be85925f3c1df7c7667060e83db58fd5aa",
-      "url": "https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live",
-      "title": "Donald Trump repeats call for Iran to end nuclear program as world leaders gather for first Board of Peace meeting - US politics live",
-      "content_html": "<p>President says US has ‘some work’ to do with Iran as representatives from more than 45 countries attend Trump-run initiative</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/19/authoritarians-strongmen-and-dictators-who-is-on-trumps-board-of-peace\">Authoritarians, strongmen and dictators: who is on Trump’s Board of Peace?</a></p></li></ul><p>Donald Trump will start his day in Washington for the Board of Peace meeting at the White House.</p><p>He’ll then travel to <strong>Rome, Georgia</strong>, as part of his tour of the country to tout the administration’s affordability message. He’ll meet with local businesses there, and deliver remarks at 4pm ET.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live\">Continue reading...</a>",
-      "date_published": "2026-02-19T18:57:59+00:00",
+      "id": "219b2b87dc056643079135943d3e4ec3b7dea7a43d0fec1d534fccde991e2799",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/andrew-mountbatten-windsor-us-law-enforcement",
+      "title": "Andrew Mountbatten-Windsor on US law enforcement radar 15 years before UK arrest",
+      "content_html": "<p>Recently disclosed documents show name of former prince came up during 2011 inquiry into Jeffrey Epstein</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Andrew Mountbatten-Windsor arrested – live updates</a></p></li></ul><p>While <a href=\"https://www.theguardian.com/uk/prince-andrew\">Andrew Mountbatten-Windsor</a>’s arrest by British police on Thursday came after years of uproar over his association with <a href=\"https://www.theguardian.com/us-news/jeffrey-epstein\">Jeffrey Epstein</a>, documents show he had been on the radar of US law enforcement for nearly 15 years.</p><p>Mountbatten-Windsor’s name came up during a 2011 FBI inquiry into Epstein, investigative <a href=\"https://web.archive.org/web/20260131135032/https://www.justice.gov/epstein/files/DataSet%209/EFTA00269896.pdf\">documents</a> recently disclosed by the justice department reveal. Mountbatten-Windsor has denied all allegations of misconduct related to Epstein.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/19/andrew-mountbatten-windsor-us-law-enforcement\">Continue reading...</a>",
+      "date_published": "2026-02-19T19:01:05+00:00",
       "authors": [
         {
-          "name": "Lucy Campbell (now); Shrai Popat and Taz Ali (earlier)"
+          "name": "Victoria Bekiempis"
         }
       ],
       "tags": [
-        "Trump administration",
-        "Gaza",
-        "Palestine",
-        "US politics",
-        "Donald Trump",
-        "Middle East and north Africa",
-        "US news"
+        "US news",
+        "UK news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -175,7 +663,7 @@
       "id": "ac5d353d9ba785e93d1e5cc8029ce2ff57bad9554c292894671ffa34494761ac",
       "url": "https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul",
       "title": "Schools in England to get budget for children with special needs as part of Send overhaul",
-      "content_html": "<p>Children to get individual support directly from school instead of via council in attempt to curb spiralling costs</p><p>Children in England with special needs will receive individual support and therapy directly from their schools as part of the government’s overhaul of England’s special education provision.</p><p>Under the plans, mainstream schools will be given commissioning budgets to spend on therapists or additional support, instead of the money being controlled by highly-indebted local authorities.</p> <a href=\"https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul\">Continue reading...</a>",
+      "content_html": "<p>Children to get individual support directly from school instead of via council in attempt to curb spiralling costs</p><p>Children in England with special needs will receive individual support and therapy directly from their schools as part of the government’s overhaul of England’s special education provision.</p><p>Under the plans, mainstream schools will be given commissioning budgets to spend on therapists or additional support, instead of the money being controlled by highly indebted local authorities.</p> <a href=\"https://www.theguardian.com/education/2026/feb/19/schools-in-england-to-get-budget-for-children-with-special-needs-as-part-of-send-overhaul\">Continue reading...</a>",
       "date_published": "2026-02-19T18:50:34+00:00",
       "authors": [
         {
@@ -194,20 +682,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2736e1162f6b6d63f2640290efbd296522733102a88583543588932e1bb1f990",
-      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-      "content_html": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
-      "date_published": "2026-02-19T18:50:05+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -276,26 +750,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "0f113534b5766911990b8b2f66111b453c0b1db7786105a12e463cf57d8e6013",
-      "url": "https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates",
-      "title": "Andrew Mountbatten-Windsor arrested: King Charles says ‘law must take its course’ as ex-prince taken into custody – live",
-      "content_html": "<p>The police raided Andrew’s Norfolk home on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Full report: Andrew Mountbatten-Windsor arrested</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/former-prince-andrew-mountbatten-windsor-arrest-explainer\">Why has former prince Andrew been arrested – and what happens now?</a></p></li></ul><p>Before the arrest was announced, the prime minister told BBC Breakfast “nobody is above the law” when asked about <strong>Andrew Mountbatten-Windsor.</strong></p><p><strong>Keir Starmer</strong> added:</p><p>Anybody who has any information should testify.</p><p>So whether it’s Andrew or anybody else, anybody who has got relevant information should come forward to whatever the relevant body is, in this particular case we’re talking about Epstein, but there are plenty of other cases.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Continue reading...</a>",
-      "date_published": "2026-02-19T18:37:13+00:00",
-      "authors": [
-        {
-          "name": "Nadeem Badshah (now); Tom Ambrose and Taz Ali (earlier)"
-        }
-      ],
-      "tags": [
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "4c3c91b08a02b23f743de0eac30b4bba1b178df6ff01cfe99aa4cea45c61bc8a",
@@ -525,32 +979,6 @@
       "lang": "fr"
     },
     {
-      "id": "0caae25e2fc0ace4adc3a756edf70b9d7423841c8fcbb62f26b25762a64c1a4f",
-      "url": "https://elpais.com/internacional/2026-02-19/la-policia-britanica-detiene-a-andres-mountbatten-windsor-por-sus-vinculos-con-el-pederasta-epstein.html",
-      "title": "La police britannique arrête l'ancien prince Andrew pour ses liens avec le pédophile Epstein",
-      "content_html": "Andrés Mountbatten Windsor se dirigeait vers le château de Windsor le 2.",
-      "date_published": "2026-02-19T18:08:11+00:00",
-      "authors": [
-        {
-          "name": "Rafa De Miguel"
-        }
-      ],
-      "tags": [
-        "Jeffrey Epstein",
-        "Andrés de Inglaterra",
-        "Pederastia",
-        "Delitos",
-        "Justicia",
-        "Reino Unido",
-        "Realeza"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "57fa3fe5a2e4e121602f04412a598a165a451e4e6da3b109a6c4b14d33e75008",
       "url": "https://www.theguardian.com/us-news/2026/feb/19/forget-the-board-of-peace-trump-may-be-closer-than-thought-to-attacking-iran",
       "title": "Forget the Board of Peace, Trump may be closer than thought to attacking Iran",
@@ -698,8 +1126,8 @@
     {
       "id": "9a0f643b17ba0863741bc886915e35e2a23d76eb34f51c7e26c619a590fd9302",
       "url": "https://www.theguardian.com/politics/2026/feb/19/antonia-romeo-head-of-civil-service-shows-poor-judgment-say-former-colleagues",
-      "title": "Appointment of Antonia Romeo as head of civil service shows ‘poor judgment’ say former colleagues",
-      "content_html": "<p>First female cabinet secretary faced allegations of bullying behaviour in 2017, while working in New York consulate</p><p>Keir Starmer’s decision to appoint Antonia Romeo as the country’s most senior civil servant has prompted dismay among former colleagues who complained about what they considered bullying behaviour when she was a diplomat in New York.</p><p>Several people who worked with Romeo at the New York consulate nearly 10 years ago have told the Guardian they are upset by <a href=\"https://www.theguardian.com/politics/2026/feb/19/starmer-appoints-dame-antonia-romeo-as-cabinet-secretary-and-civil-service-head\">the prime minister’s decision</a> to make her cabinet secretary despite knowing about their complaints.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/19/antonia-romeo-head-of-civil-service-shows-poor-judgment-say-former-colleagues\">Continue reading...</a>",
+      "title": "Appointment of Antonia Romeo as head of civil service shows ‘poor judgment’, say former colleagues",
+      "content_html": "<p>First female cabinet secretary faced allegations of bullying behaviour in 2017 while working in New York consulate</p><p>Keir Starmer’s decision to appoint Antonia Romeo as the country’s most senior civil servant has prompted dismay among former colleagues who complained about what they considered bullying behaviour when she was a diplomat in New York.</p><p>Several people who worked with Romeo at the New York consulate nearly 10 years ago have told the Guardian they are upset by <a href=\"https://www.theguardian.com/politics/2026/feb/19/starmer-appoints-dame-antonia-romeo-as-cabinet-secretary-and-civil-service-head\">the prime minister’s decision</a> to make her cabinet secretary despite knowing about their complaints.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/19/antonia-romeo-head-of-civil-service-shows-poor-judgment-say-former-colleagues\">Continue reading...</a>",
       "date_published": "2026-02-19T17:53:47+00:00",
       "authors": [
         {
@@ -777,20 +1205,6 @@
       "lang": "fr"
     },
     {
-      "id": "e176b5638dd130f6f9dda89edf51b4630d604a58a3b29e7262323e27991a5d4b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230446/reunion-conseil-paix-trump-gaza",
-      "title": "Le Conseil de paix de Trump se réunit pour une première fois jeudi à Washington",
-      "content_html": "<p>Des engagements financiers de 5&nbsp;milliards de dollars seront annoncés pour la bande de Gaza.</p>",
-      "date_published": "2026-02-19T17:47:17+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "4c6fb7a29c888aed0c266ba000ce3837e7e52d3eb6f51845bccbf4906e9b7b88",
       "url": "https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates",
       "title": "Starmer appoints Antonia Romeo as Britain’s first female cabinet secretary – UK politics live",
@@ -839,29 +1253,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0e5f219bb29a5ef4fb8603d498a40cf5ead7f9b59e6d42cadeeb71688ef5fad8",
-      "url": "https://www.theguardian.com/world/2026/feb/19/jail-sentence-iran-british-couple-lindsay-craig-foreman-totally-unjustifiable-says-foreign-secretary",
-      "title": "British woman jailed for 10 years in Iran describes ‘endurance test’ of detention",
-      "content_html": "<p>Speaking before she was sentenced with husband Craig, Lindsay Foreman tells of being on emotional rollercoaster</p><p>A woman sentenced to 10 years in jail by an Iranian court said she had undergone an “endurance test for the mind” as she pleaded her innocence on charges of espionage.</p><p>Lindsay Foreman said she only wanted justice and fairness under the Iranian constitution, in an interview given to the BBC from inside Evin prison in Tehran just before she was sentenced with her husband, Craig.</p> <a href=\"https://www.theguardian.com/world/2026/feb/19/jail-sentence-iran-british-couple-lindsay-craig-foreman-totally-unjustifiable-says-foreign-secretary\">Continue reading...</a>",
-      "date_published": "2026-02-19T17:45:53+00:00",
-      "authors": [
-        {
-          "name": "Patrick Wintour Diplomatic editor"
-        }
-      ],
-      "tags": [
-        "UK news",
-        "Iran",
-        "Middle East and north Africa",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1103,20 +1494,6 @@
       "lang": "en"
     },
     {
-      "id": "a75c6037db4044ee43524a8ee9b468b1cca986741212962f1e02abd9c12005c5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230565/onu-craint-nettoyage-ethnique-gaza-cisjordanie",
-      "title": "Un organisme de l’ONU craint un « nettoyage ethnique » à Gaza et en Cisjordanie",
-      "content_html": "<p>Le Haut-Commissariat de l&#x27;ONU aux droits de l&#x27;homme craint un «&nbsp;nettoyage ethnique&nbsp;» à Gaza et en Cisjordanie.</p>",
-      "date_published": "2026-02-19T17:17:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0c14b7cf79039fcd55f8abf3b98a42e3d5d2b98e2c84f9636cc67f839537562b",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/openais-sam-altman-global-ai-regulation-urgently-needed?traffic_source=rss",
       "title": "OpenAI’s Sam Altman: Global AI regulation ‘urgently’ needed",
@@ -1129,26 +1506,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "05b1fc05b85619e3f7e30437c926c82c9da3f9ec5f3a73bf35bb3e1bb4504c1e",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham",
-      "title": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
-      "content_html": "<p>King expresses his ‘deepest concern’ and says ‘law must take its course’ as former prince arrested at Sandringham estate</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Andrew Mountbatten-Windsor arrested – live updates</a></p></li></ul><p>King Charles has insisted “the law must take its course” after detectives took the unprecedented step of arresting his brother Andrew Mountbatten-Windsor on suspicion of misconduct in public office.</p><p>Mountbatten-Windsor remained in custody on Thursday night with police seeking to question him about confidential material he allegedly shared with the convicted child sex offender Jeffrey Epstein.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Continue reading...</a>",
-      "date_published": "2026-02-19T17:16:40+00:00",
-      "authors": [
-        {
-          "name": "Jamie Grierson"
-        }
-      ],
-      "tags": [
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1207,7 +1564,7 @@
     {
       "id": "4cf9ae3b4f588443590875431185e41b4192a73023b444445b22c804b8ae6216",
       "url": "https://www.france24.com/fr/france/20260219-mort-de-quentin-deranque-sept-suspects-vont-%C3%AAtre-mis-en-examen-pour-homicide-volontaire",
-      "title": "Mort de Quentin Deranque : sept suspects vont être mis en examen pour \"homicide volontaire\"",
+      "title": "Mort de Quentin Deranque : plusieurs suspects mis en examen pour \"homicide volontaire\"",
       "content_html": "La mise en examen pour \"homicide volontaire\" a été requise jeudi 19 février par le parquet de Lyon pour sept hommes, parmi les 11 personnes interpellées dans le cadre de l'enquête sur la mort du militant nationaliste Quentin Deranque. Plusieurs personnes restent \"à identifier\", a précisé le procureur de Lyon.",
       "date_published": "2026-02-19T17:00:25+00:00",
       "authors": [
@@ -1438,20 +1795,6 @@
       "lang": "fr"
     },
     {
-      "id": "3fecb9d6a9ef4ba31c495ca1b33334e79a2dd8e9df1e2fe7f917c662f7a32097",
-      "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says world has 10 days to see if Iran deal reached",
-      "content_html": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
-      "date_published": "2026-02-19T16:40:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8a8b3bbeadf5e80c6134dab0efc281dcc25b95165e295f9ac50a0cf6b93136de",
       "url": "https://www.themoscowtimes.com/2026/02/19/after-80-years-russia-and-japan-still-cant-agree-on-who-these-islands-belong-to-a91937",
       "title": "After 80 Years, Russia and Japan Still Can’t Agree on Who These Islands Belong To",
@@ -1533,35 +1876,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "6e4f15885df57aeeacff01c3bf070ccfd5234a42e852edb62dda6888ae7e7ddc",
-      "url": "https://elpais.com/internacional/2026-02-19/trump-promete-10000-millones-de-dolares-para-la-reconstruccion-de-gaza.html",
-      "title": "Trump promet 10 milliards de dollars pour la reconstruction de Gaza",
-      "content_html": "Le président américain Donald Trump (à droite) s'entretient avec son vice-président, J. D. Vance, lors de la réunion du Conseil de paix à Gaza, ce jeudi à Washington.",
-      "date_published": "2026-02-19T16:36:57+00:00",
-      "authors": [
-        {
-          "name": "Macarena  Vidal Liy"
-        }
-      ],
-      "tags": [
-        "Conflicto árabe-israelí",
-        "Conflictos",
-        "Guerra",
-        "Conflictos armados",
-        "Conflictos internacionales",
-        "Franja Gaza",
-        "Israel",
-        "Hamás",
-        "Palestina",
-        "Oriente Próximo"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "97204abfac70f76ef98538c2d24121dff7c1c6cc6a088a29d71b8d1190a563c3",
@@ -2334,7 +2648,8 @@
         "Europa",
         "Guerra Ucrania Rusia",
         "Artículos Alberto Rojas",
-        "NLPremium"
+        "NLPremium",
+        "Especial Guerra de Ucrania"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -3251,7 +3566,7 @@
       "id": "9e417290c4e0c664ffb43d54018d8f9385977d0e9a1a7e01f64dc843e8baf945",
       "url": "https://www.lemonde.fr/politique/article/2026/02/19/mort-de-quentin-deranque-en-inde-emmanuel-macron-appelle-les-partis-extremes-a-faire-le-menage_6667409_823448.html",
       "title": "Mort de Quentin Deranque : en Inde, Emmanuel Macron appelle les « partis extrêmes » à « faire le ménage »",
-      "content_html": "Le président français, Emmanuel Macron, à New Delhi, le 18 février 2026.",
+      "content_html": "Le président français, Emmanuel Macron, à New Delhi, le 18 février 2026.",
       "date_published": "2026-02-19T13:57:55+00:00",
       "authors": [],
       "tags": [],
@@ -3665,26 +3980,6 @@
       "lang": "fr"
     },
     {
-      "id": "2d620d99e21f4206c504f7bb57a25e0f48022aeadbeb0a915f3ddc4e4ef6b27b",
-      "url": "https://www.timesofisrael.com/uk-police-arrest-ex-prince-andrew-on-suspicion-of-misconduct-amid-epstein-probes/",
-      "title": "UK police arrest former prince Andrew on suspicion of misconduct amid Epstein probes",
-      "content_html": "<p>Released files raised suspicions former royal sent late sex offender confidential government documents during his time as trade envoy</p>\n<p>The post <a href=\"https://www.timesofisrael.com/uk-police-arrest-ex-prince-andrew-on-suspicion-of-misconduct-amid-epstein-probes/\">UK police arrest former prince Andrew on suspicion of misconduct amid Epstein probes</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AFP__20250916__74NT7H9__v1__HighRes__BritainRoyalsDeath-1-1024x640.jpg\" title=\"UK police arrest former prince Andrew on suspicion of misconduct amid Epstein probes\" width=\"160\" /></figure>",
-      "date_published": "2026-02-19T12:26:50+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Prince Andrew",
-        "Jeffrey Epstein",
-        "British royal family",
-        "United Kingdom"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0e404351ce2a45acf1dc3997dd1e8494cca12b94dfd1c764dfb3ec7f95b533ed",
       "url": "https://www.dw.com/en/india-ai-summit-modi-macron-call-for-guardrails-amid-ai-boom/a-76029848?maca=en-rss-en-all-1573-rdf",
       "title": "India AI summit: Modi, Macron call for guardrails amid AI boom",
@@ -3779,22 +4074,6 @@
       "lang": "en"
     },
     {
-      "id": "fdc5abd540e2fac7956836f720b0265d664459fe8cb7794fdc8c85a181e61f99",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/what-happened-to-isil?traffic_source=rss",
-      "title": "What happened to ISIL?",
-      "content_html": "At the height of its power, ISIL held around a third of Syria and 40% of Iraq.",
-      "date_published": "2026-02-19T12:03:37+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "931b04bf3ec076e3dce20a7f6c402f1586178a7bf0833dfd166c60f57c0fa71f",
       "url": "https://www.dw.com/en/germany-news-far-right-afd-polls-37-ahead-of-state-vote/live-76030997?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Far-right AfD polls 37% ahead of state vote",
@@ -3807,22 +4086,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "312908fd578a2d17f00fefc183ae1c4f86768f7b8df3184915e9ffac449b9cf8",
-      "url": "https://www.aljazeera.com/news/2026/2/19/director-rejects-award-over-israels-genocidal-war-in-gaza?traffic_source=rss",
-      "title": "Director rejects award over Israel’s genocidal war in Gaza",
-      "content_html": "Tunisian director Kaouther Ben Hania leaves film award on stage, demanding accountability for genocide in Gaza.",
-      "date_published": "2026-02-19T12:01:49+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3883,22 +4146,6 @@
       "lang": "fr"
     },
     {
-      "id": "fd9aa9b669ac1f61814df5361abb574badbb539f3c31a74924ba781a5b4255ec",
-      "url": "https://www.aljazeera.com/video/centre-stage/2026/2/19/the-war-on-unrwa-gaza-and-the-erosion-of-intl-law?traffic_source=rss",
-      "title": "The war on UNRWA: Gaza and the erosion of intl law",
-      "content_html": "On Centre Stage, Al Jazeera’s Mohamed Hassan speaks with UNRWA’s commissioner general, Philippe Lazzarini.",
-      "date_published": "2026-02-19T11:46:05+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "85de99b782bc06be681a506e75e18ed4958f0eb71de7b8afae692ba3af2f36b4",
       "url": "https://www.ukrinform.net/rubric-ato/4093150-krynychne-in-zaporizhzhia-region-is-under-control-of-armed-forces-of-ukraine-voloshyn-says.html",
       "title": "Krynychne in Zaporizhzhia region is under control of Armed Forces of Ukraine, Voloshyn says",
@@ -3931,23 +4178,6 @@
       "lang": "en"
     },
     {
-      "id": "9e998b318cc55d5fb095292c67f491439b29891a3a798aebdec0133be74d42b1",
-      "url": "https://www.timesofisrael.com/saudi-arabia-has-not-pivoted-back-toward-extremism/",
-      "title": "Saudi Arabia has not pivoted back toward extremism",
-      "content_html": "<p>The kingdom is still on its long, self-interested road to moderation, and the ‘embrace of Islamism’ narrative collapses under the facts</p>\n<p>The post <a href=\"https://www.timesofisrael.com/saudi-arabia-has-not-pivoted-back-toward-extremism/\">Saudi Arabia has not pivoted back toward extremism</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/11/AFP__20251118__84EL7RB__v1__HighRes__SaudiCrownPrinceMeetsTrump-1024x640.jpg\" title=\"Saudi Arabia has not pivoted back toward extremism\" width=\"160\" /></figure>",
-      "date_published": "2026-02-19T11:38:55+00:00",
-      "authors": [],
-      "tags": [
-        "The Blogs",
-        "Saudi Arabia"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "776f064ef5cd57f86fe34be676be0b4f811c1941b602237a216252f0662923c6",
       "url": "https://www.liberation.fr/economie/economie-numerique/sommet-de-lia-les-rivaux-americains-sam-altman-patron-dopenai-et-dario-amodei-a-la-tete-danthopric-refusent-de-se-serrer-la-main-20260219_HGCOLBBKVJCXXO3KHV2OW45P7Q/",
       "title": "Sommet de l’IA : les rivaux américains Sam Altman, patron d’OpenAI, et Dario Amodei, à la tête d’Anthopric, refusent de se serrer la main",
@@ -3964,26 +4194,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d58c9def1fcf7cbb70a2b245de3f66377687d727927bde7a87bbf614f891f986",
-      "url": "https://www.timesofisrael.com/israel-strikes-hezbollah-weapons-depots-military-sites-in-lebanon/",
-      "title": "Israel strikes Hezbollah weapons depots, military sites in Lebanon",
-      "content_html": "<p>Military says weaponry and military sites violated US-brokered 2024 ceasefire deal</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israel-strikes-hezbollah-weapons-depots-military-sites-in-lebanon/\">Israel strikes Hezbollah weapons depots, military sites in Lebanon</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260216__97QM7T3__v6__HighRes__LebanonIsraelConflict-e1771352224402-1024x640.jpg\" title=\"Israel strikes Hezbollah weapons depots, military sites in Lebanon\" width=\"160\" /></figure>",
-      "date_published": "2026-02-19T11:35:05+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Hezbollah",
-        "Lebanon",
-        "IDF Israel Defense Forces",
-        "2023-2024 Israel-Hezbollah conflict"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "3cd8c1837553215f82044a5b6663c0fb2ef2d8f6889e0e07f2ef129582545f9a",
@@ -4080,26 +4290,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1191d29eb3763bcecfddd3ec32ec01e3c6d7e492e596e39dc44921b4cf2442a7",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/first-thing-former-prince-andrew-mountbatten-windsor-arrested",
-      "title": "Former prince Andrew Mountbatten-Windsor arrested at Sandringham estate | First Thing",
-      "content_html": "<p>Police assessing if Mountbatten-Windsor shared sensitive information with Jeffrey Epstein. Plus: how plastic production has doubled </p><p>Good morning.</p><p>Andrew Mountbatten-Windsor, formerly known as Prince Andrew, <a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">has been arrested on suspicion of misconduct</a> in public office.</p><p><strong>What other information has the force shared?</strong> Thames Valley police previously said they were reviewing allegations that a woman was trafficked to the UK by Epstein to have a sexual encounter with Andrew.</p><p><strong>This is a developing story:</strong> <a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">follow the latest updates</a>.</p><p><strong>What is the ISF?</strong> According to the UN, which authorized the creation of a temporary force, the ISF will be tasked with securing Gaza’s border and maintaining peace within the area. It’s also supposed to protect civilians, and train and support “vetted Palestinian police forces”.</p><p><strong>What about in case of renewed war?</strong> It’s unclear what the ISF’s rules of engagement would be if there was combat, renewed bombing by Israel, or Hamas attacks.</p><p><strong>What other news is there from Gaza?</strong> A Lancet study has <a href=\"https://www.theguardian.com/world/2026/feb/19/gaza-death-toll-higher-than-reported-lancet-study\">found that the death toll</a> in the first 16 months of the war in Gaza was far higher than reported.</p> <a href=\"https://www.theguardian.com/us-news/2026/feb/19/first-thing-former-prince-andrew-mountbatten-windsor-arrested\">Continue reading...</a>",
-      "date_published": "2026-02-19T11:19:44+00:00",
-      "authors": [
-        {
-          "name": "Clea Skopeliti"
-        }
-      ],
-      "tags": [
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -4391,22 +4581,6 @@
       "lang": "en"
     },
     {
-      "id": "b418acf6d9707ff1e0fe073ccd99bf061c5ecf1e9c91036869d086663e8628b4",
-      "url": "https://www.ukrinform.net/rubric-ato/4093110-velikie-luki-oil-depot-in-pskov-region-attacked-by-ssu-drones.html",
-      "title": "Velikie Luki oil depot in Pskov region attacked by SSU drones",
-      "content_html": "Last night, drones from the SSU's Special Operations Center \"A\" successfully struck the Velikie Luki oil depot in the Pskov region, almost 500 km from the Ukrainian border.",
-      "date_published": "2026-02-19T09:55:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5cd6a2fbfa0b5983812e7fc8dc0313a21d3ec321bdb9981b2a1b8cdeeba48d75",
       "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-democratie-americaine-est-en-train-de-mourir-sous-nos-yeux-20260219_SEHVIAAT2ZAUREKNZLVH4S5RQE/",
       "title": "La démocratie américaine est en train de mourir sous nos yeux",
@@ -4491,22 +4665,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "82f37673ae89210f119d8c71dece6eeaef2c10e8127fb000ba8453a711270efa",
-      "url": "https://www.ukrinform.net/rubric-ato/4093098-russians-attack-civilian-infrastructure-in-nizhyn-with-ballistic-missiles-one-person-injured.html",
-      "title": "Russians attack civilian infrastructure in Nizhyn with ballistic missiles, one person injured",
-      "content_html": "On February 18, Russian troops struck civilian infrastructure in Nizhyn, Chernihiv region, with ballistic missiles, injuring a resident.",
-      "date_published": "2026-02-19T09:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "f9f392940dbec221921738c1921fe9b405bcb217d2f587e25391f1279d08194d",
@@ -4724,22 +4882,6 @@
       "lang": "en"
     },
     {
-      "id": "678a9f249e683d7c8a6a4969061f9f8444f81a0c3780fde073cf2062d62ab1d0",
-      "url": "https://www.dw.com/en/palestinian-journalists-tortured-in-israeli-prisons-report/a-76027348?maca=en-rss-en-all-1573-rdf",
-      "title": "Palestinian journalists tortured in Israeli prisons — report",
-      "content_html": "A report by the Committee to Protect Journalists, a US-based NGO, lists accounts of media professionals held by Israel since October 7, 2023. Israel has repeatedly denied reports of mistreatment of prisoners.",
-      "date_published": "2026-02-19T08:07:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "fce0099a00ffed74484545e0f9ba47564b998c135c8f72847b711fa116fac604",
       "url": "https://www.elmundo.es/internacional/2026/02/19/6996c1dde4d4d875648b457f.html",
       "title": "Un couple britannique arrêté en Iran alors qu'il parcourait le monde à moto est condamné à 10 ans de prison",
@@ -4885,37 +5027,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ed69a163ba65d5505d8b009964d83f7d5fc7093cf56b62cf81f1b309dacf5cf3",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb",
-      "title": "Coles admits in court to strong-arming supplier amid ‘Down Down’ campaign – as it happened",
-      "content_html": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/feb/19/tim-wilson-walks-back-suggestion-liberals-would-rethink-rba-full-employment-mandate\">Tim Wilson walks back suggestion Liberals would rethink RBA full employment mandate</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jonno Duniam</strong>, the shadow home affairs minister, spoke about the passports this morning as the opposition seeks to hammer the government on the matter. He told Channel Seven’s Sunrise reports those in the group had travel documents was “of incredible concern, I think, to most Australians that these people want to come back to Australia”, adding:</p><p>And if one person has been hit with a temporary exclusion order for going to this part of world and doing what they’ve done, why is it not the case that the others have not had the same order applied against them?</p><p>I would be very interested to know what advice there is on the others because I think the fact that they’ve all gone to the same place for the same purpose … I’m not sure how you can differentiate between them.</p><p>But putting that to one side, if our laws aren’t strong enough to protect us, to prevent people who’ve gone to support Isis from coming back to this country, then the government should look at expanding and strengthening those laws and we stand as an opposition ready to work with them.</p><p>I think I’m giving the very practical answer that if anyone applies for a passport as a citizen, they are issued with a passport, in the same way that if someone applies for a Medicare card, they get a Medicare card. These are automatic processes done by public servants.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-02-19T06:44:40+00:00",
-      "authors": [
-        {
-          "name": "Luca Ittimani and Nick Visser (earlier)"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Australian politics",
-        "Australian economy",
-        "Business",
-        "Health",
-        "Australian education",
-        "Australian immigration and asylum",
-        "Australian foreign policy",
-        "Labor party",
-        "Coalition",
-        "Angus Taylor",
-        "Anthony Albanese"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "3ce61adab3670a2f13dd16b2b5ced4ddb535d107f947b55e1cd647e662832640",
@@ -5130,34 +5241,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "bde83d0c6504b6a5a97e1f9dad6c4e4317c7d1e01741a2bfaa1c4086e15998c8",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230415/democrates-intensifient-enquete-fiasco-pont-gordie-howe",
-      "title": "Les démocrates intensifient leur enquête sur le fiasco du pont Gordie-Howe",
-      "content_html": "<p>Les élus exigent d’obtenir la correspondance entre le propriétaire du pont et le secrétaire au Commerce.</p>",
-      "date_published": "2026-02-19T01:30:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3f87a6bf3b09b5c271a8c5b23de1407458c060018739e53705cbbd60b5eed963",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230406/bezalel-smotrich-prone-emigration-palestiniens-cisjordanie-gaza",
-      "title": "Un ministre israélien prône « l’émigration » des Palestiniens de Cisjordanie et de Gaza",
-      "content_html": "<p>L&#x27;ONU estime que de récentes mesures israéliennes équivalent à une «&nbsp;annexion progressive de facto&nbsp;».</p>",
-      "date_published": "2026-02-19T00:37:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "0334b3cef2ce818dba89a312ee419847b4f6d9f0b78344b540945c5c5b0c2f40",
@@ -7180,24 +7263,6 @@
       "lang": "fr"
     },
     {
-      "id": "126d14d089d98420166dc8ab6530e12d3a396f23abe7308cb7b43e3a49fcfe91",
-      "url": "https://www.liberation.fr/international/amerique/affaire-epstein-hillary-clinton-accuse-ladministration-trump-detouffer-le-scandale-20260217_FXDW6OP7ORCDHEXPR57HYEJKZE/",
-      "title": "Affaire Epstein : Hillary Clinton accuse l’administration Trump d’étouffer le scandale",
-      "content_html": "L'ancienne secrétaire d'Etat américaine Hillary Clinton s'exprime lors du gala Cinema for Peace & Democracy, à Berlin, lundi 16 février.",
-      "date_published": "2026-02-17T10:33:17+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "795750d37e324b3c935cd7cf31081be069b9baaec160c525bfb51cc6eee42f6c",
       "url": "https://www.themoscowtimes.com/2026/02/17/azerbaijan-sentences-former-nagorno-karabakh-official-to-20-years-in-prison-a91972",
       "title": "Azerbaijan Sentences Former Nagorno-Karabakh Official to 20 Years in Prison",
@@ -7589,26 +7654,6 @@
       "lang": "fr"
     },
     {
-      "id": "795f4605382da14c9cf4e47b0c2191cda29948ab580a8f698561b44de4b217d5",
-      "url": "https://www.elmundo.es/internacional/2026/02/16/699347a5fc6c8374298b4572.html",
-      "title": "Un prêtre danois jugé pour possession de 80 000 images pédopornographiques les compare à une \"collection de timbres\"",
-      "content_html": "\"Il y avait de la fascination parce que c'était interdit\", déclare-t-il lors du procès qui l'expose à six mois de prison.",
-      "date_published": "2026-02-16T16:42:21+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Dinamarca"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f2adc746b36569d11bc7c64ac6efea1a3fe2617b8d0466bf9834cee7403edc67",
       "url": "https://www.dw.com/en/will-europe-move-to-boost-diplomacy-with-russia/a-75989739?maca=en-rss-en-all-1573-rdf",
       "title": "Will Europe move to boost diplomacy with Russia?",
@@ -7623,27 +7668,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "143547fe73795bdf69278b53b36b280c2dbd88a2dd3027e2d6ba27442ce8d5fe",
-      "url": "https://www.elmundo.es/internacional/2026/02/16/69933c41fc6c8395678b457b.html",
-      "title": "Le parquet de Lyon ouvre une enquête pour \"homicide volontaire\" du jeune nationaliste lynché en pleine rue",
-      "content_html": "Tollé politique contre les groupes d'extrême gauche en France suite à la mort de Quentin Deranque",
-      "date_published": "2026-02-16T16:17:33+00:00",
-      "authors": [
-        {
-          "name": "C. Fresneda"
-        }
-      ],
-      "tags": [
-        "Francia",
-        "Artículos Carlos Fresneda"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "80b28ea06f824fe7a6c611e15cd95bf36e135bddf759a0217779ba80694d4f43",
@@ -7718,51 +7742,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "f3959992aaec94d2b1f43afa4d48a996380ce142dd9654bdcb59ba65c61c4437",
-      "url": "https://www.elmundo.es/internacional/2026/02/16/6992e49dfc6c8381138b4592.html",
-      "title": "Alarme au Moyen-Orient après la réforme israélienne qui permet l'annexion de terres en Cisjordanie",
-      "content_html": "Cette mesure suscite une condamnation unanime de la part des pays de la région pour avoir entravé le processus visant à parvenir à une solution à deux États.",
-      "date_published": "2026-02-16T14:14:36+00:00",
-      "authors": [
-        {
-          "name": "Lara Villalón"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Cisjordania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "24836372edae8d2007dca9c122a4c446c21cf322115310eaa08d11745183e197",
-      "url": "https://www.elmundo.es/internacional/2026/02/16/69931c5dfdddff67058b457f.html",
-      "title": "Marco Rubio élève Viktor Orban au rang d'atout \"essentiel\" des Etats-Unis en Europe",
-      "content_html": "Appui du secrétaire d'État américain aux aspirations électorales du Premier ministre hongrois à la veille des élections législatives",
-      "date_published": "2026-02-16T13:41:23+00:00",
-      "authors": [
-        {
-          "name": "Carmen Valero"
-        }
-      ],
-      "tags": [
-        "Hungría",
-        "Estados Unidos",
-        "Viktor Orban",
-        "Marco Rubio",
-        "Donald Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "cee2b81b83089b6002eba0643180b3991d7e0908a9efc6a5f425355b30c0a8c8",
@@ -9436,22 +9415,6 @@
       "authors": [],
       "tags": [
         "Culture"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1677db87ba38d93c344f23383d45084c3a6103c38234eaf89ca940bb7045e826",
-      "url": "https://www.dw.com/en/handball-germany-lose-to-denmark-in-euro-final/a-75754340?maca=en-rss-en-all-1573-rdf",
-      "title": "Handball: Germany lose to Denmark in Euro final",
-      "content_html": "Germany fell at the final hurdle at the European Men's Handball Championship, losing to co-hosts and favorites Denmark in the final. Two German players made the tournament all-star team.",
-      "date_published": "2026-02-01T20:09:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
       ],
       "source": {
         "name": "Deutsche Welle",
