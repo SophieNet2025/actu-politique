@@ -5,16 +5,477 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "26a1adb064093dfe7aa81e0845860759f754304f849b0844483b3f510eaf7756",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013487/andrew-mountbatten-windsor-arrete-faute-excercie-fonction",
-      "title": "L’ex-prince Andrew Mountbatten-Windsor a été arrêté et placé en détention",
-      "content_html": "<p>Son arrestation fait suite à des allégations de «&nbsp;faute dans l&#x27;exercice de fonctions officielles&nbsp;».</p>",
-      "date_published": "2026-02-19T12:59:21+00:00",
+      "id": "1a546288511170adf629c809d98f7d93d89481ccee49b27c365e50b9cf65f923",
+      "url": "https://www.ukrinform.net/rubric-sports/4093194-heraskevychs-team-to-challenge-ioc-disqualification-in-swiss-court.html",
+      "title": "Heraskevych's team to challenge IOC disqualification in Swiss court",
+      "content_html": "The team of Ukrainian skeleton racer Vladyslav Heraskevych will file a lawsuit following the decision of the International Olympic Committee (IOC) to disqualify him – a ruling the athlete described as a \"pro-Russian game.\"",
+      "date_published": "2026-02-19T14:04:00+00:00",
+      "authors": [],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0caae25e2fc0ace4adc3a756edf70b9d7423841c8fcbb62f26b25762a64c1a4f",
+      "url": "https://elpais.com/internacional/2026-02-19/la-policia-britanica-detiene-a-andres-mountbatten-windsor-por-sus-vinculos-con-el-pederasta-epstein.html",
+      "title": "La police britannique arrête l'ancien prince Andrew pour ses liens avec le pédophile Epstein",
+      "content_html": "Andrés Mountbatten Windsor se dirigeait vers le château de Windsor le 2.",
+      "date_published": "2026-02-19T14:01:33+00:00",
+      "authors": [
+        {
+          "name": "Rafa De Miguel"
+        }
+      ],
+      "tags": [
+        "Jeffrey Epstein",
+        "Andrés de Inglaterra",
+        "Pederastia",
+        "Delitos",
+        "Justicia",
+        "Reino Unido",
+        "Realeza"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5ad79207027b2744eb2314e28f39ab7875e2e84b3cc13c0f282a6179870f16a3",
+      "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2230531/sidney-crosby-blessure-demi-finale-finlande",
+      "title": "Le statut de Sidney Crosby pour la demi-finale toujours en suspens",
+      "content_html": "<p>Le capitaine de l&#x27;équipe canadienne s&#x27;est blessé lors du match contre la Tchéquie, hier.</p>",
+      "date_published": "2026-02-19T14:00:51+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9e417290c4e0c664ffb43d54018d8f9385977d0e9a1a7e01f64dc843e8baf945",
+      "url": "https://www.lemonde.fr/politique/article/2026/02/19/mort-de-quentin-deranque-en-inde-emmanuel-macron-appelle-les-partis-extremes-a-faire-le-menage_6667409_823448.html",
+      "title": "Mort de Quentin Deranque : en Inde, Emmanuel Macron appelle les « partis extrêmes » à « faire le ménage »",
+      "content_html": "Le président français, Emmanuel Macron, à New Delhi, le 18 février 2026.",
+      "date_published": "2026-02-19T13:57:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8058cc14dac98df0a7307d2addeff511dfad3599d02e643951e3fff08dc65821",
+      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013486/jour-13-finale-canada-etats-unis-curling",
+      "title": "Jeux olympiques : ça passe ou ça casse pour les Canadiennes au curling",
+      "content_html": "<p>L&#x27;équipe de Rachel Homan doit gagner son dernier match du tour préliminaire pour accéder aux éliminatoires.</p>",
+      "date_published": "2026-02-19T13:56:41+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "26a1adb064093dfe7aa81e0845860759f754304f849b0844483b3f510eaf7756",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013487/andrew-mountbatten-windsor-arrete-faute-excercie-fonction",
+      "title": "L’ex-prince Andrew Mountbatten-Windsor a été arrêté et placé en détention",
+      "content_html": "<p>Son arrestation fait suite à des allégations de «&nbsp;faute dans l&#x27;exercice de fonctions officielles&nbsp;».</p>",
+      "date_published": "2026-02-19T13:56:24+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "317180df2974e9991d16606136fd4449d97551494f9cad2368a663a5a3fb9769",
+      "url": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
+      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
+      "content_html": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
+      "date_published": "2026-02-19T13:55:23+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f346eac3b0d8f6b1c6b8022e3921d42ade2f7fb1d5474bfa9c75b8ffc5426be2",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230447/coree-sud-verdict-yoon-loi-martiale",
+      "title": "Corée du Sud : l’ex-président condamné à la prison à vie pour sa loi martiale de 2024",
+      "content_html": "<p>L&#x27;ancien dirigeant conservateur a donc échappé à la peine capitale, qui avait été requise par le parquet.</p>",
+      "date_published": "2026-02-19T13:48:01+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "304be6e6c5dfefa65991fee35978cc50694cfe16edd6cdec69b87877657f8e78",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/amid-tensions-ukraines-chernobyl-site-remains-part-of-a-war-zone?traffic_source=rss",
+      "title": "Amid tensions, Ukraine’s Chernobyl site remains part of a war zone",
+      "content_html": "Al Jazeera&#039;s Nils Adler has seen how the site of the world’s worst nuclear disaster is affected by the war on Ukraine.",
+      "date_published": "2026-02-19T13:45:06+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0c5c39bd3dc766f6efe6eff387409be85925f3c1df7c7667060e83db58fd5aa",
+      "url": "https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live",
+      "title": "World leaders gather in Washington for Donald Trump’s first Board of Peace meeting - US politics live",
+      "content_html": "<p>Representatives from more than 45 countries expected to attend initiative aimed at bringing an end to the war in Gaza</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/19/authoritarians-strongmen-and-dictators-who-is-on-trumps-board-of-peace\">Authoritarians, strongmen and dictators: who is on Trump’s Board of Peace?</a></p></li></ul><p>Donald Trump will start his day in Washington for the Board of Peace meeting at the White House.</p><p>He’ll then travel to <strong>Rome, Georgia</strong>, as part of his tour of the country to tout the administration’s affordability message. He’ll meet with local businesses there, and deliver remarks at 4pm ET.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:44:19+00:00",
+      "authors": [
+        {
+          "name": "Shrai Popat (now) and Taz Ali (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Gaza",
+        "Palestine",
+        "US politics",
+        "Donald Trump",
+        "Middle East and north Africa",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6ba1a93b7494650ae30b661bfc1daa157d5578a1180c2dae305a09ae717390e2",
+      "url": "https://www.ukrinform.net/rubric-ato/4093186-european-intelligence-doubts-war-in-ukraine-will-end-this-year-reuters.html",
+      "title": "European intelligence doubts war in Ukraine will end this year – Reuters",
+      "content_html": "European intelligence chiefs are pessimistic about the chances of an agreement being reached this year to end Russia's war in Ukraine, despite Donald Trump's assertions that U.S.-brokered talks have brought the prospect of a deal \"reasonably close.\"",
+      "date_published": "2026-02-19T13:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a62671e4af0c80a3668c883078055063f9e53bc05117a7d18943ad24275b106",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230501/ryan-wedding-accusations-avocat-deepak-paradkar",
+      "title": "De nouvelles accusations contre l’avocat canadien qui aurait aidé Ryan Wedding",
+      "content_html": "<p>Me Deepak Paradkar aurait conseillé, selon le FBI, à l&#x27;ex-olympien Ryan Wedding de faire tuer un informateur.</p>",
+      "date_published": "2026-02-19T13:38:23+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4c6fb7a29c888aed0c266ba000ce3837e7e52d3eb6f51845bccbf4906e9b7b88",
+      "url": "https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates",
+      "title": "Starmer appoints Antonia Romeo as Britain’s first female cabinet secretary – UK politics live",
+      "content_html": "<p>The appointment follows allegations she was previously spoken to about her management style</p><p><strong>Alex Davies-Jones,</strong> a justice minister, has said the government wants to pass the legislation implementing the Chagos Islands deal as soon as it can – despite Presidient Trump’s lastest diatribe about it. (See<a href=\"https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates?page=with%3Ablock-6996c17e8f083a5e8f05e04d#block-6996c17e8f083a5e8f05e04d\"> 9.34am</a>.)</p><p>Davies-Jones was giving interviews this morning and she told Times Radio:</p><p>This deal is essential and crucial for the national security of the United Kingdom and that is the first priority of any government.</p><p>We will be bringing the bill back as soon as parliamentary time allows, because this is about national security.</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:34:37+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
+      "tags": [
+        "Keir Starmer",
+        "Chagos Islands",
+        "Politics",
+        "UK news",
+        "Labour",
+        "Donald Trump",
+        "Civil service",
+        "Law"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f113534b5766911990b8b2f66111b453c0b1db7786105a12e463cf57d8e6013",
+      "url": "https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates",
+      "title": "Andrew Mountbatten-Windsor arrested: King Charles says ‘law must take its course’ as ex-prince taken into custody – live",
+      "content_html": "<p>The police raided Andrew’s Norfolk home on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Full report: Andrew Mountbatten-Windsor arrested</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/andrew-mountbatten-windsor-arrested-what-we-know-so-far\">What we know so far as King Charles III’s brother arrested</a></p></li></ul><p>Before the arrest was announced, the prime minister told BBC Breakfast “nobody is above the law” when asked about <strong>Andrew Mountbatten-Windsor.</strong></p><p><strong>Keir Starmer</strong> added:</p><p>Anybody who has any information should testify.</p><p>So whether it’s Andrew or anybody else, anybody who has got relevant information should come forward to whatever the relevant body is, in this particular case we’re talking about Epstein, but there are plenty of other cases.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:33:23+00:00",
+      "authors": [
+        {
+          "name": "Tom Ambrose"
+        }
+      ],
+      "tags": [
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1f53581a259c30a2e095c30ed054c83e51a9204e67a33b680df65cf58e0f0808",
+      "url": "https://www.aljazeera.com/news/2026/2/19/bangladesh-referendum-the-big-post-election-flashpoint?traffic_source=rss",
+      "title": "Bangladesh referendum: The big post-election flashpoint?",
+      "content_html": "The referendum based on the July National Charter in Bangladesh has revealed divisions between the BNP and Jamaat.",
+      "date_published": "2026-02-19T13:32:58+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "640d48747fd319af992490383a65e2546b44b97a7a3360e81d02c486c5ec4f4e",
+      "url": "https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates",
+      "title": "Russia ‘not ready for peace’ with ‘no tangible signs’ of serious engagement, EU says - Europe live",
+      "content_html": "<p>Comments come after Zelenskyy accused Russia of using ‘delay tactics’ to stall peace talks with Ukraine</p><p>Meanwhile, <strong>Sweden has pledged about €1.2bn in new military support package for Ukraine,</strong> responding to president <strong>Volodymyr Zelenskyy’s</strong> call for urgent help with air defence and ammunition over the weekend.</p><p><strong>The EU sees “no tangible signs that Russia is engaging seriously” with the aim of securing peace in Ukraine, its spokesperson said, responding to the latest round of talks in Geneva.</strong></p><p><em>“We see that Russia continues its relentless attacks on Ukraine. <strong>This does reflect that Russia is not ready for peace.</strong> We still do not see tangible signs that Russia is engaging seriously on peace. …</em></p><p><em>Even this week, ahead of the peace talks, Ukraine experienced another massive missile and drone strike, according to Ukrainian authorities. …</em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:32:42+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Volodymyr Zelenskyy",
+        "Vladimir Putin",
+        "Europe",
+        "World news",
+        "Trump administration",
+        "Donald Trump"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "742c301efb4c0258533921b7f2f57ab469df91fa6698f7af4322fe79665c5910",
+      "url": "https://www.dw.com/en/christine-lagarde-is-central-bank-independence-at-risk/a-76030196?maca=en-rss-en-all-1573-rdf",
+      "title": "Christine Lagarde: Is central bank independence at risk?",
+      "content_html": "Speculation is mounting over the European Central Bank's leadership after a report suggested Christine Lagarde may step down early. The possibility is already stirring debate about politics and central bank independence.",
+      "date_published": "2026-02-19T13:28:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ae7449363d9bc892cdce66b3291e6b35cee623fe3601f30c83aefcf8a35c6028",
+      "url": "https://www.lemonde.fr/international/live/2026/02/19/en-direct-guerre-en-ukraine-cette-guerre-ne-prendra-fin-que-lorsque-l-un-des-deux-camps-sera-epuise-militairement-ou-economiquement-estime-friedrich-merz-qui-ne-croit-pas-a-une-solution-negociee-rapide_6666820_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : « Cette guerre ne prendra fin que lorsque l’un des deux camps sera épuisé, militairement ou économiquement », estime Friedrich Merz, qui ne croit pas à une solution négociée rapide",
+      "content_html": "Le chancelier allemand Friedrich Merz, à Trèves (Allemagne), le 18 février 2026.",
+      "date_published": "2026-02-19T13:27:29+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a0de2c25765f1f9f3397f25c1f8eda8c7aca042d8328c76c29a6df2bc4952ad9",
+      "url": "https://www.themoscowtimes.com/2026/02/19/teenager-arrested-in-perm-region-after-seriously-injuring-classmate-in-knife-attack-a91996",
+      "title": "Teenager Arrested in Perm Region After Seriously Injuring Classmate in Knife Attack",
+      "content_html": "The attack, which marks at least the sixth such incident in Russia since the start of the year, reportedly happened following a conflict between the two students.",
+      "date_published": "2026-02-19T13:27:23+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ffedcd5b8f2d4d5cba957eeecfa471646494b4476fdd7856f4f568f7e864b35e",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260219-conseil-de-la-paix-reflet-de-l-ego-de-trump-vise-t-il-%C3%A0-remplacer-l-onu-etats-unis-gaza-israel",
+      "title": "Le Conseil de la paix, \"reflet de l’ego de Trump\", vise-t-il à remplacer l’ONU ?",
+      "content_html": "Alors que le fameux Conseil de la paix de Donald Trump se réunit pour la toute première fois jeudi, France 24 s’est entretenu avec l’historienne et spécialiste de l’ONU Alanna O’Malley. Elle juge que cette instance cherche à institutionnaliser davantage la puissance américaine à l’échelle mondiale sous la houlette de Donald Trump. Elle y voit un outil.",
+      "date_published": "2026-02-19T13:25:27+00:00",
+      "authors": [
+        {
+          "name": "Paul MILLAR"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ef0722e5bf50e330a8b67721c8674edb73c80895dcdc9e68345e017bb9ad3ffc",
+      "url": "https://www.ukrinform.net/rubric-ato/4093181-zelensky-based-on-this-winters-experience-we-are-preparing-decisions-for-communities.html",
+      "title": "Zelensky: Based on this winter's experience, we are preparing decisions for communities",
+      "content_html": "The Ukrainian government will establish a coordination center to work on upgrading energy supply systems in communities ahead of the next heating season.",
+      "date_published": "2026-02-19T13:21:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3b4fc754dd2ba48f6f2087555edfd4a9da21e7dd4d3501526486dc3f1abf4276",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss",
+      "title": "Trump’s Board of Peace live: Representatives converge for inaugural meeting",
+      "content_html": "US President Trump will host the inaugural meeting of his so-called &#039;Board of Peace&#039; in Washington, DC today.",
+      "date_published": "2026-02-19T13:20:43+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0bbf6ac13cb6eac865f0a7bc2708e4b22704202fb9c22df1daee1573cfe44bd",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/what-we-know-so-far-about-arrest-of-uks-former-prince-andrew?traffic_source=rss",
+      "title": "What we know so far about arrest of UK’s former Prince Andrew",
+      "content_html": "Andrew Mountbatten-Windsor is in custody after being arrested on suspicion of misconduct in public office.",
+      "date_published": "2026-02-19T13:10:34+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "399a852d83abf3704de06f68478b0b015dff4f94254c42c37aedb2f2e2c38b4d",
+      "url": "https://www.theguardian.com/politics/2026/feb/19/dual-nationals-expired-uk-passports-prove-british-home-office",
+      "title": "Dual nationals could use expired UK passports to prove they are British, Home Office says",
+      "content_html": "<p>Carriers could accept expired passport ‘at their own discretion’, Home Office says, as new rules imminent</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>British dual nationals may be able to use expired UK passports to prove to airlines they are British when controversial new immigration rules come into force, the Home Office has said.</p><p>The new rules, <a href=\"https://www.theguardian.com/politics/2026/feb/13/dual-nationals-denied-entry-to-uk-british-passport-border-control\">coming into force next Wednesday</a>, require anyone coming into the UK with British dual nationality to present a British passport when boarding a plane, ferry or train or to have a “certificate of entitlement” costing £589 attached to their foreign passport.</p> <a href=\"https://www.theguardian.com/politics/2026/feb/19/dual-nationals-expired-uk-passports-prove-british-home-office\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:03:57+00:00",
+      "authors": [
+        {
+          "name": "Lisa O’Carroll"
+        }
+      ],
+      "tags": [
+        "Home Office",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6366b7675d17eb4d4d3fb32d459d2ec92240cd4b8f2a64a962f57ddafb38522d",
+      "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "content_html": "<p>Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline</p><p>More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence report to the Kenyan parliament that highlights the scale of a Russian operation taking African men to the frontline.</p><p>The majority leader of Kenya’s national assembly, Kimani Ichung’wah, said “rogue recruitment agencies and individuals in Kenya” were continuing to send Kenyan nationals to fight in the conflict, as he read MPs the summary of an investigation by Kenya’s National Intelligence Service.</p> <a href=\"https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report\">Continue reading...</a>",
+      "date_published": "2026-02-19T13:01:34+00:00",
+      "authors": [
+        {
+          "name": "Carlos Mureithi in Nairobi and Rachel Savage in Johannesburg"
+        }
+      ],
+      "tags": [
+        "Kenya",
+        "Ukraine",
+        "Russia",
+        "Africa",
+        "Europe",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9df83f3a3088cc5183d803f60706c4d1484650b2e28285281f150840509ae2e4",
+      "url": "https://www.lemonde.fr/international/article/2026/02/19/a-dacca-le-palais-de-sheikh-hasina-transforme-en-musee-a-la-memoire-du-soulevement-de-juillet-2024_6667404_3210.html",
+      "title": "A Dacca, le palais de Sheikh Hasina transformé en musée à la mémoire du soulèvement de juillet 2024",
+      "content_html": "Une fresque dans le musée à la mémoire des victimes du régime, à Dacca (Bangladesh), le 8 février 2026.",
+      "date_published": "2026-02-19T13:00:10+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "773395144a87b54c3628deec0f291699096099101fd067e42b098182254019a7",
+      "url": "https://www.lemonde.fr/idees/article/2026/02/19/avec-l-election-de-trump-le-blogueur-curtis-yarvin-est-en-passe-de-devenir-une-figure-influente_6667403_3232.html",
+      "title": "« Avec l’élection de Trump, le blogueur Curtis Yarvin est en passe de devenir une figure influente »",
+      "content_html": "Cantonné aux marges d’Internet avant la réélection du milliardaire à la Maison Blanche, l’informaticien d’extrême droite a été présenté par certains médias en « intellectuel », lui conférant de fait ce statut, analysent le sociologue Oliver Alexandre et l’experte en diplomatie du numérique Rayna Stamboliyska, dans une tribune au « Monde ».",
+      "date_published": "2026-02-19T13:00:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -49,30 +510,20 @@
       "lang": "en"
     },
     {
-      "id": "0caae25e2fc0ace4adc3a756edf70b9d7423841c8fcbb62f26b25762a64c1a4f",
-      "url": "https://elpais.com/internacional/2026-02-19/la-policia-britanica-detiene-a-andres-mountbatten-windsor-por-sus-vinculos-con-el-pederasta-epstein.html",
-      "title": "La police britannique arrête l'ancien prince Andrew pour ses liens avec le pédophile Epstein",
-      "content_html": "Andrés Mountbatten Windsor se dirigeait vers le château de Windsor le 2.",
-      "date_published": "2026-02-19T12:54:09+00:00",
-      "authors": [
-        {
-          "name": "Rafa De Miguel"
-        }
-      ],
+      "id": "a20158eec2a80455f5a5d9958633805b7f8f4b225216af5ab09cd329077b4129",
+      "url": "https://www.dw.com/en/germany-s-far-right-afd-party-faces-widening-scandal/a-75911520?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany's far-right AfD party faces widening scandal",
+      "content_html": "Turmoil has engulfed the far-right Alternative for Germany party (AfD). Allegations of nepotism and weak leadership are circulating, and influential officials warn the party is jeopardizing its election prospects.",
+      "date_published": "2026-02-19T12:55:00+00:00",
+      "authors": [],
       "tags": [
-        "Jeffrey Epstein",
-        "Andrés de Inglaterra",
-        "Pederastia",
-        "Delitos",
-        "Justicia",
-        "Reino Unido",
-        "Realeza"
+        "Germany"
       ],
       "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "8f2fc72f4fbc1dada18e27b326f6eeb8eb6b717b6d9fbce3c1841770dc8f8ed1",
@@ -120,63 +571,18 @@
       "lang": "en"
     },
     {
-      "id": "8058cc14dac98df0a7307d2addeff511dfad3599d02e643951e3fff08dc65821",
-      "url": "https://ici.radio-canada.ca/jeux-olympiques/en-direct/1013486/jour-13-finale-canada-etats-unis-curling",
-      "title": "Jeux olympiques : ça passe ou ça casse pour les Canadiennes au curling",
-      "content_html": "<p>L&#x27;équipe de Rachel Homan doit gagner son dernier match du tour préliminaire pour accéder aux éliminatoires.</p>",
-      "date_published": "2026-02-19T12:50:51+00:00",
+      "id": "8b3a90819db004e67549822217f11c7dcb493b2c168c55a70192d53859dc3f5e",
+      "url": "https://www.aljazeera.com/sports/2026/2/19/real-madrid-send-all-available-vinicius-evidence-to-uefa-in-racism-row?traffic_source=rss",
+      "title": "Real Madrid send ‘all available’ Vinicius evidence to UEFA in racism row",
+      "content_html": "Real Madrid&#039;s Brazilian forward Vinicius Jr alleges he was racially abused by Benfica&#039;s Gianluca Prestianni.",
+      "date_published": "2026-02-19T12:49:29+00:00",
       "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4c6fb7a29c888aed0c266ba000ce3837e7e52d3eb6f51845bccbf4906e9b7b88",
-      "url": "https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates",
-      "title": "Starmer appoints Antonia Romeo as Britain’s first female cabinet secretary – UK politics live",
-      "content_html": "<p>The appointment follows allegations she was previously spoken to about her management style</p><p><strong>Alex Davies-Jones,</strong> a justice minister, has said the government wants to pass the legislation implementing the Chagos Islands deal as soon as it can – despite Presidient Trump’s lastest diatribe about it. (See<a href=\"https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates?page=with%3Ablock-6996c17e8f083a5e8f05e04d#block-6996c17e8f083a5e8f05e04d\"> 9.34am</a>.)</p><p>Davies-Jones was giving interviews this morning and she told Times Radio:</p><p>This deal is essential and crucial for the national security of the United Kingdom and that is the first priority of any government.</p><p>We will be bringing the bill back as soon as parliamentary time allows, because this is about national security.</p> <a href=\"https://www.theguardian.com/politics/live/2026/feb/19/keir-starmer-antonia-romeo-cabinet-secretary-donald-trump-chagos-islands-deal-uk-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-19T12:43:53+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
       "tags": [
-        "Keir Starmer",
-        "Chagos Islands",
-        "Politics",
-        "UK news",
-        "Labour",
-        "Donald Trump",
-        "Civil service",
-        "Law"
+        "Sport"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0f113534b5766911990b8b2f66111b453c0b1db7786105a12e463cf57d8e6013",
-      "url": "https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates",
-      "title": "Andrew Mountbatten-Windsor arrested: King Charles says ‘law must take its course’ as ex-prince taken into custody – live",
-      "content_html": "<p>The police raided Andrew’s Norfolk home on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Full report: Andrew Mountbatten-Windsor arrested</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/feb/19/andrew-mountbatten-windsor-arrested-what-we-know-so-far\">What we know so far as King Charles III’s brother arrested</a></p></li></ul><p>Before the arrest was announced, the prime minister told BBC Breakfast “nobody is above the law” when asked about <strong>Andrew Mountbatten-Windsor.</strong></p><p><strong>Keir Starmer</strong> added:</p><p>Anybody who has any information should testify.</p><p>So whether it’s Andrew or anybody else, anybody who has got relevant information should come forward to whatever the relevant body is, in this particular case we’re talking about Epstein, but there are plenty of other cases.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Continue reading...</a>",
-      "date_published": "2026-02-19T12:40:58+00:00",
-      "authors": [
-        {
-          "name": "Tom Ambrose"
-        }
-      ],
-      "tags": [
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -291,33 +697,6 @@
       "lang": "en"
     },
     {
-      "id": "640d48747fd319af992490383a65e2546b44b97a7a3360e81d02c486c5ec4f4e",
-      "url": "https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates",
-      "title": "Russia ‘not ready for peace’ with ‘no tangible signs’ of serious engagement, EU says - Europe live",
-      "content_html": "<p>Comments come after Zelenskyy accused Russia of using ‘delay tactics’ to stall peace talks with Ukraine</p><p>Meanwhile, <strong>Sweden has pledged about €1.2bn in new military support package for Ukraine,</strong> responding to president <strong>Volodymyr Zelenskyy’s</strong> call for urgent help with air defence and ammunition over the weekend.</p><p><strong>The EU sees “no tangible signs that Russia is engaging seriously” with the aim of securing peace in Ukraine, its spokesperson said, responding to the latest round of talks in Geneva.</strong></p><p><em>“We see that Russia continues its relentless attacks on Ukraine. <strong>This does reflect that Russia is not ready for peace.</strong> We still do not see tangible signs that Russia is engaging seriously on peace. …</em></p><p><em>Even this week, ahead of the peace talks, Ukraine experienced another massive missile and drone strike, according to Ukrainian authorities. …</em></p> <a href=\"https://www.theguardian.com/world/live/2026/feb/19/ukraine-russia-zelenskyy-putin-peace-talks-deal-donald-trump-europe-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-02-19T12:33:35+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "Ukraine",
-        "Russia",
-        "Volodymyr Zelenskyy",
-        "Vladimir Putin",
-        "Europe",
-        "World news",
-        "Trump administration",
-        "Donald Trump"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "19430a5630f53e55f010ce6701550c94698eb3257045f20d7a59e069437e9987",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260219-internet-rallies-behind-abandoned-macaque-punch-and-his-cuddly-toy",
       "title": "Internet rallies behind abandoned macaque Punch and his cuddly toy",
@@ -389,7 +768,7 @@
     {
       "id": "39d4c1c17755b4f09a1d531803d6dde2becfa8b714c2815e9dffbbcacf299454",
       "url": "https://elpais.com/internacional/2026-02-19/claves-de-la-relacion-entre-el-exprincipe-andres-y-epstein-correos-fotos-acusaciones.html",
-      "title": "Clés de la relation entre l'ancien prince Andrew et Epstein : emails, photos, accusations...",
+      "title": "Clés de la relation entre l'ancien prince Andrew d'Angleterre et le pédophile Epstein : des emails, des photos et une amitié pleine d'ombres",
       "content_html": "Melania Trump, le prince Andrew, Gwendolyn Beck et Jeffrey Epstein lors d'une soirée au club Mar-a-Lago en 2000.",
       "date_published": "2026-02-19T12:26:57+00:00",
       "authors": [
@@ -440,7 +819,7 @@
       "id": "0e404351ce2a45acf1dc3997dd1e8494cca12b94dfd1c764dfb3ec7f95b533ed",
       "url": "https://www.dw.com/en/india-ai-summit-modi-macron-call-for-guardrails-amid-ai-boom/a-76029848?maca=en-rss-en-all-1573-rdf",
       "title": "India AI summit: Modi, Macron call for guardrails amid AI boom",
-      "content_html": "India's Prime Minister Narendra Modi, French President Emmanuel Macron and others struck a careful balance on artificial intelligence. Meanwhile, Microsoft cofounder Bill Gates canceled his appearance at the summit.",
+      "content_html": "India's Prime Minister Narendra Modi, French President Emmanuel Macron and others struck a careful balance on artificial intelligence at the summit. Meanwhile, Microsoft cofounder Bill Gates canceled his appearance.",
       "date_published": "2026-02-19T12:26:00+00:00",
       "authors": [],
       "tags": [
@@ -543,26 +922,6 @@
       "lang": "fr"
     },
     {
-      "id": "05b1fc05b85619e3f7e30437c926c82c9da3f9ec5f3a73bf35bb3e1bb4504c1e",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham",
-      "title": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct in public office",
-      "content_html": "<p>King expresses his ‘deepest concern’ and says ‘law must take its course’ as former prince arrested at Sandringham estate</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates\">Andrew Mountbatten-Windsor arrested – live updates</a></p></li></ul><p>Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office by police investigating the former prince’s dealings with the convicted child sex offender Jeffrey Epstein.</p><p>Photographs of unmarked police cars and plainclothes officers at Wood Farm on the Sandringham estate emerged just after 8am on Thursday. Mountbatten-Windsor has been living at Wood Farm for almost three weeks after leaving the Royal Lodge in Windsor.</p> <a href=\"https://www.theguardian.com/uk-news/2026/feb/19/police-former-prince-andrew-mountbatten-windsor-sandringham\">Continue reading...</a>",
-      "date_published": "2026-02-19T12:18:34+00:00",
-      "authors": [
-        {
-          "name": "Jamie Grierson"
-        }
-      ],
-      "tags": [
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d861b40e589ef2c27fcd9705c682413b308873b2501369141f994184d370e4d8",
       "url": "https://www.ukrinform.net/rubric-ato/4093161-afu-counterattack-to-prevent-enemy-from-advancing-toward-dnipropetrovsk-region-voloshyn-claims.html",
       "title": "AFU counterattack to prevent enemy from advancing toward Dnipropetrovsk region, Voloshyn claims",
@@ -633,7 +992,7 @@
     {
       "id": "9e69c9e1f830689de08127ba74f9525ff2dbc47dcbb2c65a38a1277774bc977f",
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260219-crues-exceptionnelles-en-france-comment-s-adapter-au-risque-d-inondations",
-      "title": "Crues exceptionnelles en France: comment s'adapter au risque d'inondations?",
+      "title": "Crues exceptionnelles en France : comment s'adapter au risque d'inondations ?",
       "content_html": "Le réchauffement climatique augmente le risque de crues et d'inondations. Alors que la France traverse un épisode exceptionnel, Element Terre passe en revue les pistes d'adaptation à ce risque accru. Faute de pouvoir empêcher la pluie de tomber, il faut désimperméabiliser les sols et freiner le ruissellement de l'eau. Aucune mesure d'urgence ne sera efficace, il s'agit d'adopter des stratégies au long cours et de faire des choix parfois difficiles.",
       "date_published": "2026-02-19T12:10:38+00:00",
       "authors": [
@@ -683,32 +1042,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a0c5c39bd3dc766f6efe6eff387409be85925f3c1df7c7667060e83db58fd5aa",
-      "url": "https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live",
-      "title": "World leaders gather in Washington for Donald Trump’s first Board of Peace meeting - US politics live",
-      "content_html": "<p>Representatives from more than 45 countries expected to attend initiative aimed at bringing an end to the war in Gaza</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/feb/19/authoritarians-strongmen-and-dictators-who-is-on-trumps-board-of-peace\">Authoritarians, strongmen and dictators: who is on Trump’s Board of Peace?</a></p></li></ul><p>While <strong>Trump</strong> is (reportedly) <a href=\"https://www.theguardian.com/us-news/2026/feb/18/trump-iran-us-military-reports\">weighing a potential attack against Iran</a> and presiding over <a href=\"https://www.theguardian.com/world/2026/feb/19/what-is-trumps-boards-of-peace-and-who-is-involved\">the first Board of Peace meeting </a>in Washington, he is also squeezing a trip <strong>to the battleground state of <a href=\"https://www.theguardian.com/us-news/state-of-georgia\">Georgia</a></strong> today to boost the Republican party’s political standing in the crucial midterm elections.</p><p>The Trump administration said his trip will focus on the economy, but notably he is scheduled to visit Rome, in the north-west of Georgia, which lies in congressional district previously represented by <strong>Marjorie Taylor Greene</strong>, a former Trump firebrand who resigned in January <a href=\"https://www.theguardian.com/us-news/2025/dec/29/marjorie-taylor-greene-trump-interview\">after feuding with the president.</a> There’s a special election to replace her on 10 March.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live\">Continue reading...</a>",
-      "date_published": "2026-02-19T12:06:35+00:00",
-      "authors": [
-        {
-          "name": "Taz Ali"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "Gaza",
-        "Palestine",
-        "US politics",
-        "Donald Trump",
-        "Middle East and north Africa",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -966,7 +1299,7 @@
       "id": "f62eccabcd32c00e5eab2bc8fbf5e97a8fa0ac85231dfa949b697ceecaaf10ad",
       "url": "https://www.france24.com/en/europe/20260219-a-historic-downfall-for-the-uk-s-former-prince-andrew",
       "title": "A historic downfall for the UK's former prince Andrew",
-      "content_html": "Former prince Andrew's inexorable fall from grace reached an extraordinary new low as he becomes the first member of the UK royal family to be arrested in the modern era. Andrew Mountbatten-Windsor, as he is now known, was arrested Thursday on suspicion of misconduct in public office.",
+      "content_html": "Former prince Andrew's inexorable fall from grace reached an extraordinary new low as he became the first member of the UK royal family to be arrested in the modern era. Andrew Mountbatten-Windsor, as he is now known, was arrested Thursday on suspicion of misconduct in public office.",
       "date_published": "2026-02-19T11:43:17+00:00",
       "authors": [
         {
@@ -1181,7 +1514,7 @@
       "id": "97d8200a1f4857ede309c252ffa87de211baa8600149a295f314a37d8a23f42c",
       "url": "https://ici.radio-canada.ca/nouvelle/2230477/hockey-canada-classe-ontario-doug-ford",
       "title": "Doug Ford permet à tous les élèves de suivre les matchs de hockey du Canada en classe",
-      "content_html": "<p>L’équipe nationale féminine tentera de remporter la médaille d’or à 13h face aux États-Unis.</p>",
+      "content_html": "<p>L’équipe nationale féminine tentera de remporter la médaille d’or à 13&nbsp;h face aux États-Unis.</p>",
       "date_published": "2026-02-19T11:28:27+00:00",
       "authors": [],
       "tags": [],
@@ -1409,8 +1742,8 @@
     {
       "id": "3e1491d3186e1af58525f51687a567caa53cc1375a6bba960020e7d3a455e329",
       "url": "https://www.timesofisrael.com/un-says-israeli-actions-raising-fears-of-ethnic-cleansing-in-gaza-and-west-bank/",
-      "title": "UN says Israeli actions raising fears of ‘ethnic cleansing’ in Gaza and West Bank",
-      "content_html": "<p>Report from human rights office covers November 2024-October 2025, alleges torture of Palestinian detainees, hundreds of starvation deaths; Israel denies both charges</p>\n<p>The post <a href=\"https://www.timesofisrael.com/un-says-israeli-actions-raising-fears-of-ethnic-cleansing-in-gaza-and-west-bank/\">UN says Israeli actions raising fears of &#8216;ethnic cleansing&#8217; in Gaza and West Bank</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/F260217ALH09-1024x640.jpg\" title=\"UN says Israeli actions raising fears of &#8216;ethnic cleansing&#8217; in Gaza and West Bank\" width=\"160\" /></figure>",
+      "title": "UN says Israeli actions raise fear of ‘ethnic cleansing’ in Gaza, West Bank; Israel rejects claims",
+      "content_html": "<p>Report from human rights office covers November 2024-October 2025, alleges torture of Palestinian detainees, hundreds of starvation deaths; Israel: UN office demonizes Israel, has no credibility</p>\n<p>The post <a href=\"https://www.timesofisrael.com/un-says-israeli-actions-raising-fears-of-ethnic-cleansing-in-gaza-and-west-bank/\">UN says Israeli actions raise fear of &#8216;ethnic cleansing&#8217; in Gaza, West Bank; Israel rejects claims</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/F260217ALH09-1024x640.jpg\" title=\"UN says Israeli actions raise fear of &#8216;ethnic cleansing&#8217; in Gaza, West Bank; Israel rejects claims\" width=\"160\" /></figure>",
       "date_published": "2026-02-19T11:05:35+00:00",
       "authors": [],
       "tags": [
@@ -1693,20 +2026,6 @@
       "lang": "en"
     },
     {
-      "id": "317180df2974e9991d16606136fd4449d97551494f9cad2368a663a5a3fb9769",
-      "url": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
-      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
-      "content_html": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
-      "date_published": "2026-02-19T10:44:14+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "834d38c1aeecfc1b0396f3b5606bda84281aca21166ed57d4b7f8c9f86af4ed8",
       "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-ex-uk-prince-andrew-arrested-amid-epstein-scandal?traffic_source=rss",
       "title": "LIVE: Ex-UK Prince Andrew Mountbatten-Windsor arrested amid Epstein scandal",
@@ -1773,8 +2092,8 @@
     {
       "id": "cd0533de93db1e2d27eb5c828ed19ebb4f01255e93ef0f41f49b6b9efed0de78",
       "url": "https://www.lemonde.fr/international/article/2026/02/19/affaire-epstein-andrew-mountbatten-windsor-arrete-pour-des-soupcons-de-faute-professionnelle-dans-l-exercice-de-fonctions-publiques-selon-des-medias-britanniques_6667387_3210.html",
-      "title": "L’ex-prince Andrew arrêté dans un nouveau développement de l’affaire Epstein au Royaume-Uni, « la justice doit suivre son cours » réagit le roi Charles III",
-      "content_html": "Andrew Mountbatten Windsor.",
+      "title": "Affaire Epstein : l’ex-prince britannique Andrew arrêté, soupçonné d’avoir fourni des documents confidentiels",
+      "content_html": "Devant l’entrée de la Wood Farm, dans le domaine de Sandringham, qui servirait de logement provisoire à l’ex-prince britannique Andrew, à Norfolk (Royaume-Uni), le 19 février 2026.",
       "date_published": "2026-02-19T10:37:32+00:00",
       "authors": [],
       "tags": [],
@@ -1782,7 +2101,7 @@
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "b823a64740712e6d09e8ee1af464535f478c8b69ba89868840f13658efb93dff",
@@ -1886,7 +2205,7 @@
       "url": "https://www.lemonde.fr/idees/article/2026/02/19/pour-la-monarchie-britannique-l-enjeu-des-dossiers-epstein-depasse-de-loin-le-cas-individuel-d-un-prince-compromis_6667384_3232.html",
       "title": "« Pour la monarchie britannique, l’enjeu des dossiers Epstein dépasse de loin le cas individuel d’un prince compromis »",
       "content_html": "Andrew Mountbatten Windsor.",
-      "date_published": "2026-02-19T10:30:09+00:00",
+      "date_published": "2026-02-19T10:30:05+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1917,7 +2236,7 @@
       "id": "2889b316f6689b52671dbfa694f4d94207d158f69c16f441de364eab4b1c8481",
       "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2230451/curling-canada-hockey-poulin-homan",
       "title": "Quoi regarder au jour 13 des Jeux de Milan-Cortina",
-      "content_html": "<p>Les partisans auront droit à une finale Canada–États-Unis au tournoi de hockey féminin, cet après-midi.</p>",
+      "content_html": "<p>Les partisans auront droit à une finale Canada-États-Unis au tournoi de hockey féminin, cet après-midi.</p>",
       "date_published": "2026-02-19T10:24:22+00:00",
       "authors": [],
       "tags": [],
@@ -2186,9 +2505,9 @@
     {
       "id": "38404aeb8cac214df8319d471f74325a4ec64a27a81698087b1e4fe65b890da2",
       "url": "https://www.lemonde.fr/economie/article/2026/02/19/pourquoi-le-made-in-europe-est-il-si-difficile-a-instaurer-au-sein-de-l-ue_6667378_3234.html",
-      "title": "Pourquoi le « made in Europe » est-il si difficile à instaurer au sein de l’UE",
+      "title": "Le « made in Europe », une méthode si difficile à instaurer au sein de l’UE",
       "content_html": "Des députés européens assistent à une session dans l’Hémicycle à Bruxelles, le 12 novembre 2025.",
-      "date_published": "2026-02-19T10:00:11+00:00",
+      "date_published": "2026-02-19T10:00:07+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -2364,9 +2683,9 @@
     {
       "id": "945c856b635c9c829a7240958b90040d3c8a6045bee85a02e0f8c6bc62540201",
       "url": "https://www.lemonde.fr/international/article/2026/02/19/en-ukraine-volodymyr-zelensky-critique-par-le-tres-populaire-general-valeri-zaloujny_6667375_3210.html",
-      "title": "En Ukraine, Volodymyr Zelensky critiqué par le très populaire général Valeri Zaloujny",
+      "title": "Volodymyr Zelensky critiqué par le très populaire général ukrainien Valeri Zaloujny",
       "content_html": "Volodymyr Zelensky à Munich, en Allemagne, le 14 février 2026.",
-      "date_published": "2026-02-19T09:45:08+00:00",
+      "date_published": "2026-02-19T09:45:05+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -2559,20 +2878,6 @@
       "lang": "fr"
     },
     {
-      "id": "64a9cbd73d390aa75b5e865bfe8c1c9d60604f2e16954f0b4bb18b8d3ca91b07",
-      "url": "https://www.lemonde.fr/international/live/2026/02/19/en-direct-guerre-en-ukraine-la-russie-sacrifie-156-hommes-pour-s-emparer-d-un-kilometre-du-territoire-ukrainien-affirme-volodymyr-zelensky_6666820_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : la Russie « sacrifie 156 hommes pour s’emparer d’un kilomètre » du territoire ukrainien, affirme Volodymyr Zelensky",
-      "content_html": "Funérailles d’un soldat russe, dans le village d’Orzhitsy, dans la région de Saint-Pétersbourg (Russie), le 18 février 2026.",
-      "date_published": "2026-02-19T09:14:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "001cfa64300854f593bd549f10760686884928f91b69802508abb8fdd71fb0a0",
       "url": "https://www.ukrinform.net/rubric-ato/4093086-guided-aerial-bombs-drones-and-artillery-russian-troops-launch-70-strikes-on-sumy-region.html",
       "title": "Guided aerial bombs, drones, and artillery: Russian troops launch 70 strikes on Sumy region",
@@ -2641,20 +2946,6 @@
       "lang": "fr"
     },
     {
-      "id": "cfa3e5b72f303ed51ffa2d10704febc165bc88ab6ba061027d0d0585d61c3ab0",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230438/paix-gaza-moustafa-barghouti-conseil-paix",
-      "title": "« Nous voulons la paix » : rencontre avec Moustafa Barghouti, un leader palestinien",
-      "content_html": "<p>L&#x27;homme politique soutient que les Palestiniens sont «&nbsp;confus&nbsp;» au sujet du Conseil de paix de Donald Trump.</p>",
-      "date_published": "2026-02-19T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ad1ee8d1b05b878b16bf7ebba93a5192c84485f8e98b3f06af620732e09d2fb9",
       "url": "https://ici.radio-canada.ca/nouvelle/2229434/immobilier-maison-garanties-legales-transaction-ventes",
       "title": "Surchauffe immobilière : près d’une maison sur deux vendue sans garanties légales",
@@ -2669,9 +2960,23 @@
       "lang": "fr"
     },
     {
+      "id": "f3d0c217458655dc0a60d6052e21d2a868e9ae27a0f840124cbff5fa3ac758b9",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230398/hopitaux-vetustes-montreal-regions-caq",
+      "title": "Hôpitaux vétustes : bras de fer en vue entre Montréal et les régions",
+      "content_html": "<p>L’Hôpital général de Montréal et l&#x27;hôpital Douglas, par exemple, auraient besoin de plus de&nbsp;400&nbsp;M$.</p>",
+      "date_published": "2026-02-19T09:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "77efa7d7e6f8b292c5d78d8a93c50c793dceaeec23e2d48101a82bf5db2f3ff2",
       "url": "https://ici.radio-canada.ca/nouvelle/2230409/conservateur-matt-jeneroux-poilievre",
-      "title": "Défections chez les conservateurs : quand la chaise du chef craque de partout",
+      "title": "Défections chez les conservateurs : quand la chaise du chef craque",
       "content_html": "<p>La défection de Matt Jeneroux est un coup de plus porté à la charpente du leadership de&nbsp;Pierre Poilievre.</p>",
       "date_published": "2026-02-19T09:00:00+00:00",
       "authors": [],
@@ -2683,10 +2988,10 @@
       "lang": "fr"
     },
     {
-      "id": "f3d0c217458655dc0a60d6052e21d2a868e9ae27a0f840124cbff5fa3ac758b9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230398/hopitaux-vetustes-montreal-regions-caq",
-      "title": "Hôpitaux vétustes : bras de fer en vue entre Montréal et les régions",
-      "content_html": "<p>L’Hôpital général de Montréal et l&#x27;hôpital Douglas, par exemple, auraient besoin de plus de&nbsp;400&nbsp;M$.</p>",
+      "id": "cfa3e5b72f303ed51ffa2d10704febc165bc88ab6ba061027d0d0585d61c3ab0",
+      "url": "https://ici.radio-canada.ca/nouvelle/2230438/paix-gaza-moustafa-barghouti-conseil-paix",
+      "title": "« Nous voulons la paix » : rencontre avec Moustafa Barghouti, un leader palestinien",
+      "content_html": "<p>L&#x27;homme politique soutient que les Palestiniens sont «&nbsp;confus&nbsp;» au sujet du Conseil de paix de Donald Trump.</p>",
       "date_published": "2026-02-19T09:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3042,22 +3347,6 @@
       "lang": "en"
     },
     {
-      "id": "12f8d2790d71dec6dba3acad45b8e712c6358230e69aa352dd4747b54bd4cf63",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/south-koreas-ex-president-yoon-gets-life-for-insurrection?traffic_source=rss",
-      "title": "South Korea’s ex-President Yoon gets life for insurrection",
-      "content_html": "A South Korean court has found impeached president Yoon Suk Yeol guilty of insurrection.",
-      "date_published": "2026-02-19T08:17:33+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "80a06550daaa0731e0243002ca59462407d8cb11bb9ef8868c319054a64e5a7f",
       "url": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
       "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
@@ -3126,22 +3415,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "de2e21493c44fbf9e596ce2b0558a716cfc6373ff918930d0b486fea21faa0ec",
-      "url": "https://www.aljazeera.com/news/2026/2/19/torture-threats-rape-palestinian-journalists-detail-israeli-jail-abuse?traffic_source=rss",
-      "title": "‘Torture, threats, rape’: Palestinian journalists detail Israeli jail abuse",
-      "content_html": "CPJ report shares harrowing accounts of dozens of Palestinian journalists jailed by Israel since October 2023.",
-      "date_published": "2026-02-19T08:00:51+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "d6ce2d18139ee1060d104fc89e7a908d916efbf5182b6702db635ace8309bbf8",
@@ -3219,22 +3492,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d152b02d71b7279971f06a09859ba39a2a7ba4e8aba656970c00d5b13a57a5b0",
-      "url": "https://www.aljazeera.com/news/2026/2/19/gas-explosion-kills-13-in-pakistans-karachi-collapsing-building?traffic_source=rss",
-      "title": "Gas explosion kills 16 in Pakistan’s Karachi, collapsing building",
-      "content_html": "Rescuers are still removing rubble to search for any survivors trapped under the debris, police say.",
-      "date_published": "2026-02-19T07:44:44+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3373,20 +3630,6 @@
       "lang": "en"
     },
     {
-      "id": "f346eac3b0d8f6b1c6b8022e3921d42ade2f7fb1d5474bfa9c75b8ffc5426be2",
-      "url": "https://ici.radio-canada.ca/nouvelle/2230447/coree-sud-verdict-yoon-loi-martiale",
-      "title": "Corée du Sud : l’ex-président condamné à la prison à vie pour sa loi martiale de 2024",
-      "content_html": "<p>L&#x27;ancien dirigeant conservateur a donc échappé à la peine capitale, qui avait été requise par le parquet.</p>",
-      "date_published": "2026-02-19T07:23:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "9281f88e786f683e221d2240b816b832f4657351f80199137f4ebb092d012527",
       "url": "https://www.dw.com/en/south-korean-court-hands-life-sentence-to-ex-president-yoon/a-76029926?maca=en-rss-en-all-1573-rdf",
       "title": "South Korean court hands life sentence to ex-president Yoon",
@@ -3417,40 +3660,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c9d49036865e96e681746af8d96294c2b6f711ceefab8a500930b24cb38814e2",
-      "url": "https://www.france24.com/fr/info-en-continu/20260219-%F0%9F%94%B4-cor%C3%A9e-du-sud-l-ex-pr%C3%A9sident-yoon-suk-yeol-condamn%C3%A9-%C3%A0-la-prison-%C3%A0-vie-pour-avoir-dirig%C3%A9-une-insurrection-en-2024",
-      "title": "🔴 Corée du Sud : l'ex-président Yoon Suk-yeol condamné à la prison à vie pour avoir dirigé une insurrection en 2024",
-      "content_html": "",
-      "date_published": "2026-02-19T07:05:44+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "94bf92c76a3d03c7d9bdb33b2d9fd4f7deff40d212ae5056680eff877bb6f034",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss",
-      "title": "Updates: South Korea convicts ex-President Yoon Suk-yeol for insurrection",
-      "content_html": "Former President Yoon sentenced to life in prison by Seoul court for his brief imposition of martial law in 2024.",
-      "date_published": "2026-02-19T07:05:04+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3492,22 +3701,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "59b75243afa67b855edceaf3b323f5482c746df91faa59bbf2d38d54d8b4883f",
-      "url": "https://www.aljazeera.com/news/2026/2/19/south-koreas-ex-president-yoon-suk-yeol-found-guilty-of-insurrection?traffic_source=rss",
-      "title": "South Korea’s ex-President Yoon gets life in prison for insurrection",
-      "content_html": "South Korean court finds former President Yoon Suk-yeol guilty over declaration of martial law in December 2024.",
-      "date_published": "2026-02-19T06:54:47+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3876,20 +4069,6 @@
       "lang": "en"
     },
     {
-      "id": "714c184d765ddac1655be1178bbe56b6903ee28ec6d21db4dea07d85e898ce3d",
-      "url": "https://www.lemonde.fr/international/article/2026/02/19/perou-jose-maria-balcazar-devient-president-par-interim-apres-la-destitution-de-jose-jeri_6667342_3210.html",
-      "title": "Pérou : José Maria Balcazar devient président par intérim après la destitution de José Jeri",
-      "content_html": "José Maria Balcazar après son élection en tant que nouveau président du Congrès, et donc président par intérim du Pérou, à Lima, le 18 février 2026.",
-      "date_published": "2026-02-19T05:04:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a5d71e66412dfec93a0b917a6fa432eee35c36e5f6e1c8f0ac0893c79a0b7d27",
       "url": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
       "title": "US funding for global internet freedom ‘effectively gutted’",
@@ -3913,20 +4092,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "7610cb70c7c54de05bc553402bcbd416d6423bb16c529e6945a9f363960bba4c",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/19/l-avion-de-combat-franco-allemand-chronique-d-un-crash-annonce_6667341_3234.html",
-      "title": "L’avion de combat franco-allemand, chronique d’un crash annoncé",
-      "content_html": "Ursula von der Leyen, alors ministre de la défense allemande, et Emmanuel Macron (au centre), avec Eric Trappier (2e à partir de la gauche), PDG de Dassault Aviation, au Salon international de l’aéronautique et de l’espace, au Bourget (Seine-Saint-Denis), le 18 juin 2019.",
-      "date_published": "2026-02-19T05:00:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "a32668ab5cc15f3c01ddbc642e6cd48dba38369e9f06093d137d5f6312dd240e",
@@ -3962,20 +4127,6 @@
         "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
-    },
-    {
-      "id": "033790d75269bdf625fd27c71c552cd3d10fd6db31b6f42cd9d722a1f30eefa8",
-      "url": "https://www.lemonde.fr/international/article/2026/02/19/argentine-debut-d-une-greve-generale-contre-la-reforme-du-travail-de-javier-milei_6667334_3210.html",
-      "title": "Argentine : début d’une grève générale contre la réforme du travail de Javier Milei",
-      "content_html": "Manifestation des syndicats contre le projet de réforme du travail proposé par le gouvernement du président Javier Milei, devant le Congrès, à Buenos Aires, le 11 février 2026.",
-      "date_published": "2026-02-19T04:42:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "1b5d89770c6f67c1dccddf4b077a83e107c091caf1f27043744556f45bb60486",
@@ -4110,33 +4261,6 @@
       "lang": "en"
     },
     {
-      "id": "eca516d0d2c3fb4149b93a13091925df9aac33f8e44248e3ce602a9f30418c0b",
-      "url": "https://www.timesofisrael.com/vegetarian-and-vegan-babies-develop-at-same-rate-as-meat-eating-peers-israeli-study/",
-      "title": "Vegetarian and vegan babies develop at same rate as meat-eating peers – Israeli study",
-      "content_html": "<p>Big-data study by Ben-Gurion University researchers and the Health Ministry tracks 1.2 million infants over 10 years, dispels meat mythology</p>\n<p>The post <a href=\"https://www.timesofisrael.com/vegetarian-and-vegan-babies-develop-at-same-rate-as-meat-eating-peers-israeli-study/\">Vegetarian and vegan babies develop at same rate as meat-eating peers &#8211; Israeli study</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2014/09/shutterstock_98566619-e1410545964760-1024x640.jpg\" title=\"Vegetarian and vegan babies develop at same rate as meat-eating peers &#8211; Israeli study\" width=\"160\" /></figure>",
-      "date_published": "2026-02-19T03:57:35+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "baby health",
-        "health",
-        "health food",
-        "vegetarian",
-        "Health Ministry",
-        "Ben-Gurion University of the Negev (BGU)",
-        "medical research",
-        "scientific research",
-        "food",
-        "Tipat Halav",
-        "vegan"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f1edbadba2e72b770ab6c56eb6c96e8371c864d56d6ef023b8842d38439ba846",
       "url": "https://www.theguardian.com/world/2026/feb/19/wellington-raw-sewage-leak-spill-water-new-zealand",
       "title": "‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean",
@@ -4249,29 +4373,6 @@
       "lang": "en"
     },
     {
-      "id": "327bc44aebbb937c5d47b894757252fa029b512c542c41669d88c9815002e10d",
-      "url": "https://www.timesofisrael.com/expansion-of-west-bank-rule-appears-to-shift-creeping-annexation-into-higher-gear/",
-      "title": "Expansion of West Bank rule appears to shift ‘creeping annexation’ into higher gear",
-      "content_html": "<p>As government makes it easier to purchase property and for state to take control of lands, both critics and boosters say the idea of Israel's control being temporary is a thing of the past</p>\n<p>The post <a href=\"https://www.timesofisrael.com/expansion-of-west-bank-rule-appears-to-shift-creeping-annexation-into-higher-gear/\">Expansion of West Bank rule appears to shift &#8216;creeping annexation&#8217; into higher gear</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/02/F260119CG903-1024x640.jpg\" title=\"Expansion of West Bank rule appears to shift &#8216;creeping annexation&#8217; into higher gear\" width=\"160\" /></figure>",
-      "date_published": "2026-02-19T02:46:08+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "West Bank annexation",
-        "Israeli-Palestinian conflict",
-        "Bezalel Smotrich",
-        "Israel Katz",
-        "West Bank",
-        "West Bank settlements",
-        "Peace Now"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1163baadc8fec9be968b9c9bcd6c962391be1736e03e3df1bab211d0e169a8c7",
       "url": "https://www.bbc.com/news/articles/cm28nkvrwe4o?at_medium=RSS&at_campaign=rss",
       "title": "The teacher who won $1m for turning India's slums into open-air classrooms",
@@ -4362,22 +4463,6 @@
       "lang": "en"
     },
     {
-      "id": "f19603ed07df448f3b67a864b12e12419ea0936acea40b880cb3194856b68bd6",
-      "url": "https://www.ukrinform.net/rubric-society/4092876-soldiers-evacuate-stone-monuments-from-steppe-era-from-synelnykove-district.html",
-      "title": "Soldiers evacuate stone monuments from steppe era from Synelnykove district",
-      "content_html": "Soldiers of the 25th Separate Airborne Sicheslav Brigade, together with museum workers, volunteers, and philanthropists, evacuated Polovtsian statues from the 11th–13th centuries—unique stone monuments from the steppe era—from Vasylkivka in the Synelnykove district of Dnipropetrovsk region.",
-      "date_published": "2026-02-19T01:33:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bde83d0c6504b6a5a97e1f9dad6c4e4317c7d1e01741a2bfaa1c4086e15998c8",
       "url": "https://ici.radio-canada.ca/nouvelle/2230415/democrates-intensifient-enquete-fiasco-pont-gordie-howe",
       "title": "Les démocrates intensifient leur enquête sur le fiasco du pont Gordie-Howe",
@@ -4404,22 +4489,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "0ff3ed284e6848e02581a435661fb4256817983fcc2520b20bc5a956cc9a6b15",
-      "url": "https://www.ukrinform.net/rubric-economy/4092808-from-ai-to-cloud-technologies-ministry-of-digital-transformation-microsoft-strengthen-cooperation.html",
-      "title": "From AI to cloud technologies: Ministry of Digital Transformation, Microsoft strengthen cooperation",
-      "content_html": "The Ministry of Digital Transformation of Ukraine and Microsoft have signed a memorandum of cooperation aimed at developing digital infrastructure and artificial intelligence (AI), as well as implementing innovative technologies.",
-      "date_published": "2026-02-19T00:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "b1fcd18cc8f8e1219eb4ce4e7347be0a30eed02cb15223a6010905aae46b7fd9",
@@ -4525,22 +4594,6 @@
       "lang": "en"
     },
     {
-      "id": "5132033d300237293f14621bc6b41aad0d9b3b496f52c94b4bc1ae67fc36382e",
-      "url": "https://www.ukrinform.net/rubric-crime/4092752-sbu-detains-17yearold-russian-agent-plotting-terror-attacks-in-crowded-areas-of-kharkiv.html",
-      "title": "SBU detains 17-year-old Russian agent plotting terror attacks in crowded areas of Kharkiv",
-      "content_html": "The Security Service of Ukraine (SBU) has detained a 17-year-old agent of Russian special services in Kharkiv who was preparing a series of terrorist attacks in the city.",
-      "date_published": "2026-02-18T23:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "Crime"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b03439e6c73464009eef6f32bce3971eee009864f78105aa2027aaaa51e65a6d",
       "url": "https://www.elmundo.es/internacional/2026/02/19/6995adfefdddffd75d8b45d3.html",
       "title": "Sous le sable du Lop Nor, le désert où la Chine cache ses secrets nucléaires",
@@ -4625,7 +4678,7 @@
       "id": "1f6ddb9cd4587030e13da0fbb89ab514d448f0e62d60ab33f52b4007d3dfdc5c",
       "url": "https://ici.radio-canada.ca/jeux-olympiques/nouvelle/2230325/william-dandjinou-steven-dubois-medaille",
       "title": "Steven Dubois médaillé d’or au 500 m sur courte piste",
-      "content_html": "<p>La délégation canadienne a maintenant remporté 14 médailles en sol italien.</p>",
+      "content_html": "<p>La délégation canadienne a maintenant remporté 14 médailles en Italie.</p>",
       "date_published": "2026-02-18T22:27:52+00:00",
       "authors": [],
       "tags": [],
@@ -5220,22 +5273,6 @@
       "lang": "fr"
     },
     {
-      "id": "490f5f13f3b9b058cd829114d568791b3a657f8a3b64ca1357cbee1af1b42af2",
-      "url": "https://www.dw.com/en/europe-looks-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-all-1573-rdf",
-      "title": "Europe looks to Australia's social media ban for kids",
-      "content_html": "Germany has joined the growing list of EU nations that are considering banning children from social media. Australia has banned youths from social media since December — and its example has lessons for EU governments.",
-      "date_published": "2026-02-18T16:44:00+00:00",
-      "authors": [],
-      "tags": [
-        "TOP STORIES"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f32dbaa9f4102bbdc8e9a3033000c31f1ddd5364b6ab04937172b63392b01cb1",
       "url": "https://www.liberation.fr/international/moyen-orient/contrairement-aux-emirats-arabes-unis-larabie-saoudite-nest-pas-du-tout-isolee-dans-la-region-20260218_HGZKOGKGLZEJJLLI4KVG7O6XUA/",
       "title": "«Contrairement aux Emirats arabes unis, l’Arabie Saoudite n’est pas du tout isolée dans la région»",
@@ -5252,22 +5289,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "954f51107c967fc5cdfa2e7a209136bf4744b0ca4b0ab6a49a7379f41b181ebe",
-      "url": "https://www.dw.com/en/united-states-and-iran-at-impasse-after-geneva-nuclear-talks/a-76023932?maca=en-rss-en-all-1573-rdf",
-      "title": "United States and Iran at impasse after Geneva nuclear talks",
-      "content_html": "The latest round of negotiations on Iran's nuclear program has ended without a breakthrough — and the threat of US military action looms large. The ball seems to be back in Iran's court.",
-      "date_published": "2026-02-18T16:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "ecb2d781250cf1577590c44b05c090c59e06bd07ca456dd0c6876e2def1502b7",
@@ -8826,20 +8847,6 @@
       "lang": "en"
     },
     {
-      "id": "7bf3d703f6310ae3e5c7c3bfe9193ae2682252930f38b8f146587623ee1f73ff",
-      "url": "https://www.themoscowtimes.com/2026/02/12/ukrainian-drone-attack-sparks-fire-at-lukoil-refinery-in-republic-of-komi-a91930",
-      "title": "Ukrainian Drone Attack Sparks Fire at Lukoil Refinery in Republic of Komi",
-      "content_html": "The strike took place at a refinery in the remote town of Ukhta, located around 2,000 kilometers from the front line in eastern Ukraine.",
-      "date_published": "2026-02-12T10:58:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d21e7e65a16908c080dc76418cbd4176fdef720aecc594bb5ae649bbeebf17a1",
       "url": "https://www.dw.com/en/germany-news-carnival-security-threat-level-remains-high/live-75925339?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Carnival security threat level remains high",
@@ -8861,22 +8868,6 @@
       "title": "TikTok and beats: Cologne's famed Carnival has a new image",
       "content_html": "Cologne's Carnival celebration has a new sound. Young music, viral hits and new costume trends are re-shaping the event. Carnival is more than just a tradition — it has secured itself a place in pop culture as well.",
       "date_published": "2026-02-12T09:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Germany"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f22c2dc59e7b5bf0fd8854d2af7d339f759fa611952ecdfd0fd0b2ea34b10920",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-party-accused-of-nepotism/a-75911520?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany's far-right AfD party accused of nepotism",
-      "content_html": "Turmoil has engulfed the far-right Alternative for Germany party (AfD). Allegations of nepotism and weak leadership are circulating, and influential officials warn the party is jeopardizing its election prospects.",
-      "date_published": "2026-02-12T09:15:00+00:00",
       "authors": [],
       "tags": [
         "Germany"
@@ -9080,6 +9071,22 @@
       "lang": "en"
     },
     {
+      "id": "cb338db060cda20f3907ee91564cd6efc06e72aa3ab27de471fd6f7de946f2b4",
+      "url": "https://www.dw.com/en/lufthansa-pilots-crew-to-strike-on-thursday/a-75901363?maca=en-rss-en-all-1573-rdf",
+      "title": "Lufthansa pilots, crew to strike on Thursday",
+      "content_html": "Lufthansa passengers should expect disruption and possible cancellations. A pilots' trade union has called a 24-hour strike amid a dispute over pension payments.",
+      "date_published": "2026-02-10T17:55:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
       "id": "e898167c238be9edc3ab94fea804ec22adfafd789708c5412342651e3fd1349f",
       "url": "https://www.dw.com/en/the-german-olympic-ski-jump-winner-with-a-fear-of-heights/a-75896096?maca=en-rss-en-all-1573-rdf",
       "title": "The German Olympic ski jump winner with a fear of heights",
@@ -9156,31 +9163,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6ff89296c5f56f1c0c5e6a8d57aa89301fbfd8d4a409f8e66a2ab8903ee16886",
-      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
-      "content_html": "<p>Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says</p><p>Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monday. Only two survivors were rescued.</p><p>The International Organization for Migration said the boat overturned north of Zuwara on Friday, in the latest disaster involving people attempting the perilous Mediterranean crossing in the hope of reaching Europe.</p> <a href=\"https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya\">Continue reading...</a>",
-      "date_published": "2026-02-09T14:43:13+00:00",
-      "authors": [
-        {
-          "name": "Agence France-Presse in Geneva"
-        }
-      ],
-      "tags": [
-        "Migration",
-        "Libya",
-        "World news",
-        "Africa",
-        "Refugees",
-        "Middle East and north Africa"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
