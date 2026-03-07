@@ -5,6 +5,101 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "a030c994a4c20b7659a3918149c7e308d789b2d1d4f44ecf489ca3df1117774c",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-en-iran-de-fortes-explosions-secouent-teheran-20260307_RZG6C3HHGZHSLAP2J2OXMCAPVQ/",
+      "title": "EN DIRECT - Guerre en Iran : de fortes explosions secouent Téhéran",
+      "content_html": "De la fumée et des flammes s'élèvent au-dessus de l'aéroport international Mehrabad de Téhéran après des frappes aériennes, ce samedi 7 mars 2026.",
+      "date_published": "2026-03-07T07:01:15+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ff500b7c62fdbf45c196425a16dfbf839703c2bbf21c5f00ce454edb0b1f2cd4",
+      "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
+      "title": "Middle East crisis live: Israel says 80 jets hit Iranian military sites as war enters second week",
+      "content_html": "<p>IDF says Revolutionary Guard training site in Tehran among targets of new strikes; Trump says he would only accept Tehran’s ‘unconditional surrender’ as war expands</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">Tell us: how have you been affected by the latest events in the Middle East?</a></p></li></ul><p><strong>The Saudi defence minister, Prince Khalid bin Salman, urged Iran on Saturday to “avoid miscalculation” after missile and drone launches at the kingdom</strong>.</p><p>Saudi Arabia’s defence ministry said earlier in the day it had blocked repeated missile launches at an airbase housing US military personnel and drone attacks at a major oilfield.</p><p>We stressed that such actions undermine regional security and stability and expressed hope that the Iranian side will exercise wisdom and avoid miscalculation.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week\">Continue reading...</a>",
+      "date_published": "2026-03-07T06:58:46+00:00",
+      "authors": [
+        {
+          "name": "Adam Fulton"
+        }
+      ],
+      "tags": [
+        "US-Israel war on Iran",
+        "Iran",
+        "Israel",
+        "Lebanon",
+        "Trump administration",
+        "Middle East and north Africa"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "afaa2099fdf8f41ef00c58bbb96b3659ea9927543479b473e1e9252d4a57844a",
+      "url": "https://www.dw.com/en/india-news-tv-ratings-suspended-over-iran-coverage/live-76256605?maca=en-rss-en-all-1573-rdf",
+      "title": "India news: TV ratings suspended over Iran coverage",
+      "content_html": "India's information and broadcasting ministry said the move was meant to avoid sensationalism in the race to cover the Iran war. Millions of Indians live in the Gulf countries. Follow live.",
+      "date_published": "2026-03-07T06:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3c12aeb071b2a8034e0f04c87d92cdc9cb100f65a192bc221bb2a26c9d55171f",
+      "url": "https://www.ukrinform.net/rubric-ato/4098978-death-toll-in-russian-missile-strike-on-kharkiv-rises-to-six-including-two-children.html",
+      "title": "Death toll in Russian missile strike on Kharkiv rises to seven, including two children",
+      "content_html": "In Kharkiv, rescuers have found other bodies under the rubble following a ballistic missile strike on a multi-story residential building.",
+      "date_published": "2026-03-07T06:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f78e1c2c4482b95729d4c9c087e719947cec526234d18dc86bd8e4b63912eafa",
+      "url": "https://www.france24.com/en/middle-east/20260307-russia-is-helping-iran-target-us-military-forces-officials-say",
+      "title": "Russia is helping Iran target US military forces, officials say",
+      "content_html": "Russia has shared intelligence with Iran that could help Tehran strike US warships, aircraft and other American assets in the region, according to two officials familiar with US intelligence – the first indication Moscow may be stepping into the war launched last week by the United States and Israel.",
+      "date_published": "2026-03-07T06:29:07+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "558c5febc2fd98c52c9bc20530979ec4047139e86fc4a5a22c8d569602133a41",
       "url": "https://www.ukrinform.net/rubric-ato/4098970-russias-war-casualty-toll-in-ukraine-up-by-1010-over-past-day.html",
       "title": "Russia’s war casualty toll in Ukraine up by 1,010 over past day",
@@ -37,27 +132,18 @@
       "lang": "en"
     },
     {
-      "id": "ff500b7c62fdbf45c196425a16dfbf839703c2bbf21c5f00ce454edb0b1f2cd4",
-      "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
-      "title": "Middle East crisis live: explosions rock Tehran as Iran war enters second week",
-      "content_html": "<p>Donald Trump says he would only accept Tehran’s ‘unconditional surrender’ as war continues to expand; Israel launches huge attacks on Iran and Lebanon</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">Tell us: how have you been affected by the latest events in the Middle East?</a></p></li></ul><p><strong>The Saudi defence minister, Prince Khalid bin Salman, urged Iran on Saturday to “avoid miscalculation” after missile and drone launches at the kingdom</strong>.</p><p>Saudi Arabia’s defence ministry said earlier in the day it had blocked repeated missile launches at an airbase housing US military personnel and drone attacks at a major oilfield.</p><p>We stressed that such actions undermine regional security and stability and expressed hope that the Iranian side will exercise wisdom and avoid miscalculation.</p><p>What these families are facing now is days of war with no clear end in sight.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week\">Continue reading...</a>",
-      "date_published": "2026-03-07T06:12:15+00:00",
-      "authors": [
-        {
-          "name": "Adam Fulton"
-        }
-      ],
+      "id": "be7fb392e44eed5f0b828844a603225f65f12df68bd7f047c011427923bd79b7",
+      "url": "https://www.aljazeera.com/news/2026/3/7/iranian-missiles-intercepted-over-saudi-jordan-drones-launched-at-qatar?traffic_source=rss",
+      "title": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar",
+      "content_html": "Qatar says it came under a wave of drone attacks, with 10 fired from Iran, nine intercepted.",
+      "date_published": "2026-03-07T06:07:22+00:00",
+      "authors": [],
       "tags": [
-        "US-Israel war on Iran",
-        "Iran",
-        "Israel",
-        "Lebanon",
-        "Trump administration",
-        "Middle East and north Africa"
+        "News"
       ],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -725,7 +811,7 @@
       "url": "https://www.lemonde.fr/economie/article/2026/03/07/avec-la-hausse-du-prix-du-gaz-l-europe-est-face-a-la-menace-d-un-choc-energetique_6669849_3234.html",
       "title": "Avec la hausse du prix du gaz, l’Europe est face à la menace d’un choc énergétique",
       "content_html": "Réservoirs de stockage de gaz de pétrole liquéfié (GPL) à Pinto, près de Madrid, le 5 mars 2026.",
-      "date_published": "2026-03-07T04:00:44+00:00",
+      "date_published": "2026-03-07T04:00:26+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1352,7 +1438,7 @@
       "id": "8c89ca266034874c622d194a8bc43479193104057747ad21a5e46d853361be22",
       "url": "https://www.timesofisrael.com/knew-they-were-next-hezbollah-rearmed-for-months-after-concluding-war-inevitable/",
       "title": "‘Knew they were next’: Hezbollah rearmed for months after concluding war inevitable",
-      "content_html": "<p>Sources tell Reuters that terror group relied on $50M monthly budget largely supplied by Iran, its own weapons factories in Lebanon to ready for latest round of fighting with IDF</p>\n<p>The post <a href=\"https://www.timesofisrael.com/knew-they-were-next-hezbollah-rearmed-for-months-after-concluding-war-inevitable/\">&#8216;Knew they were next&#8217;: Hezbollah rearmed for months after concluding war inevitable</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260305__99ZM9UT__v1__HighRes__LebanonIranIsraelUsWar-e1772843853781-1024x640.jpg\" title=\"&#8216;Knew they were next&#8217;: Hezbollah rearmed for months after concluding war inevitable\" width=\"160\" /></figure>",
+      "content_html": "<p>Sources tell Reuters that terror group relied on $50m monthly budget largely supplied by Iran, its own weapons factories in Lebanon to ready for latest round of fighting with IDF</p>\n<p>The post <a href=\"https://www.timesofisrael.com/knew-they-were-next-hezbollah-rearmed-for-months-after-concluding-war-inevitable/\">&#8216;Knew they were next&#8217;: Hezbollah rearmed for months after concluding war inevitable</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260305__99ZM9UT__v1__HighRes__LebanonIranIsraelUsWar-e1772843853781-1024x640.jpg\" title=\"&#8216;Knew they were next&#8217;: Hezbollah rearmed for months after concluding war inevitable\" width=\"160\" /></figure>",
       "date_published": "2026-03-07T00:56:20+00:00",
       "authors": [],
       "tags": [
@@ -1521,8 +1607,8 @@
     {
       "id": "d08148a74b5711e191562b128dc52dbb1e24a2c7c4eb9179e3978adaf94d8ec1",
       "url": "https://www.timesofisrael.com/liveblog-march-07-2026/",
-      "title": "Iran fires missiles at Israel throughout the night; IDF launches ‘extensive’ strikes on regime",
-      "content_html": "<p>No injuries reported in five separate Iranian ballistic missile salvos since midnight  * Footage shows large fires at Tehran airport * Hezbollah reports clashes with IDF along Lebanon-Syria border</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-march-07-2026/\">Iran fires missiles at Israel throughout the night; IDF launches &#8216;extensive&#8217; strikes on regime</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260306__A27K4UA__v5__HighRes__IranUsIsraelWar-1024x640.jpg\" title=\"Iran fires missiles at Israel throughout the night; IDF launches &#8216;extensive&#8217; strikes on regime\" width=\"160\" /></figure>",
+      "title": "IDF says underground missile factory, other key sites hit in Iran; multiple missile salvos fired at Israel",
+      "content_html": "<p>No injuries reported in 5 separate ballistic missile attacks since midnight * Riyadh warns Tehran against 'miscalculation' * Hezbollah reports clashes with IDF along Lebanon-Syria border</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-march-07-2026/\">IDF says underground missile factory, other key sites hit in Iran; multiple missile salvos fired at Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260307__A2BH8NV__v1__HighRes__IranIsraelUsWar-1024x640.jpg\" title=\"IDF says underground missile factory, other key sites hit in Iran; multiple missile salvos fired at Israel\" width=\"160\" /></figure>",
       "date_published": "2026-03-06T23:53:44+00:00",
       "authors": [],
       "tags": [
@@ -1632,10 +1718,38 @@
       "lang": "en"
     },
     {
+      "id": "e329ca164d7ba85c95fcbbd3b49833faff4baa3f5788a1ff7853399ca6a47ac7",
+      "url": "https://www.bbc.com/news/videos/c4gq8yd3qlxo?at_medium=RSS&at_campaign=rss",
+      "title": "After Iran, will Trump turn his eyes to Cuba?",
+      "content_html": "During a White House event with the Inter Miami CF soccer team, the US president said the island was “ready to fall”.",
+      "date_published": "2026-03-06T23:30:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "16bf1a56e5036a4e77b8e9ff199d7b0277556a87ac2560332e9c86bc16507d32",
+      "url": "https://www.bbc.com/news/videos/cjwz8py0l2go?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Obama, Biden and Clinton remember 'tenacious' Jesse Jackson",
+      "content_html": "The three former US presidents were among dozens of high profile figures present at the late civil rights activist's memorial.",
+      "date_published": "2026-03-06T23:26:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "ffb14d915369bcaaecae27235e34af07a2800e768153599c2d55d6244acd845e",
       "url": "https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/",
       "title": "Saudi Arabia said to intensify talks with Iran to defuse Mideast war",
-      "content_html": "<p>Reported outreach comes as Iran continues to attack its neighbors; officials from several Gulf states complain they weren't given earlier notice about initial US-Israeli strikes</p>\n<p>The post <a href=\"https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/\">Saudi Arabia said to intensify talks with Iran to defuse Mideast war</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AP26061776347434-1024x640.jpg\" title=\"Saudi Arabia said to intensify talks with Iran to defuse Mideast war\" width=\"160\" /></figure>",
+      "content_html": "<p>Reported outreach comes as Islamic Republicn continues to attack its neighbors; officials from several Gulf states complain they weren't given earlier notice about initial US-Israeli strikes</p>\n<p>The post <a href=\"https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/\">Saudi Arabia said to intensify talks with Iran to defuse Mideast war</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AP26061776347434-1024x640.jpg\" title=\"Saudi Arabia said to intensify talks with Iran to defuse Mideast war\" width=\"160\" /></figure>",
       "date_published": "2026-03-06T23:23:37+00:00",
       "authors": [],
       "tags": [
@@ -2121,6 +2235,20 @@
       "lang": "fr"
     },
     {
+      "id": "6fdd441f41b5b03d50f72755de7cc6c4a041bddbb3e72138203e0526d1b7786a",
+      "url": "https://www.bbc.com/news/videos/c4g244g829zo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Venezuela's political transition two months after Maduro's ousting",
+      "content_html": "The BBC's Ione Wells reports from the country and speaks to recently freed opposition politicians about the government's future and relations with the US.",
+      "date_published": "2026-03-06T21:38:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "31d17d61dfe2f9e2a638d6ce587795315ae611ad3dbd2c101bb6c0d6f2502fbe",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260306-51-people-have-been-killed-in-the-last-24-hours-in-sudan-s-kordofan-region",
       "title": "51 people have been killed in the last 24 hours in Sudan's Kordofan region",
@@ -2379,22 +2507,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "234bc06d07b9ad2df41727fea0bf63ad5216296c4bfe9a1e774b0a9b5da66d14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/strikes-on-iran-to-last-four-to-six-weeks-white-house-says?traffic_source=rss",
-      "title": "Strikes on Iran to last ‘four to six weeks’, White House says",
-      "content_html": "White House Press Secretary Karoline Leavitt says the US expects the war on Iran to last &quot;about four to six weeks”.",
-      "date_published": "2026-03-06T20:46:20+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -4442,22 +4554,6 @@
       "lang": "en"
     },
     {
-      "id": "30d08704533f72a1c3c9c44a0df0ee281896718fd6a8e9618fb7e3329fd88025",
-      "url": "https://www.ukrinform.net/rubric-ato/4098830-war-update-56-combat-clashes-since-morning-kostiantynivka-and-pokrovsk-directions-most-active.html",
-      "title": "War update: 56 combat clashes since morning, Kostiantynivka and Pokrovsk directions most active",
-      "content_html": "Since the beginning of the day, the Russian army has attacked the positions of Ukrainian defenders 56 times, concentrating the greatest efforts on the Kostiantynivka, Pokrovsk, and Huliaipole directions.",
-      "date_published": "2026-03-06T15:38:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bf2eba89bd51edee09a303940a61a546f7f05af058ad343bd8a0dbdd2c4cb097",
       "url": "https://www.dw.com/en/formula-1-in-2026-just-formula-e-on-steroids/a-76144457?maca=en-rss-en-all-1573-rdf",
       "title": "Formula 1 in 2026: Just Formula E on steroids?",
@@ -4720,24 +4816,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c2e14fbb09a932942e2e12c5913441fce9bac8b28f7a7054d36554ee8e4d9bc5",
-      "url": "https://www.france24.com/en/catastrophic-humanitarian-emergency-unfolding-in-lebanon-as-israeli-airstrikes-intensify",
-      "title": "'Catastrophic': Humanitarian emergency unfolding in Lebanon as Israeli airstrikes intensify",
-      "content_html": "Haxi Meyers-Belkin is pleased to welcome Kevin Charbel, Head of Première Urgence Internationale mission in Lebanon. From his vantage point, the current airstrikes in southern Lebanon are triggering a new humanitarian emergency exacerbating the prolonged national crisis. The new attacks are once again plunging Lebanon into a state of war: significant civilian casualties and the displacement of tens of thousands of people, many of whom had only recently returned to their homes following the November 2024 ceasefire.",
-      "date_published": "2026-03-06T14:38:49+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -6748,20 +6826,6 @@
       "lang": "en"
     },
     {
-      "id": "326e7a7b53ba67f1b37a112aca2636c20d1ca0a4c9f3a5d9db07b2f9368de1b1",
-      "url": "https://www.bbc.com/news/videos/cze004wywz3o?at_medium=RSS&at_campaign=rss",
-      "title": "Timelapse shows change in the flow of ships in the Strait of Hormuz",
-      "content_html": "A timelapse of marine traffic shows the flow of ships has decreased in the Strait of Hormuz.",
-      "date_published": "2026-03-05T12:38:53+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1238fbb16eabd00487ae80a3476147006004941bca77b50291fe3d8ca0ab20bd",
       "url": "https://www.dw.com/en/why-all-the-hype-for-the-devil-wears-prada-2/a-76209985?maca=en-rss-en-all-1573-rdf",
       "title": "Why all the hype for 'The Devil Wears Prada 2'?",
@@ -7273,20 +7337,6 @@
       "lang": "fr"
     },
     {
-      "id": "f7d9e82cedd6437f3d880be66a463153baf0b5ba13a55d2be2eb1c9a5697d804",
-      "url": "https://www.bbc.com/news/videos/cy7jjnekeepo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Moment wolf rescued from canal in northern Italy",
-      "content_html": "Video released by the Italian fire brigade shows the wolf being rescued from under a bridge.",
-      "date_published": "2026-03-04T23:01:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bb8b3cd5917c98e1b67ed3329528a22d59521cf8a241e09ea85af518b1f4d62b",
       "url": "https://www.elmundo.es/internacional/2026/03/04/69a85f02fdddff69478b4584.html",
       "title": "Fils de Khamenei, petit-fils de Khomeini… Le vivier des possibles successeurs de l'ayatollah Khamenei, menacé par Israël avant l'élection décisive",
@@ -7353,24 +7403,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "324f97fd64a5bdff501eca1bf538ac1ad1628465c08e665ce981947924270d4b",
-      "url": "https://www.liberation.fr/international/amerique/un-collectif-denonce-la-vente-sur-internet-de-vetements-associes-a-epstein-20260304_6IBY4GNKE5BRPMI3S2RE7LZKZE/",
-      "title": "Un collectif dénonce la vente sur Internet de vêtements associés à Epstein",
-      "content_html": "«Quand les plateformes gagnent de l’argent sur l’image d’un pédocriminel, elles participent à sa banalisation», dénonce le collectif Mouv'Enfants.",
-      "date_published": "2026-03-04T20:59:25+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
@@ -8802,22 +8834,6 @@
       "authors": [],
       "tags": [
         "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8606af704d63eb2e3aff93e7c568f3d81e4a36d3a49e105b0f4245cceea59eb6",
-      "url": "https://www.dw.com/en/university-cuts-damaging-berlin-s-cultural-standing/a-76103173?maca=en-rss-en-all-1573-rdf",
-      "title": "University cuts 'damaging Berlin's cultural standing'",
-      "content_html": "Students and teachers at one of Germany's most prestigious arts universities, the UdK, are devastated as vital arts courses have been hit by budget cuts. Many feel that the heart is being cut out of the city.",
-      "date_published": "2026-02-24T12:39:00+00:00",
-      "authors": [],
-      "tags": [
-        "Germany"
       ],
       "source": {
         "name": "Deutsche Welle",
