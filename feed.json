@@ -5,14 +5,34 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "d242eea2793421ce1bd4065fd84dbe793a47b29ae28e06dfa99848366a1a001c",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-en-iran-mojtaba-khamenei-designe-nouveau-guide-supreme-20260309_WWLMPJK4GZDY5LB2LRPLWEXTI4/",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : le gaz européen bondit de 30 % dans la foulée de l’envolée historique du pétrole",
-      "content_html": "Des pétroliers dans le détroit d'Ormuz, le 3 mars 2026.",
-      "date_published": "2026-03-09T08:26:39+00:00",
+      "id": "d99ad25e0df7e72386ce39fc67718f977195c15b0e1098902a2a9797e936d294",
+      "url": "https://www.france24.com/fr/sports/20260309-coupe-du-monde-2026-2030-2034-pays-organisateurs",
+      "title": "Coupes du monde 2026, 2030, 2034 : quels pays organiseront les prochains Mondiaux ?",
+      "content_html": "Quels pays accueilleront les prochaines éditions de la Coupe du monde de football ? On connaît déjà ceux qui prendront le relais pour 2030 et 2034 après le Mondial 2026, coorganisé par les États-Unis, le Mexique et le Canada.",
+      "date_published": "2026-03-09T09:33:49+00:00",
       "authors": [
         {
-          "name": "LIBERATION,  AFP, Reuters ., Eve Roger"
+          "name": "Romain HOUEIX"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d242eea2793421ce1bd4065fd84dbe793a47b29ae28e06dfa99848366a1a001c",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-en-iran-mojtaba-khamenei-designe-nouveau-guide-supreme-20260309_WWLMPJK4GZDY5LB2LRPLWEXTI4/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les Bourses européennes dévissent à l’ouverture",
+      "content_html": "La Bourse de Paris a reculé de plus de 2,50% dans les premiers échanges ce lundi 9 mars au matin.",
+      "date_published": "2026-03-09T09:32:31+00:00",
+      "authors": [
+        {
+          "name": "Eve Roger, Lucas Biosca,  AFP, Reuters ."
         }
       ],
       "tags": [],
@@ -23,11 +43,89 @@
       "lang": "fr"
     },
     {
-      "id": "844886dc8b866d1f2b27b2b5dc776b3bd67502107577b7f2969e5e1889f3cc42",
-      "url": "https://www.dw.com/en/belgium-explosion-in-front-of-liege-synagogue/a-76272736?maca=en-rss-en-all-1573-rdf",
-      "title": "Belgium: Explosion in front of Liege synagogue",
-      "content_html": "No one was injured in the blast, police say. Mayor Willy Demeyer condemned the explosion as an \"extremely violent act of antisemitism.\"",
-      "date_published": "2026-03-09T08:26:00+00:00",
+      "id": "46065015b92260a954e7cd8f7028cb9588655cf12b6d740aa7b42133bdf7c404",
+      "url": "https://www.france24.com/en/europe/20260309-belgium-to-investigate-targeted-synagogue-explosion-in-liege",
+      "title": "Belgium to investigate 'targeted' synagogue explosion in Liege",
+      "content_html": "Belgian authorities will investigate after an explosion took place in front of a synagogue in the city of Liege early on Monday morning. The mayor described the blast, which caused damage to the synagugue and surrounding buildings, as \"targeted\" and \"anti-Semitic\".",
+      "date_published": "2026-03-09T09:26:12+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e4a4cc1f5fe2d6df2826604b0a1ad4d9f2b9418a4fecb5d3f7843ad03c627eb6",
+      "url": "https://www.lemonde.fr/international/article/2026/03/09/mojtaba-khamenei-nouveau-guide-supreme-de-l-iran-une-figure-peu-connue-proche-des-gardiens-de-la-revolution_6670073_3210.html",
+      "title": "Mojtaba Khamenei, nouveau Guide suprême de l’Iran, une figure peu connue proche des gardiens de la révolution",
+      "content_html": "Mojtaba Khamenei, nouveau Guide suprême d’Iran, sur un écran, à Téhéran, le 9 mars 2026.",
+      "date_published": "2026-03-09T09:25:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0cf246ef4a7688e8627089b08feda3101f673a340d05049c44bfb8be324245e9",
+      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+      "title": "Middle East crisis live: Mojtaba Khamenei chosen as Iran’s new supreme leader; oil prices soar past $100 a barrel",
+      "content_html": "<p>Iran has named hardliner Mojtaba Khamenei as the country’s new supreme leader; Donald Trump says oil price spike ‘a small price to pay’ as markets tumble</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader\">Full report: Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">Tell us: how have you been affected by the latest events in the Middle East?</a></p></li></ul><p><strong>Donald Trump has said a decision on when to end the war with Iran will be a “mutual” one he’ll make together with Benjamin Netanyahu</strong>, the <a href=\"https://www.timesofisrael.com/trump-to-times-of-israel-itll-be-a-mutual-decision-with-netanyahu-regarding-when-iran-war-ends/\">Times of Israel has reported</a>.</p><p>It said Trump also claimed in a brief telephone interview on Sunday that Iran would have destroyed <a href=\"https://www.theguardian.com/world/israel\">Israel</a> if he and Netanyahu had not been around. The US president said:</p><p><em>Iran was going to destroy Israel and everything else around it … We’ve worked together. We’ve destroyed a country that wanted to destroy Israel.</em></p><p><em>I think it’s mutual … a little bit. We’ve been talking. I’ll make a decision at the right time, but everything’s going to be taken into account.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar\">Continue reading...</a>",
+      "date_published": "2026-03-09T09:22:18+00:00",
+      "authors": [
+        {
+          "name": "Vivian Ho (now) and Adam Fulton (earlier)"
+        }
+      ],
+      "tags": [
+        "US-Israel war on Iran",
+        "Israel",
+        "Iran",
+        "Trump administration",
+        "US news",
+        "Middle East and north Africa",
+        "World news",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b765ae8e491a2c6538ffbe62d92b42632d7fa39812584ccc87838fbafdeec685",
+      "url": "https://www.aljazeera.com/features/2026/3/9/volunteers-rebuild-sudans-oldest-psychiatric-hospital-destroyed-by-war?traffic_source=rss",
+      "title": "Volunteers rebuild Sudan’s oldest psychiatric hospital destroyed by war",
+      "content_html": "Sudanese family returning home from displacement, struggles to help son overcome drug addiction.",
+      "date_published": "2026-03-09T09:17:34+00:00",
+      "authors": [],
+      "tags": [
+        "Features"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c4fcc3634b2e3c90bba922773088753ea1ef1a5ed0a6839b4486cdc521ada936",
+      "url": "https://www.dw.com/en/germany-news-greens-snatch-victory-in-baden-württemberg/live-76273260?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: Greens snatch victory in Baden-Württemberg",
+      "content_html": "The Greens have emerged as winners in the southwestern state of Baden-Württemberg, edging ahead of the conservative CDU. Meanwhile, Koblenz residents were aghast when a glowing meteor crashed into a home. DW has more.",
+      "date_published": "2026-03-09T09:17:00+00:00",
       "authors": [],
       "tags": [
         "News"
@@ -39,11 +137,167 @@
       "lang": "en"
     },
     {
-      "id": "c6f630160278a862dba028419a5f398500a5111f79097a818f242082c0bb9d0c",
-      "url": "https://www.ukrinform.net/rubric-ato/4099505-ihnat-russia-attacks-ukraine-with-hundreds-of-drones-every-night.html",
-      "title": "Ihnat: Russia attacks Ukraine with hundreds of drones every night",
-      "content_html": "Russian troops are not changing their air attack tactics and are launching hundreds of strike drones on Ukraine almost every night, while air defense forces intercepted 161 out of 199 targets last night.",
-      "date_published": "2026-03-09T08:26:00+00:00",
+      "id": "8bcddabd8127a649736331aab7ac7b0b3e9b211ccd4dbb0bd64a11975c990158",
+      "url": "https://www.lemonde.fr/videos/video/2026/03/09/mojtaba-khamenei-designe-nouveau-guide-supreme-iranien-apres-la-mort-de-son-pere-dans-les-frappes-israeliennes-et-americaines_6670072_1669088.html",
+      "title": "Mojtaba Khamenei désigné nouveau Guide suprême iranien, après la mort de son père dans les frappes israéliennes et américaines",
+      "content_html": "Une photo du nouveau guide suprême iranien, Mojtaba Khamenei, est projetée sur un écran à Téhéran, en pleine crise israélo-américaine, le 9 mars 2026. Majid Asgaripour/WANA (Agence de presse Asie de l’Ouest)",
+      "date_published": "2026-03-09T09:16:20+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "594c4c1b9d19d01654b0f55bef37b8a6dccaf8d131972e481cdd51ed29283668",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/09/keir-starmer-uk-gas-oil-prices-100-petrol-energy-inflation-latest-news-live-updates",
+      "title": "Starmer seeks to reassure public over cost of living as oil surges above $100 a barrel - UK politics live",
+      "content_html": "<p>The prime minister is facing pressure from unions and some backbenchers to prepare a support package as oil and gas prices threaten to push up inflation</p><p><em>Here is some detail on reports that G7 finance ministers are preparing to discuss the release of emergency oil reserves, courtesy of Guardian business reporter <a href=\"https://www.theguardian.com/profile/lauren-almeida\">Lauren Almeida</a>:</em></p><p>The emergency meeting would take place at 8.30am New York time to discuss the impact of the Iran war, the FT reported, citing unnamed people familiar with the matter.</p><p><em>People are also rightly worrying what this means for life at home – their bills, their jobs, their communities.</em></p><p><em>I want to address those concerns head on. I will always be guided by what is best for the British public. And no matter the headwinds, supporting working people and their families with the cost of living is always top of my mind.</em></p> <a href=\"https://www.theguardian.com/politics/live/2026/mar/09/keir-starmer-uk-gas-oil-prices-100-petrol-energy-inflation-latest-news-live-updates\">Continue reading...</a>",
+      "date_published": "2026-03-09T09:15:11+00:00",
+      "authors": [
+        {
+          "name": "Yohannes Lowe"
+        }
+      ],
+      "tags": [
+        "Politics",
+        "UK news",
+        "Oil",
+        "Commodities",
+        "Keir Starmer"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0b44a5f6bdf0047295c85eeeaf6bda32e6f6cfd3e32147047aba9ba1c65d2dfb",
+      "url": "https://www.theguardian.com/business/2026/mar/09/g7-release-emergency-reserves-oil-price-us-middle-east-war",
+      "title": "G7 to discuss release of emergency oil reserves as price tops $100",
+      "content_html": "<p>US among three countries so far backing measure triggered by Middle East war, according to reports</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">Iran war drives oil prices above $100 a barrel</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates\">Business live – latest updates</a></p></li></ul><p>G7 finance ministers are preparing to discuss the release of emergency oil reserves, according to reports, after the US-Israel war with Iran sent the <a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">price of crude above $100 (£75)</a> for the first time since 2022.</p><p>The ministers will discuss the release of the reserves in a call coordinated by the International Energy Agency (IEA), according to a report from the Financial Times.</p> <a href=\"https://www.theguardian.com/business/2026/mar/09/g7-release-emergency-reserves-oil-price-us-middle-east-war\">Continue reading...</a>",
+      "date_published": "2026-03-09T09:12:01+00:00",
+      "authors": [
+        {
+          "name": "Lauren Almeida"
+        }
+      ],
+      "tags": [
+        "Oil",
+        "Commodities",
+        "Energy industry",
+        "Business",
+        "US-Israel war on Iran",
+        "G7",
+        "World news",
+        "UK news",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5309789112cd8ba540a49ef001782844a9864b65a9040d3f62925bab2e62e7b5",
+      "url": "https://www.dw.com/en/why-the-us-says-india-can-buy-russian-oil-again/a-76250096?maca=en-rss-en-all-1573-rdf",
+      "title": "Why the US says India can buy Russian oil again",
+      "content_html": "Less than a month after India agreed to stop buying Russian oil in exchange for a US trade deal, Washington says it can buy it again. The latest reports suggest it may loosen other sanctions against Moscow.",
+      "date_published": "2026-03-09T09:12:00+00:00",
+      "authors": [],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "86606517d13dcb8fc3a9b24abb48ec88904d1753e03bbeceaef5279cc2873a65",
+      "url": "https://www.lemonde.fr/international/article/2026/03/09/prix-du-carburant-pour-le-gouvernement-il-est-trop-tot-pour-mettre-en-place-des-aides-a-la-pompe_6670071_3210.html",
+      "title": "Prix du carburant : le pétrole s’envole, mais il est « trop tôt » pour envisager des aides à la pompe, selon le gouvernement",
+      "content_html": "Des pompes à carburant dans une station-service Esso à Rely (Pas-de-Calais), le 5 mars 2026.",
+      "date_published": "2026-03-09T09:10:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f437ebf351d18656317f2195598863b052c9e3025604f4f2e2721709814114ea",
+      "url": "https://www.dw.com/en/liege-s-mayor-condemns-violent-act-of-antisemitism-after-explosion-at-synagogue-in-the-belgian-city/a-76272736?maca=en-rss-en-all-1573-rdf",
+      "title": "Liege's mayor condemns 'violent act of antisemitism' after explosion at synagogue in the Belgian city",
+      "content_html": "No one was injured in the blast, police say. Liege Mayor Willy Demeyer condemned the explosion as an \"extremely violent act of antisemitism.\"",
+      "date_published": "2026-03-09T09:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1b5242c388b6a95c36f826757cdff24a428044d288fb1889e58564a9a07f785f",
+      "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-lenquete-elargie-a-cinq-responsables-et-ex-responsables-de-la-commune-20260309_KKCOZXPBH5FTPP35NHQTXJYO7E/",
+      "title": "Incendie de Crans-Montana : l’enquête élargie à cinq responsables et ex-responsables de la commune",
+      "content_html": "Journée nationale de deuil à Crans-Montana en Suisse, le 9 janvier 2026.",
+      "date_published": "2026-03-09T09:07:32+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "57ebba84e1f01cc1f9f2fba1b099c82b5cfd52b8856969c4dd4e239650aa37f0",
+      "url": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
+      "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
+      "content_html": "<p>Move could lead to escalation of war as Donald Trump has already called Mojtaba Khamenei an ‘unacceptable’ choice</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar\">Middle East crisis - live updates</a></p></li></ul><p>Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war enters its 10th day and fresh missile and drone strikes reverberate across the Middle East.</p><p>After members of the clerical body responsible for selecting Iran’s highest authority announced the decision on Sunday, Iranian institutions and politicians, from the foreign ministry to lawmakers, issued statements expressing their allegiance. “We will obey the commander-in-chief until the last drop of our blood,” a statement from the defence council said.</p> <a href=\"https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader\">Continue reading...</a>",
+      "date_published": "2026-03-09T09:07:31+00:00",
+      "authors": [
+        {
+          "name": "Lorenzo Tondo"
+        }
+      ],
+      "tags": [
+        "Iran",
+        "Middle East and north Africa",
+        "Ayatollah Ali Khamenei",
+        "World news",
+        "Donald Trump",
+        "US-Israel war on Iran",
+        "US foreign policy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4c1c8fa7e4c871e0a7266076204f385c5a4c5c533ad12764e17568afbf4b7f21",
+      "url": "https://www.ukrinform.net/rubric-ato/4099527-russian-attacks-on-energy-infrastructure-leave-three-regions-without-power.html",
+      "title": "Russian attacks on energy infrastructure leave three regions without power",
+      "content_html": "As of the morning of March 9, Russian attacks have left consumers in the Kharkiv, Sumy, and Chernihiv regions without power.",
+      "date_published": "2026-03-09T09:07:00+00:00",
       "authors": [],
       "tags": [
         "War"
@@ -51,6 +305,351 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1ece0ab017c14d0382593263068b3d74d0ad6b99afb3c269bbca2a726e0246a8",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/09/le-groupe-de-presse-allemand-axel-springer-rachete-le-britannique-the-telegraph_6670070_3234.html",
+      "title": "Le groupe de presse allemand Axel Springer rachète le journal britannique « The Telegraph »",
+      "content_html": "A Londres, le 14 novembre 2025.",
+      "date_published": "2026-03-09T09:06:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "af8fb50098ddc364f664ef24978e17a52709afe01ebc65df4dc74e67e6068b70",
+      "url": "https://ici.radio-canada.ca/nouvelle/2236031/quota-aiglefin-diminution-declin-stocks",
+      "title": "Les quotas d’aiglefin coupés de 57 % en Nouvelle-Écosse et au Nouveau-Brunswick",
+      "content_html": "<p>La baisse du quota pourrait être «&nbsp;extrêmement dommageable&nbsp;» pour certaines entreprises de pêche.</p>",
+      "date_published": "2026-03-09T09:06:42+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d66f3fb9dec9206469d5d110298c5f616e7b11ea646dd98628302c9a9bd992b6",
+      "url": "https://www.timesofisrael.com/synagogue-in-belgium-damaged-in-blast-no-injuries-mayor-violent-act-of-antisemitism/",
+      "title": "Synagogue in Belgium damaged in blast, no injuries; mayor: ‘Violent act of antisemitism’",
+      "content_html": "<p>Counter-terror police investigating Liege explosion; mayor says 'there can be no question of importing external conflicts'; house of worship also serves as Jewish community museum</p>\n<p>The post <a href=\"https://www.timesofisrael.com/synagogue-in-belgium-damaged-in-blast-no-injuries-mayor-violent-act-of-antisemitism/\">Synagogue in Belgium damaged in blast, no injuries; mayor: &#8216;Violent act of antisemitism&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20230111__336V7CV__v1__HighRes__BelgiumPoliceSecurity-e1773045977710-1024x640.jpg\" title=\"Synagogue in Belgium damaged in blast, no injuries; mayor: &#8216;Violent act of antisemitism&#8217;\" width=\"160\" /></figure>",
+      "date_published": "2026-03-09T09:04:48+00:00",
+      "authors": [],
+      "tags": [
+        "Jewish Times",
+        "Belgium",
+        "Antisemitism in Belgium",
+        "Belgian Jews"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e8a14f1fb6e6e4d5c70be02f0118bcdbcaae8753d76efd687d12b215d082a422",
+      "url": "https://ici.radio-canada.ca/nouvelle/2234981/grc-formation-depot-recrutement-policier",
+      "title": "La GRC en mode recrutement",
+      "content_html": "<p>Un peu plus de 8&nbsp;% des postes de policiers de première ligne sont vacants à la GRC.</p>",
+      "date_published": "2026-03-09T09:02:58+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a51d28852a3b73b9e21b47cd1e9de13b5803420823cc63214aaee7dd7dd1935d",
+      "url": "https://www.france24.com/fr/afrique/20260309-crash-air-alg%C3%A9rie-2014-proc%C3%A8s-compagnie-espagnole-swiftair-s-ouvre-paris",
+      "title": "Crash d'Air Algérie en 2014 : le procès de la compagnie espagnole Swiftair s'ouvre à Paris",
+      "content_html": "Le procès de Swiftair pour homicides involontaires s'ouvre lundi devant le tribunal correctionnel de Paris. La compagnie espagnole avait loué en 2014 un avion à Air Algérie qui s'était écrasé au Sahel, faisant 116 morts. Selon les juges d'instruction français, Switfair s'est rendue coupable de \"divers manquements\" qui ont conduit à l'accident.",
+      "date_published": "2026-03-09T09:00:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5caacd999782d2c0f8b1b65c75ff36af107f1200c91ff7f1ac747dfb82c2078c",
+      "url": "https://www.lemonde.fr/international/article/2026/03/09/guerre-en-iran-la-polemique-monte-sur-l-impreparation-de-la-royal-navy-britannique_6670068_3210.html",
+      "title": "Guerre en Iran : la polémique monte sur l’impréparation de la Royal Navy britannique",
+      "content_html": "Vu du destroyer « Dragon », de la Royal Navy, sur la base navale de Portsmouth (Royaume-Uni), le 4 mars 2026.",
+      "date_published": "2026-03-09T09:00:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "148d9dc121cbc323c03c04d00cc1df2f085f37cf53612e7d6034489bf527e7fc",
+      "url": "https://www.aljazeera.com/news/2026/3/9/iran-war-what-is-happening-on-day-10-of-us-israel-attacks?traffic_source=rss",
+      "title": "Iran war: What is happening on day 10 of US-Israel attacks?",
+      "content_html": "Mojtaba Khamenei has been selected as Iran’s new supreme leader. Attacks continue and oil prices have spiked.",
+      "date_published": "2026-03-09T08:59:56+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "004186806bf158bf8d73214e43c647898323a6bec5360f4db776f167f3aae452",
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
+      "content_html": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
+      "date_published": "2026-03-09T08:57:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f44f66bc63ea2ed339fe6752ba1371cfa3731ee99ca82fabeabc5474ec550065",
+      "url": "https://www.lemonde.fr/international/live/2026/03/09/en-direct-guerre-au-moyen-orient-l-iran-a-vise-des-cibles-au-bahrein-en-arabie-saoudite-et-au-qatar-israel-bombarde-le-sud-de-beyrouth_6669855_3210.html",
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran a visé des cibles à Bahreïn, en Arabie saoudite et au Qatar ; Israël bombarde le sud de Beyrouth",
+      "content_html": "Après une frappe contre la raffinerie de pétrole Bapco, sur l’île de Sitra, à Bahreïn, le 9 mars 2026.",
+      "date_published": "2026-03-09T08:53:40+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f03151013753a2cf816784f1b50b9183d81978ed54b6b8d2633a0dfe8b27e6b4",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-en-iran-le-gaz-europeen-et-le-petrole-senvolent-les-pays-du-g7-envisagent-le-recours-aux-reserves-strategiques-20260309_3YZBQ4LLCNFGFIQ5RPYOLP5UJM/",
+      "title": "Guerre en Iran : le gaz européen et le pétrole s’envolent, les pays du G7 envisagent le recours aux réserves stratégiques",
+      "content_html": "A Rely, dans le Pas-de-Calais, le 5 mars. Le prix de la principale référence américaine pour le pétrole a bondi de plus de 30 % ce lundi.",
+      "date_published": "2026-03-09T08:48:00+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "14e335de47d652509e758ee3c23bc0d7288916551e56712aa5aa9388f7bc20ad",
+      "url": "https://www.liberation.fr/international/amerique/la-maison-de-rihanna-visee-par-des-tirs-a-los-angeles-lassaillante-arretee-20260309_DXNLL4HTBVEXBDQHP5PF7DTLWM/",
+      "title": "La maison de Rihanna visée par des tirs à Los Angeles, l’assaillante arrêtée",
+      "content_html": "La chanteuse et actrice barbadienne Rihanna au défilé de la collection Haute Couture printemps-été 2026 de Christian Dior, à Paris, le 26 janvier 2026.",
+      "date_published": "2026-03-09T08:45:17+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1d379f253e8af431c44ac23ba2a587877453809b55ea3b2a70aa4bbd214dbbf6",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/crowd-chants-save-our-girls-at-bus-carrying-iran-womens-team?traffic_source=rss",
+      "title": "Crowd chants ‘save our girls’ at bus carrying Iran women’s team",
+      "content_html": "Crowds chased a bus carrying Iran’s women’s football team in Australia, chanting &#039;save our girls&#039;.",
+      "date_published": "2026-03-09T08:44:46+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ed06075aab6e26751da4c19f75f0c1279c04802dccde6db0a91d2da691ac28ff",
+      "url": "https://www.liberation.fr/international/europe/belgique-explosion-dans-la-nuit-devant-une-synagogue-a-liege-aucun-blesse-20260309_DSINZANCAZHCZIIHDTGCRGKKCY/",
+      "title": "Belgique : explosion dans la nuit devant une synagogue à Liège, aucun blessé",
+      "content_html": "Des fenêtres des bâtiments situés en face ont été soufflées, a précisé un porte-parole de la police de Liège.",
+      "date_published": "2026-03-09T08:40:29+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7dcc072d4d2cf5ebf0d2acec365cc08de2fcf72c62a5bc21e68f317f2f613a27",
+      "url": "https://www.france24.com/en/economy/20260309-oil-prices-hit-historic-high-after-iran-names-new-supreme-leader",
+      "title": "Oil prices hit historic high after Iran names new supreme leader",
+      "content_html": "Oil prices soared to nearly $120 per barrel on Monday after Iran announced the nomination of a new supreme leader, before falling to $106.23 per barrel. The choice of Mojtaba Khamenei ‌as the new leader – signalling a continuation of hardliners in power – and fears of prolonged Strait of Hormuz shipping disruptions have pummeled financial markets.",
+      "date_published": "2026-03-09T08:39:14+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8959a9fd28800ffa4f785386bf9c1b0479b6a0672d01b66cca1330d8cc3a672f",
+      "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
+      "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
+      "content_html": "<p>Donald Trump insists rise in energy prices is ‘very small price to pay’ as Middle East war sparks fresh stock market sell-off</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices surged past $100 a barrel for the first time since 2022 as fallout from the US-Israel war with Iran continued to rattle global markets and leading economies moved to tackle a worsening energy supply crisis.</p><p>A weekend of escalating violence in the Middle East intensified concerns around a sustained supply crunch, propelling oil prices to their highest level in four years and triggering a deep stock market sell-off.</p> <a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">Continue reading...</a>",
+      "date_published": "2026-03-09T08:38:28+00:00",
+      "authors": [
+        {
+          "name": "Jillian Ambrose Energy correspondent"
+        }
+      ],
+      "tags": [
+        "Oil",
+        "US-Israel war on Iran",
+        "Shipping industry",
+        "Business",
+        "Commodities",
+        "World news",
+        "Middle East and north Africa",
+        "International trade",
+        "Iran",
+        "Economics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bd127916f3058b82dc41fd2f61d7cf00af2a28b64a4abacb1d32ea6891918782",
+      "url": "https://www.dw.com/en/india-news-fm-jaishankar-briefs-parliament-on-iran-war/live-76271974?maca=en-rss-en-all-1573-rdf",
+      "title": "India news: FM Jaishankar briefs parliament on Iran war",
+      "content_html": "India's Foreign Minister Subrahmanyam Jaishankar reassured the Indian public that the government was monitoring the situation in the Middle East and that the safety of Indian nationals was its priority, amid criticism.",
+      "date_published": "2026-03-09T08:38:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "01236c8c6468aefd349f13da160b3245d4fa0a1a1ffd8c0e3c3f1cebbe482565",
+      "url": "https://www.dw.com/en/plasticizer-chemical-levels-in-german-children-raise-concern/a-68246036?maca=en-rss-en-all-1573-rdf",
+      "title": "Plasticizer chemical levels in German children raise concern",
+      "content_html": "Tests in Germany show children and teens are contaminated with banned plasticizers. You may never have heard of these potentially toxic chemicals, but they're everywhere, including clothes, cosmetics and food packaging.",
+      "date_published": "2026-03-09T08:36:00+00:00",
+      "authors": [],
+      "tags": [
+        "Environment"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "62165051c253b462226a0f93a16e43e7d81aa51f104157a381705788619147b6",
+      "url": "https://www.ukrinform.net/rubric-ato/4099509-enemy-attacks-zaporizhzhia.html",
+      "title": "Enemy attacks Zaporizhzhia",
+      "content_html": "The enemy army attacked Zaporizhzhia. As a result of the attack, a truck caught fire.",
+      "date_published": "2026-03-09T08:33:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "52936c4c1045a51b2eda0d364f6e5ed8d459e418487f312f81333878ce6037f1",
+      "url": "https://www.theguardian.com/business/2026/mar/09/yorkshire-water-funding-fines-pay-private-equity-eqt",
+      "title": "Yorkshire Water receives fresh funding despite sewage fines and pay row",
+      "content_html": "<p>Private equity group EQT to take 42% stake as supplier faces scrutiny over environmental record and CEO’s pay</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates\">Business live – latest updates</a></p></li></ul><p>A leading European investor will pump fresh funding into Yorkshire Water including helping to cover a £600m loan, despite recent heavy sewage fines and a scandal over executive pay at the utility firm.</p><p>EQT, a Swedish private equity group, said on Monday it would take a 42% stake in Kelda Holdings, the Jersey-registered parent company of Yorkshire Water, which has 5.7 million customers across Yorkshire and parts of the East Midlands and Lincolnshire.</p> <a href=\"https://www.theguardian.com/business/2026/mar/09/yorkshire-water-funding-fines-pay-private-equity-eqt\">Continue reading...</a>",
+      "date_published": "2026-03-09T08:29:15+00:00",
+      "authors": [
+        {
+          "name": "Alex Daniel"
+        }
+      ],
+      "tags": [
+        "Water industry",
+        "Business",
+        "Yorkshire",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "042c72ea1d44c5fed93e97f232f7842b0b8f04c2bd1c05180319cce4e60fc879",
+      "url": "https://www.aljazeera.com/opinions/2026/3/9/carney-confirms-when-washington-whistles-ottawa-salutes?traffic_source=rss",
+      "title": "Carney confirms: When Washington whistles, Ottawa salutes",
+      "content_html": "The Canadian prime minister was quick to jump on the Iran war bandwagon, seemingly forgetting his own speech at Davos.",
+      "date_published": "2026-03-09T08:26:15+00:00",
+      "authors": [],
+      "tags": [
+        "Opinions"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -69,25 +668,11 @@
       "lang": "en"
     },
     {
-      "id": "004186806bf158bf8d73214e43c647898323a6bec5360f4db776f167f3aae452",
-      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-      "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
-      "content_html": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
-      "date_published": "2026-03-09T08:22:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a1ff4a3854411afaa0de909e49b5ca98f8dfc191be350d87e881c9b2a7dc8de0",
       "url": "https://www.lemonde.fr/international/article/2026/03/09/a-liege-une-explosion-devant-une-synagogue-le-bourgmestre-evoque-un-acte-extremement-violent-d-antisemitisme_6670063_3210.html",
-      "title": "A Liège, une explosion devant une synagogue ; le bourgmestre évoque un « acte extrêmement violent d’antisémitisme »",
+      "title": "Liège : une explosion a eu lieu devant une synagogue, sans faire de blessé ; les autorités dénoncent un « acte extrêmement violent d’antisémitisme »",
       "content_html": "Devant la synagogue située rue Léon-Frédéricq, à Liège (Belgique), photo non datée tirée de Google street view.",
-      "date_published": "2026-03-09T08:22:41+00:00",
+      "date_published": "2026-03-09T08:22:38+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -95,6 +680,20 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
+    },
+    {
+      "id": "193249cfc668b269f47450c1d75e939d437069aab68ada7a00b50d8b9f694445",
+      "url": "https://www.bbc.com/news/articles/cy8lwnyj40eo?at_medium=RSS&at_campaign=rss",
+      "title": "Alleged Bondi gunman seeks order to suppress family's identity",
+      "content_html": "Naveed Akram is seeking to prevent media publishing details about his mother, sister and brother.",
+      "date_published": "2026-03-09T08:13:58+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
     },
     {
       "id": "932108cba1d397cd269bf1f676bf2ce440c476351a6e7283b9f8ac288ea32e61",
@@ -179,6 +778,22 @@
       "lang": "en"
     },
     {
+      "id": "c6f630160278a862dba028419a5f398500a5111f79097a818f242082c0bb9d0c",
+      "url": "https://www.ukrinform.net/rubric-ato/4099505-ihnat-russia-attacks-ukraine-with-hundreds-of-drones-every-night.html",
+      "title": "Ihnat: Russia attacks Ukraine with hundreds of drones every night",
+      "content_html": "Russian troops are not changing their air attack tactics and are launching hundreds of strike drones on Ukraine almost every night, while air defense forces intercepted 161 out of 199 targets last night.",
+      "date_published": "2026-03-09T08:06:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "34d75ee65bb0c57b43afad3769af8207ea84a13ffc0d4faedb22b58f2ddb860e",
       "url": "https://elpais.com/internacional/2026-03-08/varios-clerigos-iranies-aseguran-que-el-sucesor-de-jamenei-ya-ha-sido-elegido-pero-ocultan-su-nombre.html",
       "title": "L’Iran défie Trump en choisissant Mojtaba Khamenei pour succéder à son père à la tête de la République islamique",
@@ -251,50 +866,6 @@
       "lang": "fr"
     },
     {
-      "id": "57ebba84e1f01cc1f9f2fba1b099c82b5cfd52b8856969c4dd4e239650aa37f0",
-      "url": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
-      "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
-      "content_html": "<p>Move could lead to escalation of war as Donald Trump has already called Mojtaba Khamenei an ‘unacceptable’ choice</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar\">Middle East crisis - live updates</a></p></li></ul><p>Mojtaba Khamenei, the second son of the late Iranian supreme leader Ayatollah Ali Khamenei, has been chosen as his successor, as the war entered its 10th day and fresh missile and drone strikes reverberated across the Middle East.</p><p>Members of the clerical body responsible for selecting Iran’s highest authority announced the decision on Sunday, calling on Iranians to rally behind him and preserve national unity.</p> <a href=\"https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader\">Continue reading...</a>",
-      "date_published": "2026-03-09T07:59:25+00:00",
-      "authors": [
-        {
-          "name": "Lorenzo Tondo"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "Middle East and north Africa",
-        "Ayatollah Ali Khamenei",
-        "World news",
-        "Donald Trump",
-        "US-Israel war on Iran",
-        "US foreign policy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ed06075aab6e26751da4c19f75f0c1279c04802dccde6db0a91d2da691ac28ff",
-      "url": "https://www.liberation.fr/international/europe/belgique-explosion-dans-la-nuit-devant-une-synagogue-a-liege-aucun-blesse-20260309_DSINZANCAZHCZIIHDTGCRGKKCY/",
-      "title": "Belgique : explosion dans la nuit devant une synagogue à Liège, aucun blessé",
-      "content_html": "Des fenêtres des bâtiments situés en face ont été soufflées, a précisé un porte-parole de la police de Liège.",
-      "date_published": "2026-03-09T07:58:26+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0425433b9a55bf0d3141d19a278cfc1bfbc7ae09c520ae7cbfc2d6ce1e20bd6c",
       "url": "https://www.timesofisrael.com/crude-oil-prices-spike-above-115-a-barrel-as-iran-conflict-disrupts-production-shipping/",
       "title": "Crude oil prices spike above $115 a barrel as Iran conflict disrupts production, shipping",
@@ -312,34 +883,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0b44a5f6bdf0047295c85eeeaf6bda32e6f6cfd3e32147047aba9ba1c65d2dfb",
-      "url": "https://www.theguardian.com/business/2026/mar/09/g7-release-emergency-reserves-oil-price-us-middle-east-war",
-      "title": "G7 to discuss release of emergency oil reserves as price tops $100",
-      "content_html": "<p>US among three countries so far backing measure triggered by Middle East war, according to reports</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">Iran war drives oil prices above $100 a barrel</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates\">Business live – latest updates</a></p></li></ul><p>G7 finance ministers are preparing to discuss the release of emergency oil reserves, according to reports, after the US-Israel war with Iran sent the <a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">price of crude above $100 (£75)</a> for the first time since 2022.</p><p>The ministers will discuss the release of the reserves in a call coordinated by the International Energy Agency (IEA), according to a report from the Financial Times.</p> <a href=\"https://www.theguardian.com/business/2026/mar/09/g7-release-emergency-reserves-oil-price-us-middle-east-war\">Continue reading...</a>",
-      "date_published": "2026-03-09T07:52:07+00:00",
-      "authors": [
-        {
-          "name": "Lauren Almeida"
-        }
-      ],
-      "tags": [
-        "Oil",
-        "Commodities",
-        "Energy industry",
-        "Business",
-        "US-Israel war on Iran",
-        "G7",
-        "World news",
-        "UK news",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -376,34 +919,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0cf246ef4a7688e8627089b08feda3101f673a340d05049c44bfb8be324245e9",
-      "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-      "title": "Middle East crisis live: Mojtaba Khamenei chosen as Iran’s new supreme leader; oil prices soar past $100 a barrel",
-      "content_html": "<p>Iran has named hardliner Mojtaba Khamenei as the country’s new supreme leader; Donald Trump says oil price spike ‘a small price to pay’ as markets tumble</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader\">Full report: Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/01/tell-us-affected-by-latest-events-in-the-middle-east-strikes-iran-us-israel-dubai\">Tell us: how have you been affected by the latest events in the Middle East?</a></p></li></ul><p><strong>Donald Trump has said a decision on when to end the war with Iran will be a “mutual” one he’ll make together with Benjamin Netanyahu</strong>, the <a href=\"https://www.timesofisrael.com/trump-to-times-of-israel-itll-be-a-mutual-decision-with-netanyahu-regarding-when-iran-war-ends/\">Times of Israel has reported</a>.</p><p>It said Trump also claimed in a brief telephone interview on Sunday that Iran would have destroyed <a href=\"https://www.theguardian.com/world/israel\">Israel</a> if he and Netanyahu had not been around. The US president said:</p><p><em>Iran was going to destroy Israel and everything else around it … We’ve worked together. We’ve destroyed a country that wanted to destroy Israel.</em></p><p><em>I think it’s mutual … a little bit. We’ve been talking. I’ll make a decision at the right time, but everything’s going to be taken into account.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar\">Continue reading...</a>",
-      "date_published": "2026-03-09T07:41:55+00:00",
-      "authors": [
-        {
-          "name": "Vivian Ho (now) and Adam Fulton (earlier)"
-        }
-      ],
-      "tags": [
-        "US-Israel war on Iran",
-        "Israel",
-        "Iran",
-        "Trump administration",
-        "US news",
-        "Middle East and north Africa",
-        "World news",
-        "Lebanon",
-        "Hezbollah"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -567,24 +1082,6 @@
       "lang": "fr"
     },
     {
-      "id": "14e335de47d652509e758ee3c23bc0d7288916551e56712aa5aa9388f7bc20ad",
-      "url": "https://www.liberation.fr/international/amerique/la-maison-de-rihanna-visee-par-des-tirs-a-los-angeles-lassaillante-arretee-20260309_DXNLL4HTBVEXBDQHP5PF7DTLWM/",
-      "title": "La maison de Rihanna visée par des tirs à Los Angeles, l’assaillante arrêtée",
-      "content_html": "La chanteuse et actrice barbadienne Rihanna au défilé de la collection Haute Couture printemps-été 2026 de Christian Dior, à Paris, le 26 janvier 2026.",
-      "date_published": "2026-03-09T07:11:59+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "42c0387e4cbe59f9904302cb09d30dcc8713ddbeffcdff0155775c684841f801",
       "url": "https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss",
       "title": "Bangladesh shuts universities, limits fuel sale as Iran war causes shortage",
@@ -597,35 +1094,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8959a9fd28800ffa4f785386bf9c1b0479b6a0672d01b66cca1330d8cc3a672f",
-      "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
-      "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
-      "content_html": "<p>Donald Trump insists surge in energy prices is ‘very small price to pay’ as Middle East conflict sparks fresh stock market sell-off</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/mar/09/stock-markets-plunge-oil-over-100-a-barrel-g7-emergency-oil-reserves-news-updates\">Business live – latest updates</a></p></li></ul><p>Oil prices surged past $100 per barrel for the first time since 2022 as fallout from the US-Israel war with Iran continued to rattle global markets and leading economies moved to tackle a worsening energy supply crisis.</p><p>A weekend of escalating violence in the Middle East intensified concerns around a sustained supply crunch, propelling oil prices to their highest level in four years and triggering a deep stock market sell-off.</p> <a href=\"https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022\">Continue reading...</a>",
-      "date_published": "2026-03-09T07:03:37+00:00",
-      "authors": [
-        {
-          "name": "Jillian Ambrose Energy correspondent"
-        }
-      ],
-      "tags": [
-        "Oil",
-        "US-Israel war on Iran",
-        "Shipping industry",
-        "Business",
-        "Commodities",
-        "World news",
-        "Middle East and north Africa",
-        "International trade",
-        "Iran",
-        "Economics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -664,7 +1132,7 @@
     {
       "id": "477572379e61a028bdff87e8a63e535f35e011f961255ed0ba07fa3ef9810a07",
       "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-      "title": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+      "title": "Australia urged to protect Iran women's football team as they prepare to fly home",
       "content_html": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
       "date_published": "2026-03-09T06:51:18+00:00",
       "authors": [],
@@ -725,8 +1193,8 @@
     {
       "id": "6ce43fbd3509b694aedb8103082676ca671a1607d3cceec4e675e9f3264a670a",
       "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260309-mojtaba-khamenei-nouveau-guide-supr%C3%AAme-de-l-iran-la-l%C3%A9gitimit%C3%A9-du-sang",
-      "title": "Mojtaba Khamenei, nouveau Guide suprême de l'Iran: \"La légitimité du sang\"",
-      "content_html": "A la Une de la presse, ce lundi 9 mars, les réactions à la désignation du nouveau Guide suprême iranien, Mojtaba Khamenei, le fils d’Ali Khamenei. Le spectre d’une «guerre sans fin» au Moyen-Orient, sur fond d’embrasement du conflit. Une bonne nouvelle pour l’audiovisuel public suisse. Et une course… surprenante.",
+      "title": "Mojtaba Khamenei, nouveau Guide suprême de l'Iran : \"La légitimité du sang\"",
+      "content_html": "A la Une de la presse, ce lundi 9 mars, les réactions à la désignation du nouveau Guide suprême iranien, Mojtaba Khamenei, le fils d’Ali Khamenei. Le spectre d’une \"guerre sans fin\" au Moyen-Orient, sur fond d’embrasement du conflit. Une bonne nouvelle pour l’audiovisuel public suisse. Et une course… surprenante.",
       "date_published": "2026-03-09T06:40:14+00:00",
       "authors": [
         {
@@ -1006,28 +1474,6 @@
       "lang": "en"
     },
     {
-      "id": "278f71ab080dca2f6bdf08231f4f4d780db066529910ecec3cd91458ddf657a8",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/08/glasgow-central-station-train-station-rail-disruption",
-      "title": "Major rail disruptions after large fire near Glasgow Central station",
-      "content_html": "<p>Network Rail said Scotland’s busiest station would remain closed ‘until further notice’</p><p>Travel disruption is expected to last throughout Monday after a large fire broke out near Glasgow Central station on Sunday.</p><p>National Rail said that the station would remain closed with “no estimate on when the station will reopen” after the blaze at a vape shop in Union Street.</p> <a href=\"https://www.theguardian.com/uk-news/2026/mar/08/glasgow-central-station-train-station-rail-disruption\">Continue reading...</a>",
-      "date_published": "2026-03-09T05:45:28+00:00",
-      "authors": [
-        {
-          "name": "PA Media"
-        }
-      ],
-      "tags": [
-        "Glasgow",
-        "Scotland",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "40982b055214a2408cf56c0fae91fe42699540cbe4c0f720683d24c75e9ec640",
       "url": "https://www.ukrinform.net/rubric-ato/4099466-russia-loses-750-troops-four-air-defense-systems-in-war-against-ukraine-over-past-day.html",
       "title": "Russia loses 750 troops, four air defense systems in war against Ukraine over past day",
@@ -1072,6 +1518,20 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "3bc3d2b193f369f0928a486539e220a99652319428756ea444b93582b61ffa1a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2236108/jeux-hiver-lancement-ceremonie-ouverture",
+      "title": "Les Jeux d’hiver de l’Arctique 2026 sont lancés à Whitehorse",
+      "content_html": "<p>Après des mois de préparation, c&#x27;est avec fébrilité que les athlètes ont défilé dans la rue.</p>",
+      "date_published": "2026-03-09T05:04:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
     },
     {
       "id": "f397884c7a188491797cf6eb754b70c9dc05684fa97dee53b9edf7e1e860841f",
@@ -1205,8 +1665,8 @@
     {
       "id": "05e93356e7286c7a18d5157265e5082cf9213053ec02a9323826283701f9239d",
       "url": "https://elpais.com/internacional/2026-03-09/trump-se-queda-sin-el-martillo-de-los-aranceles-pero-agarra-el-lanzallamas-en-oriente-proximo.html",
-      "title": "Trump perd le marteau tarifaire mais prend le lance-flammes au Moyen-Orient",
-      "content_html": "Donald Trump et le secrétaire américain à la Défense Pete Hegseth samedi sur Air Force One.\n\n\nPresse associée/LaPresse\nUniquement l'Italie et l'Espagne",
+      "title": "Trump se queda sin el martillo de los aranceles pero agarra el lanzallamas en Oriente Próximo",
+      "content_html": "Donald Trump y el secretario de Defensa estadounidense, Pete Hegseth, el sábado en el 'Air Force One'.\n\n\nAssociate Press/ LaPresse\nOnly Italy and Spain",
       "date_published": "2026-03-09T04:45:01+00:00",
       "authors": [
         {
@@ -1232,7 +1692,7 @@
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "554bdb93044e6be9b6ac970bae75ad0c3535e7e503bac8df03b97859723e6c9f",
@@ -1297,6 +1757,41 @@
       "lang": "fr"
     },
     {
+      "id": "0624932980bd9caf5e5e927b3cc545d5f0ae07b679add0f780c477edfeff6c8e",
+      "url": "https://elpais.com/us/migracion/2026-03-09/estados-unidos-deporto-a-migrantes-a-iran-y-venezuela-a-pesar-de-tener-planes-de-una-intervencion-militar.html",
+      "title": "Les États-Unis ont expulsé des migrants vers l’Iran et le Venezuela malgré les plans d’intervention militaire",
+      "content_html": "Vol de migrants expulsés à l'aéroport international Simón Bolívar, à Maiquetía (Venezuela), le 19 janvier.",
+      "date_published": "2026-03-09T04:44:00+00:00",
+      "authors": [
+        {
+          "name": "Patricia  Caro"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "América",
+        "Migrantes",
+        "Inmigrantes",
+        "Migración",
+        "Deportación",
+        "Crisis migratoria",
+        "Inmigración",
+        "Inmigración irregular",
+        "Kristi Noem",
+        "ICE",
+        "Donald Trump",
+        "Venezuela",
+        "Nicolás Maduro",
+        "Irán",
+        "Derechos humanos"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "14e933d7547dacdc14e8686a68cabe23ab08cdb9bfef1c041ffa91120ff42582",
       "url": "https://www.ukrinform.net/rubric-polytics/4099458-russia-changes-its-political-strategy-in-africa-ccd.html",
       "title": "Russia changes its political strategy in Africa – CCD",
@@ -1313,11 +1808,11 @@
       "lang": "en"
     },
     {
-      "id": "b9643ab9a054a08e08b23be0a060870061c574768af44a6aa63e139029681427",
-      "url": "https://www.lemonde.fr/international/live/2026/03/09/en-direct-guerre-au-moyen-orient-mojtaba-khamenei-designe-guide-supreme-de-nouvelles-frappes-en-iran-en-israel-au-liban-et-a-travers-le-golfe_6669855_3210.html",
-      "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran poursuit ses attaques dans toute la région en visant Bahreïn, Israël, le Koweït, l’Arabie saoudite et le Qatar",
-      "content_html": "Après une frappe contre la raffinerie de pétrole Bapco, sur l’île de Sitra, à Bahreïn, le 9 mars 2026.",
-      "date_published": "2026-03-09T04:37:34+00:00",
+      "id": "89805ef75e94a69c0bdd2993e61e207acca7c8c328144098b7938f85c36862ef",
+      "url": "https://www.lemonde.fr/international/article/2026/03/09/les-emirats-arabes-unis-dans-le-brouillard-de-la-guerre_6670040_3210.html",
+      "title": "Les Emirats arabes unis dans le brouillard de la guerre",
+      "content_html": "Dans le quartier Marina à Dubaï, aux Emirats arabes unis, le 7 mars 2026.",
+      "date_published": "2026-03-09T04:30:08+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1331,21 +1826,7 @@
       "url": "https://www.lemonde.fr/idees/article/2026/03/09/dominique-edde-ecrivaine-libanaise-le-temps-du-present-est-ecrasant-il-est-a-la-destruction-reste-a-penser-et-a-tenir-debout_6670039_3232.html",
       "title": "Dominique Eddé, écrivaine libanaise : « Le temps du présent est écrasant, il est à la destruction. Reste à penser et à tenir debout »",
       "content_html": "Des destructions causées par une opération militaire israélienne, à Nabi Chit, dans l’est du Liban, le 7 mars 2026.",
-      "date_published": "2026-03-09T04:30:11+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "89805ef75e94a69c0bdd2993e61e207acca7c8c328144098b7938f85c36862ef",
-      "url": "https://www.lemonde.fr/international/article/2026/03/09/les-emirats-arabes-unis-dans-le-brouillard-de-la-guerre_6670040_3210.html",
-      "title": "Les Emirats arabes unis dans le brouillard de la guerre",
-      "content_html": "Dans le quartier Marina à Dubaï, aux Emirats arabes unis, le 7 mars 2026.",
-      "date_published": "2026-03-09T04:30:08+00:00",
+      "date_published": "2026-03-09T04:30:07+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -1403,7 +1884,7 @@
     {
       "id": "d3abce73ce3980f395d1c25c3b6878001ed1fb7d66ddcf6115f70d7eaf18db92",
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20260309-flamb%C3%A9e-historique-du-p%C3%A9trole-la-guerre-au-moyen-orient-fait-s-envoler-les-cours-de-30",
-      "title": "Pétrole : le prix du baril s'est approché brièvement de la barre des 120 dollars",
+      "title": "Pétrole : le prix du baril s'est approché de la barre des 120 dollars, une première depuis 2022",
       "content_html": "Les ​prix du pétrole se sont envolés lundi, s'approchant brièvement du seuil des 120 dollars dans les échanges asiatiques. Les marchés s'inquiètent de la réduction de la production des pays du Golfe, du ciblage d'infrastructures pétrolières par les belligérants et du blocage du détroit d'Ormuz.",
       "date_published": "2026-03-09T04:09:12+00:00",
       "authors": [
@@ -1664,8 +2145,8 @@
     {
       "id": "33a7272bbda3b0872d8ac8ea1495e7b2c73375423c066b76b7facae420c973ca",
       "url": "https://www.timesofisrael.com/liveblog-march-9-2026/",
-      "title": "Iranian missiles target northern Israel, drones strike Bahrain’s only oil refinery",
-      "content_html": "<p>Iran and Hezbollah fire multiple overnight salvos at Israel * Woman injured from flying debris in central Israel * IDF strikes Beirut and IRGC targets in Isfahan</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-march-9-2026/\">Iranian missiles target northern Israel, drones strike Bahrain&#8217;s only oil refinery</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260309__A2G64GX__v1__HighRes__IsraelUsIranWar-1024x640.jpg\" title=\"Iranian missiles target northern Israel, drones strike Bahrain&#8217;s only oil refinery\" width=\"160\" /></figure>",
+      "title": "Iranian missiles target northern, southern Israel, drones strike Bahrain’s only oil refinery",
+      "content_html": "<p>Iran and Hezbollah fire multiple salvos at Israel * Woman injured from flying debris in central Israel * IDF strikes Beirut and IRGC, Basij targets in Isfahan</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-march-9-2026/\">Iranian missiles target northern, southern Israel, drones strike Bahrain&#8217;s only oil refinery</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260309__A2G64GX__v1__HighRes__IsraelUsIranWar-1024x640.jpg\" title=\"Iranian missiles target northern, southern Israel, drones strike Bahrain&#8217;s only oil refinery\" width=\"160\" /></figure>",
       "date_published": "2026-03-09T01:54:31+00:00",
       "authors": [],
       "tags": [
@@ -1821,8 +2302,8 @@
     {
       "id": "08857cc078835ee02d038fde6e7a6d4973c0ecaedc1c7fc6a519fd57e2821c61",
       "url": "https://www.france24.com/fr/moyen-orient/20260309-moyen-orient-en-direct-combats-est-liban-incursion-forces-isra%C3%A9liennes-pays-golfe-koweit-bahrein-etats-unis-mojtaba-khamenei-iran",
-      "title": "Moyen-Orient en direct : premiers tirs iraniens vers Israël après l'élection de Mojtaba Khamenei",
-      "content_html": "Au dixième jour de la guerre au Moyen-Orient, Israël a annoncé lundi des frappes contre des \"infrastructures du régime\" en Iran, et mène à l'aube une opération héliportée dans l'est du Liban tout en bombardant la banlieue sud de Beyrouth, bastion du Hezbollah. De son côté, l'Iran a lancé des salves de missiles et de drones vers Israël et ses voisins du Golfe. L'Arabie saoudite a condamné les \"agressions injustifiables\" de l'Iran. Suivez notre direct.",
+      "title": "Moyen-Orient en direct : premiers tirs iraniens vers Israël après l'élection de Mojtaba Khamenei",
+      "content_html": "Au dixième jour de la guerre au Moyen-Orient, Israël a annoncé lundi des frappes contre des \"infrastructures du régime\" en Iran et a mené à l'aube une opération héliportée dans l'est du Liban tout en bombardant la banlieue sud de Beyrouth, bastion du Hezbollah. De son côté, l'Iran a lancé des salves de missiles et de drones vers Israël et ses voisins du Golfe. L'Arabie saoudite a condamné les \"agressions injustifiables\" de l'Iran. Suivez notre direct.",
       "date_published": "2026-03-09T00:44:31+00:00",
       "authors": [
         {
@@ -1899,35 +2380,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cb6938b42068d12e54c9cb6e114111fa0223a4760f083af13f2f97644db4bd40",
-      "url": "https://www.theguardian.com/society/2026/mar/09/labour-to-set-up-new-extremism-whistleblowing-service-for-university-staff",
-      "title": "Labour to set up new extremism whistleblowing service for university staff",
-      "content_html": "<p>Minister announces action plan to boost social cohesion that will also give regulator powers to shut down charities</p><p>The UK government will expand powers to tackle extremism by setting up a new whistleblowing route for university staff and giving the Charity Commission powers to shut down charities, as part of a new action plan to strengthen social cohesion.</p><p>The plan, announced by the housing, communities and local government secretary, Steve Reed, will invest a further £5m in the Common Ground Resilience Fund, which was launched to support organisations and authorities tackling divisions in communities.</p> <a href=\"https://www.theguardian.com/society/2026/mar/09/labour-to-set-up-new-extremism-whistleblowing-service-for-university-staff\">Continue reading...</a>",
-      "date_published": "2026-03-09T00:01:34+00:00",
-      "authors": [
-        {
-          "name": "Aamna Mohdin and Alexandra Topping"
-        }
-      ],
-      "tags": [
-        "Communities",
-        "UK news",
-        "Universities",
-        "Charities",
-        "Society",
-        "Social exclusion",
-        "Labour",
-        "Steve Reed",
-        "Far right",
-        "Politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2068,10 +2520,14 @@
     {
       "id": "b7bf4626e6c31580af9da9ab964851acf2680ec41406640a27b935fed52a19ea",
       "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260308-guerre-en-iran-une-aubaine-pour-la-russie",
-      "title": "Guerre en Iran : une aubaine pour la Russie ?",
+      "title": "La guerre en Iran, une aubaine pour la Russie ?",
       "content_html": "Après le Venezuela et la Syrie, c’est un nouveau pays partenaire de Moscou qui est visé. Un coup dur pour le Kremlin et pourtant certains analystes estiment que la Russie pourrait bien tirer profit de la situation. On en parle avec la politologue Vera Grantseva.",
       "date_published": "2026-03-08T23:20:34+00:00",
-      "authors": [],
+      "authors": [
+        {
+          "name": "Marion GAUDIN"
+        }
+      ],
       "tags": [
         "La question qui fâche"
       ],
@@ -2344,7 +2800,7 @@
     {
       "id": "44eeb1080c862da3178e47693a60fb73c3490e7241b7fc8ffa4928a7ae9bb80f",
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260308-silifatou-amank%C3%A9-bouari-premi%C3%A8re-femme-%C3%A0-diriger-le-lyc%C3%A9e-militaire-de-natitingou",
-      "title": "Silifatou Amanké Bouari, première femme à diriger le lycée militaire de Natitingou",
+      "title": "Bénin : Silifatou Amanké Bouari, première femme à diriger le lycée militaire de Natitingou",
       "content_html": "À Natitingou, dans l’extrême nord du Bénin, le Lycée militaire des jeunes filles est l’un des établissements les plus sélectifs du pays. Chaque année, seules les meilleures élèves y sont admises après un concours exigeant. Elles y reçoivent une formation d’excellence qui les prépare à des carrières civiles de haut niveau. Depuis septembre, l’école est dirigée pour la première fois par une femme : Silifatou Amanké Bouari, devenue un modèle pour ces jeunes élites.",
       "date_published": "2026-03-08T21:37:21+00:00",
       "authors": [
@@ -2491,7 +2947,7 @@
       "id": "4ee6b253cdfc8f265f63f0b71c8f4abce958c754d7cc58422c873161365c1058",
       "url": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
       "title": "Iran names Mojtaba Khamenei as new supreme leader after father’s killing",
-      "content_html": "The son of Ali Khamenei will now be charged with leading Islamic Republic through biggest crisis in its history.",
+      "content_html": "The son of slain Supreme Leader Ali Khamenei will be charged with leading Iran through biggest crisis in its history.",
       "date_published": "2026-03-08T21:21:28+00:00",
       "authors": [],
       "tags": [
@@ -2611,7 +3067,7 @@
     {
       "id": "7e7efb6dc18e84c7fcf0a53997e203d9fb478bc5cc832ed1430103c4921b732f",
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260308-anne-l-huillier-le-fait-que-marie-curie-a-exist%C3%A9-a-%C3%A9t%C3%A9-tr%C3%A8s-important-pour-moi",
-      "title": "Anne L'Huillier: \"le fait que Marie Curie a existé a été très important pour moi\"",
+      "title": "Anne L'Huillier : \"Marie Curie a été très importante pour moi\"",
       "content_html": "A l'occasion de la journée internationale des droits des femmes, zoom sur les femmes de science dont l'apport a été décisif, en médecine, physique ou encore en chimie. Anne L'Huillier, co-lauréate du Prix Nobel de Physique 2023, deuxième française à se voir décerner la distinction après Marie Curie, est l'Invitée d'Au Cœur de l'Info.",
       "date_published": "2026-03-08T21:04:33+00:00",
       "authors": [
@@ -2675,8 +3131,8 @@
     {
       "id": "5352744d7853dc12aa535bfc0b681da2780fe3bd3c6d60f26a86624c3f59b0d6",
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260308-joshua-zarka-la-guerre-tant-en-iran-qu-au-liban-nous-a-%C3%A9t%C3%A9-impos%C3%A9e",
-      "title": "Joshua Zarka: \"la guerre, tant en Iran qu'au Liban, nous a été imposée\"",
-      "content_html": "Frappes israélo- américaines sur l'Iran, riposte iranienne sur les pays du Golfe, extension de l'offensive israélienne contre le Hezbollah et incursion terrestre au Liban: l'ambassadeur d'Israël en France répond aux questions de France 24, il était l'Invité d'Au Cœur de l'Info.",
+      "title": "Joshua Zarka : \"La guerre, tant en Iran qu'au Liban, nous a été imposée\"",
+      "content_html": "Frappes israélo- américaines sur l'Iran, riposte iranienne sur les pays du Golfe, extension de l'offensive israélienne contre le Hezbollah et incursion terrestre au Liban... L'ambassadeur d'Israël en France répond aux questions de France 24, il était l'Invité d'Au Cœur de l'Info.",
       "date_published": "2026-03-08T20:44:16+00:00",
       "authors": [
         {
@@ -3019,22 +3475,6 @@
       "lang": "fr"
     },
     {
-      "id": "deddd88a889f7eef4d69b6c8adfa83b1bd699e4fec946049da4e583d9a64121c",
-      "url": "https://www.aljazeera.com/video/the-stream/2026/3/8/how-do-you-track-a-war-in-real-time?traffic_source=rss",
-      "title": "How do you track a war in real time?",
-      "content_html": "US and Israel attack Iran: Information is power, and now everyone has it.",
-      "date_published": "2026-03-08T19:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "428f48a9d3f29529bbcb2c9aa336e4ab569fd15bd22ddc59486d5cebef0aa8fe",
       "url": "https://www.lemonde.fr/idees/article/2026/03/08/au-royaume-uni-la-monarchie-et-le-gouvernement-sous-le-feu-de-l-affaire-epstein_6670023_3232.html",
       "title": "Au Royaume-Uni, la monarchie et le gouvernement sous le feu de l’affaire Epstein",
@@ -3047,22 +3487,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "1769b6ba2d3fb01a15c5cfa8f8bf90a79e7b9f54fc761472cdd11b70320f0c84",
-      "url": "https://www.aljazeera.com/sports/2026/3/8/rangers-vs-celtic-turns-ugly-as-fans-clash-on-pitch-after-scottish-cup-tie?traffic_source=rss",
-      "title": "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie",
-      "content_html": "Scottish FA launches investigation after fans fought on the pitch following the Scottish Cup quarterfinal in Glasgow.",
-      "date_published": "2026-03-08T19:25:13+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "ae463e2fd09bd7ab1fcbc67939086e6526a5ed4c032b6e4116f807fcbd3ca7b8",
@@ -3103,22 +3527,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "2f44dc968576c45c3f5e9727b99def24d42c26f0b2a90ed7d666cd77533bdf17",
-      "url": "https://www.aljazeera.com/features/2026/3/8/who-is-mojtaba-khamenei-a-contender-for-irans-leadership-amid-war?traffic_source=rss",
-      "title": "Who is Mojtaba Khamenei, Iran’s new supreme leader amid war?",
-      "content_html": "Mojtaba Khamenei has succeeded his father, Ayatollah Ali Khamenei, who was assassinated in joint US-Israel attacks.",
-      "date_published": "2026-03-08T19:17:26+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "0628f0bc527e47f8a85d3f7cc95f8c31e097849faae9c93bd36b885794f4c55a",
@@ -3190,22 +3598,6 @@
       "lang": "fr"
     },
     {
-      "id": "1b88b31eeece5506080b603b5b04aa9661db975e14716174f865963298b6f850",
-      "url": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
-      "title": "Trump vows control over Iran leader as death toll of US soldiers rises",
-      "content_html": "Trump says new supreme leader will &#039;not last long&#039; without US approval, hours before Mojtaba Khamenei is selected.",
-      "date_published": "2026-03-08T18:56:10+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7b4cd7938be9866dc2ef8d2d4e48ad1da268effd788c65cc21dafbc63f18fc35",
       "url": "https://www.ukrinform.net/rubric-polytics/4099427-fm-sybiha-urges-partners-to-respond-to-hungarys-detention-of-oschadbank-cash-collectors.html",
       "title": "FM Sybiha urges partners to respond to Hungary’s detention of Oschadbank cash collectors",
@@ -3218,29 +3610,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2930b707322815968d2ed80bc41b21579eaa2aed76716164a81117926e592c50",
-      "url": "https://www.timesofisrael.com/4-killed-in-saudi-arabia-kuwait-as-iran-keeps-up-relentless-attacks-on-gulf-states/",
-      "title": "4 killed in Saudi Arabia, Kuwait as Iran says it’s attacking Gulf because it can’t reach US",
-      "content_html": "<p>Riyadh says projectiles hit residential area, killing an Indian and a Bangladeshi; 2 Kuwaiti border guards killed</p>\n<p>The post <a href=\"https://www.timesofisrael.com/4-killed-in-saudi-arabia-kuwait-as-iran-keeps-up-relentless-attacks-on-gulf-states/\">4 killed in Saudi Arabia, Kuwait as Iran says it&#8217;s attacking Gulf because it can&#8217;t reach US</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260308__A2EL432__v1__HighRes__KuwaitIranUsIsraelWar-1024x640.jpg\" title=\"4 killed in Saudi Arabia, Kuwait as Iran says it&#8217;s attacking Gulf because it can&#8217;t reach US\" width=\"160\" /></figure>",
-      "date_published": "2026-03-08T18:50:02+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "2026 US-Israel war with Iran",
-        "Saudi Arabia",
-        "Iran-Saudi Arabia relations",
-        "Bahrain",
-        "Bahrain-Iran relations",
-        "Kuwait",
-        "Iran-Kuwait relations"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3498,8 +3867,8 @@
     {
       "id": "ed63b787277b499f1798dbda19d16a6667349109c219759ab0d7d8790fc3162d",
       "url": "https://www.france24.com/fr/france/20260308-on-ne-l%C3%A2chera-rien-gis%C3%A8le-pelicot-%C3%A0-la-manifestation-parisienne-pour-les-droits-des-femmes",
-      "title": "\"On ne lâchera rien !\" : Gisèle Pelicot à la manifestation parisienne pour les droits des femmes",
-      "content_html": "Près de 200 000 personnes ont manifesté dimanche dans une centaine de villes en France pour défendre les droits des femmes, menacés par la montée du conservatisme, selon les associations. Gisèle Pelicot, devenue une figure mondiale de la lutte contre les violences sexuelles, et sa fille Caroline Darian, étaient présentes dans le cortège parisien, acclamées par la foule.",
+      "title": "\"On ne lâchera rien !\" : Gisèle Pelicot à la manifestation parisienne pour les droits des femmes",
+      "content_html": "Quelque 200 000 personnes, selon les organisateurs, ont manifesté dimanche à travers la France pour défendre les droits des femmes à l'occasion du 8-Mars. Gisèle Pelicot, devenue une figure mondiale de la lutte contre les violences sexuelles, et sa fille Caroline Darian, présentes toutes deux dans le cortège parisien, ont été acclamées par la foule.",
       "date_published": "2026-03-08T17:23:12+00:00",
       "authors": [
         {
@@ -3590,22 +3959,6 @@
       "lang": "fr"
     },
     {
-      "id": "e5f722a8309e86c6529dc4844345825b872e330e8bfb90f12a8391ed69bfe409",
-      "url": "https://www.ukrinform.net/rubric-ato/4099401-russian-attack-on-village-in-kherson-region-leaves-one-civilian-injured.html",
-      "title": "Russian attack on village in Kherson region leaves one civilian injured",
-      "content_html": "In the afternoon of March 8, Russian troops attacked the village of Ukrainka in the Kherson region with a drone, injuring a man.",
-      "date_published": "2026-03-08T17:03:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5379b554a1e1c0098c8cadafe47fb13a516be51418e2fed34c7ed234716f022b",
       "url": "https://www.lemonde.fr/culture/article/2026/03/08/le-pays-taliban-sur-france-5-l-afghanistan-un-monde-ou-les-femmes-sont-devenues-invisibles_6670017_3246.html",
       "title": "« Le Pays taliban », sur France 5 : l’Afghanistan, un monde où les femmes sont devenues invisibles",
@@ -3650,22 +4003,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c7e916b941339521cd55f19b35704c04e87a0d814be32ad3574143f55e1f8ffa",
-      "url": "https://www.ukrinform.net/rubric-ato/4099398-russian-molniya-drones-attack-border-community-in-kharkiv-region-one-civilian-injured-homes-damaged.html",
-      "title": "Russian Molniya drones attack border community in Kharkiv region: One civilian injured, homes damaged",
-      "content_html": "Russian forces attacked the Derhachi community in the Kharkiv region with Molniya drones, injuring a civilian.",
-      "date_published": "2026-03-08T16:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3793,52 +4130,6 @@
       "lang": "en"
     },
     {
-      "id": "9f69d65f7c85640efa812cf86ece244c36bd1ae720ffb9d767cba00184ae8a8c",
-      "url": "https://www.lemonde.fr/idees/article/2026/03/08/railler-la-naivete-des-iraniens-releve-d-une-vision-aussi-paternaliste-qu-orientaliste_6670013_3232.html",
-      "title": "« Railler la naïveté des Iraniens relève d’une vision aussi paternaliste qu’orientaliste »",
-      "content_html": "Dans une tribune au « Monde », l’autrice Lucie Azema appelle à faire le choix de l’optimisme et de l’espoir concernant l’avenir de l’Iran, trop souvent occulté, perçu comme un épouvantail dont la dimension humaine serait négligeable.",
-      "date_published": "2026-03-08T16:00:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0ef754c66a63675c63986333952ebbd2ac9a08e0969d73e7255b16b863a8ed4e",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/08/le-blocage-du-detroit-d-ormuz-menace-de-fortes-perturbations-le-marche-des-engrais-et-les-importations-agricoles-au-moyen-orient_6670011_3234.html",
-      "title": "Le blocage du détroit d’Ormuz menace de fortes perturbations le marché des engrais et les importations agricoles au Moyen-Orient",
-      "content_html": "Dans l’usine d’engrais Yara, au Havre (Seine-Maritime), le 8 avril 2022.",
-      "date_published": "2026-03-08T16:00:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "d45b913256fa2c84214fc16a0bf9e68c8d46913352c1efb6c86080550614ffb6",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260308-guerre-au-moyen-orient-nouvelles-explosions-entendues-%C3%A0-t%C3%A9h%C3%A9ran",
-      "title": "Guerre au Moyen-Orient : nouvelles explosions entendues à Téhéran",
-      "content_html": "De nouvelles explosions ont été entendues dimanche dans plusieurs quartiers de Téhéran, au neuvième jour de la guerre avec les Etats-Unis et Israël.",
-      "date_published": "2026-03-08T15:59:35+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a3508f1b7711c6ffbd46e45a7ea2114d4f83b9382e43302629d171cbce80316c",
       "url": "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america",
       "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
@@ -3860,26 +4151,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "baba300ab06a7c1d3f583ac603d05b46cbb46355ac473935c9f9ad742c404b24",
-      "url": "https://www.france24.com/fr/moyen-orient/20260308-isra%C3%ABl-frappe-un-h%C3%B4tel-chic-de-beyrouth-pr%C3%A8s-de-400-morts-en-une-semaine-de-guerre-au-liban",
-      "title": "Israël frappe un hôtel chic de Beyrouth, près de 400 morts en une semaine de guerre au Liban",
-      "content_html": "L'armée israélienne a indiqué avoir visé des commandants iraniens dans la capitale libanaise tôt dimanche, étendant son offensive au cœur de Beyrouth après plusieurs jours de frappes. Selon les autorités libanaises, ces bombardements ont fait près de 400 morts dans le pays et contraint plus d'un demi-million de personnes à fuir leur domicile.",
-      "date_published": "2026-03-08T15:59:16+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "25b97edf7dd8355e720e16097c9e15cfd14e1b8bbee71508d6ff043fb3153e4e",
@@ -4022,20 +4293,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a9d4c7fdced19af7c0f3683d0eaeee4d34951f6b6d46849054f0854037affbc1",
-      "url": "https://www.lemonde.fr/economie/article/2026/03/08/en-algerie-l-impact-contraste-de-la-crise-du-detroit-d-ormuz-entre-profits-petrogaziers-et-risque-inflationniste_6670008_3234.html",
-      "title": "En Algérie, l’impact contrasté de la crise du détroit d’Ormuz, entre profits pétrogaziers et risque inflationniste",
-      "content_html": "Le complexe de raffinerie d’Alger, à Baraki, au sud-est de la capitale, le 24 février 2022.",
-      "date_published": "2026-03-08T15:30:11+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -4187,20 +4444,6 @@
       "lang": "fr"
     },
     {
-      "id": "743ac504a014e3eb2a8fcbe4584b541cf385f67dfc39dec165405d952ea232ab",
-      "url": "https://www.lemonde.fr/planete/article/2026/03/08/en-chine-la-passion-pour-les-chats-et-les-chiens-alimente-une-preoccupation-nouvelle-pour-le-bien-etre-animal_6669999_3244.html",
-      "title": "En Chine, la passion pour les chats et les chiens alimente une préoccupation nouvelle pour le bien-être animal",
-      "content_html": "Un chat participe à un défilé de mode pour animaux de compagnie à Shanghaï, le 31 octobre 2025.",
-      "date_published": "2026-03-08T14:00:05+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2c1dae593fa93017211981e11aa82b79b9c79da06224e0a943cfbd2bb45e22ab",
       "url": "https://www.france24.com/en/donald-trump-taunts-starmer-over-iran-war",
       "title": "Donald Trump taunts Starmer over Iran war",
@@ -4249,20 +4492,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "4a334c71b28a1e610095007f45fe02b8d0ad7dd0c41b6745a445864b5aa9dd36",
-      "url": "https://www.lemonde.fr/international/video/2026/03/08/des-frappes-sur-des-depots-petroliers-plongent-teheran-dans-la-nuit-en-plein-jour_6669997_3210.html",
-      "title": "Des frappes sur des dépôts pétroliers plongent Téhéran dans la nuit en plein jour",
-      "content_html": "Une personne prend en photo l’épaisse fumée qui recouvre Téhéran après des bombardements sur des dépôts pétroliers, le 8 mars 2026. Majid Asgaripour/WANA via REUTERS",
-      "date_published": "2026-03-08T13:50:36+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "1226a2ccb28b40f99b9bdd02b17cf73e7142cbf9c711cc1bae801e8cf3ae5b2d",
@@ -4550,24 +4779,6 @@
       "lang": "fr"
     },
     {
-      "id": "8441052f02371e12eb0cf5b04f1778f0d6d600dbd8af5dba9ad87ac24a4616ff",
-      "url": "https://www.france24.com/en/israel-strikes-lebanon-12-people-killed-in-three-separate-overnight-strikes",
-      "title": "Israel strikes Lebanon: 12 people killed in three separate overnight strikes",
-      "content_html": "Twelve more people were killed Sunday morning in Lebanon by Israeli strikes, pushing the country’s death toll past 300 since fighting began on February 28. As Israeli forces continue targeting Hezbollah strongholds, civilians face extreme violence and are forced to flee their homes. Hundreds of thousands are now displaced across the country. Caroline Baum reports.",
-      "date_published": "2026-03-08T11:16:03+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7aeffa88eedf1c2dc9dc7d90e14424933bfbe511099cb1269768a8e1a8403c8b",
       "url": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
       "title": "UK does not 'agree with Trump on every issue' - Cooper",
@@ -4578,24 +4789,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "322994859edfeb0699c4e32ebce8618e221cea01aba2a36b3c9222609b01c9c7",
-      "url": "https://www.france24.com/en/iran-new-supreme-leader-set-to-be-announced",
-      "title": "Iran: New Supreme Leader set to be announced",
-      "content_html": "In Iran, the body responsible for choosing the next Supreme Leader has made a decision, but the name has not been released. Ayatollah Ali Khamenei was killed in US-Israeli strikes eight days ago.\n \nSince then, there has been speculation about who will replace him and how the process will unfold. The regime has only navigated a succession once before. Unlike the managed transition after Ayatollah Khomeini’s death, this one comes amid full-scale war, an economic crisis, water shortages, and in the aftermath of anti-government protests and a brutal crackdown.\n \nFRANCE24’s International affairs editor Oliver Farry shares further insights.",
-      "date_published": "2026-03-08T11:00:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -5227,22 +5420,6 @@
       "lang": "en"
     },
     {
-      "id": "c4dcef1dcc864a2651c0d5145ec819444fbfa8cf0d9f8a21640f84856e04df12",
-      "url": "https://www.dw.com/en/new-york-man-detained-as-devices-thrown-at-anti-islam-rally/a-76264026?maca=en-rss-en-all-1573-rdf",
-      "title": "New York: Man detained as devices thrown at anti-Islam rally",
-      "content_html": "Two devices were ignited near Gracie Mansion, the official residence of New York City's mayor, amid tensions between participants in a far-right rally and counterprotests.",
-      "date_published": "2026-03-08T03:13:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "53387c9b7de3376832296acb8715eef470f8ed884ebc9780354adc053bb6edb7",
       "url": "https://www.bbc.com/news/articles/cq6qq6q2692o?at_medium=RSS&at_campaign=rss",
       "title": "Weight-loss treatments boom as Kenyan attitudes to beauty change",
@@ -5253,22 +5430,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f59adc2ac81a9d09182b90bc461cb406eef0ea2c64d8f81c0bc7a78ff627db61",
-      "url": "https://www.dw.com/en/iran-war-khamenei-son-mojtaba-named-new-supreme-leader/live-76263936?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran war: Khamenei son Mojtaba named new supreme leader",
-      "content_html": "State media in Iran reported that the Assembly of Experts chose the son of late Ali Khamenei as his successor.",
-      "date_published": "2026-03-08T02:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -5386,22 +5547,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "e017c40af6de1cb3bc450cf4dcb5715aa886ecec91cb2f5a37457015d926e997",
-      "url": "https://www.dw.com/en/us-tornadoes-kill-several-people-in-michigan-oklahoma/a-76263497?maca=en-rss-en-all-1573-rdf",
-      "title": "US: Tornadoes kill several people in Michigan, Oklahoma",
-      "content_html": "Deadly tornadoes touched down in the US states of Oklahoma and Michigan. Rescuers are searching for survivors and providing assistance to those affected.",
-      "date_published": "2026-03-07T20:44:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "a030c994a4c20b7659a3918149c7e308d789b2d1d4f44ecf489ca3df1117774c",
@@ -5898,20 +6043,6 @@
       "lang": "fr"
     },
     {
-      "id": "69964e3232cdc15d6b9179d62913b3ec2e7b49f3ab76fc9f32ccaa58e45b2378",
-      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "content_html": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged.",
-      "date_published": "2026-03-07T12:21:40+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6f4166d7bcd1344936e9d9d94918fa80f8775a81c86d8145fe34d5e7194a2b82",
       "url": "https://www.dw.com/en/iran-germany-and-the-end-of-the-rules-based-order/a-76227458?maca=en-rss-en-all-1573-rdf",
       "title": "Iran, Germany and the end of the rules-based order",
@@ -6140,20 +6271,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "1aa90997a1354bd1e130dcfcab82f9094a92aed46e97f5b33890a57981ec837e",
-      "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian strike on Kharkiv apartment block kills ten",
-      "content_html": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble.",
-      "date_published": "2026-03-07T07:54:22+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "019155b42ee98a8285feb946e2d972174fb8896506cdb1a8e928e2fcd842beab",
@@ -6399,20 +6516,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "db4756421f547b6660b265717ad7a2660f786eb5a7631e6425a170910914c875",
-      "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "content_html": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-      "date_published": "2026-03-07T00:36:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "3c853fa79eb3412c0f783146c3a3e462e8dcd8268448acbb62c2992bea2cde30",
@@ -6756,24 +6859,6 @@
       "lang": "fr"
     },
     {
-      "id": "577c418fc5935f3320fa8f53d48f9ab02b71653fcc1e6653675a486c1d73e86a",
-      "url": "https://www.liberation.fr/culture/les-multiples-pressions-de-pekin-pour-faire-interdire-une-piece-sur-lhistoire-de-taiwan-20260306_ZTS2JOTM7BC5ZGBAFL2L5UN33I/",
-      "title": "Les multiples pressions de Pékin pour faire interdire une pièce sur l’histoire de Taiwan",
-      "content_html": "«Ceci n’est pas une ambassade» réunit sur le plateau des Taïwanais aux trajectoires personnelles divergentes qui retracent à l’aide de petites maquettes et projections vidéo l’histoire de leur île.",
-      "date_published": "2026-03-06T17:19:43+00:00",
-      "authors": [
-        {
-          "name": "Ève Beauvallet"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "816de21e3f63e7409334bb44dbe308a2456d6504775ee9b9621b301838a3c997",
       "url": "https://www.dw.com/en/as-the-us-israel-war-with-iran-escalates-what-is-shaping-europe-s-strategy/a-76247729?maca=en-rss-en-all-1573-rdf",
       "title": "As the US-Israel war with Iran escalates, what is shaping Europe's strategy?",
@@ -6806,24 +6891,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8398ae7429159c32c5dbc08934810af374d761bfc6c3a690d479ef93de65cf17",
-      "url": "https://www.liberation.fr/international/moyen-orient/air-france-et-lufthansa-musclent-leurs-long-courriers-notamment-vers-lasie-face-a-la-paralysie-du-golfe-20260306_ECKGTYRCXZGC3POYSXL7225YX4/",
-      "title": "Air France et Lufthansa musclent leurs long-courriers notamment vers l’Asie face à la paralysie du Golfe",
-      "content_html": "Air France a déployé depuis mercredi «des avions de plus grande capacité sur ses vols au départ de Bangkok, Phuket, Singapour, Dehli, Bombay, Shanghaï et Tokyo».",
-      "date_published": "2026-03-06T17:04:40+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
@@ -9480,22 +9547,6 @@
       "authors": [],
       "tags": [
         "Science"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "60e8a8a7e3a45c48bef1d5de270cc363990f2aa76814daaf2da7f325f86571e5",
-      "url": "https://www.dw.com/en/germany-s-big-builds-why-delays-and-cost-overruns-are-so-common/a-75206468?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany's big builds: Why delays and cost overruns are so common",
-      "content_html": "Major construction projects are rarely finished on time and usually cost much more than expected. What ever happened to German efficiency?",
-      "date_published": "2026-02-14T08:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
