@@ -5,11 +5,27 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "9ad7c999f7e70ab272f021f78a3a591d5feb8cdd57a2e93700f8d5ae9dc6ec1f",
+      "url": "https://www.dw.com/en/80-militants-killed-in-nigeria-following-suicide-attacks-army-says/a-76421551?maca=en-rss-en-all-1573-rdf",
+      "title": "80 militants killed in Nigeria following suicide attacks, army says",
+      "content_html": "Suspected jihadi militants have increased recent attacks in northeastern Nigeria, including alleged suicide bombings at a post office, market, and teaching hospital earlier this week.",
+      "date_published": "2026-03-18T20:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
       "id": "b393cb720e7cf65fa074d7c479f91ec7ae47b3cdacc39ad7cdcd62699d456d5e",
       "url": "https://ici.radio-canada.ca/info/en-direct/1013598/budget-quebec-caq-girard-2026-2027",
-      "title": "Budget du Québec : un déficit de 8,6 G$, mais une amélioration des finances",
+      "title": "Dans son budget 2026, Québec revoit à la baisse son déficit à 8,6 G$",
       "content_html": "<p>Le gouvernement prévoit un contrôle serré des dépenses afin de revenir à l’équilibre budgétaire en 2029-2030.</p>",
-      "date_published": "2026-03-18T20:29:51+00:00",
+      "date_published": "2026-03-18T20:57:03+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,11 +35,65 @@
       "lang": "fr"
     },
     {
+      "id": "c9f8ada12d01d652068b90776c415661bba9d12c04a4d3723c47214c8fac7fd4",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260318-s%C3%A9n%C3%A9gal-ou-maroc-qui-a-gagn%C3%A9-la-can",
+      "title": "Sénégal ou Maroc, qui a gagné la CAN ?",
+      "content_html": "Le jury d’appel de la Confédération africaine de football (CAF) a inversé mardi le résultat de la finale de la CAN 2025 en déclarant l'équipe du Sénégal forfait après la décision des Lions de la Teranga de quitter le terrain. Les explication sur Questions Directes avec Stéphanie Antoine et ses invités.",
+      "date_published": "2026-03-18T20:53:23+00:00",
+      "authors": [
+        {
+          "name": "Stéphanie ANTOINE"
+        }
+      ],
+      "tags": [
+        "Questions directes"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ec74438dd3b3c6fa74b0f64caa617b01d0c40ed5298520b155693c228bf0fe61",
+      "url": "https://ici.radio-canada.ca/nouvelle/2240201/budget-quebec-girard-2026-2027",
+      "title": "Les finances du Québec s’améliorent, malgré l’incertitude",
+      "content_html": "<p>Le déficit baisse, mais le gouvernement devra accroître ses efforts pour revenir à l’équilibre.</p>",
+      "date_published": "2026-03-18T20:53:14+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1a2e76988faadcaf43a3edc1ced03434b5a5a33b11dd9fdbd62a35768a1b6129",
+      "url": "https://www.france24.com/fr/moyen-orient/20260318-isra%C3%ABl-%C3%A9limine-haut-responsable-iranien-frappes-visent-immense-champ-gazier-qatar-p%C3%A9trole-%C3%A9tats-unis",
+      "title": "Israël élimine un autre haut responsable iranien, des frappes visent un immense champ gazier",
+      "content_html": "Le ministre du Renseignement Esmaïl Khatib a été éliminé par Israël, a confirmé mercredi 18 mars le président iranien. Dans le même temps, des frappes israélo-américaines ont visé le site de South Pars/North Dome, la plus grande réserve de gaz connue au monde, partagée par l'Iran et le Qatar. En conséquence, les prix du pétrole sont repartis à la hausse, le baril de Brent grimpant de plus de 5 %.",
+      "date_published": "2026-03-18T20:52:33+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "0eb0ca0f432f5d296abfa41a26e4e7173f87bef589ec5b417208cdb520abbfe0",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-centre-de-beyrouth-frappe-par-israel-dans-la-nuit-au-moins-six-morts-20260318_4XAQ6E4P2RFHXBGH2MVARJN2NU/",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : contredisant Trump, le renseignement américain juge que l’Iran n’avait pas relancé son programme d’enrichissement nucléaire",
-      "content_html": "Tulsi Gabbard, cheffe des services de renseignement, entendue par une commission du Sénat, le 18 mars.",
-      "date_published": "2026-03-18T20:28:11+00:00",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : au Qatar, des dégâts «considérables» après une attaque iranienne sur un site gazier",
+      "content_html": "Des installations de production de gaz naturel liquéfié de QatarEnergy, dans la zone industrielle de Ras Laffan, au Qatar, le 2 mars.",
+      "date_published": "2026-03-18T20:50:37+00:00",
       "authors": [
         {
           "name": "Antoine  Rondel,  LIBERATION,  AFP"
@@ -37,11 +107,11 @@
       "lang": "fr"
     },
     {
-      "id": "73814fa1a527575ef99d4ee36e12c94d70b4039d49f6788582e84a35261331ca",
-      "url": "https://ici.radio-canada.ca/info/2025/calculateur-budget-quebec/",
+      "id": "e40579658739f8ab853feb51b1bef9a355583e5297bf854a4ad8f2b2343a2bfa",
+      "url": "https://ici.radio-canada.ca/info/2026/calculateur-budget-quebec/",
       "title": "Budget du Québec : voici où va votre argent",
       "content_html": "<p>De la santé à l'éducation, suivez le parcours de votre contribution grâce à notre calculateur interactif.</p>",
-      "date_published": "2026-03-18T20:27:05+00:00",
+      "date_published": "2026-03-18T20:50:14+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -49,6 +119,201 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "02e43aad26647655a125a462ffe617aef5e108818091473204dc06a5b19b950e",
+      "url": "https://www.france24.com/en/acute-risk-that-iraq-could-become-once-again-victim-of-internal-conflict-as-iran-war-progresses",
+      "title": "'Acute risk' that Iraq could become once again victim of internal conflict as Iran war progresses",
+      "content_html": "Speaking with FRANCE 24's Yinka Oyetade, Zaid Al-Ali, Visiting Fellow at Princeton University and Former UN Advisor in Iraq, explains that until the war in Iran broke out, Iraq had been able to \"straddle between US-aligned interests and Iranian-aligned interests\" but there's an \"acute risk\" that it will become the victim of internal conflict once again as the war progresses.",
+      "date_published": "2026-03-18T20:47:27+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e73bd0efcadaac1c4825d150b3da9f6764d29b462870465ea25579551932f5f3",
+      "url": "https://www.france24.com/en/iran-did-not-try-to-rebuild-enrichment-after-june-2025-attack-us-intel-chief-says",
+      "title": "Iran did not try to rebuild enrichment after June 2025 attack, US intel chief says",
+      "content_html": "Iran made no effort to rebuild uranium enrichment after its capabilities were destroyed in a June 2025 US-Israeli attack, US intelligence chief Tulsi Gabbard testified Wednesday, contradicting President Donald Trump's justifications for his ongoing war. FRANCE 24's Fraser Jackson reports from Washington.",
+      "date_published": "2026-03-18T20:45:41+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b03dd84f92b2e5b0538bd4102cb9c89cd9ce446546d5d7382af5a0f7bb1d2848",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
+      "title": "Australia news live: Cyclone Narelle builds to category four storm as it nears Queensland coast; Iranian footballers arrive home",
+      "content_html": "<p>Meanwhile treasurer plans ‘ambitious’ changes to target intergenerational inequity. Follow today’s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Agriculture minister says government monitoring any price gouging of fertiliser </strong></p><p><strong>Julie Collins</strong>, the federal minister for agriculture, said the government is monitoring any price gouging for fertiliser amid the turmoil in the Middle East.</p><p>I think our government has been very clear that this should not be seen as a commercial opportunity for anybody. This is about what is in the national interest. This is a conflict that is impacting globally, and what we need Australians to do is to act in the national interest, and that includes everybody along that supply chain.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-03-18T20:43:55+00:00",
+      "authors": [
+        {
+          "name": "Nick Visser"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian politics",
+        "Australian economy",
+        "Business",
+        "Health",
+        "Australian education",
+        "Australian immigration and asylum",
+        "Australian foreign policy"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9927b051fc664174c2cd5ed1ef220b3317068a11a2dd337f11c23fa2bf274546",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
+      "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
+      "content_html": "<p>Committee chair Rand Paul and Markwayne Mullin exchange heated remarks at hearing to confirm new homeland security secretary</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/18/trump-dhs-markwayne-mullin-military\">Mullin never served in military but talks as if he did</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for Breaking US News US emails</a></p></li></ul><p>Rand Paul seemed immediately frustrated with Mullin as he opened the hearing. While he was speaking, he suggested that Mullin wasn’t listening to his remarks, during which he pushed Trump’s nominee on his vote against Paul’s amendment to stop all funding for refugee welfare programs.</p><p><strong>“You decided to transfer the blame. You told the media that I was a ‘freaking snake’ and that you completely understood why I had been assaulted,”</strong> Paul said, referring to when he was attacked by a neighbor in Kentucky in 2017, which resulted in Paul breaking several ribs and developing pneumonia.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-03-18T20:43:16+00:00",
+      "authors": [
+        {
+          "name": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US news",
+        "World news",
+        "US immigration",
+        "Donald Trump",
+        "Iran",
+        "Federal Reserve",
+        "Jeffrey Epstein",
+        "Pam Bondi",
+        "US national security"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "82e87b4d494423e57cf0d60e7f797843883d52adbdc68996228c6aa4ea44ab89",
+      "url": "https://www.theguardian.com/business/2026/mar/18/fed-interest-rates-iran",
+      "title": "Fed holds interest rates steady as Iran war drives up oil prices and inflation fears",
+      "content_html": "<p>Jerome Powell resists Trump pressure as policymakers weigh energy shock against a weakening US jobs market</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>The US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> held interest rates steady for the second time this year, a widely expected move amid turmoil in the Middle East and rising energy prices.</p><p>Fed officials faced a confluence of issues to consider in their meeting this week: <a href=\"https://www.theguardian.com/business/2026/mar/17/oil-gas-prices-rise-iran-us-israel-war-brent-crude-uae-strikes\">soaring oil and gas prices</a>, fluctuating inflation that still <a href=\"https://www.theguardian.com/business/2026/mar/11/inflation-february\">remains above the Fed’s target of 2%</a>, and a weakened job market that <a href=\"https://www.theguardian.com/business/2026/mar/06/february-jobs-report\">unexpectedly saw</a> 92,000 losses last month.</p> <a href=\"https://www.theguardian.com/business/2026/mar/18/fed-interest-rates-iran\">Continue reading...</a>",
+      "date_published": "2026-03-18T20:42:53+00:00",
+      "authors": [
+        {
+          "name": "Gaya Gupta"
+        }
+      ],
+      "tags": [
+        "US interest rates",
+        "Federal Reserve",
+        "Jerome Powell",
+        "Donald Trump",
+        "US-Israel war on Iran",
+        "Business",
+        "US economy",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4878025dfc13097ea583c3517c4df19d83ac7190518a68fe803d37df88a2e6a1",
+      "url": "https://ici.radio-canada.ca/nouvelle/2240165/bonnes-nouvelles-contribuables-budget-girard",
+      "title": "Budget du Québec : Quelques bonnes nouvelles pour les contribuables",
+      "content_html": "<p>Voici un bref survol des allégements pour le portefeuille des Québécois dans le budget Girard. </p>",
+      "date_published": "2026-03-18T20:37:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "982273261f50e119d317c4de7735ee1a8ca7bc903c98457e5d5981a50384fd15",
+      "url": "https://www.timesofisrael.com/amid-claims-of-looming-interceptor-shortage-experts-dismiss-alarm-over-finite-defenses/",
+      "title": "Amid claims of looming interceptor shortage, experts dismiss alarm over finite defenses",
+      "content_html": "<p>Reports of Jerusalem running low on air defense munitions fuel concern, but experts say modern wars inevitably drain stockpiles -- and Israel likely planned for it</p>\n<p>The post <a href=\"https://www.timesofisrael.com/amid-claims-of-looming-interceptor-shortage-experts-dismiss-alarm-over-finite-defenses/\">Amid claims of looming interceptor shortage, experts dismiss alarm over finite defenses</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/F260309YA902-1024x640.jpg\" title=\"Amid claims of looming interceptor shortage, experts dismiss alarm over finite defenses\" width=\"160\" /></figure>",
+      "date_published": "2026-03-18T20:35:25+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "IDF Israel Defense Forces",
+        "2026 US-Israel war with Iran",
+        "ballistic missiles",
+        "Arrow 3",
+        "THAAD Terminal High Altitude Area Defense"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2fe16b753270c2a8fea78f68246f5564d330c55f85c61efe36b44c7f91453b45",
+      "url": "https://www.aljazeera.com/news/2026/3/18/israel-holding-more-than-half-of-palestinian-child-detainees-without-charge?traffic_source=rss",
+      "title": "Israel holding more than half of Palestinian child detainees without charge",
+      "content_html": "Rights group says Palestinian children consistently report &#039;appalling and debilitating conditions&#039; in Israeli prisons.",
+      "date_published": "2026-03-18T20:25:52+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1a0b4333fb3760925889b52126717bdff06c632065dd9e9ec56ce3a4b806846d",
+      "url": "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes",
+      "title": "Middle East crisis live: Israel strike on Iranian gas field reportedly coordinated with US; Iran’s president warns of ‘uncontrollable consequences’ for further attacks",
+      "content_html": "<p>UAE and Qatar condemn targeting of South Pars gas field; Iranian president Masoud Pezeshkain said response to Israeli and US actions ‘could engulf the entire world’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar\">Iran threatens Gulf energy facilities after Israeli attack on its largest gasfield</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/18/fighting-intensifies-israel-hezbollah-southern-lebanon\">Fighting intensifies between Israel and Hezbollah in southern Lebanon</a></p></li></ul><p><strong>Iran is still exporting millions of barrels of oil</strong>, with about 90 ships, including oil tankers, having crossed the strait of Hormuz since the beginning of the war with Iran, according to maritime and trade data platforms reports.</p><p>This is despite Iran saying it had closed the vital waterway to vessels from the US and its allies.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes\">Continue reading...</a>",
+      "date_published": "2026-03-18T20:25:13+00:00",
+      "authors": [
+        {
+          "name": "Lucy Campbell (now); Tom Ambrose, Taz Ali and Wendy Frew (earlier)"
+        }
+      ],
+      "tags": [
+        "US-Israel war on Iran",
+        "Donald Trump",
+        "Strait of Hormuz",
+        "Lebanon",
+        "World news",
+        "Middle East and north Africa"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "8fef79c1df61728f817b052fe3db81fb4a0c8e479fdc420e8b620756f8ac5d68",
@@ -152,56 +417,18 @@
       "lang": "en"
     },
     {
-      "id": "1a0b4333fb3760925889b52126717bdff06c632065dd9e9ec56ce3a4b806846d",
-      "url": "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes",
-      "title": "Middle East crisis live: Israel strike on Iranian gas field reportedly coordinated with US; Iran’s president warns of ‘uncontrollable consequences’ for further attacks",
-      "content_html": "<p>UAE and Qatar condemn targeting of South Pars gas field; Iranian president Masoud Pezeshkain said response to Israeli and US actions ‘could engulf the entire world’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/mar/18/iran-gulf-energy-facilities-israel-south-pars-gas-field-saudi-arabia-uae-qatar\">Iran threatens Gulf energy facilities after Israeli attack on its largest gasfield</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/18/fighting-intensifies-israel-hezbollah-southern-lebanon\">Fighting intensifies between Israel and Hezbollah in southern Lebanon</a></p></li></ul><p><strong>Iran is still exporting millions of barrels of oil</strong>, with about 90 ships, including oil tankers, having crossed the strait of Hormuz since the beginning of the war with Iran, according to maritime and trade data platforms reports.</p><p>This is despite Iran saying it had closed the vital waterway to vessels from the US and its allies.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes\">Continue reading...</a>",
-      "date_published": "2026-03-18T20:10:08+00:00",
-      "authors": [
-        {
-          "name": "Lucy Campbell (now); Tom Ambrose, Taz Ali and Wendy Frew (earlier)"
-        }
-      ],
-      "tags": [
-        "US-Israel war on Iran",
-        "Donald Trump",
-        "Strait of Hormuz",
-        "Lebanon",
-        "World news",
-        "Middle East and north Africa"
-      ],
+      "id": "b4efbb936391668a2306a36fa7d742954dcc974c476395c72d8dbaf008c69830",
+      "url": "https://ici.radio-canada.ca/nouvelle/2240099/quebecois-pionnier-cryptographie-quantique-prix-turing",
+      "title": "Un pionnier québécois de la cryptographie quantique reçoit le prix Turing",
+      "content_html": "<p>Gilles Brassard a notamment été récompensé pour le tout premier protocole de cryptographie quantique.</p>",
+      "date_published": "2026-03-18T20:04:05+00:00",
+      "authors": [],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
-    },
-    {
-      "id": "b03dd84f92b2e5b0538bd4102cb9c89cd9ce446546d5d7382af5a0f7bb1d2848",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
-      "title": "Australia news live: Jim Chalmers promises more tax reform in budget as war threatens to send inflation past 5%",
-      "content_html": "<p>Treasurer plans ‘ambitious’ changes to target intergenerational inequity. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, and happy Thursday. <strong>Nick Visser</strong> here to tackle the day’s news. Let’s get to it.</p><p>Australia last night co-sponsored an emergency declaration condemning Iran’s attacks on seafarers and merchant vessels in the strait of Hormuz.</p><p>This is just one of the measures our government has taken since the beginning of the conflict to protect our fuel supply and defend our national interests.<br /><br />\n This government will continue working constructively with industry, unions and our international partners to keep people and goods moving freely.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-03-18T20:09:32+00:00",
-      "authors": [
-        {
-          "name": "Nick Visser"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Australian politics",
-        "Australian economy",
-        "Business",
-        "Health",
-        "Australian education",
-        "Australian immigration and asylum",
-        "Australian foreign policy"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "a609d952d848e389da94b1ee79d49c67f0d1c1fab8d1dc7d4fdc7b61172e7e84",
@@ -236,8 +463,8 @@
     {
       "id": "5c175aaad76a359cd6d2e263de1ff7d2ea57898eca6a4a1dfebff475304e35dc",
       "url": "https://www.timesofisrael.com/settler-extremists-attempt-to-rebuild-outpost-twice-attack-palestinian-village-mukhmas/",
-      "title": "Settler extremists attempt to rebuild outpost twice, attack Palestinian village Mukhmas",
-      "content_html": "<p>After illegal Kol Mevaser outpost was demolished Wednesday morning, extremists carried out arson attacks against nearby agricultural infrastructure</p>\n<p>The post <a href=\"https://www.timesofisrael.com/settler-extremists-attempt-to-rebuild-outpost-twice-attack-palestinian-village-mukhmas/\">Settler extremists attempt to rebuild outpost twice, attack Palestinian village Mukhmas</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/Mukhmas-arson-1024x640.png\" title=\"Settler extremists attempt to rebuild outpost twice, attack Palestinian village Mukhmas\" width=\"160\" /></figure>",
+      "title": "Settler extremists attack Palestinian village Mukhmas after nearby outpost demolished",
+      "content_html": "<p>After illegal Kol Mevaser outpost was demolished Wednesday morning, extremists carried out arson attacks against agricultural infrastructure belonging to residents of Mukhmas</p>\n<p>The post <a href=\"https://www.timesofisrael.com/settler-extremists-attempt-to-rebuild-outpost-twice-attack-palestinian-village-mukhmas/\">Settler extremists attack Palestinian village Mukhmas after nearby outpost demolished</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/Mukhmas-arson-1024x640.png\" title=\"Settler extremists attack Palestinian village Mukhmas after nearby outpost demolished\" width=\"160\" /></figure>",
       "date_published": "2026-03-18T19:57:09+00:00",
       "authors": [],
       "tags": [
@@ -359,35 +586,6 @@
       "lang": "fr"
     },
     {
-      "id": "9927b051fc664174c2cd5ed1ef220b3317068a11a2dd337f11c23fa2bf274546",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
-      "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
-      "content_html": "<p>Committee chair Rand Paul and Markwayne Mullin exchange heated remarks at hearing to confirm new homeland security secretary</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/18/trump-dhs-markwayne-mullin-military\">Mullin never served in military but talks as if he did</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for Breaking US News US emails</a></p></li></ul><p>Rand Paul seemed immediately frustrated with Mullin as he opened the hearing. While he was speaking, he suggested that Mullin wasn’t listening to his remarks, during which he pushed Trump’s nominee on his vote against Paul’s amendment to stop all funding for refugee welfare programs.</p><p><strong>“You decided to transfer the blame. You told the media that I was a ‘freaking snake’ and that you completely understood why I had been assaulted,”</strong> Paul said, referring to when he was attacked by a neighbor in Kentucky in 2017, which resulted in Paul breaking several ribs and developing pneumonia.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-03-18T19:51:40+00:00",
-      "authors": [
-        {
-          "name": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Tom Ambrose (earlier)"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US news",
-        "World news",
-        "US immigration",
-        "Donald Trump",
-        "Iran",
-        "Federal Reserve",
-        "Jeffrey Epstein",
-        "Pam Bondi",
-        "US national security"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "659b216887d5f0cb2f8c57034d6e32e5cd74707812bb12a5f2ae9a06e64d7e26",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/top-us-spy-accused-of-omitting-iran-intel-that-contradicts-trump?traffic_source=rss",
       "title": "Top US spy accused of omitting Iran intel that contradicts Trump",
@@ -462,6 +660,24 @@
       "lang": "en"
     },
     {
+      "id": "18b9f133afc2abc7d7a19a5c891d910a57782b1737675916ef702985dd44bd62",
+      "url": "https://www.france24.com/en/kharkiv-s-opera-and-ballet-theatre-performances-continue-despite-war",
+      "title": "Kharkiv's opera and ballet theatre performances continue despite war",
+      "content_html": "Ukraine’s second-largest city, Kharkiv, is just 30km from Russia and suffers almost daily bombardment from across the border. But as the years of war have gone by, the city’s cultural institutions have adapted in order to keep working despite the dangers. The national opera and ballet theatre in the city centre stages regular performances. Most recently, to coincide with the four-year anniversary of the invasion, it revived a production last performed on the 23rd of February 2022. This report from Gulliver Cragg and Tarek Kai.",
+      "date_published": "2026-03-18T19:41:28+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "853aea7c5579bc053cd231ce2e0193aed417aeae401aff2dd5f49eb1f0086c89",
       "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
       "title": "Israel destroys river bridges in southern Lebanon",
@@ -504,6 +720,24 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
+    },
+    {
+      "id": "78a2ef251d504c28fa33091272641cbc55756da7978a34170ddc9603dbc2ce8a",
+      "url": "https://www.france24.com/en/both-sides-in-iran-war-ratchet-up-attacks-on-energy-facilities-as-oil-prices-surge",
+      "title": "Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge",
+      "content_html": "Saudi Arabia intercepted and destroyed four ballistic missiles that were launched ​toward Riyadh on Wednesday, the Defence Ministry said, just ahead of a meeting of regional and Islamic foreign ministers in the Saudi capital. FRANCE 24's Hoda Abdel-Hamid reports from Doha.",
+      "date_published": "2026-03-18T19:31:29+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "a0f2eab774671e5b26eed5f1761ce6f768fe4e4921c1b5ce8da05e43cdab3a21",
@@ -607,6 +841,26 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
+    },
+    {
+      "id": "524707d29e74f95c4d54e664b0c0bb38ad0c03034a47302c3d732f87fd5dbbc6",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260318-trump-s-dire-strait-no-strategy-no-endgame-no-allied-support",
+      "title": "Trump's dire strait: No strategy, no endgame, no allied support?",
+      "content_html": "Today in the Middle East, Day 19 of the war, there have been extensive air strikes, drone attacks and missiles launched. And fall-out is spreading far beyond the so called theatre of war. And the funeral of Ali Larijani, Iran's de facto leader, key advisor to the Ayatollah, the head of National Security, killed in an Israeli air strike just over 24 hours ago in a Tehran suburb. Tonight we're asking: what’s the plan in Iran? Donald Trump finds himself more and more between a rock and a hard place. But at least he can count on his loyal MAGA believers.",
+      "date_published": "2026-03-18T19:12:22+00:00",
+      "authors": [
+        {
+          "name": "Mark OWEN"
+        }
+      ],
+      "tags": [
+        "The Debate"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "438b37b176b24d994d2d2fa11ec3b44a4c3a3df1c4520759a852a743a39adc34",
@@ -834,7 +1088,7 @@
       "id": "54af90f7d3e474eeb6e5319b5bc6054af7d322db07bb1fe18289db70c745236f",
       "url": "https://ici.radio-canada.ca/nouvelle/2240098/smith-voyage-prive-commissaire-ethique",
       "title": "Danielle Smith admet avoir voyagé dans un avion gouvernemental saoudien",
-      "content_html": "<p>La première ministre de l&#x27;Alberta affirme avoir été invitée par le Prince Abdulaziz bin Salman Al Saud.</p>",
+      "content_html": "<p>La première ministre de l&#x27;Alberta affirme avoir été invitée par le prince Salmane&nbsp;ben Abdel Aziz Al-Saoud.</p>",
       "date_published": "2026-03-18T18:56:18+00:00",
       "authors": [],
       "tags": [],
@@ -873,29 +1127,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "752f7a504e2cc22f0d81fe0278fc8754d7ce40a6411029e0afff85f5b65d9d28",
-      "url": "https://www.theguardian.com/us-news/2026/mar/18/covid-19-pandemic-death-toll",
-      "title": "Death toll at start of Covid-19 pandemic likely higher than US count, study says",
-      "content_html": "<p>Finding suggests as many as 155,000 deaths, likely occurring outside of hospitals, not recognized as Covid related</p><p>The Covid-19 pandemic’s early death toll was much higher than the official US count, according to a new study that spotlights dramatic disparities in the uncounted deaths.</p><p>About 840,000 Covid-19 deaths were reported on death certificates in 2020 and 2021. But a group of researchers – using a form of artificial intelligence – estimate that as many as 155,000 unrecognized additional deaths likely occurred in that time outside of hospitals. That would mean about 16% of Covid-19 deaths went uncounted in those years.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/18/covid-19-pandemic-death-toll\">Continue reading...</a>",
-      "date_published": "2026-03-18T18:54:39+00:00",
-      "authors": [
-        {
-          "name": "Associated Press"
-        }
-      ],
-      "tags": [
-        "Coronavirus",
-        "Infectious diseases",
-        "Medical research",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3120,22 +3351,6 @@
       "lang": "en"
     },
     {
-      "id": "f55e31ef86b3ec7d1c0de504ed5177dfa8a6145de9ced0add1f9d712cc0183ce",
-      "url": "https://toi.li/MBLDfC",
-      "title": "War with Iran and 5 billion Shekel to Haredim - Sponsored Content",
-      "content_html": "<p>As Israel fights the war, what kind of country is it becoming? Prof. Dan Ben-David of Tel Aviv University talks about the allocation of 5 billion shekels to the Haredi sector. </p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/war-with-iran-and-5-billion-shekel-to-haredim/\">War with Iran and 5 billion Shekel to Haredim</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/Screenshot-2026-03-18-at-17.21.36-1024x640.png\" title=\"War with Iran and 5 billion Shekel to Haredim\" width=\"160\" /></figure>",
-      "date_published": "2026-03-18T15:24:18+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "7065b48f8311279aca853d735dc33c0c05154434a2e812c8f01b8b8b03d2192e",
       "url": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
       "title": "Quantum pioneers win Turing Award for encryption breakthrough",
@@ -3615,26 +3830,6 @@
       "lang": "en"
     },
     {
-      "id": "a310ffc96e6952185141b8f04e2b12a517cf07bea73b02c77908e195e19e1b13",
-      "url": "https://www.france24.com/fr/%C3%A9missions/focus/20260318-des-r%C3%A9fugi%C3%A9s-syriens-fuient-l-offensive-isra%C3%A9lienne-au-liban-et-retournent-dans-une-syrie-en-ruines",
-      "title": "Des réfugiés syriens fuient l'offensive israélienne au Liban et retournent dans une Syrie en ruines",
-      "content_html": "Au poste-frontière de Joussieh, près de Homs, des milliers de réfugiés syriens fuient la guerre dévastatrice entre Israël et le Hezbollah, qui ravage le Liban. Chassés par les frappes israéliennes après des années d'exil au Liban, des familles et des enfants patientent des heures, avant de pouvoir rentrer dans un pays où 90 % de la population survivent dans la pauvreté qui a suivi la chute de Bachar al-Assad. Reportage de Dana Alboz et Hussam Hammoud.",
-      "date_published": "2026-03-18T14:18:59+00:00",
-      "authors": [
-        {
-          "name": "Dana ALBOZ"
-        }
-      ],
-      "tags": [
-        "Focus"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6389e31304a977103cb3938b3f56ae565004c5be5e711ead3e0c546fde40d719",
       "url": "https://www.ukrinform.net/rubric-ato/4102981-spain-allocates-another-eur-1b-in-military-aid-to-ukraine-sanchez.html",
       "title": "Spain allocates another EUR 1B in military aid to Ukraine — Sanchez",
@@ -3824,6 +4019,31 @@
       "lang": "en"
     },
     {
+      "id": "155d51689f2f48d54c64d923b018ca4be01568170ace8d424d0a54cc75394d42",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/18/where-have-all-our-front-gardens-gone-sydneys-super-sized-driveways-eat-into-yards",
+      "title": "‘Where have all our front gardens gone?’: Sydney’s supersized driveways eat into yards",
+      "content_html": "<p>Research shows average front garden size has declined by 46% in areas where older low-density homes have been replaced by larger, modern houses</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Sydney’s increasingly supersized driveways are shrinking suburban front yards as residential redevelopment accelerates, a research paper has found.</p><p>The research, which details the loss of private tree space due to knock down-rebuilds, lays bare the gaps in the planning system for minimum private green space standards.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/18/where-have-all-our-front-gardens-gone-sydneys-super-sized-driveways-eat-into-yards\">Continue reading...</a>",
+      "date_published": "2026-03-18T14:00:40+00:00",
+      "authors": [
+        {
+          "name": "Adeshola Ore"
+        }
+      ],
+      "tags": [
+        "Housing",
+        "Sydney",
+        "Environment",
+        "New South Wales",
+        "Australia news",
+        "Architecture"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "b9caa3eacd7b2e9abd48b2ba34d21154eb9b1bb006e966e25994a467ae82c9e6",
       "url": "https://www.liberation.fr/international/moyen-orient/menacee-apres-avoir-boycotte-lhymne-national-lequipe-feminine-iranienne-de-foot-regagne-liran-20260318_GUJEVDCCBZEZDCM7Z6DUPURGZI/",
       "title": "Menacée après avoir boycotté l’hymne national, l’équipe féminine iranienne de foot regagne l’Iran",
@@ -3930,26 +4150,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "3a2e2b1e96a41bb0d112d0b8ad798835cc3c81169d79d10d797cb700229a7ee2",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260318-iran-trump-le-flou-strat%C3%A9gique-parlons-en",
-      "title": "Iran : Trump, le flou stratégique ? Parlons-en avec M. Quessard, Paymon Azmoudeh et James André",
-      "content_html": "En 2011, Donald Trump a déclaré : \"Notre président va déclencher une guerre avec l’Iran car il n’a absolument aucune capacité à négocier. Il est faible et inefficace.\" 15 ans plus tard, le voilà lancé dans une guerre dont on ne voit pas la fin et qui a embrasé tout le Moyen-Orient et avec elle les économies de la planète. Entre incohérence et imprécisions, où va l’administration américaine ? Le sait-elle et comment les Américains la perçoivent-ils ?",
-      "date_published": "2026-03-18T13:49:52+00:00",
-      "authors": [
-        {
-          "name": "Pauline PACCARD"
-        }
-      ],
-      "tags": [
-        "Parlons-en, les invités"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "10765329c42ba624221f3ce7a48f2de677bfb64630800a521f903a6034462ecf",
@@ -4187,8 +4387,8 @@
     {
       "id": "44ca9bdea420f6da8335507f285d2dbf1d9a2752d6962a30b289e07a8cdb143e",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss",
-      "title": "Israël affirme avoir tué le chef des renseignements iraniens, Khatib",
-      "content_html": "Le ministre israélien de la Défense, Israel Katz, a déclaré qu’une frappe nocturne avait tué le ministre iranien du Renseignement, Esmail Khatib.",
+      "title": "Israel says it killed Iranian intelligence chief Khatib",
+      "content_html": "Israel’s Defence Minister Israel Katz said an overnight strike killed Iran’s Intelligence Minister Esmail Khatib.",
       "date_published": "2026-03-18T13:15:07+00:00",
       "authors": [],
       "tags": [
@@ -4198,7 +4398,7 @@
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "86da381d7ba29cef029a8196803bdc4de231f5f64d2c03885401e2f33394cbed",
@@ -4229,22 +4429,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "724c485a7eb8a2bdcb60cf33da4a1850b78c41d97aa79e9536b187460655c22c",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/kenyas-drought-amid-plenty?traffic_source=rss",
-      "title": "Kenya’s ‘drought amid plenty’",
-      "content_html": "Rains have begun in Kenya, but the north remains parched. Catherine Soi reports from Turkana.",
-      "date_published": "2026-03-18T13:09:39+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "bc5369560bb40c3f9baec4622599c2e3f91483d0f33d6fbee067ceff71cd1624",
@@ -4349,22 +4533,6 @@
       "lang": "en"
     },
     {
-      "id": "28bc9f83d58c31c7d86da51bd246ff488a179e3dd5cc9dc51a3c702eff3ee532",
-      "url": "https://www.dw.com/en/iran-war-triggers-helium-shortage-hits-semiconductor-supply/a-76380869?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran war triggers helium shortage, hits semiconductor supply",
-      "content_html": "Rising tension in the Middle East is rattling high-end chipmakers. Among the latest geopolitical uncertainties for the industry is a shortage of helium that could slow global production.",
-      "date_published": "2026-03-18T12:41:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3aea6915750d2120ee3fb55423aa85e74f9af017078be186181fb51449922fce",
       "url": "https://www.dw.com/en/north-korea-watches-and-learns-as-us-attacks-iran/a-76409773?maca=en-rss-en-all-1573-rdf",
       "title": "North Korea watches and learns as US attacks Iran",
@@ -4381,62 +4549,18 @@
       "lang": "en"
     },
     {
-      "id": "3aa2f1d18e99993dd99dd29a850993cc99544bf890dc3e9b2824ad0526343019",
-      "url": "https://www.france24.com/en/france/20260318-free-france-macron-names-next-aircraft-carrier-after-wwii-resistance",
-      "title": "‘Free France’: Macron names next aircraft carrier after WWII resistance",
-      "content_html": "President Emmanuel Macron on Wednesday said France's next-generation aircraft carrier set to replace the Charles de Gaulle in 2038 will be named “Free France\" in a tribute to the “spirit” of the French resistance against the World War II-era Nazi occupation.",
-      "date_published": "2026-03-18T12:35:17+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
+      "id": "28bc9f83d58c31c7d86da51bd246ff488a179e3dd5cc9dc51a3c702eff3ee532",
+      "url": "https://www.dw.com/en/iran-war-triggers-helium-shortage-hits-semiconductor-supply/a-76380869?maca=en-rss-en-all-1573-rdf",
+      "title": "Iran war triggers helium shortage, hits semiconductor supply",
+      "content_html": "Rising tension in the Middle East is rattling high-end chipmakers. Among the latest geopolitical uncertainties for the industry is a shortage of helium that could slow global production.",
+      "date_published": "2026-03-18T12:41:00+00:00",
+      "authors": [],
       "tags": [
-        "France"
+        "Business"
       ],
       "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1a4ab664fd1b7f3f9114c0054c4f06aed3c20b7d99e334a416e2d7ef87b90bb1",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260318-scientists-discover-entire-ecosystem-hidden-under-ice-of-antarctica",
-      "title": "Scientists discover entire ecosystem hidden under ice of Antarctica",
-      "content_html": "An Antarctic mission is shining a light into the depths of the waters of the South Pole. Conservation group Under the Pole have been conducting marine research and raising awareness for almost 20 years. They've recently made some stunning discoveries by diving deep under the ice. Our France 2 colleagues report.",
-      "date_published": "2026-03-18T12:22:44+00:00",
-      "authors": [
-        {
-          "name": "Valérie DEKIMPE"
-        }
-      ],
-      "tags": [
-        "Down to Earth"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fd36476ceb1f6c68c2abf7016e85079628729b7c8fed9ee7f1d8a08f351b091e",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260318-get-back-gaza-palestinian-refugees-israeli-backed-militias-rafah",
-      "title": "To return to Gaza, Palestinian refugees first have to face Israeli-backed militias",
-      "content_html": "Israel has said it is reopening the Rafah border crossing between the Gaza Strip and Egypt on Wednesday. Israeli authorities had partially opened the crossing on February 2 as part of the peace plan agreed with Hamas in October, but closed it on February 28 when Israeli and US missiles and planes began striking Iran.",
-      "date_published": "2026-03-18T12:14:20+00:00",
-      "authors": [
-        {
-          "name": "The FRANCE 24 Observers"
-        }
-      ],
-      "tags": [
-        "The Observers"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -4528,42 +4652,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "cbc13fb32a5044598c62f877c88b1de0b1b2de935023397623fad97736e690e9",
-      "url": "https://www.france24.com/en/video/20260318-beirut-building-collapses-amid-fresh-israeli-strikes-in-capital-city-s-centre",
-      "title": "Beirut building collapses amid fresh Israeli strikes in capital city's centre",
-      "content_html": "#Israel led some of the most intense strikes against #Lebanon's capital centre since the start of the offensive on March 2. At least a dozen died, bringing up the number of people killed since early March to at least 900.",
-      "date_published": "2026-03-18T11:33:33+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c5791fe7d88b29e1dafa3e6ccbdb8e0d1788951948c6e976cc58c167b484000f",
-      "url": "https://www.france24.com/en/video/20260318-ngo-says-hundreds-killed-and-wounded-in-kabul-drug-clinic-strike",
-      "title": "NGO says 'hundreds killed and wounded' in Kabul drug clinic strike",
-      "content_html": "The Norwegian Refugee Council on Wednesday said hundreds of people were killed and wounded in this week's Pakistani air strike on a Kabul drug treatment clinic, in the first independent confirmation of the heavy toll. Pakistan's forces struck Kabul and the eastern border province of Nangarhar on Monday, claiming to have hit military installations and \"terrorist support infrastructure\".",
-      "date_published": "2026-03-18T11:25:30+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "385a4a8ed5b8d1fea1bcd9f8c9cc4669d3c5afe49ba89e5c448a07a0926dce1d",
@@ -4790,22 +4878,6 @@
       "lang": "fr"
     },
     {
-      "id": "73f611ebce40c1a017e5b0235147670d01a5e338256715b3ee1fa19f69535320",
-      "url": "https://www.dw.com/en/president-sassou-nguesso-wins-congo-brazzaville-s-election/a-76347978?maca=en-rss-en-all-1573-rdf",
-      "title": "President Sassou-Nguesso wins Congo-Brazzaville's election",
-      "content_html": "Provisional results announced showed Nguesso with nearly 95% of the vote; his closest rival received less than 2%. Many political analysts had predicted victory for the longtime leader in power since 1979.",
-      "date_published": "2026-03-18T09:18:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "991fa3233813a97fa39713e20a33a6de5aa653bc99434a1ca4b45bbc17b67d9c",
       "url": "https://www.liberation.fr/international/amerique/joe-kent-nouveau-symbole-dune-fracture-dans-le-camp-trump-sur-la-guerre-contre-liran-20260318_IIO44SBI75AIFJNOFXOPU3QUMY/",
       "title": "Joe Kent, nouveau symbole d’une fracture dans le camp Trump sur la guerre contre l’Iran",
@@ -4922,30 +4994,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "21d857b74d32fd685449d278b692895da633de5a0e8972fa61e1c90c880f1293",
-      "url": "https://www.theguardian.com/science/2026/mar/18/world-first-quantum-battery-australian-scientists-say",
-      "title": "Is this the world’s first quantum battery? Australian scientists say so",
-      "content_html": "<p>Researchers say their prototype is a big step towards fully functioning batteries with rapid charging times</p><p>Australian scientists have developed what they say is the world’s first proof-of-concept quantum battery.</p><p>Quantum batteries, first proposed as a theoretical concept in 2013, use the principles of quantum mechanics to store energy, and have the potential to be more efficient than conventional batteries.</p> <a href=\"https://www.theguardian.com/science/2026/mar/18/world-first-quantum-battery-australian-scientists-say\">Continue reading...</a>",
-      "date_published": "2026-03-18T07:29:59+00:00",
-      "authors": [
-        {
-          "name": "Donna Lu"
-        }
-      ],
-      "tags": [
-        "Science",
-        "Australia news",
-        "Energy",
-        "Energy",
-        "Technology"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "915497f8b14cc460fe36ac1ee6d834dbfe44eafe721dce6d96f208580e564717",
