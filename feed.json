@@ -5,25 +5,110 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "f198091012fbeb099a2a2c66e02e27b12806940cf93dabbb2535cbd223e46f4e",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241688/reseaux-sociaux-dependance-instagram-youtube",
-      "title": "Dépendance aux réseaux sociaux : Instagram et YouTube condamnés en Californie",
-      "content_html": "<p>Ce verdict, inédit, crée un précédent pour des milliers de plaignants aux États-Unis.</p>",
-      "date_published": "2026-03-25T22:23:46+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "1690d21a6555911f50db51b7b0c5a46195a5868c7bea3fa2134edb46d91ca22b",
+      "url": "https://www.elmundo.es/internacional/2026/03/26/69c3ffb3fdddffd2188b458a.html",
+      "title": "L’autre social-démocratie : Frederiksen contre le « modèle Sanchez »",
+      "content_html": "La Première ministre danoise est, en théorie, une coreligionnaire de Pedro Sánchez, mais ses idées sur l'immigration, la défense, la dissuasion nucléaire et l'aide de l'UE sont presque totalement opposées à celles du président espagnol.",
+      "date_published": "2026-03-25T23:01:35+00:00",
+      "authors": [
+        {
+          "name": "Pedro Poza Maupain"
+        }
+      ],
+      "tags": [
+        "Pedro Sánchez",
+        "Dinamarca",
+        "Europa"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "cd7a43f08210ea6fac9889031acec61846d6f1e124c9f4069c7d412da593e0f6",
+      "url": "https://www.elmundo.es/internacional/2026/03/26/69c437cbe85eceed568b45a8.html",
+      "title": "Voici Dimona, l’enclave stratégique d’Israël que l’Iran a mise dans sa ligne de mire",
+      "content_html": "Le symbole de la dissuasion israélienne revient sur les lieux après l'impact d'un missile",
+      "date_published": "2026-03-25T23:01:34+00:00",
+      "authors": [
+        {
+          "name": "Sal Emergui"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "Guerra en Irán"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f932406e72a6ae2b8eebecaca718ddaa35b42636a43e646e39ececd4b70c9fd4",
+      "url": "https://www.theguardian.com/australia-news/live/2026/mar/26/australia-politics-live-penny-wong-iran-united-nations-war-fuel-crisis-cost-of-living-parliament-question-time-anthony-albanese-angus-taylor-ntwnfb",
+      "title": "Australia politics live: opposition calls on Labor to activate emergency powers to tackle fuel crisis",
+      "content_html": "<p>Angus Taylor says government must direct fuel to empty petrol stations. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Barnaby Joyce calls for fuel rationing, saying a ‘plan is better than panic’</strong></p><p>One Nation MP <strong>Barnaby Joyce</strong> who yesterday called on the government to pull the trigger on the Liquid Fuel Emergency Act, is today calling for the government to start rationing fuel.</p><p>This is going to ripple through. It’s going to start with a few sort of peculiarities. Isn’t that interesting? I don’t seem to have any eggs today. And then it’s going to build up and up and up and up. But by the time it arrives, it’s too late …</p><p><strong>[The government] should be having rationing now,</strong> and he should be brave enough to say to the Australian people, look, you’re not going to like this, but you’re going to appreciate it. <strong>A plan is better than panic, and panic is where we’re going.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/26/australia-politics-live-penny-wong-iran-united-nations-war-fuel-crisis-cost-of-living-parliament-question-time-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-03-25T22:53:52+00:00",
+      "authors": [
+        {
+          "name": "Krishani Dhanji"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian politics",
+        "Australian economy",
+        "Business",
+        "Health",
+        "Australian education",
+        "Australian immigration and asylum",
+        "Australian foreign policy",
+        "Coalition",
+        "Labor party",
+        "Liberal party",
+        "One Nation",
+        "Independents",
+        "Australian Greens",
+        "Petrol prices",
+        "National party",
+        "Australian Broadcasting Corporation"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d1e9a0c0cf5259bd10d7d6637fcc5441c2e6c2d98a665b1c7489c53e661c2191",
+      "url": "https://www.france24.com/en/europe/20260325-us-ties-ukraine-security-guarantees-to-donbas-withdrawal",
+      "title": "US ties Ukraine security guarantees to Donbas withdrawal, Zelensky says",
+      "content_html": "Ukrainian President Volodomyr Zelensky said the US is conditioning post-war security guarantees on Kyiv ceding the Russian-occupied Donbas, as Washington pushes for a swift end to the war. Zelensky warned such terms would weaken Ukraine’s defences and embolden Moscow, amid uncertainty over future US support despite continued military aid.",
+      "date_published": "2026-03-25T22:53:15+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
     },
     {
       "id": "e2f1e72c7df54db2652c8706c320921a7ecaa4b471fecc2c71e1a7ff34329221",
       "url": "https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest",
       "title": "White House tries to blame Democrats for airport delays as TSA workers miss out on $1bn in pay – US politics live",
       "content_html": "<p>Some airports advise travelers to arrive four hours before their scheduled flights as TSA staff, who have been working without pay for over a month, are not reporting for duty</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p>Top officials at agencies affected by the ongoing Department of Homeland Security (DHS) shutdown are testifying on Capitol Hill on Wednesday. The lapse in funding for the Transportation Security Administration (TSA), the Cybersecurity and Infrastructure Security Agency (CISA), the Coast Guard and the Federal Emergency Management Agency (FEMA), has lasted 40 days with little end in sight.</p><p>During opening remarks, the <strong>Republican chair of the House homeland security committee, Andrew Garbarino</strong>, said that the shutdown has caused “massive disruptions” across airports, “weakened our nation’s cybersecurity posture” and “left states unsupported with less than 100 days until the start of major events across the United States, such as FIFA World Cup”.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/25/donald-trump-classified-documents-us-politics-live-latest\">Continue reading...</a>",
-      "date_published": "2026-03-25T22:14:21+00:00",
+      "date_published": "2026-03-25T22:52:11+00:00",
       "authors": [
         {
           "name": "Coral Murphy Marcos (now); Robert Tait, Shannon Ho and Tom Ambrose (earlier)"
@@ -46,46 +131,25 @@
       "lang": "en"
     },
     {
-      "id": "f932406e72a6ae2b8eebecaca718ddaa35b42636a43e646e39ececd4b70c9fd4",
-      "url": "https://www.theguardian.com/australia-news/live/2026/mar/26/australia-politics-live-penny-wong-iran-united-nations-war-fuel-crisis-cost-of-living-parliament-question-time-anthony-albanese-angus-taylor-ntwnfb",
-      "title": "Australia politics live: opposition calls on Labor to activate emergency powers to tackle fuel crisis",
-      "content_html": "<p>Angus Taylor says government must direct fuel to empty petrol stations. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Barnaby Joyce calls for fuel rationing, saying a ‘plan is better than panic’</strong></p><p>One Nation MP <strong>Barnaby Joyce</strong> who yesterday called on the government to pull the trigger on the Liquid Fuel Emergency Act, is today calling for the government to start rationing fuel.</p><p>This is going to ripple through. It’s going to start with a few sort of peculiarities. Isn’t that interesting? I don’t seem to have any eggs today. And then it’s going to build up and up and up and up. But by the time it arrives, it’s too late …</p><p><strong>[The government] should be having rationing now,</strong> and he should be brave enough to say to the Australian people, look, you’re not going to like this, but you’re going to appreciate it. <strong>A plan is better than panic, and panic is where we’re going.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/26/australia-politics-live-penny-wong-iran-united-nations-war-fuel-crisis-cost-of-living-parliament-question-time-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-03-25T22:14:13+00:00",
-      "authors": [
-        {
-          "name": "Krishani Dhanji"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Australian politics",
-        "Australian economy",
-        "Business",
-        "Health",
-        "Australian education",
-        "Australian immigration and asylum",
-        "Australian foreign policy",
-        "Coalition",
-        "Labor party",
-        "Liberal party",
-        "One Nation",
-        "Independents",
-        "Australian Greens",
-        "Petrol prices",
-        "National party"
-      ],
+      "id": "8c0bdbc454d6a22bbc5ba97d81e2182daf7d2040307d9fa40b02034d8f34ccfe",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241640/legault-demande-demission-rousseau-air-canada",
+      "title": "Michael Rousseau restera en poste, affirme Air Canada",
+      "content_html": "<p>Un message de condoléances unilingue anglophone a entraîné des appels politiques à sa démission.</p>",
+      "date_published": "2026-03-25T22:41:18+00:00",
+      "authors": [],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "78f5cb936ed1524527b1d0fefd9b89d9cf4f74a7e623f41724341f60a88e8ca2",
       "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-      "title": "Middle East crisis live: Iran reportedly wants Lebanon included in any ceasefire as Israel says it is expanding ‘buffer zone’",
+      "title": "Middle East crisis live: Iranian official warns US troops set to deploy to region as Israel says it is expanding ‘buffer zone’ in Lebanon",
       "content_html": "<p>Tehran says end to war must include halt to Israel’s offensive in Lebanon after Netanyahu comments prompt fears of protracted occupation</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/25/trump-iran-war-analysis\">Analysis: Trump pitches Iran peace plan but military buildups rarely veer to off-ramp</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks\">Iran rejects US ceasefire plan and submits its own amid push for talks</a></p></li></ul><p>Iranian nationals with valid Australian tourist visas <a href=\"https://www.theguardian.com/australia-news/2026/mar/10/labor-moves-to-block-some-temporary-visa-holders-traveling-to-australia-amid-middle-east-war\">will be blocked from entering the country</a> for six months, Australia’s home affairs minister said, <strong>citing concern some may decide to stay longer than they’re allowed.<br /></strong><br />\n Tony Burke said the direction was necessary as there was a risk Iranians on tourist visas visiting Australia may be unable or unlikely to leave when their visa expires.<br />\n The order only applies to people with a valid tourist visa outside of the country. <br />\n The government said <strong>“sympathetic consideration” would be given to citizens with Iranian parents.</strong> <br /><br />\n The government said it would closely monitor global developments and adjust settings as required.</p><p>If you’re just joining us, here’s a quick recap of the day:</p><p><strong>An</strong> <strong>Iranian military spokesperson mocked US attempts at a ceasefire deal</strong>, <strong>insisting Americans were only negotiating with themselves. </strong>Lt Col Ebrahim Zolfaghari’s statement came after the Trump administration reportedly sent a 15-point ceasefire plan to Iran through Pakistan.</p><p>Even as <strong>Donald Trump</strong> claimed productive negotiations to end the war were ongoing with Tehran, <strong>Iran</strong><strong>’s relentless bombardment of the Gulf states showed no sign of relenting. Kuwait and Bahrain were both hit</strong> with damaging strikes on Tuesday night and into Wednesday morning, as the patience of the Gulf states after rebuffing constant attacks for almost a month began to wear thin.</p><p><strong>The World Trade Organisation warned disruptions to international fertiliser supplies caused by the closing of the strait of Hormuz will cause food scarcity and high prices</strong>. A third of the world’s fertilisers normally transit the strait.</p><p><strong>Oil prices fell nearly 6% and Asian shares gained</strong>, <strong>after reports Donald Trump had sent a peace plan to Iran fuelled optimism in the market. </strong>A barrel of Brent crude was <strong>down 5.92% </strong>at $98.30, while benchmark US oil contract, West Texas Intermediate, was <strong>down 5.01% </strong>at $87.72.</p><p><strong>Israeli strikes on Lebanon killed nine people, state media reported.</strong> Citing the health ministry, Lebanon’s official National News Agency said strikes had killed people across towns and a Palestinian refugee camp.</p><p><strong>News that Trump had approved the deployment of more than 1,000 soldiers from the 82nd Airborne Division to the Middle East</strong> <strong>further undermined the US president’s repeated claims of successful peace talks.</strong> Iran has previously threatened to mine the gulf surrounding the island if the US appeared to be landing troops.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon\">Continue reading...</a>",
-      "date_published": "2026-03-25T22:10:21+00:00",
+      "date_published": "2026-03-25T22:39:30+00:00",
       "authors": [
         {
           "name": "Lucy Campbell (now); Tom Ambrose, Taz Ali and Eva Corlett (earlier)"
@@ -107,6 +171,125 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "e526b222128ffe59e1addca873b2e9ed3a1ae5757580f3507dd7f0725f1c6664",
+      "url": "https://www.theguardian.com/us-news/2026/mar/25/latest-caribbean-strike-boat-four-killed",
+      "title": "Strike on alleged drug vessel kills four in the Caribbean, US military says",
+      "content_html": "<p>Latest strike comes as part of US Southern Command’s efforts to apply ‘total systemic friction on the cartels’</p><p>The US has launched another strike on a vessel in the Caribbean, killing four people, the US Southern Command said Wednesday.</p><p>The command which oversees combatant operations in Latin America and the Caribbean <a href=\"https://x.com/Southcom/status/2036900417347707303?s=20\">announced</a> on X that it had conducted a “lethal kinetic strike on a vessel operated by Designated Terrorist Organizations”.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/25/latest-caribbean-strike-boat-four-killed\">Continue reading...</a>",
+      "date_published": "2026-03-25T22:29:29+00:00",
+      "authors": [
+        {
+          "name": "Maya Yang"
+        }
+      ],
+      "tags": [
+        "US military",
+        "Trump administration",
+        "Pete Hegseth",
+        "US news",
+        "US politics",
+        "Caribbean"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2727965f8e3743f254e0eb935220e58b7e5d0f3417f83e99df3af543a792fa5d",
+      "url": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss",
+      "title": "Mexico will continue accepting Cuban medical workers despite US pressure",
+      "content_html": "Mexican President Claudia Sheinbaum praises services from Cuban doctors, who often work in underserved rural areas.",
+      "date_published": "2026-03-25T22:28:38+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5ae491f46d762ce8497b6c2aad4989d59325077735895984601ad3adb5e91024",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241608/humoriste-julien-lacroix-jette-eponge-quitte-scene",
+      "title": "L’humoriste Julien Lacroix jette l’éponge : « trop lourd à porter »",
+      "content_html": "<p>«&nbsp;Ma famille passe avant tout. Et nous sommes fatigués, physiquement, mentalement&nbsp;», a-t-il écrit.</p>",
+      "date_published": "2026-03-25T22:27:30+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f198091012fbeb099a2a2c66e02e27b12806940cf93dabbb2535cbd223e46f4e",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241688/reseaux-sociaux-dependance-instagram-youtube",
+      "title": "Dépendance aux réseaux sociaux : Instagram et YouTube condamnés en Californie",
+      "content_html": "<p>Ce verdict, inédit, crée un précédent pour des milliers de plaignants aux États-Unis.</p>",
+      "date_published": "2026-03-25T22:23:46+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c428495a3e370d292031a31d299820f19bd1146f94e9c401c7dfe185c1b8901a",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
+      "title": "Video shows Israeli strike hitting displacement camp in Gaza",
+      "content_html": "Videos show the moment a strike hit a tent camp for displaced Palestinians in Deir el-Balah.",
+      "date_published": "2026-03-25T22:12:18+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3341baba5268eb251da6b92f4412e8a99e56c3415cc098676b8cf20eb3070343",
+      "url": "https://www.france24.com/en/france-confirms-oil-crisis-says-30-40-gulf-energy-infrastructure-destroyed",
+      "title": "France confirms oil crisis, says 30-40% Gulf energy infrastructure destroyed",
+      "content_html": "A daily update on the latest business and economic news.",
+      "date_published": "2026-03-25T22:10:52+00:00",
+      "authors": [
+        {
+          "name": "Rachael Griffiths"
+        }
+      ],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6dce952a9bd701d0aef0efd94efa6003b6015c687280f1a6043d7a9f0063573c",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241766/montrealais-recherche-fraude-arrestation-nicaragua",
+      "title": "Un Montréalais recherché pour fraude de type grands-parents arrêté au Nicaragua",
+      "content_html": "<p>Jimmy Ylimaki, 36&nbsp;ans, risque jusqu&#x27;à 20&nbsp;ans de prison pour son rôle présumé dans cette&nbsp;fraude.</p>",
+      "date_published": "2026-03-25T22:06:19+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
     },
     {
       "id": "f2717ada11cf232d2d6f630f0ea600db3d8457d8e57c6ca92f1c6a5d9a0f15db",
@@ -171,6 +354,26 @@
       "lang": "en"
     },
     {
+      "id": "f6e225bbee9b7c54b802b02f419908041da07ef2a4830fa09f0f6ce98d32ccfb",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260325-oil-stock-trading-spikes-before-trump-s-iran-remarks-spark-insider-trading-suspicions",
+      "title": "Oil, stock trading spikes before Trump's Iran remarks spark insider trading suspicions",
+      "content_html": "Thousands of oil contracts -- a far higher volume than normal -- were traded 15 minutes before Trump pledged to halt strikes on Iranian energy infrastructure, sending prices tumbling. Traders who bet on prices dropping ahead of the announcement would likely have profited from Trump's sudden reversal, prompting analysts to question whether some market participants had acted on prior information. FRANCE 24's Yinka Oyetade speaks with Meziane Lasfer, Professor of Finance at Bayes Business School, City University.",
+      "date_published": "2026-03-25T21:57:40+00:00",
+      "authors": [
+        {
+          "name": "Yinka OYETADE"
+        }
+      ],
+      "tags": [
+        "A propos"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "8fd1787e6adc0e324d180894387e6eaa47ab060b019e298d4ad69eede65234ca",
       "url": "https://www.theguardian.com/us-news/2026/mar/25/tsa-tip-off-ice-san-francisco-airport",
       "title": "TSA tipped off ICE in arrest of mother and child at San Francisco airport",
@@ -220,6 +423,54 @@
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "be9c49d86c061d73a8dff99e694b96ac345a6bf1ccc96791500a8ed71464abbf",
+      "url": "https://www.elmundo.es/internacional/2026/03/25/69c3e7f5fdddff7a078b457e.html",
+      "title": "Le carrefour des Russes et des Ukrainiens à Dubaï : de la fuite de la guerre en Ukraine aux conséquences du conflit au Moyen-Orient",
+      "content_html": "Plus de 100 000 Russes et 30 000 Ukrainiens, pour la plupart des femmes réfugiées, vivent ensemble quotidiennement sans affrontements dans la région",
+      "date_published": "2026-03-25T21:46:07+00:00",
+      "authors": [
+        {
+          "name": "Alberto Rojas"
+        }
+      ],
+      "tags": [
+        "Irán",
+        "Estados Unidos",
+        "Israel",
+        "Ucrania",
+        "Rusia",
+        "NLPremium"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4118583c4553a5798c375284406d12939ce14be96da03aedad4c31ecf706092e",
+      "url": "https://www.elmundo.es/internacional/2026/03/25/69c438bafc6c83087b8b457d.html",
+      "title": "Les fissures dans la relation privilégiée entre les États-Unis et Israël",
+      "content_html": "Le soutien à Tel Aviv a des conséquences néfastes sur le gouvernement américain, même dans les rangs républicains de plus en plus critiques.",
+      "date_published": "2026-03-25T21:45:50+00:00",
+      "authors": [
+        {
+          "name": "Pablo R. Suanzes"
+        }
+      ],
+      "tags": [
+        "Estados Unidos",
+        "Israel",
+        "NLPremium",
+        "Artículos Pablo R. Suanzes"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -284,6 +535,42 @@
       "lang": "en"
     },
     {
+      "id": "13673e11d5065ec2f9771937c1035f17fe710496694afe46f8772cf7cd764e9c",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260325-lacking-morals-values-or-principles-georgia-government-guided-by-kremlin",
+      "title": "Lacking 'morals, values, or principles': Georgia government 'guided by Kremlin'",
+      "content_html": "François Picard is pleased to welcome Tina Khidasheli, Jurist and former Minister of Defence of Georgia. According to Khidasheli, Georgia is suspended between its declared European future and an increasingly authoritarian present. While formally holding candidate status for European Union membership, the political reality has shifted toward systemic control, legal ambiguity, and the suppression of dissent. Legal instruments, particularly the foreign agents law, are designed not merely to regulate but to deter, creating an environment where ordinary professional or civic activity risks criminalisation.",
+      "date_published": "2026-03-25T21:38:13+00:00",
+      "authors": [],
+      "tags": [
+        "Spotlight"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "90be168f948ff14693a3b6416fc513f0ff2f7afb4caf221126bb90e00a7632d4",
+      "url": "https://www.france24.com/en/un-names-african-slave-trade-gravest-crime-against-humanity",
+      "title": "UN names African slave trade 'gravest crime against humanity'",
+      "content_html": "In tonight's edition, the UN General Assembly designated the transatlantic African slave trade as \"the gravest crime against humanity,\" in a move advocates hailed as a step towards healing and possible reparations. Also, in a visit to top African trading partner Algeria, Italy's prime minister, Giorgia Meloni, said the two nations would work to increase deliveries of Algerian gas. And  the conflict in the Middle East risks crippling Kenya's flower industry.",
+      "date_published": "2026-03-25T21:35:53+00:00",
+      "authors": [
+        {
+          "name": "Vedika BAHL"
+        }
+      ],
+      "tags": [
+        "Eye on Africa"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "6ee0f0a031ac14809457e97ddefa417541a63112a42a5aa8bbf5f4fa28514259",
       "url": "https://www.timesofisrael.com/us-justice-departments-oct-7-task-force-said-to-be-unraveling/",
       "title": "US Justice Department’s Oct. 7 task force said to be unraveling",
@@ -306,6 +593,20 @@
       "lang": "en"
     },
     {
+      "id": "77e1174678ece1fa59c225b3c4684f3e3b82d5c723288ebed222f3b4f45d4c0b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241758/venezuela-petrole-pdvsa-maduro",
+      "title": "María Corina Machado courtise les pétrolières",
+      "content_html": "<p>María Corina Machado a promis une nouvelle ère à Houston.</p>",
+      "date_published": "2026-03-25T21:24:31+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "d4298bfa019448d2e515928241f25d0b5bdd22bd09a118d7eafdc5cd4db5477c",
       "url": "https://www.ukrinform.net/rubric-economy/4105609-ukraine-to-scale-up-drone-production-with-european-partners-zelensky.html",
       "title": "Ukraine to scale up drone production with European partners – Zelensky",
@@ -318,30 +619,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ad297333cdd3caad3e5b742b7f66f9f5c5c71e8f3494f76293138509c1c03fd4",
-      "url": "https://www.theguardian.com/us-news/2026/mar/25/senate-republicans-bill-iran-war-dhs-shutdown",
-      "title": "Democrats shut down DHS funding deal from Republicans as standoff continues",
-      "content_html": "<p>Republicans’ proposal would restart almost all of DHS operations but excluded key reforms that Democrats want</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio\">US politics live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>The Senate remained deadlocked on Wednesday over funding for the Department of Homeland Security (DHS), after Republicans proposed legislation that would restart all of its operations with the exception of those involved in deportations, but exclude reforms that Democrats want.</p><p>The Senate minority leader, Chuck Schumer, quickly shot down the offer, and said Democrats had countered with a measure that coupled DHS funding with a host of new guardrails on immigration enforcement operations – something the party has insisted on for months.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/25/senate-republicans-bill-iran-war-dhs-shutdown\">Continue reading...</a>",
-      "date_published": "2026-03-25T21:13:03+00:00",
-      "authors": [
-        {
-          "name": "Chris Stein and Shrai Popat"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US Senate",
-        "Republicans",
-        "US news",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -872,6 +1149,28 @@
       "lang": "en"
     },
     {
+      "id": "38fd678ff947992aaed14450c8c2ffef342a07570b293bc67ae7d510bd0da386",
+      "url": "https://www.elmundo.es/internacional/2026/03/25/69c43f04e9cf4a75378b45b9.html",
+      "title": "La première femme archevêque de Cantorbéry prend ses fonctions, en souvenir des victimes des échecs de l'Église",
+      "content_html": "Le représentant ecclésiastique a insisté sur \"ne pas négliger ni minimiser la douleur ressentie\"",
+      "date_published": "2026-03-25T20:08:17+00:00",
+      "authors": [
+        {
+          "name": "Europa Press"
+        }
+      ],
+      "tags": [
+        "Reino Unido",
+        "Religión",
+        "internacional"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "85a5e358088d0e87b25b9087eb76fbbe5511bc368c964bcfa2c7f2232a82d6a0",
       "url": "https://www.timesofisrael.com/iran-officials-reply-coldly-to-truce-offer-as-us-warns-of-harsher-strikes-if-rejected/",
       "title": "Iran officials reply coldly to truce offer as US warns of harsher strikes if rejected",
@@ -1323,7 +1622,7 @@
     {
       "id": "57305d3dfdfe3f269ef9c93ae04d2c037ed4505ca03df959c5ea91d6c480bc8c",
       "url": "https://ici.radio-canada.ca/nouvelle/2241729/jean-philippe-wauthier-retour-journee-encore-jeune",
-      "title": "Jean-Philippe Wauthier de retour à la barre de La journée est (encore) jeune",
+      "title": "Jean-Philippe Wauthier de retour à la barre de La journée (est encore jeune)",
       "content_html": "<p>Jean-Sébastien Girard se prépare de son côté à revenir à l&#x27;animation de <em>Bonsoir bonsoir!</em> à ICI&nbsp;Télé.</p>",
       "date_published": "2026-03-25T19:14:50+00:00",
       "authors": [],
@@ -1578,20 +1877,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8c0bdbc454d6a22bbc5ba97d81e2182daf7d2040307d9fa40b02034d8f34ccfe",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241640/legault-demande-demission-rousseau-air-canada",
-      "title": "Québec demande la démission du président d’Air Canada, Michael Rousseau",
-      "content_html": "<p>Le Commissariat aux langues officielles indique avoir reçu 795&nbsp;plaintes concernant son message.</p>",
-      "date_published": "2026-03-25T18:51:42+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -2048,20 +2333,6 @@
       "lang": "en"
     },
     {
-      "id": "77f362aea4985b788ae3a06340aa40d8d09b6da0a23f6ba8630530673662b950",
-      "url": "https://ici.radio-canada.ca/info/videos/1-10626388/administration-trump-a-t-elle-commis-un-delit-initie",
-      "title": "L’administration Trump a-t-elle commis un délit d’initié?",
-      "content_html": "<p>Le président américain Donald Trump a affirmé lundi que de « très bonnes discussions pour une résolution totale des hostilités ». Cette déclaration, faite tout juste avant l’ouverture des marchés boursiers nord-américains, a fait instantanément chuter les cours du pétrole. Une quinzaine de minutes avant ce message de président, des contrats pétroliers de 580 millions de dollars ont été échangés, une somme inhabituellement élevée.Y a-t-il eu délit d’initié. Les explications de notre chroniqueur économique Pierre-Yves McSween.</p>",
-      "date_published": "2026-03-25T17:54:27+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "375803343beeea6409bf20be3fd8ea9bf1426d30a79c61fe0726d9b616f2165f",
       "url": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss",
       "title": "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
@@ -2076,20 +2347,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "5564e363a6507fcc9f5442476f6245a6c880831139ae6766bf51482713e975b0",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241676/chiens-domestication-europe-nouvelle-datation",
-      "title": "Les chiens nous accompagnent depuis 16 000 ans",
-      "content_html": "<p>Jusqu&#x27;à présent, la plus ancienne trace d&#x27;un chien remontait à 10&nbsp;900&nbsp;ans.</p>",
-      "date_published": "2026-03-25T17:48:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "42b339b06c7d2e788603d5a11734f2a14af6a34a9bbc1a0b3b5e912d62d23443",
@@ -2881,22 +3138,6 @@
       "lang": "fr"
     },
     {
-      "id": "ce8c3aea4bc344e544439c6d13242ef37b684292e4d1c8dbe24db726a7fa2ca9",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/protest-in-india-over-cooking-gas-crisis?traffic_source=rss",
-      "title": "Protest in India over cooking gas crisis",
-      "content_html": "Indian opposition parties have staged a protest over the shortage of cooking gas triggered by the war on Iran.",
-      "date_published": "2026-03-25T16:36:39+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "426950703441615da26ca5f1a158abacf39825513322078583ecb51d9925296a",
       "url": "https://www.timesofisrael.com/cyprus-begins-talks-with-uk-over-future-of-british-bases-after-iranian-drone-strike/",
       "title": "Cyprus begins talks with UK over future of British bases after Iranian drone strike",
@@ -2913,24 +3154,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4cb510711a280b8aff14700d35b96f3c58d9a16e22e21c91845122266669f463",
-      "url": "https://www.france24.com/en/where-do-french-parties-stand-a-year-before-the-presidential-election",
-      "title": "Where do French parties stand a year before the presidential election?",
-      "content_html": "With local elections done and dusted, France is pivoting towards electing a president to replace Emmanuel Macron in 2027. The local elections have revealed that the political landscape is fragmented, and that party alliances have reshaped. On the left, the socialist party is in turmoil over an alliance with the radical left party France Unbowed. On the right, the question is whether to move toward the centre of further shift right, towards the far-right party National Rally. FRANCE 24's Clovis Casali looks at where parties stand a year from the election.",
-      "date_published": "2026-03-25T16:34:21+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -2969,40 +3192,6 @@
       "lang": "en"
     },
     {
-      "id": "2c6e3b18397a3e43dfd7d33bdf7dda161a6399d73ce303368ef645276fe64af3",
-      "url": "https://www.france24.com/en/ex-eu-border-chief-faces-french-investigation-for-crimes-against-humanity",
-      "title": "Ex-EU border chief faces French investigation for crimes against humanity",
-      "content_html": "The Paris Court of Appeal opened an investigation into the former head of the EU Border agency on March 24 for potentially participating in crimes against humanity. The former border chief, Fabrice Leggeri resigned in 2022 following allegations of mistreatment of migrants at EU borders. Now a lawmaker for France's far-right National Rally party, he denies the allegations.",
-      "date_published": "2026-03-25T16:32:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "16b1462f2c9d411e8920b59f3de1ced4ed3fb91e6a6ec811b7925662e92a48eb",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss",
-      "title": "Deadly US attack on Iraqi military base sparks condemnation",
-      "content_html": "The US killed seven Iraqi soldiers in a strike in Iraq as it targeted the Popular Mobilisation Forces.",
-      "date_published": "2026-03-25T16:31:23+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f278f1df65a402f9110b3c969f4bba5f1ea86ead11d60882aece02202e01cf58",
       "url": "https://www.themoscowtimes.com/2026/03/25/vietnams-pm-meets-with-putin-to-discuss-nuclear-power-and-investment-a92335",
       "title": "Vietnam’s PM Meets With Putin to Discuss Nuclear Power and Investment",
@@ -3013,42 +3202,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f224efe07f9c1230bf00eb1cfbda7cf89e5bd9f48b631ec54b10db21df75807e",
-      "url": "https://www.france24.com/en/denmark-faces-tough-coalition-talks-following-election",
-      "title": "Denmark faces tough coalition talks following election",
-      "content_html": "Prime Minister Mette Frederiksen handed in her government's resignation. The move comes after her three-party coalition suffered a large defeat in March 25's snap elections. Frederiksen faces tough coalition talks if she wants to remain PM. Since neither the left nor right leaning blocs won a majority in Denmark, Frederiksen's fate likely lies is in the hands of the centrist Moderate party of Lars Lugge Rasmussen, a foreign minister in her own government.",
-      "date_published": "2026-03-25T16:26:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "393e517964996b189ec51ec08dc28fb115d4e9f09d1584618409a9839d98e60e",
-      "url": "https://www.france24.com/en/heritage-sites-in-the-middle-east-under-threat-due-to-conflict",
-      "title": "Heritage sites in the Middle East under threat due to conflict",
-      "content_html": "The Middle East war is having an impact on the region's heritage sites. Archaeological and Unesco heritage sites have been collateral damage in the war, on all sides. Unesco believes at least 6 heritage sites in the Middle East have been damaged, the Tyre site in Lebanon, four in Iran and the White City in Israel. In Iran, the historic city of isfahan and the Golestan palace in Tehran were also damaged.",
-      "date_published": "2026-03-25T16:24:27+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3065,24 +3218,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0bbb2cf4e2270699622ec0b5a1cbc5a6fb250a75a6605dee0e4b41eb0186e837",
-      "url": "https://www.france24.com/en/iran-dismisses-us-15-point-peace-plan-issues-its-own-ceasefire-proposal",
-      "title": "Iran 'dismisses' US 15-point peace plan, issues its own ceasefire proposal",
-      "content_html": "Iran on March 25 an American plan to pause the war in the Middle East, issuing its own counterproposal instead, as it launched more attacks on Israel and Gulf Arab countries. Its own plan includes a halt to killings of its officials, means to make sure no other war is waged against it, reparations for the war, the end of hostilities and Iran’s “exercise of sovereignty over the Strait of Hormuz.” FRANCE 24's Philip Turle takes a look.",
-      "date_published": "2026-03-25T16:21:31+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3119,24 +3254,6 @@
       "lang": "fr"
     },
     {
-      "id": "1e0d8c12cc84588ca87425485d3014f8d5426624a80107786ad9edaa80481f29",
-      "url": "https://www.france24.com/en/emblematic-metoo-trial-of-islamic-scholar-tariq-ramadan-awaits-verdict",
-      "title": "Emblematic MeToo trial of Islamic scholar Tariq Ramadan awaits verdict",
-      "content_html": "Tariq Ramadan, a well-known Swiss-Egyptian Islamic scholar, has been tried in absentia for the rape of three women in Paris, with the verdict to fall on March 25. The trial is one of the most emblematic of the MeToo movement in France. He has already been convicted in Switzerland, where he is currently hospitalised for multiple sclerosis - which his medical team judged made him unable to attend his trial in France. FRANCE 24's Angela Diffley looks at the details of the trial, and who the accused is.",
-      "date_published": "2026-03-25T16:14:35+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "521bcb6a54ba0d6ff5f478ea7487b6904d305018bd152afc5897db1aa544c880",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260325-danemark-la-premi%C3%A8re-ministre-sortante-pr%C3%A9sente-sa-d%C3%A9mission-au-roi-qui-va-recevoir-les-partis",
       "title": "Danemark : la Première ministre sortante présente sa démission au roi qui va recevoir les partis",
@@ -3153,24 +3270,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ecd2322b6ceb404218d048e9c7861d59b6efe8035d04b5bfef4a9461559e03bd",
-      "url": "https://www.france24.com/en/cancer-nurse-turned-archbishop-installed-as-first-female-church-of-england-leader",
-      "title": "Cancer nurse turned archbishop installed as first female Church of England leader",
-      "content_html": "A former cancer nurse who became a priest at the age of 40 is to become archbishop of Canterbury, publicly celebrating her election as the first woman to lead the Church of England. Although she was nominated in January, the ceremony marks the symbolic start of her public ministry. Her appointment has been criticised by conservative voices in the Church, who continue to oppose the possibility for women to be priests at all. FRANCE 24's Bénédicte Paviot breaks it down for us.",
-      "date_published": "2026-03-25T16:11:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "2a216e5bfddfbd63fc7e6f616adbdfa10498f22f49fff9ee37f3bcb4afb0c871",
@@ -3703,20 +3802,6 @@
       "lang": "en"
     },
     {
-      "id": "8e1d7f3eb1e8ad6eb734c50b742cf4b33ccbe90c4446f76de161ed10ce85de18",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241623/brookfield-caisse-achat-boralex",
-      "title": "Brookfield et La Caisse achètent le producteur d’énergie renouvelable Boralex",
-      "content_html": "<p>Les deux investisseurs institutionnels offrent 37,25&nbsp;$ par action pour acheter l’entreprise montréalaise.</p>",
-      "date_published": "2026-03-25T14:29:50+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "bf7bfac413365bdae5b6a3920a3a381c2f385c666a18a657e2cf2c27c9b1c651",
       "url": "https://www.ukrinform.net/rubric-polytics/4105463-zelensky-appoints-heads-of-ssu-counterintelligence-and-military-counterintelligence-departments.html",
       "title": "Zelensky appoints heads of SSU counterintelligence and military counterintelligence departments",
@@ -4115,20 +4200,6 @@
       "lang": "en"
     },
     {
-      "id": "aa2853028e3073def93a6097f2f6e592d0c219b342db0c522fb51d27b70eb395",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241582/petrole-gaz-hodgson-pipeline",
-      "title": "Sur la scène énergétique, « le Canada est de retour », mais…",
-      "content_html": "<p>Les entreprises notent l’enthousiasme, mais attendent du concret.</p>",
-      "date_published": "2026-03-25T13:23:29+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f004239cd473d44203ea664ff70fa81ac9ab1a0ad1b5f781183d11a1f1d29ef9",
       "url": "https://www.dw.com/en/can-thailand-s-new-government-deliver-on-growth-promises/a-76526608?maca=en-rss-en-all-1573-rdf",
       "title": "Can Thailand's new government deliver on growth promises?",
@@ -4393,20 +4464,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "5ae491f46d762ce8497b6c2aad4989d59325077735895984601ad3adb5e91024",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241608/humoriste-julien-lacroix-jette-eponge-quitte-scene",
-      "title": "L’humoriste Julien Lacroix jette l’éponge : « trop lourd à porter »",
-      "content_html": "<p>«&nbsp;Ma famille passe avant tout. Et nous sommes fatigués, physiquement, mentalement&nbsp;», a-t-il écrit.</p>",
-      "date_published": "2026-03-25T11:55:05+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "4752764ddeac8f3489a03b1bf54e429eecf4494e07ea2307d4bff53edb48454b",
@@ -4852,34 +4909,6 @@
       "lang": "fr"
     },
     {
-      "id": "9d569169a3bd488d6a3a26840cf37ef9f3d36256ae7a77ace0bd71a26385b843",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241533/etudiants-etrangers-quebec-europe-biron",
-      "title": "Martine Biron en Europe pour « recadrer le message » sur l’accueil des étudiants étrangers",
-      "content_html": "<p>Les représentants des cégeps et des universités y voient une bonne occasion de rectifier le tir.</p>",
-      "date_published": "2026-03-25T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "30147069840a1fb17d38057f0ff3ef2da0f02295d6656910022f0ac8de527f6b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2240722/interruption-grossesse-region-acces",
-      "title": "De Gaspé à Montréal, parcourir 900 km pour obtenir un avortement",
-      "content_html": "<p>En Gaspésie, les interruptions de grossesse chirurgicales ne sont possibles qu’une journée par semaine.</p>",
-      "date_published": "2026-03-25T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "70e80a10a4e6ca79b300e02116967dc175ee67b00b37d1b4c149012ac72cbd31",
       "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
       "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
@@ -5148,8 +5177,8 @@
     {
       "id": "64721298ecbaff482844227e15ccd512196d2dd60a8ba248e8dcaea18bbbc3af",
       "url": "https://elpais.com/internacional/2026-03-25/orban-amigo-de-putin-y-trump-consagra-su-papel-como-el-antagonista-interno-de-la-ue.html",
-      "title": "Orbán, amigo de Putin y Trump, consagra su papel como el antagonista interno de la UE",
-      "content_html": "Orbán en un mitin electoral en Kecskemet, este lunes.",
+      "title": "Orbán, ami de Poutine et Trump, consacre son rôle d’antagoniste interne de l’UE",
+      "content_html": "Orbán lors d'un rassemblement électoral à Kecskemet, ce lundi.",
       "date_published": "2026-03-25T04:30:01+00:00",
       "authors": [
         {
@@ -5352,23 +5381,22 @@
       "lang": "fr"
     },
     {
-      "id": "3cccb05bb666d13110697d71ebe7f53175247556c5e4b0289a756203dc142b1c",
-      "url": "https://www.elmundo.es/internacional/2026/03/25/69bdab1ae9cf4ac47a8b45d7.html",
-      "title": "Tim Marshall, auteur de « Prisonniers de géographie » : « Si les États-Unis bombardaient les oléoducs de l'île Jark, l'Iran serait détruit. Il pourrait lui falloir des années pour être exclu du marché. »",
-      "content_html": "Le journaliste britannique, expert en géopolitique et auteur à succès considère l’Iran comme un pays impossible à conquérir, mais estime que toute la guerre dépend de deux îles du détroit d’Ormuz.",
+      "id": "49912059ab96440ee1a4b11f5e1c9e4208543b12f02fa05f11177c4c36273730",
+      "url": "https://www.elmundo.es/internacional/2026/03/25/69c27a30fc6c83ac558b45c1.html",
+      "title": "Le Pakistan, un médiateur clé inattendu entre les États-Unis et l’Iran, alors qu’il reste coincé dans son propre conflit avec l’Afghanistan",
+      "content_html": "Islamabad pourrait être le lieu d'un cycle de négociations entre de hauts responsables américains et iraniens",
       "date_published": "2026-03-25T01:39:12+00:00",
       "authors": [
         {
-          "name": "Pablo Herraiz"
+          "name": "Lucas de la Cal"
         }
       ],
       "tags": [
-        "Guerra en Irán",
-        "Irán",
+        "Pakistán",
         "Estados Unidos",
-        "Israel",
-        "NLPremium",
-        "Artículos Pablo Herraiz"
+        "Irán",
+        "Guerra en Irán",
+        "Artículos Lucas de la Cal"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -6206,7 +6234,7 @@
     {
       "id": "66ca005b94ede6395b4dcd82c1249234ee1ad034dc61e4b41cd110c4f1359e73",
       "url": "https://www.elmundo.es/internacional/2026/03/24/69c2a9a7fc6c8360708b457a.html",
-      "title": "Poursuites contre la « mafia » du trafic de drogue et nouvelle vague d’arrestations à Marseille",
+      "title": "Poursuites contre la « mafia » du trafic de drogue et nouvelle vague d'arrestations à Marseille",
       "content_html": "Le procès et les nouvelles arrestations s'inscrivent dans le cadre de la plus grande offensive de la dernière décennie contre le trafic de drogue dans la deuxième ville de France.",
       "date_published": "2026-03-24T15:42:41+00:00",
       "authors": [
@@ -6999,27 +7027,6 @@
       "lang": "en"
     },
     {
-      "id": "bc99b7c2ce8debac2ade7839d43ad1753a7228f45edcb96b17a062f901fd76bf",
-      "url": "https://www.elmundo.es/internacional/2026/03/24/69c1db54e9cf4a660b8b4585.html",
-      "title": "Bolsonaro sort des soins intensifs et la pression augmente pour qu'il retourne en résidence surveillée",
-      "content_html": "L'amélioration de l'état de santé de Bolsonaro coïncide avec la déclaration du bureau du procureur général (PGR), qui a exprimé son soutien au retour de l'ancien président en résidence surveillée.",
-      "date_published": "2026-03-24T00:31:18+00:00",
-      "authors": [
-        {
-          "name": "Sebastián Fest"
-        }
-      ],
-      "tags": [
-        "Jair Bolsonaro",
-        "Brasil"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "4336ba91d542649809441ab6e11ce8d3042fc059abe8a929ff33ae8d0ca52d22",
       "url": "https://www.theguardian.com/world/2026/mar/24/iran-war-fuel-shortages-affecting-readers-worldwide",
       "title": "‘We consider every mile we drive’: how fuel shortages are affecting readers worldwide",
@@ -7099,27 +7106,6 @@
       "lang": "en"
     },
     {
-      "id": "54d4e6dfa73e8ab83f53faf5d7864f02b068a02332d3a6c5570ee429c70afbc4",
-      "url": "https://www.elmundo.es/internacional/2026/03/24/69c1660efc6c8329508b458d.html",
-      "title": "Frederiksen, affaibli, préfère le centre à la gauche pour gouverner le Danemark : \"Il ne s'agit pas de rouge ou de bleu, mais de l'avenir\"",
-      "content_html": "Les sondages prévoient une nette victoire du Premier ministre social-démocrate aux élections législatives d'aujourd'hui, mais avec un résultat historiquement mauvais qui compliquerait les négociations de coalition.",
-      "date_published": "2026-03-23T23:05:02+00:00",
-      "authors": [
-        {
-          "name": "Pedro Poza Maupain"
-        }
-      ],
-      "tags": [
-        "Dinamarca",
-        "Europa"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cee5b20ffd0a641e82471bad35dddd989218b493fa7a95aad393e4327377cc4c",
       "url": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
       "title": "How the deadly LaGuardia Airport crash unfolded",
@@ -7132,52 +7118,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "33696633c4d06bebdbaeed0e66fe769b5b1097ef0e22f7b37d08fec350e96b71",
-      "url": "https://www.elmundo.es/internacional/2026/03/23/69c15c2121efa037148b4595.html",
-      "title": "Les pays du Golfe durcissent le ton avec l'Iran : \"Nous ne nous laisserons jamais faire chanter par les terroristes\"",
-      "content_html": "Les monarchies changent leur neutralité pour un alignement avec les Etats-Unis, qu'elles demandent pour mettre fin à la menace du régime de Téhéran.",
-      "date_published": "2026-03-23T21:49:34+00:00",
-      "authors": [
-        {
-          "name": "Alberto Rojas"
-        }
-      ],
-      "tags": [
-        "Guerra en Irán",
-        "Irán",
-        "Estados Unidos",
-        "Arabia Saudí",
-        "Qatar",
-        "Artículos Alberto Rojas",
-        "NLPremium"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8071ee04a7381470fd59b372e8b051634b4870a67ee69677ff2f0d2c29896c76",
-      "url": "https://www.elmundo.es/internacional/2026/03/23/69c196dfe4d4d87a538b457f.html",
-      "title": "Opération sauver le « camarade Orban »",
-      "content_html": "Vladimir Poutine franchit toutes les limites pour maintenir au pouvoir son \"pion\" dans l'UE",
-      "date_published": "2026-03-23T21:47:09+00:00",
-      "authors": [
-        {
-          "name": "Xavier Colás"
-        }
-      ],
-      "tags": [
-        "NLPremium"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "94b4198c029765f73af19d48f3b0cc1cd7de3677fc116054bbabf810cd1637cf",
@@ -7430,7 +7370,7 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "8654b01d07754205a34d614632ef01b5c0b80cec92e78b47b9c7611b0573e829",
