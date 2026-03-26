@@ -5,20 +5,79 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "e7f3342f34cba5bcc3e7b17ccb9015905829d38ec82f763a2bc48a06ce1dcef4",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-frappes-se-poursuivent-partout-dans-la-region-alors-que-trump-persiste-a-affirmer-que-liran-negocie-sur-son-plan-de-paix-20260326_6W2DZYUHFNEXJBYBN3A2XVFH2U/",
-      "title": "Guerre au Moyen-Orient : Donald Trump repousse jusqu’au 6 avril son ultimatum avant d’éventuelles frappes contre les centrales électriques en Iran",
-      "content_html": "Donald Trump à la Maison Blanche, le 26 mars 2026, à Washington.",
-      "date_published": "2026-03-26T21:10:11+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP"
-        }
-      ],
+      "id": "7dfce7777949f2cba432a570aa08af89491a91c2f4a0c01367b99b9ab1a92641",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241984/ontario-budget-2026-deficit-trump",
+      "title": "L’Ontario dans la tourmente de Trump : Doug Ford « prudent » dans son budget",
+      "content_html": "<p>Face à l’incertitude liée au président Donald Trump, l’Ontario reporte d’un an l’élimination du déficit.</p>",
+      "date_published": "2026-03-26T21:44:00+00:00",
+      "authors": [],
       "tags": [],
       "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b460ec8bfc3d24209e08bf602ac83655d6c78e54ff1dad532ef4e8fe0e2ce902",
+      "url": "https://www.dw.com/en/us-judge-declines-to-dismiss-maduro-case-over-legal-fees/a-76555341?maca=en-rss-en-all-1573-rdf",
+      "title": "US Judge declines to dismiss Maduro case over legal fees",
+      "content_html": "Nicolas Maduro asked the judge to dismiss the case by arguing he did not have sufficient personal funds for his legal defense. The Trump administration has barred the Venezuelan government from paying the fees.",
+      "date_published": "2026-03-26T21:41:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e8a8ec2488b29133080d76f5670b2d84d65284573d0e0e7debc4e88c8cec4c79",
+      "url": "https://ici.radio-canada.ca/nouvelle/2241866/mort-personnes-agees-itinerance-montreal-mairesse",
+      "title": "Deux personnes itinérantes décédées à Montréal : la mairesse se dit « impuissante »",
+      "content_html": "<p>Elle déplore la décision du fédéral de ne pas renouveler un financement pour lutter contre l&#x27;itinérance.</p>",
+      "date_published": "2026-03-26T21:36:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3f2c3e7895f57f4cde17620a3eafcf202560230cf908137f56bc6c25c228777e",
+      "url": "https://www.timesofisrael.com/amid-war-iranian-hardliners-ramp-up-once-taboo-calls-to-seek-nuclear-bomb/",
+      "title": "Amid war, Iranian hardliners ramp up once-taboo calls to seek nuclear bomb",
+      "content_html": "<p>Killing of security chief Ali Larijani has made it more difficult for less hawkish figures to push back on IRGC hardliners' support for building a bomb and bolting NPT, sources say</p>\n<p>The post <a href=\"https://www.timesofisrael.com/amid-war-iranian-hardliners-ramp-up-once-taboo-calls-to-seek-nuclear-bomb/\">Amid war, Iranian hardliners ramp up once-taboo calls to seek nuclear bomb</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AP26083587833190-1-e1774550910561-1024x640.jpg\" title=\"Amid war, Iranian hardliners ramp up once-taboo calls to seek nuclear bomb\" width=\"160\" /></figure>",
+      "date_published": "2026-03-26T21:36:03+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "2026 US-Israel war with Iran",
+        "nuclear weapons",
+        "NPT Nuclear Non-Proliferation Treaty"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d6732536787a940c576a99f883973a3ca88bd970024a836f908e469ec051469f",
+      "url": "https://www.lemonde.fr/economie/article/2026/03/26/shein-temu-l-ue-s-attaque-aux-petits-colis-des-sites-de-vente-en-ligne-chinois_6674440_3234.html",
+      "title": "Shein, Temu... L’UE s’attaque aux petits colis des sites de vente en ligne chinois",
+      "content_html": "Inspection d’un colis par un douanier français dans un entrepôt de Lesquin (Hauts-de-France), le 12 novembre 2025.",
+      "date_published": "2026-03-26T21:32:44+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -26,8 +85,8 @@
       "id": "f1083b4aa48dae0b830175ec1ace7a7f3d7982627486aaa2e0a14497c14da26d",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb",
       "title": "News live: Tropical Cyclone Narelle bears down on WA towns; Trump takes another swipe at ‘not great’ Australia",
-      "content_html": "<p>Cyclone has re-intensified to category-four storm off the coast near Exmouth. Follow today’s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Power outages continue across Sydney this morning after heavy storms battered the city and surrounding areas overnight.</p><p>More than 10,000 sites were reportedly affected by power outages last night after lightning, hail and wind gusts of up to 80km hit the the city.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-03-26T21:09:43+00:00",
+      "content_html": "<p>Cyclone has re-intensified to category-four storm off the coast near Exmouth. Follow today’s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Power outages in Sydney after storms hit city overnight</strong></p><p>Power outages continue across Sydney this morning after heavy storms battered the city and surrounding areas overnight.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/mar/27/tropical-cyclone-narelle-fuel-crisis-petrol-cost-of-living-inflation-iran-war-storm-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-03-26T21:31:37+00:00",
       "authors": [
         {
           "name": "Stephanie Convery"
@@ -50,16 +109,157 @@
       "lang": "en"
     },
     {
-      "id": "e8a8ec2488b29133080d76f5670b2d84d65284573d0e0e7debc4e88c8cec4c79",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241866/mort-personnes-agees-itinerance-montreal-mairesse",
-      "title": "Deux personnes itinérantes décédées à Montréal : la mairesse se dit « impuissante »",
-      "content_html": "<p>«&nbsp;Ce n’est pas normal qu’on perde des gens quand on a les moyens de les sauver&nbsp;», a dit la mairesse, émotive.</p>",
-      "date_published": "2026-03-26T21:09:04+00:00",
+      "id": "3403f476a3ac7856cb18191107a6828af8aaf07c01404d090c45be47ac4677d1",
+      "url": "https://www.france24.com/en/south-africa-disinvited-from-g7-in-france",
+      "title": "South Africa disinvited from G7 in France",
+      "content_html": "In tonight's edition, South Africa says France rescinded President Cyril Ramaphosa's invitation to the G7 Leaders Summit in June, alleging Paris bent to the demands of the US. Also, Ethiopia steps up its bid to join the World Trade Organization, over 2 decades on since applying for accession.And  we take a look at the role of accessible and inclusive cybersecurity.",
+      "date_published": "2026-03-26T21:24:11+00:00",
+      "authors": [
+        {
+          "name": "Vedika BAHL"
+        }
+      ],
+      "tags": [
+        "Eye on Africa"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e3ac1990e5af3965ac7d5af3014fea755b8282679e3358bea8946eeb4f85bba",
+      "url": "https://ici.radio-canada.ca/nouvelle/2242029/depouilles-pilotes-morts-aeroport-new-york",
+      "title": "Les dépouilles des pilotes morts à l’aéroport LaGuardia rapatriées au Canada",
+      "content_html": "<p>Les passagers blessés pourraient poursuivre la compagnie et l’autorité portuaire. </p>",
+      "date_published": "2026-03-26T21:19:53+00:00",
       "authors": [],
       "tags": [],
       "source": {
         "name": "Radio-Canada | Info | A-la-une",
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3c2a89721ff51e1886efa657ece62d655a5244b9bdfb2af2f811f5dd38887f57",
+      "url": "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition",
+      "title": "Venezuelans deported by US detail fresh claims of torture and abuse at El Salvador mega-prison",
+      "content_html": "<p>Petition seeks accountability from Salvadorian authorities over human rights violations at notorious Cecot facility</p><p>A group of 18 Venezuelan men whom the US expelled a notorious Salvadorian mega-prison are demanding that Salvadorian authorities be held internationally accountable for violation of human rights – detailing new allegations of torture, sexual assault and medical neglect.</p><p>A new petition, <a href=\"https://www.global-council.org/blog-and-news/blog/one-year-on-venezuelans-file-new-case-seeking-justice-for-torture-in-el-salvador-s-cecot-prison\">filed on Thursday</a> before the Inter-American Commission on Human Rights, alleges that El Salvador violated the human rights of these men, who were expelled to El Salvador’s Terrorism Confinement Center (Cecot) last year without charge.</p> <a href=\"https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition\">Continue reading...</a>",
+      "date_published": "2026-03-26T21:14:41+00:00",
+      "authors": [
+        {
+          "name": "Maanvi Singh"
+        }
+      ],
+      "tags": [
+        "El Salvador",
+        "World news",
+        "Americas",
+        "Venezuela",
+        "US foreign policy",
+        "US immigration",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3681aa31f9fb3a2dadf2eb7e3a88d776322b0f9a19f56a45acdb6f44a3addea6",
+      "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
+      "title": "Middle East crisis live: Trump says he is ‘pausing’ planned destruction of Iranian energy sites as he claims talks are ‘ongoing’",
+      "content_html": "<p>US president says he is extending deadline to Monday 6 April as he claims Iran has let some tankers through strait of Hormuz as a ‘present’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/25/trump-iran-war-analysis\">Analysis: Trump pitches peace plan but military buildups rarely veer to off-ramp</a></p></li></ul><p><strong>An Iranian envoy has said South Korean ships can pass through the strait of Hormuz only after coordinating with Tehran</strong>, the Yonhap News Agency has reported.</p><p>Such an agreement had to be reached in advance of the transit, said <strong>Saeed Khuzechi</strong>, the Iranian ambassador to South Korea, at a press conference in response to a question about guarantees for South Korean vessels to navigate the vital conduit for oil.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah\">Continue reading...</a>",
+      "date_published": "2026-03-26T21:13:25+00:00",
+      "authors": [
+        {
+          "name": "Lucy Campbell (now); Tom Ambrose, Taz Ali and Adam Fulton (earlier)"
+        }
+      ],
+      "tags": [
+        "US-Israel war on Iran",
+        "Iran",
+        "Israel",
+        "Trump administration",
+        "Lebanon",
+        "Strait of Hormuz",
+        "Hezbollah",
+        "Donald Trump",
+        "Middle East and north Africa"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3209c98faa89d48508e0800c4d70e7915bea0d324649491ea4ab4be1c81c2bac",
+      "url": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest",
+      "title": "Senate reportedly makes progress on DHS funding deal amid turmoil at US airports – live",
+      "content_html": "<p>Senate majority leader John Thune tells Punchbowl News he thinks Democrats have Republicans ‘last and final’ offer to strike a funding deal</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p>We are awaiting the start of Donald Trump’s latest cabinet meeting, which was due to start at 10am eastern time. This will be the 11th such session Trump has staged since re-entering the White House in January last year. Previous meetings have been open and freewheeling – as well as newsworthy.</p><p>The Pentagon is preparing plans for a “final blow” in the war with Iran that could include deploying ground troops and a massive bombing campaign, <a href=\"https://www.axios.com/2026/03/26/iran-invasion-plans-kharg-island-trump?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=newsletter_axiosam&amp;stream=top\">Axios reports</a>, citing four sources – including two US officials.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest\">Continue reading...</a>",
+      "date_published": "2026-03-26T21:12:31+00:00",
+      "authors": [
+        {
+          "name": "Coral Murphy Marcos (now); Robert Tait, Lucy Campbell and Tom Ambrose (earlier)"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "US immigration",
+        "US news",
+        "US politics",
+        "Donald Trump",
+        "Iran",
+        "US Congress"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1ea8f17f41e415e088fe4daf5f4a4de8c3ae58c5f927739bfbeea0b8f40f0454",
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day",
+      "title": "California lawmakers vote to rename Cesar Chavez Day as Farmworkers Day",
+      "content_html": "<p>Gavin Newsom set to sign bill to rename 31 March holiday following sexual abuse allegations against labor leader</p><p>California lawmakers have voted to rename Cesar Chavez Day as Farmworkers Day in the wake of shocking allegations that the labor leader sexually abused women and young girls.</p><p>Gavin Newsom, the California governor, is expected to sign the bill on Thursday authorizing the renaming ahead of the state holiday on 31 March. The state has observed the holiday honoring Chavez, who in the 1960s built a major farm-worker labor rights movement California’s agricultural heartland, for more than two decades.</p><p><em>The Associated Press contributed reporting</em></p> <a href=\"https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day\">Continue reading...</a>",
+      "date_published": "2026-03-26T21:12:08+00:00",
+      "authors": [
+        {
+          "name": "Dani Anguiano and agencies"
+        }
+      ],
+      "tags": [
+        "California",
+        "US farm workers",
+        "West Coast",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e7f3342f34cba5bcc3e7b17ccb9015905829d38ec82f763a2bc48a06ce1dcef4",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-frappes-se-poursuivent-partout-dans-la-region-alors-que-trump-persiste-a-affirmer-que-liran-negocie-sur-son-plan-de-paix-20260326_6W2DZYUHFNEXJBYBN3A2XVFH2U/",
+      "title": "Guerre au Moyen-Orient : Donald Trump repousse jusqu’au 6 avril son ultimatum avant d’éventuelles frappes contre les centrales électriques en Iran",
+      "content_html": "Donald Trump à la Maison Blanche, le 26 mars 2026, à Washington.",
+      "date_published": "2026-03-26T21:10:11+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
       },
       "lang": "fr"
     },
@@ -99,7 +299,7 @@
       "id": "3e4a35a0e91cf982b280f954792043767413fa7cddcc08febe64fc91fef3518b",
       "url": "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran",
       "title": "US markets see biggest slump since start of US-Israel war on Iran",
-      "content_html": "<p>Dow closed 450 points down and S&amp;P dipped 1.7% while Nasdaq fell 2.3% into correction territory</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>US markets saw their biggest slump since the start of the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Israel war with Iran</a> on Thursday as <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> said the conflict’s impact on oil prices hasn’t been as bad as he expected.</p><p>The Dow closed 450 points down, while the S&amp;P 500 dipped 1.7%. The tech-heavy Nasdaq fell 2.3%, plunging into correction territory, which happens when an index falls at least 10% below its most recent peak.</p> <a href=\"https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran\">Continue reading...</a>",
+      "content_html": "<p>Dow closed 450 points down and S&amp;P dipped 1.7% while Nasdaq fell 2.3% into correction territory</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>US markets saw their biggest slump since the start of the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US-Israel war with Iran</a> on Thursday as <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> said the conflict’s impact on oil prices had not been as bad as he expected.</p><p>The Dow closed 450 points down, while the S&amp;P 500 dipped 1.7%. The tech-heavy Nasdaq fell 2.3%, plunging into correction territory, which happens when an index falls at least 10% below its most recent peak.</p> <a href=\"https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran\">Continue reading...</a>",
       "date_published": "2026-03-26T21:01:18+00:00",
       "authors": [
         {
@@ -141,34 +341,6 @@
       "lang": "en"
     },
     {
-      "id": "3681aa31f9fb3a2dadf2eb7e3a88d776322b0f9a19f56a45acdb6f44a3addea6",
-      "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah",
-      "title": "Middle East crisis live: Trump says he is ‘pausing’ planned destruction of Iranian energy sites as he claims talks are ‘ongoing’",
-      "content_html": "<p>US president says he is extending deadline to Monday 6 April as he claims Iran has let some tankers through strait of Hormuz as a ‘present’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/mar/25/trump-iran-war-analysis\">Analysis: Trump pitches peace plan but military buildups rarely veer to off-ramp</a></p></li></ul><p><strong>An Iranian envoy has said South Korean ships can pass through the strait of Hormuz only after coordinating with Tehran</strong>, the Yonhap News Agency has reported.</p><p>Such an agreement had to be reached in advance of the transit, said <strong>Saeed Khuzechi</strong>, the Iranian ambassador to South Korea, at a press conference in response to a question about guarantees for South Korean vessels to navigate the vital conduit for oil.</p> <a href=\"https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah\">Continue reading...</a>",
-      "date_published": "2026-03-26T20:59:08+00:00",
-      "authors": [
-        {
-          "name": "Lucy Campbell (now); Tom Ambrose, Taz Ali and Adam Fulton (earlier)"
-        }
-      ],
-      "tags": [
-        "US-Israel war on Iran",
-        "Iran",
-        "Israel",
-        "Trump administration",
-        "Lebanon",
-        "Strait of Hormuz",
-        "Hezbollah",
-        "Donald Trump",
-        "Middle East and north Africa"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "988f9b472c75ed5ca8a6413b624449a4732d5d715b19e4abd2f1ded181067537",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iran-placing-messages-on-missiles-as-war-of-narratives-intensifies?traffic_source=rss",
       "title": "Iran placing messages on missiles as war of narratives intensifies",
@@ -181,46 +353,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7dfce7777949f2cba432a570aa08af89491a91c2f4a0c01367b99b9ab1a92641",
-      "url": "https://ici.radio-canada.ca/nouvelle/2241984/ontario-budget-2026-deficit-trump",
-      "title": "L’Ontario dans la tourmente de Trump : Doug Ford « prudent » dans son budget",
-      "content_html": "<p>Face à l’incertitude liée au président Donald Trump, l’Ontario reporte d’un an l’élimination du déficit.</p>",
-      "date_published": "2026-03-26T20:53:55+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "3209c98faa89d48508e0800c4d70e7915bea0d324649491ea4ab4be1c81c2bac",
-      "url": "https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest",
-      "title": "Senate reportedly makes progress on DHS funding deal amid turmoil at US airports – live",
-      "content_html": "<p>Senate majority leader John Thune tells Punchbowl News he thinks Democrats have Republicans ‘last and final’ offer to strike a funding deal</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p>We are awaiting the start of Donald Trump’s latest cabinet meeting, which was due to start at 10am eastern time. This will be the 11th such session Trump has staged since re-entering the White House in January last year. Previous meetings have been open and freewheeling – as well as newsworthy.</p><p>The Pentagon is preparing plans for a “final blow” in the war with Iran that could include deploying ground troops and a massive bombing campaign, <a href=\"https://www.axios.com/2026/03/26/iran-invasion-plans-kharg-island-trump?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=newsletter_axiosam&amp;stream=top\">Axios reports</a>, citing four sources – including two US officials.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/26/tsa-dhs-shutdown-airports-ice-trump-administration-latest\">Continue reading...</a>",
-      "date_published": "2026-03-26T20:53:46+00:00",
-      "authors": [
-        {
-          "name": "Coral Murphy Marcos (now); Robert Tait, Lucy Campbell and Tom Ambrose (earlier)"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "US immigration",
-        "US news",
-        "US politics",
-        "Donald Trump",
-        "Iran",
-        "US Congress"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -396,7 +528,7 @@
       "id": "1df0e8f1b6d4e69f3e217a1a80115f399300174f97ec148a2a44373a9f5a926a",
       "url": "https://ici.radio-canada.ca/nouvelle/2242001/fiasco-saaqclic-upac-ibm-lgs-litige",
       "title": "Fiasco SAAQclic : LGS barre la route à l’UPAC",
-      "content_html": "<p>La firme refuse de lever le secret professionnel entourant un pan crucial de l&#x27;histoire de SAAQclic.</p>",
+      "content_html": "<p>La firme refuse de lever le secret professionnel entourant un pan crucial de l&#x27;histoire de SAAQclic. </p>",
       "date_published": "2026-03-26T20:34:39+00:00",
       "authors": [],
       "tags": [],
@@ -1087,29 +1219,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1ea8f17f41e415e088fe4daf5f4a4de8c3ae58c5f927739bfbeea0b8f40f0454",
-      "url": "https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day",
-      "title": "California lawmakers vote to rename Cesar Chavez Day as Farmworkers Day",
-      "content_html": "<p>Gavin Newsom set to sign bill to rename 31 March holiday following sexual abuse allegations against labor leader</p><p><a href=\"https://www.theguardian.com/us-news/california\">California</a> lawmakers have voted to rename Cesar Chavez Day as Farmworkers Day in an effort to reconcile the Latino labor leader’s legacy with explosive sexual abuse allegations before the state holiday on 31 March.</p><p>The state’s Democratic governor, <a href=\"https://www.theguardian.com/us-news/gavin-newsom\">Gavin Newsom</a>, is expected to quickly sign the bill.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/26/cesar-chavez-day-california-farmworkers-day\">Continue reading...</a>",
-      "date_published": "2026-03-26T18:48:04+00:00",
-      "authors": [
-        {
-          "name": "Associated Press in Sacramento"
-        }
-      ],
-      "tags": [
-        "California",
-        "US farm workers",
-        "West Coast",
-        "US news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3522,24 +3631,6 @@
       "lang": "fr"
     },
     {
-      "id": "2bbd44473cf5156f0a65dbb789e78317e186fb40096a720f2e8d30aaa63bcacd",
-      "url": "https://www.france24.com/en/video/20260326-iraq-caught-between-us-and-iran-facing-attacks-from-both-warring-sides-iran-aligned-actors-within",
-      "title": "Iraq caught between US and Iran, facing attacks from both warring sides & Iran-aligned actors within",
-      "content_html": "Oliver Farry is pleased to welcome Hayder Al-Shakeri, Research Fellow with the MENA programme at Chatham House. Al-Shakeri describes Iraq as a state navigating a precarious balance between two powerful allies whose conflict is increasingly unfolding on its own territory. This position is not merely diplomatic but deeply structural, rooted in economic dependence, security arrangements, and geographic realities that bind Iraq simultaneously to both Washington and Tehran. The lack of strong institutions, and a fully-functioning central government, constrains the state’s ability to respond.",
-      "date_published": "2026-03-26T14:24:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ff09b603b833d70d743880a6171915ed17b5ba1feeadb1c8ef96675e546bd99d",
       "url": "https://www.ukrinform.net/rubric-polytics/4105885-mep-zalimas-leak-of-sensitive-eulevel-data-should-be-treated-as-eulevel-crime.html",
       "title": "MEP Zalimas: Leak of sensitive EU-level data should be treated as EU-level crime",
@@ -3754,7 +3845,7 @@
       "id": "d0e92a3bdff6e0200e8bd1a64659264a0fae2d742db27f1f692e8b7f937c9e28",
       "url": "https://www.elmundo.es/internacional/2026/03/26/69c531e821efa007428b45d8.html",
       "title": "Rutte félicite Sánchez pour avoir augmenté les dépenses de défense de l'Espagne de \"milliards\" et remercie Trump : \"L'OTAN ne serait pas à 2% sans lui\"",
-      "content_html": "L'Espagne a atteint ces deux points de PIB d'investissement militaire en 2025 et le secrétaire général de l'Alliance a voulu en faire l'éloge même si, contrairement à ce que dit le gouvernement, il soutient que 5% devront atteindre",
+      "content_html": "L'Espagne a atteint ces deux points de PIB d'investissement militaire en 2025 et le secrétaire général de l'Alliance a voulu en faire l'éloge même si, contrairement à ce que dit le gouvernement, il maintient que 5% devront atteindre",
       "date_published": "2026-03-26T13:41:46+00:00",
       "authors": [
         {
@@ -3969,20 +4060,6 @@
       "lang": "fr"
     },
     {
-      "id": "3e51ccda84c9f84b3b14b2d0d1fed538e3248adaa66856aea4566d7f07ad13f6",
-      "url": "https://www.lemonde.fr/international/article/2026/03/26/guerre-en-iran-avant-le-g7-le-canada-et-ses-partenaires-attendent-des-eclaircissements-de-washington_6674368_3210.html",
-      "title": "Guerre en Iran : avant le G7, le Canada et ses partenaires attendent des éclaircissements de Washington",
-      "content_html": "La ministre canadienne des affaires étrangères, Anita Anand, après avoir annoncé une aide fédérale en faveur des pays touchés par la guerre au Moyen-Orient, dans le hall de la Chambre des communes sur la Colline du Parlement à Ottawa, le 12 mars 2026.",
-      "date_published": "2026-03-26T13:00:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a5a2202420bce5c2a73171384d504dec4190317ffbc271159f70d1a32f045c5b",
       "url": "https://www.timesofisrael.com/saudi-arabia-stoic-amid-iran-war-but-attacks-on-red-sea-ports-could-change-that/",
       "title": "Saudi Arabia stoic amid Iran war, but attacks on Red Sea ports could change that",
@@ -4127,27 +4204,6 @@
         "Golani Brigade",
         "IDF Israel Defense Forces",
         "Hezbollah"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cf33210262fbdeaad37121bdbf6d0f58ed918eac34699f672c5f89a4e6e0e842",
-      "url": "https://www.timesofisrael.com/israel-says-irgc-navy-commander-killed-iranian-top-envoy-said-removed-from-hit-list/",
-      "title": "Israel says IRGC Navy’s commander, other chiefs killed; Qalibaf said removed from hit list",
-      "content_html": "<p>Navy chief Alireza Tangsiri said responsible for efforts to close Hormuz; FM Araghchi, parliament speaker Qalibaf reportedly not hunted, at Pakistan's request, to allow them to conduct talks</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israel-says-irgc-navy-commander-killed-iranian-top-envoy-said-removed-from-hit-list/\">Israel says IRGC Navy&#8217;s commander, other chiefs killed; Qalibaf said removed from hit list</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260326__A4RH9T3__v2__HighRes__FilesIranIsraelUsWarGuardsNavy.jpg\" title=\"Israel says IRGC Navy&#8217;s commander, other chiefs killed; Qalibaf said removed from hit list\" width=\"160\" /></figure>",
-      "date_published": "2026-03-26T12:30:15+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Abbas Araghchi",
-        "Ishaq Dar",
-        "2026 US-Israel war with Iran",
-        "Islamic Revolutionary Guard Corps IRGC",
-        "Mohammad Bagher Ghalibaf"
       ],
       "source": {
         "name": "The Times of Israel",
@@ -4920,22 +4976,6 @@
       "lang": "fr"
     },
     {
-      "id": "fe682864205f2eb9547bde9dfa7acbb532e859b9843458091b6cc2bf8ddf3a51",
-      "url": "https://www.dw.com/en/bangladesh-several-killed-after-bus-plunges-into-river/a-76536152?maca=en-rss-en-all-1573-rdf",
-      "title": "Bangladesh: Several killed after bus plunges into river",
-      "content_html": "The bus, mostly carrying workers returning to Dhaka after Eid, fell into River Padma while attempting to board a ferry.",
-      "date_published": "2026-03-26T07:03:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8818714118b17da39b6d4ec98c7b62a30872c5709df1c56c30f63c5217126eb9",
       "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
       "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
@@ -5172,7 +5212,7 @@
     {
       "id": "e134557eab47ce66fe03d4d1deaf5ec1fe60c619bd300999b48b21254366e64b",
       "url": "https://elpais.com/internacional/2026-03-26/ali-vaez-experto-en-iran-de-international-crisis-group-trump-ha-iniciado-una-guerra-que-no-puede-terminar.html",
-      "title": "Ali Vaez, expert iranien à l'International Crisis Group : « Trump a déclenché une guerre qui ne peut pas finir »",
+      "title": "Ali Vaez, expert iranien à International Crisis Group : « Trump a déclenché une guerre qui ne peut pas finir »",
       "content_html": "Ali Vaez, directeur de la zone Iran à l'International Crisis Group, lors d'une table ronde à Washington en mai 2019.",
       "date_published": "2026-03-26T04:30:01+00:00",
       "authors": [
@@ -6810,35 +6850,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "06e1e6bcde4a8969773c489ec01224efa6034d5a0fff88ef3eb0330c2421615d",
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants",
-      "title": "Canadian woman held with daughter by ICE warns all immigrants to ‘lie low’",
-      "content_html": "<p>Tania Warner says she has documents showing she is in the US legally, but immigration agents were not swayed</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email to get newsletter alerts in your inbox</a></p></li></ul><p>A <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> woman who has been <a href=\"https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas\">imprisoned</a> with her seven-year-old daughter by Immigration and Customs Enforcement (<a href=\"https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement\">ICE</a>) has cautioned other immigrants that they are at risk of detention, even if they follow the correct legal process – and warned them to keep out of sight for as long as <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is president.</p><p>“Don’t go anywhere near a checkpoint, and if your papers are in processing, just lay low. Trump meant what he said – he is trying to get rid of everyone, whether they are good or bad,” said Tania Warner, 47, who is <a href=\"https://www.theguardian.com/us-news/2026/mar/20/canadian-mother-daughter-ice-detention\">currently held</a> with her autistic daughter, Ayla, at the Dilley immigration processing center in south Texas.</p> <a href=\"https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants\">Continue reading...</a>",
-      "date_published": "2026-03-24T20:20:08+00:00",
-      "authors": [
-        {
-          "name": "Olivia Bowden in Toronto"
-        }
-      ],
-      "tags": [
-        "US immigration",
-        "Canada",
-        "ICE (US Immigration and Customs Enforcement)",
-        "Texas",
-        "US news",
-        "Americas",
-        "Trump administration",
-        "Donald Trump",
-        "US politics",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "5b509482509c2c2edb10438255a8a4ea535d3198c44d878120d8b547e3e3783b",
