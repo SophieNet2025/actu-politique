@@ -5,30 +5,91 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "701caa4f7868fa786b6a561d4233df1be758420ef6bf63ecd65cd4a673d6ee87",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "content_html": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "date_published": "2026-03-28T17:48:44+00:00",
-      "authors": [],
+      "id": "67d89f5bfbf00fa56c23ca7450f2bb628ff9d0cbf0b1c6da20203368b0178abb",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-20260328_GZYITN3EEJDJDEJ2G6H2LNAIWY/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : trois journalistes tués au Liban dans une frappe israélienne, le président Aoun dénonce «un crime flagrant»",
+      "content_html": "Au début du deuxième mois du conflit, Israël a repris les attaques au Liban, visant des installations du Hezbollah dans la partie sud du pays. Sur le front iranien, des attaques sont à signaler dans les pays du Golfe, tandis que des explosions ont été entendues à Jérusalem.",
+      "date_published": "2026-03-28T18:24:42+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP, Antoine  Rondel"
+        }
+      ],
       "tags": [],
       "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "463a691adad47c32c69cd1f5e2bc1a0fafc2a5fbdcbb23763db82658528f9b59",
+      "url": "https://www.elmundo.es/internacional/2026/03/28/69c808dfe4d4d842088b4576.html",
+      "title": "Les Houthis entrent dans la spirale des attaques contre Israël et n'excluent pas la fermeture du détroit de Bab el Mandeb",
+      "content_html": "La participation de ce mouvement dirigé par la famille Houthi peut être importante pour Israël et la région",
+      "date_published": "2026-03-28T18:22:59+00:00",
+      "authors": [
+        {
+          "name": "Sal Emergui"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "Irán",
+        "Estados Unidos",
+        "Yemen"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d44131171409e95057b4e4f568fab1c32ad970c096026bc9c472cd8e7210c655",
+      "url": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
+      "title": "Media association condemns ‘violent assault’ of CNN crew by Israeli soldiers",
+      "content_html": "<p>CNN team detained while reporting on aftermath of attack by settlers in West Bank, Foreign Press Association says</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions\"><strong>Middle East crisis – live updates</strong></a></p></li></ul><p>An international media association has condemned what it described as a “violent assault” by Israeli soldiers who detained a CNN crew in the occupied West Bank this week.</p><p>A CNN team was reporting on the aftermath of an assault by Israeli settlers and the establishment of an illegal outpost near the Palestinian village of Tayasir on Thursday when it was detained by Israeli soldiers, the Foreign Press Association said on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association\">Continue reading...</a>",
+      "date_published": "2026-03-28T18:18:01+00:00",
+      "authors": [
+        {
+          "name": "Agence France-Presse"
+        }
+      ],
+      "tags": [
+        "Israel",
+        "West Bank",
+        "Middle East and north Africa",
+        "CNN",
+        "Media",
+        "Journalist safety",
+        "Newspapers & magazines",
+        "Press freedom",
+        "Television industry",
+        "TV news",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
     {
-      "id": "02f4075259348998a63f6d03c5b99d6300b3a3770b4535a1a8242b96b26a782f",
-      "url": "https://www.lemonde.fr/societe/article/2026/03/28/a-monaco-le-pape-leon-xiv-tente-de-faire-passer-un-message-sur-la-redistribution-des-richesses-chaque-bien-mis-entre-nos-mains-a-une-destination-universelle_6675083_3224.html",
-      "title": "A Monaco, le pape Léon XIV tente de faire passer un message sur la redistribution des richesses : « Chaque bien mis entre nos mains a une destination universelle »",
-      "content_html": "Le pape Léon XIV, à Monaco, le 28 mars 2026.",
-      "date_published": "2026-03-28T17:45:37+00:00",
-      "authors": [],
+      "id": "4f27af391929ab1d965b8ac5391ca780bbdef9ad9de8b58249191a9fc9df4ada",
+      "url": "https://www.elmundo.es/internacional/2026/03/28/69c81665e4d4d874118b4591.html",
+      "title": "La police israélienne accuse les manifestants qui protestaient à Tel Aviv et à Haïfa de \"guerre éternelle\"",
+      "content_html": "Des militants montrent des photos de visages d'enfants tués par les attaques israéliennes",
+      "date_published": "2026-03-28T18:17:04+00:00",
+      "authors": [
+        {
+          "name": "Efe"
+        }
+      ],
       "tags": [],
       "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
     },
@@ -37,7 +98,7 @@
       "url": "https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates",
       "title": "No Kings protests live updates: hundreds of thousands rally in cities around the world against Trump and his administration",
       "content_html": "<p>More than 3,000 No Kings events scheduled across the US in third set of protests since Trump re-election</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jan/28/third-no-kings-protest-march-minnesota-ice\">What to know about the third No Kings protests happening in March</a></p></li></ul><p>In the year since <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> retook office, the number of <a href=\"https://www.theguardian.com/us-news/protests--us-\">protests</a> in the US outpaced those at the same point in his first administration, according to data from the <a href=\"https://ash.harvard.edu/programs/crowd-counting-consortium/\">Crowd Counting Consortium</a>, an open-source project collaboration between Harvard University’s Kennedy School and the University of Connecticut, reported Lex McMenamin<em> </em>and<em> </em>Andrew Witherspoon.</p><p>There were more than 10,700 protests in 2025, a 133% increase from the 4,588 recorded in 2017, the first year of Trump’s first term. According to the data, an overwhelming majority of US counties – including 42% that voted for Trump – have had at least one protest since he was re-inaugurated last year.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates\">Continue reading...</a>",
-      "date_published": "2026-03-28T17:40:48+00:00",
+      "date_published": "2026-03-28T18:15:31+00:00",
       "authors": [
         {
           "name": "Cecilia Nowell"
@@ -55,6 +116,182 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "81662305d97ab2250e6b0cb756004e2becf164a6da6eb30f513d4bdf4cc2a8df",
+      "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
+      "title": "Huge crowds take part in London march against the far right – live",
+      "content_html": "<p>Organisers claim half a million people are marching through central London, protesting against the rise of the far right</p><p><strong>Some protesters have spoken to PA earmarking opposition to Reform UK, support for Palestine and anti-racism as drivers for their attendance.</strong></p><p><strong>Paige Horsford</strong>, 34, a media and English teacher from New Romney, Kent, said she joined the Together march because she has witnessed racist incidents at her school.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-03-28T18:13:34+00:00",
+      "authors": [
+        {
+          "name": "Hayden Vernon (now) and Morgan Ofori , Hamish Mackay (earlier)"
+        }
+      ],
+      "tags": [
+        "London",
+        "UK news",
+        "Protest",
+        "Far right",
+        "Politics",
+        "Activism"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "eeb9e7ea589e8e0848fa637587c515d5646bb4cc83bf9f66e86a77b817391d66",
+      "url": "https://www.france24.com/fr/europe/20260328-a-londres-des-dizaines-de-milliers-de-manifestants-d%C3%A9filent-contre-l-extr%C3%AAme-droite",
+      "title": "A Londres, des dizaines de milliers de manifestants défilent contre l'extrême droite",
+      "content_html": "Organisée samedi par la Together Alliance, collectif qui regroupe notamment l'organisation Amnesty International, le syndicat Unite ou encore l'association antiraciste Stand Up to Racism, cette marche réunissant près de 50 000 personne s'est déroulée près de six mois après celle initiée par l'agitateur d'extrême droite Tommy Robinson, dans un contexte de montée en puissance du parti d'extrême droite Reform.",
+      "date_published": "2026-03-28T18:09:00+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4b8dc53f07317db26b221d7c289171575525d0aba753b09a53f06be5770919c4",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/29/victoria-free-public-transport-april-petrol-prices",
+      "title": "Victorians get free public transport for a month in bid to ease surge in fuel demand",
+      "content_html": "<p>Allan government says measure is temporary as energy shock from Middle East conflict sees petrol prices soar</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Public transport will be free in Victoria for a month, in an effort to encourage people to <a href=\"https://www.theguardian.com/australia-news/2026/mar/28/the-cost-of-fuel-for-australians-who-can-its-time-to-embrace-green-transport\">switch from driving</a> and alleviate the surge in demand for fuel.</p><p>The Allan government announced on Sunday that it would make all metro and regional V/Line trams, trains and buses free from 31 March until the end of April.</p> <a href=\"https://www.theguardian.com/australia-news/2026/mar/29/victoria-free-public-transport-april-petrol-prices\">Continue reading...</a>",
+      "date_published": "2026-03-28T18:00:33+00:00",
+      "authors": [
+        {
+          "name": "Catie McLeod Consumer affairs reporter"
+        }
+      ],
+      "tags": [
+        "Victorian politics",
+        "Victoria",
+        "Australia news",
+        "Petrol prices",
+        "Jacinta Allan",
+        "Transport"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "013de505167514a28f5d41916b820a8f970b0d758045f83f5d2eb70cd4966cd4",
+      "url": "https://www.ukrinform.net/rubric-ato/4106688-uavs-strike-diesel-locomotive-transporting-cargo-for-russian-military.html",
+      "title": "UAVs strike diesel locomotive transporting cargo for Russian military",
+      "content_html": "Soldiers from the “Reid” regiment of the Ukrainian Armed Forces' Unmanned Systems Forces identified and struck key logistics targets of Russian troops on one of the front's key sectors.",
+      "date_published": "2026-03-28T17:58:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9a4bb50f734e123eb6fdb285a6056cf7f20e319145ddcd7d13920beb00902b82",
+      "url": "https://ici.radio-canada.ca/nouvelle/2242347/adn-frontiere-etats-unis-prelevement-agents",
+      "title": "Un Canadien forcé de fournir un prélèvement d’ADN aux douaniers américains",
+      "content_html": "<p>Les douaniers l&#x27;auraient menacé d&#x27;accusations criminelles s&#x27;il ne se pliait pas à leurs exigences.</p>",
+      "date_published": "2026-03-28T17:57:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "27e88cce307411e45ea16f83ae52688b9fce70ef31feba3963b860d178f5f2d6",
+      "url": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-all-1573-rdf",
+      "title": "Nestle says thieves stole 12 tons of KitKat chocolate bars",
+      "content_html": "\"We've always encouraged people to have a break with KitKat,\" the company said, \"but it seems thieves have taken the message too literally.\"",
+      "date_published": "2026-03-28T17:50:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0f8d1536048bc0fc7c4c301a7edb6561df546125aaf8834005304525eca5da9",
+      "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
+      "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty",
+      "content_html": "While US-Israeli attacks hit key infrastructure, hardliners demand withdrawal from Nuclear Non-Proliferation Treaty.",
+      "date_published": "2026-03-28T17:48:55+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "701caa4f7868fa786b6a561d4233df1be758420ef6bf63ecd65cd4a673d6ee87",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "content_html": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "date_published": "2026-03-28T17:48:44+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "539d53d2c32db1c4ddeae795e3aa79c297892fa339a3b6928f2b6524fd790377",
+      "url": "https://www.aljazeera.com/news/2026/3/28/france-opens-probe-into-suspected-attack-on-bank-of-america-in-paris?traffic_source=rss",
+      "title": "France opens probe into suspected attack on Bank of America in Paris",
+      "content_html": "Police arrest suspect before setting off explosive device outside US bank&#039;s headquarters.",
+      "date_published": "2026-03-28T17:48:34+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "02f4075259348998a63f6d03c5b99d6300b3a3770b4535a1a8242b96b26a782f",
+      "url": "https://www.lemonde.fr/societe/article/2026/03/28/a-monaco-le-pape-leon-xiv-tente-de-faire-passer-un-message-sur-la-redistribution-des-richesses-chaque-bien-mis-entre-nos-mains-a-une-destination-universelle_6675083_3224.html",
+      "title": "A Monaco, le pape Léon XIV tente de faire passer un message sur la redistribution des richesses : « Chaque bien mis entre nos mains a une destination universelle »",
+      "content_html": "Le pape Léon XIV, à Monaco, le 28 mars 2026.",
+      "date_published": "2026-03-28T17:45:34+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
     },
     {
       "id": "79a6f9f9bad0efd647a949254e72bedb20ffca0d13038290060290acb2050d06",
@@ -85,31 +322,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "81662305d97ab2250e6b0cb756004e2becf164a6da6eb30f513d4bdf4cc2a8df",
-      "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
-      "title": "Huge crowds take part in London march against the far right – live",
-      "content_html": "<p>Organisers claim half a million people are marching through central London, protesting against the rise of the far right</p><p><strong>Some protesters have spoken to PA earmarking opposition to Reform UK, support for Palestine and anti-racism as drivers for their attendance.</strong></p><p><strong>Paige Horsford</strong>, 34, a media and English teacher from New Romney, Kent, said she joined the Together march because she has witnessed racist incidents at her school.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-03-28T17:33:31+00:00",
-      "authors": [
-        {
-          "name": "Morgan Ofori (now) and Hamish Mackay (earlier)"
-        }
-      ],
-      "tags": [
-        "London",
-        "UK news",
-        "Protest",
-        "Far right",
-        "Politics",
-        "Activism"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "0f25987b95c7c8a5a5382799070afd0be46e6a287186d5a4e6fae8bf8b0c241d",
@@ -160,29 +372,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "463a691adad47c32c69cd1f5e2bc1a0fafc2a5fbdcbb23763db82658528f9b59",
-      "url": "https://www.elmundo.es/internacional/2026/03/28/69c808dfe4d4d842088b4576.html",
-      "title": "Les Houthis entrent dans la spirale des attaques contre Israël et n'excluent pas la fermeture du détroit de Bab el Mandeb",
-      "content_html": "La participation de ce mouvement dirigé par la famille Houthi peut être importante pour Israël et la région",
-      "date_published": "2026-03-28T17:23:13+00:00",
-      "authors": [
-        {
-          "name": "Sal Emergui"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Irán",
-        "Estados Unidos",
-        "Yemen"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "ca0d7af91843708e0f65f5cb546309f97b95896935900b947f037fe546ceb358",
@@ -508,24 +697,6 @@
       "lang": "en"
     },
     {
-      "id": "67d89f5bfbf00fa56c23ca7450f2bb628ff9d0cbf0b1c6da20203368b0178abb",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-20260328_GZYITN3EEJDJDEJ2G6H2LNAIWY/",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : trois journalistes tués au Liban dans une frappe israélienne, le président Aoun dénonce «un crime flagrant»",
-      "content_html": "Au début du deuxième mois du conflit, Israël a repris les attaques au Liban, visant des installations du Hezbollah dans la partie sud du pays. Sur le front iranien, des attaques sont à signaler dans les pays du Golfe, tandis que des explosions ont été entendues à Jérusalem.",
-      "date_published": "2026-03-28T16:46:37+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION,  AFP, Antoine  Rondel"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e74e7c260f52d0649c20f41e539bb4298d90f46ad821f99b117d5aada3be6fe3",
       "url": "https://www.timesofisrael.com/cnn-crew-say-troops-assaulted-them-detained-them-then-trumpeted-far-right-ideology/",
       "title": "CNN crew say troops assaulted them, detained them, then trumpeted far-right ideology",
@@ -759,7 +930,8 @@
         "World news",
         "Iran",
         "US news",
-        "Saudi Arabia"
+        "Saudi Arabia",
+        "US foreign policy"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -1554,6 +1726,20 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
+    },
+    {
+      "id": "cf76f08f9c1358d142f4831bcf6d39ef4d8cf0befd3b4d08d359ada37fa84da5",
+      "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss",
+      "title": "Expectant mothers in Cuba struggle under fuel blockade",
+      "content_html": "The BBC's Will Grant speaks to two women experiencing starkly different realities as the country's energy crisis impacts their pregnancies.",
+      "date_published": "2026-03-28T14:14:46+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
     },
     {
       "id": "6d0f615b16f5c45aa7d4cc1e22591d94f0a652009f9a2fa8df486f388b6d67c8",
@@ -3069,24 +3255,6 @@
       "lang": "en"
     },
     {
-      "id": "52bc44679e10ae6a411e2be1064042d0de210b6f6a9965fbc374e3a9fe20b7f0",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260328-l-indon%C3%A9sie-prive-l-acc%C3%A8s-aux-r%C3%A9seaux-sociaux-au-moins-de-16-ans",
-      "title": "L'Indonésie prive l'accès aux réseaux sociaux au moins de 16 ans",
-      "content_html": "L'Indonésie interdit l'accès aux réseaux sociaux comme TikTok, Instagram ou Snapchat aux moins de 16 ans à partir de ce samedi 28 mars. Une mesure de protection pour ne pas \"sacrifier l'enfance des jeunes\", selon les autorités.",
-      "date_published": "2026-03-28T10:11:01+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d3f396694099a069356b1992c72e7db401f57ae5e70d5e2ee48d33267964bbba",
       "url": "https://www.ukrinform.net/rubric-emergencies/4106558-due-to-power-outage-water-supply-unavailable-on-left-bank-and-in-four-districts-on-right-bank-of-kyiv.html",
       "title": "Due to power outage, water supply unavailable on left bank and in four districts on right bank of Kyiv",
@@ -3433,31 +3601,6 @@
       "lang": "fr"
     },
     {
-      "id": "8be0b5cfca550114359a50cf7e549a63d03b640d1a920fd4f8f1c800268512eb",
-      "url": "https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people",
-      "title": "Hundreds of organised protests show resilience of Iranian regime, experts say",
-      "content_html": "<p>More than 850 public demonstrations of support held since start of war and at least 1,400 arrests, research reveals</p><ul><li><p><a href=\"https://www.theguardian.com/global-development/2026/mar/28/parents-victims-iran-minab-shajareh-tayyebeh-school-bombing-describe-day\">Parents of Iran school bombing victims describe their worst day</a></p></li></ul><p>Iran’s regime has organised more than 850 public demonstrations of support of the government since the beginning of the war and launched a continuing crackdown on unrest that has led to at least 1,400 detentions, research reveals.</p><p>The high number of pro-regime gatherings and the increasing number of detentions underlines the resilience of the Islamic Republic despite a month-long campaign of intensive airstrikes by the US and Israel, experts said.</p> <a href=\"https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people\">Continue reading...</a>",
-      "date_published": "2026-03-28T09:00:24+00:00",
-      "authors": [
-        {
-          "name": "Jason Burke International security correspondent"
-        }
-      ],
-      "tags": [
-        "Iran",
-        "US-Israel war on Iran",
-        "Middle East and north Africa",
-        "Donald Trump",
-        "US news",
-        "Israel"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e3ecde3773a8bc7d4fd1c11eca123671d2ed4ce83d8275da73951088a5374a5f",
       "url": "https://www.ukrinform.net/rubric-ato/4106534-russian-forces-strike-kryvyi-rih-for-second-time-this-morning.html",
       "title": "Russian forces strike Kryvyi Rih for second time this morning",
@@ -3556,22 +3699,6 @@
       "lang": "en"
     },
     {
-      "id": "0aea88f1e3abf5beec23dfea675896126bce9cbce1751a254a2f8cbdb7cbc1b7",
-      "url": "https://www.aljazeera.com/economy/2026/3/28/philippine-transport-strikers-say-marcos-jr-failing-to-control-oil-prices?traffic_source=rss",
-      "title": "Philippine transport strikers say Marcos Jr failing to control oil prices",
-      "content_html": "Transport workers call on Philippines President Marcos Jr to focus on price caps and reining in oil companies.",
-      "date_published": "2026-03-28T08:31:13+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9f455078d7da2522213754d53cfdde6ea729b882447561c59915a369d02ba7a2",
       "url": "https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556?maca=en-rss-en-all-1573-rdf",
       "title": "Solar is winning the energy race",
@@ -3608,22 +3735,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "575fa7b69da2f4f29b452dcd7610046ef2023121ab66de3cdcb0b3223476dbf8",
-      "url": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
-      "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
-      "content_html": "Tensions continue to rise with Iran warning a &#039;heavy price&#039; will be paid after Israeli air attacks.",
-      "date_published": "2026-03-28T08:17:54+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "a2866456986a236141ce75e846eae02be9a4de98ea83b022d74d76c772a72e7d",
@@ -3915,22 +4026,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c32628584826799191645510e081c8ef5976b47539cd81840df0f42fa317a9ea",
-      "url": "https://www.ukrinform.net/rubric-ato/4106484-enemy-strikes-industrial-facility-in-kryvyi-rih-killing-two-and-injuring-others.html",
-      "title": "Enemy strikes industrial facility in Kryvyi Rih, killing two and injuring others",
-      "content_html": "The enemy attacked Kryvyi Rih on the morning of March 28. An industrial facility has been hit.",
-      "date_published": "2026-03-28T06:58:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -5045,22 +5140,6 @@
       "lang": "en"
     },
     {
-      "id": "dd6628b3b57ab54c70001d69224c04c93681d00dfe34d329c6013ff5264f2644",
-      "url": "https://www.dw.com/en/syria-wives-of-the-missing-push-for-legal-reform/a-76569247?maca=en-rss-en-all-1573-rdf",
-      "title": "Syria: Wives of the missing push for legal reform",
-      "content_html": "Decades-old family laws affect hundreds of thousands of women and children, as custody and inheritance are in the hands of male relatives, and remarriage remains impossible. Is Syria moving toward equality?",
-      "date_published": "2026-03-27T19:47:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e9b54cd944f7ed7b960566e7387919a7c6a34ec9b0149837f8c2e233d738f6b3",
       "url": "https://www.elmundo.es/internacional/2026/03/27/69c6d9cce4d4d864628b4573.html",
       "title": "Le Kremlin admet qu'au moins un oligarque a proposé à Poutine de financer la guerre en Ukraine en raison du déficit budgétaire",
@@ -6076,30 +6155,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "5350e872012c93bdd6437fd27f6e01cb87be63b0509b9850e5ab43921a80d8cd",
-      "url": "https://www.theguardian.com/world/2026/mar/27/weather-tracker-cold-weather-sweeps-europe-cyclone-hits-australia",
-      "title": "Weather tracker: Cold weather sweeps Europe and cyclone hits Australia",
-      "content_html": "<p>Low pressure brings unsettled conditions to southern Europe, and rain and snow to western and central areas</p><p>Southern Europe has been under a variety of severe weather warnings this week owing to widely unsettled conditions driven by an area of low pressure in the region. This area of low pressure – previously part of the system that brought colder conditions to swathes of the UK earlier this week – moved southwards across Europe through the middle of the week.</p><p>In doing so, it brought a cold front across western and central parts of Europe, with spells of rain and hill snow across the Alps on Wednesday, followed by snow showers on a brisk north-westerly wind. By Friday morning, accumulations of 20-40cm were expected above 600 metres, and 60-100cm above 1,000 metres in the Swiss Alps.</p> <a href=\"https://www.theguardian.com/world/2026/mar/27/weather-tracker-cold-weather-sweeps-europe-cyclone-hits-australia\">Continue reading...</a>",
-      "date_published": "2026-03-27T09:24:38+00:00",
-      "authors": [
-        {
-          "name": "James Parrish and James Michelin for MetDesk"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "Environment",
-        "World news",
-        "Australia news",
-        "Extreme weather"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "c78b2988240518cbd6d1444e26e403db8296c5351263c94218c79f798e2349b9",
@@ -7149,26 +7204,6 @@
       "lang": "en"
     },
     {
-      "id": "d0e92a3bdff6e0200e8bd1a64659264a0fae2d742db27f1f692e8b7f937c9e28",
-      "url": "https://www.elmundo.es/internacional/2026/03/26/69c531e821efa007428b45d8.html",
-      "title": "Rutte félicite Sánchez pour avoir augmenté les dépenses de défense de l'Espagne de \"milliards\" et remercie Trump : \"L'OTAN ne serait pas à 2% sans lui\"",
-      "content_html": "L'Espagne a atteint ces deux points de PIB d'investissement militaire en 2025 et le secrétaire général de l'Alliance a voulu en faire l'éloge même si, contrairement à ce que dit le gouvernement, il maintient que 5% devront atteindre",
-      "date_published": "2026-03-26T13:41:46+00:00",
-      "authors": [
-        {
-          "name": "Daniel Viaña"
-        }
-      ],
-      "tags": [
-        "Artículos Daniel Viaña"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "a3cf8409af3c653b3c972949aabae0e0057e25ab064679a67381fc47ce76bd64",
       "url": "https://www.dw.com/en/​germany-building-sector-warns-of-spiralling-costs/a-76541631?maca=en-rss-en-all-1573-rdf",
       "title": "​Germany: Building sector warns of spiralling costs",
@@ -7197,26 +7232,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "19ff69d4fdb57dde9bb7d5a9c219587822b1bd2a5f3ce727338d025d863d3d2c",
-      "url": "https://www.elmundo.es/internacional/2026/03/26/69c5160ee85ece4d758b4576.html",
-      "title": "Un pétrolier turc de la « flotte fantôme » russe victime d'une attaque de drone en mer Noire",
-      "content_html": "Le navire est attaqué par des drones à environ 30 kilomètres de l'entrée du détroit du Bosphore à Istanbul",
-      "date_published": "2026-03-26T11:28:27+00:00",
-      "authors": [
-        {
-          "name": "Lara Villalón"
-        }
-      ],
-      "tags": [
-        "Turquía"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "a64acb6ef409e4f90556da8df87d67645e8ddc824ea837014f80c869be64b64c",
@@ -7929,20 +7944,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ff492dd1fd48dd093a0a922d2adf3e4d4d2efe2488f81931573e6cd3606f4693",
-      "url": "https://www.bbc.com/news/videos/c70584eye0no?at_medium=RSS&at_campaign=rss",
-      "title": "What happened in the seconds before Air Canada plane crashed at LaGuardia",
-      "content_html": "BBC Verify breaks down the moments before the deadly collision with a fire truck at the New York airport.",
-      "date_published": "2026-03-24T20:55:58+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "f93725241c50125ab53879262b02dc0207dbc36e3a54ceea20bb3b6275d0cfe8",
