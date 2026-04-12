@@ -5,11 +5,29 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "5c9566c3d19102cf49d73fa3c193947e74cd36c46352d9fc55975b7aae1dc660",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-jd-vance-met-brutalement-fin-aux-pourparlers-dislamabad-20260412_AQJNTFXCDJEFJJ25ULTE6YHLP4/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump annonce le blocus naval du détroit d’Ormuz",
+      "content_html": "Donald Trump à l'aéroport international de Miami, le 11 avril 2026.",
+      "date_published": "2026-04-12T17:03:43+00:00",
+      "authors": [
+        {
+          "name": "Jérôme Balazard, Margaux  Gable, Service Photo,  AFP, Reuters ."
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "466214c9a2fa234acc90a1810490aab2293fc8f4dd8e4848bb5d1c55993bad36",
       "url": "https://ici.radio-canada.ca/info/en-direct/1013685/chef-caq-course-christine-frechette-bernard-drainville",
       "title": "La CAQ choisit son nouveau chef",
       "content_html": "<p>Qui, de Christine Fréchette ou de Bernard Drainville, deviendra chef de la CAQ, et PM désigné du Québec?</p>",
-      "date_published": "2026-04-12T16:22:14+00:00",
+      "date_published": "2026-04-12T17:03:13+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -23,7 +41,7 @@
       "url": "https://elpais.com/internacional/2026-04-12/la-participacion-en-las-elecciones-de-hungria-alcanza-niveles-record.html",
       "title": "La participation aux élections hongroises bat le record de mobilisation",
       "content_html": "Orbán a voté dimanche dernier à Budapest.",
-      "date_published": "2026-04-12T16:15:06+00:00",
+      "date_published": "2026-04-12T16:59:56+00:00",
       "authors": [
         {
           "name": "Gloria Rodríguez-Pina"
@@ -46,14 +64,14 @@
       "lang": "fr"
     },
     {
-      "id": "ca5937ae15939026bfa96e0587db3b0688fb91b4945ee0c82dd1f65c7484cbd9",
-      "url": "https://www.ukrinform.net/rubric-other_news/4111743-unexploded-drone-munition-safely-disposed-of-in-finland.html",
-      "title": "Unexploded drone munition safely disposed of in Finland",
-      "content_html": "The Finnish Armed Forces and the police detonated an unexploded drone component found in a remote area of the municipality of Iitti.",
-      "date_published": "2026-04-12T16:09:00+00:00",
+      "id": "10b09cc06217a0ab9dc7df2d7a2341108374d02f291bf907c1c065d7c5fbc1f6",
+      "url": "https://www.ukrinform.net/rubric-economy/4111747-ukrenergo-forecasts-power-restrictions-on-monday-but-only-for-industrial-customers.html",
+      "title": "Ukrenergo forecasts power restrictions on Monday, but only for industrial customers",
+      "content_html": "On Monday, April 13, power rationing schedules will be in effect for industrial consumers across all regions of Ukraine from 4:00 p.m. to midnight.",
+      "date_published": "2026-04-12T16:58:00+00:00",
       "authors": [],
       "tags": [
-        "Other news"
+        "Economy"
       ],
       "source": {
         "name": "Latest news",
@@ -62,11 +80,107 @@
       "lang": "en"
     },
     {
+      "id": "a3fdeb2696fd4dfdabf44304eade5f9fff2f360d0d6f575c2ddbf495e174fc61",
+      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "content_html": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "date_published": "2026-04-12T16:56:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8971c9f1b6a21a63cab1b92b5d9afb354f4d40b3cf996542268df4514a9fb867",
+      "url": "https://www.elmundo.es/internacional/2026/04/12/69dbbb95fdddff366f8b456e.html",
+      "title": "Le taux de participation en Hongrie bat son record historique lors des élections qui pourraient mettre fin à l'ère Orban",
+      "content_html": "Avec 74% des votants en milieu d'après-midi, les élections de ce dimanche s'annoncent comme les plus décisives depuis la fin du communisme en 1989.",
+      "date_published": "2026-04-12T16:54:18+00:00",
+      "authors": [
+        {
+          "name": "Carmen Valero"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "db895a3f5b7e95781bdd80d3ea2ae39d9979acaf079ec7d101254bedf6f12763",
+      "url": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss",
+      "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
+      "content_html": "Mohammad Bagher Ghalibaf, who led Iran&#039;s delegation in talks to end the war, said US delegation &#039;failed to gain trust&#039;.",
+      "date_published": "2026-04-12T16:51:29+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b7af464807454ecce3f4a084f9f874b26bf93c8a531213da24209b8e315cccbe",
+      "url": "https://ici.radio-canada.ca/nouvelle/2242798/detresse-psychologique-centre-crise-caq",
+      "title": "Des services pour décompresser avant d’exploser",
+      "content_html": "<p>Le service de crise de l&#x27;Est-de-l&#x27;Île-de-Montréal accompagne près de 10&nbsp;000&nbsp;personnes en détresse par année.</p>",
+      "date_published": "2026-04-12T16:48:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "899c68a8231eaa1758427e6338b70d3ad2b53fd846707c0f2e6e22627f3f981e",
+      "url": "https://www.lemonde.fr/afrique/article/2026/04/12/nord-est-du-nigeria-des-dizaines-de-personnes-tuees-par-des-frappes-militaires_6679599_3212.html",
+      "title": "Nord-est du Nigeria : des dizaines de personnes tuées par des frappes militaires",
+      "content_html": "Amnesty International a avancé un bilan d’une centaine de morts dans des frappes militaires menées samedi contre Boko Haram dans l’Etat de Yobe. Un chef local évoque, lui, un bilan de 200 morts et blessés.",
+      "date_published": "2026-04-12T16:48:01+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "78dea0abc1bf8f30f1e6dd094a322949e562c0ae08ae1810cd2ba1e8a7dab5ad",
+      "url": "https://www.timesofisrael.com/idf-says-it-raided-hospital-used-by-hezbollah-in-groups-bint-jbeil-stronghold/",
+      "title": "IDF says it raided hospital used by Hezbollah in group’s Bint Jbeil stronghold",
+      "content_html": "<p>'Fierce clashes' reported as army advances in southern Lebanese town; military says troops killed Hezbollah gunman responsible for killing soldier last week</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-it-raided-hospital-used-by-hezbollah-in-groups-bint-jbeil-stronghold/\">IDF says it raided hospital used by Hezbollah in group&#8217;s Bint Jbeil stronghold</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/20691dbf-58e4-4a3f-bf65-1cbee523380e-1024x640.jpg\" title=\"IDF says it raided hospital used by Hezbollah in group&#8217;s Bint Jbeil stronghold\" width=\"160\" /></figure>",
+      "date_published": "2026-04-12T16:42:12+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "IDF Israel Defense Forces",
+        "Bint Jbeil",
+        "2026 Israel-Hezbollah conflict",
+        "Hezbollah"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
       "id": "8ce7bdcc7d1106d297b08cf9e4cda8a15d47fe70516d722a94fac5ef73d117c4",
       "url": "https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates",
       "title": "Hungary election live: voters head to the polls in contest that could see end of Viktor Orbán’s rule",
       "content_html": "<p>Prime minister has been trailing in the polls to Péter Magyar in race that could have repercussions for Europe, the US and Russia</p><p><em>Europe correspondent</em></p><p><strong>Not a regular observer of Hungarian politics? </strong><em>We’ve got you.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-04-12T16:06:53+00:00",
+      "date_published": "2026-04-12T16:41:37+00:00",
       "authors": [
         {
           "name": "Jakub Krupa in Budapest"
@@ -82,6 +196,148 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6d7a78aee98a3196ec63c9f807e36ea90989f069abd36a334ca60d7a029eb9d7",
+      "url": "https://www.ukrinform.net/rubric-defense/4111745-in-kharkiv-region-bomb-disposal-experts-destroy-over-40-wwiiera-munitions.html",
+      "title": "In Kharkiv region, bomb disposal experts destroy over 40 WWII-era munitions",
+      "content_html": "Explosive ordnance disposal experts from the State Emergency Service of Ukraine in the Kharkiv region have recovered and destroyed 43 pieces of ammunition dating back to World War II.",
+      "date_published": "2026-04-12T16:34:00+00:00",
+      "authors": [],
+      "tags": [
+        "Defense"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "44035c299021d2a35b81d88ee5f41b84fbe5a05c3769ab469609a5d7d0094261",
+      "url": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover",
+      "title": "Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover",
+      "content_html": "<p>Mauritian foreign minister pledges to ‘spare no effort’ to regain control of islands, as US fails to give approval of deal </p><p>A senior official in Mauritius’ government has vowed that the Chagos Islands will be “decolonised” after Keir Starmer was forced to shelve legislation to hand the islands back to Mauritius.</p><p>On Friday, UK government officials acknowledged that they had run out of time to pass legislation within the current parliamentary session, which ends in the coming weeks, after a lack of support from Donald Trump.</p> <a href=\"https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover\">Continue reading...</a>",
+      "date_published": "2026-04-12T16:33:27+00:00",
+      "authors": [
+        {
+          "name": "Alexandra Topping Political correspondent"
+        }
+      ],
+      "tags": [
+        "Chagos Islands",
+        "Mauritius",
+        "Africa",
+        "World news",
+        "Keir Starmer",
+        "Donald Trump",
+        "US news",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c10ce674d1cdf2133b661481510501e5b240345048e2937a3a3b388a45a21edf",
+      "url": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss",
+      "title": "Seven ways America can win the ceasefire and end the war",
+      "content_html": "Trump needs to take decisive action to secure regional peace and a win in the midterm elections.",
+      "date_published": "2026-04-12T16:30:26+00:00",
+      "authors": [],
+      "tags": [
+        "Opinions"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a2158635f36fd5a0a9864d231cd46800db703b8ffc2e8675fcfbf5d9efe5aba8",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260412-donald-trump-annonce-un-blocus-naval-am%C3%A9ricain-dans-d%C3%A9troit-d-ormuz",
+      "title": "Donald Trump annonce un blocus naval américain dans détroit d’Ormuz",
+      "content_html": "Donald Trump a annoncé dimanche un blocus naval américain du détroit d'Ormuz, après l'échec des négociations avec l'Iran au Pakistan ce week-end, laissant planer un doute sur le respect de la trêve de deux semaines actuellement en cours. Les Gardiens de la Révolution iraniens ont répliqué avoir \"entièrement sous contrôle\" le trafic dans le détroit d'Ormuz, en menaçant d'y piéger leurs ennemis dans un \"tourbillon mortel\".",
+      "date_published": "2026-04-12T16:30:11+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6d741a583541e5807868321af121efb3ad6958253b9df6d54962d615e5722ead",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245658/trump-blocage-ormuz-negociations-iran",
+      "title": "La marine ‌américaine va bloquer le détroit d’Ormuz, annonce Trump",
+      "content_html": "<p>Plus tôt dimanche, le vice-président américain a annoncé que les négociations avec l&#x27;Iran avaient échoué.</p>",
+      "date_published": "2026-04-12T16:28:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f99dcdf8aaf51235d3e0ca44e973565cd54e60deb793fae49288834ae3445a00",
+      "url": "https://www.france24.com/en/video/20260412-trump-says-us-will-begin-blockading-the-strait-of-hormuz",
+      "title": "Trump says US will begin 'blockading' the Strait of Hormuz",
+      "content_html": "The US navy will begin blockading ships trying to enter or leave the Strait of Hormuz “effective immediately”, US President Donald Trump said in a social media post Sunday. He added that the US would ‌also “interdict” every ‌vessel in international waters that had paid a toll to Iran for passing through the critical waterway.",
+      "date_published": "2026-04-12T16:23:51+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "520584f9e2a0be8304efd9df8ec424457989c452f2116ec47bc3cf8220a50a58",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss",
+      "title": "Video: Severe flooding closes schools in Saudi Arabia",
+      "content_html": "Saudi Arabia has ordered schools to close after severe flooding swept through parts of the country.",
+      "date_published": "2026-04-12T16:21:31+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ca5937ae15939026bfa96e0587db3b0688fb91b4945ee0c82dd1f65c7484cbd9",
+      "url": "https://www.ukrinform.net/rubric-other_news/4111743-unexploded-drone-munition-safely-disposed-of-in-finland.html",
+      "title": "Unexploded drone munition safely disposed of in Finland",
+      "content_html": "The Finnish Armed Forces and the police detonated an unexploded drone component found in a remote area of the municipality of Iitti.",
+      "date_published": "2026-04-12T16:09:00+00:00",
+      "authors": [],
+      "tags": [
+        "Other news"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -134,28 +390,10 @@
       "lang": "en"
     },
     {
-      "id": "8971c9f1b6a21a63cab1b92b5d9afb354f4d40b3cf996542268df4514a9fb867",
-      "url": "https://www.elmundo.es/internacional/2026/04/12/69dbbb95fdddff366f8b456e.html",
-      "title": "Le taux de participation en Hongrie bat son record historique lors des élections qui pourraient mettre fin à l'ère Orban",
-      "content_html": "Avec 74% des votants en milieu d'après-midi, les élections de ce dimanche s'annoncent comme les plus décisives depuis la fin du communisme en 1989.",
-      "date_published": "2026-04-12T15:56:10+00:00",
-      "authors": [
-        {
-          "name": "EL MUNDO / Agencias"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2892518efe0aa36bb2cd61297545ef95ef64554f6576f0cd121414b3ca648bd5",
       "url": "https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting",
-      "title": "Voting for populist parties in local polls will put NHS at risk, says Streeting",
-      "content_html": "<p>Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key battleground in May elections</p><p>Voters in May’s local and devolved elections risk putting the NHS in jeopardy if they vote for populist parties, Wes Streeting has said, as he sought to make the health service a key battleground.</p><p>“The founding principles of the NHS are at greater threat than at any time since the NHS was founded in 1948,” the health secretary said.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting\">Continue reading...</a>",
+      "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
+      "content_html": "<p>Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battleground</p><p>Voters in May’s local and devolved elections risk putting the NHS in jeopardy if they vote for populist parties, Wes Streeting has said, as he sought to make the health service a key battleground.</p><p>“The founding principles of the NHS are at greater threat than at any time since the NHS was founded in 1948,” the health secretary said.</p> <a href=\"https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting\">Continue reading...</a>",
       "date_published": "2026-04-12T15:55:42+00:00",
       "authors": [
         {
@@ -165,17 +403,22 @@
       "tags": [
         "Wes Streeting",
         "NHS",
-        "Local elections",
         "Local elections 2026",
-        "Health",
-        "Local government",
+        "Local elections",
+        "Welsh politics",
+        "Scottish politics",
         "Local politics",
-        "Politics",
-        "UK news",
-        "Society",
+        "Labour",
         "Reform UK",
+        "Plaid Cymru",
+        "Green party",
+        "Health",
+        "Politics",
+        "Society",
         "Wales",
-        "Scotland"
+        "Scotland",
+        "England",
+        "UK news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -228,7 +471,8 @@
         "UK news",
         "Petrol prices",
         "Motoring",
-        "Business"
+        "Business",
+        "World news"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -411,20 +655,6 @@
       "lang": "en"
     },
     {
-      "id": "6d741a583541e5807868321af121efb3ad6958253b9df6d54962d615e5722ead",
-      "url": "https://ici.radio-canada.ca/nouvelle/2245658/trump-blocage-ormuz-negociations-iran",
-      "title": "La marine ‌américaine va bloquer le détroit d’Ormuz, annonce Trump",
-      "content_html": "<p>Plus tôt dimanche, le vice-président américain a annoncé que les négociations avec l&#x27;Iran avaient échoué.</p>",
-      "date_published": "2026-04-12T15:25:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b3d4cdac3a560db7bcfdf01fddb6d2014491eebb730bec7f4a688c88daca8bba",
       "url": "https://www.liberation.fr/lifestyle/design/dorures-et-demesure-larc-de-triomphe-annonce-par-donald-trump-a-washington-deja-conteste-20260412_NIOOLBVI4ZCS5CNIJGB5RDGGZQ/",
       "title": "Dorures et démesure : l’arc de triomphe annoncé par Donald Trump à Washington déjà contesté",
@@ -457,24 +687,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "5c9566c3d19102cf49d73fa3c193947e74cd36c46352d9fc55975b7aae1dc660",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-jd-vance-met-brutalement-fin-aux-pourparlers-dislamabad-20260412_AQJNTFXCDJEFJJ25ULTE6YHLP4/",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump annonce le blocus naval du détroit d’Ormuz",
-      "content_html": "Donald Trump à l'aéroport international de Miami, le 11 avril 2026.",
-      "date_published": "2026-04-12T15:14:58+00:00",
-      "authors": [
-        {
-          "name": "Jérôme Balazard, Margaux  Gable, Service Photo,  AFP, Reuters ."
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "70f71b229249806ac0d034301dcef1a597eaa4c2c516787b73a7bbc4c53fa810",
@@ -1177,9 +1389,9 @@
       "lang": "fr"
     },
     {
-      "id": "dae9cd55b20a68772552a66aa830fbf11d6920c90405ec4d56f6ac2b9c10d9b7",
-      "url": "https://www.dw.com/en/benin-heads-to-the-polls-to-elect-a-new-president/a-76754222?maca=en-rss-en-all-1573-rdf",
-      "title": "Benin heads to the polls to elect a new president",
+      "id": "72a483ebc79fe82c90162d992311123ef558fee9ab3b4029b1cdebb06aed7e76",
+      "url": "https://www.dw.com/en/benin-election-finance-minister-wadagni-expected-to-win/a-76754222?maca=en-rss-en-all-1573-rdf",
+      "title": "Benin election: Finance minister Wadagni expected to win",
       "content_html": "Finance Minister Romuald Wadagni is the favourite to win after being endorsed by outgoing president Patrice Talon. Wadagni's only rival, Paul Hounkpe, has a much lower profile.",
       "date_published": "2026-04-12T13:38:00+00:00",
       "authors": [],
@@ -2435,31 +2647,6 @@
       "lang": "en"
     },
     {
-      "id": "8be03dfa5b5d01778bf1f54a15432a493df60f86d883b4e76d1fa4722527b762",
-      "url": "https://www.timesofisrael.com/despite-war-cancellations-holocaust-survivors-from-israel-to-join-march-of-the-living/",
-      "title": "Despite war cancellations, Holocaust survivors from Israel to join March of the Living",
-      "content_html": "<p>Around a dozen survivors, aged 90-100, will travel to Poland though most Israeli delegates forced to cancel; march to be led by survivors of attacks on Jews; former hostages to light torch</p>\n<p>The post <a href=\"https://www.timesofisrael.com/despite-war-cancellations-holocaust-survivors-from-israel-to-join-march-of-the-living/\">Despite war cancellations, Holocaust survivors from Israel to join March of the Living</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/04/AFP__20250424__43CT2XP__v1__HighRes__PolandIsraelGermanyHistoryWwiiHolocaust-1024x640.jpg\" title=\"Despite war cancellations, Holocaust survivors from Israel to join March of the Living\" width=\"160\" /></figure>",
-      "date_published": "2026-04-12T10:24:55+00:00",
-      "authors": [],
-      "tags": [
-        "Jewish Times",
-        "Holocaust Remembrance Day",
-        "March of the Living",
-        "Holocaust survivors",
-        "Bondi Beach terror attack",
-        "Yom Kippur 2025 Manchester terror attack",
-        "Washington, DC, shooting attack 2025",
-        "2026 US-Israel war with Iran",
-        "Agam Berger",
-        "Omri Miran"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4b48b05ad120d52a39596d56e0adf4186110788a508cb5a5d0807c68c9249b38",
       "url": "https://www.lemonde.fr/international/article/2026/04/12/haiti-30-morts-dans-une-bousculade-sur-un-site-touristique_6679565_3210.html",
       "title": "Haïti : 30 morts dans une bousculade sur un site touristique",
@@ -2558,20 +2745,6 @@
       "lang": "en"
     },
     {
-      "id": "a3fdeb2696fd4dfdabf44304eade5f9fff2f360d0d6f575c2ddbf495e174fc61",
-      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "content_html": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-      "date_published": "2026-04-12T10:03:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "47606fa7a2a65ba884d8e7d12bd05722b7e2bb7b616c72edffdf205d89a72018",
       "url": "https://www.lemonde.fr/idees/article/2026/04/12/brahma-chellaney-geostratege-ce-que-l-iran-a-demontre-c-est-la-capacite-d-un-etat-plus-faible-a-eroder-progressivement-les-avantages-d-une-superpuissance_6679564_3232.html",
       "title": "Brahma Chellaney, géostratège : « Ce que l’Iran a démontré, c’est la capacité d’un Etat plus faible à éroder progressivement les avantages d’une superpuissance »",
@@ -2582,20 +2755,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "b7af464807454ecce3f4a084f9f874b26bf93c8a531213da24209b8e315cccbe",
-      "url": "https://ici.radio-canada.ca/nouvelle/2242798/detresse-psychologique-centre-crise-caq",
-      "title": "Des services pour décompresser avant d’exploser",
-      "content_html": "<p>Le service de crise de l&#x27;Est-de-l&#x27;Île-de-Montréal accompagne près de 10&nbsp;000&nbsp;personnes en détresse par année.</p>",
-      "date_published": "2026-04-12T10:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -3012,26 +3171,6 @@
       "lang": "fr"
     },
     {
-      "id": "979007fca7d91d78354df681ed2fec1f81c26dea6bad72a2334b7cc21fbc4359",
-      "url": "https://www.france24.com/fr/france/20260412-marathon-de-paris-yemaneberhan-crippa-et-shure-demise-triomphent-un-record-pulv%C3%A9ris%C3%A9",
-      "title": "Marathon de Paris : Yemaneberhan Crippa et Shure Demise triomphent, un record pulvérisé",
-      "content_html": "Le marathon de Paris, couru dimanche par près de 60 000 participants, a été remporté côté hommes par l'Italien d'origine éthiopienne Yemaneberhan Crippa, et côté femmes par l'Éthiopienne Shure Demise, qui a battu de plus d'une minute le précédent record du marathon.",
-      "date_published": "2026-04-12T08:56:05+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3206c463540c6d93ff71c1f2e45828ad962f9459126103c0e18b5aee96fed6bb",
       "url": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-all-1573-rdf",
       "title": "India: Legendary playback singer Asha Bhosle dies at 92",
@@ -3138,24 +3277,6 @@
       "lang": "en"
     },
     {
-      "id": "029b867fa756753faab598861f40ae02139cb4d21e5f23c6f2117017f4e6dba0",
-      "url": "https://www.france24.com/en/hungary-orban-and-magyar-on-the-home-stretch",
-      "title": "Hungary: Orban and Magyar on the home stretch",
-      "content_html": "Hungarians headed to the polls on Sunday in a pivotal parliamentary election that could end Prime Minister Viktor Orban’s 16-year grip on power, as the opposition led by Peter Magyar challenges his nationalist rule in a contest drawing scrutiny across Europe and backing for Orban from US President Donald Trump. Lecturer in comparative politics at Keele University, Gemma Loomes, shares more insights on the vote.",
-      "date_published": "2026-04-12T08:39:37+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ee4e52170d7e8c1094ec02b11c6b6132121b67389d5bdb86d4f1ba2b38ed730a",
       "url": "https://www.dw.com/en/china-boosts-ties-with-taiwan-after-opposition-leader-visits/a-76752265?maca=en-rss-en-all-1573-rdf",
       "title": "China boosts ties with Taiwan after opposition leader visits",
@@ -3214,38 +3335,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1c3d6b665e4ebb0ec9581869365bb0425462b23e28c56e5eb65056afeb5a4ad2",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
-      "title": "What happened in 40 days of war on Iran",
-      "content_html": "Who got hit in the war on Iran? The attacks, the damage and the people caught in between.",
-      "date_published": "2026-04-12T08:09:55+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8095849a678e6ea52be7e4a211470ca0b2cb74487c956f82f25e400fdcce180c",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-      "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-      "content_html": "US-Iran talks in Islamabad end without a deal, with each side blaming the other for the failure.",
-      "date_published": "2026-04-12T08:07:31+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3421,22 +3510,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e4916d0ee77c82ee1af752cd297396d72c3160aa111662a0f4c42b19a57ac986",
-      "url": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss",
-      "title": "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti",
-      "content_html": "Brazil&#039;s coach says Neymar could be in contention for the squad if he attains full fitness in the next two months.",
-      "date_published": "2026-04-12T06:56:08+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3835,7 +3908,7 @@
       "id": "e772d46787a49859fb8e75fda452c395be47f648f12a439f4db2414a0ea8ec6f",
       "url": "https://www.lemonde.fr/idees/article/2026/04/12/arnaud-orain-economiste-une-des-grandes-lecons-de-la-guerre-contre-l-iran-c-est-qu-on-ne-controle-pas-si-facilement-la-mer_6679538_3232.html",
       "title": "Arnaud Orain, économiste : « Une des grandes leçons de la guerre contre l’Iran, c’est qu’on ne contrôle pas si facilement la mer »",
-      "content_html": "Arnaud Orain.",
+      "content_html": "Arnaud Maintenant",
       "date_published": "2026-04-12T04:30:07+00:00",
       "authors": [],
       "tags": [],
@@ -3860,57 +3933,11 @@
       "lang": "fr"
     },
     {
-      "id": "c4aa08c2b5c5c4598ac85149fd5a82b9dfc8bf62ae3f08ea6ee55f1465852ee3",
-      "url": "https://www.ukrinform.net/rubric-ato/4111609-ukrainian-air-defense-downs-rare-russian-drones-knyaz-veshchiy-oleg-and-izdeliye54.html",
-      "title": "Ukrainian air defense downs rare Russian drones Knyaz Veshchiy Oleg and Izdeliye-54",
-      "content_html": "An anti-aircraft missile division of the 67th Separate Mechanized Brigade of the Armed Forces of Ukraine has destroyed rare models of Russian drones, Knyaz Veshchiy Oleg and Izdeliye-54.",
-      "date_published": "2026-04-12T04:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ce045fc414d1ac3ed03f6bdd5b61c96d9fce69aa6895b680de84167a18699f7f",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111607-macron-urges-iranian-president-to-restore-security-in-strait-of-hormuz.html",
-      "title": "Macron urges Iranian president to restore security in Strait of Hormuz",
-      "content_html": "French President Emmanuel Macron has called on his Iranian counterpart Masoud Pezeshkian to use the negotiations in Islamabad to achieve sustainable de-escalation, and to restore freedom and security of navigation in the Strait of Hormuz as soon as possible.",
-      "date_published": "2026-04-12T04:03:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6069be5c464e806308d24c412a1d43298484eb1fc5941a502004312ced9b9fb3",
       "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/04/12/le-christianisme-en-algerie-une-longue-histoire-un-present-contrarie_6679537_6038514.html",
       "title": "Le christianisme en Algérie : une longue histoire, un présent contrarié",
       "content_html": "« Scène de la vie de Saint Augustin », peinture anonyme d’origine flamande, vers 1490. L’œuvre est conservée au Cloisters Museum, à New York.",
       "date_published": "2026-04-12T04:00:34+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "96d8cc7ecc1a01a4cec539b7adf4459cc948d9be1ab5930d6fce04b6a4fc1af1",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/12/la-victoire-en-iran-construite-comme-une-verite-alternative-par-trump-apparait-comme-une-realite-tragique-pour-les-iraniens_6679532_3232.html",
-      "title": "« La “victoire” en Iran, construite comme une “vérité alternative” par Trump, apparaît comme une réalité tragique pour les Iraniens »",
-      "content_html": "Lors d’un rassemblement prorégime à Téhéran, le 11 avril 2026.",
-      "date_published": "2026-04-12T04:00:28+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -4570,7 +4597,7 @@
       "date_published": "2026-04-11T19:43:09+00:00",
       "authors": [
         {
-          "name": "Dan Sabbagh Jerusalem, Shah Meer Baloch Islamabad, William Christou Beirut, and Hannah Ellis-Petersen in Delhi"
+          "name": "Dan Sabbagh in Jerusalem, Shah Meer Baloch in Islamabad, William Christou in Beirut and Hannah Ellis-Petersen in Delhi"
         }
       ],
       "tags": [
@@ -4947,7 +4974,7 @@
     {
       "id": "21ebd5f98106307809db569a46b1fecf03a3930cad7ca220537cebd7e0bee63d",
       "url": "https://www.elmundo.es/internacional/2026/04/11/69da5932fc6c83041d8b457b.html",
-      "title": "Élections partielles au Canada : Mark Carney est sur le point d'obtenir la majorité un an après son arrivée au pouvoir",
+      "title": "Élections partielles au Canada : Mark Carney est sur le point de remporter la majorité un an après son arrivée au pouvoir",
       "content_html": "Cet ancien banquier central a donné la surprise dans un contexte très défavorable aux libéraux après 10 ans de gouvernement de Justin Trudeau",
       "date_published": "2026-04-11T14:44:30+00:00",
       "authors": [
@@ -6958,7 +6985,7 @@
       "id": "92a867aece6f155c31874775cd91e27cdc4fc430540dd3e971fa8be1363e3b6f",
       "url": "https://www.elmundo.es/internacional/2026/04/09/69d7817121efa049478b4579.html",
       "title": "Le Royaume-Uni et la Norvège lancent une opération militaire contre trois sous-marins russes qui espionnaient dans l'Atlantique",
-      "content_html": "Des centaines de soldats ont effectué des tâches de surveillance pendant un mois dans le nord du Royaume-Uni.Les navires suspects ont finalement quitté la zone.",
+      "content_html": "Des centaines de soldats ont effectué des missions de surveillance pendant un mois dans le nord du Royaume-Uni.Les navires suspects ont finalement quitté la zone.",
       "date_published": "2026-04-09T18:38:45+00:00",
       "authors": [
         {
@@ -7325,34 +7352,6 @@
       "source": {
         "name": "The Moscow Times - Independent News From Russia",
         "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "60e8e517aba5ba194d5c554db3baf25ef1a9dd3aae595eaea12530987b902b13",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
-      "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
-      "content_html": "<p>Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache</p><p>Each day in detention feels like 48 hours for Olivia.</p><p>The 19-year-old asylum seeker from the Democratic Republic of the Congo has been at the Dilley Immigration processing center in Texas for more than four months.</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention\">Continue reading...</a>",
-      "date_published": "2026-04-09T11:00:48+00:00",
-      "authors": [
-        {
-          "name": "Maanvi Singh"
-        }
-      ],
-      "tags": [
-        "ICE (US Immigration and Customs Enforcement)",
-        "Trump administration",
-        "US immigration",
-        "US news",
-        "US politics",
-        "World news",
-        "Democratic Republic of the Congo",
-        "Texas",
-        "Africa"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -7970,7 +7969,7 @@
     {
       "id": "d71eae280060df5e8552570cc101da367cf1033f53a105a155c7288b596b713d",
       "url": "https://elpais.com/internacional/2026-04-07/los-cubanos-en-espana-contienen-la-respiracion-ante-la-ultima-crisis-en-la-isla-la-gente-esta-desesperada-y-ansiosa-por-un-cambio.html",
-      "title": "Les Cubains d’Espagne retiennent leur souffle face à la dernière crise sur l’île : « Les gens sont désespérés et avides de changement »",
+      "title": "Les Cubains d'Espagne retiennent leur souffle face à la dernière crise sur l'île : « Les gens sont désespérés et avides de changement »",
       "content_html": "Luz Escobar, journaliste cubaine en exil, photographiée mercredi à Madrid.",
       "date_published": "2026-04-07T03:30:01+00:00",
       "authors": [
