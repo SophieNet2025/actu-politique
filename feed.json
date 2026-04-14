@@ -5,25 +5,835 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "39eece0f5ff0f72891c58b170bcceb6ce52cac83e12e494480d43da54a215a55",
-      "url": "https://www.ukrinform.net/rubric-ato/4112268-defense-forces-launch-massive-night-attack-on-crimea-substation-hit-in-melitopol.html",
-      "title": "Defense forces launch massive night attack on Crimea, substation hit in Melitopol",
-      "content_html": "The Ukrainian Defense Forces launched a massive attack on the temporarily occupied Crimea overnight. Explosions were heard in the areas of Simferopol, Feodosia, and Kerch.",
-      "date_published": "2026-04-14T08:58:00+00:00",
-      "authors": [],
+      "id": "3e50ea90f250608f38034eb871547c83def27b3f5cec90eab2bd38489aace2c8",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
+      "title": "Hegseth right to mock Royal Navy, says ex-army chief as he backs claims over military underfunding – UK politics live",
+      "content_html": "<p>Richard Barrons backs George Robertson and says UK forces ‘too small and undernourished for the world that we now live in’</p><p>A funding boost of almost £130m is set to be distributed across cultural venues, museums and libraries in England, the <strong>Department for Culture, Media and Sport</strong><a href=\"https://www.gov.uk/government/news/130-cultural-venues-museums-and-libraries-to-receive-funding-boost-that-will-improve-access-to-arts-and-culture-across-the-country\"> </a>has announced. In <a href=\"https://www.gov.uk/government/news/130-cultural-venues-museums-and-libraries-to-receive-funding-boost-that-will-improve-access-to-arts-and-culture-across-the-country\">a news release</a>, it says:</p><p>Venues ranging from The Lowry Centre in Salford, The Hexagon in Reading and the Royal Shakespeare Company in Warwickshire will receive a much needed cash boost to help open up access to facilities, complete much needed building projects and upgrade technology on site.</p><p>The 130 organisations receiving funding today mark the first projects receiving cash from the government’s Arts Everywhere Fund. As the cost of living continues to affect families across Britain, funding for these venues will help provide welcoming, affordable spaces for communities to visit, come together and celebrate what makes their local area special.</p> <a href=\"https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-04-14T10:04:34+00:00",
+      "authors": [
+        {
+          "name": "Andrew Sparrow"
+        }
+      ],
       "tags": [
-        "War"
+        "Politics",
+        "UK news",
+        "Labour",
+        "Keir Starmer",
+        "Royal Navy",
+        "British army",
+        "Military",
+        "Defence policy",
+        "Kemi Badenoch",
+        "Donald Trump"
       ],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e22b8dd265805fa916e9290185af40da73f999180f6257f789496b5b7dd4b3fb",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-can-2025-peines-de-prison-confirm%C3%A9es-pour-18-supporters-s%C3%A9n%C3%A9galais",
+      "title": "CAN 2025 : peines de prison confirmées pour 18 supporters sénégalais",
+      "content_html": "Les peines de prison infligées par la justice marocaine à 18 supporters sénégalais pour leur implication dans les violences survenues lors de la finale de la CAN ‏2025 ont été confirmées en appel. Poursuivis pour \"hooliganisme\" après les incidents du 18 janvier, ils ont été condamnés à des peines allant de trois mois à un an d’emprisonnement.",
+      "date_published": "2026-04-14T10:04:27+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "debc995208bae117a4be626f5d895a3f83c28a62f9f53cc42765bef62bf37c71",
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
+      "title": "Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live",
+      "content_html": "<p>US vice-president defends pre-election visit to Hungary with fresh barbs against EU in first comments since Orbán’s loss</p><p><em>in Budapest</em></p><p><strong>We are getting some interesting comments from the Kremlin in reaction to the Hungarian election over the weekend.</strong></p> <a href=\"https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates\">Continue reading...</a>",
+      "date_published": "2026-04-14T10:02:54+00:00",
+      "authors": [
+        {
+          "name": "Jakub Krupa"
+        }
+      ],
+      "tags": [
+        "World news",
+        "Hungary",
+        "Europe",
+        "Ukraine",
+        "Russia",
+        "European Union"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "322b150ca50b6b1081ed349c184bfb7b57547b016023dc56638294b107a135b7",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-recul-de-la-recherche-m%C3%A9dicale-aux-%C3%A9tats-unis-un-risque-pour-la-sant%C3%A9-mondiale",
+      "title": "Recul de la recherche médicale aux États-Unis : un risque pour la santé mondiale ?",
+      "content_html": "Coupes budgétaires massives, libertés académiques sous pression : la recherche scientifique américaine subit un choc majeur sous l’effet des décisions de l’administration Trump. Dans quelle mesure ce recul américain menace-t-il la santé mondiale ? Décryptage avec Sophian Aubin, journaliste de France 24.",
+      "date_published": "2026-04-14T10:01:52+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ac82a4b87b408899c681c064556abc3dad8cc27dfd369b8d579850e6a5a6294b",
+      "url": "https://www.theguardian.com/music/2026/apr/14/dolly-parton-poll-most-popular-in-the-country",
+      "title": "Powerful woman: Dolly Parton tops list of global figures in US favorability poll",
+      "content_html": "<p>The 11-time Grammy winner had a net favorability of 65%, Obama came second with 14%, while Zelenskyy had 12%</p><p>For the US public, the feeling that <a href=\"https://www.theguardian.com/music/dolly-parton\">Dolly Parton</a> expressed in her country music chart-topping 1974 classic I Will Always Love You is clearly mutual.</p><p>A poll of Americans’ opinions about more than 20 international luminaries established as much, with the 11-time Grammy winner and philanthropist leaving her two closest competitors – <a href=\"https://www.theguardian.com/us-news/barack-obama\">Barack Obama</a> and <a href=\"https://www.theguardian.com/world/volodymyr-zelenskiy\">Volodymyr Zelenskyy</a> – in the dust by more than 50 percentage points.</p> <a href=\"https://www.theguardian.com/music/2026/apr/14/dolly-parton-poll-most-popular-in-the-country\">Continue reading...</a>",
+      "date_published": "2026-04-14T10:00:42+00:00",
+      "authors": [
+        {
+          "name": "Ramon Antonio Vargas"
+        }
+      ],
+      "tags": [
+        "Dolly Parton",
+        "US news",
+        "Music",
+        "Philanthropy",
+        "Society"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b9d9cf4c4406d6bc55eaa2ff9de7b2b1d92b528eb581e20a07465e40f37ba0fa",
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/horse-swept-fast-moving-flood-illinois-rescued",
+      "title": "Horse swept away in a fast-moving flood in Illinois rescued after eight hours",
+      "content_html": "<p>Crews from Morengo fire and rescue built a makeshift raft to get Troy, who was stuck in 15ft deep creek, safely to shore</p><p>A horse in <a href=\"https://www.theguardian.com/us-news/illinois\">Illinois</a> swept from a barn in a fast-moving flood has been reunited with his owner after firefighters joined a local veterinarian in a unique, daring deep-water rescue.</p><p>Crews from the Marengo fire and rescue districts constructed a makeshift raft to move Troy, who was stranded about 600ft from the nearest shore and surrounded by a strong current of water in Coon Creek, about 60 miles north-west of Chicago.</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/14/horse-swept-fast-moving-flood-illinois-rescued\">Continue reading...</a>",
+      "date_published": "2026-04-14T10:00:41+00:00",
+      "authors": [
+        {
+          "name": "Richard Luscombe"
+        }
+      ],
+      "tags": [
+        "Illinois",
+        "US news",
+        "Horses",
+        "Animals"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8a567c26ebd11ebe0a843817206b12ab35f02ae03cd1459eee1774d342cbef63",
+      "url": "https://www.dw.com/en/spanish-premier-calls-for-a-stronger-bond-between-china-and-eu-on-beijing-trip/a-76770392?maca=en-rss-en-all-1573-rdf",
+      "title": "Spanish premier calls for a stronger bond between China and EU on Beijing trip",
+      "content_html": "Spain has been one of Europe's loudest voices calling for expanding trade with China and treating it as a strategic ally, rather than an economic and geopolitical rival.",
+      "date_published": "2026-04-14T09:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "80d0a0035994cd396361afa864fed124116a0fc895a73abf168d9faa4b18ae6b",
+      "url": "https://www.liberation.fr/sports/football/une-agonie-dau-moins-douze-heures-six-ans-apres-la-mort-de-maradona-sept-professionnels-de-sante-de-retour-devant-la-justice-20260414_FDCLJQLM2JBVFMRO27SOMSBQ2I/",
+      "title": "«Une agonie d’au moins douze heures» : six ans après la mort de Maradona, sept professionnels de santé de retour devant la justice",
+      "content_html": "Des garçons sont assis devant une fresque représentant la star de football Diego Maradona, aujourd’hui décédé, dans le quartier de Villa Fiorito, sa ville natale, dans la province de Buenos Aires, en Argentine, le 9 avril 2026. Le deuxième procès concernant la mort de la star du football Diego Maradona s'ouvre le 14 avril 2026, après l'annulation du premier, qui s'était tenu l'année dernière, lorsqu'il a été découvert qu'un des juges participait à un documentaire clandestin sur la procédure.",
+      "date_published": "2026-04-14T09:56:14+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "248e726525dcf6b80675e0068046609cfebdd9871b80ed526e9e7a80b5899796",
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+      "title": "Middle East crisis live: US blockade of Iranian ports continues with France and UK to chair talks on strait of Hormuz",
+      "content_html": "<p>Macron and Starmer will co-host Paris summit on Friday as a reports suggest that Iran-US talks could resume in Pakistan later this week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin\">US starts naval blockade of Iranian ports after deadline passes</a></p></li></ul><p><strong>South Korean president Lee Jae Myung has said rising tensions around the strait of Hormuz make it hard to be optimistic about the fallout from</strong> <strong>the Iran war, </strong>warning that high oil prices and supply-chain strains are likely to persist for some time.</p><p>Lee told a cabinet meeting on Tuesday the government should treat prolonged disruption in global energy and raw materials markets as a given and reinforce its emergency response system.</p><p>For the time being, difficulties in global energy and raw materials supply chains and high oil prices will continue … I ask that we pursue the development of alternative supply chains, medium- to long-term industrial restructuring, and the transition to a post-plastic economy as top-priority national strategic projects.”</p><p>Lebanon and Israel have been at war in some form since the early 1980s. You’re not allowed to enter Lebanon if you have an Israeli stamp in your passport. The two don’t have diplomatic relations. So the fact that these talks are happening directly between the two governments is something that’s really astonishing.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins\">Continue reading...</a>",
+      "date_published": "2026-04-14T09:56:02+00:00",
+      "authors": [
+        {
+          "name": "Taz Ali (now) and Adam Fulton (earlier)"
+        }
+      ],
+      "tags": [
+        "US-Israel war on Iran",
+        "Iran",
+        "Israel",
+        "Trump administration",
+        "Middle East and north Africa",
+        "Strait of Hormuz",
+        "US foreign policy",
+        "Donald Trump",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2919c2ac2059b46d0ec73d3923a34a367ffc33267ed3692b3b13d8dcd84b7515",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-denonce-une-violation-grave-de-sa-souverainete-apres-lentree-en-vigueur-du-blocus-maritime-impose-par-les-etats-unis-20260414_XRH3PNT72VERJJ5MSK6D6PXSKU/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Le Pakistan propose de nouveaux pourparlers à Islamabad entre les Etats-Unis et l’Iran",
+      "content_html": "Le cortège du vice-président J.D. Vance à Islamabad, le samedi 11 avril 2026.",
+      "date_published": "2026-04-14T09:52:59+00:00",
+      "authors": [
+        {
+          "name": "Eve Roger, Service Photo,  AFP, Reuters ., Cassandre Leray"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ffbb9672653e089d609d17d7302d47912e9f44751e888b744571945295549d1e",
+      "url": "https://www.themoscowtimes.com/2026/04/14/ex-senator-savelyev-jailed-10-years-for-conspiring-to-murder-business-partner-a92492",
+      "title": "Ex-Senator Savelyev Jailed 10 Years for Conspiring to Murder Business Partner",
+      "content_html": "The case against Dmitry Savelyev centered on a $100,000 payment he was said to have made in August 2023 to arrange the killing of his jailed business partner Sergei Ionov.",
+      "date_published": "2026-04-14T09:52:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d9de568aa759dbb03fcd072db53338ecbe57f3a7166f027d53ba3ff5882cc906",
+      "url": "https://www.liberation.fr/international/moyen-orient/washington-accueille-de-difficiles-pourparlers-de-paix-entre-le-liban-et-israel-a-partir-de-17-heures-20260414_EMCGGAX6TFGWDDMOARQIVJG2KA/",
+      "title": "Washington accueille de difficiles pourparlers de paix entre le Liban et Israël à partir de 17 heures",
+      "content_html": "Liban, le 14 avril 2026. De la fumée s'élève du site d'une frappe aérienne israélienne qui a visé la région d'Al-Hosh, près de la ville côtière libanaise de Tyr.",
+      "date_published": "2026-04-14T09:50:42+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4f29bce982fc3eb97bf3d4b752b7864cec0c2411744ae7a6b189b5d8c2022564",
+      "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Police officers among seven arrested over deadly Haiti stampede",
+      "content_html": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
+      "date_published": "2026-04-14T09:49:45+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5709e15a57a5f5516eee4c8a1e118149c3f86440d80302d3a6a9c0ea4ab29d26",
+      "url": "https://www.france24.com/fr/afrique/20260414-visite-pape-annaba-algerie-saint-augustin-vatican-catholique-musulman",
+      "title": "Le pape Léon XIV est arrivé à Annaba, au deuxième jour de sa visite en Algérie",
+      "content_html": "",
+      "date_published": "2026-04-14T09:44:17+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4593137cbbecb47b0ff7f683b7ce2ae03ebab37f3b91a05bfdd1e156bdd30408",
+      "url": "https://www.france24.com/en/video/20260414-colombia-approves-plan-to-cull-roaming-hippos-linked-to-pablo-escobar",
+      "title": "Colombia approves plan to cull roaming hippos linked to Pablo Escobar",
+      "content_html": "Colombian officials on Monday authorized a plan to cull dozens of hippos roaming freely through a region in the center of the country, where they threaten villagers and displace native species years after notorious drug lord Pablo Escobar brought in the first ones.",
+      "date_published": "2026-04-14T09:43:22+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "da86794c9b5cb38c9690c018c8903dd6c8fef75f9f80694639fed6a049deef44",
+      "url": "https://www.dw.com/en/south-korea-90-year-old-woman-gets-jail-for-money-laundering/a-76773971?maca=en-rss-en-all-1573-rdf",
+      "title": "South Korea: 90-year-old woman gets jail for money laundering",
+      "content_html": "The woman was helping her son launder drug revenues while he was in prison in Cambodia. The court's one-year prison term took into consideration her age and clean record prior to the laundering.",
+      "date_published": "2026-04-14T09:39:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc3d081000cfae2e873dcc126ab89bd97e871ca4c21545ad358dda1bed1620b6",
+      "url": "https://www.france24.com/en/video/20260414-new-trial-over-maradona-s-death-begins-in-argentina",
+      "title": "New trial over Maradona's death begins in Argentina",
+      "content_html": "A ⁠new trial over ​the death of Argentine football legend Diego Maradona will begin on Tuesday, with seven members ​of his medical team charged with negligent homicide nearly a year after a previous case collapsed in a mistrial.",
+      "date_published": "2026-04-14T09:37:58+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bdfd009d682000022a45e31e17433a2944d1989bd966ef80fff1a159562e440c",
+      "url": "https://www.elmundo.es/internacional/2026/04/14/69de0ac7e4d4d8e07b8b4581.html",
+      "title": "Une fusillade dans une école en Turquie fait au moins 16 blessés",
+      "content_html": "L'agresseur s'est suicidé lorsque la police a tenté de l'arrêter sur place.",
+      "date_published": "2026-04-14T09:37:13+00:00",
+      "authors": [
+        {
+          "name": "Reuters | AFP"
+        }
+      ],
+      "tags": [
+        "internacional",
+        "Turquía"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2dbafda065301e402072b9c8de7d859534d0b3039cc817bca8866529ea867755",
+      "url": "https://www.liberation.fr/international/europe/suisse-le-maire-de-crans-montana-rejette-toute-responsabilite-dans-le-drame-du-nouvel-an-20260414_XYNYER5RZVGQ7JOA3ULWHO4IVI/",
+      "title": "Suisse : le maire de Crans-Montana rejette toute responsabilité dans le drame du nouvel an",
+      "content_html": "Crans-Montana, le 12 janvier 2026, 10 jours après le terrible incendie.",
+      "date_published": "2026-04-14T09:36:31+00:00",
+      "authors": [
+        {
+          "name": "LIBERATION,  AFP"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d85788e55dda0d27cffab9cd745b45a33a8a9ea8a743e3ddb1614d0384aa505f",
+      "url": "https://www.france24.com/en/video/20260414-fujimori-leads-chaotic-peru-vote-as-election-officials-arrested-over-delays",
+      "title": "Fujimori leads chaotic Peru vote as election officials arrested over delays",
+      "content_html": "Peruvians waited Monday to see who will face conservative Keiko Fujimori in a presidential runoff, after a chaotic first round of voting that sparked criminal proceedings against top election officials. Sunday's vote saw a series of logistical foul-ups in delivering election materials that caused polling centers to open hours late. Police raided the headquarters of the National Office of Electoral Processes and later detained an election official over the delays.",
+      "date_published": "2026-04-14T09:36:21+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8989a2bf00546427d533f3d695074b7de9ccc7831b743b3e6edcbd1b21f9c65f",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260414-ligue-des-champions-le-psg-%C3%A0-l-assaut-d-anfield",
+      "title": "Ligue des Champions : le PSG à l’assaut d’Anfield",
+      "content_html": "Le PSG se déplace à Anfield pour le quart de finale retour de la Ligue des Champions face à Liverpool. Vainqueur (2-0) à l’aller, le club parisien arrive avec un avantage solide et vise la qualification pour les demi-finales",
+      "date_published": "2026-04-14T09:34:24+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "39ba76b5ef05d0c9053805853d5d88dfb7f1cd0ff84a547ab62bbb2427caf08d",
+      "url": "https://www.france24.com/en/video/20260414-shocking-attack-italian-press-reacts-to-trump-s-feud-with-pope",
+      "title": "'Shocking attack': Italian press reacts to Trump's feud with pope",
+      "content_html": "US President Donald Trump posted an AI-generated image of himself as a Jesus-like figure on Sunday, drawing widespread criticism even from some religious conservatives who typically support him, before deleting the post on Monday. It came amid his escalating feud with Pope Leo, who has criticized the war that started with US-Israeli strikes on Iran as inhumane. France 24’s correspondent in Italy Seema Gupta takes a look at how some of the Italian newspapers have been reacting.",
+      "date_published": "2026-04-14T09:34:02+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "28935f28b7510cae798d2b2d53a0735bb9c6a916a52266405ec919a75a40648e",
+      "url": "https://toi.li/BHhcaZ",
+      "title": "Standing with Our Soldiers - Sponsored Content",
+      "content_html": "<p>The Jerusalem Institute of Justice is the only organization providing IDF soldiers with free legal aid so they can get the help they deserve. </p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/standing-with-our-soldiers/\">Standing with Our Soldiers</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/SOLDIER-TEAM-1-1024x640.jpg\" title=\"Standing with Our Soldiers\" width=\"160\" /></figure>",
+      "date_published": "2026-04-14T09:34:02+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c3b0e9231ce05ffd8f18a5c3ce0a356efbdf096680d7893b179653af6cd5de78",
+      "url": "https://www.elmundo.es/internacional/2026/04/14/69de06cee9cf4a97048b4578.html",
+      "title": "Deux terroristes se sont fait exploser en Algérie au premier jour de la visite du pape",
+      "content_html": "L'attaque, qui a fait plusieurs blessés, s'est produite dans la ville de Bilda, à une quarantaine de kilomètres d'Alger, où séjournait Léon XIV.",
+      "date_published": "2026-04-14T09:30:55+00:00",
+      "authors": [
+        {
+          "name": "E. M."
+        }
+      ],
+      "tags": [
+        "Papa León XIV"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "08bebbf898c2f14c8d467f9c5609a088ac6d6d54d890692bb04321fb200b5509",
+      "url": "https://www.france24.com/en/video/20260414-total-dehumanisation-french-former-hostages-in-iran-give-interview",
+      "title": "'Total dehumanisation': French former hostages in Iran give interview",
+      "content_html": "French former hostages Cecile Kohler and Jacques Paris have given their first television interview since returning to France from Iran. They had been detained in Iran on espionage charges for almost four years. The pair spoke in detail about their ordeal, and how they managed to maintain hope while imprisoned.",
+      "date_published": "2026-04-14T09:29:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5a484acdf1c3068aa8d05290829c8d8107eeec86ec238f00d94819f7ca436a59",
+      "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
+      "title": "Sudan drone strikes kill nearly 700 in three months as civil war reaches grim milestone",
+      "content_html": "Nearly 700 civilians have been reported killed in drone strikes so far this year, the United Nations aid chief Tom Fletcher said Tuesday, lamenting that \"the world has failed to meet the test of Sudan\" after three years of a gruesome civil war that has killed tens of thousands and displaced more than 11 million.",
+      "date_published": "2026-04-14T09:28:25+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Africa"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "553d64ccf7725141ff70981cafdb6c7024bde750c142ea83bc82e03109bc860d",
+      "url": "https://www.france24.com/en/tv-shows/business/20260414-china-s-exports-slow-amid-surging-costs-brought-on-by-iran-war",
+      "title": "China's exports slow amid surging costs brought on by Iran war",
+      "content_html": "China's exports grew only 2.5% in March from a year earlier, a significantly slowdown caused by the war in Iran. The closure of the Strait of Hormuz has pushed up the cost of materials, and many Chinese factories saw their profits squeezed last month. Also in this edition: hundreds of Hollywood stars have come out in opposition to the acquisition of Warner Brothers Discovery by Paramount. Plus, the man accused of throwing a Molotov cocktail at the home of OpenAI's CEO is facing attempted murder charges.",
+      "date_published": "2026-04-14T09:28:14+00:00",
+      "authors": [
+        {
+          "name": "Camille KNIGHT"
+        }
+      ],
+      "tags": [
+        "Business"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9d5707e76dd78c1aee9004932c7d918561a8385dd45f151b4a028833281cd084",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-moyen-orient-selon-les-m%C3%A9dias-am%C3%A9ricains-les-n%C3%A9gociations-de-paix-se-poursuivent-en-coulisse",
+      "title": "Moyen-Orient : selon les médias américains, les négociations de paix se poursuivent en coulisse",
+      "content_html": "La première rencontre depuis plus d’une décennie entre représentants américains et iraniens, tenue à Islamabad, s’est conclue sans avancée majeure malgré des discussions parfois tendues. Malgré cet échec, le dialogue entre Washington et Téhéran se poursuit, sur fond de profondes divergences après le récent cessez-le-feu. En parallèle, la Chine semble s'aggacer des conséquence du blocage du détroit d'Ormuz. Analyse de Bruno Daroux, chroniqueur international à France 24.",
+      "date_published": "2026-04-14T09:27:33+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ef6dc85f6b806402f55db7a6b22dc4c77413e7951e55738c4837902a6dc27e14",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260414-p%C3%A9nurie-de-k%C3%A9ros%C3%A8ne-les-vols-a%C3%A9riens-bient%C3%B4t-menac%C3%A9s",
+      "title": "Pénurie de kérosène : les avions bientôt menacés ?",
+      "content_html": "Le blocus du détroit d’Ormuz fait craindre une pénurie de carburant pour l’aviation en Europe d’ici trois mois. Dépendantes du Golfe pour leur kérosène, les compagnies aériennes voient déjà les prix s’envoler.",
+      "date_published": "2026-04-14T09:26:40+00:00",
+      "authors": [
+        {
+          "name": "Christophe DANSETTE"
+        }
+      ],
+      "tags": [
+        "Info éco"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cfc943a4e56bf58e54e5fef47c8ec5e49c71644e23b251ea3cf1b771285d0087",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-liban-une-ligne-de-facture-tr%C3%A8s-nette-avant-m%C3%AAme-le-d%C3%A9but-des-discussions-hezbollah-isra%C3%ABl",
+      "title": "Liban : \"une ligne de facture très nette avant même le début\" des discussions Hezbollah-Israël",
+      "content_html": "Des discussions informelles entre Israël et le Liban débutent ce mardi à Washington sous médiation américaine, malgré une escalade récente des combats à la frontière sud du Liban. Le Hezbollah, par la voix de son chef Naïm Qassem, rejette ces pourparlers, les qualifiant de « capitulation » et estimant qu’aucun dialogue avec Israël ne peut avoir lieu sans consulter la population. Cette opposition se manifeste aussi sur le terrain, avec des manifestations récentes. Les précisions de Serge Berberi au Liban pour France 24.",
+      "date_published": "2026-04-14T09:21:54+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1016530e08d322d3f776a14430b705161d6fbaa9072c9b24a95de271ecf8f11d",
+      "url": "https://www.france24.com/fr/%C3%A9missions/focus/20260414-au-kurdistan-irakien-les-habitants-se-d%C3%A9solent-nous-n-%C3%A9tions-pas-en-guerre",
+      "title": "Au Kurdistan irakien, les habitants se désolent : \"Nous n'étions pas en guerre!\"",
+      "content_html": "Au Kurdistan irakien, après un mois et demi à vivre sous la menace des drones, les habitants sont épuisés. D’autant qu’a vingt-quatre heures du cessez-le-feu, une civile a été tuée dans une frappe de drone, attribuée à l’Iran par les autorités kurdes. Au total, quelques 700 attaques de drones et de missiles ont ciblé les positions américaines et certains intérêts kurdes. Les habitants se désolent de cette guerre entre l'Iran et les Etats-Unis, dont ils sont les victimes indirectes. Reportage de Marie-Charlotte Roupie.",
+      "date_published": "2026-04-14T09:21:04+00:00",
+      "authors": [
+        {
+          "name": "Marie-Charlotte ROUPIE"
+        }
+      ],
+      "tags": [
+        "Focus"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "76c9b7103a2bbc03c16fd5506aa91f928a629990a68561b993315b3a2bd98a6f",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-isra%C3%ABl-accus%C3%A9-de-raser-des-villages-dans-le-sud-liban",
+      "title": "Israël accusé de raser des villages dans le sud Liban",
+      "content_html": "Alors que des vidéos de soldats israéliens détruisant des bâtiments dans le sud du Liban suscitent une vive polémique, Israël est accusé de raser des villages dans cette zone. L’armée israélienne affirme de son côté agir dans le cadre de son conflit contre le Hezbollah. Enquête des journalistes de France 2 sur le terrain.",
+      "date_published": "2026-04-14T09:17:31+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4452c255f6e9ab6aa75b99b593fa778232785a233893f88734e55bf0b1f8a1b7",
+      "url": "https://www.france24.com/fr/afrique/20260414-soudan-guerre-onu-alerte-700-civils-tues-frappes-drones-2026",
+      "title": "Soudan : l’ONU alerte sur le lourd bilan des frappes de drones meurtrières contre les civils",
+      "content_html": "Alors que la guerre au Soudan entre dans sa quatrième année, le bilan humain continue de s’alourdir. Selon l'Onu, près de 700 civils ont été tués par des frappes de drones depuis janvier. Une situation dramatique dénoncée par Tom Fletcher, général adjoint de l'ONU aux Affaires humanitaires, qui déplore l’échec de la communauté internationale face à une crise humanitaire persistante.",
+      "date_published": "2026-04-14T09:16:59+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Afrique"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "925487231a1e0f3b9f066af09c431c30088d50c4444600a58e36345a9e6d2801",
+      "url": "https://www.lemonde.fr/international/article/2026/04/14/l-espagne-lance-mardi-un-vaste-plan-de-regularisation-des-sans-papiers_6679910_3210.html",
+      "title": "L’Espagne lance mardi un vaste plan de régularisation des sans-papiers",
+      "content_html": "Le premier ministre espagnol, Pedro Sanchez, à Pékin, le 14 avril 2026.",
+      "date_published": "2026-04-14T09:16:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5387f1901543a33d4e6bbeda4a2749dde978fe65f9ddaa786ac9da2fe72886c2",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-d%C3%A9troit-d-ormuz-donald-trump-se-f%C3%A9licite-du-blocus-impos%C3%A9-%C3%A0-l-iran",
+      "title": "Détroit d'Ormuz : Donald Trump se félicite du blocus imposé à l'Iran",
+      "content_html": "Donald Trump se félicite du blocus américain du détroit d’Ormuz, visant à affaiblir l’Iran, mais son efficacité est contestée par des experts et déjà contournée par certains navires. Des milliers de marins sont toujours bloqués dans le Golfe, et les tensions persistent après l’échec des négociations, sans reprise du dialogue en vue.",
+      "date_published": "2026-04-14T09:16:19+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cc60a3659c8881d6bd3a33c68f3c52d8de89e921ad7ba44776563285067c92cb",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245910/iceberg-terre-neuve-labrador",
+      "title": "La saison des icebergs s’installe au large de Terre-Neuve et du Labrador",
+      "content_html": "<p>Ces géants de glace, qui fascinent des milliers de personnes chaque année, seront bientôt visibles.</p>",
+      "date_published": "2026-04-14T09:13:34+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f14ede0d7fce22779ab8c8a6f4578e2801c2b57f0aff5d74bbc3e0a552a81ece",
+      "url": "https://www.theguardian.com/business/2026/apr/14/gina-rinehart-iron-ore-heirs-court-verdict-hancock-prospecting-ntwnfb",
+      "title": "Gina Rinehart and rival heirs brace for court verdict on claim to billion-dollar fortune",
+      "content_html": "<p>Judgment will rule on whether spoils of some of Hancock Prospecting’s iron ore projects must be shared with family of her father’s business partner</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Gina Rinehart faces the possibility of losing billions of dollars in riches from her Pilbara iron ore empire and her mantle as Australia’s wealthiest person when a long-awaited court verdict is delivered in Perth on Wednesday.</p><p>The Western Australian supreme court judgment will rule on whether Rinehart <a href=\"https://www.theguardian.com/australia-news/2023/jul/24/gina-rinehart-trial-perth-children-supreme-court-billions-john-hancock-bianca-wealth\">must share the spoils</a> of some of Hancock Prospecting’s most lucrative iron ore projects with the family of her late father’s business partner.</p> <a href=\"https://www.theguardian.com/business/2026/apr/14/gina-rinehart-iron-ore-heirs-court-verdict-hancock-prospecting-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-04-14T09:12:07+00:00",
+      "authors": [
+        {
+          "name": "Sarah Martin Senior correspondent"
+        }
+      ],
+      "tags": [
+        "Gina Rinehart",
+        "Business",
+        "Mining",
+        "Western Australia",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1d5f054fccc451dcb45944b1658340bfa6217542167936b025dda703eb6003b2",
+      "url": "https://www.aljazeera.com/gallery/2026/4/14/maradonas-childhood-home-now-a-soup-kitchen-for-the-needy?traffic_source=rss",
+      "title": "Maradona’s childhood home becomes soup kitchen for those in need",
+      "content_html": "Neighbours gather at Maradona&#039;s birthplace for meals, keeping compassion alive in the Buenos Aires suburb of Fiorito.",
+      "date_published": "2026-04-14T09:10:25+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "46b5445e837bfa2a284f730b3f7ed450feb3b4c34748e0a72ff4cd15e3f3c496",
+      "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260414-crises-sanitaires-vers-une-approche-de-sant%C3%A9-globale",
+      "title": "Crises sanitaires : vers une approche de santé globale ?",
+      "content_html": "Entre 631 000 et 827 000 virus pourraient affecter les êtres humains. Parmi les causes, la déforestation, l'élevage intensif et le commerce d'animaux. Face à ce risque, le concept de One Health — selon lequel la santé humaine, animale et environnementale sont indissociables — s'impose comme un cadre de réponse global. Pour en débattre, nous recevons Xavier Briffault, sociologue au CNRS et spécialiste en santé, et Camille Besombes, médecin infectiologue et épidémiologiste au Médialab de Sciences Po.",
+      "date_published": "2026-04-14T09:08:54+00:00",
+      "authors": [
+        {
+          "name": "Ali LAIDI"
+        }
+      ],
+      "tags": [
+        "Aux avant-postes"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c903f8202d3d0d3569434b810efd15020bf33e36ebc5eb8b2dcd089c337d39d4",
+      "url": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
+      "title": "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade",
+      "content_html": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
+      "date_published": "2026-04-14T09:08:46+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e3ebbda78b15781af5daf6cc83ae485a04e6688f3fdfa3979ebc1ac81a9a5ebd",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245875/eglise-aide-medicale-mourir-funerailles",
+      "title": "Aide médicale à mourir : l’Église refuse une messe funéraire à une famille du N.-B.",
+      "content_html": "<p>La célébration de la vie a eu lieu au salon funéraire, sans la présence du prêtre de la paroisse. </p>",
+      "date_published": "2026-04-14T09:08:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6084792f7e9681ce21f2f5f8653423b666d1ad82d0717b4f8485d3953bc7b9a2",
+      "url": "https://www.elmundo.es/internacional/2026/04/14/69de032c21efa05e2e8b45b2.html",
+      "title": "Les États-Unis attaquent un autre navire lié au trafic de drogue dans le Pacifique et font deux morts",
+      "content_html": "Les forces armées ont précisé qu'aucun militaire n'a été blessé lors de l'opération menée près de la Colombie.",
+      "date_published": "2026-04-14T09:04:46+00:00",
+      "authors": [
+        {
+          "name": "EFE"
+        }
+      ],
+      "tags": [
+        "internacional",
+        "Estados Unidos"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fa4f1e373208833a1e6926b9b77808b541e0b6d8987414b7980e51d9963fe067",
+      "url": "https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-en-ukraine-la-centrale-nucleaire-de-zaporijia-perd-son-approvisionnement-energetique-externe-des-coupures-de-courant-dans-six-regions-ukrainiennes_6679492_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : la centrale nucléaire de Zaporijia privée de son alimentation électrique externe ; des coupures de courant dans six régions ukrainiennes",
+      "content_html": "Dans l’oblast d’Odessa (Ukraine), le 11 avril 2026.",
+      "date_published": "2026-04-14T09:04:37+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c70b38ef6cc0b2219cc1efb1e44bd329bde70be36da32cdce8cb8f0f1d13b6bc",
+      "url": "https://www.timesofisrael.com/spotlight/a-new-tradition-at-the-kotel-reading-israels-declaration-of-independence/",
+      "title": "Live on Sunday: Declaration of Independence at the Kotel - Sponsored Content",
+      "content_html": "<p>At the egalitarian Kotel, Jews from Israel and around the world gather to read the Declaration of Independence, affirming shared values and<br />\nJewish peoplehood.</p>\n<p>The post <a href=\"https://www.timesofisrael.com/spotlight/a-new-tradition-at-the-kotel-reading-israels-declaration-of-independence/\">Live on Sunday: Declaration of Independence at the Kotel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/WhatsApp-Image-2026-04-14-at-12.15.05-PM-1024x640.jpeg\" title=\"Live on Sunday: Declaration of Independence at the Kotel\" width=\"160\" /></figure>",
+      "date_published": "2026-04-14T09:03:10+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Declaration of Independence",
+        "Kotel",
+        "Egalitarian Kotel",
+        "War of Independance"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
     {
       "id": "e7839644c4abd31a8ac1de006b137d05d6a11a1a06dfd5781accb0ff98071b5f",
       "url": "https://www.elmundo.es/internacional/2026/04/14/69ddf7e5fdddff01288b4591.html",
-      "title": "Le Parti libéral du premier ministre Carney remporte la majorité absolue au Parlement canadien",
+      "title": "Le Parti libéral du premier ministre Carney obtient la majorité absolue au Parlement canadien",
       "content_html": "Le parti possède au moins 173 sièges à la Chambre des communes sur un total de 343.",
       "date_published": "2026-04-14T08:57:44+00:00",
       "authors": [
@@ -39,6 +849,31 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "06b3bbcfd3d6a480918509c7dd2d0acdae0e91331b60a7506f5f3ea576020d2f",
+      "url": "https://www.theguardian.com/business/2026/apr/14/china-evergrande-fraud-hui-ka-yan-trial-property",
+      "title": "China Evergrande’s billionaire boss pleads guilty to fraud",
+      "content_html": "<p>Hui Ka Yan expresses remorse in trial proceedings after collapse of world’s most indebted property developer</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/apr/14/iran-war-hurting-global-economic-growth-imf-meeting-rachel-reeves-oil-price-stock-markets-latest-updates\">Business live – latest updates</a></p></li></ul><p>A former steelworker who rose to become one of China’s richest people has pleaded guilty to charges including fundraising fraud after the <a href=\"https://www.theguardian.com/business/2024/jan/29/evergrande-collapse-liquidation-china-debt-developer-property-giant\">collapse of Evergrande</a>, the world’s most indebted property developer.</p><p>The property group’s founder, Hui Ka Yan, “pleaded guilty and expressed remorse” in trial proceedings at a court in China’s southern city of Shenzhen against him and Evergrande, the court said in a posting on its official WeChat account. He also pleaded guilty to misuse of funds and illegally taking public deposits.</p> <a href=\"https://www.theguardian.com/business/2026/apr/14/china-evergrande-fraud-hui-ka-yan-trial-property\">Continue reading...</a>",
+      "date_published": "2026-04-14T08:56:34+00:00",
+      "authors": [
+        {
+          "name": "Reuters"
+        }
+      ],
+      "tags": [
+        "Evergrande",
+        "Chinese economy",
+        "Business",
+        "China",
+        "Asia Pacific",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
     },
     {
       "id": "213f4c0da64642b4a8cbe8cf6de9a4e75f2b6cd071a472ca9bb0346725d3d31d",
@@ -59,6 +894,22 @@
       "lang": "fr"
     },
     {
+      "id": "3be25fb4d24aefe2e89a7afa4cd6e316a1b2b9848dfe4e287dfdeffd90355cdf",
+      "url": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
+      "title": "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO",
+      "content_html": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
+      "date_published": "2026-04-14T08:52:52+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "cc2789ec15bc481db95a0a326fdc0d8c4926a0c6ee986076ad3c0d9fed719bcc",
       "url": "https://www.france24.com/en/video/20260414-what-hopes-for-lebanon-israel-talks-as-hezbollah-urges-cancellation",
       "title": "What hopes for Lebanon-Israel talks as Hezbollah urges cancellation?",
@@ -75,24 +926,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "2919c2ac2059b46d0ec73d3923a34a367ffc33267ed3692b3b13d8dcd84b7515",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-denonce-une-violation-grave-de-sa-souverainete-apres-lentree-en-vigueur-du-blocus-maritime-impose-par-les-etats-unis-20260414_XRH3PNT72VERJJ5MSK6D6PXSKU/",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Le Pakistan propose de nouveaux pourparlers à Islamabad entre les Etats-Unis et l’Iran",
-      "content_html": "Le cortège du vice-président J.D. Vance à Islamabad, le samedi 11 avril 2026.",
-      "date_published": "2026-04-14T08:52:11+00:00",
-      "authors": [
-        {
-          "name": "Eve Roger, Service Photo,  AFP, Reuters ., Cassandre Leray"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "0288b1536b3d28e4ad5ad547993eea5fa6a6902c9d638ba81ae9c03f42b0fc83",
@@ -131,102 +964,6 @@
       "lang": "en"
     },
     {
-      "id": "248e726525dcf6b80675e0068046609cfebdd9871b80ed526e9e7a80b5899796",
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
-      "title": "Middle East crisis live: US blockade of Iranian ports begins as Hezbollah urges Lebanon to pull out of talks with Israel",
-      "content_html": "<p>Vance accuses Iran of ‘economic terrorism’; Hezbollah says it will not abide by agreements that result from talks in the US</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin\">US starts naval blockade of Iranian ports after deadline passes</a></p></li></ul><p><strong>South Korean president Lee Jae Myung has said rising tensions around the strait of Hormuz make it hard to be optimistic about the fallout from</strong> <strong>the Iran war, </strong>warning that high oil prices and supply-chain strains are likely to persist for some time.</p><p>Lee told a cabinet meeting on Tuesday the government should treat prolonged disruption in global energy and raw materials markets as a given and reinforce its emergency response system.</p><p>For the time being, difficulties in global energy and raw materials supply chains and high oil prices will continue … I ask that we pursue the development of alternative supply chains, medium- to long-term industrial restructuring, and the transition to a post-plastic economy as top-priority national strategic projects.”</p><p>Lebanon and Israel have been at war in some form since the early 1980s. You’re not allowed to enter Lebanon if you have an Israeli stamp in your passport. The two don’t have diplomatic relations. So the fact that these talks are happening directly between the two governments is something that’s really astonishing.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins\">Continue reading...</a>",
-      "date_published": "2026-04-14T08:41:11+00:00",
-      "authors": [
-        {
-          "name": "Taz Ali (now) and Adam Fulton (earlier)"
-        }
-      ],
-      "tags": [
-        "US-Israel war on Iran",
-        "Iran",
-        "Israel",
-        "Trump administration",
-        "Middle East and north Africa",
-        "Strait of Hormuz",
-        "US foreign policy",
-        "Donald Trump",
-        "Lebanon",
-        "Hezbollah"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "a2fb1a8431981c3756a5d75b57978c77a526cd955f819453346097f12b31c3c6",
-      "url": "https://www.ukrinform.net/rubric-ato/4112263-russians-strike-kryvyi-rih-infrastructure-again-causing-fire.html",
-      "title": "Russians strike Kryvyi Rih infrastructure again, causing fire",
-      "content_html": "Russian forces struck infrastructure in Kryvyi Rih, Dnipro region, for the second time in a few hours. A fire broke out at the site of the strike.",
-      "date_published": "2026-04-14T08:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3e50ea90f250608f38034eb871547c83def27b3f5cec90eab2bd38489aace2c8",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
-      "title": "Hegseth right to mock Royal Navy, says ex-army chief as he backs claims over military underfunding – UK politics live",
-      "content_html": "<p>Richard Barrons backs George Robertson and says UK forces ‘too small and undernourished for the world that we now live in’</p><p><strong>Kemi Badenoch</strong> has told Radio 5 Live that she “100% agrees” with what George Robertson is saying, as quoted in the FT, about Britain being unable to defend itself properly with an “ever-expanding wefare budget”. (See <a href=\"https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates?page=with%3Ablock-69ddde068f0823a7954daed1#block-69ddde068f0823a7954daed1\">8.58am</a>.) Asked about his speech in an interview this morning, she said:</p><p>We used to spend one in every seven pounds on welfare. Now it’s one in every three pounds and a lot of that money has basically been swapped for defence.</p><p>The world is not as peaceful as it used to be. The peace dividend that existed after the fall of the Berlin Wall is gone, we need to spend more money on defence.</p><p>We are delivering on the strategic defence review to meet the threats we face.</p><p>It is backed by the largest sustained increase in defence spending since the Cold War, with a total of over £270bn being invested across this parliament.</p> <a href=\"https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-04-14T08:39:44+00:00",
-      "authors": [
-        {
-          "name": "Andrew Sparrow"
-        }
-      ],
-      "tags": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Keir Starmer",
-        "Royal Navy",
-        "British army",
-        "Military"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "debc995208bae117a4be626f5d895a3f83c28a62f9f53cc42765bef62bf37c71",
-      "url": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
-      "title": "Vance ‘sad Orbán lost’ but says US will work with new Magyar government in Hungary – Europe live",
-      "content_html": "<p>US vice-president defends pre-election visit to Hungary with fresh barbs against EU in first comments since Orbán’s loss</p><p><strong>Ashifa Kassam</strong> and <strong>Flora Garamvolgyi</strong> <br /><em>in Budapest</em></p><p>In a small plaza facing Budapest’s Nyugati train station<strong>,</strong> <strong>Gabor, 40, confessed that he was very, very hungover after the election night.</strong></p> <a href=\"https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates\">Continue reading...</a>",
-      "date_published": "2026-04-14T08:39:10+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "World news",
-        "Hungary",
-        "Europe",
-        "Ukraine",
-        "Russia",
-        "European Union"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "74ab7a2ec7459c6815c6c0ccf0a0bca00a9b26c0fc48c4afa87e0a9a9b934612",
       "url": "https://www.theguardian.com/business/2026/apr/14/hsbc-iran-war-confidence-businesses-oil-inflation",
       "title": "HSBC says Iran war is hitting confidence as businesses warn over economic risks",
@@ -240,8 +977,8 @@
       "tags": [
         "HSBC",
         "Banking",
-        "Economics",
         "Global economy",
+        "Economics",
         "Business",
         "UK news",
         "US-Israel war on Iran",
@@ -254,27 +991,11 @@
       "lang": "en"
     },
     {
-      "id": "8985d045f7e3e7106a8ac71738e39da0a845131ff99ef6470f1efd5f4fbd6d8b",
-      "url": "https://www.ukrinform.net/rubric-ato/4112257-fighting-continues-near-mariine-tregubov-says-russian-forces-have-advanced-into-sumy-region.html",
-      "title": "Fighting continues near Mariine: Tregubov says Russian forces have advanced into Sumy region",
-      "content_html": "In the Sumy region, Russian troops have advanced near the village of Myropillia, but fighting continues in the Mariine area. The enemy has not reached Novodmytrivka.",
-      "date_published": "2026-04-14T08:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "29b646c2f875c38e5590fd478757217bf93ae5353dd4f591a222258671ea31ac",
       "url": "https://www.lemonde.fr/international/article/2026/04/14/guerre-en-iran-les-americains-imposent-une-pression-maximale-avec-le-blocus-des-ports-iraniens_6679901_3210.html",
-      "title": "Guerre en Iran : les Américains imposent une pression maximale avec le blocus des ports iraniens",
+      "title": "Guerre en Iran : en bloquant les ports iraniens, les Etats-Unis espèrent assécher les ressources de l’Iran",
       "content_html": "Un navire dans le détroit d’Ormuz, au large des côtes de la province omanaise de Musandam, le 12 avril 2026.",
-      "date_published": "2026-04-14T08:20:49+00:00",
+      "date_published": "2026-04-14T08:20:45+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -361,7 +1082,7 @@
       "id": "658cd81484038e721eb7a915875156f4e7200f44d597de7b33c206c5bfad6b3c",
       "url": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
       "title": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
-      "content_html": "Nine-year-old Ritaj Rihan among multiple Palestinians killed in ongoing Gaza strikes amid fears of escalating violence.",
+      "content_html": "Nine-year-old Ritaj Rihan among multiple Palestinians killed in ongoing Gaza attacks amid fears of escalating violence.",
       "date_published": "2026-04-14T08:12:55+00:00",
       "authors": [],
       "tags": [
@@ -432,10 +1153,10 @@
       "lang": "en"
     },
     {
-      "id": "d617461501216514903cc8264dadbbe584be26eb7618108329a2435f13bcf3b2",
-      "url": "https://www.dw.com/en/germany-news-merz-hosts-zelenskyy-in-berlin/live-76770415?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany news: Merz hosts Zelenskyy in Berlin",
-      "content_html": "Ukrainian President Volodymyr Zelenskyy and his cabinet are expected in Berlin on Tuesday for broad talks with German Chancellor Friedrich Merz and German government ministers. DW has more.",
+      "id": "c58c1ec0bb9bd03d3685f01fdb91ddf8e3e38dd063e645a0de2fef1adfde75a0",
+      "url": "https://www.dw.com/en/aid-security-and-rebuilding-are-on-the-agenda-as-german-chancellor-merz-hosts-ukrainian-president-zelenskyy-follow-dw-live/live-76770415?maca=en-rss-en-all-1573-rdf",
+      "title": "Aid, security and rebuilding are on the agenda as German Chancellor Merz hosts Ukrainian President Zelenskyy. Follow DW live",
+      "content_html": "Ukrainian President Volodymyr Zelenskyy and his Cabinet are in Berlin on Tuesday for broad talks with German Chancellor Friedrich Merz and German government ministers. DW has more.",
       "date_published": "2026-04-14T08:07:00+00:00",
       "authors": [],
       "tags": [
@@ -552,10 +1273,24 @@
       "lang": "fr"
     },
     {
+      "id": "e0beb62a22dfd1cc262e9cf0681db70b7aff6aa7c6d538ea141ee67ecd7fa7ab",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245960/travailleur-mort-cnesst-enquete",
+      "title": "La conjointe d’un travailleur sherbrookois mort en fonction réclame une enquête",
+      "content_html": "<p>Un employé de Forage&nbsp;FTE est mort dans le cadre de ses fonctions au Maroc en&nbsp;2024.</p>",
+      "date_published": "2026-04-14T08:00:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "8dff233cf0b7d4e385c41e14194746060e69a6f8592216219fa48a95880bb859",
       "url": "https://www.timesofisrael.com/idf-reservist-killed-three-injured-as-vehicle-crashes-in-south-lebanon/",
       "title": "IDF reservist killed, three injured as vehicle crashes in south Lebanon",
-      "content_html": "<p>Sgt. Maj (res.) Ayal Uriel Bianco, 30, named as deceased; Hezbollah keeps up sporadic rocket fire on north; IDF says it struck 150 targets across Lebanon on Monday</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-reservist-killed-three-injured-as-vehicle-crashes-in-south-lebanon/\">IDF reservist killed, three injured as vehicle crashes in south Lebanon</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/whatsapp-image-2026-04-14-at-044101-e1776136116773-1024x640.jpeg\" title=\"IDF reservist killed, three injured as vehicle crashes in south Lebanon\" width=\"160\" /></figure>",
+      "content_html": "<p>Sgt. Maj (res.) Ayal Uriel Bianco, 30, named as deceased; Hezbollah keeps up sporadic rocket fire on north; IDF says it struck 150 targets across Lebanon on Monday</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-reservist-killed-three-injured-as-vehicle-crashes-in-south-lebanon/\">IDF reservist killed, three injured as vehicle crashes in south Lebanon</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/204410-1024x640.jpg\" title=\"IDF reservist killed, three injured as vehicle crashes in south Lebanon\" width=\"160\" /></figure>",
       "date_published": "2026-04-14T07:59:43+00:00",
       "authors": [],
       "tags": [
@@ -568,22 +1303,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "92953312a41832e21719af90468a36190b2a192604111c1b60608625562fd376",
-      "url": "https://www.ukrinform.net/rubric-ato/4112202-24-settlements-hit-in-kharkiv-region-one-woman-killed-20-injured-over-past-24-hours.html",
-      "title": "24 settlements hit in Kharkiv region: one woman killed, 20 injured over past 24 hours",
-      "content_html": "Over the past 24 hours, on April 13, 24 settlements in the Kharkiv region came under Russian attack; one person was killed and 20 others were injured.",
-      "date_published": "2026-04-14T07:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -728,42 +1447,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5709e15a57a5f5516eee4c8a1e118149c3f86440d80302d3a6a9c0ea4ab29d26",
-      "url": "https://www.france24.com/fr/afrique/20260414-visite-pape-annaba-algerie-saint-augustin-vatican-catholique-musulman",
-      "title": "Visite du pape en Algérie en direct : Léon XIV sur les traces de saint Augustin à Annaba",
-      "content_html": "Après avoir lancé à Alger un message de fraternité interreligieuse dans le pays à majorité musulmane, le pape Léon XIV est attendu mardi à Annaba, dans le nord-est de l'Algérie, sur les traces de saint Augustin, le grand penseur chrétien. Le souverain pontife a été accueilli avec les honneurs et sous haute sécurité. La deuxième journée de cette visite historique aura une dimension plus personnelle et spirituelle. Suivez en direct le déplacement papal dans l'ancienne ville d'Hippone.",
-      "date_published": "2026-04-14T07:39:17+00:00",
-      "authors": [
-        {
-          "name": "Stéphanie TROUILLARD"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0d3ea1f3401356cdce29f33b9aa97efdbea5f5301cf3b96d167bb21907db0961",
-      "url": "https://www.ukrinform.net/rubric-society/4112199-language-commission-does-not-monitor-compliance-with-spelling-rules.html",
-      "title": "Language commission does not monitor compliance with spelling rules",
-      "content_html": "The National Commission on State Language Standards does not monitor compliance with spelling rules.",
-      "date_published": "2026-04-14T07:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -942,22 +1625,6 @@
       "lang": "en"
     },
     {
-      "id": "180c53f63751ef300f874a55c9baac29631f7f700b4171d1bfc6e6f40fc74a6a",
-      "url": "https://www.ukrinform.net/rubric-ato/4112196-russians-kill-one-and-wound-three-in-donetsk-region-over-past-24-hours.html",
-      "title": "Russians kill one and wound three in Donetsk region over past 24 hours",
-      "content_html": "Over the past 24 hours, on April 13, Russian invaders killed one resident of the Donetsk region and wounded three others.",
-      "date_published": "2026-04-14T06:57:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bb4592148f287458c5470be83d5d86403bc02e205a98b0d2416cfd019d9dfa3a",
       "url": "https://ici.radio-canada.ca/nouvelle/2246111/terrebonne-elections-partielles-liberal-bloc-quebecois",
       "title": "Terrebonne vire libérale, pour de bon",
@@ -1069,22 +1736,6 @@
       "lang": "en"
     },
     {
-      "id": "40983806d94c8cbdca795def6c145a06685b949b4e3940177d02bcc8c063f548",
-      "url": "https://www.ukrinform.net/rubric-ato/4112195-air-defense-downs-missile-and-114-drones-launched-by-russia-since-evening.html",
-      "title": "Air defense downs missile and 114 drones launched by Russia since evening",
-      "content_html": "Air defense forces shot down one guided missile and 114 drones used by Russian invaders to attack Ukraine beginning on the evening of April 13.",
-      "date_published": "2026-04-14T06:29:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9dacc8e2a8e0f3a7ad547e8e891df9a2e3b3f615b24ca6f04aac2a4f23f96f78",
       "url": "https://www.aljazeera.com/features/2026/4/14/the-sea-of-azov-ukraines-loss-but-hardly-russias-gain?traffic_source=rss",
       "title": "The Sea of Azov: Ukraine’s loss but hardly Russia’s gain",
@@ -1167,22 +1818,6 @@
       "lang": "en"
     },
     {
-      "id": "60c3305428fb610214c18c231466cd38b523e1f340f24f69965e8dde07de977e",
-      "url": "https://www.ukrinform.net/rubric-ato/4112185-war-update-125-combat-engagements-on-frontline-over-past-day.html",
-      "title": "War update: 125 combat engagements on frontline over past day",
-      "content_html": "A total of 125 combat engagements between Ukraine’s Defense Forces and Russian troops were recorded along the front line over the past day, April 13.",
-      "date_published": "2026-04-14T06:03:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "40f5435ec3c6f4f7b0786fd47f7107948455d469aa5cd7d49bc1bc2ee6853ec3",
       "url": "https://ici.radio-canada.ca/nouvelle/2246105/carney-majoritaire-liberal-partielles",
       "title": "Élections partielles : un tour du chapeau libéral offre une majorité confortable à Carney",
@@ -1216,7 +1851,7 @@
       "id": "738f82cdceeec2683e3fb11b1571676fbd9c91beb65cb44813b4873e2c597475",
       "url": "https://www.timesofisrael.com/idf-eases-home-front-limits-in-parts-of-north-tightens-rules-elsewhere-amid-iran-truce/",
       "title": "IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce",
-      "content_html": "<p>Educational activities allowed in bomb shelters along Lebanese border; cap of 5,000 at gatherings reintroduced in Jerusalem area and south</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-eases-home-front-limits-in-parts-of-north-tightens-rules-elsewhere-amid-iran-truce/\">IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/F260314MG33-e1774778286702-1024x640.jpg\" title=\"IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce\" width=\"160\" /></figure>",
+      "content_html": "<p>Educational activities allowed in bomb shelters only along Lebanese border; cap of 5,000 at gatherings reintroduced in Jerusalem area and south</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-eases-home-front-limits-in-parts-of-north-tightens-rules-elsewhere-amid-iran-truce/\">IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/F260314MG33-e1774778286702-1024x640.jpg\" title=\"IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce\" width=\"160\" /></figure>",
       "date_published": "2026-04-14T05:51:28+00:00",
       "authors": [],
       "tags": [
@@ -1330,49 +1965,6 @@
       "lang": "en"
     },
     {
-      "id": "b35678370d37b0fe6488e822ba48a8dae876d4fcef45d12f0daa374390fda8bc",
-      "url": "https://www.ukrinform.net/rubric-ato/4112181-russian-drones-hit-civilian-and-port-infrastructure-in-odesa-region-causing-damage.html",
-      "title": "Russian drones hit civilian and port infrastructure in Odesa region, causing damage",
-      "content_html": "Overnight on April 14, Russian drones attacked civilian and port infrastructure in the southern Odesa region.",
-      "date_published": "2026-04-14T05:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e4073240bd3ad829ed92c8f14e81564625ccea704b01a566720f296917cb8a41",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/14/palestinian-groups-legal-action-australian-arms-weapons-exports-israel-ntwnfb",
-      "title": "Palestinian groups launch legal bid to shed light on Australian arms export permits to Israel",
-      "content_html": "<p>Three human rights groups are seeking to compel the release of military export permit documents from Richard Marles</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A trio of Palestinian human rights groups have launched a legal bid to force Australia’s defence minister, Richard Marles, to shed light on whether the government has approved Israel-bound export permits, which could violate international law.</p><p>The groups – the Palestinian Centre for Human Rights, Al-Haq and Al Mezan Center for Human Rights – will make a discovery application for arms export documents after filing an affidavit in the federal court last week.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/14/palestinian-groups-legal-action-australian-arms-weapons-exports-israel-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-04-14T05:42:17+00:00",
-      "authors": [
-        {
-          "name": "Sarah Basford Canales"
-        }
-      ],
-      "tags": [
-        "Australian foreign policy",
-        "Australian politics",
-        "Israel-Gaza war",
-        "Australia news",
-        "Human rights",
-        "Arms trade",
-        "Australian law",
-        "Richard Marles"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a1674ac7d45bc5d368f38cbe673c0cc246608947e0880d0613e561d5f9f0875c",
       "url": "https://www.liberation.fr/international/amerique/mcdonalds-liran-et-le-pape-la-conference-de-presse-surrealiste-de-trump-20260414_OENDL6VWLNBCVCMNWAFOAQVV7M/",
       "title": "McDonald’s, l’Iran et le pape : la conférence de presse surréaliste de Trump",
@@ -1407,22 +1999,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "52440b61d9733d22e6f7fb9795702a3e0e011310e5e7a2bc3b309977ff08ac7d",
-      "url": "https://www.ukrinform.net/rubric-ato/4112176-russian-forces-strike-energy-facilities-in-mykolaiv-region-leaving-three-settlements-without-power.html",
-      "title": "Russian forces strike energy facilities in Mykolaiv region, leaving three settlements without power",
-      "content_html": "In the Mykolaiv region, Russian Shahed-131/136-type drones struck energy infrastructure facilities, leaving three settlements without electricity.",
-      "date_published": "2026-04-14T05:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -1508,22 +2084,6 @@
       "lang": "en"
     },
     {
-      "id": "54d796054137e3be0942eb2c538fb6b3e3223e904e8d5d5e3ba15070f0c12730",
-      "url": "https://www.ukrinform.net/rubric-ato/4112170-russias-war-casualty-toll-in-ukraine-up-by-820-over-past-day.html",
-      "title": "Russia’s war casualty toll in Ukraine up by 820 over past day",
-      "content_html": "The total combat losses of Russian forces from February 24, 2022 to April 14, 2026 in the war against Ukraine are estimated at about 1,312,960 personnel, including 820 over the past day.",
-      "date_published": "2026-04-14T05:10:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b37723e7f7bc02cef6434f50aa627e7287b8f9c2f3dc48a8e52392240b05e399",
       "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
       "title": "Mark Carney secures majority government in Canada after special election win",
@@ -1581,12 +2141,12 @@
         "name": "Libération",
         "url": "https://www.liberation.fr"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "0b9ef6f23a84b919ed3e406c5cd70cc533ccba43286f6a0e2c0a2ad329683ffd",
       "url": "https://www.lemonde.fr/international/article/2026/04/14/crise-d-ormuz-la-position-d-equilibre-de-la-chine-premier-partenaire-commercial-de-l-iran-mais-contraint-de-menager-donald-trump_6679887_3210.html",
-      "title": "Crise du détroit Ormuz : l’exercice d’équilibre de la Chine, première partenaire commerciale de l’Iran, mais contrainte de ménager Donald Trump",
+      "title": "Crise du détroit d’Ormuz : l’exercice d’équilibre de la Chine, première partenaire commerciale de l’Iran, mais contrainte de ménager Donald Trump",
       "content_html": "Donald Trump et Xi Jinping, à Busan (Corée du Sud), le 30 octobre 2025.",
       "date_published": "2026-04-14T04:55:23+00:00",
       "authors": [],
@@ -1614,22 +2174,6 @@
       "lang": "en"
     },
     {
-      "id": "7272482cfff8046fce83f4f424069335cf7a06e4b381cd88f7799c52fd6fec48",
-      "url": "https://www.ukrinform.net/rubric-polytics/4112166-deployment-of-russian-ew-systems-near-narva-may-signal-potential-plans-to-strike-baltic-states-expert-says.html",
-      "title": "Deployment of Russian EW systems near Narva may signal potential plans to strike Baltic states, expert says",
-      "content_html": "Russia’s claims about the alleged use of Baltic states’ airspace for Ukrainian drone attacks may indicate that the Kremlin is preparing for escalation in that direction.",
-      "date_published": "2026-04-14T04:52:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6eed287fdc30c21e22fcde225e50525c58e4af64068c9c59bf9c6b5997796b20",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/man-charged-with-attempted-murder-of-openai-ceo-sam-altman?traffic_source=rss",
       "title": "Man charged with attempted murder of OpenAI CEO Sam Altman",
@@ -1644,20 +2188,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "4e656932c99b5fdc72e12a5d8f835725cf1cc062422dbcd3aa589d8d52534a49",
-      "url": "https://www.lemonde.fr/international/live/2026/04/14/en-direct-guerre-en-ukraine-une-attaque-de-drones-cause-la-mort-d-une-personne-dans-l-ouest-de-la-russie_6679492_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : la Russie a lancé quatre missiles et 129 drones sur le territoire ukrainien au cours de la nuit, selon l’armée de l’air ukrainienne",
-      "content_html": "Des pompiers interviennent dans un garage, touché par une frappe de de drone russe, dans l’oblast d’Odessa (Ukraine), le 14 avril 2026.",
-      "date_published": "2026-04-14T04:47:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "4bacd3e1a319b8bbd59f6f69722c0dcb7ea4f9a032accbdba4208824ee770af0",
@@ -1710,7 +2240,7 @@
     {
       "id": "ca97141470abe404500565db245a605bbea803c0b5b4c865a4dcbd1ce11fbb36",
       "url": "https://www.lemonde.fr/economie/article/2026/04/14/en-suisse-les-superprofits-des-tradeurs-de-petrole_6679884_3234.html",
-      "title": "En Suisse, les superprofits des tradeurs du pétrole",
+      "title": "En Suisse, les superprofits des tradeurs du pétrole sur fond de guerre au Moyen-Orient",
       "content_html": "Genève bruisse de rumeurs sur les bénéfices record des opérateurs du marché de l’or noir. Le cadre juridique dans lequel ils évoluent suscite des critiques et des velléités d’encadrement accru.",
       "date_published": "2026-04-14T04:30:08+00:00",
       "authors": [],
@@ -1720,38 +2250,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "a5e293d6f09451f02043bf13ada75d8e568529250478f36e93e0d5fc5afaee06",
-      "url": "https://www.ukrinform.net/rubric-ato/4112165-russian-drone-hits-highrise-building-in-kharkiv.html",
-      "title": "Russian drone hits high-rise building in Kharkiv",
-      "content_html": "A drone struck a multi-storey residential building in Kharkiv’s Shevchenkivskyi district.",
-      "date_published": "2026-04-14T04:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "357710964cc607a1f9c0e240dd574e4f5a09bfddd0e6703e8af9f220660e2663",
-      "url": "https://www.ukrinform.net/rubric-society/4112163-ukraines-ambassador-to-canada-meets-with-mayor-of-toronto.html",
-      "title": "Ukraine’s Ambassador to Canada meets with Mayor of Toronto",
-      "content_html": "Ukraine’s Ambassador to Canada Andrii Plakhotniuk held a meeting with Toronto Mayor Olivia Chow.",
-      "date_published": "2026-04-14T04:10:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "88b25b99afd68a8bcb4df04fda2181af195c5083cf9d249d1e26ce3bb92309f8",
@@ -1852,22 +2350,6 @@
       "lang": "en"
     },
     {
-      "id": "af98cb4a15a6b002ef3931141f8bf017c7ca5dff1f2acf4933ed347b55578b91",
-      "url": "https://www.ukrinform.net/rubric-ato/4112161-military-expert-russia-using-two-new-drafting-schemes-via-detention-centers-and-universities.html",
-      "title": "Military expert: Russia using two new drafting schemes – via detention centers and universities",
-      "content_html": "Russia is intensifying its search for manpower for the war against Ukraine, including by introducing new drafting mechanisms through pre-trial detention centers and higher education institutions.",
-      "date_published": "2026-04-14T03:47:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "dd8c52d1501a8dbd200e99a6970fecd8f8fd03cefd1f6f19b94cf9c96b41e3d2",
       "url": "https://www.lemonde.fr/international/article/2026/04/14/canada-mark-carney-obtient-une-majorite-parlementaire-a-la-faveur-de-legislatives-partielles_6679875_3210.html",
       "title": "Canada : Mark Carney obtient une majorité parlementaire à la faveur de législatives partielles",
@@ -1878,20 +2360,6 @@
       "source": {
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "4dea2ec54d2366840200226ef7a070ed1abebf52d880009664b9907fd774685b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2246095/scarborough-sud-ouest-university-rosedale-liberaux",
-      "title": "Élections partielles fédérales : victoires libérales à Toronto",
-      "content_html": "<p>Les deux nouvelles élues ont remporté leur siège avec des majorités de 60&nbsp;% et plus.</p>",
-      "date_published": "2026-04-14T03:36:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -2082,22 +2550,6 @@
       "lang": "fr"
     },
     {
-      "id": "eab80e94ff0342ebac79931493eb8cc27531c9d3d1e69e646e8b1709e4ea54d7",
-      "url": "https://www.ukrinform.net/rubric-polytics/4112159-nato-states-refuse-to-join-naval-blockade-of-iran-reuters.html",
-      "title": "NATO states refuse to join naval blockade of Iran – Reuters",
-      "content_html": "NATO allies said on Monday they would not support President Donald Trump’s plan to blockade Iranian ports.",
-      "date_published": "2026-04-14T03:24:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "14ded0c1533b44e072d3fed054f14d68a22f20a750404cc4b40246e27d1c60f4",
       "url": "https://www.lemonde.fr/international/article/2026/04/14/attaques-contre-le-pape-photomontage-en-christ-donald-trump-ouvre-une-crise-avec-les-catholiques-americains-et-choque-sa-base_6679871_3210.html",
       "title": "Donald Trump ouvre une crise avec les catholiques américains après avoir attaqué le pape et partagé un photomontage",
@@ -2253,22 +2705,6 @@
       "lang": "fr"
     },
     {
-      "id": "976bba43ca3bba40c9cb01f6f176889788ffda8a336d99a59f86ad61b85c5f4c",
-      "url": "https://www.ukrinform.net/rubric-sports/4112133-ukrainian-water-polo-team-handed-technical-loss-for-refusing-to-play-russia.html",
-      "title": "Ukrainian water polo team handed technical loss for refusing to play Russia",
-      "content_html": "The organizers of the 2026 Water Polo World Cup, to be held in Malta, have awarded a technical defeat to the Ukrainian national team for refusing to play a match against the “neutral” Russian team.",
-      "date_published": "2026-04-14T02:32:00+00:00",
-      "authors": [],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "58c446530305c32f95ba0d6d1cd7443c2fece84fb13bdd14fc993ac400e28fa6",
       "url": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-all-1573-rdf",
       "title": "Benin's finance minister wins presidential election with 94%",
@@ -2336,6 +2772,20 @@
       "lang": "en"
     },
     {
+      "id": "766cd8879ca0562e83f65ca12ba3ba783997a8aea64b64289328df9532abb5b6",
+      "url": "https://ici.radio-canada.ca/nouvelle/2246058/bibliotheque-livres-graphiques-liberte-censure",
+      "title": "Le contrôle d’accès aux livres en Alberta jugé antidémocratique",
+      "content_html": "<p>Le gouvernement estime qu&#x27;il faut des garde-fous pour protéger les enfants.</p>",
+      "date_published": "2026-04-14T02:06:50+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "7f614a997b032a08040e336684ab9657eaa1672b5c21cdc07f9ea30655b8b2d1",
       "url": "https://www.france24.com/en/europe/20260414-crans-montana-bar-fire-mayor-unaware-safety-failures-41-dead",
       "title": "Crans-Montana mayor says unaware of six-year safety lapse before Swiss bar fire that killed 41",
@@ -2398,6 +2848,20 @@
       "lang": "en"
     },
     {
+      "id": "d980f214f26c7526fe4455525d864e36445b305de5af05cc8ca609e5f2a89cfc",
+      "url": "https://ici.radio-canada.ca/nouvelle/2246051/surdose-crise-bonnie-henry",
+      "title": "Dix ans de crise des surdoses : l’état d’urgence toujours nécessaire en C.-B.",
+      "content_html": "<p>La médecin hygiéniste en chef déplore les pressions politiques sur les prises de décisions.</p>",
+      "date_published": "2026-04-14T01:44:05+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "17edd002001d473c5af9f2978b824164e24c1d3fad3a132ba7dc0a33568a0dfb",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260414-l-assembl%C3%A9e-nationale-a-vot%C3%A9-un-projet-de-loi-pour-faciliter-la-restitution-de-biens-culturels",
       "title": "L'Assemblée nationale a voté un projet de loi pour faciliter la restitution de biens culturels",
@@ -2442,22 +2906,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0eb34e098326ddcb04444e692d67c245268c148a6ad9b9626fba7d6f2208c08d",
-      "url": "https://www.ukrinform.net/rubric-economy/4111892-ukraine-eases-procurement-rules-for-testing-innovative-weapons-in-combat.html",
-      "title": "Ukraine eases procurement rules for testing innovative weapons in combat",
-      "content_html": "The Cabinet of Ministers of Ukraine has allowed the Ukrainian Defense Ministry to procure innovative weapons for testing in real combat conditions.",
-      "date_published": "2026-04-14T01:27:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -2570,7 +3018,7 @@
       "id": "c02bca05f86fd044e4816386376681010c6e6c8f4292e6d991a8429f77f2319e",
       "url": "https://www.timesofisrael.com/officials-seek-to-temper-expectations-as-israel-lebanon-envoys-set-to-hold-historic-meeting/",
       "title": "Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting",
-      "content_html": "<p>Beirut looks to use most senior level engagement to date with Jerusalem to secure ceasefire, though Israeli government has shown no interest in a truce until Hezbollah is defanged</p>\n<p>The post <a href=\"https://www.timesofisrael.com/officials-seek-to-temper-expectations-as-israel-lebanon-envoys-set-to-hold-historic-meeting/\">Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/MixCollage-13-Apr-2026-05-54-PM-4198-1024x640.jpg\" title=\"Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting\" width=\"160\" /></figure>",
+      "content_html": "<p>Beirut looks to use most senior level engagement to date with Jerusalem to secure ceasefire, though Israeli government has shown no interest in a truce until Hezbollah is defanged</p>\n<p>The post <a href=\"https://www.timesofisrael.com/officials-seek-to-temper-expectations-as-israel-lebanon-envoys-set-to-hold-historic-meeting/\">Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/DUAL-1-2-1024x640.jpeg\" title=\"Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting\" width=\"160\" /></figure>",
       "date_published": "2026-04-14T01:03:36+00:00",
       "authors": [],
       "tags": [
@@ -2660,62 +3108,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "cf56b2e59ae722ce385043dc78d3246a9e7cb916e5a1528d96aca7e835100006",
-      "url": "https://www.lemonde.fr/afrique/article/2026/04/14/au-benin-le-candidat-de-la-majorite-romuald-wadagni-elu-president-avec-plus-de-94-des-voix_6679830_3212.html",
-      "title": "Au Bénin, le candidat de la majorité, Romuald Wadagni, élu président avec plus de 94 % des voix",
-      "content_html": "Romuald Wadagni salue ses partisans lors d’un meeting électoral à Cotonou, au Bénin, le 10 avril 2026.",
-      "date_published": "2026-04-14T00:34:57+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0cb3c8699b4868e5d02a631d0ffed5ca0d0786606ac40fbe67f6b26793851d07",
-      "url": "https://www.ukrinform.net/rubric-society/4111839-two-ukrainian-postage-stamps-receive-international-recognition.html",
-      "title": "Two Ukrainian postage stamps receive international recognition",
-      "content_html": "The stamps “Taxes. Army. Victory” and “Melitopol Is Ukraine!” have won awards at international competitions.",
-      "date_published": "2026-04-14T00:30:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "569bc1b5d5d053745fcb8a4a8f40aec3767e24cf6e4d20a92999f8ba59afea9a",
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
-      "title": "Trump deletes post with AI image of himself as Jesus-like figure after outcry",
-      "content_html": "<p>The US president’s conservative, Christian supporters decried the Truth Social post, calling it ‘disgusting’</p><p>Less than a year after signing legislation that will pull nearly 12 million Americans <a href=\"https://www.kff.org/quick-take/about-17-million-more-people-could-be-uninsured-due-to-the-big-beautiful-bill-and-other-policy-changes/\">off health insurance</a> by gutting Medicaid, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> posted an AI-generated image of himself to Truth Social on Sunday depicting him as a Jesus-like figure, with divine light emanating from his hands as he heals a stricken man in a hospital bed with a demon from hell floating in the background.</p><p>The president has since deleted the post, which also followed a lengthy tirade about Pope Leo XIV on the site the same day <a href=\"https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo\">in which he called him</a> “weak on crime” and blamed the head of the Catholic church for being influenced by Barack Obama strategist David Axelrod. Trump refused to apologize to the pope, saying: “He went public. I’m just responding to Pope Leo.”</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash\">Continue reading...</a>",
-      "date_published": "2026-04-14T00:26:32+00:00",
-      "authors": [
-        {
-          "name": "Joseph Gedeon in Washington"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Christianity",
-        "Religion",
-        "US news",
-        "US politics",
-        "Medicaid",
-        "US healthcare"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "a08c01dfba73e98a92e13700b578aa7f5d56ee02f354875d9dce9ca1dd0f8b6d",
@@ -2848,33 +3240,6 @@
       "lang": "en"
     },
     {
-      "id": "7943bdc2e7b0e6e6d27ea1fd140898a5f01ec609b3a4f53da4c67dbfc3920072",
-      "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
-      "title": "I do not fear Trump, says Pope Leo after US president calls him ‘weak’",
-      "content_html": "<p>Leader of Catholic church says he will continue to speak out against war after president’s extraordinary criticism</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates\">Middle East crisis – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Pope Leo said he did not fear the Trump administration and would continue to speak out against war after Donald Trump delivered an extraordinary broadside against him in which he said he did not think the Chicago-born pontiff was “doing a very good job”, while also suggesting he should “stop catering to the radical left”.</p><p>In remarks that have been widely criticised, the US president used a <a href=\"https://truthsocial.com/@realDonaldTrump/posts/116394704213456431\">lengthy social media post</a> to sharply criticise Leo while he flew from Florida to Washington on Sunday night, then continued in comments on the tarmac to reporters. “I’m not a fan of Pope Leo,” he said.</p> <a href=\"https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo\">Continue reading...</a>",
-      "date_published": "2026-04-13T23:41:16+00:00",
-      "authors": [
-        {
-          "name": "Angela Giuffrida in Rome"
-        }
-      ],
-      "tags": [
-        "Pope Leo XIV",
-        "Donald Trump",
-        "Catholicism",
-        "The papacy",
-        "US news",
-        "World news",
-        "Religion",
-        "Christianity"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2f65566fe011bef8f19c7fc2be5ff6a1bf925dde27592742412b38f83cc45392",
       "url": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
       "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
@@ -2913,22 +3278,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "08214206fc061468ff97c6bbe10dda128721df8b34ddc45a6047ab121cdaafed",
-      "url": "https://www.ukrinform.net/rubric-society/4111818-largescale-exhibition-marking-40th-anniversary-of-chornobyl-disaster-opens-in-germany.html",
-      "title": "Large-scale exhibition marking 40th anniversary of Chornobyl disaster opens in Germany",
-      "content_html": "On Saturday, April 11, at 12:00, the opening of the multimedia exhibition “Die Tschornobyl-Katastrophe: 40 Jahre her und dennoch sehr aktuell” took place at St. Nicholas Church (St. Nikolaikirche) in Potsdam, Germany.",
-      "date_published": "2026-04-13T23:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3037,8 +3386,8 @@
     {
       "id": "a5e32a3b64fc61846b8537ce2aa4e480191636514e81321cae9a9cb7284c51e0",
       "url": "https://www.timesofisrael.com/liveblog-april-14-2026/",
-      "title": "Sirens wail countrywide as Israel remembers victims of the Holocaust",
-      "content_html": "<p>Reservist Ayal Uriel Bianco killed in south Lebanon vehicle crash, 3 others hurt * Iran said to tell US it will only suspend enrichment for 5 years in response to US proposal of 20-year halt</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-april-14-2026/\">Sirens wail countrywide as Israel remembers victims of the Holocaust</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/F260414CG05-1024x640.jpg\" title=\"Sirens wail countrywide as Israel remembers victims of the Holocaust\" width=\"160\" /></figure>",
+      "title": "Israel remembers victims of the Holocaust with ceremonies across the country",
+      "content_html": "<p>Reservist Ayal Uriel Bianco killed in south Lebanon vehicle crash, 3 others hurt * Iran said to tell US it will only suspend enrichment for 5 years in response to US proposal of 20-year halt</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-april-14-2026/\">Israel remembers victims of the Holocaust with ceremonies across the country</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/F260414CG05-1024x640.jpg\" title=\"Israel remembers victims of the Holocaust with ceremonies across the country\" width=\"160\" /></figure>",
       "date_published": "2026-04-13T22:45:56+00:00",
       "authors": [],
       "tags": [
@@ -3052,20 +3401,18 @@
       "lang": "en"
     },
     {
-      "id": "8c022abf18355f2200ab657e4bd2e5a3ba49689e5f5bf5ab7ddd9225c6008380",
-      "url": "https://www.ukrinform.net/rubric-ato/4111806-russians-set-up-command-headquarters-for-a-military-unit-in-hospital-in-skadovsk-atesh.html",
-      "title": "Russians set up command headquarters for military unit in hospital in Skadovsk — ATESH",
-      "content_html": "Agents of the \"ATESH\" partisan movement recorded that in the temporarily occupied territory of the Kherson region, Russian military personnel recently occupied the building of a closed hospital in Skadovsk to establish a command headquarters for a military unit.",
-      "date_published": "2026-04-13T22:34:00+00:00",
+      "id": "8554b344ec0c2b444525aed64a3270f91883384c07b26c41fa49ef3f33b1c725",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245943/oiseaux-rares-oie-moisson-caracara-huppe",
+      "title": "Deux oiseaux extrêmement rares font sensation à Québec",
+      "content_html": "<p>Deux espèces d&#x27;oiseaux dont l&#x27;habitat naturel se trouve à des milliers de kilomètres ont été aperçus à Québec.</p>",
+      "date_published": "2026-04-13T22:39:45+00:00",
       "authors": [],
-      "tags": [
-        "War"
-      ],
+      "tags": [],
       "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "2ddee01a9375eb774c2ec928f7980b59d4ea579318e592605ae885434cdf52d7",
@@ -3116,26 +3463,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "478ad2d712cc6e3c8f17da2856dd0e979fc9ac0e4243754d47358d6a7c12cd04",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260413-lafarge-a-vers%C3%A9-des-millions-d-euros-%C3%A0-l-%C3%A9tat-islamique-en-syrie",
-      "title": "Lafarge condamné pour avoir versé des millions d'euros à l'EI en Syrie",
-      "content_html": "Le cimentier Lafarge a été reconnu coupable de financement du terrorisme entre 2013 et 2014. Avec sept autres anciens responsables, l'ex-PDG du groupe, Bruno Lafont, a été condamné à six ans de prison avec incarcération immédiate pour avoir financé des groupes djihadistes en Syrie, notamment l’organisation État islamique (EI).",
-      "date_published": "2026-04-13T22:21:11+00:00",
-      "authors": [
-        {
-          "name": "Cécile GALLUCCIO"
-        }
-      ],
-      "tags": [
-        "Les clés de l'info"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "03afa8f37852404f6289fa5c81abb4216c1f74d3e30a33c7b6883270ed0ac506",
@@ -3296,61 +3623,9 @@
       "lang": "fr"
     },
     {
-      "id": "564a7d98449a865c12187545fc3976e31037721074b230af630e00ba25fe4c23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
-      "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
-      "content_html": "Cement company Lafarge and eight of its ex-employees were found guilty of financing ISIL in a French court.",
-      "date_published": "2026-04-13T21:35:30+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d487fd280cee345df72fff25d40908c82c2307a187459ecb7ae85e6ae58771e6",
-      "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
-      "title": "Benin’s Wadagni wins presidential election with landslide 94% of votes",
-      "content_html": "The incoming president faces serious security issues in the north of the country and challenges to living standards.",
-      "date_published": "2026-04-13T21:34:24+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "56c1f8851a79734b0cf9c2487770eab7772ea8243f38a49f452b12999c76e5f9",
-      "url": "https://www.france24.com/fr/france/20260413-les-d%C3%A9put%C3%A9s-fran%C3%A7ais-adoptent-un-projet-de-loi-pour-faciliter-les-restitutions-d-oeuvres-pill%C3%A9es",
-      "title": "Les députés français adoptent un projet de loi pour faciliter les restitutions d'oeuvres pillées",
-      "content_html": "Un projet de loi destiné à faciliter les restitutions par la France de biens culturels spoliés entre 1815 et 1972 a été adopté lundi à l'unanimité à l'Assemblée nationale. Promesse d'Emmanuel Macron, il doit encore faire l'objet d'un accord entre députés et sénateurs avant d'être adopté définitivement.",
-      "date_published": "2026-04-13T21:33:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "France"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e86da2afddd453af47739061babdf40bce2f3d0fcb0b2408196b2bae59850055",
       "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+      "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
       "content_html": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
       "date_published": "2026-04-13T21:29:23+00:00",
       "authors": [],
@@ -3358,22 +3633,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "e6597facc3a31aeb7d7401662c637eb03c7da63266dbb07bb5ddb4f220d3b9ca",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111802-canadas-ruling-party-supports-visafree-travel-with-ukraine.html",
-      "title": "Canada's ruling party supports visa-free travel with Ukraine",
-      "content_html": "The convention of the ruling Liberal Party of Canada backed a resolution to abolish visas for short-term travel by Ukrainian citizens to Canada.",
-      "date_published": "2026-04-13T21:29:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3390,62 +3649,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "7b23f54ad42ed54bb73ee4e375ae13af66a4a9cd2dd2212f7839e6fe4cf34ca5",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260413-biathlon-la-quadruple-m%C3%A9daill%C3%A9e-olympique-julia-simon-n-est-pas-encore-rassasi%C3%A9e-de-titres",
-      "title": "Biathlon : la quadruple médaillée olympique Julia Simon n'est pas encore \"rassasiée\" de titres",
-      "content_html": "\"Exténuée\" mais le \"coeur léger\" et avec la \"satisfaction du travail accompli\" après ses trois médailles d'or aux JO-2026, la biathlète Julia Simon prévient qu'elle ne ne sent pour l'instant \"pas rassasiée\", l'oeil rêveur tourné vers les JO-2030 dans les Alpes françaises. La plus grande biathlète française de l'histoire, avec un palmarès comptant aussi 10 titres de championne du monde, va prendre le temps de se reposer cet été avant de repartir à l'assaut de nouveaux titres en biathlon.",
-      "date_published": "2026-04-13T21:18:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "1798c29c0b7477c8b5fe9325db4dcdb0633779cd04b3fb1f82f4712725b29607",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260413-melania-trump-d%C3%A9ment-des-liens-avec-jeffrey-epstein",
-      "title": "Melania Trump dément tout lien avec Jeffrey Epstein",
-      "content_html": "La Première dame des Etats-Unis, Melania Trump, a démenti, en fin de semaine dernière, tout lien avec le criminel sexuel Jeffrey Epstein. Avant même cette intervention surprise, certains faux clichés d’elle en présence du milliardaire refaisaient surface, des publications accusant même Emmanuel Macron de les avoir relayés. Explications.",
-      "date_published": "2026-04-13T21:18:08+00:00",
-      "authors": [
-        {
-          "name": "Anthony SAINT-LÉGER"
-        }
-      ],
-      "tags": [
-        "Info ou intox"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9d4478a37b4c0c61d9d2a484e542f15a4f2bc0a515cec2b72eccd3c63f1156de",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260413-nouchka-simic-il-y-a-encore-pleins-d-id%C3%A9es-re%C3%A7ues-sur-la-nutrition-sportive",
-      "title": "Nouchka Simic : \"Il y a encore pleins d'idées reçues sur la nutrition sportive\"",
-      "content_html": "Faut-il faire du sport à jeun ou après avoir mangé une assiette de féculents ? Est-ce utile de consommer des barres hyperprotéinées ou des boissons énergétiques pendant l’effort ? La diététicienne du sport Nouchka Simic répond à toutes les questions que se posent les sportifs .Elle propose régulièrement des conseils sur les réseaux sociaux. Ancienne championne de France d'aviron, elle pratique aujourd'hui l'ultra-trail où elle applique ses enseignements.",
-      "date_published": "2026-04-13T21:14:42+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "3cf323910bad8084ab427b9c4cbd13dac6a3df22c710a2c1967f4bf36c852a3a",
@@ -3478,22 +3681,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b66709a3d00c4094b2b4294b96c1c2ff3dac870204b9326e341a1892769fc17b",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
-      "title": "Israel kills three Palestinians in separate Gaza strikes",
-      "content_html": "Two Palestinians were killed in separate strikes in southern Gaza on Monday, according to officials at Nasser hospital.",
-      "date_published": "2026-04-13T21:06:39+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -3534,26 +3721,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "789b4078213acbe1c958dc296cfa73d6c846f622aa394c6f9d08270c3abaa5ea",
-      "url": "https://www.timesofisrael.com/hezbollah-chief-demands-lebanon-back-out-of-futile-planned-talks-with-israel/",
-      "title": "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel",
-      "content_html": "<p>On eve of US-brokered negotiations in Washington, Naim Qassem vows his terror group will never surrender, and threatens to 'capture enemy soldiers' amid ongoing fighting</p>\n<p>The post <a href=\"https://www.timesofisrael.com/hezbollah-chief-demands-lebanon-back-out-of-futile-planned-talks-with-israel/\">Hezbollah chief demands Lebanon back out of &#8216;futile&#8217; planned talks with Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/03/66533-1024x640.jpg\" title=\"Hezbollah chief demands Lebanon back out of &#8216;futile&#8217; planned talks with Israel\" width=\"160\" /></figure>",
-      "date_published": "2026-04-13T20:47:39+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "Naim Qassem",
-        "Hezbollah",
-        "2026 Israel-Hezbollah conflict",
-        "Israel-Lebanon relations"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
     },
     {
       "id": "8304ec92c91173250339d1e84f00b66f67013c7f4945171d873896b8227922a0",
@@ -3608,26 +3775,6 @@
       "lang": "fr"
     },
     {
-      "id": "6d4177a59f0f9564a3baaef7c3ce32430f325c48d27b77bf5f420ccec42ac959",
-      "url": "https://www.timesofisrael.com/aron-heller-1-5-million-strong-jewish-band-of-brothers/",
-      "title": "Aron Heller: 1.5 million-strong Jewish band of brothers",
-      "content_html": "<p>On Israel's Holocaust Remembrance Day, the author of 'Zaidy's Band' speaks about the little-known brave Jewish servicemen who faced down the Nazis, fighting for their brethren</p>\n<p>The post <a href=\"https://www.timesofisrael.com/aron-heller-1-5-million-strong-jewish-band-of-brothers/\">Aron Heller: 1.5 million-strong Jewish band of brothers</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/04/Aron-Heller-1024x640.jpg\" title=\"Aron Heller: 1.5 million-strong Jewish band of brothers\" width=\"160\" /></figure>",
-      "date_published": "2026-04-13T20:44:48+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "What Matters Now",
-        "Times of Israel podcasts",
-        "podcasts",
-        "Holocaust Remembrance Day"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e87a613a2b82ef759acf849422e41cf56f618d4088e838c8fd6ddf202b46f527",
       "url": "https://www.elmundo.es/internacional/2026/04/13/69dd2057fc6c83303a8b4580.html",
       "title": "Le double défi des Magyars : mettre fin à la corruption de l'ère Orban et gouverner sa propre majorité",
@@ -3647,62 +3794,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "be599991cad13bc75b8003a3bd222bf9676de098efa0b6d4424f3f124d03d195",
-      "url": "https://www.ukrinform.net/rubric-society/4112137-zelensky-presents-awards-to-defense-industry-workers-on-ukrainian-weaponsmith-day.html",
-      "title": "Zelensky presents awards to defense industry workers on Ukrainian Weaponsmith Day",
-      "content_html": "On the occasion of Ukrainian Weaponsmith Day, Ukrainian President Volodymyr Zelensky presented state awards to employees of Ukraine’s defense industry.",
-      "date_published": "2026-04-13T20:33:00+00:00",
-      "authors": [],
-      "tags": [
-        "Society and Culture"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "93a9e6f8b4094c00087d2ec535ee2df7e46626ebdb5c4b98b18d62e4bb72a4b8",
-      "url": "https://www.france24.com/fr/moyen-orient/20260413-donald-trump-menace-de-d%C3%A9truire-tout-navire-militaire-for%C3%A7ant-le-blocus-des-ports-iraniens",
-      "title": "Donald Trump menace de détruire tout navire militaire forçant le blocus des ports iraniens",
-      "content_html": "Au lendemain de l'échec des pourparlers entre les États-Unis et l'Iran, Donald Trump a menacé lundi de \"destruction\" tout \"navire d'attaque rapide\" iranien qui forcera le blocus américains des ports de l'Iran. Téhéran a dénoncé cette situation, condamnant un acte \"illégal\" de \"piraterie\", et a menacé en retour de s'en prendre aux ports de ses voisins du Golfe.",
-      "date_published": "2026-04-13T20:21:02+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Moyen-Orient"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0e5c7289a8f6270674f63bc8ff0f6940067c52b7e4f2a29b98d116960d9aed2f",
-      "url": "https://www.france24.com/fr/europe/20260413-l-%C3%A9pouse-du-premier-ministre-espagnol-bego%C3%B1a-gomez-inculp%C3%A9e-de-corruption",
-      "title": "La justice espagnole inculpe pour corruption Begoña Gomez, épouse du Premier ministre",
-      "content_html": "Au terme d'une enquête de deux ans, le juge Juan Carlos Peinado a décidé d'inculper la femme du Premier ministre espagnol Pedro Sanchez pour détournement de fonds et corruption, selon une décision de justice rendue publique lundi. Begoña Gomez, qui se trouve actuellement en visite avec son époux en Chine, a toujours nié les faits qui lui sont reprochés.",
-      "date_published": "2026-04-13T20:17:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3729,22 +3820,16 @@
       "lang": "fr"
     },
     {
-      "id": "58b4e74048b6eeef2e6292566f2302ad7b7bcd7285c1a9179ed763516af68148",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260413-accus%C3%A9-de-blasph%C3%A8me-trump-retire-une-image-le-repr%C3%A9sentant-en-j%C3%A9sus",
-      "title": "Accusé de \"blasphème\", Trump retire une image le représentant en Jésus",
-      "content_html": "Face au tollé suscité par une image générée par IA de Donald Trump en Jésus guérissant un malade, le président américain a retiré sa publication, plusieurs figures de la droite chrétienne y voyant \"un blasphème\". Une polémique qui intervient après des propos virulents du locataire de la Maison Blanche à l'encontre du pape Léon XIV.",
-      "date_published": "2026-04-13T20:13:56+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
+      "id": "45040222212b0c71fba7add651d3fa7c35b2105334e8bf9cba11ebbc85ecf9d1",
+      "url": "https://ici.radio-canada.ca/sports/2245957/chronique-martin-leclerc-fin-saison-sabres-buffalo-series",
+      "title": "Les Sabres de Buffalo et l’art de conclure sur une bonne note",
+      "content_html": "<p>Les équipes qui terminent en force ont plus de chances de se rendre loin en séries, rappelle Martin Leclerc. </p>",
+      "date_published": "2026-04-13T20:10:35+00:00",
+      "authors": [],
+      "tags": [],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -3765,22 +3850,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2b57a7f14797da7c217e9172e7db652393d7bca71859b8bfbe858c44226e8207",
-      "url": "https://www.ukrinform.net/rubric-ato/4112132-drone-attack-on-truck-in-sumy-region-kills-driver.html",
-      "title": "Drone attack on truck in Sumy region kills driver",
-      "content_html": "Russian forces attacked a truck with a drone in the Hlukhiv community, killing a 39-year-old man, the truck driver.",
-      "date_published": "2026-04-13T19:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -3828,26 +3897,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "4bd2f7813acad190fc34bda8816fd2f33762650892afd493b704d231b81252ad",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260413-le-blocus-du-d%C3%A9troit-d-ormuz-menace-la-s%C3%A9curit%C3%A9-alimentaire-mondiale",
-      "title": "Le blocus du détroit d'Ormuz menace la sécurité alimentaire mondiale",
-      "content_html": "Le conflit en Iran pourrait conduire des millions de personnes à la famine. Un tiers des engrais produits dans le monde transitent en effet par le détroit d'Ormuz. Ils vont manquer aux agriculteurs, déjà confrontés à l'augmentation des prix des carburants. L'autre risque c'est que les productions de végétaux, au lieu d'être vendus pour être mangés, soient dirigés vers la production de biocarburants pour remplacer le pétrole manquant... Les pénuries alimentaires pourraient durer une année entière.",
-      "date_published": "2026-04-13T19:55:50+00:00",
-      "authors": [
-        {
-          "name": "Audrey RACINE"
-        }
-      ],
-      "tags": [
-        "Élément Terre, la quotidienne"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "0c29487a205adac9e2c26f224774d9cab4e963173a1f1b57d839820a6664a71d",
@@ -3919,22 +3968,6 @@
       "lang": "en"
     },
     {
-      "id": "009bb42e5b19a46ec2e688fe90bb96a9ed216fff6408457b30b2a04e915574d3",
-      "url": "https://www.ukrinform.net/rubric-defense/4112129-zelensky-ukraines-defense-industry-can-produce-millions-of-fpv-drones-annually.html",
-      "title": "Zelensky: Ukraine’s defense industry can produce millions of FPV drones annually",
-      "content_html": "Ukraine’s defense industry is capable of producing millions of FPV drones per year.",
-      "date_published": "2026-04-13T19:36:00+00:00",
-      "authors": [],
-      "tags": [
-        "Defense"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "17fb32fb7b39c9a0727c3f8ec9fe6c2d8900efb97f0ab76141ecdd287707d49a",
       "url": "https://www.elmundo.es/internacional/2026/04/13/69dd0b0fe4d4d8ad138b4579.html",
       "title": "Macron reçoit María Corina Machado à l'Elysée avant son voyage en Espagne",
@@ -3960,24 +3993,6 @@
       "lang": "fr"
     },
     {
-      "id": "3700297d2abd7139d7a55dffd353b7b533d93c09f3f780e4c412eeea237bab22",
-      "url": "https://www.france24.com/en/donald-trump-hasn-t-read-the-psychology-of-iranians-well-at-all-military-expert-says",
-      "title": "Donald Trump 'hasn't read the psychology of Iranians well at all', military expert says",
-      "content_html": "Speaking with FRANCE 24's Mark Owen, former British Military Intelligence officer Philip Ingram says that \"Donald Trump hasn't read the psychology of the Iranians well at all\" adding that \"the Iranians are not going to give in, and therefore Donald Trump either has to continue the blockade and deal with the impact that that's going to have on global economies [...] or go back to a bombing campaign\".",
-      "date_published": "2026-04-13T19:34:24+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "add87cef6b42aa342bdf7a253d592387188b47fdccb8052d598a93ac9c4c73e7",
       "url": "https://www.dw.com/en/trump-posts-and-then-deletes-jesus-like-ai-image-of-himself/a-76768673?maca=en-rss-en-all-1573-rdf",
       "title": "Trump posts and then deletes Jesus-like AI image of himself",
@@ -3990,46 +4005,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "89bfbf8a53b6415d29f3614c064fccacb0d1205fff5fe76619eb01c98bd90602",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260413-interfaith-dialogue-the-messenger-of-peace-in-the-name-of-pope-leo-xiv-is-coming-to-visit-us",
-      "title": "Interfaith dialogue: 'The messenger of peace in the name of Pope Leo XIV is coming to visit us'",
-      "content_html": "As Pope Leo XIV makes a historic visit to Algeria, in the spirit of interfaith dialogue, François Picard is pleased to welcome Father Fred Wekesa, Rector of the Basilica of Saint Augustine in Annaba. From his experience of living over a decade in Algeria, he challenges inherited narratives shaped by the violence of the 1990s, highlighting the present reality of coexistence and tolerance. He argues that interreligious dialogue must extend beyond institutions into families and daily life.",
-      "date_published": "2026-04-13T19:29:16+00:00",
-      "authors": [
-        {
-          "name": "François PICARD"
-        }
-      ],
-      "tags": [
-        "Spotlight"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "475a57a57a1b0cf25477c81fab59fb3352257b5b460cfc1332bd76d9e19615a7",
-      "url": "https://www.france24.com/en/europe/20260413-after-orban-what-magyar-victory-means-for-hungary-and-the-eu",
-      "title": "Orban ousted: What Magyar’s victory means for Hungary and the EU",
-      "content_html": "Peter Magyar's landslide victory over Viktor Orban in Sunday’s Hungarian legislative elections marks a seismic shift for Hungary and the EU, but Brussels may need to temper its enthusiasm. On the rule of law, migration and LGBTQ rights, the road ahead is neither straight nor guaranteed.",
-      "date_published": "2026-04-13T19:26:12+00:00",
-      "authors": [
-        {
-          "name": "Mehdi BOUZOUINA"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -4066,24 +4041,6 @@
       "lang": "en"
     },
     {
-      "id": "09b35e3a70cc96e14792c63ce53380167e921bd20237fce0ffa1a40df0b852f1",
-      "url": "https://www.france24.com/en/lebanon-will-need-1-billion-dollars-just-to-keep-humanitarian-situation-afloat-minister-says",
-      "title": "Lebanon will need '1 billion dollars just to keep humanitarian situation afloat', minister says",
-      "content_html": "FRANCE 24's Mark Owen speaks with the Lebanese Minister for Social Affairs, Hanin Sayyed, about the humanitarian crisis in Lebanon in the wake of the Israeli attacks and ground invasion. She says that if the war continues and displacement in Lebanon continues at the current pace, the country will need \"1 billion dollars in a 12-month period to be able to just keep the humanitarian situation afloat\".",
-      "date_published": "2026-04-13T19:17:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6b9aad4ee561d7b48409fd86addea3ea0961b9d35400263ca00976c2913fa235",
       "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
       "title": "US drivers head to Native American lands for cheaper gas",
@@ -4094,22 +4051,6 @@
       "source": {
         "name": "BBC News",
         "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "2f03551e51af74e037f1b1c2f450406becc41f3ea2faae1814b9e9509e4c65d0",
-      "url": "https://www.ukrinform.net/rubric-polytics/4112125-zelensky-announces-talks-with-european-officials-on-joint-air-defense-system.html",
-      "title": "Zelensky announces talks with European officials on joint air defense system",
-      "content_html": "The Ukrainian side will hold talks with European partners as early as this week on the creation of a joint air defense system.",
-      "date_published": "2026-04-13T19:10:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4192,94 +4133,16 @@
       "lang": "fr"
     },
     {
-      "id": "fe3e88660b5caf92bb1f6861941841d3636b44a9bb9f279aff7830482f9d2138",
-      "url": "https://www.france24.com/fr/afrique/20260413-au-premier-jour-de-sa-visite-en-alg%C3%A9rie-l%C3%A9on-xiv-d%C3%A9nonce-les-tendances-n%C3%A9ocoloniales",
-      "title": "Au premier jour de sa visite en Algérie, Léon XIV dénonce \"les tendances néocoloniales\"",
-      "content_html": "Dans un message implicite adressé aux Etats-Unis de Donald Trump, le pape Léon XIV a fustigé au premier jour de sa visite en Algérie les \"tendances néocoloniales\" et les violations du droit international. Il a également exhorté les autorités algériennes à promouvoir \"une société civile vivante, dynamique et libre\".",
-      "date_published": "2026-04-13T18:44:36+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Afrique"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "53926671a55cc0213d453af529c84f13197b886979eab8efcc651d3a1fb6e771",
-      "url": "https://www.france24.com/en/french-court-jails-lafarge-former-ceo-for-funding-is-in-syria",
-      "title": "French court jails Lafarge former CEO for funding IS in Syria",
-      "content_html": "A French court on Monday fined the cement group Lafarge over $1.3 million and sentenced its former boss to six years in prison for paying protection money to the Islamic State group and other jihadists to maintain its business in war-torn Syria. FRANCE 24's Emerald Maxwell reports.",
-      "date_published": "2026-04-13T18:36:38+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d8e7b4ba9ff484fc872f4c27a4462e1d4877940380f1bd8dde1ab4b12553cdd6",
-      "url": "https://www.ukrinform.net/rubric-ato/4112122-military-expert-russia-moving-toward-north-koreastyle-controlled-internet.html",
-      "title": "Military expert: Russia moving toward North Korea-style controlled internet",
-      "content_html": "Russia is gradually transitioning to a so-called “Cheburnet” model, which involves restricting access to external resources and strengthening internal oversight of the information space.",
-      "date_published": "2026-04-13T18:35:00+00:00",
+      "id": "1c86c1969ef6c63e8d0f844be99c8c0babd471911ffde3cd94175529034a5123",
+      "url": "https://ici.radio-canada.ca/nouvelle/2245882/2e-cas-rougeole-detectee-quebec",
+      "title": "Un 2e cas de rougeole détecté à Québec",
+      "content_html": "<p>La personne atteinte a circulé dans un Costco de Sainte-Foy et à l&#x27;Hôpital de l&#x27;Enfant-Jésus.</p>",
+      "date_published": "2026-04-13T18:30:17+00:00",
       "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5caeb3d0c1f8f563dc6a957109ee63e188df93791e168a58f0e7ecf0ac8909a0",
-      "url": "https://www.france24.com/en/hungary-will-be-a-tough-partner-but-a-partner-on-ukraine-expert-says",
-      "title": "Hungary will be \"a tough partner, but a partner\" on Ukraine, expert says",
-      "content_html": "Speaking with FRANCE 24's Mark Owen, Lukáš Macek, Director of the Greater Europe project at the Jacques Delors Centre, says on the question of Ukraine the new Hungarian government led by Peter Magyar is likely to stop obstructing aid for Ukraine and will be \"a tough partner, but a partner nonetheless\" on the issue of Ukrainian accession to the EU.",
-      "date_published": "2026-04-13T18:34:22+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
       "tags": [],
       "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "11b586369f487a4be6f9973e324ceea51bfe68234803041b48b4486faa3070a9",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260413-hongrie-vers-une-nouvelle-%C3%A8re",
-      "title": "Hongrie : vers une \"nouvelle ère\" ?",
-      "content_html": "En Hongrie, le Premier ministre Viktor Orbán a perdu le pouvoir après seize ans à la tête du pays. Le vainqueur est un conservateur pro-européen, Peter Magyar. Au lendemain de sa victoire, le nouveau Premier ministre a pris la parole et promis une \"nouvelle ère\" pour la Hongrie.",
-      "date_published": "2026-04-13T18:21:55+00:00",
-      "authors": [
-        {
-          "name": "Florent RODO"
-        }
-      ],
-      "tags": [
-        "Le débat"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4459,22 +4322,6 @@
       "lang": "en"
     },
     {
-      "id": "12fdddd4d6598b355505805b04ad108f323da854692f16f1f57311aa07e9ee09",
-      "url": "https://www.ukrinform.net/rubric-ato/4112107-ukraines-usfs-hit-russian-chemical-plant-in-cherepovets.html",
-      "title": "Ukraine’s USFs hit Russian chemical plant in Cherepovets",
-      "content_html": "Ukraine’s Unmanned Systems Forces have struck a Russian plant in Cherepovets that produces components used in explosives.",
-      "date_published": "2026-04-13T18:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1abfd6be91df14dc90117c454dbbc34fe6653cd54d07c7350622a55e17dc0f4a",
       "url": "https://www.liberation.fr/societe/religions/depuis-alger-le-pape-repond-a-trump-et-fustige-les-nouvelles-tentations-coloniales-20260413_EMXMLZWYQ5BNLFIUJY3FXHRF2U/",
       "title": "Depuis Alger, le pape Léon XIV répond à Trump et fustige les «nouvelles tentations coloniales»",
@@ -4493,26 +4340,6 @@
       "lang": "fr"
     },
     {
-      "id": "104616b268428d35516a0bcb460a014d6c7eaa69ee53fdb7290033846b8b5e35",
-      "url": "https://www.france24.com/fr/europe/20260413-p%C3%A9ter-magyar-desorbaniser-hongrie-sa-victoire-aux-l%C3%A9gislatives",
-      "title": "Péter Magyar peut-il \"désorbaniser\" la Hongrie après sa victoire aux législatives ?",
-      "content_html": "Après sa large victoire face à Viktor Orban, Péter Magyar a promis une “nouvelle ère” pour la Hongrie. Mais avant de pouvoir réellement parler de page qui se tourne, le nouvel homme fort hongrois va devoir démanteler le système mis en place au fil des 16 ans de règne du Premier ministre sortant.",
-      "date_published": "2026-04-13T17:51:29+00:00",
-      "authors": [
-        {
-          "name": "Sébastian SEIBT"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "290c55e1699e0d168efd99e10c726a61657092720b52a4e8ab56ae6d46cb3148",
       "url": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-rdf",
       "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
@@ -4525,22 +4352,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "41a840ef39906d38417dd451708ea5d6753a7652fcd41e66aeb96ec19d516210",
-      "url": "https://www.ukrinform.net/rubric-polytics/4112102-military-expert-escalation-possible-in-middle-east-after-april-15.html",
-      "title": "Military expert: Escalation possible in Middle East after April 15",
-      "content_html": "A deterioration of the security situation in the Middle East may occur after mid-April amid an increase in U.S. military presence in the region.",
-      "date_published": "2026-04-13T17:44:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4649,26 +4460,10 @@
       "lang": "en"
     },
     {
-      "id": "c43070af1f2be9439f12ea0a133e17573c2a37bf170b38b5da36ba53f4889ec9",
-      "url": "https://www.ukrinform.net/rubric-defense/4112097-ukraine-has-built-new-defense-industry-in-four-years-zelensky.html",
-      "title": "Ukraine has built new defense industry in four years – Zelensky",
-      "content_html": "President Volodymyr Zelensky stated that Ukraine has built a new defense industry over the past four years.",
-      "date_published": "2026-04-13T17:27:00+00:00",
-      "authors": [],
-      "tags": [
-        "Defense"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "35306bd4b44c026c6dd6d4fa8e2d1acf6fec7590a13b791126f55d8e97ab2165",
       "url": "https://www.elmundo.es/internacional/2026/04/13/69dd265fe4d4d880768b45a0.html",
       "title": "Le Royaume-Uni et la France excluent d'aider Trump dans le blocus d'Ormuz : \"Nous n'allons pas nous laisser entraîner dans la guerre\"",
-      "content_html": "Le président des Etats-Unis a assuré dimanche que \"d'autres pays\" collaboreraient à l'opération, mais pour l'instant aucun allié de l'Otan n'a décidé d'y prendre part.",
+      "content_html": "Le président des Etats-Unis a assuré dimanche que \"d'autres pays\" collaboreraient à l'opération, mais pour l'heure aucun allié de l'Otan n'a décidé d'y prendre part.",
       "date_published": "2026-04-13T17:22:41+00:00",
       "authors": [
         {
@@ -5117,22 +4912,6 @@
       "lang": "fr"
     },
     {
-      "id": "61245dc118d8bc05ed9777b677f8813a6e21e7fe26f7ba49c891ba779352c22c",
-      "url": "https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran war: Talks collapse is bad news for ordinary Iranians",
-      "content_html": "The collapse of the US-Iran talks has cast fresh doubt over whether the two sides can bridge the gap dividing them. But whether diplomacy will succeed also depends on a range of challenges inside Iran.",
-      "date_published": "2026-04-13T15:13:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6b6e3ff56c4087e988af5c57eab578fd485324b83859702c1e446cb0451ad055",
       "url": "https://www.themoscowtimes.com/2026/04/13/russian-swimmers-allowed-to-compete-under-national-flag-after-restrictions-dropped-a92488",
       "title": "Russian Swimmers Allowed to Compete Under National Flag After Restrictions Dropped",
@@ -5147,10 +4926,10 @@
       "lang": "en"
     },
     {
-      "id": "6fd99f7f32bfa4926c73d5ee0737ce1ec9670ec7de674eacfc738ed5ecfa47a3",
-      "url": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-all-1573-rdf",
-      "title": "End of the Orban era: Hungary and Europe breathe again",
-      "content_html": "Viktor Orban's Fidesz party was swept aside in Hungary's parliamentary election. His defeat is a blow for Putin, Trump and populists the world over. Election winner Peter Magyar is promising major change.",
+      "id": "3b01588fa7ad9bbf0bd7750253bcd750e798c49c76ee4cb07cf8f5b97754aa42",
+      "url": "https://www.dw.com/en/hungary-orban-election-defeat-sparks-hope-and-relief/a-76766410?maca=en-rss-en-all-1573-rdf",
+      "title": "Hungary: Orban election defeat sparks hope and relief",
+      "content_html": "Viktor Orban's Fidesz party was swept aside in Hungary's parliamentary election. His defeat is a blow for Putin, Trump and populists the world over. Election winner Peter Magyar is promising major changes.",
       "date_published": "2026-04-13T14:49:00+00:00",
       "authors": [],
       "tags": [
@@ -5706,7 +5485,7 @@
       "id": "1ff503baaa2dfb7956726fd6a3a7f0f0346a25cb9d10ea930b00de1651607a30",
       "url": "https://www.dw.com/en/world-s-oldest-gorilla-celebrates-69th-birthday-at-berlin-zoo/a-76760115?maca=en-rss-en-all-1573-rdf",
       "title": "World's oldest gorilla celebrates 69th birthday at Berlin Zoo",
-      "content_html": "Lady Fatou, known as the \"grand dame\" of the Berlin Zoo, was certified last year by Guiness as the oldest living gorilla in the world.",
+      "content_html": "Lady Fatou, known as the \"grand dame\" of the Berlin Zoo, was certified last year by Guinness as the oldest living gorilla in the world.",
       "date_published": "2026-04-13T09:03:00+00:00",
       "authors": [],
       "tags": [
@@ -6791,30 +6570,6 @@
       "lang": "fr"
     },
     {
-      "id": "55cb5bd693990065411c98ceed96ec1eca343bc4d6fc2fd8d36cc901d265d63b",
-      "url": "https://www.elmundo.es/internacional/2026/04/11/69da180321efa0fd2c8b4594.html",
-      "title": "Le Royaume-Uni décide de suspendre l'accord visant à accorder la souveraineté des îles Chagos à Maurice après l'opposition de Donald Trump",
-      "content_html": "L'exécutif de Keir Starmer affirme que le temps est écoulé pour adopter la législation",
-      "date_published": "2026-04-12T06:42:04+00:00",
-      "authors": [
-        {
-          "name": "EFE"
-        }
-      ],
-      "tags": [
-        "internacional",
-        "Reino Unido",
-        "Keir Starmer",
-        "Donald Trump",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "d029d7656b4da9459562a439119ddbe8b55586b20d6f6812a25348bd49085be6",
       "url": "https://www.theguardian.com/world/2026/apr/12/cyclone-vaianu-new-zealand-north-island-floods-power-outages-hundreds-evacuated",
       "title": "Floods, power outages and hundreds evacuated as Cyclone Vaianu lashes New Zealand’s North Island",
@@ -6954,69 +6709,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "3c015a4ccc8836333ddab62e9384414847d6f0a34269d86574c387cda1749b75",
-      "url": "https://www.elmundo.es/internacional/2026/04/12/69da9c0e21efa088768b4584.html",
-      "title": "Le Pérou, coincé dans sa boucle électorale imprévisible",
-      "content_html": "Les citoyens votent lassés d’une mosaïque de candidats de tous bords et sans majorité",
-      "date_published": "2026-04-11T23:58:14+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "73bce0039477cc2a61628123d8470ed541236a83a2e6d0239de073bbed4128a4",
-      "url": "https://www.elmundo.es/internacional/2026/04/12/69da8f7bfc6c8345338b4581.html",
-      "title": "Qalibaf et Araghchi, les deux visages du pouvoir iranien en négociation à Islamabad",
-      "content_html": "Les deux responsables ont acquis une grande importance pendant la guerre américano-israélienne contre l’Iran.",
-      "date_published": "2026-04-11T22:05:05+00:00",
-      "authors": [
-        {
-          "name": "Lara Villalón"
-        }
-      ],
-      "tags": [
-        "Irán",
-        "Estados Unidos"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c4f7411125536bbc7c41c96479c0ce731541d1bfa052711900ea5a2637323f7c",
-      "url": "https://www.elmundo.es/internacional/2026/04/12/69d9eadefdddff8e528b4573.html",
-      "title": "C'est l'économie et les jeunes, Orban !",
-      "content_html": "De notre point de vue européen et avec une inquiétude stagnante quant à l’avenir de l’UE, nous nous sommes concentrés sur la façon dont <strong>Viktor Orban</strong> a axé sa campagne sur l’attaque",
-      "date_published": "2026-04-11T22:05:04+00:00",
-      "authors": [
-        {
-          "name": "Silvia Román"
-        }
-      ],
-      "tags": [
-        "Artículos Silvia Román",
-        "Unión Europea",
-        "Hungría",
-        "Viktor Orban",
-        "Europa"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "61b284c8dd8b4353cdcc517ea1f63dc5f006c773ffde82fd88adadc85faae426",
@@ -7253,60 +6945,6 @@
       "lang": "fr"
     },
     {
-      "id": "4ac61a6a9d1e5dc8197800f38f7187b891a4488b77bff77a1c7b8b0cbbec5eb3",
-      "url": "https://www.liberation.fr/international/afrique/a-djibouti-lindeboulonnable-ismail-omar-guelleh-reelu-pour-un-sixieme-mandat-20260411_VF57RBEFJNCQZDJFKB7YRL5TH4/",
-      "title": "A Djibouti, l’indéboulonnable Ismaïl Omar Guelleh réélu pour un sixième mandat",
-      "content_html": "Lors du dernier meeting de campagne d'Ismaïl Omar Guelleh, au stade Gouled de Djibouti, le 8 avril.",
-      "date_published": "2026-04-11T10:10:59+00:00",
-      "authors": [
-        {
-          "name": "Léo Lagniez"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e59ac9b381c525743068b42ddbbf444baafbd55f98457b10d752e1bd8547210f",
-      "url": "https://www.liberation.fr/international/viktor-orban-marine-le-pen-comment-la-galaxie-de-trump-tisse-la-toile-qui-lie-les-extremes-droites-europeennes-20260407_3CXCB2X4RVB35DVJCQDYRQDVYA/",
-      "title": "Orbán, Le Pen... Comment Trump précipite l’Europe à l’extrême droite",
-      "content_html": "Depuis le retour de Donald Trump au pouvoir, son entourage travaille à créer un paradis de l’extrême droite en Europe. Dans cette vidéo, «Libération» vous explique comment ce plan se construit.",
-      "date_published": "2026-04-11T10:10:00+00:00",
-      "authors": [
-        {
-          "name": "Caurentin Courtois"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "917c125452340d7462790da5519ecfad2fd490993fb129ba4f390654cda8decd",
-      "url": "https://www.liberation.fr/international/amerique/je-suis-une-personne-reelle-lautrice-de-la-femme-de-menage-freida-mcfadden-est-en-fait-une-docteure-qui-porte-une-perruque-20260411_32EKEJ5XIBBR5CADXLYMWH2CXA/",
-      "title": "«Je suis une personne réelle» : l’autrice de «la Femme de ménage», Freida McFadden, est en fait une docteure qui porte une perruque",
-      "content_html": "Sara Cohen alias Freida McFadden à la projection new-yorkaise du film «la Femme de ménage» le 2 décembre 2025, à New York aux Etats-Unis.",
-      "date_published": "2026-04-11T09:57:26+00:00",
-      "authors": [
-        {
-          "name": "LIBERATION"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2c6a6e70964be0062f5722616fd1b82bccce6943fce5ba45a5d3f229adb74a89",
       "url": "https://www.theguardian.com/australia-news/2026/apr/11/albanese-singapore-australia-fuel-supply-petrol-prices-diesel-analysis",
       "title": "Albanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a success",
@@ -7363,28 +7001,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "191eea8149f06804e69fa60457d2fe213fd9547f3951069f6aa8c3dff8e883c7",
-      "url": "https://www.theguardian.com/world/2026/apr/11/new-zealands-north-island-braces-for-cyclone-vaianu-with-thousands-ordered-to-evacuate",
-      "title": "New Zealand’s North Island braces for Cyclone Vaianu with thousands ordered to evacuate",
-      "content_html": "<p>Vaianu, forecast to bring heavy rain and winds of up to 130 kmh (80 mph), is expected to hit on Sunday</p><p>Thousands of New Zealanders were ordered to evacuate their homes on Saturday as the country’s North Island braced for Cyclone Vaianu, which authorities warned could cause coastal flooding and landslides.</p><p>Vaianu, forecast to bring heavy rain and winds of up to 130 km/h (80 mp/h), was expected to hit on Sunday, then pass west of the remote Chatham Islands on Monday, the country’s weather forecaster said.</p> <a href=\"https://www.theguardian.com/world/2026/apr/11/new-zealands-north-island-braces-for-cyclone-vaianu-with-thousands-ordered-to-evacuate\">Continue reading...</a>",
-      "date_published": "2026-04-11T03:49:49+00:00",
-      "authors": [
-        {
-          "name": "Reuters"
-        }
-      ],
-      "tags": [
-        "New Zealand",
-        "Extreme weather",
-        "Asia Pacific"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -8295,22 +7911,6 @@
       "lang": "en"
     },
     {
-      "id": "8c715fa26bfd941884e61423676248ebe9a2c987fe8efa27d46da9f376a36542",
-      "url": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-all-1573-rdf",
-      "title": "Virtual Romanian singer goes viral but sparks criticism",
-      "content_html": "In Romania, an AI-generated singer inspired by poems about the Roma community has become an overnight success. But critics say her creator is monetizing the woes of a marginalized group without involving its members.",
-      "date_published": "2026-04-07T19:34:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "1855a80fe3f312f0d45c443ea83df08c984393c076d58b18cbdeca7a5a4c0dc3",
       "url": "https://www.themoscowtimes.com/2026/04/07/russian-crude-oil-selling-at-13-year-high-a92449",
       "title": "Russian Crude Oil Selling at 13-Year High",
@@ -8553,20 +8153,6 @@
       "title": "Russian Crypto Payments Network Seeks Africa Expansion – FT",
       "content_html": "A7's crypto network offers a way for Russia to bypass Western financial systems following sanctions imposed over the war in Ukraine.",
       "date_published": "2026-04-06T13:21:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "427787f25c51670e5ed1ecca5af403167d420887b9e4a6df46067f45d22ad916",
-      "url": "https://www.themoscowtimes.com/2026/04/06/russias-largest-business-lobby-says-its-open-to-windfall-tax-to-plug-budget-gap-a92429",
-      "title": "Russia’s Largest Business Lobby Says It’s Open to Windfall Tax to Plug Budget Gap",
-      "content_html": "“All the mechanisms are already in the tax code. The only issue is that there aren’t any profits. Many companies are operating at a loss,” RSPP President Alexander Shokhin said.",
-      "date_published": "2026-04-06T12:35:00+00:00",
       "authors": [],
       "tags": [],
       "source": {
