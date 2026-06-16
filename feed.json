@@ -5,11 +5,11 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "33cd75be05916e164f7fe0b294f7d5c3d496fc55b47a3dde973137669c3a7f90",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1013898/accord-paix-etats-unis-iran-guerre",
-      "title": "Trump affirme que le détroit d’Ormuz sera « complètement ouvert » vendredi",
-      "content_html": "<p>La cérémonie officielle de signature doit avoir lieu vendredi en Suisse.</p>",
-      "date_published": "2026-06-15T22:25:39+00:00",
+      "id": "92cadfcb7afa74825253e62ab2619e466832e4b7e39c6b1464e9ffffd318b814",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261955/allegations-racisme-spvm-montreal-nord-manif",
+      "title": "Allégations de racisme : manifestation devant le poste 39 de Montréal-Nord",
+      "content_html": "<p>Des manifestants dénoncent les gestes racistes allégués d’agents envers des personnes noires et arabes.</p>",
+      "date_published": "2026-06-16T00:20:38+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -19,41 +19,113 @@
       "lang": "fr"
     },
     {
-      "id": "084ebca668e56a6294486b098a41ee5654ecc0499a7525f4b5987add0678ff4b",
-      "url": "https://www.lemonde.fr/international/article/2026/06/16/donald-trump-annonce-un-meeting-politique-le-4-juillet-pour-la-fete-nationale-et-le-250-anniversaire-des-etats-unis_6703263_3210.html",
-      "title": "Donald Trump annonce un meeting politique le 4 juillet, pour la fête nationale et le 250ᵉ anniversaire des États-Unis",
-      "content_html": "Le président américain Donald Trump lors du sommet du G7 à Évian-les-Bains, le 15 juin 2026.",
-      "date_published": "2026-06-15T22:19:03+00:00",
+      "id": "a806caf2a80e4e939dff88aae73a9dd9b835e1583506c428e9feb38f955f44f7",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261903/ecrasement-bombardier-americain-californie",
+      "title": "Un bombardier américain s’écrase en Californie : 8 morts présumés",
+      "content_html": "<p>L&#x27;avion s&#x27;est écrasé peu après son décollage, a indiqué l&#x27;aérodrome d&#x27;Edwards.</p>",
+      "date_published": "2026-06-16T00:20:03+00:00",
       "authors": [],
       "tags": [],
       "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
     {
-      "id": "263378590f6d65144d67112e91e7a70fc809b79f332e4fd70a4088f2db9b1fb6",
-      "url": "https://www.dw.com/en/uk-announces-social-media-ban-for-under-16s/a-77568831?maca=en-rss-en-all-1573-rdf",
-      "title": "UK announces social media ban for under-16s",
-      "content_html": "The United Kingdom is set to follow the example of Australia and Indonesia by banning teenagers from social networks. Prime Minister Keir Starmer said platforms like Instagram and TikTok make youngsters \"unhappy.\"",
-      "date_published": "2026-06-15T22:17:00+00:00",
-      "authors": [],
+      "id": "30775e7345526c44ee0969c6843dd088732175463db120a3b4d45dfb8c3a7dce",
+      "url": "https://www.france24.com/en/americas/20260616-eight-dead-after-us-b-52-bomber-crashes-at-california-air-force-base",
+      "title": "Eight dead after US B-52 bomber crashes at California air force base",
+      "content_html": "Eight people were killed after a US B-52 bomber crashed and burst into flames shortly after take-off from Edwards Air Force Base in California on Monday. The aircraft was carrying a mix of military personnel, government employees and civilian contractors on a routine test mission when it went down, prompting an immediate investigation.",
+      "date_published": "2026-06-16T00:15:20+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
       "tags": [
-        "News"
+        "Americas"
       ],
       "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "838e5def337754b58de64e0cdc52b6b3dbb6a974579cc8d7786dbbaddc9c273f",
+      "url": "https://www.france24.com/en/sport/20260616-world-cup-2026-saudi-arabia-hold-uruguay-to-draw-group-h-spain-cape-verde",
+      "title": "World Cup 2026: Saudi Arabia hold Uruguay to draw on day of surprises",
+      "content_html": "Saudi Arabia held two-time champions Uruguay to a 1-1 draw in their opening match of the 2026 World Cup, four years after defeating future champions Argentina in their opening game in Qatar.",
+      "date_published": "2026-06-16T00:12:25+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a5f61baeb86cb5845b98c73bc2459ed4eb50d16cd7e0ef6383c4aad03520d5d3",
+      "url": "https://www.france24.com/fr/sports/20260616-mondial-2026-arabie-saoudite-tient-t%C3%AAte-nul-uruguay",
+      "title": "Mondial 2026 : au courage, l'Arabie saoudite tient tête à l'Uruguay",
+      "content_html": "L'Arabie saoudite a bien failli créer l'exploit face à l'Uruguay lundi, au Mondial 2026. Les Faucons ont longtemps mené, puis ont résisté à la Celeste après l'égalisation, grâce à un gardien héroïque (1-1).",
+      "date_published": "2026-06-16T00:07:59+00:00",
+      "authors": [
+        {
+          "name": "Cassandre TOUSSAINT"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1cb38440a0d695c3e68636668d17042e25b3f40dee99b72b28564fae0ce2c96f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261933/bell-suppression-700-emplois-indemnites-abolition",
+      "title": "Bell supprime près de 700 emplois dans un contexte de changements organisationnels",
+      "content_html": "<p>BCE indique que ces suppressions touchent environ 1&nbsp;% de son effectif total. </p>",
+      "date_published": "2026-06-16T00:04:08+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0f191ad0a4b7fe780676395d548d95a2241b73165eccc9657d3f6c7b33de90be",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "content_html": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "date_published": "2026-06-16T00:03:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
     {
       "id": "4a37395c777d99e36657cc157a529a435258aa371a3d5000ae04136b4b30323d",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-      "title": "Australia news live: police to investigate Gaza flotilla activist allegations; Victorian law set to enshrine right to WFH",
-      "content_html": "<p>Police meet activists and will inquire into abuse and sexual assault allegations. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Gallagher on One Nation: ‘Opinion polls will come and go’</strong></p><p><strong>Katy Gallagher</strong> was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”.</p><p>I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do.</p><p>Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people.<strong> And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-06-15T22:16:25+00:00",
+      "title": "News live: Fifa clears Australia VAR official over hand gesture during World Cup broadcast; postal workers report rise in dog-related incidents",
+      "content_html": "<p>Shaun Evans says he was unaware he had made gesture at the time. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Gallagher on One Nation: ‘Opinion polls will come and go’</strong></p><p><strong>Katy Gallagher</strong> was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”.</p><p>I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do.</p><p>Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people.<strong> And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-06-16T00:03:08+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -72,6 +144,371 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "02817303da53eae68d0f4d9ef4d4bd16d1fd345edbf6a923c78655bc7e89ed89",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260615-etats-unis-bombardier-b-52-americain-s-ecrase-californie-huit-personnes-a-bord-morts",
+      "title": "Un bombardier B-52 américain s'écrase en Californie avec huit personnes à bord",
+      "content_html": "Au moins huit personnes sont présumées mortes après le crash, peu après son décollage lundi sur la base aérienne d'Edwards, en Californie, d'un bombardier américain B-52. Une enquête a été ouverte pour déterminer les causes de l'accident.",
+      "date_published": "2026-06-15T23:58:56+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Amériques"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1296fd373c80e0336af1753ab06126b412363c2a1bdef90ec1248912ad945dda",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261935/itinerance-autochtone-milton-parc-ombudsman-montreal",
+      "title": "Itinérance : la situation ne s’améliore pas dans Milton-Parc, dit l’ombudsman de Montréal",
+      "content_html": "<p>«&nbsp;L’intensité et la complexité des enjeux se sont accrues&nbsp;», peut-on lire dans son rapport annuel.</p>",
+      "date_published": "2026-06-15T23:51:36+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "33cd75be05916e164f7fe0b294f7d5c3d496fc55b47a3dde973137669c3a7f90",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1013898/accord-paix-etats-unis-iran-guerre",
+      "title": "Trump affirme que le détroit d’Ormuz sera « complètement ouvert » vendredi",
+      "content_html": "<p>La cérémonie officielle de signature doit avoir lieu vendredi en Suisse.</p>",
+      "date_published": "2026-06-15T23:38:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "80457c729f7940af6027e80afa7f1f6b5524e2d13620b235316ce0f207dd4816",
+      "url": "https://www.dw.com/en/iran-updates-netanyahu-refrains-from-criticizing-iran-deal/live-77552154?maca=en-rss-en-all-1573-rdf",
+      "title": "Iran updates: Netanyahu refrains from criticizing Iran deal",
+      "content_html": "Israeli Prime Minister Benjamin Netanyahu, however, said he said he doesn't always share the same views as US President Donald Trump. DW has the latest.",
+      "date_published": "2026-06-15T23:37:00+00:00",
+      "authors": [],
+      "tags": [
+        "World"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bb825aca08332f2b9ff05e128aed8556ec69621408ac634e26e8e99681cc9efa",
+      "url": "https://www.aljazeera.com/sports/2026/6/15/fifa-clears-world-cup-referee-accused-of-making-white-supremacist-gesture?traffic_source=rss",
+      "title": "FIFA clears World Cup referee accused of making white supremacist gesture",
+      "content_html": "Australian referee Shaun Evans said he didn’t intend to &#039;communicate a message, affiliation, game or belief of any kind&#039;",
+      "date_published": "2026-06-15T23:31:48+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "85b1dd69b29c7318894fdcb3bdf7825865af70f5f3557b01f48def5656d5f305",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134150-until-major-incident-occurs-belgians-unlikely-to-demand-defense-boost-defense-expert-sys.html",
+      "title": "Until major incident occurs, Belgians unlikely to demand defense boost, defense expert sys",
+      "content_html": "Public awareness in Belgium of hybrid and conventional military threats will remain insufficient until the country experiences a major incident on its own territory.",
+      "date_published": "2026-06-15T23:30:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b3274e8bf52cd2dd103219ef2026d7c090df0521f8228670f26964866e523b53",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates",
+      "title": "California governor Gavin Newsom accuses Donald Trump of directing DoJ to investigate him and his wife – as it happened",
+      "content_html": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/15/gavin-newsom-doj-investigation\">Gavin Newsom says Trump directed DoJ to investigate him and his wife</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p><strong>JD Vance</strong> also dodged the question when he was asked by CNBC who would be at the signing of the agreement on Friday.</p><p>Without addressing who would be present for the US side, he said they “expect the negotiating team from the Iranian side is going to be the Speaker of the House [Mohammad Bagher] Ghalibaf, and also the foreign minister [Abbas] Araghchi, along with a number of security officials and people who represent the different constituencies within their country.”</p><p>I think it’s a great day for the American people … <strong>our expectation is that the strait is going to be opened in a toll-free way for the long term</strong>.</p><p>That’s the sort of thing that we’re going to figure out in these technical negotiations. There are <strong>a lot of very important details to figure out</strong> that we’re actually going to sit at the table and discuss together and figure out a path forward on these details.</p><p>And what we’ve said is, OK, let’s talk about how exactly we’re going to do that.</p><p>They want access to an unsanctioned economy. We’ve talked about, ‘OK, we’re open to that,’ but <strong>that would require a long-term commitment to the inspection and verification regime.</strong></p> <a href=\"https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates\">Continue reading...</a>",
+      "date_published": "2026-06-15T23:26:20+00:00",
+      "authors": [
+        {
+          "name": "Roque Planas, Lucy Campbell, Vivian Ho and Tom Ambrose"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "US news",
+        "Trump administration",
+        "G7",
+        "Iran",
+        "Michelle Obama",
+        "UFC",
+        "US politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "047d76317f09cc371748e294019738f2c518ef102179c74187a2750e4c7ffc4d",
+      "url": "https://www.theguardian.com/us-news/2026/jun/15/rfk-jr-letter-medical-journal-vaccine-study",
+      "title": "RFK Jr under fire for ‘bullying’ letter to scientific journal",
+      "content_html": "<p>Health advocates criticized Kennedy’s move demanding answers from journal that removed ‘flawed’ vaccine study</p><p><a href=\"https://www.theguardian.com/us-news/robert-f-kennedy-jr\">Robert F Kennedy Jr</a>, the US health secretary, is demanding answers from a medical journal that recently removed a paper suggesting a link between vaccines and infant death, saying their decision was “of great interest to me”.</p><p>Public health advocates immediately criticized the move, and said Kennedy appeared to be trying to intimidate and influence the journal’s editorial process. The journal Toxicology Reports had removed the paper this spring after editors determined it was so seriously flawed it could harm patients and pose a risk to public health.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/15/rfk-jr-letter-medical-journal-vaccine-study\">Continue reading...</a>",
+      "date_published": "2026-06-15T23:20:21+00:00",
+      "authors": [
+        {
+          "name": "Michelle R Smith"
+        }
+      ],
+      "tags": [
+        "Trump administration",
+        "Robert F Kennedy Jr",
+        "US healthcare",
+        "US news",
+        "US politics",
+        "Vaccines and immunisation",
+        "Science",
+        "Health",
+        "Society"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fcdb99d8d6b7c4dd6d94bd2fbb5468c182ac7fc6e718f64f2ca2fc01847bca40",
+      "url": "https://www.timesofisrael.com/california-gov-newsom-says-trumps-justice-department-investigating-him-his-wife/",
+      "title": "California Gov. Newsom says Trump’s Justice Department investigating him, his wife",
+      "content_html": "<p>Outspoken governor does not specify nature of the probe, but says Trump 'coming after me because I’m considering running for president'; DOJ declines to comment</p>\n<p>The post <a href=\"https://www.timesofisrael.com/california-gov-newsom-says-trumps-justice-department-investigating-him-his-wife/\">California Gov. Newsom says Trump&#8217;s Justice Department investigating him, his wife</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/AP26134689394544-1024x640.jpg\" title=\"California Gov. Newsom says Trump&#8217;s Justice Department investigating him, his wife\" width=\"160\" /></figure>",
+      "date_published": "2026-06-15T23:09:17+00:00",
+      "authors": [],
+      "tags": [
+        "Israel & the Region",
+        "Gavin Newsom",
+        "Donald Trump",
+        "US Department of Justice",
+        "California"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5271c4b37f952522a130350820b10a23a599711844757b8789231797b68bbb17",
+      "url": "https://www.lemonde.fr/international/article/2026/06/16/gavin-newsom-gouverneur-de-californie-accuse-donald-trump-de-le-viser-avec-des-enquetes_6703265_3210.html",
+      "title": "Gavin Newsom, gouverneur de Californie, accuse Donald Trump de le viser avec des enquêtes",
+      "content_html": "Gavin Newsom, à Washington, le 19 mai 2026.",
+      "date_published": "2026-06-15T23:06:23+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f1f8bb629a93f0ce9592614be4c87e8202a474d7323b7fef07d1e1a74df64bb1",
+      "url": "https://www.theguardian.com/media/2026/jun/16/digital-news-australia-2026-newspapers-radio-tv-social-media-tiktok-facebook-instagram",
+      "title": "Most Australians under 25 have never used newspapers or radio as a source of news, survey finds",
+      "content_html": "<p>But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/media/article/2024/aug/28/weekly-beast-email-austrailan-media-diary-free-newsletter-subscribe-sign-up?CMP=cvau_sfl\">Sign up for Guardian Australia’s free weekly media newsletter here</a></p></li></ul><p>The majority of Australian adults under 25 have never used newspapers or radio as a source of news, according to the 2026 Digital News Report which tracks the changing habits of news consumers.</p><p>However, overall interest in news has increased, in particular among women and young people, after years of decline. Since 2024, the interest of 18 to 24-year-olds in news has risen sharply (+12) to 47%.</p> <a href=\"https://www.theguardian.com/media/2026/jun/16/digital-news-australia-2026-newspapers-radio-tv-social-media-tiktok-facebook-instagram\">Continue reading...</a>",
+      "date_published": "2026-06-15T23:00:38+00:00",
+      "authors": [
+        {
+          "name": "Amanda Meade Media correspondent"
+        }
+      ],
+      "tags": [
+        "Australian media",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "23cd0a4ca2ef467fb89c6f9183cb7bf282d14d4fd868960b266ce274e950a2ae",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261710/mark-carney-evian-france-g7-trump",
+      "title": "Le Canada est prêt à aider si l’accord avec l’Iran se concrétise, dit Mark Carney",
+      "content_html": "<p>On ignore encore si le premier ministre rencontrera Donald Trump à Évian.</p>",
+      "date_published": "2026-06-15T22:55:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5a395fa83cffb248b5004afd2cc115e5b9a866741261ffa36900e16c6026a25a",
+      "url": "https://www.elmundo.es/internacional/2026/06/16/6a308204fdddffb6448b45a7.html",
+      "title": "Huit personnes seraient mortes dans un accident sur une base aérienne américaine",
+      "content_html": "Un B-52 Stratofortress de l'Air Force transportant huit personnes en mission d'essai de routine s'est écrasé après le décollage aujourd'hui.",
+      "date_published": "2026-06-15T22:54:16+00:00",
+      "authors": [
+        {
+          "name": "Afp"
+        }
+      ],
+      "tags": [
+        "internacional",
+        "Sucesos",
+        "Estados Unidos"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "825c4be2c08470178b86d86102f407e48f4a86965bbffeb067b012b1cd52a0b5",
+      "url": "https://www.lemonde.fr/international/article/2026/06/16/huit-personnes-presumees-mortes-dans-le-crash-d-un-bombardier-b-52-en-californie_6703264_3210.html",
+      "title": "Un bombardier B-52 s’écrase sur une base militaire américaine en Californie, huit personnes présumées mortes",
+      "content_html": "L’épave d’un bombardier B-52 de l’US Air Force, après un accident aérien sur la base aérienne d’Edward (Californie), le 15 juin 2026.",
+      "date_published": "2026-06-15T22:53:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "138401578faa2ad2af2fd2a6c5018fbca97e4c2b66b517afe24470971253a297",
+      "url": "https://www.dw.com/en/8-people-dead-after-b-52-bomber-crashes-at-us-military-base/a-77568986?maca=en-rss-en-all-1573-rdf",
+      "title": "8 people dead after B-52 bomber crashes at US military base",
+      "content_html": "The aircraft crashed at California's Edwards Air Force base. An investigation is now underway into the cause of the disaster.",
+      "date_published": "2026-06-15T22:53:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e22c6763a7cba0b28005d5446e1ba357e49cf8d0672b096feadefb6cf8510267",
+      "url": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal",
+      "title": "Bonnie Tyler now out of coma but remains in intensive care in Portugal",
+      "content_html": "<p>Welsh singer, best known for 1983 hit Total Eclipse of the Heart, had emergency intestinal surgery in May</p><p>Welsh pop star Bonnie Tyler is no longer in a coma but remains “very unwell” in intensive care at a hospital near her home in Faro, Portugal.</p><p>The 75-year-old singer received <a href=\"https://www.theguardian.com/music/2026/may/07/bonnie-tyler-induced-coma-intestinal-surgery\">emergency intestinal surgery in May</a> and was placed in an induced coma to aid her recovery.</p> <a href=\"https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal\">Continue reading...</a>",
+      "date_published": "2026-06-15T22:50:25+00:00",
+      "authors": [
+        {
+          "name": "Harry Cockburn"
+        }
+      ],
+      "tags": [
+        "Music",
+        "Pop and rock",
+        "Portugal",
+        "World news",
+        "Wales",
+        "UK news",
+        "Europe",
+        "Culture"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8b0b2227965106623d18944eb84b24f5ecf49508d4d488fb0d109439d462011e",
+      "url": "https://www.ukrinform.net/rubric-ato/4133991-russian-forces-target-energy-and-communications-infrastructure-in-chernihiv-region.html",
+      "title": "Russian forces target energy and communications infrastructure in Chernihiv region",
+      "content_html": "Over the past 24 hours, on June 14, Russian forces targeted energy and communications infrastructure in the Chernihiv region.",
+      "date_published": "2026-06-15T22:32:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bdfa3fc7b70cca2c7c2e8abbbde49d929763bd5112287c6ba3f6c6985acc0c36",
+      "url": "https://ici.radio-canada.ca/sports/2261938/hurricanes-caroline-coupe-traits-marquants",
+      "title": "La manière des Hurricanes, à la fois atypique et un reflet de son époque",
+      "content_html": "<p>Quelques traits marquants des succès atypiques des nouveaux champions de la Coupe Stanley.</p>",
+      "date_published": "2026-06-15T22:23:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4f2cc4c748a6b04a655a33f47043e5e097038dfcfd929d23e73f6b38b68e3de1",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260615-le-g7-est-il-encore-influent-aujourd-hui",
+      "title": "Le G7 est-il encore influent aujourd’hui ?",
+      "content_html": "Certains des grands dirigeants du monde sont en France. Le sommet du G7 s'est ouvert ce lundi à Évian, en Haute-Savoie et il va durer trois jours jusqu'au 17 juin. Une question se pose alors : étant donné que le poids économique des pays du G7 a diminué avec la montée en puissance des économies émergentes, ce sommet a-t-il perdu de sa superbe ?",
+      "date_published": "2026-06-15T22:19:57+00:00",
+      "authors": [
+        {
+          "name": "Cécile GALLUCCIO"
+        }
+      ],
+      "tags": [
+        "Les clés de l'info"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "263378590f6d65144d67112e91e7a70fc809b79f332e4fd70a4088f2db9b1fb6",
+      "url": "https://www.dw.com/en/uk-announces-social-media-ban-for-under-16s/a-77568831?maca=en-rss-en-all-1573-rdf",
+      "title": "UK announces social media ban for under-16s",
+      "content_html": "The United Kingdom is set to follow the example of Australia and Indonesia by banning teenagers from social networks. Prime Minister Keir Starmer said platforms like Instagram and TikTok make youngsters \"unhappy.\"",
+      "date_published": "2026-06-15T22:17:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -101,12 +538,12 @@
     {
       "id": "e0da45c7431c32379212144380b95933dbc57ea36027955101afdf46e3eac859",
       "url": "https://www.theguardian.com/us-news/2026/jun/15/b52-bomber-crash-california-military-base",
-      "title": "B-52 bomber crashes after takeoff at US military base in southern California",
-      "content_html": "<p>B-52 crashed shortly after takeoff on Monday at Edwards air force base in California's Mojave Desert, officials say</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>A B-52 bomber crashed shortly after takeoff on Monday morning at a US air force base in <a href=\"https://www.theguardian.com/us-news/california\">California</a>’s Mojave Desert, officials said.</p><p>There was no information yet on the crew, however aerial footage showed virtually nothing left of an aircraft. Black smoke rose from a large swath of charred desert at Edwards air force base near what appeared to be a runway, with emergency vehicles nearby. The military hasn’t said whether the bomber was armed.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/15/b52-bomber-crash-california-military-base\">Continue reading...</a>",
+      "title": "Eight presumed dead after B-52 bomber crashes at California air force base",
+      "content_html": "<p>B-52 crashed shortly after takeoff at Edwards air force base in southern California’s Mojave Desert, officials say</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>Eight people are presumed dead after a B-52 bomber crashed shortly after takeoff on Monday morning at a US air force base in <a href=\"https://www.theguardian.com/us-news/california\">California</a>’s Mojave Desert, officials said.</p><p>“An Air Force B-52 Stratofortress carrying eight people on a routine test mission crashed today shortly after take-off at 11:20 a.m,” Edwards air force base said in a statement Monday afternoon. “Initial indications are that the crash was not survivable. “Emergency response personnel are on scene, and officials are working to account for all personnel.”</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/15/b52-bomber-crash-california-military-base\">Continue reading...</a>",
       "date_published": "2026-06-15T22:15:08+00:00",
       "authors": [
         {
-          "name": "Associated Press"
+          "name": "Guardian staff and agencies"
         }
       ],
       "tags": [
@@ -140,7 +577,8 @@
         "Mexico",
         "World Cup",
         "Football",
-        "Social media"
+        "Social media",
+        "Sport"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -203,7 +641,7 @@
       "id": "93044651158f37b6c2c10221f6ce87d30f3624ebf8dc80ae378eadbc68818659",
       "url": "https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/",
       "title": "Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved",
-      "content_html": "<p>In first press conference in 3 months, PM admits he does not know all details of agreement, stresses that troops will remain in south Lebanon and notes at times he and Trump disagree</p>\n<p>The post <a href=\"https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/\">Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/F260615OFPOOL13-1024x640.jpg\" title=\"Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved\" width=\"160\" /></figure>",
+      "content_html": "<p>PM asserts that 'we saved Israel from annihilation' in war, admits he and Trump don't always 'see eye to eye,' stresses troops will remain in south Lebanon, admits he does not know all details of deal</p>\n<p>The post <a href=\"https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/\">Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/F260615OFPOOL13-1024x640.jpg\" title=\"Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved\" width=\"160\" /></figure>",
       "date_published": "2026-06-15T21:52:20+00:00",
       "authors": [],
       "tags": [
@@ -217,33 +655,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b3274e8bf52cd2dd103219ef2026d7c090df0521f8228670f26964866e523b53",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates",
-      "title": "California governor Gavin Newsom accuses Donald Trump of directing DoJ to investigate him and his wife – US politics live",
-      "content_html": "<p>Newsom accuses president of ‘coming after me because I am considering running for president’; justice department has yet to comment on claim</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/15/gavin-newsom-doj-investigation\">Gavin Newsom says Trump directed DoJ to investigate him and his wife</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p><strong>JD Vance</strong> also dodged the question when he was asked by CNBC who would be at the signing of the agreement on Friday.</p><p>Without addressing who would be present for the US side, he said they “expect the negotiating team from the Iranian side is going to be the Speaker of the House [Mohammad Bagher] Ghalibaf, and also the foreign minister [Abbas] Araghchi, along with a number of security officials and people who represent the different constituencies within their country.”</p><p>I think it’s a great day for the American people … <strong>our expectation is that the strait is going to be opened in a toll-free way for the long term</strong>.</p><p>That’s the sort of thing that we’re going to figure out in these technical negotiations. There are <strong>a lot of very important details to figure out</strong> that we’re actually going to sit at the table and discuss together and figure out a path forward on these details.</p><p>And what we’ve said is, OK, let’s talk about how exactly we’re going to do that.</p><p>They want access to an unsanctioned economy. We’ve talked about, ‘OK, we’re open to that,’ but <strong>that would require a long-term commitment to the inspection and verification regime.</strong></p> <a href=\"https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-06-15T21:44:55+00:00",
-      "authors": [
-        {
-          "name": "Roque Planas (now); Lucy Campbell, Vivian Ho and Tom Ambrose (earlier)"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "US news",
-        "Trump administration",
-        "G7",
-        "Iran",
-        "Michelle Obama",
-        "UFC",
-        "US politics"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -425,32 +836,6 @@
       "lang": "fr"
     },
     {
-      "id": "dda47d455086e1f717a6470ad1668247cfa5845da8b2e70ac3e66e04af32a7a1",
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/florida-sues-tiktok-teen-social-media-access-law",
-      "title": "Florida lawsuit accuses TikTok of violating state’s child social media ban",
-      "content_html": "<p>State’s attorney general alleges TikTok exposed children to harmful sexual content and addictive features</p><p>Florida became the latest state to sue TikTok on Monday after the attorney general<a href=\"https://www.myfloridalegal.com/newsrelease/ag-james-uthmeier-launches-lawsuit-against-tiktok-deceiving-parents-about-safety-its\"> accused</a> the company of violating a state law that limits social media access for teenagers.</p><p>In a press conference, Republican James Uthmeier said TikTok exposed children to harmful sexual content and addictive features, such as unlimited scrolling and push notifications. “It’s designed to keep kids stuck on those screens for hours,” Uthemeier said at a press conference. “Our evidence suggests that so many kids are on TikTok for upwards of six, seven, eight or more hours a day. We are going to get our kids their lives back.”</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/15/florida-sues-tiktok-teen-social-media-access-law\">Continue reading...</a>",
-      "date_published": "2026-06-15T21:18:22+00:00",
-      "authors": [
-        {
-          "name": "Sanya Mansoor"
-        }
-      ],
-      "tags": [
-        "Florida",
-        "Social media ban",
-        "TikTok",
-        "Technology",
-        "US news",
-        "US politics",
-        "Young people"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3f7cbefb943cf44d2e32870d01ef663118aba8ac532941fddff1bd416cd522f5",
       "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260615-avec-l-accord-iran-etats-unis-soudaine-d%C3%A9tente-sur-les-prix-du-p%C3%A9trole",
       "title": "Avec l'accord Iran-Etats-Unis, soudaine détente sur les prix du pétrole",
@@ -593,20 +978,6 @@
       "lang": "en"
     },
     {
-      "id": "a806caf2a80e4e939dff88aae73a9dd9b835e1583506c428e9feb38f955f44f7",
-      "url": "https://ici.radio-canada.ca/nouvelle/2261903/ecrasement-bombardier-americain-californie",
-      "title": "Un bombardier américain s’écrase en Californie",
-      "content_html": "<p>L&#x27;avion s&#x27;est écrasé peu après son décollage, a indiqué l&#x27;aérodrome d&#x27;Edwards.</p>",
-      "date_published": "2026-06-15T20:59:50+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "39fe4205a8fc806a1c60cebec648542ac3a14e9fd91e3b74b13eacdb3ca415f6",
       "url": "https://www.france24.com/fr/sports/20260615-mondial-2026-la-belgique-et-l-%C3%A9gypte-se-neutralisent-au-terme-d-une-rencontre-anim%C3%A9e",
       "title": "Mondial 2026 : la Belgique et l'Égypte se neutralisent au terme d'une rencontre animée",
@@ -655,20 +1026,6 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
-    },
-    {
-      "id": "1cb38440a0d695c3e68636668d17042e25b3f40dee99b72b28564fae0ce2c96f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2261933/bell-suppression-700-emplois-indemnites-abolition",
-      "title": "Bell supprime près de 700 emplois dans un contexte de changements organisationnels",
-      "content_html": "<p>BCE indique que ces suppressions touchent environ 1&nbsp;% de son effectif total. </p>",
-      "date_published": "2026-06-15T20:56:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "e6a6b9c3959776eb657c766c44e12183cd2078d05db89260fa4e2b022dca3856",
@@ -818,6 +1175,20 @@
       "lang": "en"
     },
     {
+      "id": "e85ff40882646c377ecd37093e70bb907707083f650e746e57432971b981942a",
+      "url": "https://ici.radio-canada.ca/nouvelle/2261911/prix-petrole-essence-ormuz",
+      "title": "Malgré l’accord de paix Iran–États-Unis, une baisse des prix à la pompe n’est pas garantie",
+      "content_html": "<p>De nouvelles flambées du prix du pétrole brut sont possibles, estiment des analystes.</p>",
+      "date_published": "2026-06-15T20:42:09+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "8ffa8a678928e0c4654580ac712a8a6739f5b4839eb4f4008d48bc8c4e931399",
       "url": "https://www.ukrinform.net/rubric-polytics/4134169-budanov-on-opening-eu-negotiations-beginning-work-on-foundation-of-our-european-life.html",
       "title": "Budanov on opening EU negotiations: Beginning work on foundation of our European life",
@@ -830,20 +1201,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0f191ad0a4b7fe780676395d548d95a2241b73165eccc9657d3f6c7b33de90be",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "content_html": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-      "date_published": "2026-06-15T20:33:54+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -1050,7 +1407,7 @@
       "id": "1951186d62f290a5710f40e73ee285bbf741a517fdf832255a167e768b8889a5",
       "url": "https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/",
       "title": "US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday",
-      "content_html": "<p>Terms of deal still not published; US official says MOU not conditioned on IDF withdrawal from Lebanon; Trump claims Hormuz will be fully open by Friday's signing in Switzerland</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/\">US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/DUAL-7-1024x640.jpeg\" title=\"US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday\" width=\"160\" /></figure>",
+      "content_html": "<p>Terms of accord still not published; US official says MOU not conditioned on IDF withdrawal from Lebanon; Trump claims Hormuz will be fully open by Friday's signing in Switzerland</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/\">US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/DUAL-7-1024x640.jpeg\" title=\"US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday\" width=\"160\" /></figure>",
       "date_published": "2026-06-15T19:44:39+00:00",
       "authors": [],
       "tags": [
@@ -2062,7 +2419,7 @@
     {
       "id": "badc63224645f7654b28dcd3a16530cfa2c1e03bef52b251836f94495382941f",
       "url": "https://www.france24.com/en/sport/20260615-belgium-egypt-live-world-cup-group-g-de-bruyne-red-devils-salah-pharaohs",
-      "title": "World Cup 2026: Belgium salvage point against Egypt to spoil Salah's 34th birthday",
+      "title": "World Cup 2026: Belgium salvage point against Egypt to spoil Salah's birthday",
       "content_html": "Belgium came from behind to secure a 1-1 draw with Egypt in their World Cup Group G opener at the Seattle Stadium on Monday, leaving Mohamed Salah's seven-time African champions still chasing their first victory on football's biggest stage. Read our blog to see how the match unfolded.",
       "date_published": "2026-06-15T18:05:37+00:00",
       "authors": [
@@ -2331,22 +2688,6 @@
       "lang": "fr"
     },
     {
-      "id": "519b8cb6291e2c540fb971722585ee8ad11c7b854235ed50f57981eb50012077",
-      "url": "https://www.aljazeera.com/news/2026/6/15/bus-crash-in-ethiopian-mountains-kills-at-least-31?traffic_source=rss",
-      "title": "Bus crash in Ethiopian mountains kills at least 31",
-      "content_html": "Ethiopia is one of the worst countries in the world for road traffic accidents and has notoriously dangerous roads.",
-      "date_published": "2026-06-15T17:40:58+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "aadc5e4d7a28fdeefedd9d598d45936412490e835c08c0ad9a2b7dcf2f822060",
       "url": "https://www.timesofisrael.com/cornell-student-turns-down-interview-saying-not-interested-in-working-for-a-jew/",
       "title": "Cornell student turns down interview, saying ‘not interested in working for a Jew’",
@@ -2454,7 +2795,7 @@
       "id": "b392d24dcd399cdb1bab2b4557ebf3c559b940e22f8a01abcd7919e1610f2a76",
       "url": "https://www.elmundo.es/internacional/2026/06/15/6a2f8cb2e85ece316c8b457a.html",
       "title": "La Russie bombarde l'Ukraine avec 70 missiles et plus de 600 drones, faisant au moins 11 morts et incendiant la cathédrale historique de la Dormition de Kiev",
-      "content_html": "Le maire de la capitale ukrainienne a fait état de dégâts matériels dans huit quartiers de la ville et a précisé que les services de secours ont dû être déployés dans une cinquantaine de points de la ville en raison de la chute de missiles ou de drones russes.",
+      "content_html": "Le maire de la capitale ukrainienne a fait état de dégâts matériels dans huit quartiers de la ville et a indiqué que les services de secours avaient dû être déployés dans une cinquantaine de points de la ville en raison de la chute de missiles ou de drones russes.",
       "date_published": "2026-06-15T17:25:28+00:00",
       "authors": [
         {
@@ -2889,20 +3230,6 @@
       "lang": "en"
     },
     {
-      "id": "8c87b522efd0fc8d50e295fe2392ba0081634f12a527cc603a8b5be4c41d4224",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-site-de-bhimbetka-veritable-galerie-d-art-rupestre-n-a-pas-livre-tous-ses-secrets_6703232_1650684.html",
-      "title": "En Inde, le site de Bhimbetka, véritable galerie d’art rupestre, n’a pas livré tous ses secrets",
-      "content_html": "Détail d’une peinture rupestre représentant des cavaliers accompagnés de fantassins, à Bhimbetka (Madhya Pradesh, Inde), le 17 mai 2026.",
-      "date_published": "2026-06-15T16:00:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "29b95f4f87f020c6aed6f9778f909dc6ef9b759024dbda63088d4458f03c9cf5",
       "url": "https://www.ukrinform.net/rubric-economy/4134059-britain-detains-shadow-fleet-tanker-for-first-time-kyiv-expects-stronger-pressure-on-russias-oil-revenues.html",
       "title": "Britain detains shadow fleet tanker for first time; Kyiv expects stronger pressure on Russia’s oil revenues",
@@ -3317,34 +3644,6 @@
       "lang": "fr"
     },
     {
-      "id": "7fe50ec232b389f0f5af3c3bf0cf538a84f513ca1125feba586df5d8e1c15bcb",
-      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
-      "title": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 people confirmed dead – as it happened",
-      "content_html": "<p>Ukraine’s president dismisses Moscow’s claim that it did not target Kyiv’s Pechersk Lavra monastery, ahead of meeting of G7 leaders in France</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine\"><strong>Kyiv monastery set on fire in night of Russian attacks across Ukraine</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump\"><strong>Macron frames Évian G7 agenda in hope Trump will stay for whole summit</strong></a></p></li></ul><p>Meanwhile, <strong>Unesco has formally condemned the Russian strikes on Ukraine that hit the Kyiv-Pechersk Lavra, “one of Ukraine’s most significant spiritual and cultural landmarks.”</strong></p><p>In a statement, the body <a href=\"https://www.unesco.org/en/articles/unesco-statement-ukraine\">said</a>:</p><p><em>“<strong>The strike reportedly caused significant damage to the exterior and interior of the Dormition Cathedral.</strong> Adjacent historic structures, including elements of the Lavra’s fortification complex and Ivan Kushnik Tower, were also reportedly impacted.</em></p><p><em>Unesco condemns attacks against cultural property, educational institutions, students, education personnel and media professionals protected under international law. <strong>Damage to such institutions deprives communities of access to culture,</strong> education, and shared spaces that are essential for recovery and social cohesion.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates\">Continue reading...</a>",
-      "date_published": "2026-06-15T15:01:24+00:00",
-      "authors": [
-        {
-          "name": "Jakub Krupa"
-        }
-      ],
-      "tags": [
-        "Europe",
-        "G7",
-        "Ukraine",
-        "Iran",
-        "World news",
-        "Middle East and north Africa",
-        "Gaza",
-        "Donald Trump",
-        "Emmanuel Macron"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "cda8b75b6123615d9ed97ef4de306f92f61b49b9e048efb902f9788b97c041f9",
       "url": "https://www.theguardian.com/australia-news/2026/jun/16/one-nation-hitler-youth-john-drew-ntwnfb",
       "title": "One Nation branch official defended Hitler Youth and called Aboriginal people ‘stone age’ in racist posts",
@@ -3432,27 +3731,6 @@
       "lang": "fr"
     },
     {
-      "id": "360146ad72b8759f2b4335b7eea6fe1c2476706095b6e742bf13cc45ef41d49a",
-      "url": "https://www.timesofisrael.com/with-trumps-iran-deal-the-october-7-wars-are-over-israel-really-has-no-idea-what-to-do-next/",
-      "title": "With Trump’s Iran deal, the October 7 wars are over. Israel really has no idea what to do next",
-      "content_html": "<p>Netanyahu promised a new Middle East and total victory over enemies. Having failed to stop Trump's hugely problematic Iran deal, Jerusalem is being left behind, vulnerable, in a changed region</p>\n<p>The post <a href=\"https://www.timesofisrael.com/with-trumps-iran-deal-the-october-7-wars-are-over-israel-really-has-no-idea-what-to-do-next/\">With Trump&#8217;s Iran deal, the October 7 wars are over. Israel really has no idea what to do next</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2026/06/3-combo-8-1024x640.jpeg\" title=\"With Trump&#8217;s Iran deal, the October 7 wars are over. Israel really has no idea what to do next\" width=\"160\" /></figure>",
-      "date_published": "2026-06-15T14:51:04+00:00",
-      "authors": [],
-      "tags": [
-        "Israel & the Region",
-        "2026 Israel-Hezbollah conflict",
-        "2026 US-Israel war with Iran",
-        "Israel-US relations",
-        "Trump's 2nd administration",
-        "Abraham Accords"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "bd722d6acacae7e023f97cc4db2e43abfccd71f275edc7bcdfd1c5655bf0ce3e",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260615-mali-l-immatriculation-des-motos-devient-obligatoire-sur-fond-d-enjeux-s%C3%A9curitaires",
       "title": "Mali : l’immatriculation des motos devient obligatoire sur fond d’enjeux sécuritaires",
@@ -3483,44 +3761,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "ac8b92ad2a12fc38bfead97b55bc88b8badb248e44a17ace9da44b88d6998ebe",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260615-l-%C3%A9toile-montante-du-rnb-ocevne",
-      "title": "L'étoile montante du RnB : Ocevne",
-      "content_html": "Elle s'est fait connaître grâce à ses reprises sur les réseaux sociaux. Aujourd'hui, cette artiste aux origines congolaises, burundaises et suisses signe son retour avec deux titres forts : \"Mi AmorT\" et \"Fleur Bleue\", déjà largement relayés en ligne. Un nouveau projet se prépare et il pourrait bien vous surprendre. À découvrir très prochainement.",
-      "date_published": "2026-06-15T14:42:27+00:00",
-      "authors": [
-        {
-          "name": "Délia COLINÉ"
-        }
-      ],
-      "tags": [
-        "À l'Affiche !"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0505068450e9bcd5e255a82a570ad672a804eab47fb99b0066266842f5666a19",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260615-ebola-en-rd-congo-une-flamb%C3%A9e-de-cas-inqui%C3%A8te-les-autorit%C3%A9s-sanitaires",
-      "title": "Ebola en RD Congo : une flambée de cas inquiète les autorités sanitaires",
-      "content_html": "Le virus Ebola continue de faire des ravages. Médecins Sans Frontières tire la sonnette d’alarme : selon l’ONG, la propagation de la maladie progresse plus rapidement que la réponse mise en place sur le terrain. L’organisation évoque de graves lacunes dans le dispositif sanitaire. À Bunia, épicentre de l’épidémie dans l’est du pays, la population vit désormais dans la peur, tandis que le quotidien semble suspendu.",
-      "date_published": "2026-06-15T14:42:15+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "3f727eb1f32e59423eb5fc24f53e8bb765d443cf6ee68486353565f82b71c42c",
@@ -3601,26 +3841,6 @@
       "lang": "en"
     },
     {
-      "id": "064fb4d4221aaae4b76b76143661bf6d2373d5de66ff5af9b491660e5e816146",
-      "url": "https://www.france24.com/en/middle-east/20260615-what-we-know-us-iran-memorandum-understanding",
-      "title": "What we know about the US-Iran memorandum of understanding",
-      "content_html": "The United States and Iran, ⁠as well as mediator Pakistan, ​have provided few details about the preliminary deal announced Sunday to bring an end to the US-Iran conflict that has engulfed the region and threatened global energy supplies.",
-      "date_published": "2026-06-15T14:20:45+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6a03a11f407799835cec2673501a689ee7fa56b2bf482c5dd735389dccce405d",
       "url": "https://www.theguardian.com/world/2026/jun/15/argentine-activist-taty-almeida-dies-disappeared",
       "title": "Argentinian activist who spent 50 years looking for disappeared son dies",
@@ -3669,26 +3889,6 @@
         "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
-    },
-    {
-      "id": "a961ac916d52b4b286f15efe11bfe696432c7082a9573085148612b3140a9ce5",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260615-janis-an-alternative-pop-transition",
-      "title": "Janis: An alternative pop transition",
-      "content_html": "Janis is an alternative pop and soul artist who will this week be releasing a stunning new album, \"Cry With Us\", through which she draws from her experience as a trans woman. She popped by the FRANCE 24 studios to chat to Marjorie Hache and share more about her story and evolution from teenage pop sensation Sliimy in the late 2000s to alternative pop artist. We also take a look at new releases by French star Mylène Farmer and British band Muse.",
-      "date_published": "2026-06-15T14:14:17+00:00",
-      "authors": [
-        {
-          "name": "Marjorie HACHE"
-        }
-      ],
-      "tags": [
-        "arts24"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "ec18cdb1dbf92db1c2a91b5123ff8ed512c06aff374dc7600e7404e14e6e7221",
@@ -3947,20 +4147,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "23cd0a4ca2ef467fb89c6f9183cb7bf282d14d4fd868960b266ce274e950a2ae",
-      "url": "https://ici.radio-canada.ca/nouvelle/2261710/mark-carney-evian-france-g7-trump",
-      "title": "Mark Carney se rend en France pour le sommet du G7",
-      "content_html": "<p>On ignore encore si M.&nbsp;Carney rencontrera M.&nbsp;Trump à Évian.</p>",
-      "date_published": "2026-06-15T12:09:06+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4354,22 +4540,6 @@
       "lang": "en"
     },
     {
-      "id": "85c46684563a620cb7801b4a7f4fbde732074a7340b0bb69bee406dc91fd2a06",
-      "url": "https://www.ukrinform.net/rubric-polytics/4133948-president-of-european-committee-of-regions-arrives-in-kyiv.html",
-      "title": "President of European Committee of Regions arrives in Kyiv",
-      "content_html": "Kata Tütto, President of the European Committee of the Regions, has arrived in Kyiv on a visit.",
-      "date_published": "2026-06-15T10:07:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "c635ebf959931a843e4ef349d412b20b79ba2a7e8c06c3f0380d135d3a5d9dee",
       "url": "https://www.dw.com/en/g7-summit-begins-with-iran-and-ukraine-dominating-agenda/live-77556967?maca=en-rss-en-all-1573-rdf",
       "title": "G7 summit begins, with Iran and Ukraine dominating agenda",
@@ -4452,22 +4622,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "168791c783824c95b863d1a2d1da4ddbd9ba7af082b5a42b306e3f03036c3115",
-      "url": "https://www.ukrinform.net/rubric-ato/4133940-zelensky-assures-that-response-to-todays-massive-attack-coming.html",
-      "title": "Zelensky assures that response to today’s massive attack coming",
-      "content_html": "While visiting the Kyiv-Pechersk Lavra, President Volodymyr Zelensky assured that a response to today’s massive attack is coming.",
-      "date_published": "2026-06-15T09:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "60e20d4da8499c0199a3dc055aa7438c7bbfaf342ff2339bc9d144e45a4f8dbc",
@@ -4659,41 +4813,6 @@
       "lang": "fr"
     },
     {
-      "id": "e0457ca754c4afb7b23e53c72012bfb002a54f24fccdf7f417698727ccc53ae8",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
-      "title": "Rinehart buys ‘significant’ stake in Elon Musk’s SpaceX – as it happened",
-      "content_html": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The prime minister and foreign minister have issued a lengthier statement welcoming the agreement made by the US and Iran, and called for continued restraint to avoid further escalation.</p><p>President <strong>Donald Trump</strong> made the announcement he had signed a deal this morning, saying the strait of Hormuz would be reopened.</p><p>Continued restraint and constructive engagement will be essential to prevent further escalation and secure a lasting agreement. We are pleased the agreement between the US and Iran includes steps to reopening the Strait of Hormuz …</p><p>We encourage all parties to use this opportunity to pursue a durable and lasting peace through dialogue and diplomacy. Iran must address longstanding concerns about its nuclear program and the threat it poses to international security.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears\">Continue reading...</a>",
-      "date_published": "2026-06-15T08:35:18+00:00",
-      "authors": [
-        {
-          "name": "Cait Kelly and Nick Visser"
-        }
-      ],
-      "tags": [
-        "Australia news",
-        "Sydney",
-        "New South Wales",
-        "Sharks",
-        "Melbourne",
-        "Victoria",
-        "Australian politics",
-        "Labor party",
-        "Liberal party",
-        "Coalition",
-        "One Nation",
-        "Australian Greens",
-        "Australian economy",
-        "Australian education",
-        "Australian universities",
-        "Environment"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8b98d09b71e587cd7eba1b4c52cdfaa20dbc0a62290bfade07c5992b380ac669",
       "url": "https://www.themoscowtimes.com/2026/06/15/ukrainian-drone-strikes-in-tula-region-kill-3-as-russian-barrage-sets-historic-kyiv-monastery-ablaze-a93012",
       "title": "Ukrainian Drone Strikes in Tula Region Kill 3 as Russian Barrage Sets Historic Kyiv Monastery Ablaze",
@@ -4750,20 +4869,6 @@
       "lang": "fr"
     },
     {
-      "id": "944151940a76c1fd64d025317ed167b02eae6bdccb859aed375aeab7953919ad",
-      "url": "https://ici.radio-canada.ca/sports/2261684/chronique-martin-leclerc-hurricanes-coupe-stanley",
-      "title": "Une Coupe Stanley signée Rod Brind’Amour",
-      "content_html": "<p>Les Caroliniens ont bouclé dimanche soir leur parcours éliminatoire avec une époustouflante fiche de 16-3.</p>",
-      "date_published": "2026-06-15T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "9400d37657c1377d7082a7bf7aeb981a105725d7ee7dba2f1b6b4d8581af12da",
       "url": "https://ici.radio-canada.ca/nouvelle/2261690/tehrangeles-iran-los-angeles-politique-soccer-coupe-monde",
       "title": "À « Tehrangeles », difficile de séparer la politique du soccer",
@@ -4796,62 +4901,6 @@
       "url": "https://ici.radio-canada.ca/nouvelle/2261170/centre-national-prevention-pandemies-primatologie",
       "title": "Une colonie de macaques destinée à la recherche s’installera à l’Université Laval",
       "content_html": "<p>Il s&#x27;agira de la première colonie permanente au Canada et permettra de résister aux enjeux d&#x27;approvisionnement</p>",
-      "date_published": "2026-06-15T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c5bd8fa86303c7ba9ecdc7cd32f8bbb30aa7526e69647dad6f7467334f1d5b01",
-      "url": "https://ici.radio-canada.ca/info/long-format/2261049/tuberculose-nunavik-akulivik-sante-publique",
-      "title": "La crise silencieuse de la tuberculose au Nunavik",
-      "content_html": "<p>La région connaît une recrudescence sans précédent de cette maladie potentiellement mortelle.</p>",
-      "date_published": "2026-06-15T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "74d961d1100bea3a17f55c734e659ce54181300ba0c6264f874867876e1c2a2c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2260362/violence-conjugale-policiers-intervenants-procureurs-changements",
-      "title": "Violence conjugale : quand policiers, intervenants et procureurs travaillent de concert",
-      "content_html": "<p>Depuis 2021, des solutions ont été mises en place au Québec pour mieux intervenir en violence conjugale.</p>",
-      "date_published": "2026-06-15T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "acf51605a6fbbb5d46dc74b7cb4f8596b3432df0d8c99ed35cac486f82a2e96e",
-      "url": "https://ici.radio-canada.ca/nouvelle/2260849/parc-energie-eolienne-redevances-cout",
-      "title": "L’éolien : des promesses tenues, ou du vent?",
-      "content_html": "<p>Quelle est l’efficacité de ces parcs éoliens et sont-ils avantageux économiquement pour les communautés? </p>",
-      "date_published": "2026-06-15T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "09a8aa1c8cd00493436a90afc879ad4d39f82d085d2accab245b3bf803b6ceae",
-      "url": "https://ici.radio-canada.ca/info/long-format/2260821/debat-pollution-fonderie-travailleurs-militants",
-      "title": "À l’ombre des cheminées : le douloureux dialogue de Rouyn-Noranda",
-      "content_html": "<p>Le débat sur la Fonderie Horne épuise plusieurs personnes, alors que d&#x27;autres rêvent à l&#x27;avenir de la ville.</p>",
       "date_published": "2026-06-15T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -4897,22 +4946,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "b3e30ba7704175ffe66778a31574219c5c23a3b24a6c62e89153e66f7759a261",
-      "url": "https://www.dw.com/en/iran-updates-trump-hopes-to-publish-deal-after-it-s-signed/live-77552154?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran updates: Trump hopes to publish deal after it's signed",
-      "content_html": "Donald Trump told reporters in France that the US hoped to publish the framework deal with Iran \"in the very near future,\" but only after a signing ceremony this week. Most of the details remain unclear. DW has more.",
-      "date_published": "2026-06-15T07:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "World"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "f809554909f5b663afb73cd5cd66cdad3ee7a5a05ae9003849e8149f9a7a1e60",
@@ -5097,7 +5130,7 @@
     {
       "id": "9998f7483d6921520d1318e215feac78d99ebb9b556ee650c1202c37a95e565d",
       "url": "https://www.liberation.fr/sports/cette-equipe-ce-nest-pas-liran-a-teherangeles-la-diaspora-iranienne-divisee-sur-le-soutien-a-la-team-melli-au-mondial-20260615_5PGHXLSSOBAABMDIZ7WEP7PDRQ/",
-      "title": "«Cette équipe, ce n’est pas l’Iran» : à «Téhérangeles», la diaspora iranienne divisée sur le soutien à la team Melli au Mondial",
+      "title": "«Cette équipe, ce n’est pas l’Iran» : à «Tehrangeles», la diaspora iranienne divisée sur le soutien à la team Melli au Mondial",
       "content_html": "Alors que l’Iran disputera son premier match de Coupe du monde ce lundi 15 juin, à Los Angeles, une partie de la communauté iranienne de la ville refuse de soutenir la sélection. Et prévoit de manifester avec des drapeaux du pays pré-révolution islamique.",
       "date_published": "2026-06-15T04:30:00+00:00",
       "authors": [
@@ -5287,45 +5320,6 @@
       "lang": "fr"
     },
     {
-      "id": "cad8e71ce998eb8166a156985ba6f7efe3f9217c1624f2cf315d53d8b24eb0fe",
-      "url": "https://elpais.com/opinion/2026-06-15/de-hideputas-y-bellacos.html",
-      "title": "Des putes et des canailles",
-      "content_html": "Le président nicaraguayen Anastasio Somoza (à gauche) avec le président américain Franklin D. Roosevelt à Washington en 1939.",
-      "date_published": "2026-06-15T03:30:01+00:00",
-      "authors": [
-        {
-          "name": "Sergio Ramírez"
-        }
-      ],
-      "tags": [
-        "Opinión",
-        "América",
-        "Norteamérica",
-        "Latinoamérica",
-        "Estados Unidos",
-        "Nicaragua",
-        "Franklin Delano Roosevelt",
-        "Política exterior",
-        "Relaciones internacionales",
-        "Imperialism",
-        "Siglo XX",
-        "Historia contemporánea",
-        "Historiadores",
-        "República Dominicana",
-        "Rafael Leónidas Trujillo",
-        "Dictadura",
-        "Donald Trump",
-        "Dwight D. Eisenhower",
-        "Franquismo",
-        "Francisco Franco"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c201bb205db8b8723e396a96cb2725903972eaae21e3375127e476818d7d7881",
       "url": "https://elpais.com/opinion/2026-06-15/la-velocidad-de-destruccion.html",
       "title": "La vitesse de la destruction",
@@ -5359,6 +5353,45 @@
         "Cisjordania",
         "Colonialismo",
         "Derechos humanos"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cad8e71ce998eb8166a156985ba6f7efe3f9217c1624f2cf315d53d8b24eb0fe",
+      "url": "https://elpais.com/opinion/2026-06-15/de-hideputas-y-bellacos.html",
+      "title": "Des putes et des canailles",
+      "content_html": "Le président nicaraguayen Anastasio Somoza (à gauche) avec le président américain Franklin D. Roosevelt à Washington en 1939.",
+      "date_published": "2026-06-15T03:30:01+00:00",
+      "authors": [
+        {
+          "name": "Sergio Ramírez"
+        }
+      ],
+      "tags": [
+        "Opinión",
+        "América",
+        "Norteamérica",
+        "Latinoamérica",
+        "Estados Unidos",
+        "Nicaragua",
+        "Franklin Delano Roosevelt",
+        "Política exterior",
+        "Relaciones internacionales",
+        "Imperialism",
+        "Siglo XX",
+        "Historia contemporánea",
+        "Historiadores",
+        "República Dominicana",
+        "Rafael Leónidas Trujillo",
+        "Dictadura",
+        "Donald Trump",
+        "Dwight D. Eisenhower",
+        "Franquismo",
+        "Francisco Franco"
       ],
       "source": {
         "name": "Internacional en EL PAÍS",
@@ -5504,22 +5537,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "307ae30cae7021f0dd3745b1de2659ed84ed5c4399ff97d10c160938c2c93288",
-      "url": "https://www.dw.com/en/iran-war-us-iran-announce-tentative-peace-deal/live-77540182?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran war: US, Iran announce tentative peace deal",
-      "content_html": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif said both sides would terminate military operations, including in Lebanon. DW has more.",
-      "date_published": "2026-06-14T22:31:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "b7360329fd2b150d37a55e6f6862fcf7c4a4d0b5b383599801290ad3aa149509",
@@ -6805,7 +6822,7 @@
     {
       "id": "b2dc8185832a207712793dbce17c42b408893b68efaa1d3258fe535d00b51035",
       "url": "https://www.elmundo.es/internacional/2026/06/13/6a2d789ae4d4d86d3b8b45b8.html",
-      "title": "Le « Spiderman du Yémen » meurt après être tombé dans un cratère volcanique lors d'une ascension risquée",
+      "title": "Le \"Spiderman du Yémen\" meurt après être tombé dans un cratère volcanique lors d'une ascension risquée",
       "content_html": "Les sauveteurs ont été confrontés à des « conditions exceptionnellement difficiles » pendant l'opération en raison du terrain escarpé et de la chaleur du cratère.",
       "date_published": "2026-06-13T15:34:54+00:00",
       "authors": [
@@ -6971,27 +6988,6 @@
         "Venezuela",
         "Donald Trump",
         "Estados Unidos"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7dd9e1902e3e6f37d220efcfee4472c4fb64aad151ad10e735ca162cea0a27dd",
-      "url": "https://www.elmundo.es/internacional/2026/06/13/6a2d367ffc6c83f5398b4599.html",
-      "title": "L'Iran annonce que les funérailles du guide suprême Ali Khamenei débuteront le 4 juillet et que l'inhumation aura lieu le 9 juillet.",
-      "content_html": "Il est mort en février dans les attaques d’Israël et des États-Unis contre l’Iran, et sa mort a mis fin à plus de trois décennies à la tête de la République islamique.",
-      "date_published": "2026-06-13T10:52:49+00:00",
-      "authors": [
-        {
-          "name": "Afp"
-        }
-      ],
-      "tags": [
-        "Irán",
-        "internacional"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -9868,22 +9864,6 @@
       "authors": [],
       "tags": [
         "Science"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "871489293d8bceac516f463598f6c29c5d34333ea8d67f02c6bad516dca2af8d",
-      "url": "https://www.dw.com/en/germany-and-japan-test-hydrogen-future-with-bmw-toyota-cars/a-77182456?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany and Japan test hydrogen future with BMW, Toyota cars",
-      "content_html": "During a recent visit to Japan, Germany's transport minister Patrick Schnieder toured hydrogen projects aimed at bringing the fuel into the mainstream.",
-      "date_published": "2026-05-17T08:25:00+00:00",
-      "authors": [],
-      "tags": [
-        "Business"
       ],
       "source": {
         "name": "Deutsche Welle",
