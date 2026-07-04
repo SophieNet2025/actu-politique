@@ -5,11 +5,41 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "f33915e9c74155966fabdf17ed44bcd6a2e9d4da65b04662b687950ff6ad35b3",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1014018/etats-unis-fetent-250-ans-trump-independance",
+      "title": "Les États-Unis fêtent leurs 250 ans",
+      "content_html": "<p>Si la chaleur a eu raison du défilé traditionnel, Donald Trump maintient son ralliement à caractère politique.</p>",
+      "date_published": "2026-07-04T18:00:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "903d84ca0cd5c38d73f63fd67e315d13d86e9fb472f6a5fc2647b165521d726e",
+      "url": "https://www.ukrinform.net/rubric-ato/4140837-russian-army-attacks-gas-station-in-sumy-wounding-three-women.html",
+      "title": "Russian army attacks gas station in Sumy, wounding three women",
+      "content_html": "Three women were injured as a result of a Russian drone strike on a gas station in Sumy.",
+      "date_published": "2026-07-04T17:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "2c0e1a1f768efd3ba5af5fd7dd33df44d67df8d1f34cf2e9d663f15b26ffa700",
       "url": "https://ici.radio-canada.ca/sports/en-direct/1014016/mondial-canada-maroc-8es-finale-mondial",
-      "title": "Le Canada affronte le Maroc en 8es de finale du Mondial (13 h HAE)",
-      "content_html": "<p>La sélection canadienne ne s’est jamais rendue aussi loin dans un Mondial.</p>",
-      "date_published": "2026-07-04T16:50:18+00:00",
+      "title": "Le Canada et le Maroc à égalité après 45 minutes",
+      "content_html": "<p>Le deuxième tour éliminatoire de la Coupe du monde de la FIFA s&#x27;amorce à Houston.</p>",
+      "date_published": "2026-07-04T17:53:50+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -23,7 +53,344 @@
       "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
       "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
       "content_html": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
-      "date_published": "2026-07-04T16:43:46+00:00",
+      "date_published": "2026-07-04T17:51:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5b468f26ca72e94ca6f73c384ea96b76983969966de74b71b4b6ea05801e5af3",
+      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "content_html": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
+      "date_published": "2026-07-04T17:48:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "445a08d2fa28a0ddab3666681114412c638c0fd712cd5d9188865a450f248410",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260704-armenia-s-defiant-drag-scene-braves-pushback",
+      "title": "Armenia’s defiant drag scene braves pushback",
+      "content_html": "Armenia sits at the crossroads of Europe, Asia and the Middle East. While in much of the European Union, the drag scene is mainstream, in Armenia it remains underground. Performers face threats of violence, stigma, police pressure and even rejection by their own families.\n \nDespite this, drag queens have built a vibrant, bustling community that has attracted both local Armenians and international crowds. They make up a passionate and determined microculture challenging ultraconservative norms.\n \nAnd this avant garde scene is, in turn, being influenced by Armenia’s evolving political landscape.",
+      "date_published": "2026-07-04T17:44:41+00:00",
+      "authors": [
+        {
+          "name": "François PICARD"
+        }
+      ],
+      "tags": [
+        "Spotlight"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6c80659c5b2ffc976fc7f0b86a183be1c127c421cc25bc5c0c414598fed508ba",
+      "url": "https://www.france24.com/en/sport/20260704-vingegaard-takes-early-tour-de-france-lead-as-visma-win-opening-stage-in-barcelona",
+      "title": "Vingegaard takes early Tour de France lead as Visma win opening stage in Barcelona",
+      "content_html": "Danish cyclist Jonas Vingegaard's Visma-Lease a Bike outfit came first in the opening team time-trial of this year's Tour de France in Barcelona on Saturday. Slovenian rival Tadej Pogacar, who put in a strong performance, is hoping to become the fifth cyclist to win the Tour de France five times.",
+      "date_published": "2026-07-04T17:37:31+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a45cc2c21865742505a6b88fd89b0d1342faa61eab4def5ec07c95dfeed31fe0",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260704-curtis-young-on-the-america-s-diffcult-moment-in-the-mirror",
+      "title": "Curtis Young on the America's \"diffcult moment in the mirror\"",
+      "content_html": "This weekend, the United States marks 250 years since the adoption of the Declaration of Independence, one of the most influential political texts in modern history. Its assertion that governments derive their power from the consent of the governed, and that all people are endowed with the rights to life, liberty and the pursuit of happiness, has inspired democratic movements around the world.",
+      "date_published": "2026-07-04T17:36:25+00:00",
+      "authors": [
+        {
+          "name": "Gavin LEE"
+        }
+      ],
+      "tags": [
+        "Spotlight"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "12072ad98677b5cf2c8326110cfcd5dc30b3d8892f6b90e86114f1afc8d792eb",
+      "url": "https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
+      "title": "Tens of thousands march in London for annual Pride parade",
+      "content_html": "<p>More than 35,000 people from about 600 groups made their way from Hyde Park Corner to Whitehall via Piccadilly</p><p>Tens of thousands of people marched through central London for the annual LGBT+ Pride parade.</p><p>Sadiq Khan, the mayor of London, joined the crowd as they proceeded through the capital on Saturday afternoon.</p> <a href=\"https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade\">Continue reading...</a>",
+      "date_published": "2026-07-04T17:36:02+00:00",
+      "authors": [
+        {
+          "name": "Geraldine McKelvie"
+        }
+      ],
+      "tags": [
+        "LGBTQ+ rights",
+        "UK news",
+        "London",
+        "Pride",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2a6db873480a640a64e892da76ba2c70d1c726822a59567eecc3e0654b09b018",
+      "url": "https://www.liberation.fr/international/moyen-orient/funerailles-dali-khamenei-liran-declenche-le-plan-obseques-20260704_3UM57CJEIFFCJI4H6IDJWAA6LU/",
+      "title": "Funérailles d’Ali Khamenei : l’Iran déclenche le plan obsèques",
+      "content_html": "Des millions d’Iraniens devraient se recueillir devant le cercueil du guide suprême Ali Khamenei, tué en février, exposé à Téhéran depuis samedi. Le régime veut faire des funérailles une démonstration de force dans son bras de fer avec les Etats-Unis.",
+      "date_published": "2026-07-04T17:35:53+00:00",
+      "authors": [
+        {
+          "name": "Libération ., AFP ."
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "801fcb9e118a93f6a4ea9a196537706b3f4c134d8f649d985ccd3d19b2805104",
+      "url": "https://ici.radio-canada.ca/nouvelle/2266897/allemagne-afd-manifestations-extreme-droite",
+      "title": "Allemagne : des dirigeants de l’AfD réélus malgré la mobilisation des antifascistes",
+      "content_html": "<p>L&#x27;Allemagne, marquée par son passé nazi, a longtemps résisté à l&#x27;essor électoral de l&#x27;extrême droite.</p>",
+      "date_published": "2026-07-04T17:34:24+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4f429273f80f4c584c77b0d27ae5e3746d717e00d74a574c244283a19ce805e1",
+      "url": "https://www.france24.com/fr/sports/20260704-tour-de-france-jonas-vingegaard-remporte-1%C3%A8re-%C3%A9tape-contre-la-montre-par-%C3%A9quipes-pogacar-seixas-vauquelin",
+      "title": "Tour de France : Jonas Vingegaard remporte la 1ère étape au contre-la-montre par équipes",
+      "content_html": "Le Danois Jonas Vingegaard, de la formation ⁠Visma-Lease a bike, a remporté samedi le maillot jaune lors de la première étape du Tour de France. Pour cette 113e édition, la compétition a commencé à Barcelone en Espagne dans un contre-la-montre par équipes.",
+      "date_published": "2026-07-04T17:32:39+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "01456552db42ab14bbad6976eaab1cd068c1b56650cb340f556ee3c19b182805",
+      "url": "https://www.ukrinform.net/rubric-ato/4140836-russian-attacks-wound-nine-people-in-dnipropetrovsk-region-over-past-day.html",
+      "title": "Russian attacks wound nine people in Dnipropetrovsk region over past day",
+      "content_html": "Throughout the day, the enemy attacked three districts in the Dnipropetrovsk region more than 20 times using drones, artillery, and missiles, resulting in nine people being wounded.",
+      "date_published": "2026-07-04T17:29:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8c80c9b3db59c3040b76d6f178f34184aacecbb228eeb828f5e2da5ebb7a07cb",
+      "url": "https://www.elmundo.es/internacional/2026/07/04/6a48eddce9cf4af46d8b456d.html",
+      "title": "Le Pape à Lampedusa : « L'Europe est responsable des migrants »",
+      "content_html": "Depuis la principale porte d'entrée des migrations africaines vers l'Europe, Léon XIV a prévenu que les morts dans cette mer \"sont victimes de décisions prises ou de décisions omises\".",
+      "date_published": "2026-07-04T17:23:28+00:00",
+      "authors": [
+        {
+          "name": "Manuel Tori"
+        }
+      ],
+      "tags": [
+        "Italia",
+        "Papa León XIV"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9bd1ac3ced1bdae2c8e76060ecde6e2533168e587e0762b6eab942156c2b2d46",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "content_html": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+      "date_published": "2026-07-04T17:22:46+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "19ef2306989f70f828b17477153a1eab29c45cdb117876b674f1c9dd835c7cb6",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
+      "title": "In a pickle: US pickle company pulls out of DC fair over Confederate flag",
+      "content_html": "<p>Mt Olive Pickle Company says it was unaware image of flag was included in exhibit, and cites value of ‘human dignity’</p><p>A leading vendor of the US delicacy that is the pickle has withdrawn from the <a href=\"https://www.theguardian.com/us-news/2026/jul/03/great-american-state-washington-dc\">Great American State Fair</a> in Washington DC after North Carolina’s booth displayed a video containing a Confederate flag.</p><p>The Mt Olive Pickle Company, which is located in eastern North Carolina and bills itself as the “#1 bestselling brand of pickles, peppers and relishes in the US”, <a href=\"https://www.wnct.com/news/mt-olive-pickle-co-exits-great-american-state-fair-over-confederate-flag/\">told local news station WNCT</a> it had been unaware that an image of the flag would be included in a video as part of the state’s exhibit.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal\">Continue reading...</a>",
+      "date_published": "2026-07-04T17:21:24+00:00",
+      "authors": [
+        {
+          "name": "Edward Helmore"
+        }
+      ],
+      "tags": [
+        "Washington DC",
+        "Festivals",
+        "US politics",
+        "US news",
+        "Culture"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "57fef8b908291939f762b0443f44af1a367dd83cad9b8e002dd9f71dc23f5564",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
+      "title": "Police clash with protesters outside AfD meeting",
+      "content_html": "German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention",
+      "date_published": "2026-07-04T17:13:01+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "81f6cb193e9751b0552069c25176d169997e21781d5a7b6f2d719d23fe4d7a29",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-les-djihadistes-et-les-independantistes-relancent-leur-offensive-contre-la-junte-et-ses-allies-russes_6720694_3212.html",
+      "title": "Au Mali, les djihadistes et les indépendantistes relancent leur offensive contre la junte et ses alliés russes",
+      "content_html": "A Bamako, la capitale du Mali, le 4 juillet 2026.",
+      "date_published": "2026-07-04T17:11:39+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "39fb72289f15e475903cae334ee451cd31e2c9ccac3b02c069963f25fd5dab69",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/04/ken-burns-documentariste-americain-parmi-les-perdants-de-la-revolution-americaine-il-faudrait-compter-les-francais_6720693_3232.html",
+      "title": "Ken Burns, documentariste américain : « Parmi les perdants de la révolution américaine, il faudrait compter les Français »",
+      "content_html": "Ken Burns lors du 50ᵉ anniversaire de l’organisation à but non lucratif National History Day, à l’université du Maryland, le 11 juin 2024.",
+      "date_published": "2026-07-04T17:00:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dbe71ee160db401f5db1e6f9cf9fc9d50cd0f3aa767797b9a886f79b26c420f9",
+      "url": "https://www.ukrinform.net/rubric-ato/4140832-number-of-people-wounded-in-enemy-attack-on-zaporizhzhia-rises-to-five.html",
+      "title": "Number of people wounded in enemy attack on Zaporizhzhia rises to five",
+      "content_html": "The number of people wounded in the Russian strike on Zaporizhzhia has risen to five.",
+      "date_published": "2026-07-04T16:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a5008eafd8502ac1e1dffec6b80b80239cbcfdfd5c51dd13dcc25d6fd03a9420",
+      "url": "https://www.elmundo.es/internacional/2026/07/04/6a493aa0e9cf4aee378b4584.html",
+      "title": "Des milliers de personnes manifestent en France pour exiger une loi globale contre les violences sexuelles",
+      "content_html": "Le cas d'une jeune fille disparue après l'école fin mai et réapparue quelques jours plus tard dans un silo agricole avec des traces de viol et d'assassinat a ravivé ces revendications.",
+      "date_published": "2026-07-04T16:58:16+00:00",
+      "authors": [
+        {
+          "name": "Efe"
+        }
+      ],
+      "tags": [
+        "Violencia"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bc511159fbbb36ef70813074ad8c9a5478143bba66c748eaeca992de9d5b9f80",
+      "url": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
+      "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
+      "content_html": "As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.",
+      "date_published": "2026-07-04T16:51:20+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "473a25b16895c1d5ee23a5371d3d36e3c8d2618272525a1f9760a7ac1c022791",
+      "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "content_html": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+      "date_published": "2026-07-04T16:49:36+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -87,6 +454,22 @@
       "lang": "fr"
     },
     {
+      "id": "ee2a22df856e34e6e9570def69f4fff424f531a982c133c0ed1d9b8cb5560aac",
+      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
+      "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+      "content_html": "A further nine bodies were recovered from under the rubble, according to Gaza&#039;s Ministry of Health.",
+      "date_published": "2026-07-04T16:23:48+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
       "id": "9bb3381a949e685b23dfbc333a77ff5330c6ff8ee07fbb55f19b16e077f43db6",
       "url": "https://www.elmundo.es/internacional/2026/07/04/6a48eb6fe85ece193e8b4578.html",
       "title": "L'AfD reporte la lutte avec son aile la plus ultra pour ne pas arriver divisée aux élections régionales",
@@ -137,20 +520,6 @@
       "source": {
         "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
         "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "f33915e9c74155966fabdf17ed44bcd6a2e9d4da65b04662b687950ff6ad35b3",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1014018/etats-unis-fetent-250-ans-trump-independance",
-      "title": "Les États-Unis fêtent leurs 250 ans",
-      "content_html": "<p>Si la chaleur a eu raison du défilé traditionnel, Donald Trump maintient son ralliement à caractère politique.</p>",
-      "date_published": "2026-07-04T16:12:37+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -249,7 +618,7 @@
     {
       "id": "23319b10826de0e7715fa26cc4d3e3ac4caea18b0d1967ea1124995641aef26f",
       "url": "https://www.france24.com/fr/sports/20260704-canada-maroc-en-direct-suivez-le-premier-8e-de-finale-du-mondial-2026",
-      "title": "Canada - Maroc en direct : suivez le premier 8e de finale du Mondial 2026",
+      "title": "Canada - Maroc en direct : les Canadiens dominent la première période, Saibari sort sur blessure",
       "content_html": "Près d'un mois de compétition en Amérique et c'est déjà le début des huitièmes de finale. En ouverture, le Canada, l'un des pays hôtes, affronte à Houston le Maroc, demi-finaliste de la dernière édition. Une affiche prometteuse à suivre en direct grâce au live commenté de nos confrères de RFI.",
       "date_published": "2026-07-04T16:00:09+00:00",
       "authors": [
@@ -591,20 +960,6 @@
       "lang": "fr"
     },
     {
-      "id": "9bd1ac3ced1bdae2c8e76060ecde6e2533168e587e0762b6eab942156c2b2d46",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-      "title": "Injury ends Williams' Wimbledon comeback",
-      "content_html": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-      "date_published": "2026-07-04T15:06:26+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9d2130bc05c0bd897e593548eb1d4bf75fa5f1a5dd86f08e744d378a3dbacc90",
       "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260704-gestion-de-la-canicule-le-gouvernement-fran%C3%A7ais-somm%C3%A9-de-s-expliquer",
       "title": "Gestion de la canicule : le gouvernement français sommé de s'expliquer",
@@ -627,8 +982,8 @@
     {
       "id": "6564c18a3d34e407bb81ffe94fceae0aa3f86464fd78f59175b5f36713c7b0ea",
       "url": "https://www.lemonde.fr/international/live/2026/07/04/en-direct-4-juillet-les-etats-unis-fetent-leurs-250-ans-des-celebrations-recuperees-par-donald-trump-suivez-une-journee-de-festivites-demesurees_6720679_3210.html",
-      "title": "EN DIRECT, 4-Juillet : les Etats-Unis fêtent leurs 250 ans, des célébrations récupérées par Donald Trump. Posez vos questions à nos journalistes",
-      "content_html": "Lors de l’International Parade of Sail, , un rassemblement de grands voiliers et de navires militaires, le 4 juillet 2026, à New York.",
+      "title": "EN DIRECT, 4-Juillet : « Donald Trump fait preuve d’un talent certain pour centraliser le récit autour de sa personne »",
+      "content_html": "Le président des États-Unis, Donald Trump, lors des célébrations du 250ᵉ anniversaire de l’indépendance des États-Unis, au mont Rushmore, à Keystone (Dakota du Sud), le 3 juillet 2026.",
       "date_published": "2026-07-04T15:00:15+00:00",
       "authors": [],
       "tags": [],
@@ -641,7 +996,7 @@
     {
       "id": "b5190c501d56c306ca8f264d54566b4285dfdb3a8350986f1213a0efdd0aae21",
       "url": "https://www.lemonde.fr/sport/live/2026/07/04/en-direct-canada-maroc-suivez-le-huitieme-de-finale-de-la-coupe-du-monde-de-football_6720678_3242.html",
-      "title": "EN DIRECT, Canada-Maroc : les Marocains avec Saibari en pointe affrontent les Canucks en huitièmes de finale de la Coupe du monde",
+      "title": "EN DIRECT, Canada-Maroc : Saibari sorti sur blessure, les Marocains continuent de subir face aux Canadiens",
       "content_html": "Pays hôte, le Canada découvre les huitièmes de finale pour la première fois de son histoire, tandis que le Maroc espère retrouver les quarts, quatre ans après son magnifique parcours au Qatar, où il avait atteint le dernier carré.",
       "date_published": "2026-07-04T15:00:04+00:00",
       "authors": [],
@@ -963,7 +1318,7 @@
       "id": "1840ffb1fd9cbd65f1fad8f158c8873e728480bd4a24ba843c8999d19696eb96",
       "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
       "title": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell",
-      "content_html": "<p>Deputy Labour leader says No 10 needs to become more meritocratic and has asked Burnham to commit to 50/50 gender split for ministers and staff</p><p>Andy Burnham will change a “boys club” culture of factional briefings at No 10 which silenced critics, according to the deputy leader of the Labour party.</p><p>Lucy Powell said she had experienced “unpleasant” briefings in Downing Street, which left people afraid to speak out or challenge Downing Street’s position.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell\">Continue reading...</a>",
+      "content_html": "<p>Deputy Labour leader says No 10 must become more meritocratic as party’s female MPs press Burnham on gender balance</p><p>Andy Burnham will change a “boys club” culture of factional briefings at No 10 which silenced critics, according to the deputy leader of the Labour party.</p><p>Lucy Powell said she had experienced “unpleasant” briefings in Downing Street, which left people afraid to speak out or challenge Downing Street’s position.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell\">Continue reading...</a>",
       "date_published": "2026-07-04T14:00:14+00:00",
       "authors": [
         {
@@ -1235,6 +1590,20 @@
       "lang": "fr"
     },
     {
+      "id": "65e3f6de778f1930f60eb0a25a5be552aa287d0bbb6d478abf85299b06c1947a",
+      "url": "https://www.themoscowtimes.com/2026/07/04/zelensky-denies-russian-capture-of-key-eastern-city-kostiantynivka-a93165",
+      "title": "Zelensky Denies Russian Capture of Key Eastern City Kostiantynivka",
+      "content_html": "Russia's military told Putin that its forces had taken control of the city, a strategic target that Moscow has long sought in its advance through the Donetsk region.",
+      "date_published": "2026-07-04T13:11:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "The Moscow Times - Independent News From Russia",
+        "url": "https://www.themoscowtimes.com/news"
+      },
+      "lang": "en"
+    },
+    {
       "id": "8851969fe34d2cf9b9e566135b21dc31723b483bc7f51ba12b07020151c04561",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-attaques-coordonn%C3%A9es-au-mali-gao-an%C3%A9fis-s%C3%A9var%C3%A9-et-k%C3%A9ni%C3%A9roba-vis%C3%A9s",
       "title": "Attaques coordonnées au Mali : Gao, Anéfis, Sévaré et Kéniéroba visés",
@@ -1333,6 +1702,24 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "1037e04d2efd4e89ff4cfbd48f1070839cc85339d753c230b7abf92454774556",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-comment-affaire-dreyfus-a-cr%C3%A9%C3%A9-tour-de-france-cyclisme-sport-histoire-culture-prime",
+      "title": "Comment l'affaire Dreyfus a-t-elle créé le Tour de France ?",
+      "content_html": "Au tournant du XIXe siècle éclate l'un des plus grands scandales judiciaires de l'Histoire française : l'affaire Dreyfus. Pendant des années, \"l'Affaire\" divise les Français. Et de cette division naîtra le Tour de France, l'épreuve cycliste la plus célèbre du monde.",
+      "date_published": "2026-07-04T12:53:25+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "6e4b74f38c26fdbb26777ac8ee050dba659b9413751d1d0558ba338d4eb7b319",
@@ -1476,27 +1863,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b36f0976525b0dfb303a1e0b348d9bde659d0f72ac08fe727f071837cd9f8b1b",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/04/three-year-old-injured-cambridgeshire-crocodile-enclosure-long-rehabilitation",
-      "title": "Three-year-old injured in UK crocodile enclosure faces ‘long rehabilitation’",
-      "content_html": "<p>Boy who was allegedly thrown into the area at a Cambridgeshire zoo has undergone five surgeries</p><p>A three-year-old boy left seriously injured after being allegedly thrown into a crocodile enclosure has undergone five surgeries and faces a long “rehabilitation journey”.</p><p>His family, who provided the update, also thanked donors who had raised more than £25,000. His parents said they had been “living at the hospital” since the incident at Johnsons of Old Hurst farm and zoo, in Cambridgeshire, on 18 June.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/04/three-year-old-injured-cambridgeshire-crocodile-enclosure-long-rehabilitation\">Continue reading...</a>",
-      "date_published": "2026-07-04T12:30:20+00:00",
-      "authors": [
-        {
-          "name": "Sammy Gecsoyler"
-        }
-      ],
-      "tags": [
-        "UK news",
-        "England"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1719,24 +2085,6 @@
       "lang": "en"
     },
     {
-      "id": "8c80c9b3db59c3040b76d6f178f34184aacecbb228eeb828f5e2da5ebb7a07cb",
-      "url": "https://www.elmundo.es/internacional/2026/07/04/6a48eddce9cf4af46d8b456d.html",
-      "title": "Le Pape à Lampedusa : « L'Europe est responsable des migrants »",
-      "content_html": "Depuis la principale porte d'entrée des migrations africaines vers l'Europe, Léon XIV a prévenu que les morts dans cette mer \"sont victimes de décisions prises ou de décisions omises\".",
-      "date_published": "2026-07-04T11:40:41+00:00",
-      "authors": [
-        {
-          "name": "MANUEL TORI"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f83ca016a263132e68dee4c54e191ad71bbf79bf1b826cb8564c79d43b236d00",
       "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
       "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
@@ -1848,7 +2196,7 @@
     {
       "id": "0685be62b566bd99ff08c1094e10d8b6606cd5f5b26e55fd94194bdf8d720a79",
       "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
       "content_html": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
       "date_published": "2026-07-04T11:25:57+00:00",
       "authors": [],
@@ -1912,20 +2260,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "65e3f6de778f1930f60eb0a25a5be552aa287d0bbb6d478abf85299b06c1947a",
-      "url": "https://www.themoscowtimes.com/2026/07/04/zelensky-denies-russian-capture-of-key-eastern-city-kostiantynivka-a93165",
-      "title": "Zelensky Denies Russian Capture of Key Eastern City Kostiantynivka",
-      "content_html": "Russia's military told Putin that its forces had taken control of the city, a strategic target that Moscow has long sought in its advance through the Donetsk region.",
-      "date_published": "2026-07-04T11:11:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "The Moscow Times - Independent News From Russia",
-        "url": "https://www.themoscowtimes.com/news"
-      },
-      "lang": "en"
     },
     {
       "id": "7beae657b50cb6913095677fce6d301ab571a6d585a0fd577dda763bf27a5aaa",
@@ -2326,30 +2660,6 @@
       "lang": "fr"
     },
     {
-      "id": "8759b159d5cad84168f677289e982b4896ed29992cb62b0f83c3eefa01ddaf0e",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings",
-      "title": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
-      "content_html": "<p>Savings plans for children born between January 2025 and December 2028 launched as president seeks electoral boost</p><p>Trump accounts, a savings vehicle named after the US president and authorized by congressional Republicans, are set to go live on Saturday, offering American parents a new way to save money for their children by investing in funds managed by major Wall Street firms.</p><p>All accounts established for children born between January 2025 through December 2028 – nearly the entirety of Donald Trump’s second term – will receive $1,000 from the government. Parents, friends and employers will be able to deposit as much as $5,000 a year into the accounts.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings\">Continue reading...</a>",
-      "date_published": "2026-07-04T10:00:10+00:00",
-      "authors": [
-        {
-          "name": "Chris Stein in Washington"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "US news",
-        "US politics",
-        "World news",
-        "Trump administration"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6495123b6f06fcef6ecc9999e0dc0276d8774babdacc3eaa87444ad90d0dcedc",
       "url": "https://www.lemonde.fr/idees/article/2026/07/04/250-anniversaire-de-la-declaration-d-independance-des-etats-unis-ce-texte-a-fourni-a-l-extreme-droite-americaine-une-mythologie-et-une-justification-morale_6720648_3232.html",
       "title": "250ᵉ anniversaire de la déclaration d’indépendance des Etats-Unis : « Ce texte a fourni à l’extrême droite américaine une mythologie et une justification morale »",
@@ -2538,24 +2848,6 @@
       "lang": "fr"
     },
     {
-      "id": "5bd91882ceadac54a1f5cc967d9a607729c04f38e4f718157a243686ccff6e4a",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260704-combats-dans-plusieurs-localit%C3%A9s-au-mali-attaques-%C3%A0-gao-an%C3%A9fis-et-s%C3%A9var%C3%A9",
-      "title": "Combats dans plusieurs localités au Mali : attaques à Gao, Anéfis et Sévaré",
-      "content_html": "Serge Daniel, notre correspondant régional, est en direct.",
-      "date_published": "2026-07-04T09:27:10+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "9d0e6ecc8d70c0c05a2f8959fa4c08104bd6593128a4d0bebd6dfe06d55a4c7e",
       "url": "https://www.ukrinform.net/rubric-ato/4140706-defense-forces-strike-port-oil-infrastructure-in-st-petersburg-and-military-target-in-kronstadt-zelensky-says.html",
       "title": "Defense forces strike port oil infrastructure in St. Petersburg and military target in Kronstadt, Zelensky says",
@@ -2570,26 +2862,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "9297a3e66f889990e9a3b712921186d474bbd6d66daca0cdb181a7c1b599ee60",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260704-l-argentine-s-en-sort-face-au-cap-vert-en-prolongations-et-rejoint-les-8es",
-      "title": "L'Argentine s'en sort face au Cap-Vert en prolongations et rejoint les 8es",
-      "content_html": "Les champions du monde en titre ont été poussés en prolongations par le Cap-Vert, finalement battu 3-2 après un but contre son camp à dix minutes de la fin. Lionel Messi a marqué son septième but de cette édition.",
-      "date_published": "2026-07-04T09:19:34+00:00",
-      "authors": [
-        {
-          "name": "L'Equipe TV"
-        }
-      ],
-      "tags": [
-        "Sports"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
     },
     {
       "id": "87342807e8c3ec2d99d7e77fa27b0da9764fcb658a1cd0fd95ee32a7ade0eb8a",
@@ -2658,22 +2930,6 @@
       "lang": "en"
     },
     {
-      "id": "5b468f26ca72e94ca6f73c384ea96b76983969966de74b71b4b6ea05801e5af3",
-      "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
-      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "content_html": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
-      "date_published": "2026-07-04T09:02:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f2c5a7614a985dbb89cf778659996895dfb199cdbe3ab6d1db44a45a9cfc1d93",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-des-attaques-menees-par-des-djihadistes-et-leurs-allies-dans-plusieurs-localites-et-contre-une-prison_6720644_3212.html",
       "title": "Au Mali, des attaques menées par des djihadistes et leurs alliés dans plusieurs localités et contre une prison",
@@ -2737,7 +2993,7 @@
       "id": "2fbf43d3ec6865870b49bd167c5e4cfcfda5d6024fc16f6cc223118ab3fc4766",
       "url": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "title": "Mali insurgents attack multiple towns and a prison, army says",
-      "content_html": "Insurgents in ​Mali staged attacks in at least five locations ‌early ⁠on ‌Saturday, including at a prison in Kenieroba, according to an army statement. The fighting comes more than two months after the country's defence minister was killed.",
+      "content_html": "Insurgents in ​Mali staged attacks in at least five locations ‌early ⁠on ‌Saturday, including at a prison in Kenieroba, according to an army statement. The attacks seem to have been focused on seizing the town of Anefis in Kidal region, which hosts fighters from the Russian mercenary group Africa Corps as well as Malian troops.",
       "date_published": "2026-07-04T08:50:10+00:00",
       "authors": [
         {
@@ -2875,26 +3131,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6fb8ad1019cf4ccfea4fd4286a2f657803d35df6166f8fa16276a5a597b1275b",
-      "url": "https://www.france24.com/en/sport/20260704-world-cup-england-face-mexico-azteca-fortress-return-scene-maradona-handball",
-      "title": "England face Mexico in Azteca fortress, returning to scene of Maradona handball",
-      "content_html": "Thomas Tuchel’s stuttering England are an ideal target for co-hosts Mexico as they seek a prestigious World Cup win in their final game at the near-impregnable Azteca stadium, the scene of the infamous Maradona handball that still haunts the Three Lions decades later.",
-      "date_published": "2026-07-04T08:24:29+00:00",
-      "authors": [
-        {
-          "name": "Benjamin DODMAN"
-        }
-      ],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3040,10 +3276,10 @@
       "lang": "fr"
     },
     {
-      "id": "f99f1433165b9a319fe421097d5dcaee9ee518d5d8f0fdf0a6bdf87346250783",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266495/montreal-1976-jeux-olympique-taiwan",
-      "title": "Montréal 1976, les Jeux qui ont changé à jamais l’histoire olympique taïwanaise",
-      "content_html": "<p>Il y a 50&nbsp;ans, le Canada refusait l’entrée à la délégation taïwanaise venue participer aux Jeux olympiques.</p>",
+      "id": "65e105fc7cc824ba9b42d36aefa27de3bf3877542d869467539aac9fcdeb5a8f",
+      "url": "https://ici.radio-canada.ca/nouvelle/2266619/fonctionnaire-carte-f-35-achat",
+      "title": "Une fonctionnaire de la Défense doit retirer deux F-35 de sa carte professionnelle",
+      "content_html": "<p>Crista-lynn <span lang=\"en\" title=\"Anglais\">Ferguson</span> est la directrice générale du programme des avions de chasse à la Défense nationale.</p>",
       "date_published": "2026-07-04T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3054,10 +3290,10 @@
       "lang": "fr"
     },
     {
-      "id": "65e105fc7cc824ba9b42d36aefa27de3bf3877542d869467539aac9fcdeb5a8f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266619/fonctionnaire-carte-f-35-achat",
-      "title": "Une fonctionnaire de la Défense doit retirer deux F-35 de sa carte professionnelle",
-      "content_html": "<p>Crista-lynn <span lang=\"en\" title=\"Anglais\">Ferguson</span> est la directrice générale du programme des avions de chasse à la Défense nationale.</p>",
+      "id": "f99f1433165b9a319fe421097d5dcaee9ee518d5d8f0fdf0a6bdf87346250783",
+      "url": "https://ici.radio-canada.ca/nouvelle/2266495/montreal-1976-jeux-olympique-taiwan",
+      "title": "Montréal 1976, les Jeux qui ont changé à jamais l’histoire olympique taïwanaise",
+      "content_html": "<p>Il y a 50&nbsp;ans, le Canada refusait l’entrée à la délégation taïwanaise venue participer aux Jeux olympiques.</p>",
       "date_published": "2026-07-04T08:00:00+00:00",
       "authors": [],
       "tags": [],
@@ -3122,22 +3358,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "78e5da1d616fb185509cabc015766a8d70cef755af5315a5a82bf758ce706cce",
-      "url": "https://www.aljazeera.com/news/2026/7/4/taylor-swift-and-travis-kelce-marry-at-nycs-madison-square-garden?traffic_source=rss",
-      "title": "Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden",
-      "content_html": "A-list celebrities attend wedding at Madison Square Garden to see superstar couple tie the knot.",
-      "date_published": "2026-07-04T07:46:55+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "55e451d809b524c4c53552df864c25cab9a346fac4965435bb57a80e637a93ee",
@@ -3211,26 +3431,6 @@
       "lang": "fr"
     },
     {
-      "id": "ae55f8b780edb620441a1e82704e11d84e7f877837f41b71b2a61460d6f00854",
-      "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
-      "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-      "content_html": "After months of discreet support, France officially allied itself with the American revolutionaries in their war against the British Empire, a decision that would permanently alter the fate of both nations.",
-      "date_published": "2026-07-04T07:26:23+00:00",
-      "authors": [
-        {
-          "name": "Barbara GABEL"
-        }
-      ],
-      "tags": [
-        "Americas"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "9c3acb996b47eb9626a379be01f063d5b6cfc9966c9cac7c016cd7f92967d2cd",
       "url": "https://www.elmundo.es/internacional/2026/07/04/6a48b383e4d4d8f26c8b45ae.html",
       "title": "L'Iran commence les funérailles de plusieurs jours du guide suprême Ali Khamenei, tué pendant la guerre",
@@ -3247,22 +3447,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "767821a645483d22f4a88a8fe8db41218d3c4b44964ec9ee93f7ac5f8e1bf608",
-      "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech?traffic_source=rss",
-      "title": "Trump praises army, rails against communism in US 250th anniversary speech",
-      "content_html": "At Mount Rushmore Trump warns of &#039;communist menace&#039;, ties rhetoric to immigration ahead of November midterms.",
-      "date_published": "2026-07-04T07:19:57+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "da7ea6d8b5dc3fd796b72bfb29fd6e6f1bfff45ac82bfd183d4c52ee6ea230cf",
@@ -3295,42 +3479,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "606bd285898fbb7b75436b0c8c108f5baaced79aac433b5eafa616982d20c7b9",
-      "url": "https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss",
-      "title": "At 250, America is still deciding who belongs",
-      "content_html": "Birthright citizenship survived, but the fight over who is fully recognised as American is far from over.",
-      "date_published": "2026-07-04T07:07:30+00:00",
-      "authors": [],
-      "tags": [
-        "Opinions"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0e43b3022fbaadb11deff31df574dbce5b56d43e1d3863b761f8cceef1380425",
-      "url": "https://www.france24.com/en/americas/20260704-us-royal-wedding-taylor-swift-and-travis-kelce-marry-at-madison-square-garden",
-      "title": "US 'royal wedding': Taylor Swift and Travis Kelce marry at Madison Square Garden",
-      "content_html": "US pop queen Taylor Swift and NFL star Travis Kelce officially tied the knot on Friday, triggering frenzied global attention around America's \"royal wedding\". The couple made no public announcement about their wedding plans and reportedly insisted that guests sign non-disclosure agreements.",
-      "date_published": "2026-07-04T07:02:57+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Americas"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
       },
       "lang": "en"
     },
@@ -3399,26 +3547,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "994a9cb26f170809caaa0432db0103396c8d406d847e8fdde58be3a4d7d9e2af",
-      "url": "https://www.france24.com/en/europe/20260704-pope-defends-migrants-at-mediterranean-island-frontier",
-      "title": "Pope defends migrants on symbolic visit to key immigration hub Lampedusa",
-      "content_html": "Pope Leo XIV arrived on Saturday on Italy's Lampedusa island, a major port of call for migrants who risked the perilous crossing from North Africa, in a symbolic rebuke to the anti-immigrant rhetoric coming from US and EU political factions.",
-      "date_published": "2026-07-04T06:25:14+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "5aa0c8bf0cd034bdb56ab0b372adcf71ec5d77b4fb3734565b092c1e22d1af51",
@@ -3492,20 +3620,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "6d3dbc0ee00578682fd7447e0b9525ed6c7be9d8f01cf241b51dd9eb1ebedc2c",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/07/04/pourquoi-y-a-t-il-si-peu-de-cyclistes-africains-au-depart-du-tour-de-france-comprendre-en-trois-minutes_6720624_6176282.html",
-      "title": "Pourquoi y a-t-il si peu de cyclistes africains au départ du Tour de France ? Comprendre en trois minutes",
-      "content_html": "Biniam Girmay porte le maillot vert avant le départ de la 6e étape du Tour de France 2024, le 4 juillet.",
-      "date_published": "2026-07-04T06:00:21+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -3605,22 +3719,6 @@
       "lang": "fr"
     },
     {
-      "id": "a5094fd5924f7ca7cf96bde138f07b9e2ff63992b7d466514d931d56912562bb",
-      "url": "https://www.ukrinform.net/rubric-ato/4140628-russian-missile-strike-hits-odesa-region-food-warehouse-catches-fire-two-people-injured.html",
-      "title": "Russian missile strike hits Odesa region, food warehouse catches fire, two people injured",
-      "content_html": "Russian forces launched a missile strike on civilian infrastructure in the Odesa region, injuring two people.",
-      "date_published": "2026-07-04T05:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3ccb8e61d80b47eb5f11bff0d943543aaeb41ae3a5141f969494d4ebda6d4c29",
       "url": "https://www.elmundo.es/internacional/2026/07/04/6a48420f21efa0a04b8b45b8.html",
       "title": "Ils libèrent la « Mole de la Guaira » après deux jours de détention par des agents chavistes au point zéro du tremblement de terre au Venezuela",
@@ -3641,22 +3739,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "03bd19fb26844d09564ff3d4aae3093d1e13872615106a563dcb9f8f9ac268c4",
-      "url": "https://www.ukrinform.net/rubric-ato/4140621-russias-war-casualty-toll-in-ukraine-up-by-1190-over-past-day.html",
-      "title": "Russia's war casualty toll in Ukraine up by 1,190 over past day",
-      "content_html": "Russia's total combat losses since the start of its full-scale invasion of Ukraine on February 24, 2022, have reached approximately 1,408,340 personnel, including 1,190 soldiers killed and wounded in action over the past 24 hours.",
-      "date_published": "2026-07-04T05:20:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "84c5cf1a3a979daa654e6b665953b44d64778ecb86e2dce38bc4f73bb34d1585",
@@ -3708,22 +3790,6 @@
       "lang": "fr"
     },
     {
-      "id": "ec3c64d49d404dc31588677533056b422c4526543646ae2cf7b4d2876309be76",
-      "url": "https://www.ukrinform.net/rubric-ato/4140619-russian-forces-launch-1106-attacks-across-zaporizhzhia-region-over-past-day-killing-two-people-and-injuring-39-others.html",
-      "title": "Russian forces launch 1,106 attacks across Zaporizhzhia region over past day, killing two people and injuring 39 others",
-      "content_html": "The occupiers carried out 1,106 strikes on 43 settlements across the Zaporizhzhia region over the past day. Two people were killed and 39 others were injured in enemy attacks on Zaporizhzhia and the Zaporizhzhia district.",
-      "date_published": "2026-07-04T04:59:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "0b32a68a3cda2edaccaa6336dd8932439be37ba4509c68c8080a8b09b8f195fa",
       "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
       "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
@@ -3761,20 +3827,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "9537adf24846aeaa5d0568c9234122bd09adce1e9ab00c9a7e1ae7717547589b",
-      "url": "https://www.lemonde.fr/sport/article/2026/07/04/coupe-du-monde-2026-la-colombie-s-impose-face-au-ghana-et-file-en-huitiemes-de-finale-contre-la-suisse_6720620_3242.html",
-      "title": "Coupe du monde 2026 : la Colombie s’impose face au Ghana et affrontera la Suisse en huitièmes de finale",
-      "content_html": "Le Colombien Jhon Arias après le match opposant la Colombie au Ghana, lors des seizièmes de finale de la Coupe du monde de football, à Kansas City (Missouri), aux Etats-Unis, le 3 juillet 2026.",
-      "date_published": "2026-07-04T04:26:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "981941420577094ccf2f727c15048570ca687e4e7584441db64b45580498e62d",
@@ -4450,7 +4502,7 @@
     {
       "id": "b8bfb4b626718faf9da01ff00a8b652fe4b621c6293a0168751efa36f417e9f6",
       "url": "https://elpais.com/internacional/2026-07-03/el-papa-ensalza-las-oleadas-de-inmigrantes-que-construyeron-ee-uu-en-un-mensaje-para-su-250-aniversario.html",
-      "title": "Le pape salue les « vagues d’immigrants » qui ont construit les États-Unis dans un message pour son 250e anniversaire",
+      "title": "Le pape salue les « vagues d'immigrants » qui ont construit les États-Unis dans un message pour son 250e anniversaire",
       "content_html": "Le pape Léon XIV, penché à la fenêtre de son appartement, dimanche dernier, lors de la prière « Regina Coeli ».",
       "date_published": "2026-07-03T18:22:13+00:00",
       "authors": [
@@ -4613,20 +4665,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0b937364acdc9a1f7f080c3df32a6046b7993edcdd163523f069b91d33e78807",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266689/canicule-deces-france-europe-chaleur",
-      "title": "France : la canicule de juin a causé au moins 2000 morts",
-      "content_html": "<p>Ce premier bilan de la canicule exceptionnelle de juin, publié vendredi, est voué à s&#x27;alourdir.</p>",
-      "date_published": "2026-07-03T17:32:33+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5179,20 +5217,6 @@
       "lang": "en"
     },
     {
-      "id": "286c20f6455fe61192a8ee064d3a38abd7477ad0dfd780045da15cb06dc485ea",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266615/allocation-epicerie-aide-gouvernement-versement-credit",
-      "title": "Les versements de l’Allocation canadienne pour l’épicerie débutent",
-      "content_html": "<p>Mark Carney avait annoncé la mesure en janvier pour aider les Canadiens face à la hausse du coût de la vie.</p>",
-      "date_published": "2026-07-03T12:49:42+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "213c3ebb1e72f1f53c80f7f7b437ab47f9ea62311ebda0f2f8ad4eb37699e2f9",
       "url": "https://www.themoscowtimes.com/2026/07/03/moscow-woman-released-from-jail-after-orthodox-church-intervenes-in-easter-cake-hookah-case-a93160",
       "title": "Moscow Woman Released From Jail After Orthodox Church Intervenes in Easter Cake Hookah Case",
@@ -5332,20 +5356,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "46c85dfb5f45d765cecdc5af87771e48f9e697e7bfb7ecc3e4d921dcd7aa37f0",
-      "url": "https://ici.radio-canada.ca/nouvelle/2264818/site-consommation-fermeture-travailleurs-toronto",
-      "title": "Toronto ne peut affronter une « vague de surdoses » imminente, selon des intervenants",
-      "content_html": "<p>Des intervenants communautaires croient que la «&nbsp;catastrophe&nbsp;» est imminente.</p>",
-      "date_published": "2026-07-03T09:46:35+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "155640c49884100dc3cfa182fc8b7ea002bc1c5c5ab1761d7ff0262a3e4f24e0",
@@ -5872,7 +5882,7 @@
       "id": "840aa2eeb0aaea1877ebce58df913cd061fb76ec498239350374bdc7886043cd",
       "url": "https://www.elmundo.es/internacional/2026/07/02/6a46a2dde4d4d8ce5e8b4588.html",
       "title": "Un rapport relie les drones aperçus en Europe aux mouvements de la flotte fantôme russe",
-      "content_html": "Les travaux de l'Institut international d'études stratégiques soutiennent que la campagne russe avec des drones, en plus d'interférer avec le trafic aérien, a clairement montré que les systèmes défensifs doivent être améliorés.",
+      "content_html": "Les travaux de l'Institut international d'études stratégiques soutiennent que la campagne russe avec des drones, en plus d'interférer avec le trafic aérien, a montré clairement que les systèmes défensifs doivent être améliorés.",
       "date_published": "2026-07-02T17:52:00+00:00",
       "authors": [
         {
@@ -6175,7 +6185,7 @@
     {
       "id": "5b610fb1beacc4c5e0f5ef8cd61c5a87f3796f44ba46e770369713642e6dd743",
       "url": "https://www.elmundo.es/internacional/2026/07/02/6a46713efc6c8387278b458c.html",
-      "title": "Une femme tue un ancien militaire après une dispute concernant un parking dans un centre commercial de Floride",
+      "title": "Une femme tue un ancien militaire après une dispute concernant le stationnement dans un centre commercial de Floride",
       "content_html": "La police n'a pas révélé l'identité du tireur tandis que la famille de la victime défend qu'\"elle ne ferait jamais de mal à personne\".",
       "date_published": "2026-07-02T14:14:41+00:00",
       "authors": [
@@ -6790,31 +6800,6 @@
       "lang": "fr"
     },
     {
-      "id": "208d1c09d8c03c7154f7d8d790b867c012ec81017aebab0f66cdc74fec1ff0ed",
-      "url": "https://www.elmundo.es/internacional/2026/07/02/6a451edde4d4d8b1338b456d.html",
-      "title": "Un différend sur l'ouverture d'Ormuz ouvre une brèche dans les relations entre les États-Unis et l'Arabie saoudite",
-      "content_html": "L'Arabie saoudite bloque la première tentative majeure de Trump d'ouvrir la route maritime stratégique, déclenchant une impasse diplomatique croissante",
-      "date_published": "2026-07-02T05:40:49+00:00",
-      "authors": [
-        {
-          "name": "Shelby Holliday, Summer Said y Robbie Gramer"
-        }
-      ],
-      "tags": [
-        "Estados Unidos",
-        "Irán",
-        "Arabia Saudí",
-        "Donald Trump",
-        "Guerra en Irán",
-        "WSJ"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "e0427b93736952c82f29bfec2d2e5f02115037c2c4fefeafc78739fb14f50771",
       "url": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two/a-77795154?maca=en-rss-en-all-1573-rdf",
       "title": "Hospital fire in northern Germany kills two",
@@ -7155,24 +7140,6 @@
       "authors": [
         {
           "name": "Isabelle Hanne"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "ede9498e54f9f7a0fd2d819016bf6eaa7e767695d19fca48510d04244845c8bd",
-      "url": "https://www.liberation.fr/international/amerique/au-panama-huit-mois-de-pluie-par-an-et-une-penurie-deau-potable-20260701_DLCRIKANABGCDKXFG4NOHNPIXI/",
-      "title": "Au Panamá, huit mois de pluie par an et une pénurie d’eau potable",
-      "content_html": "En raison d’infrastructures vieillissantes et du manque d’investissements, une partie du pays est confrontée à une grave crise hydrique. Dans la province de Panamá Oeste, les habitants s’organisent pour assurer leur approvisionnement.",
-      "date_published": "2026-07-01T14:42:36+00:00",
-      "authors": [
-        {
-          "name": "Sacha Carion"
         }
       ],
       "tags": [],
