@@ -5,25 +5,11 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "70c4d7338e69352c4364e3b56f3123df06a0d993f4946f63a61486e4324b29f2",
-      "url": "https://ici.radio-canada.ca/sports/2267105/carton-rouge-folarin-balogun-annule",
-      "title": "Le carton rouge de l’attaquant américain Folarin Balogun annulé par la FIFA",
-      "content_html": "<p>Le meilleur buteur des États-Unis depuis le début du Mondial pourra donc affronter la Belgique.</p>",
-      "date_published": "2026-07-05T22:44:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "83a652e4025bd53467c4375f12b2e9dcc87934dad43e4b28125ac87f87a683a4",
       "url": "https://ici.radio-canada.ca/nouvelle/2267131/train-repentigny-incident",
       "title": "Un train déraille à Repentigny",
       "content_html": "<p>Pour le moment, aucun blessé n&#x27;a été signalé, selon le maire de Repentigny, Nicolas Dufour.</p>",
-      "date_published": "2026-07-05T22:39:49+00:00",
+      "date_published": "2026-07-05T23:48:16+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -33,43 +19,62 @@
       "lang": "fr"
     },
     {
-      "id": "d9c1e5f887c6b988c6dd27d468013725d42b69aa10c6d0073fb031ec96437f6b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267136/trump-otan-zelensky-al-chareh",
-      "title": "Trump rencontrera les présidents Zelensky et al-Chareh au sommet de l’OTAN",
-      "content_html": "<p>Donald Trump ressent une urgence à mettre fin à la guerre en Ukraine, selon un responsable américain.</p>",
-      "date_published": "2026-07-05T22:39:03+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "cfeb809e5d8dc72410a9fe33eadac611399d9be03f3353672ddad00c4a6bf874",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260705-l-essentiel-politique-edouard-philippe-en-meeting-et-marine-le-pen-face-%C3%A0-son-destin",
-      "title": "L'Essentiel politique : Edouard Philippe en meeting et Marine Le Pen face à son destin",
-      "content_html": "Au menu de L'Essentiel politique, le lancement de la campagne d'Edouard Philippe en vue de la présidentielle de 2027, Marine Le Pen bientôt fixée sur son sort et la motion de censure déposée par les écologistes. Avec l'éditorialiste politique et journaliste pour le media suisse en ligne Blick, Richard Werly.",
-      "date_published": "2026-07-05T22:31:24+00:00",
+      "id": "d46c2e8e2a0245ca5f29053d18f90596b8d587ecbc9bb0bcefd3170f06337195",
+      "url": "https://www.elmundo.es/internacional/2026/07/06/6a43dbd7e85ece98218b45aa.html",
+      "title": "A la frontière entre Israël et le Liban : \"Ma principale préoccupation, ce ne sont pas les missiles mais l'infiltration de terroristes\"",
+      "content_html": "Juifs israéliens et Arabes vivant à la frontière parlent de la guerre et du fragile cessez-le-feu avec le groupe armé libanais",
+      "date_published": "2026-07-05T23:44:53+00:00",
       "authors": [
         {
-          "name": "FRANCE24"
+          "name": "Sal Emergui"
         }
       ],
-      "tags": [],
+      "tags": [
+        "Israel",
+        "Líbano"
+      ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
       },
       "lang": "fr"
+    },
+    {
+      "id": "28f51a463a1fb722ece910de80e8d571b3f222bd6d4f9e26bfd11e0b876a4b08",
+      "url": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-kiev-visee-par-des-missiles-balistiques-russes-sebastopol-en-crimee-privee-d-electricite-apres-une-attaque-ukrainienne_6720832_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : Kiev visée par des missiles balistiques russes, Sébastopol, en Crimée, privée d’électricité après une attaque ukrainienne",
+      "content_html": "Des habitants examinent des voitures calcinées garées devant un immeuble résidentiel endommagé après une attaque aérienne russe sur Kiev, la capitale ukrainienne, le 3 juillet 2026.",
+      "date_published": "2026-07-05T23:37:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9745d204cfe818aa727341987ee015be8b63db3f7defe26e1773d164974bb76c",
+      "url": "https://www.ukrinform.net/rubric-defense/4141002-uk-announces-creation-of-new-drone-unit-modeled-after-ukraines.html",
+      "title": "U.K. announces creation of new drone unit modeled after Ukraine's",
+      "content_html": "The British Armed Forces are establishing a new operational group that will be responsible for the development and deployment of drones.",
+      "date_published": "2026-07-05T23:35:00+00:00",
+      "authors": [],
+      "tags": [
+        "Defense"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
     },
     {
       "id": "3470d37a0fa9ff034fbe3829e56a73dfe60863d85bb43d87e7b653b90c05ac72",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
       "title": "Australia news live: Albanese apologises for podcast comment about Kylie Minogue; auction clearances below 50% again",
-      "content_html": "<p>Meanwhile Queensland premier vows to imprison more youth offenders at party state conference. Follow today’s news live</p><p><strong>Richard Marles defends Albanese’s track record after podcast interview</strong></p><p><strong>Richard Marles</strong>, the deputy prime minister, defended Albanese’s remarks on the Nova podcast, pointing to his apology while noting the government’s track record on advancing women’s issues.</p><p>The government that the prime minister leads is the first government in our nation’s history which has had an equality in terms of the numbers of men and women in cabinet. It’s the first government ever to have had a majority of women in the caucus.</p><p>I mean, our prime minister is utterly committed to the place of women within our society and the elevation of women within our society. And I think that’s the serious point to observe about the government that he leads.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-07-05T22:28:14+00:00",
+      "content_html": "<p>Meanwhile Queensland premier vows to imprison more youth offenders at party state conference. Follow today’s news live</p><p>My colleague <strong>Josh Butler</strong> has a full report into today’s controversy surrounding Anthony Albanese’s podcast appearance. You can read the full debrief here:</p><p><strong>Meta executives to speak at royal commission on antisemitism today</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:34:29+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -97,10 +102,384 @@
       "lang": "en"
     },
     {
+      "id": "b818beb20e487af43d75ce1b90df0650e7acf69dae1445fa07e9f7a14ead9770",
+      "url": "https://ici.radio-canada.ca/info/videos/1-10706865/funerailles-khamenei-successeur-guide-supreme-iranien-n-a-toujours-pas-ete-vu",
+      "title": "Envoyée spéciale - Début de trois jours de funérailles nationales d'Ali Khamenei",
+      "content_html": "<p>Les funérailles publiques du guide suprême iranien, Ali Khamenei, assassiné il y a quatre mois, se sont poursuivies à Téhéran pour une deuxième journée. Trois de ses fils sont venus lui rendre hommage, mais leur frère, Mojtaba Khamenei, s’est encore une fois démarqué par son absence. Le successeur d'Ali Khamenei n'a jamais été vu en public depuis sa nomination, alimentant les doutes sur son état de santé. Le reportage de notre correspondante, Marie-Ève Bédard, à Téhéran.</p>",
+      "date_published": "2026-07-05T23:31:30+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "14eb28772e30c283779a663f71741e0c4f6a094a94975bfe354f56082d2231e4",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "content_html": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "date_published": "2026-07-05T23:31:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e5e730ce973144a7a78afd3755feaada94e1e990595dd519bbd695425ee64eb",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/06/canicule-aux-etats-unis-19-morts-dans-l-etat-du-new-jersey_6720923_3244.html",
+      "title": "Canicule aux Etats-Unis : 19 morts dans l’Etat du New Jersey",
+      "content_html": "Des personnes se protègent de la chaleur en attendant une parade nautique et aérienne dans le cadre des célébrations des 250 ans des Etats-Unis, à Weehawken, dans le New Jersey, le samedi 4 juillet 2026.",
+      "date_published": "2026-07-05T23:16:02+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bfaed6c8ca9566a065a80d4e09711b0c13326c547f3994e76497daa086eb39de",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy",
+      "title": "Making public transport fully accessible ‘could boost UK economy by £176bn’",
+      "content_html": "<p>Report says current network of buses, trains and stations effectively locks 2.8m people out of workforce</p><p>Investing in the UK transport network to make it fully accessible to disabled passengers could boost the economy by £176bn by helping millions more people into work, according to a report.</p><p>Making the economic case for an inclusive transport network, the Institution of Mechanical Engineers (IMechE) said the current system was inaccessible to almost a quarter of the working-age population.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:01:40+00:00",
+      "authors": [
+        {
+          "name": "Richard Partington Senior economics correspondent"
+        }
+      ],
+      "tags": [
+        "Transport",
+        "Rail transport",
+        "Rail industry",
+        "Road transport",
+        "UK news",
+        "Transport policy",
+        "Business",
+        "Politics",
+        "Disability",
+        "Infrastructure"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f60850faf66f2069188e2ecabe73fcfc61221e121a88712129f07d49bab23414",
+      "url": "https://www.theguardian.com/politics/2026/jul/06/political-donations-crackdown-nigel-farage-cottrell-gifts",
+      "title": "Ministers to crack down on political donations as Farage faces calls for second inquiry",
+      "content_html": "<p>Measures to be announced to make funding more transparent amid new revelations about Reform UK leader</p><p>Ministers will launch a crackdown on large political donations on Monday, as Nigel Farage faces a possible second investigation into gifts he received from a convicted fraudster before becoming an MP.</p><p>The government will announce a series of measures to make political funding more transparent, including restrictions on donations from foreign-based benefactors.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/06/political-donations-crackdown-nigel-farage-cottrell-gifts\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:01:40+00:00",
+      "authors": [
+        {
+          "name": "Kiran Stacey Policy editor"
+        }
+      ],
+      "tags": [
+        "Party funding",
+        "Nigel Farage",
+        "Reform UK",
+        "Labour",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "33a14b8ac2210ca633f77d11b800ca591fe195f4c6cab0e1d80f32bd7e52e209",
+      "url": "https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
+      "title": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
+      "content_html": "<p>Dan Jarvis, who wants to stay on as defence secretary, says he is confident PM-in-waiting values national security</p><p>The new defence secretary, Dan Jarvis, has called on Andy Burnham to increase defence spending dramatically from 2030 and “evidence the trajectory” towards a Nato target that would mean £25bn a year more for the military by the middle of the next decade.</p><p>The former paratrooper said he was confident that the prime minister-in-waiting valued national security, as he openly lobbied him for cash that would probably have to come from cuts elsewhere.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:01:40+00:00",
+      "authors": [
+        {
+          "name": "Dan Sabbagh Defence and security editor"
+        }
+      ],
+      "tags": [
+        "Defence policy",
+        "Dan Jarvis",
+        "Ministry of Defence",
+        "Military",
+        "Labour",
+        "Politics",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bb96b405029d3ed075e95a3b12c6be8eacbc0362290dfa46095bd6197aec3f78",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report",
+      "title": "‘Nepotism and bias’ rife in England and Wales police leadership, report finds",
+      "content_html": "<p>Inquiry co-chaired by David Blunkett uncovers loss of focus on fighting crime, plus low standards and need for reform</p><p>Police leadership in England and Wales is plagued by “nepotism and bias” and too many chiefs have lost focus on fighting crime, a government-backed report has found.</p><p>The inquiry, co-chaired by former home secretary David Blunkett, found a reset was needed at all levels, with scores of top officers facing misconduct inquiries.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:01:40+00:00",
+      "authors": [
+        {
+          "name": "Vikram Dodd Police and crime correspondent"
+        }
+      ],
+      "tags": [
+        "Police",
+        "David Blunkett",
+        "England",
+        "Wales",
+        "UK news",
+        "Politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8bf3eff93cdda4379682a72f88f3a186b3acd430da3569a1cda9e56b835b2b90",
+      "url": "https://www.theguardian.com/society/2026/jul/06/nhs-trusts-england-ratings-staff-wellbeing-violence-racism",
+      "title": "NHS to rate English trusts on tackling violence and racism towards staff",
+      "content_html": "<p>Exclusive: Published league tables will rank acute, ambulance and mental health trusts on six measures </p><p>The NHS will rate trusts according to how well they tackle racism, violence and sexual misconduct towards staff, the government has announced.</p><p>From July, all NHS acute, ambulance and mental health trusts in England will be judged and ranked in <a href=\"https://www.england.nhs.uk/nhs-oversight-framework/segmentation-and-league-tables/\">published league tables</a> on six main measures of wellbeing, affecting more than 1.5 million staff.</p> <a href=\"https://www.theguardian.com/society/2026/jul/06/nhs-trusts-england-ratings-staff-wellbeing-violence-racism\">Continue reading...</a>",
+      "date_published": "2026-07-05T23:01:39+00:00",
+      "authors": [
+        {
+          "name": "Anna Bawden Health and social affairs correspondent"
+        }
+      ],
+      "tags": [
+        "NHS",
+        "Health",
+        "Race",
+        "Sexual harassment",
+        "Violence against women and girls",
+        "Doctors",
+        "Nursing",
+        "Hospitals",
+        "Society",
+        "England",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "fe53b701b9f06d595a1b3de29f15dd130586656253d75f1e43910e804c392a81",
+      "url": "https://www.france24.com/en/sport/20260705-mexico-vs-england-live-azteca-fortress-hosts-three-lions-world-cup-last-16",
+      "title": "Mexico vs England live: World Cup blockbuster delayed by an hour due to weather",
+      "content_html": "Co-hosts Mexico aim to leave home soil with a bang as they take on Harry Kane’s England in their final game at the iconic Azteca Stadium, the scene of Maradona’s infamous handball 40 years ago, with a place in the World Cup quarter-finals up for grabs. Kick-off in Mexico City has been delayed by an hour due to stormy weather. Follow our liveblog for minute-by-minute match commentary.",
+      "date_published": "2026-07-05T22:59:27+00:00",
+      "authors": [
+        {
+          "name": "Benjamin DODMAN"
+        }
+      ],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e0acd8433e87c763c1e4356363aaefc0b6a412f24d00e92cddc6aeb2f289e927",
+      "url": "https://ici.radio-canada.ca/sports/2267110/auger-aliassime-djokovic-quarts-wimbledon",
+      "title": "Félix Auger-Aliassime prend rendez-vous avec Novak Djokovic en quarts à Wimbledon",
+      "content_html": "<p>Le Canadien s&#x27;est imposé en cinq manches face à l&#x27;Espagnol Alejandro Davidovich Fokina (22e) en huitièmes.</p>",
+      "date_published": "2026-07-05T22:58:42+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b05cef168a4821ae6d6dfc3f00641cc49b35ffae10dc070c8c4e1b05edbe8a6c",
+      "url": "https://www.france24.com/fr/sports/20260705-mondial-2026-mexique-angleterre-direct-live-8e-finale-stade-azteca",
+      "title": "Mexique - Angleterre en direct : le 8e de finale retardé d'un heure à cause des intempéries",
+      "content_html": "Le Mexique et l'Angleterre s'affrontent le 5 juillet à Mexico en huitièmes de finale de la Coupe du monde 2026, avec une heure de ratrd, soit 3 h, heure de Paris. El Tri reçoit les Three Lions au stade Azteca, véritable antre du football à Mexico, pour un choc qui s'annonce spectaculaire. Le vainqueur affrontera le Brésil ou la Norvège en quarts de finale. Suivez le match avec ce direct commenté par nos confrères de RFI.",
+      "date_published": "2026-07-05T22:53:30+00:00",
+      "authors": [
+        {
+          "name": "RFI"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "58994a8f6299b4278b45bac25a1e60822d0c27fb6be4b277cefda16451524053",
+      "url": "https://www.timesofisrael.com/adam-sandler-officiates-taylor-swifts-wedding-fueling-debate-on-singers-israel-stance/",
+      "title": "Adam Sandler officiates Taylor Swift’s wedding, fueling debate on singer’s Israel stance",
+      "content_html": "<p>Pro-Palestinian account criticizes pop star for having 'a well-known Zionist officiate her wedding' at Madison Square Garden over the weekend</p>\n<p>The post <a href=\"https://www.timesofisrael.com/adam-sandler-officiates-taylor-swifts-wedding-fueling-debate-on-singers-israel-stance/\">Adam Sandler officiates Taylor Swift&#8217;s wedding, fueling debate on singer&#8217;s Israel stance</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/03/AP24052568712941-1024x640.jpg\" title=\"Adam Sandler officiates Taylor Swift&#8217;s wedding, fueling debate on singer&#8217;s Israel stance\" width=\"160\" /></figure>",
+      "date_published": "2026-07-05T22:48:21+00:00",
+      "authors": [],
+      "tags": [
+        "Jewish Times",
+        "Adam Sandler",
+        "Taylor Swift",
+        "celebrities"
+      ],
+      "source": {
+        "name": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5e49ced7100a4c97971a49cccf94f08870ad996163ca2eec2a7e763f10f923d4",
+      "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
+      "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
+      "content_html": "Interim President Delcy Rodriguez once again defends her government&#039;s handling of the deadly earthquakes on June 24.",
+      "date_published": "2026-07-05T22:48:13+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d313481cf7fb1cb13d82971aa38cd43b354fa45e87aafbfb5ff1bc2c6c67ad9c",
+      "url": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-rdf",
+      "title": "Super Typhoon Bavi hits US Pacific islands",
+      "content_html": "Heavy rains and high winds are battering Guam and the Northern Marianas ahead of the arrival of a \"very dangerous\" storm that could cut power supplies for weeks or months.",
+      "date_published": "2026-07-05T22:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "70c4d7338e69352c4364e3b56f3123df06a0d993f4946f63a61486e4324b29f2",
+      "url": "https://ici.radio-canada.ca/sports/2267105/carton-rouge-folarin-balogun-annule",
+      "title": "Le carton rouge de l’attaquant américain Folarin Balogun annulé par la FIFA",
+      "content_html": "<p>Le meilleur buteur des États-Unis depuis le début du Mondial pourra donc affronter la Belgique.</p>",
+      "date_published": "2026-07-05T22:44:18+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e011582a8bf420afe3c9c1472ca76ae4f0d4c4b752bb43297abce09ed10ab4c6",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/06/seisme-au-venezuela-le-bilan-s-eleve-desormais-a-plus-de-3-300-morts-des-dizaines-de-corps-enterres-sans-avoir-pu-etre-identifies_6720922_3244.html",
+      "title": "Séisme au Venezuela : le bilan s’élève désormais à plus de 3 300 morts, des dizaines de corps enterrés sans avoir pu être identifiés",
+      "content_html": "Un ouvrier peint les croix attribuant des numéros aux victimes du double séisme du 24 juin inhumées sans avoir pu être identifiées, au cimetière La Esperanza, à Catia La Mar de La Guaira, au nord de Caracas, le 5 juillet 2026.",
+      "date_published": "2026-07-05T22:43:05+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9fa1b3b85fa43b9abaf9807125acc0816c80a5c809d55919c83ba773b6ac2b93",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss",
+      "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
+      "content_html": "After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.",
+      "date_published": "2026-07-05T22:41:40+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d9c1e5f887c6b988c6dd27d468013725d42b69aa10c6d0073fb031ec96437f6b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2267136/trump-otan-zelensky-al-chareh",
+      "title": "Trump rencontrera les présidents Zelensky et Al-Charaa au sommet de l’OTAN",
+      "content_html": "<p>Donald Trump ressent une urgence à mettre fin à la guerre en Ukraine, selon un responsable américain.</p>",
+      "date_published": "2026-07-05T22:39:03+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a56d6e6670d3be151d388562b6967d0653e9fc8d09ef71996a35b6a3ffb92c2e",
+      "url": "https://www.ukrinform.net/rubric-ato/4140894-pletenchuk-russian-fleet-no-longer-risks-going-to-sea-even-to-launch-kalibr-missiles.html",
+      "title": "Pletenchuk: Russian fleet no longer risks going to sea even to launch Kalibr missiles",
+      "content_html": "Russia's Black Sea Fleet has suffered such significant losses and faces such effective resistance from Ukraine's Defense Forces that it no longer risks putting to sea even to launch Kalibr cruise missiles.",
+      "date_published": "2026-07-05T22:32:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cfeb809e5d8dc72410a9fe33eadac611399d9be03f3353672ddad00c4a6bf874",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260705-l-essentiel-politique-edouard-philippe-en-meeting-et-marine-le-pen-face-%C3%A0-son-destin",
+      "title": "L'Essentiel politique : Edouard Philippe en meeting et Marine Le Pen face à son destin",
+      "content_html": "Au menu de L'Essentiel politique, le lancement de la campagne d'Edouard Philippe en vue de la présidentielle de 2027, Marine Le Pen bientôt fixée sur son sort et la motion de censure déposée par les écologistes. Avec l'éditorialiste politique et journaliste pour le media suisse en ligne Blick, Richard Werly.",
+      "date_published": "2026-07-05T22:31:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
       "id": "92e8869bc99246972ba78f5b86796444c3c190f3e50abbd8324857f323af7a12",
       "url": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-apologises-kylie-minogue-podcast-comment",
       "title": "Anthony Albanese apologises ‘unequivocally’ for podcast comment about Kylie Minogue",
-      "content_html": "<p>Prime minister picked pop singer in game of ‘shag, marry, date’ on comedy podcast</p><p>Anthony Albanese has apologised “unequivocally” for his comments while playing a ‘shag, marry, date’ game on a comedy podcast where he nominated Kylie Minogue for all three categories.</p><p>The prime minister issued a statement on Monday morning after receiving criticism over the weekend for his appearance on the Bush Deep podcast with comedian Nikki Osborne.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-apologises-kylie-minogue-podcast-comment\">Continue reading...</a>",
+      "content_html": "<p>Prime minister picked pop singer in game of ‘shag, marry, date’ on comedy podcast</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese has apologised “unequivocally” for his comments while playing a “shag, marry, date” game on a comedy podcast when he nominated Kylie Minogue for all three categories.</p><p>The prime minister issued a statement on Monday morning after receiving criticism at the weekend for his appearance on the Bush Deep podcast with the comedian Nikki Osborne.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-apologises-kylie-minogue-podcast-comment\">Continue reading...</a>",
       "date_published": "2026-07-05T22:26:55+00:00",
       "authors": [
         {
@@ -108,10 +487,12 @@
         }
       ],
       "tags": [
-        "Australia news",
-        "Australian politics",
         "Anthony Albanese",
-        "Kylie Minogue"
+        "Kylie Minogue",
+        "Australian politics",
+        "Australia news",
+        "Coalition",
+        "Independents"
       ],
       "source": {
         "name": "World news | The Guardian",
@@ -123,7 +504,7 @@
       "id": "a6a3469ea54f4ff9a2adfa59c7b7b333186a471f9b80f041337801ac7c783cd5",
       "url": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16?traffic_source=rss",
       "title": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
-      "content_html": "Haaland&#039;s brace takes him to seven goals for the tournament as Norway book quarterfinal against Mexico or England.",
+      "content_html": "Haaland&#039;s brace takes him to seven goals for the tournament as Norway book a quarterfinal against Mexico or England.",
       "date_published": "2026-07-05T22:26:49+00:00",
       "authors": [],
       "tags": [
@@ -134,6 +515,44 @@
         "url": "https://www.aljazeera.com"
       },
       "lang": "en"
+    },
+    {
+      "id": "5a659e59bddb1d0e10d693d6c7fd772015d712911b041d4442d76cfea7ee0d48",
+      "url": "https://www.elmundo.es/internacional/2026/07/06/6a4aa618fc6c83696d8b4579.html",
+      "title": "Des niches à 200 dollars pour dire au revoir à \"mon prince\" : \"Ils n'ont fait que nous mettre des obstacles. Ils ne nous ont pas non plus laissé surveiller\"",
+      "content_html": "Les familles de La Guaira tentent d'enterrer leurs victimes : le transfert au cimetière depuis la morgue au pied de la mer peut atteindre jusqu'à 400 dollars à ajouter au prix de la niche",
+      "date_published": "2026-07-05T22:11:20+00:00",
+      "authors": [
+        {
+          "name": "Daniel Lozano"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "84029de75e93a0e4d18608a49177da212b516b9ff6d151c20e818bc54e1255f6",
+      "url": "https://www.elmundo.es/internacional/2026/07/06/6a4a2de6e85eced3308b4594.html",
+      "title": "Une république, s'ils peuvent la garder",
+      "content_html": "La révolte républicaine rappelle que le Parlement est très affaibli, mais pas mort",
+      "date_published": "2026-07-05T22:11:19+00:00",
+      "authors": [
+        {
+          "name": "Carlos Franganillo"
+        }
+      ],
+      "tags": [
+        "Artículos Carlos Franganillo"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
     },
     {
       "id": "f82017a01b32984ea7a8558d89eb19a4a73f4b0fc32e36cd04c56758172936a6",
@@ -218,6 +637,20 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d6092622b84c44dff1a619733b15ff930ee2ee97ccce6c49a3bf69488a7a84b2",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "content_html": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+      "date_published": "2026-07-05T22:01:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -383,27 +816,6 @@
       "lang": "fr"
     },
     {
-      "id": "5940eb551b8d3ffc77565f59e44aefde45ae0dcdf7a513f16e1afa1fd68ba775",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/05/skydiver-dies-after-incident-near-nottinghamshire-airfield",
-      "title": "Skydiver dies after incident near Nottinghamshire airfield",
-      "content_html": "<p>Body of woman, 22, found in field in proximity of Langar airfield, where popular civilian skydiving centre operates </p><p>A 22-year-old skydiver has died after a parachuting incident near a Nottinghamshire airfield, police have confirmed.</p><p>Emergency services were called to Langar airfield, a former RAF base, at 12.13pm on Sunday and the woman was found in a nearby field, where she was pronounced dead at the scene, a police spokesperson said.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/05/skydiver-dies-after-incident-near-nottinghamshire-airfield\">Continue reading...</a>",
-      "date_published": "2026-07-05T21:31:54+00:00",
-      "authors": [
-        {
-          "name": "Charlie Moloney"
-        }
-      ],
-      "tags": [
-        "Nottingham",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d988dcc35fe565d130ba6053bb02fb0e6bbfffec076b0fb319f9143cdfe5a2d1",
       "url": "https://www.france24.com/en/sport/20260705-fifa-lifts-balogun-world-cup-suspension-trump-call",
       "title": "FIFA lifts Folarin Balogun's World Cup suspension after Trump calls Infantino",
@@ -424,20 +836,6 @@
       "lang": "en"
     },
     {
-      "id": "e0acd8433e87c763c1e4356363aaefc0b6a412f24d00e92cddc6aeb2f289e927",
-      "url": "https://ici.radio-canada.ca/sports/2267110/auger-aliassime-djokovic-quarts-wimbledon",
-      "title": "Félix Auger-Aliassime prend rendez-vous avec Novak Djokovic en quarts à Wimbledon",
-      "content_html": "<p>Le Canadien s&#x27;est imposé en cinq manches face à l&#x27;Espagnol Alejandro Davidovich Fokina (22e) en huitièmes.</p>",
-      "date_published": "2026-07-05T21:20:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ce06260430a84477a60ac2d38efed015469e258831b3e85a2de0bf938a51f988",
       "url": "https://www.ukrinform.net/rubric-ato/4141087-war-update-201-clashes-on-front-lines-hottest-fighting-near-sloviansk-and-pokrovsk.html",
       "title": "War update: 201 clashes on front lines, hottest fighting near Sloviansk and Pokrovsk",
@@ -452,6 +850,28 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
+    },
+    {
+      "id": "0a8445e0371c1b90ac71651d86c81cf123b6ed4c4a92abf7ccacb8972ff8e3c8",
+      "url": "https://www.elmundo.es/internacional/2026/07/05/6a4a0e5cfdddfff16f8b456e.html",
+      "title": "Anders Fogh Rasmussen, ancien secrétaire général de l'OTAN : \"Rutte maintient l'unité de l'Alliance, mais l'adulation de Trump a ses limites\"",
+      "content_html": "Il souligne dans l'entretien exclusif avec ce journal que l'Europe doit être \"pragmatique\" avec le président américain et \"l'aider à Ormuz en échange d'une aide en Ukraine\".Et il souligne également l'Espagne : « Sa contribution à la Défense doit être plus grande »",
+      "date_published": "2026-07-05T20:52:22+00:00",
+      "authors": [
+        {
+          "name": "Daniel Viaña"
+        }
+      ],
+      "tags": [
+        "OTAN",
+        "NLPremium",
+        "Artículos Daniel Viaña"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
     },
     {
       "id": "b4316cc50c2aaaae3e6e82439e9dc4fc2bf6087e1bec26fca9401fef4a9c8e50",
@@ -620,22 +1040,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3d65542cf09ec6159949873bd536561456e7df1f5c21ad5bee8bc181d1607642",
-      "url": "https://www.dw.com/en/super-typhoon-bavi-nears-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-rdf",
-      "title": "Super typhoon Bavi nears US Pacific islands",
-      "content_html": "Heavy rains and high winds are battering Guam and the Northern Marianas ahead of the arrival of a \"very dangerous\" storm that could cut power supplies for weeks or months.",
-      "date_published": "2026-07-05T20:34:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -1036,32 +1440,6 @@
       "lang": "fr"
     },
     {
-      "id": "bec3b49efe191f3915868351b80a4b6c426cbb7e94214c67419157f768bc7de6",
-      "url": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
-      "title": "AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper",
-      "content_html": "<p>Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference</p><p>Artificial intelligence poses a “Hiroshima”-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned.</p><p>Yvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper\">Continue reading...</a>",
-      "date_published": "2026-07-05T19:00:34+00:00",
-      "authors": [
-        {
-          "name": "Kiran Stacey Policy editor"
-        }
-      ],
-      "tags": [
-        "Yvette Cooper",
-        "AI (artificial intelligence)",
-        "Politics",
-        "Computing",
-        "Technology",
-        "Foreign policy",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "95a64cca608ff3fed45a1235f007f46bec506f93a10ed1d5ad9b39136ff2280f",
       "url": "https://www.france24.com/en/sport/20260705-brazil-vs-norway-live-vinicius-jr-haaland-go-head-to-head-in-world-cup-last-16",
       "title": "Haaland dumps Brazil out of World Cup as Norway reach quarters for first time",
@@ -1143,7 +1521,7 @@
     {
       "id": "90214afa9c60a1891430041d23c2d2cc1e3c0c5c5e237a3cb37a742f927ef95d",
       "url": "https://www.france24.com/fr/sports/20260705-mondial-bresil-norvege-en-direct-live-vinicius-haaland-choc-8es-de-finale",
-      "title": "Brésil - Norvège en direct : l'inévitable Haaland assomme les Brésiliens",
+      "title": "Brésil - Norvège : l'inévitable Haaland assomme les Brésiliens et s'offre un quart historique",
       "content_html": "La Norvège a éliminé le Brésil dimanche à New-York en huitièmes de finale du Mondial 2026, grâce notamment à un doublé d'Erling Haaland (2-1). L'entrée de Neymar, qui a inscrit un penalty en toute fin de match, n'a pas suffi. Pour la Seleçao, c'est une nouvelle désillusion, alors que la Norvège va découvrir les quarts pour la première fois de son histoire. Revivez la rencontre grâce à notre live commenté.",
       "date_published": "2026-07-05T18:49:31+00:00",
       "authors": [
@@ -1250,20 +1628,6 @@
       "lang": "en"
     },
     {
-      "id": "35bf73f68af9b65a7ac9d5c2a1456124a397369a853903b27e9bcf1cd076e0e2",
-      "url": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-guerre-en-ukraine-la-russie-prepare-une-nouvelle-attaque-massive-alerte-volodymyr-zelensky_6720832_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : la Russie prépare « une nouvelle attaque massive », alerte Volodymyr Zelensky",
-      "content_html": "Des militaires ukrainiens lors d’un entraînement, dans un lieu non dévoilé, le 5 juillet 2026. Photo prise et diffusée par le service de presse de la 65e brigade mécanisée des forces armées ukrainiennes.",
-      "date_published": "2026-07-05T18:38:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "308d84642e797e39b7f10e7e10e9b0e5a43376538a41342b3d917850fbbd6b5c",
       "url": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
       "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
@@ -1324,32 +1688,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "85e22ac9ed3123af2bcb2efd569a401ce199066b6701c53f5a6a75db62a8c860",
-      "url": "https://www.theguardian.com/business/2026/jul/05/easyjet-agrees-to-5bn-takeover-by-us-investment-firm",
-      "title": "EasyJet suggests it will agree to £5.5bn takeover by US investment firm",
-      "content_html": "<p>Agreement in principle with Castlelake follows several rejected offers and means UK’s biggest low-cost carrier will be taken private </p><p>The airline easyJet has said it intends to accept a £5.5bn takeover offer by the US investment firm Castlelake that would take Britain’s biggest low-cost carrier private.</p><p>The companies announced an agreement in principle on Sunday evening in a statement, and requested an extension to a deadline to complete the deal formally. The agreement came after weeks of negotiations and several rejected offers.</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/easyjet-agrees-to-5bn-takeover-by-us-investment-firm\">Continue reading...</a>",
-      "date_published": "2026-07-05T18:26:14+00:00",
-      "authors": [
-        {
-          "name": "Jasper Jolly"
-        }
-      ],
-      "tags": [
-        "easyJet",
-        "Airline industry",
-        "Business",
-        "UK news",
-        "Air transport",
-        "Mergers and acquisitions",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1416,7 +1754,7 @@
     {
       "id": "24ae562ae1a8ec17bfee89e6a07b6a880b854107894a8647524e427b5be09ffd",
       "url": "https://ici.radio-canada.ca/nouvelle/2267095/ankara-etat-siege-vague-arrestations-avant-sommet-otan",
-      "title": "Ankara en état de siège, les voix critiques étouffées avant le sommet de l’OTAN",
+      "title": "Sommet de l'OTAN : Ankara en état de siège, les voix critiques étouffées",
       "content_html": "<p>Des dizaines d’avocats, opposants politiques, étudiants et journalistes ont été arrêtés depuis deux semaines.</p>",
       "date_published": "2026-07-05T18:21:06+00:00",
       "authors": [],
@@ -1535,7 +1873,7 @@
       "id": "0ef3fed87b256adb726c73e15b2d07fbe0c54ac67d16930049cd7b218d04454f",
       "url": "https://www.lemonde.fr/international/article/2026/07/05/alexandra-de-hoop-scheffer-politiste-les-etats-unis-sont-dans-une-logique-de-saturation-strategique_6720907_3210.html",
       "title": "Alexandra de Hoop Scheffer, politiste : « Les Etats-Unis sont dans une logique de saturation stratégique »",
-      "content_html": "« Entre Voltaire et Poe », Mark Dion, 2016.",
+      "content_html": "« Between Voltaire and Poe », Mark Dion, 2016.",
       "date_published": "2026-07-05T18:00:10+00:00",
       "authors": [],
       "tags": [],
@@ -1543,7 +1881,7 @@
         "name": "International : Toute l’actualité sur Le Monde.fr.",
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "b1c08d882024b1a0116a126cd7108ee03f3325c6327c7ceb06319e4f0144b6d5",
@@ -1862,22 +2200,6 @@
       "lang": "en"
     },
     {
-      "id": "92e0b1abc355e49646ca6ea6a3aee84b611f0bd80d1b70ea55dfba721436dd52",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/5/brazil-vs-norway-live-fifa-world-cup-2026-last-16?traffic_source=rss",
-      "title": "Brazil vs Norway 1-2: FIFA World Cup 2026 last 16 – as it happened",
-      "content_html": "All the updates as Norway beat Brazil with a brace from Erling Haaland in the round of 16 knockout stage.",
-      "date_published": "2026-07-05T16:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "4b0e008d0875026a3a38eda80ac651fca98ece61654b66d928ab71adfbe3ea3c",
       "url": "https://www.france24.com/fr/france/20260705-tour-de-france-isaac-del-toro-remporte-la-2e-%C3%A9tape-jonas-vingegaard-conserve-le-maillot-jaune-tadej-pogacar-espagne-cyclisme",
       "title": "Tour de France : Isaac Del Toro remporte la 2e étape, Jonas Vingegaard conserve le maillot jaune",
@@ -1962,22 +2284,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c220ac78d98e4db7d8c29d46fecf4f84f3844d876d0a8ad3a0591001e0a4f7ac",
-      "url": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss",
-      "title": "Syria delays first session of transitional parliament without explanation",
-      "content_html": "The transitional parliament aims to draft a new elections law during its 30-month term.",
-      "date_published": "2026-07-05T16:19:03+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -2167,20 +2473,6 @@
       "lang": "fr"
     },
     {
-      "id": "7fe24e97f5d3c3a9f618d295c07c970813d1da06f22cd4fa6294c3407aa4cdcf",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267067/jour-priere-iran-teheran-funerailles-khamenei",
-      "title": "À Téhéran, grande prière pour les funérailles de Khamenei, mais sans son fils Mojtaba",
-      "content_html": "<p>Mojtaba Khamenei n’est pas apparu en public depuis sa nomination à la fonction de guide suprême de l’Iran.</p>",
-      "date_published": "2026-07-05T15:53:24+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "72c8132361fbc661746c77bd369140b769c0c9fde5f87c7a4bd772e31b558eae",
       "url": "https://www.france24.com/en/marine-le-pen-faces-key-appeal-ruling-over-2027-presidential-bid",
       "title": "Marine Le Pen faces key appeal ruling over 2027 presidential bid",
@@ -2307,30 +2599,6 @@
       "source": {
         "name": "The Times of Israel",
         "url": "https://www.timesofisrael.com/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c21fb01a75b4a760bc59cf61c0e2f65b33884f91dae05a8c3ca13c696d51516b",
-      "url": "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-finances-robert-jenrick-to-the-rescue",
-      "title": "It must be bad for Nige and his finances if it’s Honest Bob Jenrick to the rescue | John Crace",
-      "content_html": "<p>‘Nothing to see here,’ says the man who once overruled council planners in favour of Richard ‘Dirty’ Desmond</p><p>How unlucky can one man get? You have to feel for Nigel Farage. Why does it keep happening to him? There he is, just minding his own business, trying to make a decent living – those five houses won’t pay for themselves, which is why other people may have done – and yet there’s always someone trying to drag a good man down. Isn’t the “Man of the People (TM)” entitled to have a few multimillionaires as friends to bankroll his lifestyle? Who hasn’t pined for crypto and gold bullion?</p><p>First there was the <a href=\"https://www.theguardian.com/business/2026/may/15/christopher-harborne-crypto-billionaire-nigel-farage-gift-uk-rich-list\">£5m from the British-Thai crypto billionaire Christopher Harborne</a>, revealed exclusively by the Guardian. Months later, the stench won’t go away. Even Nige has been at a loss to explain what exactly he was given the money for. Unsure whether it was a payment to cover security or just a little “thank you” for a lifetime’s work in the service of making the country an easier place for grifters to make money. Even now, Nige has gone to ground as he tries to get his story straight.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/05/nigel-farage-finances-robert-jenrick-to-the-rescue\">Continue reading...</a>",
-      "date_published": "2026-07-05T15:29:29+00:00",
-      "authors": [
-        {
-          "name": "John Crace"
-        }
-      ],
-      "tags": [
-        "Nigel Farage",
-        "Robert Jenrick",
-        "Reform UK",
-        "Politics",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -2676,36 +2944,6 @@
       "lang": "fr"
     },
     {
-      "id": "23b1302b8b8bba83b076dbaac734d6d466335a3e5f0c785ecca49a3622470601",
-      "url": "https://www.theguardian.com/business/2026/jul/05/delivery-firm-evri-sues-bbc-for-12m-over-panorama-documentary",
-      "title": "Delivery firm Evri sues BBC for £1.2m over Panorama documentary",
-      "content_html": "<p>Company seeks redress for contracts it says it has lost as a result of programme’s claims about its business practices</p><p>The parcel delivery company Evri is suing the BBC for £1.2m over a documentary it claims caused it serious financial loss.</p><p>Evri has filed particulars of claim at the high court which state that it lost prospective clients after the broadcast of the Panorama documentary Evri: Where’s my parcel?</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/delivery-firm-evri-sues-bbc-for-12m-over-panorama-documentary\">Continue reading...</a>",
-      "date_published": "2026-07-05T14:27:16+00:00",
-      "authors": [
-        {
-          "name": "Jasper Jolly and agencies"
-        }
-      ],
-      "tags": [
-        "Couriers/delivery industry",
-        "BBC",
-        "Hermes",
-        "Business",
-        "Media",
-        "UK news",
-        "Online shopping",
-        "Money",
-        "Consumer affairs",
-        "Law",
-        "Private equity"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "d1bea06ec969cf1e592010892d6007137d1c3e83f3c8e15e5461a5827cbc5c5c",
       "url": "https://www.theguardian.com/us-news/2026/jul/05/trumps-2bn-bonanza-heralds-the-rise-of-political-grifters-across-the-west",
       "title": "Trump’s $2bn bonanza heralds the rise of political grifters across the west",
@@ -2735,33 +2973,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "235ccc05a8dc0e09d5c6fa1a223730428d529f1703cc1d6d0b505cf8548a6a89",
-      "url": "https://www.timesofisrael.com/joining-legion-of-likud-castoffs-edelstein-may-not-yet-be-clear-of-netanyahus-pull/",
-      "title": "Joining legion of Likud castoffs, Edelstein may not yet be clear of Netanyahu’s pull",
-      "content_html": "<p>Splitting from the party that already quit him, the former Knesset speaker becomes the latest senior Likud politician to strike out on his own, though breaking free may not be so simple</p>\n<p>The post <a href=\"https://www.timesofisrael.com/joining-legion-of-likud-castoffs-edelstein-may-not-yet-be-clear-of-netanyahus-pull/\">Joining legion of Likud castoffs, Edelstein may not yet be clear of Netanyahu&#8217;s pull</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p>\n<figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2023/06/F230613OBH004-1024x640.jpg\" title=\"Joining legion of Likud castoffs, Edelstein may not yet be clear of Netanyahu&#8217;s pull\" width=\"160\" /></figure>",
-      "date_published": "2026-07-05T14:14:50+00:00",
-      "authors": [],
-      "tags": [
-        "Israel Inside",
-        "Yuli Edelstein",
-        "Benjamin Netanyahu",
-        "Gilad Erdan",
-        "Likud party",
-        "Israeli politics",
-        "Gideon Sa'ar",
-        "Ze'ev Elkin",
-        "Benny Gantz",
-        "Moshe Kahlon",
-        "Benny Begin",
-        "The Knesset"
-      ],
-      "source": {
-        "name": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/"
       },
       "lang": "en"
     },
@@ -3312,20 +3523,6 @@
       "lang": "en"
     },
     {
-      "id": "52c4c9be51f5d2cde9dbed087fb44c17887a901c7146a1b63f5e92987b9e735f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266924/pierre-dufour-candidat-elections-2026",
-      "title": "Pierre Dufour se présentera pour le PLQ aux prochaines élections",
-      "content_html": "<p>Pierre Dufour sera candidat pour le PLQ aux élections provinciales de&nbsp;2026, a pu confirmer Radio-Canada.</p>",
-      "date_published": "2026-07-05T11:11:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3f3050ce5cc0950427756594425a5f150a4af7cc28680bfd864b3b26f206964c",
       "url": "https://www.ukrinform.net/rubric-society/4140975-zelensky-ukrainian-navy-has-proven-that-strength-is-not-always-measured-by-number-of-ships.html",
       "title": "Zelensky: Ukrainian Navy has proven that strength is not always measured by number of ships",
@@ -3442,44 +3639,6 @@
       "lang": "fr"
     },
     {
-      "id": "1cfaab83eae3d0b81957a91064907e120c92749c19d808484d2a0d6f6ba915ab",
-      "url": "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000",
-      "title": "Rescue teams wind down operations as death toll nears 3,000",
-      "content_html": "Venezuela's devastating twin earthquakes killed nearly 3,000, updated official figures showed on Saturday, as international rescue teams began winding down search operations for survivors in the rubble of the disaster. Tens of thousands more are still reported missing.",
-      "date_published": "2026-07-05T10:17:43+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "977c98b9b49a46da311e8e55c1785e779bde944f082137fbffa84de221d296d3",
-      "url": "https://www.france24.com/fr/europe/20260705-frappes-sur-kiev-s%C3%A9ismes-au-venezuela-250e-anniversaire-des-%C3%A9tats-unis-la-semaine-en-images",
-      "title": "Frappes sur Kiev, séismes au Venezuela, 250e anniversaire des États-Unis : la semaine en images",
-      "content_html": "Retour sur les temps forts de l'actualité de la semaine : une attaque massive russe provoque des incendies à Kiev, la France domine la Suède lors de la Coupe du monde, les États-Unis célèbrent 250 ans d'indépendance en pleine vague de chaleur, et  le \"marriage du siècle\" entre Taylor Swift et Travis Kelce.",
-      "date_published": "2026-07-05T10:13:53+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "cadc06f0857a2428d87577cdab5f1821e9e552a3ac23f8974e5c1381e11b907f",
       "url": "https://www.lemonde.fr/planete/article/2026/07/05/en-espagne-l-incendie-qui-a-parcouru-plus-de-2-000-hectares-en-catalogne-et-ravage-une-partie-de-l-espace-naturel-protege-des-gavarres-est-stabilise_6720856_3244.html",
       "title": "En Espagne, l’incendie qui a parcouru plus de 2 000 hectares en Catalogne et ravagé une partie de l’espace naturel protégé des Gavarres est stabilisé",
@@ -3576,22 +3735,6 @@
       "lang": "en"
     },
     {
-      "id": "26e9db763bf53f2045be08986bb228f761be4afa6936db279e9cf70fd76ae737",
-      "url": "https://www.ukrinform.net/rubric-ato/4140942-russian-drone-strikes-kharkiv-injuries-reported.html",
-      "title": "Russian drone strikes Kharkiv, injuries reported",
-      "content_html": "Russian forces attacked the Kyivskyi district of Kharkiv, injuring five people.",
-      "date_published": "2026-07-05T08:56:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "80a8b0bf70091b06e6b6de4126b98086f646027e509be9a4e6096c032d6bef43",
       "url": "https://www.lemonde.fr/international/article/2026/07/05/au-yemen-14-soldats-tues-dans-une-attaque-des-rebelles-houthistes_6720853_3210.html",
       "title": "Au Yémen, 16 soldats tués dans une attaque des rebelles houthistes",
@@ -3604,22 +3747,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "d2def49da9ec57be1b00ba0d6697140d6846adf48b367edb310eeb9ccc8f79de",
-      "url": "https://www.ukrinform.net/rubric-ato/4140933-russian-drone-attacks-bohodukhiv-leaving-two-killed.html",
-      "title": "Russian drone attacks Bohodukhiv, leaving two killed",
-      "content_html": "Russian forces attacked the town of Bohodukhiv in the Kharkiv region with drones, killing two people.",
-      "date_published": "2026-07-05T08:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "637e3185c695bf4e263757e499c5ce8ef93cfe7b8dacfbc801eaaa0e243c443f",
@@ -3768,8 +3895,8 @@
     {
       "id": "48e0dee7ad38b9fa7936ec57181acd31197cdc26edacab113e6d1761f6243c73",
       "url": "https://elpais.com/internacional/2026-07-05/trump-celebra-los-250-anos-de-la-independencia-con-una-defensa-del-excepcionalismo-estadounidense-el-sueno-americano-ha-vuelto.html",
-      "title": "Trump celebra los 250 años de su país con ataques al “cáncer” del comunismo y una defensa del “sueño americano”",
-      "content_html": "Donald Trump en Washington D.C. este sábado.",
+      "title": "Trump célèbre les 250 ans de son pays avec des attaques contre le « cancer » du communisme et une défense du « rêve américain »",
+      "content_html": "Donald Trump à Washington D.C. ce samedi.",
       "date_published": "2026-07-05T06:27:03+00:00",
       "authors": [
         {
@@ -3794,7 +3921,7 @@
         "name": "Internacional en EL PAÍS",
         "url": "https://elpais.com"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "aa7930b8c376198fbccc0e687888e6dcdd4b613f0548493c0612f2b3c97b880f",
@@ -3855,20 +3982,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "f8484dd3bdc93e3bd3776c7e5021b66234737ee2b77210a5fb4f0a5483edb5e7",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "content_html": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "date_published": "2026-07-05T05:58:21+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
     },
     {
       "id": "bf2cc4fce4084d4d2fab070f21d0a2bb2e155e38cb1bfcc01285e4c48b6751f1",
@@ -4185,48 +4298,6 @@
       "lang": "fr"
     },
     {
-      "id": "d3ce4831cc5315a36ef954bfbdc4a03a414ca56ae83fc904cad4aa1affce4386",
-      "url": "https://www.lemonde.fr/international/article/2026/07/05/en-ukraine-les-stations-service-de-plus-en-plus-ciblees-par-les-drones-russes_6720822_3210.html",
-      "title": "En Ukraine, les stations-service de plus en plus ciblées par les drones russes",
-      "content_html": "Une station-service détruite par une frappe de drone russe, dans l’oblast de Dnipropetrovsk (Ukraine), le 1ᵉʳ juillet 2026.",
-      "date_published": "2026-07-05T03:30:18+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "356d74e8dcf0efc01b43ca2c93841d977b6dcef036a3c7175791f1733450c769",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/05/derriere-la-rivalite-entre-pekin-et-washington-l-essor-de-l-ia-chinoise-aux-etats-unis_6720820_3234.html",
-      "title": "Derrière la rivalité entre Pékin et Washington, l’essor de l’IA chinoise aux Etats-Unis",
-      "content_html": "Des employés de l’entreprise chinoise Zhipu AI aident des habitants à installer et configurer l’agent IA AutoClaw, à Pékin, le 13 mars 2026.",
-      "date_published": "2026-07-05T03:30:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c157a6282eff4a0a7c61a964eea7e68f07a6ae7d6c180dafa0adb0df8ce8721c",
-      "url": "https://ici.radio-canada.ca/tele/le-telejournal-week-end/site/segments/reportage/2420133/teheran-funerailles-ali-khamenei-hostilite-trump",
-      "title": "Envoyée spéciale - Début de trois jours de funérailles nationales d'Ali Khamenei",
-      "content_html": "<p>Marie-Eve Bédard est à Téhéran.</p>",
-      "date_published": "2026-07-05T01:56:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "946c596ff90ea676c7919e1ba02c9b7a015101b7eeec9a03f2f71abe67bf4c0f",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
       "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
@@ -4266,76 +4337,6 @@
       "lang": "en"
     },
     {
-      "id": "d05acd3ab34ce1a5720e6fcc480cb62b31d70f5123bfa1e2b77c2a4171eac759",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267049/inondations-etat-urgence-brandon",
-      "title": "La ville de Brandon déclare l’état d’urgence en raison d’éventuelles inondations",
-      "content_html": "<p>La Ville prévoit des inondations, car les niveaux d&#x27;eau continuent de monter.</p>",
-      "date_published": "2026-07-05T01:30:08+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "76c4dad07d24ca20e2c2a08453d5c2da5925e13233fb6d5a971578492222e52f",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267045/albanie-projet-immobilier-trump-manifestation",
-      "title": "Albanie : mobilisation massive contre un projet immobilier lié à la famille Trump",
-      "content_html": "<p>Cette manifestation quotidienne depuis 35&nbsp;jours consécutifs est la plus importante jusqu&#x27;à maintenant.</p>",
-      "date_published": "2026-07-05T00:58:37+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "80e2e81e08f11f10d74b79277de1f725d84c72ed8057bbb00fe78178be52416b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267041/reseaux-electriques-propres-transmission",
-      "title": "Le fédéral investit dans l’énergie propre en Alberta et en Saskatchewan",
-      "content_html": "<p>Le projet le plus financé vise à relier les réseaux de l&#x27;Ouest canadien pour plus de fiabilité.</p>",
-      "date_published": "2026-07-05T00:34:01+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "943a278ee09a4e9228e5403698cafd1625e33aa5afd89f3a27f907d3c1e19226",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267038/morts-venezuela-seisme-bilan-victimes",
-      "title": "Près de 3000 morts au Venezuela dans le double séisme",
-      "content_html": "<p>L&#x27;ONU estime qu&#x27;il pourrait y avoir jusqu&#x27;à 50&nbsp;000&nbsp;disparus.</p>",
-      "date_published": "2026-07-05T00:18:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e604b91ca0d50a15acee16d6a57b0abf2076d1e20398bf13cd0d0003e1633129",
-      "url": "https://ici.radio-canada.ca/nouvelle/2267030/maroc-canada-football-soccer-diaspora-marocaine",
-      "title": "Canada-Maroc : la diaspora marocaine célèbre la victoire des Lions de l’Atlas",
-      "content_html": "<p>Le match représentait pour plusieurs partisans un dilemme entre leur pays d’origine et leur terre d’accueil.</p>",
-      "date_published": "2026-07-05T00:07:56+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "17086134462328e777d1b3c5eb3d34fd954f834c8b8fc525f0439c7845e3c002",
       "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
       "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
@@ -4350,24 +4351,10 @@
       "lang": "en"
     },
     {
-      "id": "0f69fb34df566e08c69a766ea348102c835d82a85a6a33361ceccb81f18ea89b",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "content_html": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "date_published": "2026-07-04T23:17:24+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a362ee1645d2701ec1cde7b091a9669ca618f45a93b8ec6348c0226f26e5d951",
       "url": "https://www.elmundo.es/internacional/2026/07/05/6a49389e21efa0dc078b4597.html",
       "title": "Dans la zone zéro de La Guaira, il y a encore de l'espoir : « Nous ne sommes pas Dieu pour savoir si ma fille est morte »",
-      "content_html": "Le bâtiment El Jurel, à Playa Grande, a résisté aux assauts de la nature, mais avec difficulté, en se tordant de manière sinistre.Aujourd'hui, on dirait qu'un géant s'est assis dessus",
+      "content_html": "Le bâtiment El Jurel, à Playa Grande, a résisté aux assauts de la nature, mais avec difficulté, en se tordant de façon sinistre.Aujourd'hui, on dirait qu'un géant s'est assis dessus",
       "date_published": "2026-07-04T22:03:52+00:00",
       "authors": [
         {
@@ -4419,20 +4406,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "e8919d2cebc759533a57dc303d543e70399990f4c8498ba8db8c4742391161f7",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266944/david-lametti-etats-unis-obstructionnisme-onu",
-      "title": "Lametti accuse les États-Unis d’« obstructionnisme » en matière d’égalité à l’ONU",
-      "content_html": "<p>David Lametti reproche aux Américains leur hostilité au «&nbsp;changement climatique&nbsp;» et à «&nbsp;l’égalité des sexes&nbsp;».</p>",
-      "date_published": "2026-07-04T19:44:49+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "d362c8e9fa7e743cb810393248be0a29c2691090e4162cc49fb59dec3955bc85",
@@ -4530,20 +4503,6 @@
       "lang": "en"
     },
     {
-      "id": "2b5f84faa82327c022a8c8a32885252559dc08a8941f70888f6932f7935f4541",
-      "url": "https://ici.radio-canada.ca/nouvelle/2266933/chute-enfant-11e-etage-ottawa",
-      "title": "Une enfant dans un état critique après une chute du 11e étage",
-      "content_html": "<p>C&#x27;est la 3e&nbsp;chute à survenir à Ottawa dans les derniers mois.</p>",
-      "date_published": "2026-07-04T17:41:14+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "2a6db873480a640a64e892da76ba2c70d1c726822a59567eecc3e0654b09b018",
       "url": "https://www.liberation.fr/international/moyen-orient/funerailles-dali-khamenei-liran-declenche-le-plan-obseques-20260704_3UM57CJEIFFCJI4H6IDJWAA6LU/",
       "title": "Funérailles d’Ali Khamenei : l’Iran déclenche le plan obsèques",
@@ -4558,20 +4517,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9ac5d2edba7dfeaa7be4218e6bd09700c0bce0ab9f096c89a20121e02a05c9e3",
-      "url": "https://ici.radio-canada.ca/sports/2266930/vingegaard-tour-france-barcelone-depart",
-      "title": "Jonas Vingegaard s’empare à Barcelone du premier maillot jaune du Tour de France",
-      "content_html": "<p>La 113e&nbsp;édition du Tour de France a été lancée de Barcelone, en Espagne.</p>",
-      "date_published": "2026-07-04T17:30:36+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4649,26 +4594,6 @@
       "lang": "fr"
     },
     {
-      "id": "9bb3381a949e685b23dfbc333a77ff5330c6ff8ee07fbb55f19b16e077f43db6",
-      "url": "https://www.elmundo.es/internacional/2026/07/04/6a48eb6fe85ece193e8b4578.html",
-      "title": "L'AfD reporte la lutte avec son aile la plus ultra pour ne pas arriver divisée aux élections régionales",
-      "content_html": "Évitez de débattre de la suppression de la mesure qui empêche l’implication militaire dans le parti et les organisations extrémistes.Plus de 31 000 manifestants tentent d'empêcher le congrès de cette formation d'extrême droite, qui aspire pour la première fois à gouverner un « Land »",
-      "date_published": "2026-07-04T16:20:18+00:00",
-      "authors": [
-        {
-          "name": "Carmen Valero"
-        }
-      ],
-      "tags": [
-        "Alemania"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "6e874221890a8bf144f74ca53ba0e8f5c25bb31b04d876d25ea2d83cdca2cda7",
       "url": "https://www.elmundo.es/internacional/2026/07/04/6a4927e6e85ece60518b45a4.html",
       "title": "Des groupes rebelles lancent une offensive simultanée dans le nord du Mali",
@@ -4677,24 +4602,6 @@
       "authors": [
         {
           "name": "AP"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "a2b3d4c9d9399a94f07d7546f54e9dc4177f307e7f67350c07b22dbe935294b4",
-      "url": "https://www.elmundo.es/internacional/2026/07/04/6a49243521efa0d45f8b458f.html",
-      "title": "L’Iran transforme les funérailles de Khamenei en un défi lancé à Washington à l’occasion de l’anniversaire de l’indépendance : « Vengeance, mort aux États-Unis !",
-      "content_html": "Le régime affiche son unité autour des funérailles du guide suprême et mobilise des dizaines de milliers de personnes à Téhéran à l'occasion du 250e anniversaire de l'indépendance des États-Unis.",
-      "date_published": "2026-07-04T15:24:40+00:00",
-      "authors": [
-        {
-          "name": "EL MUNDO / REUTERS"
         }
       ],
       "tags": [],
@@ -4867,7 +4774,7 @@
       "id": "1f94df0f54bcd957b6533a38e8d973129bd649c1c65fabe3e11a4040fd98a408",
       "url": "https://www.elmundo.es/internacional/2026/07/04/6a4900eae9cf4a6a328b4592.html",
       "title": "Ils assassinent un journaliste kidnappé il y a un mois à Veracruz, au Mexique.",
-      "content_html": "Parmi les huit personnes arrêtées pour ce crime figurent quatre policiers, qui auraient fourni un soutien logistique à l'organisation qui a commis l'assassinat.",
+      "content_html": "Parmi les huit personnes arrêtées pour ce crime, il y a quatre policiers, qui auraient fourni un soutien logistique à l'organisation qui a commis l'assassinat.",
       "date_published": "2026-07-04T12:51:00+00:00",
       "authors": [
         {
@@ -5011,7 +4918,7 @@
       "id": "71b0ab777bd6279144961a66279ff453671b61323fc8ce62ed87dbf33d2b72d4",
       "url": "https://elpais.com/internacional/2026-07-04/el-papa-censura-en-lampedusa-la-politica-migratoria-de-la-ue-los-muertos-en-este-mar-son-victimas-de-decisiones-tomadas-u-omitidas.html",
       "title": "Le Pape censure la politique migratoire de l'UE à Lampedusa : « Les morts dans cette mer sont les victimes de décisions prises ou omises »",
-      "content_html": "Le Pape à la porte de l'Europe, un monument au bord de la mer sur l'île italienne de Lampedusa, ce samedi.",
+      "content_html": "Le Pape à la porte de l'Europe, un monument au bord de la mer de l'île italienne de Lampedusa, ce samedi.",
       "date_published": "2026-07-04T09:51:23+00:00",
       "authors": [
         {
@@ -5322,28 +5229,6 @@
       "lang": "fr"
     },
     {
-      "id": "84c5cf1a3a979daa654e6b665953b44d64778ecb86e2dce38bc4f73bb34d1585",
-      "url": "https://www.elmundo.es/internacional/2026/07/04/6a4804dfe9cf4abd638b45a0.html",
-      "title": "Les États-Unis torpillent le voyage de María Corina à Caracas pour ne pas interférer avec leur contrôle du pays",
-      "content_html": "L’incapacité chaviste, si évidente depuis 18h04.de la fête de San Juan, a permis aux États-Unis de tirer plus facilement profit de la tragédie pour renforcer leur position dans le pays créole après la capture du dictateur Nicolás Maduro",
-      "date_published": "2026-07-04T05:17:24+00:00",
-      "authors": [
-        {
-          "name": "Daniel Lozano"
-        }
-      ],
-      "tags": [
-        "Venezuela",
-        "NLPremium",
-        "Especial Trump"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "0b32a68a3cda2edaccaa6336dd8932439be37ba4509c68c8080a8b09b8f195fa",
       "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
       "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
@@ -5516,26 +5401,6 @@
       "tags": [
         "Venezuela",
         "Artículos Nuria López"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "447438e305a0d9c0cc2160cf605ab08ee75f0778afbfec35dc6bcee550be2b58",
-      "url": "https://www.elmundo.es/internacional/2026/07/04/6a468541e4d4d83d0c8b45a8.html",
-      "title": "Tocqueville et nos démocraties fatiguées",
-      "content_html": "Une société ouverte ne se défend pas en renonçant à ses principes ;La démocratie a besoin de plus que de simples institutions correctes",
-      "date_published": "2026-07-03T22:10:10+00:00",
-      "authors": [
-        {
-          "name": "Ana Palacio"
-        }
-      ],
-      "tags": [
-        "Estados Unidos"
       ],
       "source": {
         "name": "Internacional // elmundo",
@@ -6782,7 +6647,7 @@
     {
       "id": "c5309e5807b340da30d82263de7cfd2736f3d047d4b4f72f0e0c2a048aeaef81",
       "url": "https://www.elmundo.es/internacional/2026/07/02/6a468afbe9cf4ae6528b458b.html",
-      "title": "Le couple qui a escaladé l'antenne de l'Empire State Building sans autorisation fait face à plusieurs accusations criminelles.",
+      "title": "Le couple qui a grimpé sur l'antenne de l'Empire State Building sans autorisation fait face à plusieurs accusations criminelles.",
       "content_html": "Ceux-ci incluent la possession d'outils de cambriolage, une conduite désordonnée, une mise en danger imprudente, une invasion de propriété privée ou une violation d'une loi locale.",
       "date_published": "2026-07-02T16:03:33+00:00",
       "authors": [
@@ -6941,7 +6806,7 @@
     {
       "id": "5b610fb1beacc4c5e0f5ef8cd61c5a87f3796f44ba46e770369713642e6dd743",
       "url": "https://www.elmundo.es/internacional/2026/07/02/6a46713efc6c8387278b458c.html",
-      "title": "Une femme tue un ancien militaire après une dispute concernant le stationnement dans un centre commercial de Floride",
+      "title": "Une femme tue un ancien militaire après une dispute concernant un parking dans un centre commercial de Floride",
       "content_html": "La police n'a pas révélé l'identité du tireur tandis que la famille de la victime défend qu'\"elle ne ferait jamais de mal à personne\".",
       "date_published": "2026-07-02T14:14:41+00:00",
       "authors": [
@@ -7224,28 +7089,6 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "bf524e795debdc6a8485a17a2e7a39e872dbe002bf8008b4d292187442a4d206",
-      "url": "https://www.elmundo.es/internacional/2026/07/02/6a46354be85ecec4568b456d.html",
-      "title": "Qui sont les Lefebvriens : leurs symboles, leurs vêtements et leurs différences avec l'Église actuelle",
-      "content_html": "De la polémique sur les autels et du rejet de l'œcuménisme aux points les plus controversés d'une faction traditionaliste qui a vu ses nouveaux évêques excommuniés par le Vatican",
-      "date_published": "2026-07-02T10:41:17+00:00",
-      "authors": [
-        {
-          "name": "Ester Palma"
-        }
-      ],
-      "tags": [
-        "Religión",
-        "Corriere della Sera",
-        "el Vaticano"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
     },
     {
       "id": "839ad4cf954e0155a13bea731cccc161a7c1bd55f854315055735caacb1c19b0",
