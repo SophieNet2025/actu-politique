@@ -5,11 +5,684 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
+      "id": "c230139366ea332d0b070a0243f7b30873c38c0b74ed71b4376b32e50aa51faa",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "content_html": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "date_published": "2026-07-26T07:21:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "35cc046571eba1144e42d3c189b03ecfc1231c7ca012877741ccdeb588fd5d7c",
+      "url": "https://www.ukrinform.net/rubric-ato/4148015-air-defense-forces-shoot-down-six-russian-missiles-and-104-drones.html",
+      "title": "Air Defense Forces shoot down six Russian missiles and 104 drones",
+      "content_html": "Air Defense Forces intercepted one Kh-59/69 precision-guided missile, five Iskander-M/S-400 ballistic missiles, and 104 drones used by Russian forces to attack Ukraine beginning on the evening of July 25.",
+      "date_published": "2026-07-26T07:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "76a534400775b95c6186fd30f1ad8372c07fcfd88bd5125c4f6b10edb7962152",
+      "url": "https://www.elmundo.es/internacional/2026/07/26/6a65b2f0e4d4d8c4278b4589.html",
+      "title": "Joueurs face contre terre et tête couverte : une attaque d'abeille force la suspension d'un match au Brésil",
+      "content_html": "Le dernier match du Championnat U-20 de Baiano est resté arrêté pendant plus de dix minutes jusqu'à ce que le système d'irrigation chasse l'essaim",
+      "date_published": "2026-07-26T07:19:42+00:00",
+      "authors": [
+        {
+          "name": "Sebastián Fest"
+        }
+      ],
+      "tags": [
+        "Brasil",
+        "deportes",
+        "fútbol",
+        "internacional"
+      ],
+      "source": {
+        "name": "Internacional // elmundo",
+        "url": "https://www.elmundo.es"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ea2f5d51c9eb398dcb70cff5f378a47f17b520260362cb00f668730a804a2191",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+      "title": "Israeli settlers set fire to mosque in occupied West Bank",
+      "content_html": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+      "date_published": "2026-07-26T07:12:26+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a481b2f341f08e80f3c2f6ec895bd8fc16d3137e6515f2407e5d2107c52a1631",
+      "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-rdf",
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "content_html": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
+      "date_published": "2026-07-26T07:05:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "db93808166ea88b3e56f0bc2c3a4f015a5b7f37b456de25080855ca86b4f3a48",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
+      "title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
+      "content_html": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.",
+      "date_published": "2026-07-26T07:04:11+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "60700e428110ed43321b309b3ee8d2959b9d64c6f92bc7452349b3b7087ddc67",
+      "url": "https://www.lemonde.fr/sport/article/2026/07/26/can-2026-en-afrique-le-football-au-feminin-face-a-ses-limites-malgre-les-ambitions-affichees_6733111_3242.html",
+      "title": "CAN 2026 : en Afrique, le football au féminin face à ses limites malgré les ambitions affichées",
+      "content_html": "Les joueuses de la sélection marocaine lors de la précédente Coupe d’Afrique des nations féminine, opposant le Maroc au Nigeria, au stade Prince Moulay Abdellah, à Rabat, le 26 juillet 2025.",
+      "date_published": "2026-07-26T07:00:05+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "31b6c61e06d2c200632c93b78f414b9ea724b03356a3368819ba141c6845cecf",
+      "url": "https://www.ukrinform.net/rubric-ato/4148012-russian-forces-attack-three-districts-in-dnipropetrovsk-region-nearly-20-times-one-person-injured.html",
+      "title": "Russian forces attack three districts in Dnipropetrovsk region nearly 20 times; one person injured",
+      "content_html": "Since Saturday evening, July 25, Russian troops have attacked three districts in the Dnipropetrovsk region nearly 20 times using artillery and drones.",
+      "date_published": "2026-07-26T07:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b40ceff21cc03d962387b9dc6139eceeb77faed1797c35095f3aec2f75e1fe2a",
+      "url": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-rdf",
+      "title": "India news: Home minister backs Pradhan after resignation",
+      "content_html": "Hours after India's education minister resigned amid youth protests, India's home minister spoke out in his defense. Meanwhile, Cockroach party's leader thanked 'cockroaches' across India. DW has more.",
+      "date_published": "2026-07-26T06:48:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "caf5581d076ddc050dc6ed827a3118fd136f3ebfc5f49798aac89c1a3bc632f7",
+      "url": "https://www.france24.com/en/firefighters-are-hoping-that-more-of-those-fires-don-t-join-up-spain-steps-up-wildfire-response",
+      "title": "'Firefighters are hoping that more of those fires don't join up': Spain steps up wildfire response",
+      "content_html": "FRANCE 24's Madrid correspondent Sarah Morris reports on what authorities have called a \"difficult night\" for the firefighters struggling to tackle the spreading wildfires near Madrid and Toledo.",
+      "date_published": "2026-07-26T06:45:50+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8a7f7a2069c9aee4724ce234f7c29ebba3b6505ef2e6819e47296f3ee1744d7d",
+      "url": "https://www.france24.com/en/he-may-be-armed-and-dangerous-manhunt-continues-after-man-drives-vehicle-into-berlin-pride-event",
+      "title": "'He may be armed and dangerous': Manhunt continues after man drives vehicle into Berlin Pride event",
+      "content_html": "FRANCE 24 correspondent Nick Holdsworth reports from Berlin after a vehicle was driven into a crowd during the city's Pride event, killing one person and wounding 16 more.",
+      "date_published": "2026-07-26T06:43:45+00:00",
+      "authors": [
+        {
+          "name": "FRANCE24"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8eda99cb2a1cd0ba393e545d5b5a46c7a73cc59188ad753ba5413f964ea953c1",
+      "url": "https://www.liberation.fr/international/europe/un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-un-mort-et-16-blesses-20260726_VYJYTLUBG5DU5NS24CQ6N6QK5U/",
+      "title": "Un véhicule fonce dans la foule à la Gay Pride de Berlin : un mort et 16 blessés",
+      "content_html": "Trois personnes sont toujours entre la vie et la mort après l’attaque perpétrée samedi soir, lors Christopher Street Day. Un avis de recherche a été émis ce dimanche 26 juillet pour retrouver un suspect lié «au milieu islamiste».",
+      "date_published": "2026-07-26T06:42:09+00:00",
+      "authors": [
+        {
+          "name": "Libération ., AFP ."
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "85f1d83e10b64634d3f5cb9fb8378919a9ee36556d3b5a62fcfd6e5e3d9f4f94",
+      "url": "https://www.ukrinform.net/rubric-ato/4148009-war-update-defense-forces-repel-46-enemy-attacks-in-pokrovsk-sector-258-clashes-reported-along-front-line.html",
+      "title": "War update: Defense Forces repel 46 enemy attacks in Pokrovsk sector; 258 clashes reported along front line",
+      "content_html": "Over the past 24 hours, 258 combat clashes were recorded along the front line between the Ukrainian Defense Forces and Russian troops, with the fiercest fighting taking place in the Pokrovsk sector.",
+      "date_published": "2026-07-26T06:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8583ff2444d956ca97100d4f720985fb82f7cadc14afbd3aaa382e7b9200ec4a",
+      "url": "https://www.france24.com/fr/moyen-orient/20260726-pr%C3%A8s-de-2-500-manifestants-%C3%A0-tunis-cinq-ans-apr%C3%A8s-le-coup-de-force-du-pr%C3%A9sident-ka%C3%AFs-sa%C3%ABd",
+      "title": "Près de 2 500 manifestants à Tunis, cinq ans après le coup de force du président Kaïs Saïed",
+      "content_html": "Près de 2 500 personnes ont manifesté samedi dans la capitale tunisienne pour protester contre un recul des droits et des libertés et la détérioration des conditions de vie. En pleine vague de chaleur, des coupures de courant programmées partout dans le pays suscitent colère et inquiétude, notamment pour les hôpitaux.",
+      "date_published": "2026-07-26T06:39:24+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "191694a7397505896cee4f654019c4366204ffbe77f1e314da96d40dc68b703d",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+      "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+      "content_html": "Anthony Joshua survives two knockdowns by Albania&#039;s Kristian Prenga before winning the fight in the second round.",
+      "date_published": "2026-07-26T06:37:00+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "86e454408d495cb8c2df1606c4acb1c497487e3be913ff972d3898a054448ee1",
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "content_html": "<p>Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in France</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain\">More than 250,000 people flee wildfires in France and Spain</a></p></li></ul><p><strong>About 220,000 people have now been evacuated from the main forest fire raging in the south-west of France that threatens the city of Bordeaux</strong>, according to French authorities.</p><p>The latest evacuations have been in villages around Bordeaux while 60km (37 miles) of the main A63 highway from Bordeaux to the Spanish border has been closed because of the fires, regional authorities said.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations\">Continue reading...</a>",
+      "date_published": "2026-07-26T06:36:52+00:00",
+      "authors": [
+        {
+          "name": "Yohannes Lowe (now) and Wendy Frew (earlier)"
+        }
+      ],
+      "tags": [
+        "Wildfires",
+        "Europe",
+        "Climate crisis",
+        "France",
+        "Spain",
+        "Spain"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0d23f4aeee0f7f08db5fd990ed3d89006d15ae0acb9b5cde48aa1091982e523",
+      "url": "https://www.ukrinform.net/rubric-ato/4148006-ballistic-missile-strike-on-kyiv-firefighters-extinguish-fires-in-three-districts.html",
+      "title": "Ballistic missile strike on Kyiv: Firefighters extinguish fires in three districts",
+      "content_html": "Emergency responders have extinguished all fires caused by the Russian attack on the night of July 26 in the Desnianskyi, Shevchenkivskyi, and Solomianskyi districts of Kyiv.",
+      "date_published": "2026-07-26T06:24:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6da972c46dcb25e6ef885af6ba05560d330156c45c9a6d16a7a067fc21275d55",
+      "url": "https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees",
+      "title": "Family of former Vodafone manager found drowned call for ‘Adrian’s law’ to protect franchisees",
+      "content_html": "<p>Adrian Howe’s family believe that fears his deal would be financially ruinous led him to kill himself</p><p>The family of a former mobile phone store manager who was found drowned days before his new Vodafone franchise was to open its doors is pressing the government to introduce a new franchising law in his name.</p><p>The call comes a week after Vodafone <a href=\"https://www.theguardian.com/business/2026/jul/16/vodafone-settles-legal-claim-brought-by-62-former-franchisees\">settled a long-running legal claim</a> filed by 62 of its former franchisees who alleged that the company “unjustly enriched” itself at their expense by up to £85m.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees\">Continue reading...</a>",
+      "date_published": "2026-07-26T06:00:03+00:00",
+      "authors": [
+        {
+          "name": "Simon Goodley"
+        }
+      ],
+      "tags": [
+        "Vodafone",
+        "Law",
+        "Retail industry",
+        "Scotland",
+        "Mental health",
+        "UK news",
+        "Business",
+        "Telecommunications industry",
+        "Health",
+        "Society"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "30db3172d0ae0954b5f43ef76724b845d7fa7bc04c39d780aa6a7721e7588456",
+      "url": "https://www.ukrinform.net/rubric-ato/4147991-russian-strike-hits-kryvyi-rih-shopping-center-catches-fire.html",
+      "title": "Russian strike hits Kryvyi Rih, shopping center catches fire",
+      "content_html": "Russian forces struck Kryvyi Rih, setting a shopping center on fire.",
+      "date_published": "2026-07-26T05:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "046088cb647ee202d98cfb9e0e9612c46fe65526939df1a50600ade78c2ff5e2",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-occupee-deux-villages-palestiniens-attaques-par-des-colons-israeliens-on-ne-les-avait-jamais-vus-si-nombreux-20260726_J4A4CNFKTJA5FF744ABPGMPFHU/",
+      "title": "En Cisjordanie occupée, deux villages palestiniens attaqués par des colons israéliens : «On ne les avait jamais vus si nombreux»",
+      "content_html": "Tell et Sarra, situés dans le nord du territoire, ont subi vendredi 24 juillet au matin une série d’attaques violentes au lourd bilan : quatre morts palestiniens et deux israéliens.",
+      "date_published": "2026-07-26T05:55:44+00:00",
+      "authors": [
+        {
+          "name": "Fanny Léonor Crouzet"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "189d3db3ddc504c34e5fe712a57522de542a4aec59e8e47681dfdec88b6a8c2f",
+      "url": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany launches manhunt after Berlin Pride van ramming",
+      "content_html": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
+      "date_published": "2026-07-26T05:51:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a8b231b2aa4119ab7280a550547c91813f5fc10405d06d7e6d7a974030c291df",
+      "url": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
+      "title": "US holds fire against Iran as media reports say Washington's stockpiles are dwindling",
+      "content_html": "Another night has passed without further US air strikes on Iran after nearly two weeks of nightly bombardments. US media reports that Washington's concerns over dwindling stockpiles of Patriot interceptors and other air defence munitions could be behind the pause in fighting.",
+      "date_published": "2026-07-26T05:47:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "883500572e78be7d7b669a7dd30f0be98a65d7098edcc152df1da5e6efee0691",
+      "url": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-all-1573-rdf",
+      "title": "Brazil denies entry to senior Trump officials ahead of elections",
+      "content_html": "Brazil rejected visas for two planned US envoys, alleging that Washington was seeking to shape Brazil's upcoming presidential election. The development adds to a deepening political tension between Brazil and the US.",
+      "date_published": "2026-07-26T05:45:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "06550d95ebbc540c43bf34c4d4898a048def8f9ad7aa97d76ebfc554bf989dd5",
+      "url": "https://ici.radio-canada.ca/nouvelle/2271566/voiture-percute-foule-fierte-berlin",
+      "title": "Fierté de Berlin : une voiture fonce dans la foule, un mort et des blessés graves",
+      "content_html": "<p>La police évoque un suspect lié au «&nbsp;milieu islamiste&nbsp;».</p>",
+      "date_published": "2026-07-26T05:43:36+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "72fdae4b7dc70f511fbdb87ae4a819127a71b170b1fa647606b4db5c5a1c40f2",
+      "url": "https://www.ukrinform.net/rubric-ato/4147992-ukraines-longrange-sanctions-are-having-real-impact-austrian-colonel-says.html",
+      "title": "Ukraine’s “long-range sanctions” are having real impact, Austrian colonel says",
+      "content_html": "Ukraine’s systematic strikes against Russia’s oil refining industry are already having a significant impact; however, restricting crude oil exports and curbing the activities of the shadow fleet remain crucial to Russia’s ability to finance the war.",
+      "date_published": "2026-07-26T05:39:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "045aa32a42b9a011f408db4272095d0ac431c1cc87d3f1a5255528b67c1dc806",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "title": "One killed, 16 injured after van mows into crowd and people stabbed at Berlin Pride",
+      "content_html": "<p>The 21-year-old suspect fled and was ⁠identified by police as member of ⁠city’s ‘Islamist scene’</p><p>German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left one person dead and injured at least 16 others.</p><p>Police and prosecutors asked for help in finding the 21-year-old, whom they identified as Abdul B.</p> <a href=\"https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route\">Continue reading...</a>",
+      "date_published": "2026-07-26T05:35:11+00:00",
+      "authors": [
+        {
+          "name": "Deborah Cole in Berlin"
+        }
+      ],
+      "tags": [
+        "Germany",
+        "World news",
+        "LGBTQ+ rights",
+        "Europe"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3742bcebb930bd29156a7a2a9b36558b2074a4b0806ffb5da6d3a17a7aaf37dd",
+      "url": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
+      "title": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
+      "content_html": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
+      "date_published": "2026-07-26T05:29:49+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "435f328178247367fd033b8f6d49eeb0cd38236747c732e72a276197c002fed6",
+      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
+      "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+      "content_html": "Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.",
+      "date_published": "2026-07-26T05:29:14+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "620130c37e26076b5c0d7a8e5d43ce3dc0ca8a04412ed0fa4ea686a53ae9edf6",
+      "url": "https://www.ukrinform.net/rubric-ato/4147990-russia-loses-another-1440-troops-in-war-against-ukraine-over-past-24-hours.html",
+      "title": "Russia loses another 1,440 troops in war against Ukraine over past 24 hours",
+      "content_html": "Total combat losses among Russian military personnel from February 24, 2022, through July 26, 2026, reached approximately 1,438,990, of whom 1,440 were killed in the last 24 hours.",
+      "date_published": "2026-07-26T05:28:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e55f63c3b69e19aa2c69bebe484fcc50156c06fe0c2a03413ab6d49a6055782c",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss",
+      "title": "https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us",
+      "content_html": "At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire.",
+      "date_published": "2026-07-26T05:14:32+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a0f4368dec7da2e5a0b60816f101c01c04d9062675bc1d7153dabde242cc12b6",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/26/hassanein-hiridjee-ou-les-ambitions-d-un-impatient-de-transformer-l-afrique_6732910_3212.html",
+      "title": "Hassanein Hiridjee, ou les ambitions d’un impatient de transformer l’Afrique",
+      "content_html": "« Fortunes africaines ». Né à Madagascar il y a dix ans, le groupe Axian opère dans 21 pays d’Afrique, dans les télécoms, l’énergie ou les services bancaires. Une expansion tous azimuts portée par un fondateur charismatique qui veut aller très vite. Le milliardaire est tout autant convaincu des forces du secteur privé du continent que lucide sur ses faiblesses.",
+      "date_published": "2026-07-26T05:00:11+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "76e16220568a19737ebfa0c9062ed1d68386c5f701b57d4172f89deb748e2b7f",
+      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/26/l-impossible-victoire-d-israel-contre-le-hezbollah-a-amene-a-solliciter-la-france-en-2006-et-la-syrie-en-2026_6732908_6116995.html",
+      "title": "« L’impossible victoire d’Israël contre le Hezbollah a amené à solliciter la France en 2006 et la Syrie en 2026 »",
+      "content_html": "Un drapeau du Hezbollah planté sur des destructions suite à une opération commando nocturne de l'armée israélienne, à Nabi Chit (Liban), le 7 mars 2026.",
+      "date_published": "2026-07-26T05:00:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6783f86694b3fcc26f72c645f06dd62f097bb1eb61e519d911faca59c9c0948c",
+      "url": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
+      "title": "UK journalists are self-censoring stories about Trump and the right over safety fears’",
+      "content_html": "<p>Government-backed investigation finds risks are normalised amid ‘a narrowing of the public conversation’ </p><p>Journalists are self-censoring their reporting on rightwing protests, Donald Trump’s administration and trans issues because of growing concerns about their personal safety, with newsrooms accused of “normalising” the risks they face.</p><p>Hundreds of journalists from across the UK have anonymously disclosed increasing nervousness over their security. Some have reported avoiding or altering coverage on certain topics due to intimidation, leading to self-censorship and “a narrowing of the public conversation”.</p> <a href=\"https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety\">Continue reading...</a>",
+      "date_published": "2026-07-26T05:00:04+00:00",
+      "authors": [
+        {
+          "name": "Michael Savage Media editor"
+        }
+      ],
+      "tags": [
+        "Journalist safety",
+        "Media",
+        "UK news",
+        "Press freedom",
+        "Newspapers & magazines"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b2c4cbd7732199f4e825823d688d0b55f8a2459487cef5a55b11be0d68de041b",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms",
+      "title": "How Trump could undermine the midterms",
+      "content_html": "<p>The president really has no power over elections – but that hasn’t stopped Trump from laying the groundwork to challenge results in November</p><p>When Donald Trump commandeered primetime US television last Friday, he delivered a familiar, but still extraordinary, message. The president argued once again that the results of the 2020 election, which he lost to Joe Biden, were illegitimate.</p><p>US elections are “vulnerable to being rigged and stolen”, Trump alleged, claiming that “the trust of the American people was lost” when he was defeated.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms\">Continue reading...</a>",
+      "date_published": "2026-07-26T05:00:04+00:00",
+      "authors": [
+        {
+          "name": "George Chidi"
+        }
+      ],
+      "tags": [
+        "US midterm elections 2026",
+        "Donald Trump",
+        "US politics",
+        "Republicans",
+        "Democrats",
+        "US news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ea7a000a4813a17c5b01d6bbc6001ac4fa411c7f2d4f2518933a47491a8da020",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+      "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "content_html": "<p>Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown</p><p>Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies that transported them there.</p><p>A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.dcd.294587/gov.uscourts.dcd.294587.1.0.pdf\">lawsuit</a> filed this week in federal court in Washington DC accuses the companies CSI Aviation and GlobalX of violating the Venezuelans’ civil rights, false imprisonment, intentional infliction of emotional distress, negligence and other violations, for their role in flying the three planes that took the men to El Salvador.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation\">Continue reading...</a>",
+      "date_published": "2026-07-26T05:00:03+00:00",
+      "authors": [
+        {
+          "name": "José Olivares in New York"
+        }
+      ],
+      "tags": [
+        "US news",
+        "El Salvador",
+        "Americas",
+        "World news",
+        "Venezuela",
+        "US immigration"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "962cf99696cfec52141fbcd7d75b929f23bada70cff0bd088fd1756a6b7e2b0b",
+      "url": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
+      "title": "‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban",
+      "content_html": "<p>Allowing use of two neonicotinoids to combat crop-ruining disease will kill bees and reduce harvests, union says</p><p>Beekeepers and environmentalists in France have reacted furiously after parliament approved a bill reauthorising two banned pesticides scientists say can poison bees.</p><p>“There are no words to describe the frustration,” said Carolyn Bouguet, a beekeeper in Essonne, greater Paris. “Bee populations have already been badly compromised by climate change, new parasites and loss of habitat. And now this.”</p> <a href=\"https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban\">Continue reading...</a>",
+      "date_published": "2026-07-26T05:00:03+00:00",
+      "authors": [
+        {
+          "name": "Jon Henley Europe correspondent"
+        }
+      ],
+      "tags": [
+        "France",
+        "Bees",
+        "World news",
+        "Europe",
+        "Insects",
+        "Wildlife",
+        "Environment",
+        "Agriculture",
+        "Farming",
+        "Animals"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c06c8e1b3f91ea46c6e2887ecc7e41256eb30f3b881e66c1dea598c9f8525d01",
+      "url": "https://www.ukrinform.net/rubric-ato/4147989-ukrainian-drones-strike-russian-muromm-surveillance-system-near-lyman.html",
+      "title": "Ukrainian drones strike Russian Murom-M surveillance system near Lyman",
+      "content_html": "In the Lyman sector, operators from the 3rd Border Guard Detachment named after Hero of Ukraine Colonel Yevhen Pikus struck the Russian invaders’ “Murom-M” surveillance complex.",
+      "date_published": "2026-07-26T04:57:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "67c3baf7c8f0125dc6dccb6284856097e493e3671c158ddcb172db674bf4ee2f",
       "url": "https://www.lemonde.fr/international/article/2026/07/26/vols-annules-evacuations-massives-vents-tres-violents-le-puissant-typhon-noul-a-balaye-le-sud-de-la-chine_6732341_3211.html",
       "title": "Vols annulés, évacuations massives, vents très violents : le puissant typhon Noul a balayé le sud de la Chine",
       "content_html": "Intempéries lors du passage du typhon Noul, à Hongkong, le 26 juillet 2026.",
-      "date_published": "2026-07-26T04:44:41+00:00",
+      "date_published": "2026-07-26T04:44:39+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -81,6 +754,30 @@
       "lang": "en"
     },
     {
+      "id": "e65a666fc79a0fc6941106fc3756110cfeffdd552ac1c906f02f2d3ae1625388",
+      "url": "https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb",
+      "title": "‘Socialist’ teachers target eight Victorian Labor MPs including education minister – as it happened",
+      "content_html": "<p>This blog is now closed</p><p><strong>‘We’re cohesive’: PM says after muted ALP national conference</strong></p><p>The prime minister, <strong>Anthony Albanese</strong>, spoke with <strong>David Speers</strong> on Insiders as Labor’s 50th national conference in Adelaide was wrapping up.</p><p>Well, our government does listen to people but [there was a] broad consensus about the direction in which we’re taking government … A government that doesn’t sit idle. We don’t just occupy the space. And there’s recognition of that from delegates that we are a united party We’re cohesive.</p> <a href=\"https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-07-26T04:16:11+00:00",
+      "authors": [
+        {
+          "name": "Caitlin Cassidy(earlier)"
+        }
+      ],
+      "tags": [
+        "Anthony Albanese",
+        "Pauline Hanson",
+        "One Nation",
+        "Labor party",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "7575ba6654fffd9765ff29e212c7ab0e0a2330ed73c944f4d4832bf279826fd2",
       "url": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
       "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse l’Ukraine d’avoir attaqué un de ses navires en mer Caspienne",
@@ -114,7 +811,7 @@
       "id": "ac6671521cc6643e52417ffae6bc2fdd60adcfdab391cf06aab986e5cea9b5d0",
       "url": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-la-russie-veut-recevoir-30-000-soldats-supplementaires-de-coree-du-nord-affirme-volodymyr-zelensky_6732775_3210.html",
       "title": "EN DIRECT, guerre en Ukraine : la Russie « veut recevoir 30 000 soldats supplémentaires de Corée du Nord », affirme Volodymyr Zelensky",
-      "content_html": "Volodymyr Zelenskyy et Laura Loomer, à Kiev, le 23 juillet 2026.",
+      "content_html": "Volodymyr Zelensky et Laura Loomer, à Kiev, le 23 juillet 2026.",
       "date_published": "2026-07-26T04:01:58+00:00",
       "authors": [],
       "tags": [],
@@ -552,20 +1249,6 @@
       "lang": "en"
     },
     {
-      "id": "06550d95ebbc540c43bf34c4d4898a048def8f9ad7aa97d76ebfc554bf989dd5",
-      "url": "https://ici.radio-canada.ca/nouvelle/2271566/voiture-percute-foule-fierte-berlin",
-      "title": "Fierté de Berlin : une voiture fonce dans la foule, un mort et des blessés graves",
-      "content_html": "<p>La police recherche le ou les occupants du véhicule, qui a été abandonné.</p>",
-      "date_published": "2026-07-26T01:55:26+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "85bf1bc7ff61ff6e27c041e35a2e4158ffd3fb54981d2f2cc089f236403cd289",
       "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
       "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
@@ -632,28 +1315,14 @@
       "lang": "fr"
     },
     {
-      "id": "835c3ca8b1e484841102c35c00d8c29b965244c88f0daae9099a26d41905a3ab",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "content_html": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "date_published": "2026-07-26T00:54:06+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "93861b2c1697610959743fa968d89c13ff37d6035d6cd987fa0554f29baa2654",
       "url": "https://www.elmundo.es/internacional/2026/07/25/6a652b44fc6c83ce3d8b4573.html",
-      "title": "Un mort et plusieurs blessés à Berlin à la suite d'un multiple accident de voiture lors de la fête de la LGTBI Pride Day",
-      "content_html": "La police recherche toujours un \"suspect possible\", qui pourrait être lié à un \"milieu islamiste\".",
+      "title": "Un mort et 16 blessés lorsqu'un véhicule conduit par un homme ayant des \"liens islamistes\" percute la foule après le défilé de la fierté à Berlin",
+      "content_html": "La police recherche toujours un homme de 21 ans identifié comme Abdul B. qui pourrait être armé et dangereux",
       "date_published": "2026-07-26T00:49:29+00:00",
       "authors": [
         {
-          "name": "EL MUNDO"
+          "name": "Afp"
         }
       ],
       "tags": [
@@ -760,7 +1429,7 @@
     {
       "id": "93b68a5b9efcb38e31418f035d8eb3547fffccef5225bec25ac5e859db0977c7",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
       "content_html": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
       "date_published": "2026-07-26T00:00:25+00:00",
       "authors": [],
@@ -770,29 +1439,6 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "045aa32a42b9a011f408db4272095d0ac431c1cc87d3f1a5255528b67c1dc806",
-      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
-      "title": "One killed and 16 injured after van crashes into crowd at Berlin Pride",
-      "content_html": "<p>Suspected ⁠perpetrator ⁠identified by police as member of ⁠city’s ‘Islamist scene’</p><p>The German chancellor, Friedrich Merz, vowed to punish those responsible after a car struck people on the outskirts of Berlin’s Gay Pride celebrations, killing at least one person and wounding 16 others.</p><p>A suspected ⁠perpetrator of the apparent attack on ⁠Saturday night has been ⁠identified as a member of the ⁠city’s “Islamist scene” but he ​has not ‌yet ‌been arrested, a Berlin police spokesperson said.</p> <a href=\"https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route\">Continue reading...</a>",
-      "date_published": "2026-07-25T23:51:08+00:00",
-      "authors": [
-        {
-          "name": "Deborah Cole in Berlin"
-        }
-      ],
-      "tags": [
-        "Germany",
-        "World news",
-        "LGBTQ+ rights",
-        "Europe"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -927,8 +1573,8 @@
     {
       "id": "ee9da26c2c6d928d1031605e8c80797d748a9df1c2b46b5cc827c9b49cbd85e9",
       "url": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
-      "title": "Live: Bordeaux evacuates 55,000 more as fires worsen in France and Spain",
-      "content_html": "More than 300,000 people fled wildfires raging across France and Spain on Saturday as worsening conditions forced fresh evacuations and authorities warned of a \"difficult night\". Fire-generated whirlwinds fuelled blazes near Bordeaux, while Spain battled expanding infernos threatening areas near Madrid. Follow our liveblog for the latest developments.",
+      "title": "Live: Wildfire raging through France’s southwest scorches 42,000 hectares of land",
+      "content_html": "The main wildfire raging through France’s southwest Gironde region has burned some 42,000 hectares of land, the regional prefecture said Sunday, making it one of the biggest the country has faced since World War II. More than 300,000 people have fled powerful wildfires across France and Spain as overstretched firefighters struggle to contain the infernos. Follow our liveblog for all the latest updates.",
       "date_published": "2026-07-25T22:57:56+00:00",
       "authors": [
         {
@@ -999,7 +1645,7 @@
     {
       "id": "d76d6e846a02788be0c5c46b49fb3fc071782c8f6ed6207386b52b0df9982f4f",
       "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-      "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
+      "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
       "content_html": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
       "date_published": "2026-07-25T22:31:19+00:00",
       "authors": [],
@@ -1086,7 +1732,7 @@
     {
       "id": "f7dca2e94897941f28699e3c6694a6169af87ffed51bb8689c17e775946ac793",
       "url": "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html",
-      "title": "Marche des fiertés de Berlin : un véhicule percute la foule, faisant un mort et une quinzaine de blessés",
+      "title": "Marche des fiertés à Berlin : un véhicule fonce dans la foule, faisant un mort et 16 blessés",
       "content_html": "Un blessé pris en charge, à Berlin, le 25 juillet 2026.",
       "date_published": "2026-07-25T22:00:33+00:00",
       "authors": [],
@@ -1396,22 +2042,6 @@
       "lang": "fr"
     },
     {
-      "id": "badfd503c24c9afe6b4a7f5fa19e9ff920d0fcf540c9be3b205cb55e2fcdf0f6",
-      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-      "title": "Head of police in northern Gaza killed in Israeli strike",
-      "content_html": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of &#039;spreading chaos&#039; in the Gaza Strip.",
-      "date_published": "2026-07-25T20:00:43+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "316ab192c05c7eb0f647ec6f7e549ea92d961ed9863378da6b041596bfb8244c",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260725-tunisie-manifestations-%C3%A0-tunis-%C3%A0-l-appel-de-la-soci%C3%A9t%C3%A9-civile",
       "title": "Tunisie : manifestations à Tunis à l'appel de la société civile",
@@ -1488,22 +2118,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "3a8b2eeb355bacfc894877aecdf2e3b779ca7e7e238ce927833f618a645374a3",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
-      "title": "At least 35 killed after two buses collide in eastern Syria",
-      "content_html": "At least 35 killed after two buses collide in eastern Syria",
-      "date_published": "2026-07-25T19:22:30+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1703,22 +2317,6 @@
       "lang": "fr"
     },
     {
-      "id": "a36d041b0897e8c268bec917dfc73e6e90a9c52f56912a1a0273454ecb8e2ede",
-      "url": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
-      "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
-      "content_html": "Outbreak is spreading at the fastest rate ever recorded as confirmed cases in DRC surpass 3,000.",
-      "date_published": "2026-07-25T18:28:09+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b1e880e57a0e408d68881f017e3e50e9c24b761dc82270caa38478278b69ef92",
       "url": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-20-morts-en-ukraine-et-en-russie-selon-les-autorites-des-deux-pays_6725306_3210.html",
       "title": "Guerre en Ukraine : au moins 20 morts en Ukraine et en Russie, selon les autorités des deux pays. Retrouvez les informations du 19 au 25 juillet.",
@@ -1731,22 +2329,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "59855483bbd35e9abd8922c0b5a08af3799c03be1941eca13d2706c58eeb3758",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-      "title": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-      "content_html": "Critics decry Israel&#039;s sweeping media reforms, warning of further risks to press freedom and election integrity.",
-      "date_published": "2026-07-25T18:14:54+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "a45bf603017858e5c89cf5299312026ef330521f0c7a2a156927a20e3326b342",
@@ -1788,22 +2370,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "0e64138df5c4513d7e0af3f68a9f628ef2abd07d4db12f8aab3749116c6991ab",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss",
-      "title": "Why Epstein’s survivors are still fighting",
-      "content_html": "Why Epstein&#039;s survivors are still fighting",
-      "date_published": "2026-07-25T18:06:09+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -2117,22 +2683,6 @@
       "lang": "fr"
     },
     {
-      "id": "7a0bca31b021a995d0bc787ebc4d48078059bf7d80fa8c3856d5c93759abccc5",
-      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-      "title": "Iran’s government spars with state TV as mediators push talks with US",
-      "content_html": "Gov&#039;t accuses IRIB of &#039;censorship&#039; after parts of president&#039;s speech not aired; station rejects &#039;improper attributions&#039;.",
-      "date_published": "2026-07-25T16:39:16+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "dc8133455e3a0227cbacc677f94e8e13d8cdf81e84028ac9b2cc3088d99581d1",
       "url": "https://elpais.com/internacional/2026-07-25/las-protestas-de-los-jovenes-del-movimiento-de-las-cucarachas-fuerzan-la-dimision-del-ministro-de-educacion-de-la-india.html",
       "title": "Les jeunes du mouvement des « cafards » annoncent la fin de leurs protestations après avoir obtenu la démission du ministre de l'Éducation de l'Inde",
@@ -2267,8 +2817,8 @@
     {
       "id": "0b9715111213aabd8801e559171c9ab0f117b8028cb799045add504a6bad8ad2",
       "url": "https://www.france24.com/en/india-s-cockroach-movement-ends-protests-after-education-minister-resigns",
-      "title": "India’s 'Cockroach' movement ends protests after education minister resigns",
-      "content_html": "Sarah Jacob has more.",
+      "title": "Le mouvement indien des « cafards » met fin aux manifestations après la démission du ministre de l’Éducation",
+      "content_html": "Sarah Jacob en a plus.",
       "date_published": "2026-07-25T16:24:18+00:00",
       "authors": [
         {
@@ -2280,7 +2830,7 @@
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "6296ea1cffbbcf987e58a9d4a8ab9fdccb972c4f1015fee57d0b33b4096c8b59",
@@ -2565,45 +3115,6 @@
       "lang": "en"
     },
     {
-      "id": "970f11897c030c72786d63093a7ce9bcc312c920082fd3fbb06dbbed7dd41ad0",
-      "url": "https://www.ukrinform.net/rubric-defense/4147919-koretskyi-and-khmara-discuss-patriot-missile-supplies-with-raytheon-leadership.html",
-      "title": "Koretskyi and Khmara discuss Patriot missile supplies with Raytheon leadership",
-      "content_html": "Ukrainian Prime Minister Sergii Koretskyi and Acting Defense Minister Yevhenii Khmara discussed the supply of air defense missiles with Raytheon Vice President for Land and Air Defense and the CEO of Raytheon Ukraine.",
-      "date_published": "2026-07-25T15:22:00+00:00",
-      "authors": [],
-      "tags": [
-        "Defense"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f68624df57dde7df1d0837715bf11e4e163c21f59bd1c6598993885ae1331a3c",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/eight-family-members-dead-michigan-fire",
-      "title": "Eight family members found dead in Michigan fire, some with gunshot wounds",
-      "content_html": "<p>Firefighters responded to an emergency call and found the bodies, six of which were those of children</p><p>A devastating tragedy has unfolded in <a href=\"https://www.theguardian.com/us-news/michigan\">Michigan</a> after emergency crews responding to a house fire found eight members of the same family, including six children, dead. At least some of the dead inside the home had gunshot wounds.</p><p>Deputies with the Ottawa county sheriff’s office and firefighters from the Grand Haven fire department were dispatched at about 11.40am local time on Friday to a residence on Riverside Trail in Grand Haven Township.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/25/eight-family-members-dead-michigan-fire\">Continue reading...</a>",
-      "date_published": "2026-07-25T15:18:33+00:00",
-      "authors": [
-        {
-          "name": "Marina Dunbar"
-        }
-      ],
-      "tags": [
-        "Michigan",
-        "US crime",
-        "US news",
-        "Gun crime"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "91656063dc3afe74060b3ea6b05468574ab7e0bfb8c605a1d13e479299b091c1",
       "url": "https://www.france24.com/fr/france/20260725-arcachon-gironde-incendies-ballet-vacanciers-%C3%A9vacu%C3%A9s-respiration",
       "title": "À Arcachon, face aux incendies, un ballet de vacanciers et d'évacués en quête d'une \"respiration\"",
@@ -2683,22 +3194,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "967d5b825dcf6ddfe714ebc95d866dc40e0391bb55a55cd803d342ab1c45303a",
-      "url": "https://www.ukrinform.net/rubric-polytics/4147918-only-us-can-guarantee-credible-deterrence-against-russia-after-ceasefire-expert-says.html",
-      "title": "Only U.S. can guarantee credible deterrence against Russia after ceasefire, expert says",
-      "content_html": "International forces deployed in Ukraine after a possible end to hostilities will have a real deterrent effect only if an attack against them would trigger an unavoidable and effective military response. According to an Austrian military expert, only the United States is capable of fully guaranteeing such a response.",
-      "date_published": "2026-07-25T15:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "3cbbf3b69e8afe8ff4c8ea8a63640d3478d575fea29bdf5a5c37c814c16d7099",
@@ -2823,22 +3318,6 @@
       "lang": "fr"
     },
     {
-      "id": "1b68b4067ba0967f5ce63c4ecb603b0ad352c52fecf74fdccee108b4a6d9bc22",
-      "url": "https://www.ukrinform.net/rubric-ato/4147915-russian-forces-attack-residential-area-in-odesa-region-one-person-injured.html",
-      "title": "Russian forces attack residential area in Odesa region, one person injured",
-      "content_html": "Russian forces attacked the Odesa region, damaging residential areas and civilian infrastructure. One person was injured in the attack.",
-      "date_published": "2026-07-25T14:37:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "78e8537e613704d3deca04d9678ae6c7048afa60bf5359bda7be773ce96f1ccb",
       "url": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
       "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
@@ -2855,22 +3334,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4016bcafd47c0dc060d10f5a9e8b89c780ca86eed36cb92795fa58ab6809411b",
-      "url": "https://www.ukrinform.net/rubric-ato/4147909-arms-exhibition-targeted-in-missile-strike-armada-association-says-exact-location-was-not-publicly-available.html",
-      "title": "Arms exhibition targeted in missile strike: ARMAДА association says exact location was not publicly available",
-      "content_html": "The Association of Manufacturers of Unmanned Systems and Related Technologies ARMADA, which was involved in organizing the event in the Kyiv region, said that the exact location of the event was not publicly available and was shared only with verified participants after registration and screening.",
-      "date_published": "2026-07-25T14:15:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -2949,22 +3412,6 @@
       "lang": "en"
     },
     {
-      "id": "29a2307a6558d3b17d893795cd5852d0765df07d069749c2bfcf900dcef3065f",
-      "url": "https://www.ukrinform.net/rubric-polytics/4147902-sybiha-rejects-retaliation-narrative-calls-russias-black-sea-attacks-systematic-terror.html",
-      "title": "Sybiha rejects 'retaliation' narrative, calls Russia's Black Sea attacks systematic terror",
-      "content_html": "Russia's campaign of terror against civilian shipping in the Black Sea did not begin in 2026 but has been ongoing since 2022, when the Kremlin started attacking Ukrainian port infrastructure, civilian vessels, and their crews.",
-      "date_published": "2026-07-25T13:50:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2acce8b0761c8332af8b202d88011f966498986a279babe1bca23cbe320cae34",
       "url": "https://www.elmundo.es/internacional/2026/07/25/6a64ac9c21efa057448b4572.html",
       "title": "La reine Máxima des Pays-Bas entre dans l'histoire avec sa participation à l'Amsterdam Pride, 25 ans après le premier mariage homosexuel",
@@ -3021,22 +3468,6 @@
       "lang": "fr"
     },
     {
-      "id": "55d0eaa4ece992e5cd59668426d5ee8ac8db5bdbda95fe696b29536d627c1073",
-      "url": "https://www.ukrinform.net/rubric-ato/4147899-ukrainian-forces-repel-assault-by-two-russian-armies-and-tank-division-in-donetsk-region.html",
-      "title": "Ukrainian forces repel assault by two Russian armies and tank division in Donetsk region",
-      "content_html": "The 1st Azov Corps of Ukraine's National Guard, together with adjacent Defense Forces units, repelled a large-scale assault involving two Russian armies and a tank division in the Donetsk region.",
-      "date_published": "2026-07-25T13:28:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a93fca43b5e4768d67257cc19e8d1809fb97a1ba3ea221ed88f12861c68619b0",
       "url": "https://www.lemonde.fr/international/article/2026/07/25/l-onu-appelle-la-communaute-internationale-a-accompagner-et-a-soutenir-le-peuple-syrien_6732376_3210.html",
       "title": "L’ONU appelle la communauté internationale à accompagner et à soutenir le peuple syrien",
@@ -3072,22 +3503,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "b8143b8c9294b5fdc51b15852ceed47bff52d6e158e61aab77f780f740d41f90",
-      "url": "https://www.ukrinform.net/rubric-ato/4147891-ukrainian-forces-strike-russian-radar-ammunition-depot-drone-control-centers.html",
-      "title": "Ukrainian forces strike Russian radar, ammunition depot, drone control centers",
-      "content_html": "Ukraine's Defense Forces struck a Russian early-warning radar station, an ammunition depot, drone control centers, and several other military targets in the temporarily occupied territories of Ukraine and inside the Russian Federation on July 24 and overnight into July 25.",
-      "date_published": "2026-07-25T13:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
     },
     {
       "id": "594d5577437855d80899d63542be28fc98aebcedfcf82999a51cff2c0f62c5cf",
@@ -3211,28 +3626,10 @@
       "lang": "fr"
     },
     {
-      "id": "64f3851f4f0ba53556730ecc633ee5c005c699d881141e034e9f8590f6dab41f",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260725-incendies-en-gironde-bordeaux-accueille-les-%C3%A9vacu%C3%A9s-face-%C3%A0-l-avanc%C3%A9e-des-flammes",
-      "title": "Incendies en Gironde : Bordeaux accueille les évacués face à l'avancée des flammes",
-      "content_html": "Hors de contrôle, les incendies ravagent la Gironde et se rapprochent de Bordeaux, entraînant des dizaines de milliers d'évacuations qui se poursuivent sans relâche. Dans les gymnases bordelais transformés en centres d'urgence, où sont présentés les reporters de France 24, des milliers de sinistrés sont pris en charge. Entre angoisse et incertitude, les déplacés gardent les yeux rivés sur leurs téléphones pour suivre l'évolution de la situation.",
-      "date_published": "2026-07-25T12:42:46+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "f652e3fd11ff5a47d635293a2bec5205d5ea721f83d59fdffde6227727930807",
       "url": "https://www.france24.com/en/wildfires-force-200-000-people-to-evacuate-in-the-southwest-of-france",
-      "title": "Wildfires force 200,000 people to evacuate in the southwest of France",
-      "content_html": "Luke Shrago has more.",
+      "title": "Les incendies de forêt obligent 200 000 personnes à évacuer dans le sud-ouest de la France",
+      "content_html": "Luke Shrago en a plus.",
       "date_published": "2026-07-25T12:42:17+00:00",
       "authors": [
         {
@@ -3244,23 +3641,7 @@
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
       },
-      "lang": "en"
-    },
-    {
-      "id": "55c33823a8d69e20b7d507fa53ccc43262fa730353a2dd0994075ef7d1b6d834",
-      "url": "https://www.ukrinform.net/rubric-ato/4147887-ukrainian-sof-confirm-strike-on-tyumen-oil-refinery.html",
-      "title": "Ukrainian SOF confirm strike on Tyumen Oil Refinery",
-      "content_html": "Ukraine's Special Operations Forces (SOF) have confirmed a successful strike on the Tyumen Oil Refinery, one of Russia's largest independent refineries located more than 2,000 kilometers from Ukraine.",
-      "date_published": "2026-07-25T12:42:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "1f17ebaaf2532240a0b0350d9fe86bf27c5129ecc9115271200471a6d39e1218",
@@ -3399,40 +3780,6 @@
       "lang": "fr"
     },
     {
-      "id": "b6e9849928e7915c68d0a588b8793b7eb31af618dbc9ccb5e33c1a7f8a6bc17d",
-      "url": "https://www.lemonde.fr/afrique/visuel/2026/07/25/tunisie-autopsie-d-un-basculement-autoritaire_6732308_3212.html",
-      "title": "La Tunisie, autopsie d’un basculement autoritaire",
-      "content_html": "Depuis que le processus de concentration des pouvoirs s’est enclenché, le 25 juillet 2021, le chef de l’Etat tunisien a peu à peu verrouillé l’espace public. Arrestations et condamnations se sont multipliées. « Le Monde » s’est plongé dans cinq ans de machine répressive.",
-      "date_published": "2026-07-25T12:00:05+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "12a6784d2ded56e5c024ccd6f8e4bcd2ecb65738ec896cc1ab0c0500f230c1b4",
-      "url": "https://www.france24.com/en/americas/20260725-spacex-starship-splashes-down-in-indian-ocean-after-successful-test-flight",
-      "title": "SpaceX's Starship splashes down in Indian Ocean after successful test flight",
-      "content_html": "US aerospace company SpaceX carried out a successful test flight of its14-storey Starship rocket Friday, blasting off from Texas to land gently in the waters of the Indian Ocean. It's the first such success since US tech billionaire Elon Musk's SpaceX went public in June.",
-      "date_published": "2026-07-25T11:54:38+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Americas"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
       "id": "853698b29d712fcc177cd1dbaf19007354875ff59c525831fbf4cefda5f8d57e",
       "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-rdf",
       "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
@@ -3532,49 +3879,6 @@
       "lang": "fr"
     },
     {
-      "id": "a13e35164e88dc0ef222ae842c42ff8c182f6c9eea912fb446328344340587e9",
-      "url": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
-      "title": "🔴 Live: France deploys military plane as wildfires spread towards Bordeaux",
-      "content_html": "",
-      "date_published": "2026-07-25T10:45:09+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "eac49c982343cef90dfe45560ed8da7e7c7921f4bb8ea3faddfe4491ce81473c",
-      "url": "https://www.theguardian.com/law/2026/jul/25/southport-killer-axel-rudakubana-trying-to-retraumatise-families-from-cell-says-lawyer",
-      "title": "Southport killer ‘trying to retraumatise families from cell’, says lawyer",
-      "content_html": "<p>Comment follows news Axel Rudakubana was transferred from prison to psychiatric hospital</p><p>The lawyer for the families of Axel Rudakubana’s victims has said the Southport killer is “trying to retraumatise the families from his cell” after it emerged <a href=\"https://www.theguardian.com/uk-news/2026/jul/23/southport-killer-moved-from-prison-to-psychiatric-hospital\">he had been transferred from prison to a psychiatric hospital</a>.</p><p>Rudakubana, now 19, was given a life sentence for the murders of Alice da Silva Aguiar, nine, Bebe King, six, and Elsie Dot Stancombe, seven, and the attempted murder of eight other children and two adults.</p> <a href=\"https://www.theguardian.com/law/2026/jul/25/southport-killer-axel-rudakubana-trying-to-retraumatise-families-from-cell-says-lawyer\">Continue reading...</a>",
-      "date_published": "2026-07-25T10:18:20+00:00",
-      "authors": [
-        {
-          "name": "Sammy Gecsoyler"
-        }
-      ],
-      "tags": [
-        "Southport attack",
-        "Sentencing",
-        "Prisons and probation",
-        "UK criminal justice",
-        "UK news",
-        "Law"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2b93574cf5018a9f0ef9ea2e59ef1a750d8ddbe428681b83e45fa7bafe2dffdf",
       "url": "https://www.elmundo.es/internacional/2026/07/25/6a645acde9cf4a90318b4589.html",
       "title": "Guterres arrive en Syrie pour une visite historique, la première d'un chef de l'ONU depuis 2009",
@@ -3593,94 +3897,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "0e35015c6143eee549481237d03a34c7efd12c0f50b8062a87fbd7788d2a399a",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
-      "content_html": "<p>After a Kyiv visit, rightwing firebrand now supports Ukraine – but perhaps it’s just because Trump favors a winner</p><p>Laura Loomer, the online Maga provocateur, has never worked in the White House or anywhere else in the government, but <a href=\"https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit\">her sudden conversion to the Ukrainian cause</a> this week is significant because her social media posts often have real policy implications in the second <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>.</p><p>The rightwing commentator has spent the last few days in <a href=\"https://www.theguardian.com/world/kyiv\">Kyiv</a>, where she announced a newfound sympathy for <a href=\"https://www.theguardian.com/world/ukraine\">Ukraine</a> in its long war with <a href=\"https://www.theguardian.com/world/russia\">Russia</a>, and admitted that she had previously fallen for Russian propaganda.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit\">Continue reading...</a>",
-      "date_published": "2026-07-25T10:00:40+00:00",
-      "authors": [
-        {
-          "name": "James Risen"
-        }
-      ],
-      "tags": [
-        "Donald Trump",
-        "Trump administration",
-        "Social media",
-        "US politics",
-        "US news",
-        "Ukraine",
-        "Russia",
-        "Europe",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "8210539ebe12d7c6dee6b1d2fbc8ad45a81ac4ee669f6f271a23e8c565190e03",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-      "title": "Lucy Harrison’s father was holding the gun that killed her but was never arrested. Now her mother wants Andy Burnham to take up the case",
-      "content_html": "<p>Eighteen months after her daughter’s death in Texas, Jane Coates hopes new PM can persuade US authorities to reopen case</p><p>Lucy Harrison felt that 2024 was her best year yet. The 23-year-old had graduated from university with first class honours, landed her dream job and bought her first house with her boyfriend. She was a “big girl adult” now, Lucy would say. She shed tears of joy seeing her idol, Taylor Swift, at Wembley on the Eras tour that summer. Life could hardly get any better. “All the hard work, all the tears, everything was coming to fruition<em>,”</em> said her mother, Jane Coates, from Warrington in north-west England.</p><p>That Christmas, Lucy and her boyfriend, Sam Littler, flew to Texas to spend time with her father, Kris Harrison, who had left the family home when she was two. The pair had a complex relationship – Harrison was a recovering alcoholic – and Littler, 24, did not want them to go. But Lucy enjoyed seeing her two younger half-sisters at their home in Prosper, an affluent suburb 30 miles north of Dallas.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas\">Continue reading...</a>",
-      "date_published": "2026-07-25T10:00:40+00:00",
-      "authors": [
-        {
-          "name": "Josh Halliday North of England editor"
-        }
-      ],
-      "tags": [
-        "US gun control",
-        "Cheshire",
-        "UK news",
-        "Andy Burnham",
-        "Labour",
-        "US policing",
-        "Politics",
-        "Violence against women and girls",
-        "Society",
-        "US news",
-        "North of England",
-        "US justice system",
-        "Texas"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "b17fe25c3441450877f6ae78d878ae71d8e591d771d5b58723a216e1596e5b3d",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/dans-l-ocean-atlantique-la-difficile-lutte-de-la-marine-francaise-contre-le-trafic-de-cocaine_6732170_3451060.html",
-      "title": "La marine française arpente l’océan Atlantique à la recherche de « clients », ces navires chargés de cocaïne en route vers l’Europe",
-      "content_html": "« L’Afrique sous emprise » (6/6). La France assure depuis 1990 une présence militaire quasi permanente le long du littoral ouest-africain pour tenter d’endiguer le trafic de drogue qui inonde l’Europe.",
-      "date_published": "2026-07-25T10:00:09+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "c436b3d6a1487d7668bbcc86ba86d124707338cfbbb14a7865bab9b4493e69a3",
-      "url": "https://www.lemonde.fr/international/article/2026/07/25/en-inde-le-ministre-de-l-education-demissionne-sous-la-pression-des-etudiants-en-colere-contre-les-fraudes-aux-examens_6732169_3210.html",
-      "title": "Inde : le ministre de l’éducation démissionne sous la pression des étudiants et du Parti du peuple des cafards",
-      "content_html": "Pancartes à l’effigie du ministre de l’éducation indien, Dharmendra Pradhan, lors d’une manifestation à Bombay (Inde), le 2 juin 2026.",
-      "date_published": "2026-07-25T09:58:28+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
     },
@@ -3714,26 +3930,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "1fc3ce6e88fa5107c67567457412562ce310ee23d37edfae82055629c2f53a16",
-      "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
-      "title": "Indian education minister resigns after mass protests over exam paper leaks",
-      "content_html": "India's Education Minister Dharmendra Pradhan said on Saturday he had resigned from his post following mass protests calling for his dismissal. Public trust in India's university testing system has been undermined by a series of exam irregularities, including the leaking of a medical entrance question paper that forced more than two million candidates to re-sit the test.",
-      "date_published": "2026-07-25T09:38:35+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Asia / Pacific"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
     },
     {
       "id": "c3adf8f0aabbd9584f115c84e9ec54ccda1e139162688787aaa5636dd90905d0",
@@ -4041,31 +4237,6 @@
       "lang": "en"
     },
     {
-      "id": "5607b35869668f104605fa991ea23333743fd1a6dfc88c6f244319c31914efb4",
-      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
-      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
-      "content_html": "<p>Officials have long lobbied for peak that rises 2,918 metres above sea level to be given coveted designation</p><p>More than four decades have elapsed since Evangelos Geroliolios made his first ascent to the home of the ancient gods. At the top of Mount Olympus, on the rocky peak of Greece’s highest mountain, he felt unalloyed awe.</p><p>“I’ve never forgotten that unique moment, that unique feeling up there on the throne of Zeus,” recalled Geroliolios, who as mayor of Dion-Olympus now spends a great deal of his time administering the area around the site.</p> <a href=\"https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites\">Continue reading...</a>",
-      "date_published": "2026-07-25T04:00:32+00:00",
-      "authors": [
-        {
-          "name": "Helena Smith in Litochoro"
-        }
-      ],
-      "tags": [
-        "Greece",
-        "Unesco",
-        "Mountains",
-        "Europe",
-        "Environment",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "cc11956466fac7b4dfb7c68e9a430eddf463056cd8c8dd412b2f6fcd33e6cfa2",
       "url": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-rdf",
       "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
@@ -4196,22 +4367,6 @@
       "lang": "en"
     },
     {
-      "id": "562b6623c344cae908ccdd0cf1536f94b9215e76768a94830d330e2ed25903f1",
-      "url": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-rdf",
-      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-      "content_html": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Iran also vie for control of the vital Strait of Hormuz. DW has more.",
-      "date_published": "2026-07-25T00:50:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "63572c6c73eb364989a1f5e9624d7c00048be44901192880def22f269264b7d4",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -4277,22 +4432,6 @@
       "lang": "en"
     },
     {
-      "id": "a775bc728292bbc4ebe7fb41756067f07d41fc7ee36ffd34d25057e4db628af9",
-      "url": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-rdf",
-      "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
-      "content_html": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create a \"media behemoth\" that would harm the US entertainment industry.",
-      "date_published": "2026-07-24T22:40:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b66b5d17027c4409f9f02baff1135ae5affdbf770e8584a4a08f15dd6bb9a0cf",
       "url": "https://www.elmundo.es/internacional/2026/07/25/6a62037dfc6c83fe418b45b2.html",
       "title": "Le sac des vents",
@@ -4337,22 +4476,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c8b36d48fa10f396b85f7eb456abb2feb87021ee612759f966bf6c9e5d41258d",
-      "url": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-rdf",
-      "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
-      "content_html": "Members of the International Criminal Court have voted to remove Chief Prosecutor Karim Khan amid allegations of sexual misconduct. Khan has denied the accusations.",
-      "date_published": "2026-07-24T21:07:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
     },
@@ -5383,31 +5506,6 @@
       "lang": "fr"
     },
     {
-      "id": "fd814ee30503c38ab2fe5b0ac71971a64a644161fc74a9dc01b8d4bd6fadab5f",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/24/university-courses-covering-israel-palestine-should-be-audited-julian-leeser-tells-royal-commission-ntwnfb",
-      "title": "University courses covering Israel-Palestine should be audited, Julian Leeser tells royal commission",
-      "content_html": "<p>Inquiry’s focus this week is on security for the Jewish community, with the MP telling the commissioner his son is afraid to attend synagogues and events</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The shadow education minister, Julian Leeser, has called for universities to undertake an audit of any classes that teach about the Jewish community, Israel or Palestine.</p><p>Appearing before the <a href=\"https://www.theguardian.com/australia-news/royal-commission-on-antisemitism-and-social-cohesion\">royal commission</a> into antisemitism and social cohesion on Friday, Leeser said he had been “very concerned” about antisemitism on university campuses and was not satisfied with how vice-chancellors had addressed the issue after the 7 October 2023 Hamas terrorist attack.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/24/university-courses-covering-israel-palestine-should-be-audited-julian-leeser-tells-royal-commission-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-07-24T08:30:18+00:00",
-      "authors": [
-        {
-          "name": "Caitlin Cassidy"
-        }
-      ],
-      "tags": [
-        "Royal commission on antisemitism and social cohesion",
-        "Australia news",
-        "Bondi beach terror attack",
-        "Antisemitism",
-        "Israel",
-        "Palestine"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "cba4ff0a9c6f54269aa7796a5f294a2d24473eb354693f9e08f239539cfe2b78",
       "url": "https://www.elmundo.es/internacional/2026/07/24/6a631d84fdddffc44c8b45a3.html",
       "title": "Merz remodèle le gouvernement allemand pour faire face à un automne critique",
@@ -5430,37 +5528,6 @@
       "lang": "fr"
     },
     {
-      "id": "5977c4550f9b1e24777c61790ac36c87e761b9bee6c34d36acc77839f7e78d70",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
-      "title": "Weather tracker: More than 900 wildfires rage across Canada",
-      "content_html": "<p>Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat</p><p>Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 were burning, scorching about 3m hectares of land. While fires have broken out in several provinces, the greatest concern is in the <a href=\"https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government\">Northwest Territories and Ontario</a>, where several remain out of control.</p><p>Poor air quality has been reported across affected regions, with wildfire smoke carried by winds into the US and even across the Atlantic to northern Europe. The risk of further blazes remains high as North America enters the peak of fire season.</p> <a href=\"https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat\">Continue reading...</a>",
-      "date_published": "2026-07-24T08:11:31+00:00",
-      "authors": [
-        {
-          "name": "James Michelin for MetDesk"
-        }
-      ],
-      "tags": [
-        "Extreme heat",
-        "Environment",
-        "Wildfires",
-        "Canada",
-        "US news",
-        "Americas",
-        "World news",
-        "Argentina",
-        "El Niño southern oscillation",
-        "Philippines",
-        "China",
-        "Asia Pacific"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "44ca7d3e1abb455512d82bee0af07177a2ef095c7f5b63cf3e73f978a2c96ab5",
       "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
       "title": "Families still search for bodies a month after Venezuela earthquakes",
@@ -5478,7 +5545,7 @@
       "id": "d28efe318cc406504a5b664bde68516c0f4489421bf41f9f5650eb71a66dc4b3",
       "url": "https://www.elmundo.es/internacional/2026/07/24/6a62f303fc6c83dd578b4585.html",
       "title": "Les Bolsonaro font la paix à temps pour recevoir Milei au Brésil",
-      "content_html": "Ce samedi, Flávio sera officiellement proclamé candidat à la présidence à São Paulo, un événement auquel assistera Milei, qui a déjà déclaré à plusieurs reprises en public qu'il souhaitait la défaite de l'actuel président, le gauchiste Lula da Silva.",
+      "content_html": "Ce samedi, Flávio sera officiellement proclamé candidat à la présidentielle à São Paulo, un événement auquel assistera Milei, qui a déjà déclaré à plusieurs reprises en public qu'il souhaitait la défaite de l'actuel président, le gauchiste Lula da Silva.",
       "date_published": "2026-07-24T05:07:19+00:00",
       "authors": [
         {
@@ -6899,27 +6966,6 @@
       "lang": "fr"
     },
     {
-      "id": "464135a831f83cf51d9f0c5213a6bd997cf8eca015c66bb953b9e64690bc29f6",
-      "url": "https://www.elmundo.es/internacional/2026/07/22/6a5f94cffdddff2f538b45df.html",
-      "title": "Israël et le Venezuela, en train de rétablir les relations diplomatiques rompues par Chávez",
-      "content_html": "La capture de Maduro et l'aide israélienne après le double tremblement de terre ouvrent la porte à un plus grand rapprochement",
-      "date_published": "2026-07-22T13:27:28+00:00",
-      "authors": [
-        {
-          "name": "Sal Emergui"
-        }
-      ],
-      "tags": [
-        "Israel",
-        "Venezuela"
-      ],
-      "source": {
-        "name": "Internacional // elmundo",
-        "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "319600e758729462594fdb00a5ad80a0e3309f115768b07d8be36b3fbb0a7b49",
       "url": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
       "title": "State Duma Passes ‘Civic Death’ Bills Cutting Off Exiled Critics From Banking and Consular Services",
@@ -7187,42 +7233,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "85fc8d7c58d68cfc1b4e4079fc5b184d377dc7595897b32b2a8bdaba8be429d0",
-      "url": "https://www.liberation.fr/international/amerique/la-montagne-de-la-pioche-prochaine-cible-de-washington-en-iran-20260722_RQKNUJIDYRA7FLVYYHMDZJSKKI/",
-      "title": "La «Montagne de la Pioche», prochaine cible de Washington en Iran ?",
-      "content_html": "Selon les renseignements israéliens, l’Iran aurait transféré des milliers de centrifugeuses vers un site souterrain près de Natanz. De quoi nourrir les spéculations sur des frappes américaines, évoquées publiquement par Donald Trump.",
-      "date_published": "2026-07-22T07:54:46+00:00",
-      "authors": [
-        {
-          "name": "Frédéric Autran"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "540aa80306e93bbff994fa9e617e47913f9b8f64b43836d9bab2cb100694104f",
-      "url": "https://www.liberation.fr/international/amerique/guerre-en-iran-le-ministre-americain-de-la-defense-estime-a-375-milliards-de-dollars-le-cout-des-operations-20260722_2Z3EJ4SB5NFU7OLNHFQCYOYEME/",
-      "title": "Guerre en Iran : le ministre américain de la défense estime à 37,5 milliards de dollars le coût des opérations",
-      "content_html": "Le ministre américain de la Défense, Pete Hegseth, a livré mardi 21 juillet une première estimation du montant engagé depuis le début du conflit, incluant des coûts anticipés.",
-      "date_published": "2026-07-22T07:41:50+00:00",
-      "authors": [
-        {
-          "name": "Libération ., AFP ."
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
     },
     {
       "id": "87b5777b31198f9f147573fcef26b833b2250836423d240eb9f61dfd396ebd23",
@@ -7944,22 +7954,6 @@
         "url": "https://elpais.com"
       },
       "lang": "fr"
-    },
-    {
-      "id": "8d8d53326394d78899a06bdf4304ef45d25ecce5981fcb4d97dbc1938f6a130b",
-      "url": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-rdf",
-      "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-      "content_html": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their child through a surrogate mother in the US.",
-      "date_published": "2026-07-18T19:57:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
     },
     {
       "id": "7dd81cb7160ead27da225276567beda9c366e0a51928844e3ec230428908ca3c",
