@@ -5,45 +5,65 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "c84e90d116a21e640f10abc4234b94607e03997fb35996d34d432f14aeb4f789",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276574/accident-avion-cb",
-      "title": "Un avion fait un mort sur une route de la Colombie-Britannique",
-      "content_html": "<p>Le petit avion s’est a attérri en urgence sur une route fréquentée de Prince George.</p>",
-      "date_published": "2026-08-21T02:00:26+00:00",
+      "id": "fd8a66ea443d7eb9e4024368361c7a172222a3fb7d2cf08224ef9127d660a691",
+      "url": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-all-1573-rdf",
+      "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
+      "content_html": "US President Donald Trump's administration is ramping up third country deportations, with Mexican deportees being sent to Guatemala and reportedly Honduras in the past year.",
+      "date_published": "2026-08-21T03:23:00+00:00",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "News"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
-      "id": "19c0b2868338c5b46e2ef57b25aa74fe29579b08a153f79f7eeefa72bdb71200",
-      "url": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
-      "title": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Iran",
-      "content_html": "Après près de six mois de guerre et faute de percée diplomatique, l'administration Trump veut mobiliser ses alliés et la Chine dans une campagne de pression économique maximale contre Téhéran, quitte à menacer de lourdes conséquences les pays qui continueraient à commercer avec l'Iran.",
-      "date_published": "2026-08-21T01:53:55+00:00",
+      "id": "0353bc48d5f75e48ea6ad6ee82f93d19ee1229b2480c715c6b0bab728741f2e4",
+      "url": "https://www.ukrinform.net/rubric-ato/4156131-russian-drone-hits-residential-building-in-sumy-two-injured.html",
+      "title": "Russian drone hits residential building in Sumy, two injured",
+      "content_html": "Two people were injured after a Russian drone struck a residential building in Sumy.",
+      "date_published": "2026-08-21T03:21:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7be96c31445db4aece1007f46767df57802b361ebfba3bc1ec873ecc5e634810",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/alleged-rapist-arrested-after-returning-to-brisbane-scene-police-say-ntwnfb",
+      "title": "Alleged rapist arrested after returning to Brisbane crime scene that night, police say",
+      "content_html": "<p>Man, 32, charged with six counts of rape, stalking and assault after woman was allegedly attacked in Brookfield</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Queensland police say a man accused of raping and assaulting a young woman, who was taking a morning bushwalk, has been arrested after he returned to the crime scene in his vehicle later that evening.</p><p>A woman, aged in her 20s, was walking in the semi-rural Brisbane suburb of Brookfield about 6.30am on Thursday when she was allegedly stopped by the man and sexually assaulted. She told police her attacker fled on foot.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/21/alleged-rapist-arrested-after-returning-to-brisbane-scene-police-say-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-08-21T03:14:19+00:00",
       "authors": [
         {
-          "name": "FRANCE 24"
+          "name": "Ben Smee"
         }
       ],
       "tags": [
-        "Moyen-Orient"
+        "Queensland",
+        "Brisbane",
+        "Australia news"
       ],
       "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
-      "lang": "fr"
+      "lang": "en"
     },
     {
       "id": "909145401ea37628f98ab74b13da5e15b2671e07ccd7f6cb515d234328fb22fb",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-      "title": "Australia news live: Catholic Schools NSW chief executive Dallas McInerney sacked after Icac appearance; Brethren church denies paying far-right activists",
-      "content_html": "<p>Schools’ governing body says there is a loss of confidence in McInerney’s ability to lead the organisation. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Woman behind allegation of sexual assault linked to Sydney Swans reportedly says she wants ‘justice’</strong></p><p>The woman who alleges she was sexually assaulted in a Melbourne hotel told the Herald Sun “all I care about is justice”.</p><p>I don’t want money. All I care about is justice. I’m going to stand up for what is right. And I’m never going to let this happen to anyone else. Justice will be served.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-08-21T01:53:00+00:00",
+      "title": "Australia news live: Brethren church denies paying far-right activists; Russian dual citizen charged with alleged foreign interference",
+      "content_html": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Woman behind allegation of sexual assault linked to Sydney Swans reportedly says she wants ‘justice’</strong></p><p>The woman who alleges she was sexually assaulted in a Melbourne hotel told the Herald Sun “all I care about is justice”.</p><p>I don’t want money. All I care about is justice. I’m going to stand up for what is right. And I’m never going to let this happen to anyone else. Justice will be served.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-08-21T03:13:44+00:00",
       "authors": [
         {
           "name": "Nick Visser"
@@ -70,6 +90,268 @@
         "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
+    },
+    {
+      "id": "1b088c03d4e3a53e1395b606d82b48fc68a6fe37d4980a7ebf2349033b821414",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+      "title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
+      "content_html": "Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.",
+      "date_published": "2026-08-21T03:08:09+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "058629545c26175dbf01823570266176a0af3a049fb5754d58406c99232da0f1",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+      "title": "Scott Bessent, le secrétaire américain au Trésor, se croit capable de défier la toute-puissance des marchés obligataires",
+      "content_html": "Scott Bessent, secrétaire au Trésor américain, à la Maison Blanche, à Washington, le 20 août 2026.",
+      "date_published": "2026-08-21T03:00:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cb354d0da8a39a329e832ec74cee7ff54a2a9e07f5a11665b510a9eb8f4452b7",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html",
+      "title": "Entre l’Iran et les Emirats arabes unis, la fragile désescalade vole en éclats",
+      "content_html": "Au large de Dubaï (Emirats arabes unis), le 31 juillet 2026.",
+      "date_published": "2026-08-21T03:00:07+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3231ffb9e3b1cd0d38ac1916f0547b01b42125dbb18d432675433b3a65211047",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "content_html": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "date_published": "2026-08-21T02:59:46+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a66b5c62fbe0e6577f110b7354143edfcc95f007283f2c42b042c32edbac37c4",
+      "url": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html",
+      "title": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño",
+      "content_html": "Un cargo battant pavillon libérien dans le canal de Panama, le 13 mars 2026.",
+      "date_published": "2026-08-21T02:48:12+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "444de06efdb002eb14953c834bb823dd6d5e9d1232028e008ea85bc6fa779868",
+      "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
+      "content_html": "<p>Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law</p><p>Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in a case widely criticised as exemplifying the erosion of freedom of expression in the Chinese city.</p><p>Lee Cheuk-yan, 69, and Chow Hang-tung, 41 “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”, a press summary handed out to reporters said.</p> <a href=\"https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung\">Continue reading...</a>",
+      "date_published": "2026-08-21T02:45:42+00:00",
+      "authors": [
+        {
+          "name": "Guardian staff and agencies"
+        }
+      ],
+      "tags": [
+        "Hong Kong",
+        "China",
+        "Freedom of speech",
+        "Asia Pacific"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "40fd2d0ff8f79ea640a18906846e1fb51ea119ddc9ddf97b789e7595c29c26f2",
+      "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "title": "Hong Kong convicts activists in national security trial",
+      "content_html": "The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high profile case has been widely criticized for highlighting the deterioration of freedom of expression.",
+      "date_published": "2026-08-21T02:39:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3484fc075bb553e1b59d25bbaa3d44a29e6c56a240452bf5e4fa0cd88f908db3",
+      "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
+      "title": "US warns allies and China to join Iran economic pressure campaign",
+      "content_html": "The United States on Thursday urged allies and China to join its campaign to isolate Iran's economy, as President Donald Trump seeks to intensify pressure on Tehran amid a stalemate in the war and growing domestic criticism.",
+      "date_published": "2026-08-21T02:38:09+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Middle East"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f6031613679718fffc01e33ca0be5efea865d560d965d44c62e8c5c6606d3575",
+      "url": "https://ici.radio-canada.ca/nouvelle/2276580/melania-trump-revient-apres-absence",
+      "title": "Mélania Trump revient après un mois à l’écart du public",
+      "content_html": "<p>«&nbsp;Bonjour, il paraît que je vous ai manqué. Me voilà&nbsp;», a lancé la première dame américaine.</p>",
+      "date_published": "2026-08-21T02:36:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f2f548552624a6a8e7f9f9fa9f8cceb891fc566c01201e0c9350879c17bba163",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "content_html": "The 26-year-old sparked anger with an expletive-laden post about the sacred holiday.",
+      "date_published": "2026-08-21T02:33:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e50a0fbf3b3872fbdc0e4f7a4aad36c9a5d3c50461f49d2b15564e5be03e9ca8",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/21/catholic-schools-nsw-ceo-dallas-mcinerney-sacked-after-icac-ntwnfb",
+      "title": "Catholic Schools NSW boss sacked after appearance at Icac inquiry into alleged Liberal party corruption",
+      "content_html": "<p>Watchdog investigating whether Dallas McInerney arranged illegal political donations from schools to lobbying companies controlled by the Reformers</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The chief executive of Catholic Schools New South Wales, Dallas McInerney, has been sacked after appearing at a watchdog inquiry into allegations of corruption in the state’s Liberal party.</p><p>The NSW Independent Commission Against Corruption (Icac) is investigating the allegation that McInerney, who gave evidence to the inquiry this week and last week, arranged and approved illegal political donations from Catholic Schools NSW to lobbying companies controlled by conservative factional group the Reformers, under the guise of consultancy services.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/21/catholic-schools-nsw-ceo-dallas-mcinerney-sacked-after-icac-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-08-21T02:17:39+00:00",
+      "authors": [
+        {
+          "name": "Penry Buckley"
+        }
+      ],
+      "tags": [
+        "Independent Commission Against Corruption",
+        "New South Wales",
+        "Australia news",
+        "New South Wales politics"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c0cb3840a88b61bc0c023a0c51f1071477a3233a3e581afb16b1644f1499bb42",
+      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "content_html": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
+      "date_published": "2026-08-21T02:11:33+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3a722af563660550679b80c446240cd1d6b8e3b8e84ad4d39ec09fe0a5396312",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "title": "US sanctions more Cuban companies and officials",
+      "content_html": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
+      "date_published": "2026-08-21T02:06:28+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "09665511e50f5ba2aa8448f8bd76a7fd21dab37157f43f6d1d22a0273f9140e0",
+      "url": "https://ici.radio-canada.ca/nouvelle/2276574/accident-avion-prince-george",
+      "title": "Un avion fait un mort sur une route de la Colombie-Britannique",
+      "content_html": "<p>Le petit avion a atterri en urgence sur une route fréquentée de Prince George.</p>",
+      "date_published": "2026-08-21T02:00:26+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8f5d5487892262add7aa66317ba78a06e8aaffbdf039b7319e65d702ae1b6acc",
+      "url": "https://www.ukrinform.net/rubric-society/4156074-twothirds-of-ukrainians-believe-future-will-bring-positive-changes.html",
+      "title": "Two-thirds of Ukrainians believe future will bring positive changes",
+      "content_html": "Two-thirds of Ukrainians surveyed believe they will have a better life in the future, while their thoughts about it are accompanied by both hope (47%) and anxiety (43%).",
+      "date_published": "2026-08-21T02:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "19c0b2868338c5b46e2ef57b25aa74fe29579b08a153f79f7eeefa72bdb71200",
+      "url": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
+      "title": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Iran",
+      "content_html": "Après près de six mois de guerre et faute de percée diplomatique, l'administration Trump veut mobiliser ses alliés et la Chine dans une campagne de pression économique maximale contre Téhéran, quitte à menacer de lourdes conséquences les pays qui continueraient à commercer avec l'Iran.",
+      "date_published": "2026-08-21T01:53:55+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Moyen-Orient"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
     },
     {
       "id": "a80178730dcde5f9e02d6d38d0f1b93d73ab9b51c55c7829177977c57c385b8d",
@@ -222,6 +504,20 @@
       "source": {
         "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "07ca21740f8fa834b09b82fd5212193ff8a059c48777dd2cb9ed067330420672",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "content_html": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "date_published": "2026-08-21T00:33:21+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -475,6 +771,20 @@
       "lang": "fr"
     },
     {
+      "id": "b0cdae571b32c41f26554445b3de543a9ed2d2a45adb0e8539834d0180d5b42a",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "title": "Why the US economy is ringing alarm bells",
+      "content_html": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "date_published": "2026-08-20T23:15:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "6ab3d66b489fc16d621c7988b2973e70ba8c7b965d036a3d921e14cb36cb3748",
       "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
       "title": "Jailed ex-Pakistani PM Imran Khan in hospital after uproar over health",
@@ -714,9 +1024,9 @@
       "lang": "en"
     },
     {
-      "id": "1d6f59258121bd5fa87d16b7349128623f223e72eb8b849f27b1a1305ba5e1a7",
-      "url": "https://www.dw.com/en/pakistan-former-pm-khan-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
-      "title": "Pakistan: Former PM Khan moved to private hospital",
+      "id": "61d7154299ffa45b5abb4f6b8cad55756d1769fb1d0be4e7fd9ffcc344839ccc",
+      "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+      "title": "Pakistan: Former PM Khan briefly moved to private hospital",
       "content_html": "Khan's supporters say his health has deteriorated during more than ​three years in prison since being removed from office in 2022.",
       "date_published": "2026-08-20T21:56:00+00:00",
       "authors": [],
@@ -1204,7 +1514,7 @@
       "id": "a4124e87b9c157a76c185d37f3c10cd78fd30d76347fbedabdd7f0df8d52b7b8",
       "url": "https://www.lemonde.fr/international/article/2026/08/20/hind-rajab-la-famille-de-la-fillette-tuee-a-gaza-en-2024-dit-ne-pas-faire-confiance-a-la-justice-israelienne-apres-que-l-armee-a-reconnu-avoir-ouvert-le-feu_6751329_3210.html",
       "title": "Hind Rajab : la famille de la fillette, tuée à Gaza en 2024, dit ne pas faire confiance à la justice israélienne, après que l’armée a reconnu avoir ouvert le feu",
-      "content_html": "La grand mère de Hind Rajab, à Gaza, le 20 août 2026.",
+      "content_html": "La grand-mère de Hind Rajab, à Gaza, le 20 août 2026.",
       "date_published": "2026-08-20T20:06:38+00:00",
       "authors": [],
       "tags": [],
@@ -1377,20 +1687,6 @@
       "lang": "en"
     },
     {
-      "id": "89f56900ea8c7570bfc81863fad556bb67d3f9a26bc2731e69c6bd8bd5f079b0",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276331/ukraine-morts-kiev-bombardements-russes",
-      "title": "Ukraine : au moins 16 morts dans des frappes russes, Zelensky dénonce une « escalade »",
-      "content_html": "<p>Les bombardements se sont produits dans la nuit de mercredi à jeudi.</p>",
-      "date_published": "2026-08-20T19:43:45+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "3005ca1304f030c405b9b9e00a6ca745455cd888ed4689f95ce7761e0725e926",
       "url": "https://www.liberation.fr/international/amerique/au-perou-un-puissant-seisme-frappe-le-sud-du-pays-20260820_2H2L7W3W6FHEPMJPKHVYGZFTSA/",
       "title": "Au Pérou, un puissant séisme frappe le sud du pays",
@@ -1542,38 +1838,6 @@
       "title": "University suspends US academic leading Jason Arday plagiarism accusations",
       "content_html": "Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.",
       "date_published": "2026-08-20T19:13:53+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "02a0b6a8fa67610ce5e5db034670c372ebf10f8154932c4d8d54ae3b65669ed3",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-      "content_html": "Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka&#039;s match fitness.",
-      "date_published": "2026-08-20T19:12:56+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "16ff7fe6e6151cf9b077a9d19163a4dbc1daf9db1faed868c38d10463e3b3740",
-      "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-      "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-      "content_html": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
-      "date_published": "2026-08-20T19:11:44+00:00",
       "authors": [],
       "tags": [
         "News"
@@ -2459,20 +2723,6 @@
       "lang": "en"
     },
     {
-      "id": "bc0a827e77b97bff61e95c1473066b2c031635f12f3d26c77d1c3f5054ecc5d9",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276389/churchill-falls-remaniement-ministre",
-      "title": "Churchill Falls en toile de fond d’un important remaniement ministériel à T.-N.-L.",
-      "content_html": "<p>Au total, sept membres du Conseil des ministres ont été assermentés pour de nouvelles fonctions.</p>",
-      "date_published": "2026-08-20T16:16:21+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "9a4eaed80fb32f287e7f87ae932a5a0ca648e16936f910ae674ae96656895f54",
       "url": "https://www.france24.com/en/europe/20260820-british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-sea",
       "title": "British Army sailors rescue bedraggled barn owl 70 nautical miles out to sea",
@@ -2962,20 +3212,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "fc34a59295304570a0f0b1fabc2235a5cc5ad9f7eb867bb3257a4311da7bba4c",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276371/mcsween-pettersen-elections-caq-ici-premiere-absence",
-      "title": "Pierre-Yves McSween diminue temporairement sa présence à Radio-Canada",
-      "content_html": "<p>Sa conjointe Geneviève Pettersen sera candidate de la CAQ dans L’Assomption aux élections du 5&nbsp;octobre.</p>",
-      "date_published": "2026-08-20T14:50:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "c0a55d90446d8c0d472d095b2917971c13a0fac30b9beb107d28d1083dea960f",
@@ -3590,20 +3826,6 @@
       "lang": "fr"
     },
     {
-      "id": "066a9afc3999f7ee8d2c5d35295bed869536b49b565ca7d792d0f628d5bdfdd3",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
-      "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
-      "content_html": "Un avion de chasse Rafale de l’armée de l’air indienne, sur la base aérienne de Kalaikunda à Kharagpur, dans le Bengale-Occidental (Inde), le 24 avril 2023.",
-      "date_published": "2026-08-20T13:00:04+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "b36fff134976481003fb5b021b9dcb4d62c63a9e1ba5b037774378f3b188d717",
       "url": "https://www.france24.com/fr/europe/20260820-canicule-europe-14-000-d%C3%A9c%C3%A8s-li%C3%A9s-chaleur-allemagne-4-500-espagne",
       "title": "Canicule en Europe : 14 000 décès liés à la chaleur en Allemagne, près de 4 500 en Espagne",
@@ -3672,20 +3894,6 @@
       "lang": "en"
     },
     {
-      "id": "9255c2a6d29bc16e846b2cc03bd341c3337aa676d09723f24d5ce64c995eda90",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/20/ebola-en-rdc-l-oms-deploie-70-000-doses-du-vaccin-ervebo_6750970_3212.html",
-      "title": "Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo",
-      "content_html": "Un flacon de vaccin Ervebo contre la maladie à virus Ebola, à Freetown (Sierra Leone), le 5 décembre 2024.",
-      "date_published": "2026-08-20T12:44:36+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "26fc3200ed5ff25c9625f742e1b88f95ec47c7cee9d36ed0fa96229d40968076",
       "url": "https://www.themoscowtimes.com/2026/08/20/german-spy-agency-opens-hotline-for-exiled-russians-a93540",
       "title": "German Spy Agency Opens Hotline for Exiled Russians",
@@ -3728,20 +3936,6 @@
         "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
-    },
-    {
-      "id": "5dec1d51af52f265a945d62e7dc1cbe1483a6fed83e70b5308357e1d9c8d8117",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276334/trump-annonce-guerre-economique-inedite-iran",
-      "title": "Trump veut mener une « guerre économique » sans précédent contre l’Iran",
-      "content_html": "<p>Les Émirats arabes unis suspendent «&nbsp;tous les échanges commerciaux et toutes les transactions&nbsp;» avec l&#x27;Iran.</p>",
-      "date_published": "2026-08-20T12:38:06+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "e9a46ee2a26a2f597a2038914c953e8f006c114675398c319d1bbf6cab142c03",
@@ -3801,30 +3995,6 @@
       "lang": "en"
     },
     {
-      "id": "71f92317418cf6e952f761b01b9b2d1fcd46d9f7a756d693059cf2d98ae8ed41",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
-      "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
-      "content_html": "<p>Eleni Petinos tells inquiry her sacking as a minister in Dominic Perrottet’s government was potentially motivated by her reluctance to get rid of the building commissioner</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The former New South Wales fair trading minister Eleni Petinos has given evidence at a corruption inquiry that she may have been used by fellow Liberals to try to get rid of the building commissioner David Chandler, recounting numerous attempts in 2022 to persuade her he was “dodgy” and should be sacked.</p><p>She has also told the Independent Commission Against Corruption (Icac) inquiry that her subsequent sacking as a minister in the Dominic Perrottet government in July 2022 – allegedly for bullying staff – was unfair and potentially motivated by her reluctance to sack the building commissioner.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-08-20T12:21:52+00:00",
-      "authors": [
-        {
-          "name": "Anne Davies"
-        }
-      ],
-      "tags": [
-        "Independent Commission Against Corruption",
-        "New South Wales politics",
-        "Liberal party",
-        "New South Wales",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2df5d19ba60cfc87b2146ead618426d2e6c5481a3fc61b07ce31f9fdfd5328e3",
       "url": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-all-1573-rdf",
       "title": "In Iran, contact with foreigners could soon be a crime",
@@ -3867,20 +4037,6 @@
       "lang": "en"
     },
     {
-      "id": "9e9e18fde53cb0601eba10484a62348bd73487973dc8d4febf85e9950b760197",
-      "url": "https://ici.radio-canada.ca/sports/2276350/soccer-infantino-petition",
-      "title": "Une pétition mondiale demande la démission d’Infantino",
-      "content_html": "<p>Des amateurs ont lancé une pétition demandant la démission du président de la FIFA Gianni Infantino.</p>",
-      "date_published": "2026-08-20T12:01:24+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "618a123cbc26ba85c656b5ed0536d9cd2e8e2f0435df11d239e860614d342e10",
       "url": "https://www.ukrinform.net/rubric-polytics/4155964-sybiha-comments-on-drone-incidents-in-moldova-and-romania.html",
       "title": "Sybiha comments on drone incidents in Moldova and Romania",
@@ -3897,41 +4053,11 @@
       "lang": "en"
     },
     {
-      "id": "1e0402513c3abe326e57db463faf1a0a4d55c4de94bc897c83b2ec2f0a78ba55",
-      "url": "https://www.lemonde.fr/international/article/2026/08/20/ceuta-l-espagne-ouvre-des-centres-d-hebergement-pour-1-800-migrants-face-a-l-urgence-humanitaire_6750966_3210.html",
-      "title": "Ceuta : l’Espagne ouvre des centres d’hébergement pour 1 800 migrants face à l’urgence humanitaire",
-      "content_html": "Des femmes et des enfants migrants choisissent des vêtements donnés sur un terrain de sport aménagé, par des habitants, en abri de fortune pour des femmes et des enfants, à Ceuta (Espagne), le 19 août 2026.",
-      "date_published": "2026-08-20T11:55:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "ba76ff02718de0afccb133044fbe901e86c6f67aeba7b96ef79deabfa8aa4895",
       "url": "https://www.ukrinform.net/rubric-ato/4155969-ukrainian-defense-ministry-comments-on-khmaras-discharge-from-military-service.html",
       "title": "Ukrainian Defense Ministry comments on Khmara's discharge from military service",
       "content_html": "Newly appointed Defense Minister Yevhenii Khmara was discharged from military service under subparagraph \"e\" of paragraph 3 of Part 5 of Article 26 of the Law of Ukraine \"On Military Duty and Military Service.\"",
       "date_published": "2026-08-20T11:54:09+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "02e1e4bf6b3e232735b0c3c65d04ed36ae65940c4452f28bde0aa4984cd488b6",
-      "url": "https://www.ukrinform.net/rubric-ato/4155960-general-staff-confirms-strikes-on-oil-refinery-in-tatarstan-oil-terminal-in-krasnodar-krai.html",
-      "title": "General Staff confirms strikes on oil refinery in Tatarstan, oil terminal in Krasnodar Krai",
-      "content_html": "Ukrainian forces struck the Taneco oil refinery in Russia's Republic of Tatarstan on August 19 and overnight on August 20, as well as the Tamanneftegaz oil terminal in the Krasnodar Krai.",
-      "date_published": "2026-08-20T11:37:00+00:00",
       "authors": [],
       "tags": [
         "War"
@@ -3955,22 +4081,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "7607760636c4c3351ff4f794dd3d06849b40a50448020aecacae786869b7d4c2",
-      "url": "https://www.ukrinform.net/rubric-ato/4155953-border-guards-shoot-down-cruise-missile-with-machine-gun-in-kyiv-region.html",
-      "title": "Border guards shoot down cruise missile with machine gun in Kyiv region",
-      "content_html": "During Russia's massive attack on Ukraine, border guards in the Kyiv region destroyed a cruise missile heading toward the capital using a machine gun.",
-      "date_published": "2026-08-20T11:15:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4154,30 +4264,6 @@
       "lang": "en"
     },
     {
-      "id": "395a5ab5d52ba7c5f53fd1602eb76be289f0aa3d3cd09fa162d8aba4078c0b0c",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded",
-      "title": "From ‘elation’ to ‘terrible news’ in 10 minutes: how the confusion over missing bushwalker Lily Hooper unfolded",
-      "content_html": "<p>The 18-year-old’s body was found in Nattai national park on Thursday – but initial police messages indicated she was alive</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park\">Teen hiker Lily Hooper found dead as NSW police apologise for miscommunication ‘born of elation’</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Police have blamed dense bushland and radio confusion for wrongly reporting to 18-year-old Lily Hooper’s parents, the New South Wales premier and the media that the missing bushwalker had been found alive.</p><p>Hooper had last been seen on 12 August after leaving home for a hike in the rugged bushland of Nattai national park, 90km south-west of <a href=\"https://www.theguardian.com/australia-news/sydney\">Sydney</a>. She was reported missing that night, triggering a multi-agency search involving nearly 1,000 people, including hundreds of volunteers.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded\">Continue reading...</a>",
-      "date_published": "2026-08-20T09:51:31+00:00",
-      "authors": [
-        {
-          "name": "Luca Ittimani"
-        }
-      ],
-      "tags": [
-        "New South Wales",
-        "Australia news",
-        "Angus Taylor",
-        "Chris Minns",
-        "Sydney"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "b1fb58fdce7fdbf4c57c64f1eb9fcfa83fad6f33211b7a260c413d62519a3c74",
       "url": "https://www.themoscowtimes.com/2026/08/20/official-who-led-wartime-asset-seizures-quietly-reinstated-after-dismissal-fontanka-a93537",
       "title": "Official Who Led Wartime Asset Seizures Quietly Reinstated After Dismissal – Fontanka",
@@ -4190,38 +4276,6 @@
         "url": "https://www.themoscowtimes.com/news"
       },
       "lang": "en"
-    },
-    {
-      "id": "882e1064e49e708943c46a95e26cd7bab153087dd68dd3837debba06c3fb1214",
-      "url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
-      "title": "Australia 'outraged' over Israel decision to close probe into aid worker killings",
-      "content_html": "Australia's top diplomat Penny Wong on Thursday said relations with Israel were \"difficult\" after it dropped a probe into the killing of aid worker Lalzawmi \"Zomi\" Frankcom and her colleagues in Gaza. Australian national Frankcom was among a group of seven World Central Kitchen staff killed in April 2024 when their aid convoy was hit by an Israeli air strike. Their deaths triggered global outrage and a renewed push to ensure the safety of aid workers in Gaza.",
-      "date_published": "2026-08-20T09:19:30+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "1af9d48c711990a59298442c1df29bdd99470227d67edc8ca2f245e27768b276",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276212/collecte-dechet-jetes-depotoir-donnees",
-      "title": "L’Î.-P.-É. enfouit la plus faible quantité de déchets par habitant au pays",
-      "content_html": "<p>En 2024, chaque insulaire a produit en moyenne 336&nbsp;kg de déchets collectés en bordure de trottoir.</p>",
-      "date_published": "2026-08-20T09:05:52+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "7388064be6f3b5762db214ac58f881b3f2d4b0c23bf709c178e6acec3541a230",
@@ -4238,20 +4292,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "218a375a5669df78979adf31d2a6d520a0db9e57ca0bc70dd6fcb445e493ecf0",
-      "url": "https://ici.radio-canada.ca/info/long-format/2276117/temoignage-pompier-feux",
-      "title": "Du front à la maison : un pompier raconte le « marathon » des feux de forêt",
-      "content_html": "<p>Après un repos de 4&nbsp;jours, M.&nbsp;Gaudet devra repartir encore pour 14&nbsp;jours sur un autre front.</p>",
-      "date_published": "2026-08-20T09:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "e54b1f9e011e1afa34ec2aca41cebf8718fc2de429890880a4a79f362f41f44e",
@@ -4395,64 +4435,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8ab4bcceaa92e0e2b3b17aba7e78d1404c0bf5a3721c6cd632bc0f106ce493e2",
-      "url": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-all-1573-rdf",
-      "title": "North Korea fires possible ballistic missiles toward sea",
-      "content_html": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year.",
-      "date_published": "2026-08-20T08:32:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cc86c7ff9a9416764f2640f40fde789bbd732ccb742767488901639a96cd096e",
-      "url": "https://ici.radio-canada.ca/info/long-format/2276232/surdoses-itinerance-maison-benoit-labre-saint-henri",
-      "title": "Au milieu des surdoses, la quête d’harmonie entre la Maison Benoît Labre et Saint-Henri",
-      "content_html": "<p>Le déménagement du centre de consommation supervisée de cette ressource d&#x27;aide se fait toujours attendre.</p>",
-      "date_published": "2026-08-20T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "ae6f55c26e2d5b8e8d85d75fbce3851368756e1cb42b10e02e1111f4f8d9938a",
-      "url": "https://ici.radio-canada.ca/nouvelle/2271283/universites-regions-etudiants-etrangers",
-      "title": "La baisse des étudiants étrangers ébranle les collèges régionaux de Colombie-Britannique",
-      "content_html": "<p>Dans les collèges et les universités en région, la rentrée scolaire est assombrie par des coupes massives. </p>",
-      "date_published": "2026-08-20T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "b0928e01a76d11ff75a6997ef16ffaea1a4f0154b12c37a2d49444bf3a646b9e",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276038/forage-petrole-groenland-trump",
-      "title": "Une entreprise américaine a des visées pétrolières au Groenland",
-      "content_html": "<p>Deux entreprises canadiennes ont été recrutées pour ce projet controversé.</p>",
-      "date_published": "2026-08-20T08:00:00+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -4844,20 +4826,6 @@
       "lang": "fr"
     },
     {
-      "id": "b2db8fa147f63d586cde8a0134ea21aff19415f28416c0bea5653c2624a156ac",
-      "url": "https://ici.radio-canada.ca/sports/2276319/zverev-auger-aliassime-tiafoe-cincinnati-atp",
-      "title": "Félix Auger-Aliassime est surpris par Frances Tiafoe à Cincinnati",
-      "content_html": "<p>Le favori du tournoi, l&#x27;Allemand Alexander Zverev, a également été éliminé en huitièmes de finale. </p>",
-      "date_published": "2026-08-20T03:34:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "510b1c31cfff8035a3e5df5968bb3a62ff6c925ca56b8f07ba0fae55a652bb2f",
       "url": "https://elpais.com/internacional/2026-08-20/en-busca-del-dueno-perdido-belgica-investiga-el-origen-de-un-millonario-tesoro-descubierto-por-un-obrero.html",
       "title": "À la recherche du propriétaire perdu : la Belgique enquête sur l'origine d'un trésor d'un million de dollars découvert par un ouvrier",
@@ -5045,34 +5013,6 @@
       "lang": "fr"
     },
     {
-      "id": "420ba685fa2c3cdb4d7c5a024f4787c22c7586908b69082ecfedd29f2211e957",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276313/oliver-jones-pianiste-chapelle-ardente-montreal",
-      "title": "Extraordinaire et humain : Oliver Jones salué lors d’une chapelle ardente à Montréal",
-      "content_html": "<p>Le célèbre pianiste de jazz est décédé le 22&nbsp;juillet dernier à 91&nbsp;ans.</p>",
-      "date_published": "2026-08-19T22:55:20+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "16c757bf283320916641ec3984960a9d78e120bec1936723647d152e9c1c0a91",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276297/entreprises-restent-confrontees-incertitudes-commerciales",
-      "title": "Tarifs et négociations : des entreprises restent confrontées à des incertitudes",
-      "content_html": "<p>Ce report ne contribue pas à dissiper l’incertitude qui pèse sur les entreprises.  </p>",
-      "date_published": "2026-08-19T22:27:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "77a46a3de396858d5f53089a8007899b1d32349d302944836c6e9dcc25f0fbdb",
       "url": "https://www.elmundo.es/internacional/2026/08/20/6a84714ce4d4d8605b8b457c.html",
       "title": "Le prolifique donneur de sperme nazi danois qui a servi dans les SS et a pu avoir plus de 100 enfants",
@@ -5089,20 +5029,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9b3a7bff6d7ff887735f0d79d8a92a058703cf18417f08cad0994142ae290586",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276303/abisay-cruz-mort-spvm-police-coroner-rapport-kamel",
-      "title": "Mort d’Abisay Cruz : la méthode de contention du SPVM aurait contribué au décès",
-      "content_html": "<p>La coroner Géhane Kamel formule ses recommandations après la mort de ce Montréalais.</p>",
-      "date_published": "2026-08-19T22:13:15+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5173,20 +5099,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "8870a262ff94fd33ebfb4ee8065b3e2e71616cd4c4865d469db19e58543793ef",
-      "url": "https://ici.radio-canada.ca/nouvelle/2276254/meurtre-resolu-niece-victime-montreal",
-      "title": "« Je n’ai jamais vu ça » : un meurtre résolu grâce à la nièce de la victime",
-      "content_html": "<p>L’affaire met au jour des dysfonctionnements tant du côté du système de santé que de celui de la police.</p>",
-      "date_published": "2026-08-19T20:28:13+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
       },
       "lang": "fr"
     },
@@ -5487,41 +5399,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "ea834445760ff752dc49fe91ca7984ba0ac716b92a19f6378d09798cea85c842",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
-      "title": "Is the US actually too chicken to take on China for trade?",
-      "content_html": "<p>A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports</p><p>Since <a href=\"https://www.theguardian.com/world/china\">China</a> offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day.</p><p>But the US hasn’t won this battle – and there’s strong evidence to show it’s too chicken to really try.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan\">Continue reading...</a>",
-      "date_published": "2026-08-19T16:42:08+00:00",
-      "authors": [
-        {
-          "name": "Eduardo Porter"
-        }
-      ],
-      "tags": [
-        "Trump administration",
-        "Chinese economy",
-        "US economy",
-        "Yuan",
-        "World Trade Organization",
-        "Business",
-        "Economics",
-        "Trump tariffs",
-        "Tariffs",
-        "Donald Trump",
-        "US politics",
-        "US news",
-        "China",
-        "Asia Pacific",
-        "Global economy",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "35b6e2f19b10bf818d0533fe6891df3e19c6ac5840f52e8e84ebfae1e9c03300",
@@ -9585,22 +9462,6 @@
       "lang": "en"
     },
     {
-      "id": "cbe9c655438dad4316ef9e7fff84640aa2833518ee0f320dc3b7c4d17275af5e",
-      "url": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-men-s-football-team/a-78095577?maca=en-rss-en-all-1573-rdf",
-      "title": "Klopp named new head coach of Germany men's football team",
-      "content_html": "Germany has turned to Jürgen Klopp to lead a new era for the four-time world champions after their disappointing World Cup exit, with hopes of building toward future international tournaments.",
-      "date_published": "2026-07-24T09:04:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "24afdc384f3f4ae66487fded9bcd75c7cd057cc2315b9811351401680b46ad8e",
       "url": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-rdf",
       "title": "Jürgen Klopp and Germany: A partnership long in the making",
@@ -9609,6 +9470,22 @@
       "authors": [],
       "tags": [
         "Sports"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cbe9c655438dad4316ef9e7fff84640aa2833518ee0f320dc3b7c4d17275af5e",
+      "url": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-men-s-football-team/a-78095577?maca=en-rss-en-all-1573-rdf",
+      "title": "Klopp named new head coach of Germany men's football team",
+      "content_html": "Germany has turned to Jürgen Klopp to lead a new era for the four-time world champions after their disappointing World Cup exit, with hopes of building toward future international tournaments.",
+      "date_published": "2026-07-24T09:04:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
       ],
       "source": {
         "name": "Deutsche Welle",
