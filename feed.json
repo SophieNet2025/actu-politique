@@ -5,53 +5,51 @@
   "feed_url": "https://tonpseudo.github.io/actu-politique/feed.json",
   "items": [
     {
-      "id": "3a4c7bfa1d808d96c63416325652215f7e7b729ea088407a77b2cbd0eb837e80",
-      "url": "https://ici.radio-canada.ca/info/en-direct/1014292/elections-quebec-jour-12-campagne",
-      "title": "PSPP participera bel et bien à la rencontre avec Fréchette",
-      "content_html": "<p>Mme Fréchette discutera avec les chefs de l&#x27;entrée en vigueur des contre-tarifs du gouvernement fédéral.</p>",
-      "date_published": "2026-09-08T00:52:45+00:00",
-      "authors": [],
-      "tags": [],
+      "id": "131379dae66e6f7517b3e33dcb55ac534533ea65bf315ed00db2858e6af29032",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260908-before-champions-league-kylian-mbapp%C3%A9-campaigns-for-ballon-d-or",
+      "title": "Before Champions League, Kylian Mbappé campaigns for Ballon d'Or",
+      "content_html": "As the Champions League resumes, Real Madrid are hosting Inter Milan. Speaking at a press conference, Kylian Mbappé believes he has every chance of winning the Ballon d’Or.",
+      "date_published": "2026-09-08T05:22:03+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
       "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4c8cc928f26ace8aca05db8577fd76f1c3b61a272db4983f286667f2f287f3ce",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260908-ligue-champions-kylian-mbapp%C3%A9-ballon-d-or-real-madrid-sports",
+      "title": "Avant la Ligue des champions, Kylian Mbappé croit au Ballon d'Or",
+      "content_html": "Pour la reprise de la Ligue des champions, le Real Madrid reçoit l’Inter Milan. Interrogé en conférence de presse, Kylian Mbappé estime qu’il a toutes ses chances d’être élu Ballon d’Or.",
+      "date_published": "2026-09-08T05:15:14+00:00",
+      "authors": [
+        {
+          "name": "L'Equipe TV"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
     {
-      "id": "855ebefac011559db9b9206519d2116651b48584cc86d00ee6062d3b4624fc39",
-      "url": "https://ici.radio-canada.ca/nouvelle/2281440/tarifs-douaniers-caq-appels-offres-entreprises-frechette-trump",
-      "title": "Tarifs douaniers : Québec va réserver certains appels d’offre pour les entreprises d’ici",
-      "content_html": "<p>Les entreprises québécoises et canadiennes seront priorisées dans certains contrats publics. </p>",
-      "date_published": "2026-09-08T00:46:19+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "85b3627004349f854cec7aad85bdca5a8076f9714f8d646ce408d230f2c304a7",
-      "url": "https://ici.radio-canada.ca/nouvelle/2281355/trump-interdiction-vente-bombardier-usa",
-      "title": "Trump veut empêcher Bombardier de faire affaire aux États-Unis",
-      "content_html": "<p>Dans une nouvelle fronde contre le Canada, le président veut bannir la vente d&#x27;appareils Bombardier aux É.-U.</p>",
-      "date_published": "2026-09-08T00:45:24+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "7e4e8bac34773aafc30292d4e63a654e20d32538007ad4ff8e2fdbf3469c5752",
-      "url": "https://www.ukrinform.net/rubric-ato/4161800-russian-forces-shell-kherson-wounding-man.html",
-      "title": "Russian forces shell Kherson, wounding man",
-      "content_html": "Russian forces shelled Kherson’s Korabelnyi district with artillery in the evening, injuring a 51-year-old man.",
-      "date_published": "2026-09-08T00:32:00+00:00",
+      "id": "1d2d25fb69a0ef2c8bda34e5f677953cf201d42eb8bceb472466f77527cc69a1",
+      "url": "https://www.ukrinform.net/rubric-ato/4161850-kyiv-region-hit-by-massive-russian-attack-infrastructure-damaged-one-civilian-injured.html",
+      "title": "Kyiv region hit by massive Russian attack: Infrastructure damaged, one civilian injured",
+      "content_html": "Russian forces have been carrying out a massive attack on the Kyiv region since the evening of September 7, using jet-powered drones, ballistic and cruise missiles. Civilian settlements and infrastructure were again targeted.",
+      "date_published": "2026-09-08T05:15:00+00:00",
       "authors": [],
       "tags": [
         "War"
@@ -63,11 +61,33 @@
       "lang": "en"
     },
     {
+      "id": "ec33bd2bb94a0252f6a61fe38e5c54abba56b460fcafda177edd9cda5da4a57f",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/andrew-hastie-threatens-one-nation-pauline-hanson-traitor-to-australia-ntwnfb",
+      "title": "Andrew Hastie threatens One Nation with ‘costly’ fight over claims he is a ‘traitor’ to Australia",
+      "content_html": "<p>Liberal MP says One Nation is trying to unseat him because he gave evidence against Victoria Cross recipient Ben Roberts-Smith</p><p>Andrew Hastie has threatened Pauline Hanson and One Nation strategist James Ashby with a “costly” fight over claims he is a traitor to Australia, labelling his critics “cowards” who don’t believe in the rule of law.</p><p>In some of the Liberal MP’s strongest comments yet about attacks from Hanson and her insurgent party, the Liberal MP said One Nation was trying to unseat him at the next election because he gave evidence against Victoria Cross recipient Ben Roberts-Smith in a failed defamation case against the Nine newspapers.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/andrew-hastie-threatens-one-nation-pauline-hanson-traitor-to-australia-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-09-08T05:12:51+00:00",
+      "authors": [
+        {
+          "name": "Tom McIlroy Political editor"
+        }
+      ],
+      "tags": [
+        "Andrew Hastie",
+        "Australia news",
+        "Pauline Hanson"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
       "id": "ab8cd81a56c5fd43b935a9b6465103cc8eb54f9002408f1346af68ae64da14ee",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-      "title": "Politics live: Chalmers accuses Liberals of ‘photocopying’ One Nation policy; Australians ‘fed up’ by alleged pork barrelling, Haines says",
+      "title": "Australian politics live: Wilson claims Labor taxes delivered ‘trifecta of housing failures’ as Butler accuses opposition of copying One Nation policy",
       "content_html": "<p>Follow the day’s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement.</p><p>To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.</p><p>I’m deeply sceptical of giving any government, whether I was in charge, or <strong>Anika Wells</strong> is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-09-08T00:19:18+00:00",
+      "date_published": "2026-09-08T05:10:34+00:00",
       "authors": [
         {
           "name": "Krishani Dhanji"
@@ -93,6 +113,1174 @@
       "lang": "en"
     },
     {
+      "id": "05bedc7497568e931dd14a194a997d4dee0c572cdf4ad3bd93374cf55845c4d2",
+      "url": "https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s",
+      "title": "UK retailers to create 100,000 placements for young people out of work",
+      "content_html": "<p>In partnership with DWP, firms such as John Lewis and M&amp;S plan to offer 18- to 24-year-olds placements of two to four weeks</p><p>UK retailers plan to create up to 100,000 short-term placements for young people not in employment, education or training (Neet) over the next three years to give them a first step on the ladder to paid work.</p><p>In partnership with the Department for Work and Pensions (DWP), more than 40 retailers, including Marks &amp; Spencer, Pets at Home, Asda and the John Lewis Partnership, will offer Neets aged 18-24 placements of two to four weeks to gain “the skills and confidence needed to take their first step into work”.</p> <a href=\"https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s\">Continue reading...</a>",
+      "date_published": "2026-09-08T05:00:27+00:00",
+      "authors": [
+        {
+          "name": "Phillip Inman"
+        }
+      ],
+      "tags": [
+        "Youth unemployment",
+        "Retail industry",
+        "Business",
+        "Marks & Spencer",
+        "Pets at Home",
+        "Asda",
+        "John Lewis",
+        "Tesco",
+        "New Look",
+        "Currys",
+        "Greggs",
+        "Unemployment",
+        "Young people",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "43b06be664b2e7a463e944c0ecaa6c0db0d4c41f10f8b62ce046e8051a958736",
+      "url": "https://www.ukrinform.net/rubric-ato/4161845-ukrainian-drone-operators-destroy-russian-osa-air-defense-system-on-zaporizhzhia-front.html",
+      "title": "Ukrainian drone operators destroy Russian Osa air defense system on Zaporizhzhia front",
+      "content_html": "Pilots from Ukraine’s 423rd Separate Unmanned Systems Regiment Scythian Griffins, have destroyed a Russian Osa surface-to-air missile system on the Zaporizhzhia front.",
+      "date_published": "2026-09-08T05:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "3313ec8aaede2f6629a23580fdf9c6be80a5cc2c1bcc4a1abe14b9ecb23a9221",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
+      "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
+      "content_html": "<p>Lawyers also argue commonwealth does not have the power to ban a political party, as the high court ruled in 1951 over attempt to ban the Communist party</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Lawyers for an outlawed neo-Nazi political party have argued anti-hate laws passed after the Bondi terror attack rely on the opinion of a politician and are “authoritarian in nature”.</p><p>The White Australia party, formerly known as the National Socialist Network (NSN), was <a href=\"https://www.theguardian.com/australia-news/2026/may/15/neo-nazi-group-national-socialist-network-criminalised-under-hate-laws-passed-after-bondi-terror-attack-ntwnfb\">designated as an illegal hate group</a> in May after the Australian Security and Intelligence Organisation passed on its recommendation to the home affairs minister, Tony Burke.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:58:44+00:00",
+      "authors": [
+        {
+          "name": "Sarah Basford Canales"
+        }
+      ],
+      "tags": [
+        "Australia news",
+        "Australian law",
+        "Tony Burke"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "348b8b1487fcdacc6575ad1687701ef8648a3d25deb0105b5fa26e227c93ab08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
+      "title": "Forest fires force evacuations near resorts in Antalya",
+      "content_html": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
+      "date_published": "2026-09-08T04:55:59+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b32d564eddb475bc8e4c3c5270871dd5d12a77cb73f1533b5f4da1484a14409e",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
+      "title": "Mladic’s funeral: Were no lessons learned?",
+      "content_html": "Thirty years of international justice has taught political leaders little.",
+      "date_published": "2026-09-08T04:47:56+00:00",
+      "authors": [],
+      "tags": [
+        "Opinions"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "aed2d6bc12bacca9754078a4b35f8666c28e3e33b39e08d7a9f799f8040531aa",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/alan-jones-trial-sexual-touching-witness-promised-loyalty-to-greatest-broadcaster-ever-ntwnfb",
+      "title": "Witness told Alan Jones he was ‘the greatest broadcaster ever’ while labelling SMH reporter a ‘bitch’",
+      "content_html": "<p>Former 2GB and 2UE radio host has denied 22 indecent assault and sexual touching charges</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A friend of Alan Jones who has denied witnessing an alleged assault in a Mosman restaurant has agreed in court that he sent the broadcaster a text message saying “if you need me to refute any lies, I of course will”.</p><p>Under cross-examination by prosecutor Georgina Wright, the witness agreed he was a loyal and “very good friend” to Jones and the two men shared an “unbreakable bond”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/alan-jones-trial-sexual-touching-witness-promised-loyalty-to-greatest-broadcaster-ever-ntwnfb\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:40:53+00:00",
+      "authors": [
+        {
+          "name": "Amanda Meade"
+        }
+      ],
+      "tags": [
+        "Alan Jones trial",
+        "Alan Jones",
+        "Australian media",
+        "Australia news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "986651ef5f784df514a3ef643948915a369b6d51b03df99062c0d74eb7c104d5",
+      "url": "https://www.france24.com/fr/info-en-continu/20260908-conflit-commercial-avec-washington-la-riposte-du-canada-entre-en-vigueur",
+      "title": "Conflit commercial avec Washington: la riposte du Canada entre en vigueur",
+      "content_html": "Des surtaxes canadiennes touchant une série de produits américains sont entrées en vigueur mardi, en représailles aux nouveaux droits de douane imposés fin août par Washington, alors qu'aucun apaisement du conflit commercial entre les deux pays ne se dessine.",
+      "date_published": "2026-09-08T04:39:15+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "bbbc41d47e877f6607102ea15d12ac4c958d3ffd9c0b848ea0d7d26514fd97bd",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+      "title": "Australia to force social media platforms to allow users to opt out of algorithms",
+      "content_html": "<p>Draft legislation enforces digital duty of care including limiting children’s exposure to misogynistic and eating disorder content</p><p>Australia will allow social media account holders to opt out of the powerful algorithms pushing dangerous and divisive content into users’ feeds, part of new laws designed to boost online safety.</p><p>Users over 16 years of age will be given new tools to turn off algorithm-driven content, with platforms facing fines of more than A$100m for non-compliance.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:38:29+00:00",
+      "authors": [
+        {
+          "name": "Tom McIlroy and Luca Ittimani"
+        }
+      ],
+      "tags": [
+        "Australian politics",
+        "Social media",
+        "Anthony Albanese",
+        "Social media ban",
+        "Australia news",
+        "Technology"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "91cc3e2f4b1379480250cadb1376828d3393d2c9ddfcf338c083f6d71a1ba1c5",
+      "url": "https://www.ukrinform.net/rubric-ato/4161842-russian-military-intelligence-serviceman-surrenders-to-ukraine.html",
+      "title": "Russian military intelligence serviceman surrenders to Ukraine",
+      "content_html": "A serviceman from a Russian military intelligence special forces unit has surrendered to Ukrainian forces through the “I Want to Live” project.",
+      "date_published": "2026-09-08T04:38:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c237efa41914d37a4cde0ca6a4aadf64527badf06d25606c4180344299288023",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
+      "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
+      "content_html": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
+      "date_published": "2026-09-08T04:29:33+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2fc3723509ebb6eed2dd242d47fd06e0980f94296febceb78ce2264e55e29323",
+      "url": "https://ici.radio-canada.ca/nouvelle/2281441/contre-tarifs-canada-trump-carney",
+      "title": "Guerre commerciale : les contre-tarifs canadiens entrent en vigueur",
+      "content_html": "<p>Les contre-tarifs s&#x27;élèvent à 15&nbsp;%, 25&nbsp;% et 50&nbsp;%, selon les produits.</p>",
+      "date_published": "2026-09-08T04:29:00+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2628d8f78ef255652d5957b47bbbd258a64e980039761fd5fa5e4f31c9ac4d1c",
+      "url": "https://www.lemonde.fr/international/article/2026/09/08/conflit-commercial-avec-les-etats-unis-les-mesures-du-canada-contre-des-produits-americains-entrent-en-vigueur-mardi_6768107_3210.html",
+      "title": "Conflit commercial avec les Etats-Unis : les mesures du Canada contre des produits américains entrent en vigueur mardi",
+      "content_html": "Un camion entre aux Etats-Unis en empruntant le pont international Gordie-Howe, qui relie Windsor (Ontario) à Détroit (Michigan), le 6 septembre 2025.",
+      "date_published": "2026-09-08T04:27:25+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fd0106cf2e572aeec85adeefc142084155550a7c800548d6b96d656a399cd197",
+      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+      "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
+      "content_html": "Spokesperson for Saudi-led coalition says Houthis have targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran.",
+      "date_published": "2026-09-08T04:26:16+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0c5583898dc4fee60d8d6110d7f5d6c2c88f6da4b232ebcc47118a476e399f9c",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
+      "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
+      "content_html": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
+      "date_published": "2026-09-08T04:24:37+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d2693c8a0331411a3a3bac053c9fee1cf32fed316bf270dd85d71f003d37b507",
+      "url": "https://www.liberation.fr/checknews/allemagne-pourquoi-le-parti-afd-est-il-regulierement-qualifie-de-neonazi-20260908_UIGPVXMYFJASBOEC2RCTTUSBEI/",
+      "title": "Allemagne : pourquoi le parti AfD est-il régulièrement qualifié de «néonazi» ?",
+      "content_html": "Devenu infréquentable, même pour le RN, en raison de ses positions sur le passé hitlérien de l’Allemagne, le parti d’extrême droite entretient aussi des liens avec des groupes néonazis.",
+      "date_published": "2026-09-08T04:21:00+00:00",
+      "authors": [
+        {
+          "name": "Jacques Pezet"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Libération",
+        "url": "https://www.liberation.fr"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "4f547b4bd5756dcfc98702d6317b4b0b24809dff5703b5188a9afebdcd4597d4",
+      "url": "https://www.ukrinform.net/rubric-ato/4161840-injury-toll-in-russian-attack-on-kyiv-rises-to-seven-two-killed.html",
+      "title": "Injury toll in Russian attack on Kyiv rises to seven, two killed",
+      "content_html": "Russian forces launched a combined missile and drone attack on Kyiv early Tuesday, killing two people and injuring seven.",
+      "date_published": "2026-09-08T04:19:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "89d2c38a3f6aefdc66191a5a811749bd7bf87b87d3800234c8f9b9aec9d2296a",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
+      "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
+      "content_html": "Mourinho kicks off the record 15-time Champions League winners&#039; European campaign against Serie A champions Inter.",
+      "date_published": "2026-09-08T04:16:55+00:00",
+      "authors": [],
+      "tags": [
+        "Sport"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f08586e3c2f2981c8a031e0a6bf008af056977fb342535f89dd705fce9400b8",
+      "url": "https://www.france24.com/en/live-news/20260908-canada-s-counter-tariffs-take-effect-on-various-us-goods",
+      "title": "Canada's counter-tariffs take effect on various US goods",
+      "content_html": "Canada's retaliatory tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the North American neighbors heats up.",
+      "date_published": "2026-09-08T04:03:13+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6530264c2d69640db667912d5609ed97e82879036b460653ea553155b75a8452",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
+      "title": "Flash floods fill the streets of a neighbourhood in central Morocco",
+      "content_html": "Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms.",
+      "date_published": "2026-09-08T04:01:18+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "019c803bdc2486944c433acd539600fcd30804c2ffb61506bf64d4ff66cd8561",
+      "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+      "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+      "content_html": "Trade tensions soar as Canada matches US tariffs &#039;dollar-for-dollar&#039;, impacting 700 products and multiple industries.",
+      "date_published": "2026-09-08T04:01:12+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "485d91f122a6c7112a805da4f42a58f9f939eec175b415e549de27d5ef91491a",
+      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+      "content_html": "<p>Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods </p><p>Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">trade fight</a> that has been marked by intensifying tensions between US president Donald Trump and Canadian prime minister Mark Carney.</p><p>The tariffs took effect at 12.01am on Tuesday, and range from 15% to 50% and apply to products covering $20bn in imports from the US. The measures target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:00:59+00:00",
+      "authors": [
+        {
+          "name": "Maya Yang"
+        }
+      ],
+      "tags": [
+        "Canada",
+        "US news",
+        "Trump tariffs",
+        "Tariffs",
+        "Americas",
+        "Business",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c17679673749a240aa9da4c2deab162991242f4d3e5b4ac3255f405fd20c919f",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "content_html": "<p>US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa</p><p>The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not seen in a decade, driven by a convergence of factors including disruptions to the shipping industry caused by the US-Israeli war against Iran and a resurgence of political instability in Somalia.</p><p>Since late April there have been eight hijackings by Somali pirates, including two within the space of a fortnight <a href=\"https://www.bbc.co.uk/news/articles/cr4vx4pneydo\">in August</a>: one targeting an oil tanker with ties to Iran, the other a Cameroon-flagged vessel, the Lutuf, carrying military equipment for Turkey.</p> <a href=\"https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:00:27+00:00",
+      "authors": [
+        {
+          "name": "Mohamed Gabobe in Mogadishu and Peter Beaumont"
+        }
+      ],
+      "tags": [
+        "Somalia",
+        "Piracy at sea",
+        "Africa",
+        "World news",
+        "US-Israel war on Iran",
+        "Turkey",
+        "Houthis",
+        "Middle East and north Africa"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6e3bb9fcaa1f8c573b56717f5d93952a3dd5ea0154a0bf69b3860ac5dcae34ea",
+      "url": "https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey",
+      "title": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
+      "content_html": "<p>Nearly half of respondents say spending on personal independence payments should be increased</p><p>There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey.</p><p>The British Social Attitudes (BSA) report found that while support for welfare spending as a whole had dipped sharply in recent years, just 7% of respondents backed cuts to disability benefits – and 49% said they should be increased.</p> <a href=\"https://www.theguardian.com/world/2026/sep/08/majority-tory-reform-voters-do-not-back-cuts-disability-benefits-survey\">Continue reading...</a>",
+      "date_published": "2026-09-08T04:00:26+00:00",
+      "authors": [
+        {
+          "name": "Patrick Butler Social policy editor"
+        }
+      ],
+      "tags": [
+        "Disability",
+        "Benefits",
+        "Economic policy",
+        "Politics",
+        "Society",
+        "UK news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "abb3ebeb460ce7f1fb6af50adbdb25d8df915a708d72b2da04aad60997f4f0de",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/08/au-sri-lanka-la-course-folle-aux-concombres-de-mer_6768103_3234.html",
+      "title": "Au Sri Lanka, la course folle aux concombres de mer",
+      "content_html": "Un éleveur d’holothuries contrôle la croissance de ses concombres de mer, à Mandaitivu (Sri Lanka), le 24 juillet 2024.",
+      "date_published": "2026-09-08T04:00:17+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "ea3b3a1818a3ab464f750a5835b4427d15549cade19cdc42e97e16e267f1a8ac",
+      "url": "https://www.ukrinform.net/rubric-polytics/4161837-burnham-trump-discuss-importance-of-ukraine-ceasefire.html",
+      "title": "Burnham, Trump discuss importance of Ukraine ceasefire",
+      "content_html": "British Prime Minister Andy Burnham and U.S. President Donald Trump discussed Russia’s war against Ukraine during a phone call.",
+      "date_published": "2026-09-08T03:59:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "123d4b09ba92f870fa5f707f29f7410652ba8607c17cb46f3344719c8ea4f167",
+      "url": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-la-russie-reprend-ses-frappes-sur-kiev-faisant-au-moins-deux-morts-et-sept-blesses_6766818_3210.html",
+      "title": "EN DIRECT, guerre en Ukraine : la Russie reprend ses frappes sur Kiev faisant au moins deux morts et sept blessés",
+      "content_html": "Après des attaques aériennes, à Kiev, le 8 septembre 2026.",
+      "date_published": "2026-09-08T03:57:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "6830a4e271824f045a5950e010189aa83859c081413f7dc54c3ce97800c5d827",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "content_html": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "date_published": "2026-09-08T03:53:27+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "08525d92852e9caa2b576f9139d469e053e5918e56b768cfdd3841d30afe3485",
+      "url": "https://www.ukrinform.net/rubric-economy/4161836-ukraine-restores-external-power-supply-to-zaporizhzhia-npp.html",
+      "title": "Ukraine restores external power supply to Zaporizhzhia NPP",
+      "content_html": "Ukrainian energy workers have restored the Ferosplavna-1 power line, which supplies external power to the Zaporizhzhia Nuclear Power Plant (ZNPP).",
+      "date_published": "2026-09-08T03:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7b72f2a9e96f9b1cacd8d9f1fbdb31eecf535290d81cf7ed8aa660015fbe4687",
+      "url": "https://elpais.com/internacional/2026-09-08/lo-que-ocurre-cuando-se-deja-crecer-a-la-bestia.html",
+      "title": "Que se passe-t-il lorsque vous laissez la bête grandir",
+      "content_html": "Manifestation à New York le 6 octobre 1933 contre le fascisme et le nazisme.",
+      "date_published": "2026-09-08T03:40:00+00:00",
+      "authors": [
+        {
+          "name": "Guillermo Altares Lucendo"
+        }
+      ],
+      "tags": [
+        "Alemania",
+        "Nazismo",
+        "Stephen King",
+        "The New York Times",
+        "Charles Chaplin",
+        "Extrema derecha",
+        "Ultraderecha",
+        "Elecciones Alemania",
+        "Adolf Hitler",
+        "AFD",
+        "Elecciones",
+        "Francisco Franco",
+        "Benito Mussolini",
+        "Fascismo",
+        "Holocausto judío"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d21f78622df65df294789c31762aeebf7bd2e8ed0cbb8acdb4a5439093264ede",
+      "url": "https://elpais.com/internacional/2026-09-08/por-que-el-triunfo-de-afd-en-alemania-es-una-victoria-para-el-plan-de-trump-de-desestabilizar-europa.html",
+      "title": "Pourquoi la victoire de l'AfD en Allemagne est une victoire pour le plan de Trump visant à déstabiliser l'Europe",
+      "content_html": "Elon Musk intervient lors d'un scrutin de l'AfD le 25 janvier 2025.",
+      "date_published": "2026-09-08T03:40:00+00:00",
+      "authors": [
+        {
+          "name": "Iker Seisdedos García"
+        }
+      ],
+      "tags": [
+        "Donald Trump",
+        "Estados Unidos",
+        "Norteamérica",
+        "América",
+        "Casa Blanca",
+        "Washington D.C.",
+        "Partido Republicano EE UU",
+        "Política",
+        "AFD",
+        "Europa",
+        "J. D. Vance",
+        "Elecciones",
+        "Ultraderecha",
+        "Alemania",
+        "Unión Europea"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fe3773c384cfc8cc2a61d844f0b8a96ed27721f7da940b681176b6bc3233ea24",
+      "url": "https://elpais.com/internacional/2026-09-08/estados-unidos-llega-dividido-al-25-aniversario-del-trauma-del-11-s.html",
+      "title": "Les États-Unis arrivent divisés à l’occasion du 25e anniversaire du traumatisme du 11 septembre",
+      "content_html": "Le mémorial du 11 septembre, dans une image d’archive d’avril 2012.",
+      "date_published": "2026-09-08T03:40:00+00:00",
+      "authors": [
+        {
+          "name": "Luis Doncel"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "40daf573605b702d71c9dae5e6401bf04be667239b4778ca2500cf2df0f9c4e7",
+      "url": "https://elpais.com/internacional/2026-09-08/vivir-en-gaza-a-la-espera-de-una-llamada.html",
+      "title": "Vivre à Gaza en attendant un appel",
+      "content_html": "Suhail Al Buhaisi, avec sa fille Leila, à son domicile de Deir El Balah (Gaza), ce lundi.",
+      "date_published": "2026-09-08T03:40:00+00:00",
+      "authors": [
+        {
+          "name": "Seham Tantish,Antonio Pita"
+        }
+      ],
+      "tags": [
+        "Franja Gaza",
+        "Sanidad",
+        "España",
+        "Guerra",
+        "Israel",
+        "Conflictos",
+        "Conflicto árabe-israelí",
+        "Conflictos armados",
+        "Conflictos internacionales",
+        "Hamás",
+        "Palestina",
+        "Oriente Próximo"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "910271614dbe8e94daafa1c23da717f10aa498799ac0fad3bfd3d3e95e09a493",
+      "url": "https://www.lemonde.fr/international/article/2026/09/08/en-allemagne-la-performance-de-l-afd-en-saxe-anhalt-fragilise-friedrich-merz_6768068_3210.html",
+      "title": "En Allemagne, la performance de l’AfD en Saxe-Anhalt fragilise Friedrich Merz",
+      "content_html": "Friedrich Merz, chancelier allemand, et Sven Schulze, ministre-président de Saxe-Anhalt, lors d’une réunion de la direction de leur parti, l’Union chrétienne-démocrate (CDU), à Berlin, le 7 septembre 2026.",
+      "date_published": "2026-09-08T03:33:52+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c1d0a567ecf3b6b46ae9eacb458dabc7422f911f88a578d90fd91453234451bf",
+      "url": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
+      "content_html": "A series of explosions rocked Kyiv and neighboring cities signaling the end of Russia's three-day ceasefire. DW has the latest.",
+      "date_published": "2026-09-08T03:33:00+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a2d5a7865dc826b91c8d4b2348e68eb4cdd0e981a7393388e6561b3aebf2a6d0",
+      "url": "https://www.lemonde.fr/international/article/2026/09/08/rosalia-bad-bunny-et-shakira-convertissent-les-bresiliens-a-la-musique-hispanophone_6768064_3210.html",
+      "title": "Rosalia, Bad Bunny et Shakira convertissent les Brésiliens à la musique hispanophone",
+      "content_html": "La chanteuse colombienne Shakira, lors d’un concert sur la plage de Copacabana, à Rio (Brésil), le 2 mai 2026.",
+      "date_published": "2026-09-08T03:30:06+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c400e9498b40034b09dde7a58c2e19ba9e34f55c4b3211673e32ca1de543577b",
+      "url": "https://elpais.com/opinion/2026-09-08/los-fracasos-que-nutren-a-la-ultraderecha.html",
+      "title": "Les échecs qui nourrissent l’extrême droite",
+      "content_html": "Ulrich Siegmund, le candidat de l'AfD vainqueur des élections en Saxe-Anhalt, ce lundi à Berlin parmi les codirigeants du parti ultra, Alice Weidel et Tino Chrupalla.",
+      "date_published": "2026-09-08T03:30:01+00:00",
+      "authors": [
+        {
+          "name": "Pilar Mera"
+        }
+      ],
+      "tags": [
+        "Opinión",
+        "Europa",
+        "Europa occidental",
+        "Alemania",
+        "AFD",
+        "Extrema derecha",
+        "Ultraderecha",
+        "Partidos ultraderecha",
+        "Elecciones Alemania",
+        "PP",
+        "Vox",
+        "Rafael Hernando",
+        "Inmigración",
+        "Inmigración irregular",
+        "Migración",
+        "Migrantes",
+        "Racismo",
+        "Xenofobia",
+        "Partidos conservadores",
+        "Socialdemocracia",
+        "Inmigración irregular España",
+        "Recortes sociales"
+      ],
+      "source": {
+        "name": "Internacional en EL PAÍS",
+        "url": "https://elpais.com"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "e3c0f7679664528317d712d3b6aef911b78e4de0cf3b4894e255ac0f89194d7c",
+      "url": "https://www.ukrinform.net/rubric-ato/4161835-russia-strikes-kyiv-with-missiles-and-drones-damaging-residential-buildings-injuring-six.html",
+      "title": "Russia strikes Kyiv with missiles and drones, damaging residential buildings, injuring six",
+      "content_html": "Explosions were heard in Kyiv overnight as Russian forces launched a combined missile-and-drone attack on the capital, injuring at least six people.",
+      "date_published": "2026-09-08T03:18:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "288edddb9967cbb16f064df5e018d8f3eeee0d0436f478947d64fa9fdcd6b346",
+      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+      "content_html": "US envoy says &#039;encouraged&#039; by talks as White House official told Reuters next steps to be announced in coming weeks.",
+      "date_published": "2026-09-08T03:08:28+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c5d1aaa8f75fe812bd08623418687adaadc586a77a7c2dc675533b732d414446",
+      "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+      "content_html": "Bid to take the capital comes as clashes between Yemeni forces and Houthis intensify in the provinces of al-Bayda and al-Jawf.",
+      "date_published": "2026-09-08T03:01:38+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "641e43942f2c8e734236f9bdd5403c6841b18234e4be8e6bf632a256494ee985",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/09/08/en-cisjordanie-occupee-les-tensions-s-aggravent-a-l-approche-des-elections-generales-israeliennes_6768031_5463015.html",
+      "title": "En Cisjordanie occupée, les tensions s’aggravent à l’approche des élections générales israéliennes",
+      "content_html": "Depuis octobre 2025, les violences s’intensifient en Cisjordanie. Les colons israéliens usent de tous les moyens pour récupérer les terres de ce territoire palestinien. Dans ce podcast, Luc Bronner, correspondant à Jérusalem pour « Le Monde », décrit ces tensions qui agitent la région avant les élections générales en Israël, le 27 octobre.",
+      "date_published": "2026-09-08T03:00:10+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "International : Toute l’actualité sur Le Monde.fr.",
+        "url": "https://www.lemonde.fr/international/rss_full.xml"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3a4c7bfa1d808d96c63416325652215f7e7b729ea088407a77b2cbd0eb837e80",
+      "url": "https://ici.radio-canada.ca/info/en-direct/1014292/elections-quebec-jour-12-campagne",
+      "title": "Les chefs d'opposition réagissent à la réunion avec Fréchette",
+      "content_html": "<p>Charles Milliard s&#x27;est dit «&nbsp;pas du tout rassuré&nbsp;» après sa rencontre avec Christine Fréchette sur les tarifs.</p>",
+      "date_published": "2026-09-08T02:27:22+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1ae81db36598aa06e8c2a0e4c8fc464f7553950e8dda19d438f983cff0e7ffda",
+      "url": "https://www.ukrinform.net/rubric-polytics/4161717-lithuania-expels-22-belarusian-nationals-on-national-security-grounds.html",
+      "title": "Lithuania expels 22 Belarusian nationals on national security grounds",
+      "content_html": "Lithuania's State Security Department (VSD) said on Monday, September 7, that 22 Belarusian nationals who worked for a technology company in Lithuania had been deemed a threat to national security and expelled from the country.",
+      "date_published": "2026-09-08T02:27:00+00:00",
+      "authors": [],
+      "tags": [
+        "Politics"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "64decde9a94735adb6851dd7267ed0d1cb92f5eff8d8f0b03580015ce989f92c",
+      "url": "https://www.france24.com/en/americas/20260908-trump-ban-canadian-bombardier-jets-us-market",
+      "title": "Trump threatens to ban Canadian Bombardier jets from US market",
+      "content_html": "US President Donald Trump threatened on Monday to block sales of Canadian planemaker Bombardier in the United States unless it builds aircraft in the country, escalating trade tensions on the eve of Canadian retaliatory tariffs. Trump accused Canada of “unjust and unfair” trade practices but did not explain how a ban would work.",
+      "date_published": "2026-09-08T02:24:03+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Americas"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "60bdf81fdfb5203850e8555b11913593602a3d69f8bd745494f6bb5c91e38af6",
+      "url": "https://www.ukrinform.net/rubric-economy/4161795-ukraines-international-reserves-fell-by-5-in-august.html",
+      "title": "Ukraine’s international reserves fell by 5% in August",
+      "content_html": "Ukraine’s international reserves fell by 5.0% in August 2026, down to $48.66 billion as of September 1",
+      "date_published": "2026-09-08T02:20:00+00:00",
+      "authors": [],
+      "tags": [
+        "Economy"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1de2843ea2181a88c473fefc723c28e503e6f809502f3c391158bb2e15801f1d",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
+      "title": "Eiffel Tower closed in row over women removed for Hindu group",
+      "content_html": "The Eiffel Tower was shut on Monday after staff protested over women being ‘sidelined’ during a Hindu group’s visit.",
+      "date_published": "2026-09-08T02:17:10+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "cb1cdb84999befe4c45b2352d2e2c010bf5ba1930a002b2906970a1d5835005a",
+      "url": "https://www.aljazeera.com/news/2026/9/8/what-does-mondlanes-trial-mean-for-mozambique?traffic_source=rss",
+      "title": "What does Mondlane’s trial mean for Mozambique?",
+      "content_html": "The opposition politician faces five charges over protests that followed the disputed 2024 election.",
+      "date_published": "2026-09-08T02:11:40+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "855ebefac011559db9b9206519d2116651b48584cc86d00ee6062d3b4624fc39",
+      "url": "https://ici.radio-canada.ca/nouvelle/2281440/tarifs-douaniers-caq-appels-offres-entreprises-frechette-trump",
+      "title": "Tarifs douaniers : Québec va réserver certains appels d’offres pour les entreprises d’ici",
+      "content_html": "<p>Les entreprises québécoises et canadiennes seront priorisées dans certains contrats publics.</p>",
+      "date_published": "2026-09-08T02:09:33+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "cc776d623166126663c65c8644134ca42baa56cd4bdcc865966b8d344aab892b",
+      "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
+      "title": "La Russie reprend ses frappes sur Kiev après trois jours de trêve",
+      "content_html": "<p>Les émissaires américains Steve Witkoff et Jared Kushner étaient à Moscou et à Kiev pendant le week-end.</p>",
+      "date_published": "2026-09-08T02:08:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "9ae21deaee9e261b12d17af8c5db87bd23494ac56d5a8d71b86b0933588df7d7",
+      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+      "content_html": "<p>Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024</p><p>The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.</p><p>Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico\">Continue reading...</a>",
+      "date_published": "2026-09-08T02:00:24+00:00",
+      "authors": [
+        {
+          "name": "Agence France-Presse in Ensenada"
+        }
+      ],
+      "tags": [
+        "Mexico",
+        "Australia news",
+        "Western Australia",
+        "Americas",
+        "World news"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c216aa8a2eec65ee9104c8b2a152ef18fa4dbc37d5190bbe5553d1c3b5d732ec",
+      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+      "title": "Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+      "content_html": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. Kyiv's city military administration said at least two people were killed and seven wounded. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s envoys Steve Witkoff and Jared Kushner, who were holding talks aimed at ending the war. Follow our liveblog for the latest updates.",
+      "date_published": "2026-09-08T02:00:01+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - International breaking news, top stories and headlines",
+        "url": "https://www.france24.com/en/"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c1ea2d7083ba7304b0aa49897008bfb7acd8e73530d564249c6a58ed7fc1ce22",
+      "url": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
+      "title": "EU pledges more than $200m to Greenland amid Trump annexation threats",
+      "content_html": "Brussels has proposed doubling direct EU aid to Greenland under the bloc&#039;s next budget as military exercises kick off.",
+      "date_published": "2026-09-08T01:52:45+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "85b3627004349f854cec7aad85bdca5a8076f9714f8d646ce408d230f2c304a7",
+      "url": "https://ici.radio-canada.ca/nouvelle/2281355/trump-interdiction-vente-bombardier-usa",
+      "title": "Trump veut empêcher Bombardier de faire affaire aux États-Unis",
+      "content_html": "<p>Dans une nouvelle fronde contre le Canada, le président veut bannir la vente d&#x27;appareils Bombardier aux É.-U.</p>",
+      "date_published": "2026-09-08T01:52:04+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "Radio-Canada | Info | A-la-une",
+        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dba287c911a4f204528eb97369464d6f39e31017ea2913cd3562791d8cb1ada6",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "content_html": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+      "date_published": "2026-09-08T01:50:55+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "1334289d48169bf0eec1931994f9eb763c994848e3416c2b641e92bd929c5202",
+      "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+      "content_html": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
+      "date_published": "2026-09-08T01:50:37+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6421d388a3c2e2ad80636061c9d55c2bf97c4b14d13d375c74e368de620b55a5",
+      "url": "https://www.ukrinform.net/rubric-society/4161797-ukrinform-to-present-victory-commanders-at-lviv-book-forum.html",
+      "title": "Ukrinform to present Victory Commanders at Lviv Book Forum",
+      "content_html": "Ukraine’s national news agency, Ukrinform, will present its book Victory Commanders in Lviv on September 10. The book is based on the agency’s same-name multimedia journalism project of the same name.",
+      "date_published": "2026-09-08T01:40:00+00:00",
+      "authors": [],
+      "tags": [
+        "Society and Culture"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "23d5e68a01a76f77f0dc07f75d1688d258d19cad1bc54f10813cce38854f805e",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "content_html": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "date_published": "2026-09-08T01:32:56+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bc28aef21b4a22bd30623b797fb8184ea13a96b37996f845e35ad60413965117",
+      "url": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+      "title": "En direct : la Russie reprend ses frappes meurtrières sur Kiev après trois jours de trêve",
+      "content_html": "De fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l'AFP, alors qu'a expiré dans la nuit une suspension de trois jours des frappes russes sur la capitale ukrainienne. Elles ont fait au moins deux morts et sept blessés dans la nuit de lundi à mardi, selon les autorités militaires locales. Suivez notre direct.",
+      "date_published": "2026-09-08T01:27:32+00:00",
+      "authors": [
+        {
+          "name": "FRANCE 24"
+        }
+      ],
+      "tags": [
+        "Europe"
+      ],
+      "source": {
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "037301777c041c3cdfafdc7be6d20a56ef148d69f9de25b0ccf08a6f3c62c294",
+      "url": "https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss",
+      "title": "Panama Canal may cut ship traffic further as El Niño strengthens",
+      "content_html": "Canal authorities may further reduce ship traffic if a strengthening El Niño worsens the country&#039;s drought.",
+      "date_published": "2026-09-08T01:16:10+00:00",
+      "authors": [],
+      "tags": [
+        "News"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9ba6ea54020a838339b35a8d5ce1a4f7faa220a1505b235c9891367916d059cb",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "content_html": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "date_published": "2026-09-08T01:07:47+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b0cb487569ba5b8413a7af1687f9cfe7ce978c8477ae8c5b702a9bd0dbef3eb7",
+      "url": "https://www.ukrinform.net/rubric-ato/4161705-hur-increases-number-of-personnel-involved-in-combat-missions-by-onethird-ivashchenko.html",
+      "title": "HUR increases number of personnel involved in combat missions by one-third – Ivashchenko",
+      "content_html": "The Ukrainian Defense Ministry's Main Intelligence Directorate (HUR) has increased by one-third the number of personnel directly involved in combat missions.",
+      "date_published": "2026-09-08T01:00:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7bf01f9d2ee0a0fd3055173495960ccf80303e6b9869bd867ae40e7e0ce75306",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flamingo-revolution-enters-100th-day-against-kushner-linked-resort?traffic_source=rss",
+      "title": "‘Flamingo Revolution’ enters 100th day against Kushner-linked resort",
+      "content_html": "Albania’s Flamingo Revolution marks 100 days of protests over a luxury resort project backed by Jared Kushner.",
+      "date_published": "2026-09-08T00:59:23+00:00",
+      "authors": [],
+      "tags": [
+        "Show Types"
+      ],
+      "source": {
+        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8407c9cbeaead7e2c332fedae1d242286b7e36c2a48cf4b609ec0b0a86c60ae9",
+      "url": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
+      "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
+      "content_html": "<p>Foreign minister Shisir Khanal tells the Guardian the world’s biggest economies need to help Nepal, which contributes less than 0.1% of global greenhouse gas emissions </p><p>Nepal is demanding $20m in climate compensation for the recent devastating floods, as a senior minister called on the world’s most polluting countries to “wake up” and accept shared responsibility for a disaster that led to the death or disappearance of more than 6,000 people.</p><p>Scientists believe the climate crisis <a href=\"https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet\">had a role to play in the floods</a>, which were triggered when a melting glacier partially collapsed and set off a deadly landslide and flash flooding through Chinese-controlled Tibet and Nepal in late August. So far, more than 1,300 are confirmed dead and more than 5,500 still missing, with hopes of their survival diminished <a href=\"https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster\">after 12 days of rescue operations</a>.</p> <a href=\"https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation\">Continue reading...</a>",
+      "date_published": "2026-09-08T00:58:09+00:00",
+      "authors": [
+        {
+          "name": "Hannah Ellis-Petersen in Kathmandu"
+        }
+      ],
+      "tags": [
+        "Nepal-Tibet flood disaster",
+        "Tibet",
+        "Nepal",
+        "Climate crisis",
+        "Environment",
+        "Flooding",
+        "United Nations",
+        "South and central Asia"
+      ],
+      "source": {
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "dfc306a8f8c1b285d15c01029bd58b9c39f1e0acfb397e28fbf22aed9761ae8a",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "content_html": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "date_published": "2026-09-08T00:48:43+00:00",
+      "authors": [],
+      "tags": [],
+      "source": {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/world"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7e4e8bac34773aafc30292d4e63a654e20d32538007ad4ff8e2fdbf3469c5752",
+      "url": "https://www.ukrinform.net/rubric-ato/4161800-russian-forces-shell-kherson-wounding-man.html",
+      "title": "Russian forces shell Kherson, wounding man",
+      "content_html": "Russian forces shelled Kherson’s Korabelnyi district with artillery in the evening, injuring a 51-year-old man.",
+      "date_published": "2026-09-08T00:32:00+00:00",
+      "authors": [],
+      "tags": [
+        "War"
+      ],
+      "source": {
+        "name": "Latest news",
+        "url": "https://www.ukrinform.net/block-lastnews"
+      },
+      "lang": "en"
+    },
+    {
       "id": "82c20471969f539956e5e4b1695081965d8137c970de951c6896e0c6899dacb9",
       "url": "https://www.ukrinform.net/rubric-polytics/4161812-ukraine-wants-to-use-september-and-october-to-resume-negotiations-zelensky.html",
       "title": "Ukraine wants to use September and October to resume negotiations — Zelensky",
@@ -107,20 +1295,6 @@
         "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
-    },
-    {
-      "id": "cc776d623166126663c65c8644134ca42baa56cd4bdcc865966b8d344aab892b",
-      "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
-      "title": "Reprise des attaques russes sur Kiev après trois jours de pause",
-      "content_html": "<p>Les émissaires américains Steve Witkoff et Jared Kushner étaient à Moscou et à Kiev pendant le week-end.</p>",
-      "date_published": "2026-09-08T00:01:59+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
     },
     {
       "id": "b19b697a134bdaebfe43296c030a345f91cf6f2d410f85ee3a2afa6b3c6d12f1",
@@ -219,44 +1393,22 @@
       "lang": "en"
     },
     {
-      "id": "dfc306a8f8c1b285d15c01029bd58b9c39f1e0acfb397e28fbf22aed9761ae8a",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "content_html": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "date_published": "2026-09-07T23:29:12+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "485d91f122a6c7112a805da4f42a58f9f939eec175b415e549de27d5ef91491a",
-      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-      "title": "Canada’s retaliatory US tariffs set to take effect as trade dispute grows",
-      "content_html": "<p>Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods </p><p>Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">trade fight</a> with its largest trading partner as tensions between US president Donald Trump and Canadian prime minister Mark Carney intensify.</p><p>The tariffs, which take effect at 12.01am on Tuesday, will range from 15% to 50% and apply to products covering C$27.6bn in imports from the US. The measures will target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump\">Continue reading...</a>",
-      "date_published": "2026-09-07T23:20:24+00:00",
+      "id": "085533ef97549e4fed62b9860770fb56715247e44b85602fc7b7edfedfd8325d",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-france-succ%C3%A8s-de-la-fabrique-de-la-diplomatie-chez-les-jeunes",
+      "title": "France : succès de la fabrique de la diplomatie chez les jeunes",
+      "content_html": "Ce week-end, la Fabrique de la Diplomatie se tenait à Paris, à l'université Sorbonne Nouvelle. Organisé par le ministère de l’Europe et des Affaires étrangères, cet évènement proposait au public d'entrer dans les rouages de la diplomatie, rencontres d'ambassadeurs, tables rondes étaient au programme. Parmi les visiteurs, de très nombreux jeunes intéressés dès le lycée par les métiers en lien avec les relations internationales. Valentine Erba et Tarek Kai les ont rencontrés.",
+      "date_published": "2026-09-07T23:12:56+00:00",
       "authors": [
         {
-          "name": "Maya Yang"
+          "name": "FRANCE24"
         }
       ],
-      "tags": [
-        "Canada",
-        "US news",
-        "Trump tariffs",
-        "Tariffs",
-        "Americas",
-        "Business",
-        "World news"
-      ],
+      "tags": [],
       "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
+        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
+        "url": "https://www.france24.com/fr/"
       },
-      "lang": "en"
+      "lang": "fr"
     },
     {
       "id": "9bf8182ab77896a70f12691d8f66c10ea4046952b2aa38a69c4efa5a3aacbbfd",
@@ -408,7 +1560,7 @@
     {
       "id": "b8a69bb12367fe05f8750bc3606b83061a80725d056f47f8911ffc7171709fb7",
       "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
       "content_html": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
       "date_published": "2026-09-07T22:23:03+00:00",
       "authors": [],
@@ -507,29 +1659,6 @@
       "lang": "fr"
     },
     {
-      "id": "b9f3119a16109de7386a843d0f90ca09e1678cbc60354ef0cfe4e0b86ff532d8",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
-      "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
-      "content_html": "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A New South Wales Greens MP has pleaded with her federal colleagues not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars’ worth in carbon credits for creating a koala national park.</p><p>Sue Higginson, a former lawyer and forest campaigner turned NSW upper house MP, is the first member of the minor party to speak in detail about a dispute that has split the Greens and environmentalists.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park\">Continue reading...</a>",
-      "date_published": "2026-09-07T22:06:49+00:00",
-      "authors": [
-        {
-          "name": "Adam Morton Climate and environment editor"
-        }
-      ],
-      "tags": [
-        "Australian Greens",
-        "One Nation",
-        "Australian politics",
-        "Australia news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "a34f69db3d539a65cffcd3cc6b586cf0d6b39c34ceef058710a320f38bb5b597",
       "url": "https://ici.radio-canada.ca/nouvelle/2281411/la-verif-quebec-taxes-impots-duhaime-elections",
       "title": "La Vérif : les Québécois, les plus taxés d’Amérique du Nord?",
@@ -621,8 +1750,8 @@
     {
       "id": "1ad7641e3826174fbd9fe724017a7762f0ddf64266b5cd446754b1ace9d40ff2",
       "url": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
-      "title": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
-      "content_html": "Israel launched a wave of airstrikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
+      "title": "Israel intensifies south Lebanon strikes, killing 13 after weeks-long lull",
+      "content_html": "Israel launched a wave of air strikes across southern Lebanon, killing 13 people, including women and children, Lebanon’s health ministry said on Monday, marking an escalation after weeks of relative calm. Israel said it would continue targeting Iran-backed Hezbollah over alleged ceasefire violations. Hezbollah has not commented on the strikes.",
       "date_published": "2026-09-07T21:32:03+00:00",
       "authors": [
         {
@@ -871,20 +2000,6 @@
       "lang": "fr"
     },
     {
-      "id": "b958710ff2ad3edebde81302f1ee92fa12ea5c04a8be8b487c76befcbda52528",
-      "url": "https://www.lemonde.fr/international/live/2026/09/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-evoque-la-possibilite-d-une-nouvelle-session-de-negociations-trilaterales_6766818_3210.html",
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky évoque la possibilité d’une nouvelle session de négociations trilatérales",
-      "content_html": "Le président ukrainien, Volodymyr Zelensky, lors d’une réunion avec les émissaires spéciaux américains, à Kiev, en Ukraine, le 6 septembre 2026.",
-      "date_published": "2026-09-07T20:33:51+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "65cd15966d899a500f6a34e0ecfd66960329b9bf05c1ca477495652ea64b9289",
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260907-l-ex-magistrat-guin%C3%A9en-r%C3%A9cemment-r%C3%A9voqu%C3%A9-algassimou-diallo-a-%C3%A9t%C3%A9-transf%C3%A9r%C3%A9-%C3%A0-la-prison-de-macenta",
       "title": "L’ex magistrat guinéen récemment révoqué Algassimou Diallo a été transféré à la prison de Macenta",
@@ -1027,38 +2142,6 @@
       "lang": "en"
     },
     {
-      "id": "50a04fa64acda78df0447e37694fee69d7531943cb72fb148c2e8fdc97d2e032",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
-      "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
-      "content_html": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
-      "date_published": "2026-09-07T19:58:48+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6efe146b277c3a374ad28dd635a8f37c7ded5909c8570d56e39f66c9c444e4b6",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
-      "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
-      "content_html": "The far-right Alternative for Germany is just short of a majority in a regional election.",
-      "date_published": "2026-09-07T19:50:05+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "dcd36de8813676c383aa01279eb8a3163f29e41705144ad976c7ec21a68d996e",
       "url": "https://www.ukrinform.net/rubric-polytics/4161808-us-exploring-deescalation-measures-zelensky.html",
       "title": "U.S. exploring de-escalation measures — Zelensky",
@@ -1071,22 +2154,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5fea6e91f5e34542dd2fd5ef01136300500cedb3879b54f2c02a4f43ea80be28",
-      "url": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
-      "title": "UK government refuses slavery reparations as Jamaica urges king to act",
-      "content_html": "Britain expresses sorrow over slavery, but rejects financial compensation.",
-      "date_published": "2026-09-07T19:48:48+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1129,22 +2196,6 @@
       "lang": "en"
     },
     {
-      "id": "9c5a2ebd6942351455a591f18e1590ec2df28f8b98dc2ff4f5aed24823521273",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-      "content_html": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
-      "date_published": "2026-09-07T19:31:05+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8bd55b767a257e073b269c0e4c417c9d965b6a245e7b90c54ae263b85d2a81b2",
       "url": "https://www.ukrinform.net/rubric-polytics/4161806-zelensky-receives-message-from-trumps-envoys-that-russia-is-ready-for-talks.html",
       "title": "Zelensky receives message from Trump’s envoys that Russia Is “ready for talks”",
@@ -1157,22 +2208,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "f663653bdc10f9728eb18f6694db8132c42116706d2711a1c863c74803f2e853",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
-      "title": "Moment shop worker dives into traffic to save child",
-      "content_html": "A shop worker has been hailed a ‘hero’ after CCTV video showed him diving into traffic to save a child",
-      "date_published": "2026-09-07T19:27:57+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1288,22 +2323,6 @@
       "lang": "fr"
     },
     {
-      "id": "89d3c1c376e5ca81c2d3bbd0131ef3ee8c5129d86053a8c4ac11e5ad844843e2",
-      "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-      "title": "The domestic armed threat facing Iran",
-      "content_html": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
-      "date_published": "2026-09-07T19:06:22+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "5f3e2216b1ddcee8dd44c1b2c19a5368ebdbacb96b7d92549a04ed63c4a2fee5",
       "url": "https://www.ukrinform.net/rubric-society/4161799-ukrainian-and-polish-experts-complete-search-operations-in-puzhnyky-ternopil-region.html",
       "title": "Ukrainian and Polish experts complete search operations in Puzhnyky, Ternopil region",
@@ -1316,38 +2335,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "c1588a055ee2b5497e266ddb82e80837048446589c936801625f98f06466a50b",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-      "content_html": "Major-General Mohammed Ali Durgham is accused of links to 1982 Hama massacre and 2011 protest crackdown.",
-      "date_published": "2026-09-07T19:03:29+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d0fd6d53dcd71fa4f75a2147b3ab1b7f13dd8e48115f0d5d176a70890671fc56",
-      "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-      "content_html": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
-      "date_published": "2026-09-07T19:01:51+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1587,22 +2574,6 @@
       "lang": "fr"
     },
     {
-      "id": "5c982dd12cd6299a6defd4e8678093b1b919f5ac3d09f83411a8a4d13a96e22d",
-      "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-      "title": "Russia shutters German consulate as diplomatic freeze deepens",
-      "content_html": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
-      "date_published": "2026-09-07T18:27:39+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8b8ad7edcbc6245e9d8df2b9b3ce9b6c08c65653a0400e56663a2d98aaeecae4",
       "url": "https://www.liberation.fr/international/europe/allemagne-lafd-decolle-merz-degringole-20260907_6OAZPOQ4KNH57E7N4DCW37OIG4/",
       "title": "Allemagne : l’AfD décolle, Merz dégringole",
@@ -1619,22 +2590,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "745b63269c32ab68b970657f51ddfdc765cd28a03633cdcb163ea5982e95d333",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
-      "title": "Israel’s plan to split the West Bank",
-      "content_html": "Israel&#039;s E1 plan risks splitting the West Bank in two.",
-      "date_published": "2026-09-07T18:11:31+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "a73d9aa38743a78ee863e9aa8e994b3abc7ed48e0c9b445eca8a8ddc98c310f8",
@@ -1705,22 +2660,6 @@
       "lang": "en"
     },
     {
-      "id": "a318a8db94f8b35f64f48979552b6c8e37f1ce43b364be6c4998ce1c74704227",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
-      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "content_html": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "date_published": "2026-09-07T17:52:47+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "530ce7b45294d551bdd9704a88c724a3e3c0c007039fe8b950d6bf130cb1ed9b",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-s%C3%A9n%C3%A9gal-manifestation-%C3%A0-dakar-contre-la-hausse-du-co%C3%BBt-de-la-vie",
       "title": "Sénégal : manifestation à Dakar contre la hausse du coût de la vie",
@@ -1757,22 +2696,6 @@
       "lang": "fr"
     },
     {
-      "id": "0719ead6aa7bbe03bb213b9d2f2c3e5e510f45f509e3432fa257c6e94fb06ea5",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
-      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
-      "content_html": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
-      "date_published": "2026-09-07T17:50:10+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "615455a2138acb2c2ec23fbf0334835d721e1ad1785b0c44035731fab57b86f5",
       "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
       "title": "German chancellor vows to stay in office despite AfD triumph in state election",
@@ -1793,38 +2716,6 @@
       "source": {
         "name": "World news | The Guardian",
         "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6fa2dc1e6ed9c82ccfea111fa4b6513558a288aefbf832c2c2423dc91ae53666",
-      "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
-      "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
-      "content_html": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
-      "date_published": "2026-09-07T17:41:53+00:00",
-      "authors": [],
-      "tags": [
-        "Sport"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "5219d16966400bbd87f4813a36363a6f3cd5fe860485c3f8a9468e5b185616af",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
-      "title": "Nauru opens embassy in Jerusalem",
-      "content_html": "Pacific island nation Nauru has opened its embassy in Jerusalem, becoming the ninth country to do so.",
-      "date_published": "2026-09-07T17:36:05+00:00",
-      "authors": [],
-      "tags": [
-        "Show Types"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
       },
       "lang": "en"
     },
@@ -1868,22 +2759,6 @@
       "lang": "fr"
     },
     {
-      "id": "0ffac55a4fea34ea90d3b072fe1b77cf9c66d65e56db4bf7041a24f95c20149b",
-      "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
-      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-      "content_html": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
-      "date_published": "2026-09-07T17:31:04+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
-    },
-    {
       "id": "2313bd4adff97921346c64e9b0e9c0ee366a4799b10921f7bde99e8e31bdcd60",
       "url": "https://www.ukrinform.net/rubric-ato/4161780-russian-drone-hits-civilian-facility-in-kharkiv-injuring-one.html",
       "title": "Russian drone hits civilian facility in Kharkiv, injuring one",
@@ -1896,30 +2771,6 @@
       "source": {
         "name": "Latest news",
         "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "9ae21deaee9e261b12d17af8c5db87bd23494ac56d5a8d71b86b0933588df7d7",
-      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-      "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
-      "content_html": "<p>Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024</p><p>The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered.</p><p>The Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad were <a href=\"https://www.theguardian.com/world/article/2024/may/05/mexico-bodies-missing-men-police\">shot dead after being robbed in Mexico’s violence-hit Baja California</a>.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico\">Continue reading...</a>",
-      "date_published": "2026-09-07T17:29:20+00:00",
-      "authors": [
-        {
-          "name": "Agence France Press in Ensenada"
-        }
-      ],
-      "tags": [
-        "Mexico",
-        "Australia news",
-        "Western Australia",
-        "Americas",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -1940,22 +2791,6 @@
         "url": "https://www.liberation.fr"
       },
       "lang": "fr"
-    },
-    {
-      "id": "97dd4d7ef76b92d315d6e50bde325b06e90fcd29e7782eb9ba62babd4f99116a",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-      "title": "Gaza: Genocide in Real Time?",
-      "content_html": "Gaza examined through occupation, blockade, mass killing and the genocide case before the ICJ.",
-      "date_published": "2026-09-07T17:23:01+00:00",
-      "authors": [],
-      "tags": [
-        "TV Shows"
-      ],
-      "source": {
-        "name": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "url": "https://www.aljazeera.com"
-      },
-      "lang": "en"
     },
     {
       "id": "580fde5a6d6e0f9a524c98d9c35f8243d898214f5b46c5e2ca567c4490fa2115",
@@ -2010,7 +2845,7 @@
       "id": "3c3259e424ba5bfea3d4e3e12915ded290f277f9f73e518092e5f9db98e4368d",
       "url": "https://www.lemonde.fr/economie/article/2026/09/07/petrole-au-venezuela-l-equation-impossible-de-washington_6767983_3234.html",
       "title": "Pétrole : au Venezuela, l’équation impossible de Washington",
-      "content_html": "Le secrétaire américain à l’énergie, Chris Wright, et la présidente vénézuélienne par intérim, Delcy Rodriguez, au palais de Miraflores, le jour de la signature d’un accord entre la compagnie pétrolière américaine Chevron et des représentants du gouvernement, à Caracas, le 2 septembre 2026.",
+      "content_html": "Le secrétaire américain à l’énergie, Chris Wright, et la présidente vénézuélienne par intérim, Delcy Rodriguez, à Caracas, le 2 septembre 2026.",
       "date_published": "2026-09-07T17:11:59+00:00",
       "authors": [],
       "tags": [],
@@ -2085,20 +2920,6 @@
       "lang": "fr"
     },
     {
-      "id": "92c5edcf1651aa118a8e1aa31ae615663a78b101ad174a1a9986744f2df88489",
-      "url": "https://ici.radio-canada.ca/nouvelle/2281318/contre-tarifs-frechette-critique-conseil-ministre",
-      "title": "Guerre commerciale : « Je continue d’être première ministre », se défend Fréchette",
-      "content_html": "<p>La cheffe de la CAQ est critiquée de toutes parts pour avoir convié son Conseil des ministres lundi soir.</p>",
-      "date_published": "2026-09-07T17:08:37+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "Radio-Canada | Info | A-la-une",
-        "url": "https://ici.radio-canada.ca/info/rss/info/a-la-une"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "16156cd0f988d7ae0705b2a9b523fd9858e8fe15c7dcb338638da0ea6686f2d6",
       "url": "https://www.france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps",
       "title": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
@@ -2139,7 +2960,7 @@
       "url": "https://www.lemonde.fr/culture/article/2026/09/07/sommet-lumiere-emmanuel-macron-au-chevet-d-un-cinema-menace-par-les-plateformes-gratuites-et-l-ia-generative_6767980_3246.html",
       "title": "Sommet Lumière : Emmanuel Macron au chevet d’un cinéma menacé par les plateformes gratuites et l’IA générative",
       "content_html": "Le président sud-coréen Lee Jae-myung (à gauche), et le président français Emmanuel Macron, au Sommet Lumière, à Saint-Paul-de-Vence (Alpes-Martitimes), le 7 septembre 2026.",
-      "date_published": "2026-09-07T16:56:44+00:00",
+      "date_published": "2026-09-07T16:56:42+00:00",
       "authors": [],
       "tags": [],
       "source": {
@@ -2147,31 +2968,6 @@
         "url": "https://www.lemonde.fr/international/rss_full.xml"
       },
       "lang": "fr"
-    },
-    {
-      "id": "dbf2fa22956c3181875ff067fed165b278e4a3ba9173455075c6622a8fd049cc",
-      "url": "https://www.theguardian.com/politics/2026/sep/07/polanski-faces-green-rival-in-his-pursuit-of-keir-starmers-old-seat",
-      "title": "Polanski faces Green rival in his pursuit of Keir Starmer’s old seat",
-      "content_html": "<p>Hamza Chowdhury says most of his fellow Green Camden councillors back him to contest 8 October byelection</p><p></p><p>Zack Polanski is facing unexpected opposition from his own party in his attempt to fight the Holborn and St Pancras byelection for the Greens, with a local councillor saying he is also seeking the nomination, and that the seat does not need “a politician you’ll only see on a leaflet”.</p><p>The intervention by Hamza Chowdhury, a Green representative on Camden council in north London, came as the date for the byelection was confirmed for 8 October, after Keir Starmer’s formal resignation as an MP.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/07/polanski-faces-green-rival-in-his-pursuit-of-keir-starmers-old-seat\">Continue reading...</a>",
-      "date_published": "2026-09-07T16:43:09+00:00",
-      "authors": [
-        {
-          "name": "Peter Walker Senior political correspondent"
-        }
-      ],
-      "tags": [
-        "Green party",
-        "Zack Polanski",
-        "Byelections",
-        "Politics",
-        "UK news",
-        "London"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "6ab546ad1ef99fef245676819f7fe0dff46bd752ce9fdeee79962da0aa0795f3",
@@ -2293,20 +3089,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "97504b42ff5cc5f724a99ed632b900c57f06c68834b944085e2cf064070b5d4e",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "content_html": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "date_published": "2026-09-07T16:23:02+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -2714,20 +3496,6 @@
       "lang": "en"
     },
     {
-      "id": "e82726cc8aa972a6adabe710c12b63b9fbb56b0d6fec5e952ca424ce1159a1b3",
-      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-      "content_html": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
-      "date_published": "2026-09-07T15:40:47+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "3b7105b9eaa80dfd65523aa746f7e592a8dcff2780d8b578b4b38f6f2e76afaa",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-l-arm%C3%A9e-isra%C3%A9lienne-continuera-d-agir-pour-%C3%A9liminer-les-menaces-au-liban",
       "title": "L'armée israélienne continuera \"d'agir pour éliminer les menaces\" au Liban",
@@ -2764,33 +3532,6 @@
         "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
-    },
-    {
-      "id": "55cefb2ece030a239157358a47dac40e1ddb709bea602b7f2e0981f98e70bb35",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
-      "title": "No 10 condemns ‘thuggish’ far-right activists after Portsmouth unrest",
-      "content_html": "<p>Hundreds of men, some in balaclavas, try to prevent asylum seekers’ processing, two days after similar scenes in Dover</p><p>Downing Street has condemned the “thuggish and intimidating behaviour” of far-right activists <a href=\"https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival\">who blocked roads</a> in Portsmouth when a boat carrying asylum seekers arrived in the city, two days <a href=\"https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent\">after similar scenes</a> in Dover.</p><p>Hundreds of men, some dressed in black and wearing balaclavas, tried to stop the arrivals from being transported for processing until 3am, when police removed them with threats of arrest.</p> <a href=\"https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers\">Continue reading...</a>",
-      "date_published": "2026-09-07T15:34:00+00:00",
-      "authors": [
-        {
-          "name": "Peter Walker and Jessica Elgot"
-        }
-      ],
-      "tags": [
-        "Portsmouth",
-        "Tommy Robinson",
-        "Immigration and asylum",
-        "Home Office",
-        "UK news",
-        "Politics",
-        "World news",
-        "Far right"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "5b98c8d828296b74f9c50f89d88ef1845350ab4d0fba99421ac1204f7b4b7776",
@@ -2872,24 +3613,6 @@
       "lang": "fr"
     },
     {
-      "id": "933acbe68c9d198ac602c38a3e50e0559b9d0c2fa38379ed76b568907570e185",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-russie-ukraine-le-kremlin-dit-ne-pas-exclure-une-reprise-des-n%C3%A9gociations",
-      "title": "Russie-Ukraine : le Kremlin dit \"ne pas exclure\" une reprise des négociations",
-      "content_html": "Après des semaines d'absence totale d'échange entre la Russie, l'Ukraine et les Etats-Unis, dus à la guerre en Iran, les discussions ont repris, d'abord à Moscou, puis à Kiev. Le président ukrainien a indiqué, ce lundi 7 septembre, préparer la suite des négociations après la visite des envoyés de Donald Trump pour tenter de relancer le processus diplomatique visant à mettre fin à l'invasion russe de l'Ukraine.",
-      "date_published": "2026-09-07T15:24:00+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "8b9eb2ad88b6a3f36bcb4e4c2ee59906a8db0efafc09638f2ec712ad0cbd869e",
       "url": "https://www.ukrinform.net/rubric-polytics/4161743-weimar-triangle-to-continue-firmly-supporting-ukraine.html",
       "title": "Weimar Triangle to continue firmly supporting Ukraine",
@@ -2906,44 +3629,6 @@
       "lang": "en"
     },
     {
-      "id": "abdfd3b151820951619408b48d06afe72449a3bacda121197e0015353b806bc8",
-      "url": "https://www.france24.com/fr/europe/20260907-victoire-afd-saxe-anhalt-gauche-populiste-faiseuse-rois-extr%C3%AAme-droite",
-      "title": "Victoire de l’AfD en Saxe-Anhalt : la gauche populiste faiseuse de rois de l’extrême droite ?",
-      "content_html": "L’accession au pouvoir de l’AfD en Saxe-Anhalt dépend d’un tout petit parti qui a tout juste dépassé la barre des 5 % lors du scrutin de dimanche : le BSW. Généralement décrit comme d'extrême gauche, ce jeune mouvement a pourtant bien plus en commun avec l’extrême droite qu’il n’y paraît. Pour exister, il pourrait bien propulser l’Allemagne dans une nouvelle ère : celle où un parti d’extrême droite gouverne une région.",
-      "date_published": "2026-09-07T15:20:11+00:00",
-      "authors": [
-        {
-          "name": "Sébastian SEIBT"
-        }
-      ],
-      "tags": [
-        "Europe"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "73e0680353d54b36125dfb555a40fd42f694142fc402aeb98f66a92176c707f1",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-au-liban-11-morts-dans-des-frappes-isra%C3%A9liennes-sur-un-village-du-sud-du-pays",
-      "title": "Au Liban, 11 morts dans des frappes israéliennes sur un village du sud du pays",
-      "content_html": "Au Liban, 11 personnes ont été tuées dans des frappes israéliennes nocturnes, dont deux nourrissons, dans le village de Kfar Remmane. Ces frappes surviennent malgré le cessez-le-feu en cours. Le président libanais Joseph Aoun a appelé Washington à faire cesser les attaques israéliennes.",
-      "date_published": "2026-09-07T15:18:30+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c5839345a787527103420e1f86a346ecd1869aeb872fa93a48224758c8198b27",
       "url": "https://www.liberation.fr/international/europe/victoire-dulrich-siegmund-en-saxe-anhalt-les-mesures-phares-dun-gouvernement-regional-dirige-par-lafd-20260907_MZZQZ5UFRNAHBEDDV7T5LLRGVA/",
       "title": "Victoire d’Ulrich Siegmund en Saxe-Anhalt : les mesures phares d’un gouvernement régional s’il était dirigé par l’AfD",
@@ -2958,26 +3643,6 @@
       "source": {
         "name": "Libération",
         "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9f3b77cc039fd9a1ca3b95eb02d2a7d15f9043cc0dc4592e89982d994d276f39",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260907-enlev%C3%A9-colombie-soldat-l%C3%A9gion-%C3%A9trang%C3%A8re-%C3%A9chappe-ravisseurs-farc-gu%C3%A9rilla",
-      "title": "Après avoir été enlevé en Colombie, un soldat de la Légion étrangère échappe à ses ravisseurs",
-      "content_html": "Le soldat franco-colombien de la Légion étrangère française, enlevé début août alors qu'il était en permission en Colombie, s'est échappé des mains des guérilleros qui le retenaient, a annoncé lundi une source militaire. Le caporal s'est présenté aux autorités après quatre jours de marche et \"se porte bien\". Il reste sous protection contre d'éventuelles \"représailles\".",
-      "date_published": "2026-09-07T15:15:17+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Amériques"
-      ],
-      "source": {
-        "name": "France 24 - Infos, news & actualités - L'information internationale en direct",
-        "url": "https://www.france24.com/fr/"
       },
       "lang": "fr"
     },
@@ -3041,30 +3706,6 @@
       "lang": "en"
     },
     {
-      "id": "b79960b9d0dea4f3f696396b8b5acd7d21194a46b5edd6ab5379c8ff5795df55",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb",
-      "title": "Stolen Generations survivors have more health challenges than other First Nations people",
-      "content_html": "<p>Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The tens of thousands of Indigenous Australians and their descendants who were forcibly removed under government assimilation policies have far greater physical and health challenges when compared with the wider Indigenous and non-Indigenous populations, according to a new report.</p><p>The report by the Australian Institute of Health and Welfare (AIHW) was commissioned by peak advocacy body the Healing Foundation, which supports Stolen Generations survivors and their families, and builds on existing data released in 2023.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb\">Continue reading...</a>",
-      "date_published": "2026-09-07T15:01:21+00:00",
-      "authors": [
-        {
-          "name": "Sarah Collard Indigenous affairs correspondent"
-        }
-      ],
-      "tags": [
-        "Indigenous Australians",
-        "Stolen Generations",
-        "Health",
-        "Australia news",
-        "Inequality"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "ffba3209e3031bcae8eaefd33ef9186bf178cf1b4dca30c29e5734809f2fcb20",
       "url": "https://www.lemonde.fr/international/article/2026/09/07/crise-de-ceuta-la-justice-espagnole-ouvre-une-enquete-sur-l-afflux-massif-de-migrants-fin-juillet_6767957_3210.html",
       "title": "Crise de Ceuta : la justice espagnole ouvre une enquête sur l’afflux massif de migrants fin juillet",
@@ -3095,62 +3736,6 @@
       "lang": "en"
     },
     {
-      "id": "3a92d7e01ef848bb9757e2d986002fb52bf3d27c3c0b7fe27652c2acb7931a72",
-      "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
-      "title": "Record strength El Niño could mean bigger supermarket bills for Australians, experts warn",
-      "content_html": "<p>Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 months</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The most severe El Niño weather event on record threatens to push food prices higher this year, experts say, piling pressure on households already struggling with the post-pandemic spike in grocery bills and complicating the Reserve Bank’s efforts to bring inflation back under control.</p><p><a href=\"https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence\">The Bureau of Meteorology has forecast</a> El Niño will peak in late spring or summer and “reach levels above the warmest observed since reliable records began in 1950”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn\">Continue reading...</a>",
-      "date_published": "2026-09-07T15:00:24+00:00",
-      "authors": [
-        {
-          "name": "Patrick Commins Economics editor"
-        }
-      ],
-      "tags": [
-        "Australian economy",
-        "Australia weather",
-        "Climate crisis",
-        "Australia news",
-        "Environment",
-        "El Niño southern oscillation",
-        "Cost of living crisis",
-        "Retail industry",
-        "Inflation",
-        "Petrol prices"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "de3045b378a9d3002a40d92c08394b0112e7e43067b51a8e2b6b6b37cd281598",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine",
-      "title": "Grassroots Labor group urges Albanese government to chart course away from ‘American war machine’",
-      "content_html": "<p>Pressure follows revelations US military and weapons manufacturers control or have access to more than 100 bases across Australian continent</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-drag-us-unwillingly-into-war-podcast\">Why can the US access so many Australian military bases? – podcast</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The US has “led Australia into wars of aggression” for 50 years, internal party campaign group Labor Against War has argued, urging the government to chart a foreign policy independent “from the American war machine”.</p><p>The Australian government has defended the growing presence of the US military on the Australian continent, insisting the defence sites “are Australian bases under Australian control”, despite evidence the US military controls more than a dozen bases on Australian territory.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine\">Continue reading...</a>",
-      "date_published": "2026-09-07T15:00:22+00:00",
-      "authors": [
-        {
-          "name": "Ben Doherty"
-        }
-      ],
-      "tags": [
-        "Australian military",
-        "Australia news",
-        "Australian foreign policy",
-        "Penny Wong",
-        "US military",
-        "Australian politics",
-        "Labor party",
-        "Aukus"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "cc82d0868712fee8b9978962296c671a2f5b4d20cbbe8717455c437ac07c5e7d",
       "url": "https://www.france24.com/en/video/20260907-avalanche-kills-at-least-11-climbers-in-southern-russia",
       "title": "Avalanche kills at least 11 climbers in southern Russia",
@@ -3165,36 +3750,6 @@
       "source": {
         "name": "France 24 - International breaking news, top stories and headlines",
         "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "259d5a7b5a22d7e3c2b2a65c990a962778055a4857f8269fca8f9074b1e5de5b",
-      "url": "https://www.ukrinform.net/rubric-economy/4161738-nearly-80-of-residential-buildings-in-ukraine-ready-for-heating-season.html",
-      "title": "Nearly 80% of residential buildings in Ukraine ready for heating season",
-      "content_html": "Ukraine continues preparations of its housing and utilities infrastructure for the heating season, with about 80% of residential buildings already ready for winter.",
-      "date_published": "2026-09-07T15:00:00+00:00",
-      "authors": [],
-      "tags": [
-        "Economy"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "fb5be6dcff3fe9e077080518072ffc6fa51e218ee8700e0060aeded2e571d3d0",
-      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "content_html": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "date_published": "2026-09-07T14:57:16+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
       },
       "lang": "en"
     },
@@ -3286,22 +3841,6 @@
       "lang": "en"
     },
     {
-      "id": "fe9d6c12714ec0e9c847000362f2dd1b17dac64cc126858edc5d8a3e1fabe3ab",
-      "url": "https://www.ukrinform.net/rubric-ato/4161733-kyiv-to-restrict-mass-events-at-venues-without-shelters.html",
-      "title": "Kyiv to restrict mass events at venues without shelters",
-      "content_html": "Kyiv will temporarily ban all entertainment and sports and physical education events held in open areas and in facilities without shelters due to the deteriorating security situation.",
-      "date_published": "2026-09-07T14:39:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "e1c40b8d976de19b8d34f734f344079f72a7b9d491cc1f11118c66b46e7f4cfa",
       "url": "https://www.france24.com/en/video/20260907-will-afd-win-in-germany-boost-france-s-far-right",
       "title": "Will AfD win in Germany boost France's far right?",
@@ -3339,32 +3878,6 @@
       "source": {
         "name": "Internacional // elmundo",
         "url": "https://www.elmundo.es"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "dd1bfc7e8e510e6c05d49be981bef1cf9fda351d3a40e68e759f3c8fe1c828b6",
-      "url": "https://elpais.com/internacional/2026-09-07/como-el-tapiz-de-bayeux-una-joya-del-arte-medieval-suturo-las-heridas-post-brexit.html",
-      "title": "Comment la tapisserie de Bayeux, joyau de l'art médiéval, a suturé les blessures post-Brexit",
-      "content_html": "Emmanuel Macron, avec son épouse Brigitte Macron, pose devant le numéro 10 de Downing Street avec Andy Burnham et son épouse Marie-France van Heel, jeudi dernier.La visite s'inscrit dans le cadre de l'exposition sur la Tapisserie de Bayeux à Londres.",
-      "date_published": "2026-09-07T14:26:59+00:00",
-      "authors": [
-        {
-          "name": "Eva Millán"
-        }
-      ],
-      "tags": [
-        "Historia",
-        "Edad Media",
-        "Brexit",
-        "Reino Unido",
-        "Arte medieval",
-        "Emmanuel Macron",
-        "British Museum"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
       },
       "lang": "fr"
     },
@@ -3417,44 +3930,33 @@
       "lang": "fr"
     },
     {
-      "id": "30906ba515724cadf1153c6a478f935c724ab446214f1578053d1f1b6a914714",
-      "url": "https://elpais.com/internacional/2026-09-07/indonesia-mantiene-cerrados-siete-aeropuertos-por-la-ceniza-del-volcan-anak-krakatau.html",
-      "title": "L'Indonésie ferme sept aéroports à cause des cendres du volcan Anak Krakatau",
-      "content_html": "Une photographie aérienne prise par un drone montre l'expulsion de matériaux volcaniques du mont Anak Krakatau, dans la province de Lampung, en Indonésie, le 6 septembre 2026.",
-      "date_published": "2026-09-07T14:20:03+00:00",
+      "id": "39a455491d1bc1378e1f6d6d8d0b988eea25f17317bc6b96f009311dd9398b83",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+      "title": "Trump administration attacks UK plans to boost traditional media on social platforms",
+      "content_html": "<p>US embassy says Downing Street’s plan to give BBC, ITV and other established media more online visibility carries risk of ‘censorship’</p><p>The Trump administration has raised “serious concerns” over Downing Street’s plan to force YouTube and other digital platforms to hand more prominence to established broadcasters, warning the move risks “facilitating censorship”.</p><p>In a pointed intervention, the US government said the proposals to <a href=\"https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc\">boost traditional media outlets in social media algorithms</a> could “establish a template that authoritarian regimes could invoke to justify more control over online content”.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans\">Continue reading...</a>",
+      "date_published": "2026-09-07T14:20:12+00:00",
       "authors": [
         {
-          "name": "Agencias  ."
+          "name": "Michael Savage Media editor"
         }
       ],
       "tags": [
-        "Erupciones volcanes",
-        "Volcanes",
-        "Yakarta",
-        "Aviones comerciales",
-        "Aeropuertos",
-        "Indonesia",
-        "Cancelaciones transporte"
+        "Trump administration",
+        "Media",
+        "Digital media",
+        "Social media",
+        "YouTube",
+        "UK news",
+        "US news",
+        "World news",
+        "BBC",
+        "ITV plc",
+        "Technology",
+        "Television industry"
       ],
       "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "db498dad1f46fefd62a6354a5660636d9247eb579bb56a9fa62f22bc8ce79553",
-      "url": "https://www.ukrinform.net/rubric-polytics/4161724-rutte-to-take-part-in-udcg-meeting-on-sept-8.html",
-      "title": "Rutte to take part in UDCG meeting on Sept 8",
-      "content_html": "NATO Secretary General Mark Rutte will take part in a virtual meeting of the Ukraine Defense Contact Group (UDCG) on Tuesday, September 8.",
-      "date_published": "2026-09-07T14:17:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
+        "name": "World news | The Guardian",
+        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -3586,34 +4088,6 @@
       "lang": "en"
     },
     {
-      "id": "9d30d459363e5691381aa74de9a9183fdc7dfd703b8791c491bd87ca1925335b",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/07/conflits-internationaux-proteger-les-soins-de-sante-est-une-obligation-juridique-un-imperatif-politique-et-moral_6767950_3232.html",
-      "title": "Conflits internationaux : « Protéger les soins de santé est une obligation juridique, un impératif politique et moral »",
-      "content_html": "Dix ans après l’adoption de la résolution 2286 de l’ONU, les attaques contre les structures et les personnels médicaux se multiplient, alertent Jean-François Corty et Léa Gauthier, de Médecins du monde, dans une tribune au « Monde ». Face à cette situation, ils estiment que la France ne peut rester spectatrice.",
-      "date_published": "2026-09-07T14:00:10+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "cd3b5b0a9673f5206476e1db48046f18ad4a57752c113f0c08cb30a9b1e6cd06",
-      "url": "https://www.lemonde.fr/sport/article/2026/09/07/pour-se-qualifier-a-la-can-2027-de-nombreuses-selections-africaines-contraintes-de-jouer-a-l-etranger-faute-de-stades-homologues_6767949_3242.html",
-      "title": "Pour se qualifier à la CAN 2027, de nombreuses sélections africaines contraintes de jouer à l’étranger faute de stades homologués",
-      "content_html": "Stade Mohammed-V, à Casablanca (Maroc), le 17 janvier 2026.",
-      "date_published": "2026-09-07T14:00:07+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "7401caf95b2ed51d17a04e140e8ef40326f4f1789f5f03c0515f35ef637c6c5c",
       "url": "https://www.liberation.fr/international/asie-pacifique/apres-les-crues-au-nepal-la-difficile-reconnaissance-des-corps-nous-nimaginions-pas-un-instant-ne-recevoir-que-des-cadavres-20260907_EC3A5MRTLVBJJLCFDQQJFDINBA/",
       "title": "Après les crues au Népal, la difficile reconnaissance des corps : «Nous n’imaginions pas un instant ne recevoir que des cadavres»",
@@ -3646,36 +4120,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "ef861452dd2a14e4cc4d59a6fd3939a47bd54fa11ab221e87c1de439bbfa98e8",
-      "url": "https://www.ukrinform.net/rubric-polytics/4161714-prosecutor-general-kravchenko-says-not-planning-to-resign.html",
-      "title": "Prosecutor General Kravchenko says not planning to resign",
-      "content_html": "Ukraine's Prosecutor General Ruslan Kravchenko has said he has no plans to resign, but is prepared to leave office if the Verkhovna Rada makes such a decision.",
-      "date_published": "2026-09-07T13:54:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "089403010b42700751039b27f1254cff19a8299b9b340c725243c7b57fe6606c",
-      "url": "https://www.lemonde.fr/international/live/2026/09/07/en-direct-elections-regionales-en-allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-le-spd-reproche-au-chancelier-une-rhetorique-nefaste-qui-a-cree-de-l-inquietude-et-de-la-mefiance_6767342_3210.html",
-      "title": "EN DIRECT, élections régionales en Allemagne : après la victoire de l’AfD en Saxe-Anhalt, des associations appellent à manifester contre la montée de l’extrême droite",
-      "content_html": "Lors d’un rassemblement contre l’AfD devant la porte de Brandebourg, à Berlin, le 7 septembre 2026. Sur l’affichette : « Si(e)gmund, retourne chez Freud », en référence à Ulrich Siegmund, tête de liste du parti d’extrême droite en Saxe-Anhalt.",
-      "date_published": "2026-09-07T13:53:35+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "117bccf8264113bc2a6ed44e4c8d06e96609c85dcd8195284ef31e0d2cd93adf",
@@ -3725,20 +4169,6 @@
         "url": "https://www.france24.com/en/"
       },
       "lang": "en"
-    },
-    {
-      "id": "a3fbd7d82addfcb8d3af6aa329387bde29fe58e989d5c86bef415575bc9f9841",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/07/l-aide-de-la-france-a-l-ukraine-dont-le-rn-veut-couper-le-robinet-represente-un-goutte-d-eau-dans-les-finances-publiques-francaises_6767948_4355770.html",
-      "title": "L’aide de la France à l’Ukraine, dont le RN veut « couper le robinet », représente une goutte d’eau dans les finances publiques françaises",
-      "content_html": "Louis Aliot, vice-président du Rassemblement national, et Marine Le Pen, candidate à la présidentielle du parti, le 13 novembre 2024 au Palais de justice, à Paris.",
-      "date_published": "2026-09-07T13:44:38+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
     },
     {
       "id": "409f6a3393be6b10bce306e535e20f9c0dfb282fc14e1382fa927061772b02cb",
@@ -3807,22 +4237,6 @@
       "lang": "en"
     },
     {
-      "id": "94e440711cacd1f1c9ab86584112e2100cec0ed77019fffcbc4de913429d6d97",
-      "url": "https://www.ukrinform.net/rubric-ato/4161692-ukraines-military-intelligence-strikes-russian-aircraft-in-crimea.html",
-      "title": "Ukraine's military intelligence strikes Russian aircraft in Crimea",
-      "content_html": "Operators of the Active Operations Department of the Ukrainian Defense Ministry's Main Intelligence Directorate (HUR) struck a Russian aircraft in temporarily occupied Crimea overnight.",
-      "date_published": "2026-09-07T13:29:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "f70c5a781832d24f1a85663c588d4131a9e250204c242cca29b20fa7407bbce9",
       "url": "https://www.liberation.fr/international/amerique/etats-unis-quand-donald-trump-fantasme-un-uniforme-inspire-des-nazis-pour-sa-space-force-20260907_JRJX4TK25VHXPDN37FO2WKIEZA/",
       "title": "Etats-Unis : quand Donald Trump fantasme un uniforme inspiré des nazis pour sa «Space Force»",
@@ -3841,126 +4255,6 @@
       "lang": "fr"
     },
     {
-      "id": "f965a3d7a8650684e662e192352787fbaadd35eca9efe45ac73b4b840df210b7",
-      "url": "https://www.france24.com/en/video/20260907-two-children-among-dead-in-israeli-strikes-on-lebanon",
-      "title": "Two children among dead in Israeli strikes on Lebanon",
-      "content_html": "Israeli airstrikes overnight killed 11 people in a south Lebanon village, including two infants, Lebanese state media said Monday, a day after separate raids left seven dead. France 24's Renée Davis in Beirut has the latest.",
-      "date_published": "2026-09-07T13:20:18+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "65fe6bdf1087e82c71c25e94af09cc9a56b634cf9b7d418c67581c11a8491fac",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/07/en-france-le-choc-de-la-victoire-de-l-extreme-droite-allemande-en-saxe-anhalt-a-l-approche-de-l-election-presidentielle_6767945_823448.html",
-      "title": "La victoire de l’AfD en Saxe-Anhalt provoque un choc en France, à l’approche de l’élection présidentielle",
-      "content_html": "Les coprésidents du parti d’extrême droite Alternative pour l’Allemagne (AfD), Alice Weidel et Tino Chrupalla, ainsi que la tête de liste du parti en Saxe-Anhalt, Ulrich Siegmund (de dos), après une conférence de presse à Berlin, au lendemain des élections régionales dans ce Land, le 7 septembre 2026.",
-      "date_published": "2026-09-07T13:18:25+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "International : Toute l’actualité sur Le Monde.fr.",
-        "url": "https://www.lemonde.fr/international/rss_full.xml"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e9c143d9e9208712b1780295233b3d40dcbb01f8e53413b1264d0501918504fa",
-      "url": "https://www.ukrinform.net/rubric-ato/4161690-russian-drones-strike-enterprise-in-pryluky-woman-injured.html",
-      "title": "Russian drones strike enterprise in Pryluky, woman injured",
-      "content_html": "Russian forces struck an enterprise in Pryluky, Chernihiv region, with drones on September 7, sparking a fire and injuring a local woman.",
-      "date_published": "2026-09-07T13:08:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "d1b73eeb311bc617985737f050955858e0766d49c61246ec350d15d83487fcfb",
-      "url": "https://www.france24.com/en/video/20260907-replay-shocked-merz-speaks-after-far-right-election-victory",
-      "title": "REPLAY: 'Shocked' Merz speaks after far-right election victory",
-      "content_html": "German Chancellor Friedrich Merz said Monday he was \"deeply shocked\" after his centre-right party suffered a heavy loss in a state poll to the far-right AfD, but vowed to push on with reforms. Watch his press conference in full above.",
-      "date_published": "2026-09-07T13:04:47+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "59ee81af3ba93c9c703eba78f1add89d2ca06f6ce1023af49cde32da7cb4f08c",
-      "url": "https://www.france24.com/en/video/20260907-idiots-and-traitors-world-reacts-to-afd-s-election-victory",
-      "title": "‘Idiots and traitors’: World reacts to AfD’s election victory",
-      "content_html": "The Alternative for Germany (AfD) surged into first place in state elections in Saxony-Anhalt on Sunday. The result puts a far-right party within reach of power at the state level for the first time in the country since World War II. The outcome has European capitals taking notice, particularly in France where the campaign for next year's presidential elections has gotten underway.",
-      "date_published": "2026-09-07T13:02:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE24"
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "bf0ebb6f21381a48de22909a2392cf6d97f2dcd35988c761740930d0f824e492",
-      "url": "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence",
-      "title": "UN rapporteur says Israeli rubble-clearing in Gaza could erase 'atrocity crimes' evidence",
-      "content_html": "The United Nations Special Rapporteur Francesca Albanese warned on Monday that the large-scale rubble removal in parts of Gaza under Israeli control could risk erasing \"evidence relevant to the investigation of alleged international crimes\".",
-      "date_published": "2026-09-07T12:51:23+00:00",
-      "authors": [
-        {
-          "name": "FRANCE 24"
-        }
-      ],
-      "tags": [
-        "Middle East"
-      ],
-      "source": {
-        "name": "France 24 - International breaking news, top stories and headlines",
-        "url": "https://www.france24.com/en/"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "6d9c86f9a5a604694b7206e26befbb584929a08d8b3c60c19908c66594421efc",
-      "url": "https://www.ukrinform.net/rubric-polytics/4161685-khmara-drapatyi-discuss-battlefield-situation-with-national-security-advisors-from-france-germany-uk.html",
-      "title": "Khmara, Drapatyi discuss battlefield situation with national security advisors from France, Germany, UK",
-      "content_html": "Ukrainian Defense Minister Yevhenii Khmara and Commander-in-Chief of the Ukrainian Armed Forces Mykhailo Drapatyi briefed the national security advisors of France, Germany and the United Kingdom – Emmanuel Bonne, Guenter Sautter and Jonathan Powell – on the situation on the battlefield.",
-      "date_published": "2026-09-07T12:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
       "id": "50856f36021913045db5ab6d95d3778fb805f9e5950681f1f568706c019eaab0",
       "url": "https://www.dw.com/en/threatening-letters-revive-fears-among-kashmiri-pandits/a-79144481?maca=en-rss-en-all-1573-rdf",
       "title": "Threatening letters revive fears among Kashmiri Pandits",
@@ -3973,70 +4267,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "36d2c47b6cc81a6edc2d4395c7188931f3b26ed397097a1eb64e141bc99f837a",
-      "url": "https://www.ukrinform.net/rubric-ato/4161673-kyiv-to-shorten-curfew-by-one-hour-starting-september-10.html",
-      "title": "Kyiv to shorten curfew by one hour starting September 10",
-      "content_html": "Kyiv will shorten its curfew by one hour starting September 10.",
-      "date_published": "2026-09-07T12:23:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4db9677d82d5c7f403747219d044935fe9744adc4795c930979055bbe677eefd",
-      "url": "https://www.ukrinform.net/rubric-ato/4161662-apartment-building-damaged-in-drone-attack-on-zaporizhzhia-three-injured.html",
-      "title": "Apartment building damaged in drone attack on Zaporizhzhia, three injured",
-      "content_html": "An apartment building was damaged in a drone attack on Zaporizhzhia, leaving three injured.",
-      "date_published": "2026-09-07T12:05:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "ee9a3b371f3ae71a9a3f405b6b007e92b6c186ba664cd5c2c470ff70133595b2",
-      "url": "https://www.ukrinform.net/rubric-ato/4161658-over-60-of-russians-are-against-the-war-hur-chief.html",
-      "title": "Over 60% of Russians are against the war --HUR Chief",
-      "content_html": "According to Ukrainian intelligence, more than 60% of Russians are against the war, while regional budgets are unable to finance payments for contract recruitment.",
-      "date_published": "2026-09-07T11:54:00+00:00",
-      "authors": [],
-      "tags": [
-        "War"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "4adb799298009a1f4b3fe5ecfd59d4313ffe80d5479ca4bdb8a89bd12d935dd7",
-      "url": "https://www.ukrinform.net/rubric-polytics/4161653-dombrovskis-koretsky-discuss-ukraines-financial-needs-european-commission-provides-details.html",
-      "title": "Dombrovskis, Koretskyi discuss Ukraine’s financial needs — European Commission provides details",
-      "content_html": "European Commissioner for Economy Valdis Dombrovskis held his first conversation with Ukrainian Prime Minister Sergii Koretskyi today, during which they discussed a number of financing-related issues.",
-      "date_published": "2026-09-07T11:45:00+00:00",
-      "authors": [],
-      "tags": [
-        "Politics"
-      ],
-      "source": {
-        "name": "Latest news",
-        "url": "https://www.ukrinform.net/block-lastnews"
       },
       "lang": "en"
     },
@@ -4076,27 +4306,6 @@
         "url": "https://www.elmundo.es"
       },
       "lang": "fr"
-    },
-    {
-      "id": "8329358e942b14d50cd483c2aa00dd014b3289682ace97d89cc2ea138451c976",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
-      "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
-      "content_html": "<p>Populist, far-right, anti-immigration AfD wins vote in eastern state of Saxony-Anhalt. Plus, 50 years since The Muppet Show first hit our screens</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\"><strong>Don’t already get First Thing in your inbox? Sign up here</strong></a></p></li></ul><p>Good morning. A far-right leader who has won an important state election in Germany has <a href=\"https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win\">thanked Elon Musk for his support</a>, as voices in Europe warn the result is a serious moment for the continent. No far-right party has led or formed a government in Germany since the defeat of nazism at the end of the second world war.</p><p>Ulrich Siegmund, the Alternative für Deutschland’s lead candidate, thanked Musk on X after the tech billionaire said “Well done!” in German to the AfD co-founder Alice Weidel. The populist, far-right, anti-immigration party won the vote in the eastern state of Saxony-Anhalt.</p><p><strong>Will the AfD be able to form a state government?</strong> Despite its resounding victory, the party fell just short of a majority. It was seeking an absolute majority in the state legislature to govern alone and overcome the so-called “firewall” of the mainstream parties, which refuse to work with it. The final results showed the AfD falling three seats short, with 39 lawmakers in an 83-member legislature.</p><p><strong>What has been the reaction in Washington and Moscow?</strong> Donald Trump posted a screenshot of the election projection without comment on his Truth Social site. The Russian presidential envoy Kirill Dmitriev took a screengrab of Trump’s post and praised a “historic win for the pragmatic AfD”. The AfD is pro-Kremlin, urging a stop to support for Ukraine and pushing for Ukrainians in Germany to no longer receive refugee status.</p><p><strong>Who else has been saying Trump’s war may not achieve its aims?</strong> The US energy secretary, Chris Wright, said on Sunday morning <a href=\"https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright\">Washington might not be able to reach an agreement with Tehran</a> that would prevent Iran from having nuclear weapons. “We are strangling their economy to try to bring either a change in policy from the existing regime or a new regime,” he said.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia\">Continue reading...</a>",
-      "date_published": "2026-09-07T11:20:53+00:00",
-      "authors": [
-        {
-          "name": "Martin Belam"
-        }
-      ],
-      "tags": [
-        "US news",
-        "World news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
     },
     {
       "id": "21920252e66f2b9a73b997cc9a204f8a5d2c698acc21dbd5c5f83761fa94a66f",
@@ -4966,77 +5175,6 @@
       "lang": "fr"
     },
     {
-      "id": "afdee7992aecd56185c123c1def51c61b2733883664b80e327171531aca42b91",
-      "url": "https://elpais.com/opinion/2026-09-07/dios-escribe-derechas-con-renglones-torcidos.html",
-      "title": "Dieu écrit des lignes droites avec des lignes courbes",
-      "content_html": "<img alt=\".\"\" width=\"1306\" /><p>Ils ressemblent à <a href=\"https://elpais.com/opinion/2026-08-15/saturno-siendo-devorado-por-sus-hijos.html\" rel=\"\" target=\"_self\" title=\"https://elpais.com/opinion/2026-08-15/saturno-siendo-devorado-por-sus-hijos.html\">une vague, un raz-de-marée.</a> États-Unis, Italie, Argentine, France, Espagne, Colombie, Salvador et bien d'autres signatures : chacun de ces pays – et d'autres – tentent de nous convaincre qu'ils forment une sorte de facha internationale et que, par conséquent, le pouvoir de chacun est multiplié par le pouvoir du d'autres, de tous ensemble.</p><p><a href=\"https://elpais.com/opinion/2026-09-07/dios-escribe-derechas-con-renglones-torcidos.html\" target=\"_blank\">Continuer la lecture</a></p>",
-      "date_published": "2026-09-07T03:30:01+00:00",
-      "authors": [
-        {
-          "name": "Martín Caparrós"
-        }
-      ],
-      "tags": [
-        "Opinión",
-        "Política",
-        "Estados Unidos",
-        "Argentina",
-        "Italia",
-        "Francia",
-        "Colombia",
-        "El Salvador",
-        "Javier Milei",
-        "Donald Trump",
-        "Giorgia Meloni",
-        "Marine Le Pen",
-        "Nayib Bukele",
-        "Abelardo de la Espriella",
-        "Ideologías",
-        "Extrema derecha",
-        "Ultraderecha",
-        "Partidos ultraderecha",
-        "España",
-        "Vox",
-        "Santiago Abascal",
-        "Democracia"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "9e7b3f4984e695eca7d5b9350d4615151832cb71fe7526476f80debcb6a2d09d",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "content_html": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "date_published": "2026-09-07T00:01:32+00:00",
-      "authors": [],
-      "tags": [],
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/world"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "69b4acd6780a434c3aadd1db7f079ea47d8e23f0a01cedeb4429095fe9d66e15",
-      "url": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf",
-      "title": "Several killed in Amazon cargo plane crash in Miami",
-      "content_html": "At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and caught fire.",
-      "date_published": "2026-09-06T23:19:00+00:00",
-      "authors": [],
-      "tags": [
-        "News"
-      ],
-      "source": {
-        "name": "Deutsche Welle",
-        "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
       "id": "6f707262644cabe892d82e6b6424031658bd2dbf2c627762181f3e288db28e13",
       "url": "https://www.elmundo.es/internacional/2026/09/07/6a9d6ebf21efa0d75d8b457b.html",
       "title": "Le fardeau de Macron projeté sur ses éventuels successeurs",
@@ -5103,32 +5241,6 @@
       "lang": "fr"
     },
     {
-      "id": "34f9e5c0444ab4107d7dfd94373bf667c9bdafabf6fd4a279876608c85b51686",
-      "url": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
-      "title": "L'extrême droite envahit la Saxe-Anhalt et choisit de gouverner pour la première fois dans un État allemand",
-      "content_html": "Le candidat du parti ultra-allemand AfD dans le Land de Saxe-Anhalt, Ulrich Siegmund, célèbre avec les dirigeants du parti d'extrême droite Alice Weidel et Tino Chrupalla le résultat des élections.",
-      "date_published": "2026-09-06T21:33:42+00:00",
-      "authors": [
-        {
-          "name": "Cristian Segura"
-        }
-      ],
-      "tags": [
-        "Alemania",
-        "AFD",
-        "Extrema derecha",
-        "Elecciones Alemania",
-        "Política",
-        "Migración",
-        "Europa"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "c13061742b50927244a9aab8e2739a6721813573c7679f593179c4e501dc5481",
       "url": "https://ici.radio-canada.ca/nouvelle/2281137/inondations-pluies-cap-breton",
       "title": "Nouvelle-Écosse : des municipalités prises par surprise par la tempête au Cap-Breton",
@@ -5157,33 +5269,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "451a8943ae73340683f42437ab5f5459868ecc21a2370acb74e9a264245cde27",
-      "url": "https://elpais.com/internacional/2026-09-06/todos-tenemos-que-levantarnos-no-tiene-ningun-sentido-resignarse.html",
-      "title": "Dans les rues d’Allemagne après la victoire de l’AfD : « Nous devons tous nous lever »",
-      "content_html": "Un manifestant tient une banderole sur laquelle on peut lire « Faisons à nouveau peur aux racistes » lors d'une manifestation contre l'AfD hier à Berlin.",
-      "date_published": "2026-09-06T21:02:23+00:00",
-      "authors": [
-        {
-          "name": "Yetlaneci Alcaraz"
-        }
-      ],
-      "tags": [
-        "Elecciones Alemania",
-        "AFD",
-        "Europa",
-        "Extrema derecha",
-        "CDU",
-        "Merz",
-        "Berlín",
-        "Alemania"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "802b3bc782a05edadf1c44cb0144748e7da72c07630ac7aa500d286f96bb477a",
@@ -6179,42 +6264,6 @@
       "lang": "fr"
     },
     {
-      "id": "fc602bd2997ae008c2a0aaee2080de043ba1cee925054c709b701e5f92606566",
-      "url": "https://elpais.com/opinion/2026-09-06/confusion-europea-volver-a-ventotene.html",
-      "title": "Confusion européenne ?Retournez à Ventotene !",
-      "content_html": "Les drapeaux de l'UE flottent à l'entrée du siège de la Commission européenne à Bruxelles avant le sommet de juin dernier.",
-      "date_published": "2026-09-06T03:30:01+00:00",
-      "authors": [
-        {
-          "name": "Xavier  Vidal-Folch"
-        }
-      ],
-      "tags": [
-        "Opinión",
-        "Europa",
-        "Unión Europea",
-        "Comisión Europea",
-        "Federalismo",
-        "Europa occidental",
-        "Estados Unidos",
-        "China",
-        "Jean Monnet",
-        "Altiero Spinelli",
-        "Tratados UE",
-        "Sandro Pertini",
-        "Fascismo",
-        "Parlamento europeo",
-        "Política exterior",
-        "Geopolítica",
-        "Italia"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
-    },
-    {
       "id": "93ed300a274d96ead96392709307024c15652bd69a700199bcb3eb36d8bc6d0a",
       "url": "https://elpais.com/internacional/2026-09-06/los-republicanos-entre-la-espada-de-trump-y-la-pared-del-descontento-de-los-votantes.html",
       "title": "Les Républicains, entre l'épée de Trump et le mur du mécontentement des électeurs",
@@ -6883,24 +6932,6 @@
       "title": "Iles Malouines : boosté par Donald Trump, Javier Milei sent «des vents favorables» pour les revendications de l’Argentine",
       "content_html": "Les prétentions du président ultralibéral sur ces îles britanniques ont été renforcées par l’annonce, il y a quelques jours, de son homologue américain qui pourrait revoir sa position de neutralité sur ce litige de souveraineté.",
       "date_published": "2026-09-05T07:37:28+00:00",
-      "authors": [
-        {
-          "name": "Libération ., AFP ."
-        }
-      ],
-      "tags": [],
-      "source": {
-        "name": "Libération",
-        "url": "https://www.liberation.fr"
-      },
-      "lang": "fr"
-    },
-    {
-      "id": "e23101e7ce3c028a3955da90f17d6bd0efda028f6c8e09b4bfaa0e95b9e18063",
-      "url": "https://www.liberation.fr/international/amerique/un-tetris-a-la-frontiere-avec-le-mexique-la-maison-blanche-met-en-ligne-des-jeux-video-sur-les-expulsions-dimmigres-20260904_NHOX5XDU5NBTNMSZ6CLR264YEA/",
-      "title": "Un Tetris à la frontière avec le Mexique ? La Maison Blanche met en ligne des jeux vidéo sur les expulsions d’immigrés",
-      "content_html": "Le site de la présidence a créé plusieurs jeux vidéo pour simuler les politiques migratoires menées par l’administration Trump. L’initiative indigne, pari gagné.",
-      "date_published": "2026-09-05T07:02:54+00:00",
       "authors": [
         {
           "name": "Libération ., AFP ."
@@ -7607,31 +7638,6 @@
       "lang": "en"
     },
     {
-      "id": "dff7e9043114edb815c533dc1df79d0df293f7eefb864318847354dc35d76b9a",
-      "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
-      "content_html": "<p>Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa</p><p>The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be.</p><p>Abraham Mofokeng joined the march, one of dozens organised nationwide by the Pan Africanist Congress (PAC), a breakaway group from the African National Congress (ANC). “The weather was very nice, the sun was out. You could not have suspected that the day would go so horribly,” said Mofokeng, who was then a 20-year-old factory worker.</p> <a href=\"https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid\">Continue reading...</a>",
-      "date_published": "2026-09-03T10:11:37+00:00",
-      "authors": [
-        {
-          "name": "Rachel Savage in Sharpeville"
-        }
-      ],
-      "tags": [
-        "South Africa",
-        "Africa",
-        "World news",
-        "Law",
-        "Race",
-        "Protest"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
-      },
-      "lang": "en"
-    },
-    {
       "id": "8aaa2194ed1215454eb2b28496766fac02f35bb89a71d701ba6d7ddacda802ba",
       "url": "https://www.themoscowtimes.com/2026/09/03/ukrainian-attacks-kill-2-in-belgorod-damage-apartments-outside-moscow-a93627",
       "title": "Ukrainian Attacks Kill 2 in Belgorod, Damage Apartments Outside Moscow",
@@ -7956,30 +7962,6 @@
       "source": {
         "name": "Deutsche Welle",
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
-      },
-      "lang": "en"
-    },
-    {
-      "id": "cb8c5c2de7f9750b4213cd70765bde58112d09040137dc7f1d7c3679f5c209a5",
-      "url": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
-      "title": "British aid worker mistakenly identified as a survivor of Nepal-Tibet disaster",
-      "content_html": "<p>More than 1,000 people confirmed dead and more than 4,000, including 36 British nationals, remain missing</p><p>A British aid worker was mistakenly identified by Nepalese authorities as a rescued survivor after returning to Kathmandu on a humanitarian aid flight.</p><p>Alastair Chambers, a 45-year-old former Gloucester councillor, said he flew to Nepal last week to distribute sleeping bags, food and essentials to communities cut off by collapsed bridges.</p> <a href=\"https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods\">Continue reading...</a>",
-      "date_published": "2026-09-01T22:58:32+00:00",
-      "authors": [
-        {
-          "name": "Angus Thomson"
-        }
-      ],
-      "tags": [
-        "Nepal-Tibet flood disaster",
-        "Nepal",
-        "South and central Asia",
-        "World news",
-        "UK news"
-      ],
-      "source": {
-        "name": "World news | The Guardian",
-        "url": "https://www.theguardian.com/world"
       },
       "lang": "en"
     },
@@ -8784,35 +8766,6 @@
         "url": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"
       },
       "lang": "en"
-    },
-    {
-      "id": "5896dcd4900b9e465445960b0cd4af34091f319ebb6e81e1234593b71668395a",
-      "url": "https://elpais.com/america/2026-08-27/la-trayectoria-y-obra-de-yayoi-kusama-en-imagenes.html",
-      "title": "La carrière et l'œuvre de Yayoi Kusama, en images",
-      "content_html": "Performance à la piscine du MOMA à New York, une séance de nu improvisée fut l'idée de Yayoi Kusama (à droite), le 24 août 1969.",
-      "date_published": "2026-08-27T05:09:37+00:00",
-      "authors": [
-        {
-          "name": "EL PAÍS ,Agencias  ."
-        }
-      ],
-      "tags": [
-        "América",
-        "Latinoamérica",
-        "Yayoi Kusama",
-        "Arte",
-        "Arte abstracto",
-        "Arte contemporáneo",
-        "Japón",
-        "Artistas",
-        "Pintura",
-        "Cultura"
-      ],
-      "source": {
-        "name": "Internacional en EL PAÍS",
-        "url": "https://elpais.com"
-      },
-      "lang": "fr"
     },
     {
       "id": "90e3fdb35f85c5ae477ed63e857fccf7e954f4ce6108745562d1be19cce1b5ae",
